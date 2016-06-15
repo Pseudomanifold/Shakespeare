@@ -7,7 +7,9 @@ inScene = False
 
 reEnteringScene = r'<SCENE (\d+)>'
 reLeavingScene  = r'</SCENE (\d+)>'
-reSpeakerStart  = r'<([A-Z]+)>'
+reSpeakerStart  = r'<([A-Z]+)>' # FIXME: This does not account for all speakers
+                                #        because it does not take any other chars
+                                #        into account.
 
 characters = set()
 edges      = set()
@@ -25,6 +27,16 @@ with open(sys.argv[1]) as f:
         elif inScene and re.match(reSpeakerStart, line):
             character = re.match(reSpeakerStart, line).group(1)
             characters.add( character )
+
+#
+# Create basic graph output
+#
+
+print("graph G\n"
+      "{\n")
+
+for index,character in enumerate(sorted(characters)):
+    print("%d [label='%s'];" % (index, character))
 
 #
 # Extract co-occurences
@@ -52,3 +64,9 @@ with open(sys.argv[1]) as f:
         elif inScene and re.match(reSpeakerStart, line):
             character = re.match(reSpeakerStart, line).group(1)
             charactersInScene.add( character )
+
+#
+# Close graph
+#
+
+print("}")
