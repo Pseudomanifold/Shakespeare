@@ -1,0 +1,245 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+	I had thought, sir, to have held my peace until
+	You had drawn oaths from him not to stay.
+	You, sir,
+	Charge him too coldly: tell him, you are sure
+	All in Bohemia's well: this satisfaction
+	The by-gone day proclaim'd: say this to him,
+	He's beat from his best ward.
+<SPEECH 2><ACT 1><SCENE 2><3%>
+	To tell he longs to see his son were strong:
+	But let him say so then, and let him go;
+	But let him swear so, and he shall not stay,
+	We'll thwack him hence with distaffs.
+	</STAGE DIR> Yet of your royal presence I'll adventure
+	The borrow of a week. When at Bohemia
+	You take my lord, I'll give him my commission
+	To let him there a month behind the gest
+	Prefix'd for's parting: yet, good deed, Leontes,
+	I love thee not a jar o' the clock behind
+	What lady she her lord. You'll stay?
+<SPEECH 3><ACT 1><SCENE 2><3%>
+	Nay, but you will?
+<SPEECH 4><ACT 1><SCENE 2><3%>
+	Verily!
+	You put me off with limber vows; but I,
+	Though you would seek to unsphere the stars with oaths,
+	Should yet say, 'Sir, no going.' Verily,
+	You shall not go: a lady's 'verily' 's
+	As potent as a lord's. Will you go yet?
+	Force me to keep you as a prisoner,
+	Not like a guest; so you shall pay your fees
+	When you depart, and save your thanks. How say you?
+	My prisoner, or my guest? by your dread 'verily,'
+	One of them you shall be.
+<SPEECH 5><ACT 1><SCENE 2><4%>
+	Not your gaoler then,
+	But your kind hostess. Come, I'll question you
+	Of my lord's tricks and yours when you were boys:
+	You were pretty lordings then.
+<SPEECH 6><ACT 1><SCENE 2><4%>
+	Was not my lord the verier wag o' the two?
+<SPEECH 7><ACT 1><SCENE 2><4%>
+	By this we gather
+	You have tripp'd since.
+<SPEECH 8><ACT 1><SCENE 2><5%>
+	Grace to boot!
+	Of this make no conclusion, lest you say
+	Your queen and I are devils; yet, go on:
+	The offences we have made you do we'll answer;
+	If you first sinn'd with us, and that with us
+	You did continue fault, and that you slipp'd not
+	With any but with us.
+<SPEECH 9><ACT 1><SCENE 2><5%>
+	He'll stay, my lord.
+<SPEECH 10><ACT 1><SCENE 2><5%>
+	Never?
+<SPEECH 11><ACT 1><SCENE 2><5%>
+	What! have I twice said well? when was't before?
+	I prithee tell me; cram's with praise, and make's
+	As fat as tame things: one good deed, dying tongueless,
+	Slaughters a thousand waiting upon that.
+	Our praises are our wages: you may ride's
+	With one soft kiss a thousand furlongs ere
+	With spur we heat an acre. But to the goal:
+	My last good deed was to entreat his stay:
+	What was my first? it has an elder sister,
+	Or I mistake you: O! would her name were Grace.
+	But once before I spoke to the purpose: when?
+	Nay, let me have't; I long.
+<SPEECH 12><ACT 1><SCENE 2><5%>
+	'Tis grace indeed.
+	Why, lo you now, I have spoke to the purpose twice:
+	The one for ever earn'd a royal husband,
+	The other for some while a friend.
+<SPEECH 13><ACT 1><SCENE 2><7%>
+	He something seems unsettled.
+<SPEECH 14><ACT 1><SCENE 2><7%>
+	You look
+	As if you held a brow of much distraction:
+	Are you mov'd, my lord?
+<SPEECH 15><ACT 1><SCENE 2><8%>
+	If you would seek us,
+	We are yours i' the garden: shall's attend you there?
+<SPEECH 16><ACT 2><SCENE 1><17%>
+	Take the boy to you: he so troubles me, 'Tis past enduring.
+<SPEECH 17><ACT 2><SCENE 1><18%>
+	What wisdom stirs amongst you? Come sir, now
+	I am for you again: pray you, sit by us,
+	And tell's a tale.
+<SPEECH 18><ACT 2><SCENE 1><18%>
+	As merry as you will.
+<SPEECH 19><ACT 2><SCENE 1><18%>
+	Let's have that, good sir.
+	Come on, sit down: come on, and do your best
+	To fright me with your sprites; you're powerful at it.
+<SPEECH 20><ACT 2><SCENE 1><18%>
+	Nay, come, sit down; then on.
+<SPEECH 21><ACT 2><SCENE 1><18%>
+	Come on then,
+	And give't me in mine ear.
+<SPEECH 22><ACT 2><SCENE 1><19%>
+	What is this? sport?
+<SPEECH 23><ACT 2><SCENE 1><19%>
+	But I'd say he had not,
+	And I'll be sworn you would believe my saying,
+	Howe'er you lean to the nayward.
+<SPEECH 24><ACT 2><SCENE 1><20%>
+	Should a villain say so,
+	The most replenish'd villain in the world,
+	He were as much more villain: you, my lord,
+	Do but mistake.
+<SPEECH 25><ACT 2><SCENE 1><20%>
+	No, by my life,
+	Privy to none of this. How will this grieve you
+	When you shall come to clearer knowledge that
+	You thus have publish'd me! Gentle my lord,
+	You scarce can right me throughly then to say
+	You did mistake.
+<SPEECH 26><ACT 2><SCENE 1><21%>
+	There's some ill planet reigns:
+	I must be patient till the heavens look
+	With an aspect more favourable. Good my lords,
+	I am not prone to weeping, as our sex
+	Commonly are; the want of which vain dew
+	Perchance shall dry your pities; but I have
+	That honourable grief lodg'd here which burns
+	Worse than tears drown. Beseech you all, my lords,
+	With thoughts so qualified as your charities
+	Shall best instruct you, measure me; and so
+	The king's will be perform'd!
+<SPEECH 27><ACT 2><SCENE 1><21%>
+	Who is't that goes with me? Beseech your highness,
+	My women may be with me; for you see
+	My plight requires it. Do not weep, good fools;
+	There is no cause: when you shall know your mistress
+	Has deserv'd prison, then abound in tears
+	As I come out: this action I now go on
+	Is for my better grace. Adieu, my lord:
+	I never wish'd to see you sorry; now
+	I trust I shall. My women, come; you have leave.
+<SPEECH 28><ACT 3><SCENE 2><35%>
+	Since what I am to say must be but that
+	Which contradicts my accusation, and
+	The testimony on my part no other
+	But what comes from myself, it shall scarce boot me
+	To say 'Not guilty:' mine integrity
+	Being counted falsehood, shall, as I express it,
+	Be so receiv'd. But thus: if powers divine
+	Behold our human actions, as they do,
+	I doubt not then but innocence shall make
+	False accusation blush, and tyranny
+	Tremble at patience. You, my lord, best know,—
+	Who least will seem to do so,—my past life
+	Hath been as continent, as chaste, as true,
+	As I am now unhappy; which is more
+	Than history can pattern, though devis'd
+	And play'd to take spectators. For behold me,
+	A fellow of the royal bed, which owe
+	A moiety of the throne, a great king's daughter,
+	The mother to a hopeful prince, here standing
+	To prate and talk for life and honour 'fore
+	Who please to come and hear. For life, I prize it.
+	As I weigh grief, which I would spare: for honour,
+	'Tis a derivative from me to mine,
+	And only that I stand for. I appeal
+	To your own conscience, sir, before Polixenes
+	Came to your court, how I was in your grace,
+	How merited to be so; since he came,
+	With what encounter so uncurrent I
+	Have strain'd, to appear thus: if one jot beyond
+	The bound of honour, or in act or will
+	That way inclining, harden'd be the hearts
+	Of all that hear me, and my near'st of kin
+	Cry fie upon my grave!
+<SPEECH 29><ACT 3><SCENE 2><36%>
+	That's true enough;
+	Though 'tis a saying, sir, not due to me.
+<SPEECH 30><ACT 3><SCENE 2><36%>
+	More than mistress of
+	Which comes to me in name of fault, I must not
+	At all acknowledge. For Polixenes,—
+	With whom I am accus'd,—I do confess
+	I lov'd him as in honour he requir'd,
+	With such a kind of love as might become
+	A lady like me; with a love even such,
+	So and no other, as yourself commanded:
+	Which not to have done I think had been in me
+	Both disobedience and ingratitude
+	To you and toward your friend, whose love had spoke,
+	Even since it could speak, from an infant, freely
+	That it was yours. Now, for conspiracy,
+	I know not how it tastes, though it be dish'd
+	For me to try how: all I know of it
+	Is that Camillo was an honest man;
+	And why he left your court, the gods themselves,
+	Wotting no more than I, are ignorant.
+<SPEECH 31><ACT 3><SCENE 2><36%>
+	Sir,
+	You speak a language that I understand not:
+	My life stands in the level of your dreams,
+	Which I'll lay down.
+<SPEECH 32><ACT 3><SCENE 2><37%>
+	Sir, spare your threats:
+	The bug which you would fright me with I seek.
+	To me can life be no commodity:
+	The crown and comfort of my life, your favour,
+	I do give lost; for I do feel it gone,
+	But know not how it went. My second joy,
+	And first-fruits of my body, from his presence
+	I am barr'd, like one infectious. My third comfort,
+	Starr'd most unluckily, is from my breast,
+	The innocent milk in its most innocent mouth,
+	Hal'd out to murder: myself on every post
+	Proclaim'd a strumpet: with immodest hatred
+	The child-bed privilege denied, which 'longs
+	To women of all fashion: lastly, hurried
+	Here to this place, i'the open air, before
+	I have got strength of limit. Now, my liege,
+	Tell me what blessings I have here alive,
+	That I should fear to die? Therefore proceed.
+	But yet hear this; mistake me not; no life,
+	I prize it not a straw:—but for mine honour,
+	Which I would free, if I shall be condemn'd
+	Upon surmises, all proofs sleeping else
+	But what your jealousies awake, I tell you
+	'Tis rigour and not law. Your honours all,
+	I do refer me to the oracle:
+	Apollo be my judge!
+<SPEECH 33><ACT 3><SCENE 2><38%>
+	The Emperor of Russia was my father:
+	O! that he were alive, and here beholding
+	His daughter's trial; that he did but see
+	The flatness of my misery; yet with eyes
+	Of pity, not revenge!
+<SPEECH 34><ACT 3><SCENE 2><38%>
+	Praised!
+<SPEECH 35><ACT 5><SCENE 3><99%>
+	You gods, look down,
+	And from your sacred vials pour your graces
+	Upon my daughter's head! Tell me, mine own,
+	Where hast thou been preserv'd? where liv'd? how found
+	Thy father's court? for thou shalt hear that I,
+	Knowing by Paulina that the oracle
+	Gave hope thou wast in being, have preserv'd
+	Myself to see the issue.

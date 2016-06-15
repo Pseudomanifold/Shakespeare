@@ -1,0 +1,195 @@
+<SPEECH 1><ACT 3><SCENE 1><35%>
+	As true as I believe you think them false
+	That give you cause to prove my saying true.
+<SPEECH 2><ACT 3><SCENE 1><35%>
+	What other harm have I, good lady, done,
+	But spoke the harm that is by others done?
+<SPEECH 3><ACT 3><SCENE 1><36%>
+	Pardon me, madam,
+	I may not go without you to the kings.
+<SPEECH 4><ACT 4><SCENE 2><63%>
+	Therefore, to be possess'd with double pomp,
+	To guard a title that was rich before,
+	To gild refined gold, to paint the lily,
+	To throw a perfume on the violet,
+	To smooth the ice, or add another hue
+	Unto the rainbow, or with taper-light
+	To seek the beauteous eye of heaven to garnish,
+	Is wasteful and ridiculous excess.
+<SPEECH 5><ACT 4><SCENE 2><64%>
+	In this the antique and well-noted face
+	Of plain old form is much disfigured;
+	And, like a shifted wind unto a sail,
+	It makes the course of thoughts to fetch about,
+	Startles and frights consideration,
+	Makes sound opinion sick and truth suspected,
+	For putting on so new a fashion'd robe.
+<SPEECH 6><ACT 4><SCENE 2><64%>
+	To this effect, before you were newcrown'd,
+	We breath'd our counsel: but it pleas'd your highness
+	To overbear it, and we are all well pleas'd;
+	Since all and every part of what we would
+	Doth make a stand at what your highness will.
+<SPEECH 7><ACT 4><SCENE 2><66%>
+	The colour of the king doth come and go
+	Between his purpose and his conscience,
+	Like heralds 'twixt two dreadful battles set:
+	His passion is so ripe it needs must break.
+<SPEECH 8><ACT 4><SCENE 2><66%>
+	Indeed we fear'd his sickness was past cure.
+<SPEECH 9><ACT 4><SCENE 2><67%>
+	It is apparent foul play; and 'tis shame
+	That greatness should so grossly offer it:
+	So thrive it in your game! and so, farewell.
+<SPEECH 10><ACT 4><SCENE 3><74%>
+	Lords, I will meet him at Saint Edmundsbury.
+	It is our safety, and we must embrace
+	This gentle offer of the perilous time.
+<SPEECH 11><ACT 4><SCENE 3><74%>
+	The Count Melun, a noble lord of France;
+	Whose private with me of the Dauphin's love,
+	Is much more general than these lines import.
+<SPEECH 12><ACT 4><SCENE 3><74%>
+	Or rather then set forward; for 'twill be
+	Two long days' journey, lords, or e'er we meet.
+<SPEECH 13><ACT 4><SCENE 3><74%>
+	The king hath dispossess'd himself of us:
+	We will not line his thin bestained cloak
+	With our pure honours, nor attend the foot
+	That leaves the print of blood where'er it walks.
+	Return and tell him so: we know the worst.
+<SPEECH 14><ACT 4><SCENE 3><75%>
+	Our griefs, and not our manners, reason now.
+<SPEECH 15><ACT 4><SCENE 3><75%>
+	This is the prison.
+	What is he lies here?
+<SPEECH 16><ACT 4><SCENE 3><75%>
+	Murder, as hating what himself hath done,
+	Doth lay it open to urge on revenge.
+<SPEECH 17><ACT 4><SCENE 3><75%>
+	Sir Richard, what think you? Have you beheld,
+	Or have you read, or heard? or could you think?
+	Or do you almost think, although you see,
+	That you do see? could thought, without this object,
+	Form such another? This is the very top,
+	The height, the crest, or crest unto the crest,
+	Of murder's arms: this is the bloodiest shame,
+	The wildest savagery, the vilest stroke,
+	That ever wall-eyed wrath or staring rage
+	Presented to the tears of soft remorse.
+<SPEECH 18><ACT 4><SCENE 3><76%>
+	If that it be the work of any hand!
+	We had a kind of light what would ensue:
+	It is the shameful work of Hubert's hand;
+	The practice and the purpose of the king:
+	From whose obedience I forbid my soul,
+	Kneeling before this ruin of sweet life,
+	And breathing to his breathless excellence
+	The incense of a vow, a holy vow,
+	Never to taste the pleasures of the world,
+	Never to be infected with delight,
+	Nor conversant with ease and idleness,
+	Till I have set a glory to this hand,
+	By giving it the worship of revenge.
+<SPEECH 19><ACT 4><SCENE 3><76%>
+	O! he is bold and blushes not at death.
+	Avaunt, thou hateful villain! get thee gone.
+<SPEECH 20><ACT 4><SCENE 3><76%>
+	</STAGE DIR> Must I rob the law?
+<SPEECH 21><ACT 4><SCENE 3><77%>
+	Not till I sheathe it in a murderer's skin.
+<SPEECH 22><ACT 4><SCENE 3><77%>
+	Thou art a murderer.
+<SPEECH 23><ACT 4><SCENE 3><77%>
+	Stand by, or I shall gall you, Faulconbridge.
+<SPEECH 24><ACT 4><SCENE 3><78%>
+	Trust not those cunning waters of his eyes,
+	For villany is not without such rheum;
+	And he, long traded in it, makes it seem
+	Like rivers of remorse and innocency.
+	Away with me, all you whose souls abhor
+	The uncleanly savours of a slaughter-house;
+	For I am stifled with this smell of sin.
+<SPEECH 25><ACT 5><SCENE 2><83%>
+	Upon our sides it never shall be broken.
+	And, noble Dauphin, albeit we swear
+	A voluntary zeal, an unurg'd faith
+	To your proceedings; yet, believe me, prince,
+	I am not glad that such a sore of time
+	Should seek a plaster by contemn'd revolt,
+	And heal the inveterate canker of one wound
+	By making many. O! it grieves my soul
+	That I must draw this metal from my side
+	To be a widow-maker! O! and there
+	Where honourable rescue and defence
+	Cries out upon the name of Salisbury.
+	But such is the infection of the time,
+	That, for the health and physic of our right,
+	We cannot deal but with the very hand
+	Of stern injustice and confused wrong.
+	And is't not pity, O my grieved friends!
+	That we, the sons and children of this isle,
+	Were born to see so sad an hour as this;
+	Wherein we step after a stranger march
+	Upon her gentle bosom, and fill up
+	Her enemies' ranks,—I must withdraw and weep
+	Upon the spot of this enforced cause,—
+	To grace the gentry of a land remote,
+	And follow unacquainted colours here?
+	What, here? O nation! that thou couldst remove;
+	That Neptune's arms, who clippeth thee about,
+	Would bear thee from the knowledge of thyself,
+	And gripple thee unto a pagan shore;
+	Where these two Christian armies might combine
+	The blood of malice in a vein of league,
+	And not to spend it so unneighbourly!
+<SPEECH 26><ACT 5><SCENE 4><90%>
+	I did not think the king so stor'd with friends.
+<SPEECH 27><ACT 5><SCENE 4><90%>
+	That misbegotten devil, Faulconbridge,
+	In spite of spite, alone upholds the day.
+<SPEECH 28><ACT 5><SCENE 4><91%>
+	When we were happy we had other names.
+<SPEECH 29><ACT 5><SCENE 4><91%>
+	Wounded to death.
+<SPEECH 30><ACT 5><SCENE 4><91%>
+	May this be possible? may this be true?
+<SPEECH 31><ACT 5><SCENE 4><92%>
+	We do believe thee: and beshrew my soul
+	But I do love the favour and the form
+	Of this most fair occasion, by the which
+	We will untread the steps of damned flight,
+	And like a bated and retired flood,
+	Leaving our rankness and irregular course,
+	Stoop low within those bounds we have o'erlook'd,
+	And calmly run on in obedience,
+	Even to our ocean, to our great King John.
+	My arm shall give thee help to bear thee hence,
+	For I do see the cruel pangs of death
+	Right in thine eye. Away, my friends! New flight;
+	And happy newness, that intends old right.
+<SPEECH 32><ACT 5><SCENE 7><96%>
+	Be of good comfort, prince; for you are born
+	To set a form upon that indigest
+	Which he hath left so shapeless and so rude.
+<SPEECH 33><ACT 5><SCENE 7><98%>
+	You breathe these dead news in as dead an ear.
+	My liege! my lord! But now a king, now thus.
+<SPEECH 34><ACT 5><SCENE 7><99%>
+	It seems you know not then so much as we.
+	The Cardinal Pandulph is within at rest,
+	Who half an hour since came from the Dauphin,
+	And brings from him such offers of our peace
+	As we with honour and respect may take,
+	With purpose presently to leave this war.
+<SPEECH 35><ACT 5><SCENE 7><99%>
+	Nay, it is in a manner done already;
+	For many carriages he hath dispatch'd
+	To the sea-side, and put his cause and quarrel
+	To the disposing of the cardinal:
+	With whom yourself, myself, and other lords,
+	If you think meet, this afternoon will post
+	To consummate this business happily.
+<SPEECH 36><ACT 5><SCENE 7><99%>
+	And the like tender of our love we make,
+	To rest without a spot for evermore.

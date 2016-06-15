@@ -1,0 +1,78 @@
+<SPEECH 1><ACT 3><SCENE 5><52%>
+	Nay, come; for if they do approach the city we shall lose all the sight.
+<SPEECH 2><ACT 3><SCENE 5><52%>
+	It is reported that he has taken their greatest commander, and that with his own hand he slew the duke's brother. We have lost our labour; they are gone a contrary way: hark! you may know by their trumpets.
+<SPEECH 3><ACT 3><SCENE 5><53%>
+	I have told my neighbour how you have been solicited by a gentleman his companion.
+<SPEECH 4><ACT 3><SCENE 5><53%>
+	I hope so. Look, here comes a pilgrim:
+	I know she will lie at my house; thither they send one another. I'll question her.
+	God save you, pilgrim! whither are you bound?
+<SPEECH 5><ACT 3><SCENE 5><53%>
+	At the Saint Francis, here beside the port.
+<SPEECH 6><ACT 3><SCENE 5><53%>
+	Ay, marry, is't. Hark you!
+	They come this way. If you will tarry, holy pilgrim,
+	But till the troops come by,
+	I will conduct you where you shall be lodg'd:
+	The rather, for I think I know your hostess
+	As ample as myself.
+<SPEECH 7><ACT 3><SCENE 5><54%>
+	If you shall please so, pilgrim.
+<SPEECH 8><ACT 3><SCENE 5><54%>
+	You came, I think, from France?
+<SPEECH 9><ACT 3><SCENE 5><54%>
+	Here you shall see a countryman of yours
+	That has done worthy service.
+<SPEECH 10><ACT 3><SCENE 5><54%>
+	Ay, right; good creature, wheresoe'er she is,
+	Her heart weighs sadly. This young maid might do her
+	A shrewd turn if she pleas'd.
+<SPEECH 11><ACT 3><SCENE 5><55%>
+	He does, indeed;
+	And brokes with all that can in such a suit
+	Corrupt the tender honour of a maid:
+	But she is arm'd for him and keeps her guard
+	In honestest defence.
+<SPEECH 12><ACT 3><SCENE 5><55%>
+	So, now they come.
+	That is Antonio, the duke's eldest son;
+	That, Escalus.
+<SPEECH 13><ACT 3><SCENE 5><55%>
+	Marry, hang you!
+<SPEECH 14><ACT 3><SCENE 5><56%>
+	The troop is past. Come, pilgrim, I will bring you
+	Where you shall host: of enjoin'd penitents
+	There's four or five, to great Saint Jaques bound,
+	Already at my house.
+<SPEECH 15><ACT 3><SCENE 7><60%>
+	Though my estate be fall'n, I was well born,
+	Nothing acquainted with these businesses;
+	And would not put my reputation now
+	In any staining act.
+<SPEECH 16><ACT 3><SCENE 7><60%>
+	I should believe you:
+	For you have show'd me that which well approves
+	You're great in fortune.
+<SPEECH 17><ACT 3><SCENE 7><61%>
+	Now I see
+	The bottom of your purpose.
+<SPEECH 18><ACT 3><SCENE 7><61%>
+	I have yielded.
+	Instruct my daughter how she shall persever,
+	That time and place with this deceit so lawful
+	May prove coherent. Every night he comes
+	With musics of all sorts and songs compos'd
+	To her unworthiness: it nothing steads us
+	To chide him from our eaves, for he persists
+	As if his life lay on't.
+<SPEECH 19><ACT 4><SCENE 4><80%>
+	Gentle madam,
+	You never had a servant to whose trust
+	Your business was more welcome.
+<SPEECH 20><ACT 5><SCENE 1><85%>
+	Lord, how we lose our pains!
+<SPEECH 21><ACT 5><SCENE 3><94%>
+	I am her mother, sir, whose age and honour
+	Both suffer under this complaint we bring,
+	And both shall cease, without your remedy.

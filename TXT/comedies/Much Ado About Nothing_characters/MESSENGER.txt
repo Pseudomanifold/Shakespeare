@@ -1,0 +1,35 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	He is very near by this: he was not three leagues off when I left him.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	But few of any sort, and none of name.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Much deserved on his part and equally remembered by Don Pedro. He hath borne himself beyond the promise of his age, doing in the figure of a lamb the feats of a lion: he hath indeed better bettered expectation than you must expect of me to tell you how.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	I have already delivered him letters, and there appears much joy in him; even so much that joy could not show itself modest enough without a badge of bitterness.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	In great measure.
+<SPEECH 6><ACT 1><SCENE 1><1%>
+	I know none of that name, lady: there was none such in the army of any sort.
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	O! he is returned, and as pleasant as ever he was.
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	He hath done good service, lady, in these wars.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	And a good soldier too, lady.
+<SPEECH 10><ACT 1><SCENE 1><2%>
+	A lord to a lord, a man to a man, stuffed with all honourable virtues.
+<SPEECH 11><ACT 1><SCENE 1><3%>
+	Is't possible?
+<SPEECH 12><ACT 1><SCENE 1><3%>
+	I see, lady, the gentleman is not in your books.
+<SPEECH 13><ACT 1><SCENE 1><3%>
+	He is most in the company of the right noble Claudio.
+<SPEECH 14><ACT 1><SCENE 1><3%>
+	I will hold friends with you, lady.
+<SPEECH 15><ACT 1><SCENE 1><3%>
+	Don Pedro is approached.
+<SPEECH 16><ACT 3><SCENE 5><62%>
+	My lord, they stay for you to give your daughter to her husband.
+<SPEECH 17><ACT 5><SCENE 4><100%>
+	My lord, your brother John is ta'en in flight,
+	And brought with armed men back to Messina.

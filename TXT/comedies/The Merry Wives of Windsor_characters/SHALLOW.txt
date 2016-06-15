@@ -1,0 +1,119 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Sir Hugh, persuade me not; I will make a Star-chamber matter of it; if he were twenty Sir John Falstaffs he shall not abuse Robert Shallow, esquire.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Ay, cousin Slender, and cust-alorum.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Ay, that I do; and have done any time these three hundred years.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	It is an old coat.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	The luce is the fresh fish; the salt fish is an old coat.
+<SPEECH 6><ACT 1><SCENE 1><1%>
+	You may, by marrying.
+<SPEECH 7><ACT 1><SCENE 1><1%>
+	Not a whit.
+<SPEECH 8><ACT 1><SCENE 1><1%>
+	The Council shall hear it; it is a riot.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	Ha! o' my life, if I were young again, the sword should end it.
+<SPEECH 10><ACT 1><SCENE 1><2%>
+	Did her grandsire leave her seven hundred pound?
+<SPEECH 11><ACT 1><SCENE 1><2%>
+	I know the young gentlewoman; she has good gifts.
+<SPEECH 12><ACT 1><SCENE 1><2%>
+	Well, let us see honest Master Page. Is Falstaff there?
+<SPEECH 13><ACT 1><SCENE 1><3%>
+	Master Page, I am glad to see you: much good do it your good heart! I wished your venison better; it was ill killed. How doth good Mistress Page?—and I thank you always with my heart, la! with my heart.
+<SPEECH 14><ACT 1><SCENE 1><3%>
+	Sir, I thank you; by yea and no, I do.
+<SPEECH 15><ACT 1><SCENE 1><3%>
+	That he will not: 'tis your fault, 'tis your fault. 'Tis a good dog.
+<SPEECH 16><ACT 1><SCENE 1><3%>
+	Sir, he's a good dog, and a fair dog; can there be more said? he is good and fair. Is Sir John Falstaff here?
+<SPEECH 17><ACT 1><SCENE 1><4%>
+	He hath wronged me, Master Page.
+<SPEECH 18><ACT 1><SCENE 1><4%>
+	If it be confessed, it is not redressed: is not that so, Master Page? He hath wronged me; indeed, he hath;—at a word, he hath,—believe me: Robert Shallow, esquire, saith, he is wronged.
+<SPEECH 19><ACT 1><SCENE 1><4%>
+	Knight, you have beaten my men, killed my deer, and broke open my lodge.
+<SPEECH 20><ACT 1><SCENE 1><4%>
+	Tut, a pin! this shall be answered.
+<SPEECH 21><ACT 1><SCENE 1><4%>
+	The Council shall know this.
+<SPEECH 22><ACT 1><SCENE 1><7%>
+	Come, coz; come, coz; we stay for you. A word with you, coz; marry, this, coz: there is, as 'twere a tender, a kind of tender, made afar off by Sir Hugh here: do you understand me?
+<SPEECH 23><ACT 1><SCENE 1><7%>
+	Nay, but understand me.
+<SPEECH 24><ACT 1><SCENE 1><7%>
+	Ay, there's the point, sir.
+<SPEECH 25><ACT 1><SCENE 1><8%>
+	Cousin Abraham Slender, can you love her?
+<SPEECH 26><ACT 1><SCENE 1><8%>
+	That you must. Will you, upon good dowry, marry her?
+<SPEECH 27><ACT 1><SCENE 1><8%>
+	Nay, conceive me, conceive me, sweet coz: what I do, is to pleasure you, coz. Can you love the maid?
+<SPEECH 28><ACT 1><SCENE 1><9%>
+	Ay, I think my cousin meant well.
+<SPEECH 29><ACT 1><SCENE 1><9%>
+	Here comes fair Mistress Anne.
+	Would I were young for your sake, Mistress Anne.
+<SPEECH 30><ACT 1><SCENE 1><9%>
+	I will wait on him, fair Mistress Anne.
+<SPEECH 31><ACT 2><SCENE 1><27%>
+	I follow, mine host, I follow. Good even and twenty, good Master Page! Master Page, will you go with us? we have sport in hand.
+<SPEECH 32><ACT 2><SCENE 1><27%>
+	Sir, there is a fray to be fought between Sir Hugh the Welsh priest and Caius the French doctor.
+<SPEECH 33><ACT 2><SCENE 1><27%>
+	</STAGE DIR> Will you go with us to behold it? My merry host hath had the measuring of their weapons, and, I think, hath appointed them contrary places; for, believe me, I hear the parson is no jester. Hark, I will tell you what our sport shall be.
+<SPEECH 34><ACT 2><SCENE 1><28%>
+	Have with you, mine host.
+<SPEECH 35><ACT 2><SCENE 1><28%>
+	Tut, sir! I could have told you more. In these times you stand on distance, your passes, stoccadoes, and I know not what: 'tis the heart, Master Page; 'tis here, 'tis here. I have seen the time with my long sword I would have made you four tall fellows skip like rats.
+<SPEECH 36><ACT 2><SCENE 3><40%>
+	Save you, Master Doctor Caius!
+<SPEECH 37><ACT 2><SCENE 3><40%>
+	He is the wiser man, Master doctor: he is a curer of souls, and you a curer of bodies; if you should fight, you go against the hair of your professions. Is it not true, Master Page?
+<SPEECH 38><ACT 2><SCENE 3><40%>
+	Bodykins, Master Page, though I now be old and of the peace, if I see a sword out, my finger itches to make one. Though we are justices and doctors and churchmen, Master Page, we have some salt of our youth in us; we are the sons of women, Master Page.
+<SPEECH 39><ACT 2><SCENE 3><41%>
+	It will be found so, Master Page. Master Doctor Caius, I am come to fetch you home. I am sworn of the peace: you have showed yourself a wise physician, and Sir Hugh hath shown himself a wise and patient churchman. You must go with me, Master doctor.
+<SPEECH 40><ACT 2><SCENE 3><41%>
+	We will do it.
+<SPEECH 41><ACT 3><SCENE 1><43%>
+	How now, Master Parson! Good morrow, good Sir Hugh. Keep a gamester from the dice, and a good student from his book, and it is wonderful.
+<SPEECH 42><ACT 3><SCENE 1><44%>
+	What, the sword and the word! do you study them both, Master Parson?
+<SPEECH 43><ACT 3><SCENE 1><44%>
+	I have lived fourscore years and upward; I never heard a man of his place, gravity, and learning, so wide of his own respect.
+<SPEECH 44><ACT 3><SCENE 1><44%>
+	It appears so, by his weapons. Keep them asunder: here comes Doctor Caius.
+<SPEECH 45><ACT 3><SCENE 1><45%>
+	So do you, good Master doctor.
+<SPEECH 46><ACT 3><SCENE 1><46%>
+	Trust me, a mad host!—Follow, gentlemen, follow.
+<SPEECH 47><ACT 3><SCENE 2><48%>
+	I must excuse myself, Master Ford.
+<SPEECH 48><ACT 3><SCENE 2><48%>
+	We have lingered about a match between Anne Page and my cousin Slender, and this day we shall have our answer.
+<SPEECH 49><ACT 3><SCENE 2><49%>
+	Well, fare you well: we shall have the freer wooing at Master Page's.
+<SPEECH 50><ACT 3><SCENE 4><59%>
+	Break their talk, Mistress Quickly: my kinsman shall speak for himself.
+<SPEECH 51><ACT 3><SCENE 4><59%>
+	Be not dismayed.
+<SPEECH 52><ACT 3><SCENE 4><59%>
+	She's coming; to her, coz. O boy, thou hadst a father!
+<SPEECH 53><ACT 3><SCENE 4><59%>
+	Mistress Anne, my cousin loves you.
+<SPEECH 54><ACT 3><SCENE 4><60%>
+	He will maintain you like a gentlewoman.
+<SPEECH 55><ACT 3><SCENE 4><60%>
+	He will make you a hundred and fifty pounds jointure.
+<SPEECH 56><ACT 3><SCENE 4><60%>
+	Marry, I thank you for it; I thank you for that good comfort. She calls you, coz: I'll leave you.
+<SPEECH 57><ACT 4><SCENE 2><74%>
+	Indeed, Master Ford, this is not well, indeed.
+<SPEECH 58><ACT 4><SCENE 2><75%>
+	By my fidelity, this is not well, Master Ford; this wrongs you.
+<SPEECH 59><ACT 5><SCENE 2><89%>
+	That's good too: but what needs either your 'mum,' or her 'budget?' the white will decipher her well enough. It hath struck ten o'clock.

@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 3><SCENE 2><39%>
+	But believe you this, my lord, that, not long ago, one of his men was with the Lord Lucullus, to borrow so many talents, nay, urged extremely for 't, and showed what necessity belonged to 't, and yet was denied.
+<SPEECH 2><ACT 3><SCENE 2><39%>
+	I tell you, denied, my lord.
+<SPEECH 3><ACT 3><SCENE 2><41%>
+	Ay, too well.

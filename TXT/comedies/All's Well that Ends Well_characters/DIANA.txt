@@ -1,0 +1,181 @@
+<SPEECH 1><ACT 3><SCENE 5><52%>
+	They say the French Count has done most honourable service.
+<SPEECH 2><ACT 3><SCENE 5><53%>
+	You shall not need to fear me.
+<SPEECH 3><ACT 3><SCENE 5><54%>
+	The Count Rousillon: know you such a one?
+<SPEECH 4><ACT 3><SCENE 5><54%>
+	Whatsoe'er he is,
+	He's bravely taken here. He stole from France,
+	As 'tis reported, for the king had married him
+	Against his liking. Think you it is so?
+<SPEECH 5><ACT 3><SCENE 5><54%>
+	There is a gentleman that serves the count
+	Reports but coarsely of her.
+<SPEECH 6><ACT 3><SCENE 5><54%>
+	Monsieur Parolles.
+<SPEECH 7><ACT 3><SCENE 5><54%>
+	Alas, poor lady!
+	'Tis a hard bondage to become the wife
+	Of a detesting lord.
+<SPEECH 8><ACT 3><SCENE 5><55%>
+	He;
+	That with the plume: 'tis a most gallant fellow;
+	I would he lov'd his wife. If he were honester,
+	He were much goodlier; is't not a handsome gentleman?
+<SPEECH 9><ACT 3><SCENE 5><55%>
+	'Tis pity he is not honest. Yond's that same knave
+	That leads him to these places: were I his lady
+	I would poison that vile rascal.
+<SPEECH 10><ACT 3><SCENE 5><55%>
+	That jack-an-apes with scarfs. Why is he melancholy?
+<SPEECH 11><ACT 4><SCENE 2><65%>
+	No, my good lord, Diana.
+<SPEECH 12><ACT 4><SCENE 2><65%>
+	She then was honest.
+<SPEECH 13><ACT 4><SCENE 2><66%>
+	No:
+	My mother did but duty; such, my lord,
+	As you owe to your wife.
+<SPEECH 14><ACT 4><SCENE 2><66%>
+	Ay, so you serve us
+	Till we serve you; but when you have our roses,
+	You barely leave our thorns to prick ourselves
+	And mock us with our bareness.
+<SPEECH 15><ACT 4><SCENE 2><66%>
+	'Tis not the many oaths that make the truth,
+	But the plain single vow that is vow'd true.
+	What is not holy, that we swear not by,
+	But take the Highest to witness: then, pray you, tell me,
+	If I should swear by God's great attributes
+	I lov'd you dearly, would you believe my oaths,
+	When I did love you ill? this has no holding,
+	To swear by him whom I protest to love,
+	That I will work against him: therefore your oaths
+	Are words and poor conditions, but unseal'd;
+	At least in my opinion.
+<SPEECH 16><ACT 4><SCENE 2><66%>
+	I see that men make ropes in such a scarr
+	That we'll forsake ourselves. Give me that ring.
+<SPEECH 17><ACT 4><SCENE 2><67%>
+	Will you not, my lord?
+<SPEECH 18><ACT 4><SCENE 2><67%>
+	Mine honour's such a ring:
+	My chastity's the jewel of our house,
+	Bequeathed down from many ancestors,
+	Which were the greatest obloquy i' the world
+	In me to lose. Thus your own proper wisdom
+	Brings in the champion honour on my part
+	Against your vain assault.
+<SPEECH 19><ACT 4><SCENE 2><67%>
+	When midnight comes, knock at my chamber-window:
+	I'll order take my mother shall not hear.
+	Now will I charge you in the band of truth,
+	When you have conquer'd my yet maiden bed,
+	Remain there but an hour, nor speak to me.
+	My reasons are most strong; and you shall know them
+	When back again this ring shall be deliver'd:
+	And on your finger in the night I'll put
+	Another ring, that what in time proceeds
+	May token to the future our past deeds.
+	Adieu, till then; then, fail not. You have won
+	A wife of me, though there my hope be done.
+<SPEECH 20><ACT 4><SCENE 2><67%>
+	For which live long to thank both heaven and me!
+	You may so in the end.
+	My mother told me just how he would woo
+	As if she sat in 's heart; she says all men
+	Have the like oaths: he had sworn to marry me
+	When his wife's dead; therefore I'll lie with him
+	When I am buried. Since Frenchmen are so braid,
+	Marry that will, I live and die a maid:
+	Only in this disguise I think't no sin
+	To cozen him that would unjustly win.
+<SPEECH 21><ACT 4><SCENE 4><80%>
+	Let death and honesty
+	Go with your impositions, I am yours
+	Upon your will to suffer.
+<SPEECH 22><ACT 5><SCENE 3><93%>
+	I am, my lord, a wretched Florentine,
+	Derived from the ancient Capilet:
+	My suit, as I do understand, you know,
+	And therefore know how far I may be pitied.
+<SPEECH 23><ACT 5><SCENE 3><94%>
+	Why do you look so strange upon your wife?
+<SPEECH 24><ACT 5><SCENE 3><94%>
+	If you shall marry,
+	You give away this hand, and that is mine;
+	You give away heaven's vows, and those are mine;
+	You give away myself, which is known mine;
+	For I by vow am so embodied yours
+	That she which marries you must marry me;
+	Either both or none.
+<SPEECH 25><ACT 5><SCENE 3><94%>
+	Good my lord,
+	Ask him upon his oath, if he does think
+	He had not my virginity.
+<SPEECH 26><ACT 5><SCENE 3><95%>
+	He does me wrong, my lord; if I were so,
+	He might have bought me at a common price:
+	Do not believe him. O! behold this ring,
+	Whose high respect and rich validity
+	Did lack a parallel; yet for all that
+	He gave it to a commoner o' the camp,
+	If I be one.
+<SPEECH 27><ACT 5><SCENE 3><95%>
+	I did, my lord, but loath am to produce
+	So bad an instrument: his name's Parolles.
+<SPEECH 28><ACT 5><SCENE 3><96%>
+	I must be patient;
+	You, that have turn'd off a first so noble wife,
+	May justly diet me. I pray you yet,—
+	Since you lack virtue I will lose a husband,—
+	Send for your ring; I will return it home,
+	And give me mine again.
+<SPEECH 29><ACT 5><SCENE 3><96%>
+	Sir, much like
+	The same upon your finger.
+<SPEECH 30><ACT 5><SCENE 3><96%>
+	And this was it I gave him, being a-bed.
+<SPEECH 31><ACT 5><SCENE 3><96%>
+	I have spoke the truth.
+<SPEECH 32><ACT 5><SCENE 3><96%>
+	Ay, my lord.
+<SPEECH 33><ACT 5><SCENE 3><97%>
+	Do you know he promised me marriage?
+<SPEECH 34><ACT 5><SCENE 3><97%>
+	Ay, my good lord.
+<SPEECH 35><ACT 5><SCENE 3><97%>
+	It was not given me, nor I did not buy it.
+<SPEECH 36><ACT 5><SCENE 3><97%>
+	It was not lent me neither.
+<SPEECH 37><ACT 5><SCENE 3><97%>
+	I found it not.
+<SPEECH 38><ACT 5><SCENE 3><98%>
+	I never gave it him.
+<SPEECH 39><ACT 5><SCENE 3><98%>
+	It might be yours or hers, for aught I know.
+<SPEECH 40><ACT 5><SCENE 3><98%>
+	I'll never tell you.
+<SPEECH 41><ACT 5><SCENE 3><98%>
+	I'll put in bail, my liege.
+<SPEECH 42><ACT 5><SCENE 3><98%>
+	By Jove, if ever I knew man, 'twas you.
+<SPEECH 43><ACT 5><SCENE 3><98%>
+	Because he's guilty, and he is not guilty.
+	He knows I am no maid, and he'll swear to't;
+	I'll swear I am a maid, and he knows not.
+	Great king, I am no strumpet, by my life;
+	I am either maid, or else this old man's wife.
+<SPEECH 44><ACT 5><SCENE 3><98%>
+	Good mother, fetch my bail. <STAGE DIR>
+	</STAGE DIR> Stay, royal sir;
+	The jeweller that owes the ring is sent for,
+	And he shall surety me. But for this lord,
+	Who hath abus'd me, as he knows himself,
+	Though yet he never harm'd me, here I quit him:
+	He knows himself my bed he hath defil'd,
+	And at that time he got his wife with child:
+	Dead though she be, she feels her young one kick:
+	So there's my riddle: one that's dead is quick;
+	And now behold the meaning.

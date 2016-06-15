@@ -1,0 +1,91 @@
+<SPEECH 1><ACT 1><SCENE 3><9%>
+	There is no composition in these news
+	That gives them credit.
+<SPEECH 2><ACT 1><SCENE 3><9%>
+	And mine, a hundred and forty.
+<SPEECH 3><ACT 1><SCENE 3><9%>
+	Nay, it is possible enough to judgment:
+	I do not so secure me in the error,
+	But the main article I do approve
+	In fearful sense.
+<SPEECH 4><ACT 1><SCENE 3><9%>
+	Now, what's the business?
+<SPEECH 5><ACT 1><SCENE 3><10%>
+	How say you by this change?
+<SPEECH 6><ACT 1><SCENE 3><10%>
+	Nay, in all confidence, he's not for Rhodes.
+<SPEECH 7><ACT 1><SCENE 3><10%>
+	'Tis certain then, for Cyprus.
+	Marcus Luccicos, is not he in town?
+<SPEECH 8><ACT 1><SCENE 3><10%>
+	Write from us to him; post-post-haste dispatch.
+<SPEECH 9><ACT 1><SCENE 3><11%>
+	Valiant Othello, we must straight employ you
+	Against the general enemy Ottoman.
+	</STAGE DIR> I did not see you; welcome, gentle signior;
+	We lack'd your counsel and your help to-night.
+<SPEECH 10><ACT 1><SCENE 3><11%>
+	Why, what's the matter?
+<SPEECH 11><ACT 1><SCENE 3><11%>
+	Dead?
+<SPEECH 12><ACT 1><SCENE 3><11%>
+	Whoe'er he be that in this foul proceeding
+	Hath thus beguil'd your daughter of herself
+	And you of her, the bloody book of law
+	You shall yourself read in the bitter letter
+	After your own sense; yea, though our proper son
+	Stood in your action.
+<SPEECH 13><ACT 1><SCENE 3><11%>
+	We are very sorry for it.
+<SPEECH 14><ACT 1><SCENE 3><11%>
+	</STAGE DIR> What, in your own part, can you say to this?
+<SPEECH 15><ACT 1><SCENE 3><12%>
+	To vouch this, is no proof,
+	Without more certain and more overt test
+	Than these thin habits and poor likelihoods
+	Of modern seeming do prefer against him.
+<SPEECH 16><ACT 1><SCENE 3><13%>
+	Fetch Desdemona hither.
+<SPEECH 17><ACT 1><SCENE 3><13%>
+	Say it, Othello.
+<SPEECH 18><ACT 1><SCENE 3><14%>
+	I think this tale would win my daughter too.
+	Good Brabantio,
+	Take up this mangled matter at the best;
+	Men do their broken weapons rather use
+	Than their bare hands.
+<SPEECH 19><ACT 1><SCENE 3><15%>
+	Let me speak like yourself and lay a sentence,
+	Which as a grize or step, may help these lovers
+	Into your favour.
+	When remedies are past, the griefs are ended
+	By seeing the worst, which late on hopes depended.
+	To mourn a mischief that is past and gone
+	Is the next way to draw new mischief on.
+	What cannot be preserv'd when Fortune takes,
+	Patience her injury a mockery makes.
+	The robb'd that smiles steals something from the thief;
+	He robs himself that spends a bootless grief.
+<SPEECH 20><ACT 1><SCENE 3><16%>
+	The Turk with a most mighty preparation makes for Cyprus. Othello, the fortitude of the place is best known to you; and though we have there a substitute of most allowed sufficiency, yet opinion, a sovereign mistress of effects, throws a more safer voice on you: you must therefore be content to slubber the gloss of your new fortunes with this more stubborn and boisterous expedition.
+<SPEECH 21><ACT 1><SCENE 3><16%>
+	If you please,
+	Be 't at her father's.
+<SPEECH 22><ACT 1><SCENE 3><16%>
+	What would you, Desdemona?
+<SPEECH 23><ACT 1><SCENE 3><17%>
+	Be it as you shall privately determine,
+	Either for her stay or going. The affair cries haste,
+	And speed must answer it.
+<SPEECH 24><ACT 1><SCENE 3><17%>
+	At nine i' the morning here we'll meet again.
+	Othello, leave some officer behind,
+	And he shall our commission bring to you;
+	With such things else of quality and respect
+	As doth import you.
+<SPEECH 25><ACT 1><SCENE 3><17%>
+	Let it be so.
+	Good night to every one. <STAGE DIR>
+	</STAGE DIR> And, noble signior,
+	If virtue no delighted beauty lack,
+	Your son-in-law is far more fair than black.

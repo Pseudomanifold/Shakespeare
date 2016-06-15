@@ -1,0 +1,186 @@
+<SPEECH 1><ACT 3><SCENE 3><41%>
+	Hail, heaven!
+<SPEECH 2><ACT 3><SCENE 3><42%>
+	What should we speak of
+	When we are old as you? when we shall hear
+	The rain and wind beat dark December, how
+	In this our pinching cave shall we discourse
+	The freezing hours away? We have seen nothing;
+	We are beastly, subtle as the fox for prey,
+	Like war-like as the wolf for what we eat;
+	Our valour is to chase what flies; our cage
+	We make a quire, as doth the prison'd bird,
+	And sing our bondage freely.
+<SPEECH 3><ACT 3><SCENE 6><56%>
+	I am weak with toil, yet strong in appetite.
+<SPEECH 4><ACT 3><SCENE 6><56%>
+	All gold and silver rather turn to dirt!
+	As 'tis no better reckon'd but of those
+	Who worship dirty gods.
+<SPEECH 5><ACT 3><SCENE 6><57%>
+	I'll make 't my comfort
+	He is a man; I'll love him as my brother;
+	And such a welcome as I'd give to him
+	After a long absence, such is yours: most welcome!
+	Be sprightly, for you fall 'mongst friends.
+<SPEECH 6><ACT 3><SCENE 6><57%>
+	Or I, whate'er it be,
+	What pain it cost, what danger. Gods!
+<SPEECH 7><ACT 3><SCENE 6><58%>
+	The night to the owl and morn to the lark less welcome.
+<SPEECH 8><ACT 3><SCENE 6><58%>
+	I pray, draw near.
+<SPEECH 9><ACT 4><SCENE 2><59%>
+	</STAGE DIR> Brother, stay here;
+	Are we not brothers?
+<SPEECH 10><ACT 4><SCENE 2><60%>
+	If it be sin to say so, sir, I yoke me
+	In my good brother's fault: I know not why
+	I love this youth; and I have heard you say,
+	Love's reason's without reason: the bier at door,
+	And a demand who is 't shall die, I'd say
+	'My father, not this youth.'
+<SPEECH 11><ACT 4><SCENE 2><60%>
+	Brother, farewell.
+<SPEECH 12><ACT 4><SCENE 2><60%>
+	You health. So please you, sir.
+<SPEECH 13><ACT 4><SCENE 2><60%>
+	Thus did he answer me; yet said hereafter
+	I might know more.
+<SPEECH 14><ACT 4><SCENE 2><61%>
+	We'll not be long away.
+<SPEECH 15><ACT 4><SCENE 2><61%>
+	How angel-like he sings!
+<SPEECH 16><ACT 4><SCENE 2><61%>
+	Nobly he yokes
+	A smiling with a sigh, as if the sigh
+	Was that it was, for not being such a smile;
+	The smile mocking the sigh, that it would fly
+	From so divine a temple, to commix
+	With winds that sailors rail at.
+<SPEECH 17><ACT 4><SCENE 2><61%>
+	Grow, patience!
+	And let the stinking-elder, grief, untwine
+	His perishing root with the increasing vine!
+<SPEECH 18><ACT 4><SCENE 2><63%>
+	None in the world. You did mistake him, sure.
+<SPEECH 19><ACT 4><SCENE 2><63%>
+	In this place we left them:
+	I wish my brother make good time with him,
+	You say he is so fell.
+<SPEECH 20><ACT 4><SCENE 2><64%>
+	Let ordinance
+	Come as the gods foresay it; howsoe'er,
+	My brother hath done well.
+<SPEECH 21><ACT 4><SCENE 2><64%>
+	Would I had done 't
+	So the revenge alone pursu'd me! Polydore,
+	I love thee brotherly, but envy much
+	Thou hast robb'd me of this deed; I would revenges,
+	That possible strength might meet, would seek us through
+	And put us to our answer.
+<SPEECH 22><ACT 4><SCENE 2><64%>
+	Poor sick Fidele!
+	I'll willingly to him; to gain his colour
+	I'd let a parish of such Clotens blood,
+	And praise myself for charity.
+<SPEECH 23><ACT 4><SCENE 2><65%>
+	The bird is dead
+	That we have made so much on. I had rather
+	Have skipp'd from sixteen years of age to sixty,
+	To have turn'd my leaping-time into a crutch,
+	Than have seen this.
+<SPEECH 24><ACT 4><SCENE 2><66%>
+	Stark, as you see:
+	Thus smiling, as some fly had tickled slumber,
+	Not as death's dart, being laugh'd at; his right cheek
+	Reposing on a cushion.
+<SPEECH 25><ACT 4><SCENE 2><66%>
+	O' the floor,
+	His arms thus leagu'd; I thought he slept, and put
+	My clouted brogues from off my feet, whose rudeness
+	Answer'd my steps too loud.
+<SPEECH 26><ACT 4><SCENE 2><66%>
+	With fairest flowers
+	While summer lasts and I live here, Fidele,
+	I'll sweeten thy sad grave; thou shalt not lack
+	The flower that's like thy face, pale primrose, nor
+	The azur'd hare-bell, like thy veins, no, nor
+	The leaf of eglantine, whom not to slander,
+	Out-sweeten'd not thy breath: the ruddock would,
+	With charitable bill,—O bill! sore-shaming
+	Those rich-left heirs, that let their fathers lie
+	Without a monument,—bring thee all this;
+	Yea, and furr'd moss besides, when flowers are none,
+	To winter-ground thy corse.
+<SPEECH 27><ACT 4><SCENE 2><66%>
+	Say, where shall 's lay him?
+<SPEECH 28><ACT 4><SCENE 2><67%>
+	Be 't so:
+	And let us, Polydore, though now our voices
+	Have got the mannish crack, sing him to the ground,
+	As once our mother; use like note and words,
+	Save that Euriphile must be Fidele.
+<SPEECH 29><ACT 4><SCENE 2><67%>
+	We'll speak it then.
+<SPEECH 30><ACT 4><SCENE 2><67%>
+	If you'll go fetch him,
+	We'll say our song the whilst. Brother, begin.
+<SPEECH 31><ACT 4><SCENE 2><67%>
+	'Tis true.
+<SPEECH 32><ACT 4><SCENE 2><67%>
+	So, begin.
+<SPEECH 33><ACT 4><SCENE 2><67%>
+	Fear no more the frown o' the great,
+	Thou art past the tyrant's stroke:
+	Care no more to clothe and eat;
+	To thee the reed is as the oak:
+	The sceptre, learning, physic, must
+	All follow this, and come to dust.
+<SPEECH 34><ACT 4><SCENE 2><68%>
+	Nor the all-dreaded thunder-stone;
+<SPEECH 35><ACT 4><SCENE 2><68%>
+	Thou hast finish'd joy and moan
+<SPEECH 36><ACT 4><SCENE 2><68%>
+	Nor no witchcraft charm thee!
+<SPEECH 37><ACT 4><SCENE 2><68%>
+	Nothing ill come near thee!
+<SPEECH 38><ACT 4><SCENE 4><73%>
+	What pleasure, sir, find we in life, to lock it
+	From action and adventure?
+<SPEECH 39><ACT 4><SCENE 4><74%>
+	It is not likely
+	That when they hear the Roman horses neigh,
+	Behold their quarter'd fires, have both their eyes
+	And ears so cloy'd importantly as now,
+	That they will waste their time upon our note,
+	To know from whence we are.
+<SPEECH 40><ACT 4><SCENE 4><74%>
+	By this sun that shines,
+	I'll thither: what thing is it that I never
+	Did see man die! scarce ever look'd on blood
+	But that of coward hares, hot goats, and venison!
+	Never bestrid a horse, save one that had
+	A rider like myself, who ne'er wore rowel
+	Nor iron on his heel! I am asham'd
+	To look upon the holy sun, to have
+	The benefit of his bless'd beams, remaining
+	So long a poor unknown.
+<SPEECH 41><ACT 4><SCENE 4><74%>
+	So say I; amen.
+<SPEECH 42><ACT 5><SCENE 2><76%>
+	Stand, stand, and fight!
+<SPEECH 43><ACT 5><SCENE 5><89%>
+	One sand another
+	Not more resembles;—that sweet rosy lad
+	Who died, and was Fidele. What think you?
+<SPEECH 44><ACT 5><SCENE 5><95%>
+	In that he spake too far.
+<SPEECH 45><ACT 5><SCENE 5><95%>
+	Your danger's ours.
+<SPEECH 46><ACT 5><SCENE 5><97%>
+	Ay, my good lord.
+<SPEECH 47><ACT 5><SCENE 5><98%>
+	You holp us, sir,
+	As you did mean indeed to be our brother;
+	Joy'd are we that you are.

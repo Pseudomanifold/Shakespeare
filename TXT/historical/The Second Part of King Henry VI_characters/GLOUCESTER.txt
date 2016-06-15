@@ -1,0 +1,353 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	Imprimis, It is agreed between the French king, Charles, and William De la Pole, Marquess of Suffolk, ambassador for Henry King of England, that the said Henry shall espouse the Lady Margaret, daughter unto Reignier King of Naples, Sicilia, and Jerusalem, and crown her Queen of England ere the thirtieth of May next ensuing. 
+	Item, That the duchy of Anjou and the county of Maine shall be released and delivered to the king her father.—
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	Pardon me, gracious lord;
+	Some sudden qualm hath struck me at the heart
+	And dimm'd mine eyes, that I can read no further.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Brave peers of England, pillars of the state,
+	To you Duke Humphrey must unload his grief,
+	Your grief, the common grief of all the land.
+	What! did my brother Henry spend his youth,
+	His valour, coin, and people, in the wars?
+	Did he so often lodge in open field,
+	In winter's cold, and summer's parching heat,
+	To conquer France, his true inheritance?
+	And did my brother Bedford toil his wits,
+	To keep by policy what Henry got?
+	Have you yourselves, Somerset, Buckingham,
+	Brave York, Salisbury, and victorious Warwick,
+	Receiv'd deep scars in France and Normandy?
+	Or hath mine uncle Beaufort and myself,
+	With all the learned council of the realm,
+	Studied so long, sat in the council-house
+	Early and late, debating to and fro
+	How France and Frenchmen might be kept in awe?
+	And hath his highness in his infancy
+	Been crown'd in Paris, in despite of foes?
+	And shall these labours and these honours die?
+	Shall Henry's conquest, Bedford's vigilance,
+	Your deeds of war and all our counsel die?
+	O peers of England! shameful is this league,
+	Fatal this marriage, cancelling your fame,
+	Blotting your names from books of memory,
+	Razing the characters of your renown,
+	Defacing monuments of conquer'd France,
+	Undoing all, as all had never been.
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	Ay, uncle; we will keep it, if we can;
+	But now it is impossible we should.
+	Suffolk, the new-made duke that rules the roast,
+	Hath given the duchies of Anjou and Maine
+	Unto the poor King Reignier, whose large style
+	Agrees not with the leanness of his purse.
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	A proper jest, and never heard before,
+	That Suffolk should demand a whole fifteenth
+	For costs and charges in transporting her!
+	She should have stay'd in France, and starv'd in France,
+	Before—
+<SPEECH 6><ACT 1><SCENE 1><4%>
+	My Lord of Winchester, I know your mind:
+	'Tis not my speeches that you do mislike,
+	But 'tis my presence that doth trouble ye.
+	Rancour will out: proud prelate, in thy face
+	I see thy fury. If I longer stay
+	We shall begin our ancient bickerings.
+	Lordings, farewell; and say, when I am gone,
+	I prophesied France will be lost ere long.
+<SPEECH 7><ACT 1><SCENE 2><9%>
+	O Nell, sweet Nell, if thou dost love thy lord,
+	Banish the canker of ambitious thoughts:
+	And may that thought, when I imagine ill
+	Against my king and nephew, virtuous Henry,
+	Be my last breathing in this mortal world!
+	My troublous dream this night doth make me sad.
+<SPEECH 8><ACT 1><SCENE 2><9%>
+	Methought this staff, mine office-badge in court,
+	Was broke in twain; by whom I have forgot,
+	But, as I think, it was by the cardinal;
+	And on the pieces of the broken wand
+	Were plac'd the heads of Edmund Duke of Somerset,
+	And William De la Pole, first Duke of Suffolk.
+	This was my dream: what it doth bode, God knows.
+<SPEECH 9><ACT 1><SCENE 2><9%>
+	Nay, Eleanor, then must I chide outright:
+	Presumptuous dame! ill-nurtur'd Eleanor!
+	Art thou not second woman in the realm,
+	And the protector's wife, belov'd of him?
+	Hast thou not worldly pleasure at command,
+	Above the reach or compass of thy thought?
+	And wilt thou still be hammering treachery,
+	To tumble down thy husband and thyself
+	From top of honour to disgrace's feet?
+	Away from me, and let me hear no more.
+<SPEECH 10><ACT 1><SCENE 2><10%>
+	Nay, be not angry; I am pleas'd again.
+<SPEECH 11><ACT 1><SCENE 2><10%>
+	I go. Come, Nell, thou wilt ride with us?
+<SPEECH 12><ACT 1><SCENE 3><15%>
+	Madam, the king is old enough himself
+	To give his censure: these are no women's matters.
+<SPEECH 13><ACT 1><SCENE 3><15%>
+	Madam, I am protector of the realm;
+	And at his pleasure will resign my place.
+<SPEECH 14><ACT 1><SCENE 3><16%>
+	Now, lords, my choler being over-blown
+	With walking once about the quadrangle,
+	I come to talk of commonwealth affairs.
+	As for your spiteful false objections,
+	Prove them, and I lie open to the law:
+	But God in mercy so deal with my soul
+	As I in duty love my king and country!
+	But to the matter that we have in hand.
+	I say, my sov'reign, York is meetest man
+	To be your regent in the realm of France.
+<SPEECH 15><ACT 1><SCENE 3><18%>
+	This doom, my lord, if I may judge.
+	Let Somerset be regent o'er the French,
+	Because in York this breeds suspicion;
+	And let these have a day appointed them
+	For single combat in convenient place;
+	For he hath witness of his servant's malice.
+	This is the law, and this Duke Humphrey's doom.
+<SPEECH 16><ACT 1><SCENE 3><18%>
+	Sirrah, or you must fight, or else be hang'd.
+<SPEECH 17><ACT 2><SCENE 1><22%>
+	My lord, 'tis but a base ignoble mind
+	That mounts no higher than a bird can soar.
+<SPEECH 18><ACT 2><SCENE 1><22%>
+	Ay, my Lord Cardinal; how think you by that?
+	Were it not good your Grace could fly to heaven?
+<SPEECH 19><ACT 2><SCENE 1><22%>
+	What! cardinal, is your priesthood grown peremptory?
+	Tantæne animis cœlestibus iræ?
+	Churchmen so hot? good uncle, hide such malice;
+	With such holiness can you do it?
+<SPEECH 20><ACT 2><SCENE 1><22%>
+	As who, my lord?
+<SPEECH 21><ACT 2><SCENE 1><22%>
+	Why, Suffolk, England knows thine insolence.
+<SPEECH 22><ACT 2><SCENE 1><23%>
+	</STAGE DIR> Faith, holy uncle, would 'twere come to that!
+<SPEECH 23><ACT 2><SCENE 1><23%>
+	</STAGE DIR> Make up no factious numbers for the matter;
+	In thine own person answer thy abuse.
+<SPEECH 24><ACT 2><SCENE 1><23%>
+	True, uncle.
+<SPEECH 25><ACT 2><SCENE 1><23%>
+	</STAGE DIR> Cardinal, I am with you.
+<SPEECH 26><ACT 2><SCENE 1><23%>
+	Talking of hawking; nothing else, my lord.—
+	</STAGE DIR> Now, by God's mother, priest, I'll shave your crown
+	For this, or all my fence shall fail.
+<SPEECH 27><ACT 2><SCENE 1><23%>
+	What means this noise?
+	Fellow, what miracle dost thou proclaim?
+<SPEECH 28><ACT 2><SCENE 1><24%>
+	Stand by, my masters; bring him near the king:
+	His highness' pleasure is to talk with him.
+<SPEECH 29><ACT 2><SCENE 1><24%>
+	Hadst thou been his mother, thou couldst have better told.
+<SPEECH 30><ACT 2><SCENE 1><25%>
+	How long hast thou been blind?
+<SPEECH 31><ACT 2><SCENE 1><25%>
+	What! and wouldst climb a tree?
+<SPEECH 32><ACT 2><SCENE 1><25%>
+	Mass, thou lov'dst plums well, that wouldst venture so.
+<SPEECH 33><ACT 2><SCENE 1><25%>
+	A subtle knave! but yet it shall not serve.
+	Let me see thine eyes: wink now: now open them:
+	In my opinion yet thou seest not well.
+<SPEECH 34><ACT 2><SCENE 1><25%>
+	Sayst thou me so? What colour is this cloak of?
+<SPEECH 35><ACT 2><SCENE 1><25%>
+	Why, that's well said. What colour is my gown of?
+<SPEECH 36><ACT 2><SCENE 1><25%>
+	But cloaks and gowns before this day a many.
+<SPEECH 37><ACT 2><SCENE 1><25%>
+	Tell me, sirrah, what's my name?
+<SPEECH 38><ACT 2><SCENE 1><25%>
+	What's his name?
+<SPEECH 39><ACT 2><SCENE 1><26%>
+	Nor his?
+<SPEECH 40><ACT 2><SCENE 1><26%>
+	What's thine own name?
+<SPEECH 41><ACT 2><SCENE 1><26%>
+	Then, Saunder, sit there, the lyingest knave in Christendom. If thou hadst been born blind, thou mightst as well have known all our names as thus to name the several colours we do wear. Sight may distinguish of colours, but suddenly to nominate them all, it is impossible. My lords, Saint Alban here hath done a miracle; and would ye not think that cunning to be great, that could restore this cripple to his legs again?
+<SPEECH 42><ACT 2><SCENE 1><26%>
+	My masters of Saint Alban's, have you not beadles in your town, and things called whips?
+<SPEECH 43><ACT 2><SCENE 1><26%>
+	Then send for one presently.
+<SPEECH 44><ACT 2><SCENE 1><26%>
+	Now fetch me a stool hither by and by.
+	</STAGE DIR> Now, sirrah, if you mean to save yourself from whipping, leap me over this stool and run away.
+<SPEECH 45><ACT 2><SCENE 1><26%>
+	Well, sir, we must have you find your legs. Sirrah beadle, whip him till he leap over that same stool.
+<SPEECH 46><ACT 2><SCENE 1><27%>
+	Follow the knave; and take this drab away.
+<SPEECH 47><ACT 2><SCENE 1><27%>
+	Let them be whipp'd through every market town
+	Till they come to Berwick, from whence they came.
+<SPEECH 48><ACT 2><SCENE 1><27%>
+	But you have done more miracles than I;
+	You made in a day, my lord, whole towns to fly.
+<SPEECH 49><ACT 2><SCENE 1><27%>
+	Ambitious churchman, leave to afflict my heart:
+	Sorrow and grief have vanquish'd all my powers;
+	And, vanquish'd as I am, I yield to thee,
+	Or to the meanest groom.
+<SPEECH 50><ACT 2><SCENE 1><28%>
+	Madam, for myself, to heaven I do appeal,
+	How I have lov'd my king and commonweal;
+	And, for my wife, I know not how it stands.
+	Sorry I am to hear what I have heard:
+	Noble she is, but if she have forgot
+	Honour and virtue, and convers'd with such
+	As, like to pitch, defile nobility,
+	I banish her my bed and company,
+	And give her, as a prey, to law and shame,
+	That hath dishonour'd Gloucester's honest name.
+<SPEECH 51><ACT 2><SCENE 3><31%>
+	Eleanor, the law, thou seest, hath judged thee:
+	I cannot justify whom the law condemns.—
+	Mine eyes are full of tears, my heart of grief.
+	Ah, Humphrey! this dishonour in thine age
+	Will bring thy head with sorrow to the ground.
+	I beseech your majesty, give me leave to go;
+	Sorrow would solace and mine age would ease.
+<SPEECH 52><ACT 2><SCENE 3><32%>
+	My staff! here, noble Henry, is my staff:
+	As willingly do I the same resign
+	As e'er thy father Henry made it mine;
+	And even as willingly at thy feet I leave it
+	As others would ambitiously receive it.
+	Farewell, good king! when I am dead and gone,
+	May honourable peace attend thy throne.
+<SPEECH 53><ACT 2><SCENE 4><34%>
+	Thus sometimes hath the brightest day a cloud;
+	And after summer evermore succeeds
+	Barren winter, with his wrathful nipping cold:
+	So cares and joys abound, as seasons fleet.
+	Sirs, what's o'clock?
+<SPEECH 54><ACT 2><SCENE 4><35%>
+	Ten is the hour that was appointed me
+	To watch the coming of my punish'd duchess:
+	Uneath may she endure the flinty streets,
+	To tread them with her tender-feeling feet.
+	Sweet Nell, ill can thy noble mind abrook
+	The abject people, gazing on thy face
+	With envious looks still laughing at thy shame,
+	That erst did follow thy proud chariot wheels
+	When thou didst ride in triumph through the streets.
+	But, soft! I think she comes; and I'll prepare
+	My tear-stain'd eyes to see her miseries.
+<SPEECH 55><ACT 2><SCENE 4><35%>
+	No, stir not, for your lives; let her pass by.
+<SPEECH 56><ACT 2><SCENE 4><35%>
+	Be patient, gentle Nell; forget this grief.
+<SPEECH 57><ACT 2><SCENE 4><36%>
+	Ah, Nell! forbear: thou aimest all awry;
+	I must offend before I be attainted;
+	And had I twenty times so many foes,
+	And each of them had twenty times their power,
+	All these could not procure me any scath,
+	So long as I am loyal, true, and crimeless.
+	Wouldst have me rescue thee from this reproach?
+	Why, yet thy scandal were not wip'd away,
+	But I in danger for the breach of law.
+	Thy greatest help is quiet, gentle Nell:
+	I pray thee, sort thy heart to patience;
+	These few days' wonder will be quickly worn.
+<SPEECH 58><ACT 2><SCENE 4><37%>
+	And my consent ne'er ask'd herein before!
+	This is close dealing. Well, I will be there.
+	My Nell, I take my leave: and, master sheriff,
+	Let not her penance exceed the king's commission.
+<SPEECH 59><ACT 2><SCENE 4><37%>
+	Must you, Sir John, protect my lady here?
+<SPEECH 60><ACT 2><SCENE 4><37%>
+	Entreat her not the worse in that I pray
+	You use her well. The world may laugh again;
+	And I may live to do you kindness if
+	You do it her: and so, Sir John, farewell.
+<SPEECH 61><ACT 2><SCENE 4><37%>
+	Witness my tears, I cannot stay to speak.
+<SPEECH 62><ACT 3><SCENE 1><41%>
+	All happiness unto my lord the king!
+	Pardon, my liege, that I have stay'd so long.
+<SPEECH 63><ACT 3><SCENE 1><41%>
+	Well, Suffolk's duke, thou shalt not see me blush,
+	Nor change my countenance for this arrest:
+	A heart unspotted is not easily daunted.
+	The purest spring is not so free from mud
+	As I am clear from treason to my sovereign.
+	Who can accuse me? wherein am I guilty?
+<SPEECH 64><ACT 3><SCENE 1><41%>
+	Is it but thought so? What are they that think it?
+	I never robb'd the soldiers of their pay,
+	Nor ever had one penny bribe from France.
+	So help me God, as I have watch'd the night,
+	Ay, night by night, in studying good for England,
+	That doit that e'er I wrested from the king,
+	Or any groat I hoarded to my use,
+	Be brought against me at my trial-day!
+	No; many a pound of mine own proper store,
+	Because I would not tax the needy commons,
+	Have I disbursed to the garrisons,
+	And never ask'd for restitution.
+<SPEECH 65><ACT 3><SCENE 1><41%>
+	I say no more than truth, so help me God!
+<SPEECH 66><ACT 3><SCENE 1><42%>
+	Why, 'tis well known that, whiles I was protector,
+	Pity was all the fault that was in me;
+	For I should melt at an offender's tears,
+	And lowly words were ransom for their fault.
+	Unless it were a bloody murderer,
+	Or foul felonious thief that fleec'd poor passengers,
+	I never gave them condign punishment:
+	Murder, indeed, that bloody sin, I tortur'd
+	Above the felon or what trespass else.
+<SPEECH 67><ACT 3><SCENE 1><42%>
+	Ah! gracious lord, these days are dangerous.
+	Virtue is chok'd with foul ambition,
+	And charity chas'd hence by rancour's hand;
+	Foul subornation is predominant,
+	And equity exil'd your highness' land.
+	I know their complot is to have my life;
+	And if my death might make this island happy,
+	And prove the period of their tyranny,
+	I would expend it with all willingness;
+	But mine is made the prologue to their play;
+	For thousands more, that yet suspect no peril,
+	Will not conclude their plotted tragedy.
+	Beaufort's red sparkling eyes blab his heart's malice,
+	And Suffolk's cloudy brow his stormy hate;
+	Sharp Buckingham unburdens with his tongue
+	The envious load that lies upon his heart;
+	And dogged York, that reaches at the moon,
+	Whose overweening arm I have pluck'd back,
+	By false accuse doth level at my life:
+	And you, my sov'reign lady, with the rest,
+	Causeless have laid disgraces on my head,
+	And with your best endeavour have stirr'd up
+	My liefest liege to be mine enemy.
+	Ay, all of you have laid your heads together;
+	Myself had notice of your conventicles;
+	And all to make away my guiltless life.
+	I shall not want false witness to condemn me,
+	Nor store of treasons to augment my guilt;
+	The ancient proverb will be well effected:
+	'A staff is quickly found to beat a dog.'
+<SPEECH 68><ACT 3><SCENE 1><43%>
+	Far truer spoke than meant: I lose, indeed;
+	Beshrew the winners, for they play'd me false!
+	And well such losers may have leave to speak.
+<SPEECH 69><ACT 3><SCENE 1><43%>
+	Ah! thus King Henry throws away his crutch
+	Before his legs be firm to bear his body:
+	Thus is the shepherd beaten from thy side,
+	And wolves are gnarling who shall gnaw thee first.
+	Ah! that my fear were false, ah! that it were;
+	For, good King Henry, thy decay I fear.

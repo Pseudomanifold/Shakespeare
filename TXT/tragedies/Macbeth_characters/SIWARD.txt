@@ -1,0 +1,41 @@
+<SPEECH 1><ACT 5><SCENE 4><91%>
+	What wood is this before us?
+<SPEECH 2><ACT 5><SCENE 4><91%>
+	We learn no other but the confident tyrant
+	Keeps still in Dunsinane, and will endure
+	Our setting down before 't.
+<SPEECH 3><ACT 5><SCENE 4><91%>
+	The time approaches
+	That will with due decision make us know
+	What we shall say we have and what we owe.
+	Thoughts speculative their unsure hopes relate,
+	But certain issue strokes must arbitrate,
+	Towards which advance the war.
+<SPEECH 4><ACT 5><SCENE 6><94%>
+	Fare you well.
+	Do we but find the tyrant's power to-night,
+	Let us be beaten, if we cannot fight.
+<SPEECH 5><ACT 5><SCENE 7><96%>
+	This way, my lord; the castle's gently render'd:
+	The tyrant's people on both sides do fight;
+	The noble thanes do bravely in the war;
+	The day almost itself professes yours,
+	And little is to do.
+<SPEECH 6><ACT 5><SCENE 7><96%>
+	Enter, sir, the castle.
+<SPEECH 7><ACT 5><SCENE 7><98%>
+	Some must go off; and yet, by these I see,
+	So great a day as this is cheaply bought.
+<SPEECH 8><ACT 5><SCENE 7><98%>
+	Then he is dead?
+<SPEECH 9><ACT 5><SCENE 7><99%>
+	Had he his hurts before?
+<SPEECH 10><ACT 5><SCENE 7><99%>
+	Why then, God's soldier be he!
+	Had I as many sons as I have hairs,
+	I would not wish them to a fairer death:
+	And so, his knell is knoll'd.
+<SPEECH 11><ACT 5><SCENE 7><99%>
+	He's worth no more;
+	They say, he parted well, and paid his score:
+	And so, God be with him! Here comes newer comfort.

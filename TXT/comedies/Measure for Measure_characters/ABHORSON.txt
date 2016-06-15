@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 4><SCENE 2><64%>
+	Do you call, sir?
+<SPEECH 2><ACT 4><SCENE 2><64%>
+	A bawd, sir? Fie upon him! he will discredit our mystery.
+<SPEECH 3><ACT 4><SCENE 2><64%>
+	Ay, sir; a mystery.
+<SPEECH 4><ACT 4><SCENE 2><65%>
+	Sir, it is a mystery.
+<SPEECH 5><ACT 4><SCENE 2><65%>
+	Every true man's apparel fits your thief.
+<SPEECH 6><ACT 4><SCENE 2><65%>
+	Come on, bawd; I will instruct thee in my trade; follow.
+<SPEECH 7><ACT 4><SCENE 3><72%>
+	Sirrah, bring Barnardine hither.
+<SPEECH 8><ACT 4><SCENE 3><72%>
+	What ho! Barnardine!
+<SPEECH 9><ACT 4><SCENE 3><72%>
+	Tell him he must awake, and that quickly too.
+<SPEECH 10><ACT 4><SCENE 3><72%>
+	Go in to him, and fetch him out.
+<SPEECH 11><ACT 4><SCENE 3><72%>
+	Is the axe upon the block, sirrah?
+<SPEECH 12><ACT 4><SCENE 3><72%>
+	Truly, sir, I would desire you to clap into your prayers; for, look you, the warrant's come.
+<SPEECH 13><ACT 4><SCENE 3><73%>
+	Look you, sir; here comes your ghostly father: do we jest now, think you?

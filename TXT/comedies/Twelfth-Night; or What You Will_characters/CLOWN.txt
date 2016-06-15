@@ -1,0 +1,271 @@
+<SPEECH 1><ACT 1><SCENE 5><12%>
+	Let her hang me: he that is well hanged in this world needs to fear no colours.
+<SPEECH 2><ACT 1><SCENE 5><12%>
+	He shall see none to fear.
+<SPEECH 3><ACT 1><SCENE 5><12%>
+	Where, good Mistress Mary?
+<SPEECH 4><ACT 1><SCENE 5><12%>
+	Well, God give them wisdom that have it; and those that are fools, let them use their talents.
+<SPEECH 5><ACT 1><SCENE 5><12%>
+	Many a good hanging prevents a bad marriage; and, for turning away, let summer bear it out.
+<SPEECH 6><ACT 1><SCENE 5><12%>
+	Not so, neither; but I am resolved on two points.
+<SPEECH 7><ACT 1><SCENE 5><12%>
+	Apt, in good faith; very apt. Well, go thy way: if Sir Toby would leave drinking, thou wert as witty a piece of Eve's flesh as any in Illyria.
+<SPEECH 8><ACT 1><SCENE 5><13%>
+	Wit, an't be thy will, put me into good fooling! Those wits that think they have thee, do very oft prove fools; and I, that am sure I lack thee, may pass for a wise man: for what says Quinapalus? 'Better a witty fool than a foolish wit.'
+	God bless thee, lady!
+<SPEECH 9><ACT 1><SCENE 5><13%>
+	Do you not hear, fellows? Take away the lady.
+<SPEECH 10><ACT 1><SCENE 5><13%>
+	Two faults, madonna, that drink and good counsel will amend: for give the dry fool drink, then is the fool not dry; bid the dishonest man mend himself: if he mend, he is no longer dishonest; if he cannot, let the botcher mend him. Any thing that's mended is but patched: virtue that transgresses is but patched with sin; and sin that amends is but patched with virtue. If that this simple syllogism will serve, so; if it will not, what remedy? As there is no true cuckold but calamity, so beauty's a flower. The lady bade take away the fool; therefore, I say again, take her away.
+<SPEECH 11><ACT 1><SCENE 5><14%>
+	Misprision in the highest degree! Lady, cucullus non facit monachum; that's as much to say as I wear not motley in my brain. Good madonna, give me leave to prove you a fool.
+<SPEECH 12><ACT 1><SCENE 5><14%>
+	Dexteriously, good madonna.
+<SPEECH 13><ACT 1><SCENE 5><14%>
+	I must catechise you for it, madonna: good my mouse of virtue, answer me.
+<SPEECH 14><ACT 1><SCENE 5><14%>
+	Good madonna, why mournest thou?
+<SPEECH 15><ACT 1><SCENE 5><14%>
+	I think his soul is in hell, madonna.
+<SPEECH 16><ACT 1><SCENE 5><14%>
+	The more fool, madonna, to mourn for your brother's soul being in heaven. Take away the fool, gentlemen.
+<SPEECH 17><ACT 1><SCENE 5><14%>
+	God send you, sir, a speedy infirmity, for the better increasing your folly! Sir Toby will be sworn that I am no fox, but he will not pass his word for two pence that you are no fool.
+<SPEECH 18><ACT 1><SCENE 5><15%>
+	Now, Mercury endue thee with leasing, for thou speakest well of fools!
+<SPEECH 19><ACT 1><SCENE 5><16%>
+	Thou hast spoken for us, madonna, as if thy eldest son should be a fool; whose skull Jove cram with brains! for here comes one of thy kin has a most weak pia mater.
+<SPEECH 20><ACT 1><SCENE 5><16%>
+	Good Sir Toby.
+<SPEECH 21><ACT 1><SCENE 5><16%>
+	Ay, marry, what is he?
+<SPEECH 22><ACT 1><SCENE 5><16%>
+	Like a drowned man, a fool, and a madman: one draught above heat makes him a fool, the second mads him, and a third drowns him.
+<SPEECH 23><ACT 1><SCENE 5><17%>
+	He is but mad yet, madonna; and the fool shall look to the madman.
+<SPEECH 24><ACT 2><SCENE 3><28%>
+	How now, my hearts! Did you never see the picture of 'we three?'
+<SPEECH 25><ACT 2><SCENE 3><28%>
+	I did impeticos thy gratillity; for Malvolio's nose is no whipstock: my lady has a white hand, and the Myrmidons are no bottleale houses.
+<SPEECH 26><ACT 2><SCENE 3><29%>
+	Would you have a love-song, or a song of good life?
+<SPEECH 27><ACT 2><SCENE 3><29%>
+	O mistress mine! where are you roaming?
+	O! stay and hear; your true love's coming,
+	That can sing both high and low.
+	Trip no further, pretty sweeting;
+	Journeys end in lovers meeting,
+	Every wise man's son doth know.
+<SPEECH 28><ACT 2><SCENE 3><29%>
+	What is love? 'tis not hereafter;
+	Present mirth hath present laughter;
+	What's to come is still unsure:
+	In delay there lies no plenty;
+	Then come kiss me, sweet and twenty,
+	Youth's a stuff will not endure.
+<SPEECH 29><ACT 2><SCENE 3><29%>
+	By'r lady, sir, and some dogs will catch well.
+<SPEECH 30><ACT 2><SCENE 3><30%>
+	Hold thy peace, thou knave,' knight? I shall be constrain'd in't to call thee knave, knight.
+<SPEECH 31><ACT 2><SCENE 3><30%>
+	I shall never begin if I hold my peace.
+<SPEECH 32><ACT 2><SCENE 3><30%>
+	Beshrew me, the knight's in admirable fooling.
+<SPEECH 33><ACT 2><SCENE 3><31%>
+	His eyes do show his days are almost done.
+<SPEECH 34><ACT 2><SCENE 3><31%>
+	Sir Toby, there you lie.
+<SPEECH 35><ACT 2><SCENE 3><31%>
+	What an if you do?
+<SPEECH 36><ACT 2><SCENE 3><31%>
+	O! no, no, no, no, you dare not.
+<SPEECH 37><ACT 2><SCENE 3><32%>
+	Yes, by Saint Anne; and ginger shall be hot i' the mouth too.
+<SPEECH 38><ACT 2><SCENE 4><36%>
+	Are you ready, sir?
+<SPEECH 39><ACT 2><SCENE 4><36%>
+	Come away, come away, death,
+	And in sad cypress let me be laid;
+	Fly away, fly away, breath;
+	I am slain by a fair cruel maid.
+	My shroud of white, stuck all with yew,
+	O! prepare it
+	My part of death, no one so true
+	Did share it.
+	Not a flower, not a flower sweet,
+	On my black coffin let there be strown,
+	Not a friend, not a friend greet
+	My poor corse, where my bones shall be thrown.
+	A thousand thousand sighs to save,
+	Lay me, O! where
+	Sad true lover never find my grave,
+	To weep there.
+<SPEECH 40><ACT 2><SCENE 4><37%>
+	No pains, sir; I take pleasure in singing, sir.
+<SPEECH 41><ACT 2><SCENE 4><37%>
+	Truly, sir, and pleasure will be paid, one time or another.
+<SPEECH 42><ACT 2><SCENE 4><37%>
+	Now, the melancholy god protect thee, and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal! I would have men of such constancy put to sea, that their business might be everything and their intent everywhere; for that's it that always makes a good voyage of nothing. Farewell.
+<SPEECH 43><ACT 3><SCENE 1><47%>
+	No, sir, I live by the church.
+<SPEECH 44><ACT 3><SCENE 1><47%>
+	No such matter, sir: I do live by the church; for I do live at my house, and my house doth stand by the church.
+<SPEECH 45><ACT 3><SCENE 1><47%>
+	You have said, sir. To see this age!
+	A sentence is but a cheveril glove to a good wit: how quickly the wrong side may be turned outward!
+<SPEECH 46><ACT 3><SCENE 1><48%>
+	I would therefore my sister had had no name, sir.
+<SPEECH 47><ACT 3><SCENE 1><48%>
+	Why, sir, her name's a word; and to dally with that word might make my sister wanton. But indeed, words are very rascals since bonds disgraced them.
+<SPEECH 48><ACT 3><SCENE 1><48%>
+	Troth, sir, I can yield you none without words; and words are grown so false, I am loath to prove reason with them.
+<SPEECH 49><ACT 3><SCENE 1><48%>
+	Not so, sir, I do care for something; but in my conscience, sir, I do not care for you: if that be to care for nothing, sir, I would it would make you invisible.
+<SPEECH 50><ACT 3><SCENE 1><48%>
+	No, indeed, sir; the Lady Olivia has no folly: she will keep no fool, sir, till she be married; and fools are as like husbands as pilchards are to herrings—the husband's the bigger. I am indeed not her fool, but her corrupter of words.
+<SPEECH 51><ACT 3><SCENE 1><48%>
+	Foolery, sir, does walk about the orb like the sun; it shines every where. I would be sorry, sir, but the fool should be as oft with your master as with my mistress. I think I saw your wisdom there.
+<SPEECH 52><ACT 3><SCENE 1><49%>
+	Now Jove, in his next commodity of hair, send thee a beard!
+<SPEECH 53><ACT 3><SCENE 1><49%>
+	</STAGE DIR> Would not a pair of these have bred, sir?
+<SPEECH 54><ACT 3><SCENE 1><49%>
+	I would play Lord Pandarus of Phrygia, sir, to bring a Cressida to this Troilus.
+<SPEECH 55><ACT 3><SCENE 1><49%>
+	The matter, I hope, is not great, sir, begging but a beggar: Cressida was a beggar. My lady is within, sir. I will conster to them whence you come; who you are and what you would are out of my welkin; I might say 'element,' but the word is overworn.
+<SPEECH 56><ACT 4><SCENE 1><75%>
+	Will you make me believe that I am not sent for you?
+<SPEECH 57><ACT 4><SCENE 1><75%>
+	Well held out, i' faith! No, I do not know you; nor I am not sent to you by my lady to bid you come speak with her; nor your name is not Master Cesario; nor this is not my nose neither. Nothing that is so is so.
+<SPEECH 58><ACT 4><SCENE 1><75%>
+	Vent my folly! He has heard that word of some great man, and now applies it to a fool. Vent my folly! I am afraid this great lubber, the world, will prove a cockney. I prithee now, ungird thy strangeness and tell me what I shall vent to my lady. Shall I vent to her that thou art coming?
+<SPEECH 59><ACT 4><SCENE 1><76%>
+	By my troth, thou hast an open hand.
+	These wise men that give fools money get themselves a good report after fourteen years' purchase.
+<SPEECH 60><ACT 4><SCENE 1><76%>
+	This will I tell my lady straight. I would not be in some of your coats for twopence.
+<SPEECH 61><ACT 4><SCENE 2><78%>
+	Well, I'll put it on and I will dissemble myself in't: and I would I were the first that ever dissembled in such a gown. I am not tall enough to become the function well, nor lean enough to be thought a good student; but to be said an honest man and a good housekeeper goes as fairly as to say a careful man and a great scholar. The competitors enter.
+<SPEECH 62><ACT 4><SCENE 2><78%>
+	Bonos dies, Sir Toby: for, as the old hermit of Prague, that never saw pen and ink, very wittily said to a niece of King Gorboduc, 'That, that is, is;' so I, being Master parson, am Master parson; for, what is 'that,' but 'that,' and 'is,' but 'is?'
+<SPEECH 63><ACT 4><SCENE 2><79%>
+	What ho! I say. Peace in this prison!
+<SPEECH 64><ACT 4><SCENE 2><79%>
+	Sir Topas, the curate, who comes to visit Malvolio the lunatic.
+<SPEECH 65><ACT 4><SCENE 2><79%>
+	Out, hyperbolical fiend! how vexest thou this man! Talkest thou nothing but of ladies?
+<SPEECH 66><ACT 4><SCENE 2><79%>
+	Fie, thou dishonest Satan! I call thee by the most modest terms; for I am one of those gentle ones that will use the devil himself with courtesy. Sayst thou that house is dark?
+<SPEECH 67><ACT 4><SCENE 2><79%>
+	Why, it hath bay-windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?
+<SPEECH 68><ACT 4><SCENE 2><79%>
+	Madman, thou errest: I say, there is no darkness but ignorance, in which thou art more puzzled than the Egyptians in their fog.
+<SPEECH 69><ACT 4><SCENE 2><80%>
+	What is the opinion of Pythagoras concerning wild fowl?
+<SPEECH 70><ACT 4><SCENE 2><80%>
+	What thinkest thou of his opinion?
+<SPEECH 71><ACT 4><SCENE 2><80%>
+	Fare thee well: remain thou still in darkness: thou shalt hold the opinion of Pythagoras ere I will allow of thy wits, and fear to kill a woodcock, lest thou dispossess the soul of thy grandam. Fare thee well.
+<SPEECH 72><ACT 4><SCENE 2><80%>
+	Nay, I am for all waters.
+<SPEECH 73><ACT 4><SCENE 2><81%>
+	Hey Robin, jolly Robin,
+	Tell me how thy lady does.
+<SPEECH 74><ACT 4><SCENE 2><81%>
+	My lady is unkind, perdy!
+<SPEECH 75><ACT 4><SCENE 2><81%>
+	Alas, why is she so?
+<SPEECH 76><ACT 4><SCENE 2><81%>
+	She loves another.
+	Who calls, ha?
+<SPEECH 77><ACT 4><SCENE 2><81%>
+	Master Malvoliol
+<SPEECH 78><ACT 4><SCENE 2><81%>
+	Alas, sir, how fell you beside your five wits?
+<SPEECH 79><ACT 4><SCENE 2><81%>
+	But as well? then you are mad indeed, if you be no better in your wits than a fool.
+<SPEECH 80><ACT 4><SCENE 2><81%>
+	Advise you what you say: the minister is here. Malvolio, Malvolio, thy wits the heavens restore! endeavour thyself to sleep, and leave thy vain bibble-babble.
+<SPEECH 81><ACT 4><SCENE 2><81%>
+	Maintain no words with him, good fellow.—Who, I, sir? not I, sir. God be wi' you, good Sir Topas. Marry, amen. I will, sir, I will.
+<SPEECH 82><ACT 4><SCENE 2><82%>
+	Alas, sir, be patient. What say you, sir? I am shent for speaking to you.
+<SPEECH 83><ACT 4><SCENE 2><82%>
+	Well-a-day, that you were, sir!
+<SPEECH 84><ACT 4><SCENE 2><82%>
+	I will help you to't. But tell me true, are you not mad indeed? or do you but counterfeit?
+<SPEECH 85><ACT 4><SCENE 2><82%>
+	Nay, I'll ne'er believe a madman till I see his brains. I will fetch you light and paper and ink.
+<SPEECH 86><ACT 4><SCENE 2><82%>
+	I am gone, sir,
+	And anon, sir,
+	I'll be with you again
+	In a trice,
+	Like to the old Vice,
+	Your need to sustain;
+	Who with dagger of lath,
+	In his rage and his wrath,
+	Cries, Ah, ah! to the devil:
+	Like a mad lad,
+	Pare thy nails, dad;
+	Adieu, goodman drivel.
+<SPEECH 87><ACT 5><SCENE 1><84%>
+	Good Master Fabian, grant me another request.
+<SPEECH 88><ACT 5><SCENE 1><84%>
+	Do not desire to see this letter.
+<SPEECH 89><ACT 5><SCENE 1><84%>
+	Ay, sir; we are some of her trappings.
+<SPEECH 90><ACT 5><SCENE 1><84%>
+	Truly, sir, the better for my foes and the worse for my friends.
+<SPEECH 91><ACT 5><SCENE 1><85%>
+	No, sir, the worse.
+<SPEECH 92><ACT 5><SCENE 1><85%>
+	Marry, sir, they praise me and make an ass of me; now my foes tell me plainly I am an ass: so that by my foes, sir, I profit in the knowledge of myself, and by my friends I am abused: so that, conclusions to be as kisses, if your four negatives make your two affirmatives, why then, the worse for my friends and the better for my foes.
+<SPEECH 93><ACT 5><SCENE 1><85%>
+	By my troth, sir, no; though it please you to be one of my friends.
+<SPEECH 94><ACT 5><SCENE 1><85%>
+	But that it would be double-dealing, sir, I would you could make it another.
+<SPEECH 95><ACT 5><SCENE 1><85%>
+	Put your grace in your pocket, sir, for this once, and let your flesh and blood obey it.
+<SPEECH 96><ACT 5><SCENE 1><85%>
+	Primo, secundo, tertio, is a good play; and the old saying is, 'the third pays for all:' the triplex, sir, is a good tripping measure; or the bells of Saint Bennet, sir, may put you in mind; one, two, three.
+<SPEECH 97><ACT 5><SCENE 1><86%>
+	Marry, sir, lullaby to your bounty till I come again. I go, sir; but I would not have you to think that my desire of having is the sin of covetousness; but as you say, sir, let your bounty take a nap, I will awake it anon.
+<SPEECH 98><ACT 5><SCENE 1><92%>
+	O! he's drunk, Sir Toby, an hour agone: his eyes were set at eight i' the morning.
+<SPEECH 99><ACT 5><SCENE 1><95%>
+	Truly, madam, he holds Belzebub at the stave's end as well as a man in his case may do. He has here writ a letter to you: I should have given it to you to-day morning; but as a madman's epistles are no gospels, so it skills not much when they are delivered.
+<SPEECH 100><ACT 5><SCENE 1><95%>
+	Look then to be well edified, when the fool delivers the madman.
+	By the Lord, madam,—
+<SPEECH 101><ACT 5><SCENE 1><96%>
+	No, madam, I do but read madness: an your ladyship will have it as it ought to be, you must allow vox.
+<SPEECH 102><ACT 5><SCENE 1><96%>
+	So I do, madonna; but to read his right wits is to read thus: therefore perpend, my princess, and give ear.
+<SPEECH 103><ACT 5><SCENE 1><96%>
+	Ay, madam.
+<SPEECH 104><ACT 5><SCENE 1><99%>
+	Why, 'some are born great, some achieve greatness, and some have greatness thrown upon them.' I was one, sir, in this interlude; one Sir Topas, sir; but that's all one. 'By the Lord, fool, I am not mad:' But do you remember? 'Madam, why laugh you at such a barren rascal? an you smile not, he's gagged:' and thus the whirligig of time brings in his revenges.
+<SPEECH 105><ACT 5><SCENE 1><99%>
+	When that I was and a little tiny boy,
+	With hey, ho, the wind and the rain;
+	A foolish thing was but a toy,
+	For the rain it raineth every day.
+	But when I came to man's estate,
+	With hey, ho, the wind and the rain;
+	'Gainst knaves and thieves men shut their gates,
+	For the rain it raineth every day.
+	But when I came, alas! to wive,
+	With hey, ho, the wind and the rain;
+	By swaggering could I never thrive,
+	For the rain it raineth every day.
+	But when I came unto my beds,
+	With hey, ho, the wind and the rain;
+	With toss-pots still had drunken heads,
+	For the rain it raineth every day.
+	A great while ago the world begun,
+	With hey, ho, the wind and the rain;
+	But that's all one, our play is done,
+	And we'll strive to please you every day.

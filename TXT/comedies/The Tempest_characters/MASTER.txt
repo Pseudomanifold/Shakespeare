@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Boatswain!
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Good, speak to the mariners: fall to't yarely, or we run ourselves aground: bestir, bestir.

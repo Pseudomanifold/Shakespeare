@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 3><SCENE 4><50%>
+	'Tis Banquo's, then.
+<SPEECH 2><ACT 3><SCENE 4><51%>
+	My lord, his throat is cut; that I did for him.
+<SPEECH 3><ACT 3><SCENE 4><51%>
+	Most royal sir,
+	Fleance is 'scap'd.
+<SPEECH 4><ACT 3><SCENE 4><51%>
+	Ay, my good lord; safe in a ditch he bides,
+	With twenty trenched gashes on his head;
+	The least a death to nature.
+<SPEECH 5><ACT 4><SCENE 2><71%>
+	Where is your husband?
+<SPEECH 6><ACT 4><SCENE 2><71%>
+	He's a traitor.
+<SPEECH 7><ACT 4><SCENE 2><71%>
+	What! you egg.
+	Young fry of treachery!

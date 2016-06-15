@@ -1,0 +1,334 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	I think, this coming summer, the King of Sicilia means to pay Bohemia the visitation which he justly owes him.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Beseech you,—
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	You pay a great deal too dear for what's given freely.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	Sicilia cannot show himself over-kind to Bohemia. They were trained together in their childhoods; and there rooted betwixt them then such an affection which cannot choose but branch now. Since their more mature dignities and royal necessities made separation of their society, their encounters, though not personal, have been royally attorneyed with interchange of gifts, letters, loving embassies; that they have seemed to be together, though absent, shook hands, as over a vast, and embraced, as it were, from the ends of opposed winds. The heavens continue their loves!
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	I very well agree with you in the hopes of him. It is a gallant child; one that indeed physics the subject, makes old hearts fresh; they that went on crutches ere he was born desire yet their life to see him a man.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Yes; if there were no other excuse why they should desire to live.
+<SPEECH 7><ACT 1><SCENE 2><9%>
+	Ay, my good lord.
+<SPEECH 8><ACT 1><SCENE 2><9%>
+	You had much ado to make his anchor hold:
+	When you cast out, it still came home.
+<SPEECH 9><ACT 1><SCENE 2><9%>
+	He would not stay at your petitions; made
+	His business more material.
+<SPEECH 10><ACT 1><SCENE 2><9%>
+	At the good queen's entreaty.
+<SPEECH 11><ACT 1><SCENE 2><10%>
+	Business, my lord! I think most understand
+	Bohemia stays here longer.
+<SPEECH 12><ACT 1><SCENE 2><10%>
+	Stays here longer.
+<SPEECH 13><ACT 1><SCENE 2><10%>
+	To satisfy your highness and the entreaties
+	Of our most gracious mistress.
+<SPEECH 14><ACT 1><SCENE 2><10%>
+	Be it forbid, my lord!
+<SPEECH 15><ACT 1><SCENE 2><10%>
+	My gracious lord,
+	I may be negligent, foolish, and fearful;
+	In every one of these no man is free,
+	But that his negligence, his folly, fear,
+	Among the infinite doings of the world,
+	Sometime puts forth. In your affairs, my lord,
+	If ever I were wilful-negligent,
+	It was my folly; if industriously
+	I play'd the fool, it was my negligence,
+	Not weighing well the end; if ever fearful
+	To do a thing, where I the issue doubted,
+	Whereof the execution did cry out
+	Against the non-performance, 'twas a fear
+	Which oft infects the wisest: these, my lord,
+	Are such allow'd infirmities that honesty
+	Is never free of: but, beseech your Grace,
+	Be plainer with me; let me know my trespass
+	By its own visage; if I then deny it,
+	'Tis none of mine.
+<SPEECH 16><ACT 1><SCENE 2><11%>
+	I would not be a stander-by, to hear
+	My sovereign mistress clouded so, without
+	My present vengeance taken: 'shrew my heart,
+	You never spoke what did become you less
+	Than this; which to reiterate were sin
+	As deep as that, though true.
+<SPEECH 17><ACT 1><SCENE 2><12%>
+	Good my lord, be cur'd
+	Of this diseas'd opinion, and betimes;
+	For 'tis most dangerous.
+<SPEECH 18><ACT 1><SCENE 2><12%>
+	No, no, my lord.
+<SPEECH 19><ACT 1><SCENE 2><12%>
+	Who does infect her?
+<SPEECH 20><ACT 1><SCENE 2><12%>
+	Sir, my lord,
+	I could do this, and that with no rash potion,
+	But with a lingering dram that should not work
+	Maliciously like poison: but I cannot
+	Believe this crack to be in my dread mistress,
+	So sovereingly being honourable:
+	I have lov'd thee,—
+<SPEECH 21><ACT 1><SCENE 2><13%>
+	I must believe you, sir:
+	I do; and will fetch off Bohemia for't;
+	Provided that when he's remov'd, your highness
+	Will take again your queen as yours at first,
+	Even for your son's sake; and thereby for sealing
+	The injury of tongues in courts and kingdoms
+	Known and allied to yours.
+<SPEECH 22><ACT 1><SCENE 2><13%>
+	My lord,
+	Go then; and with a countenance as clear
+	As friendship wears at feasts, keep with Bohemia,
+	And with your queen. I am his cupbearer;
+	If from me he have wholesome beverage,
+	Account me not your servant.
+<SPEECH 23><ACT 1><SCENE 2><13%>
+	I'll do't, my lord.
+<SPEECH 24><ACT 1><SCENE 2><13%>
+	O miserable lady! But, for me,
+	What case stand I in? I must be the poisoner
+	Of good Polixenes; and my ground to do't
+	Is the obedience to a master; one
+	Who, in rebellion with himself will have
+	All that are his so too. To do this deed
+	Promotion follows. If I could find example
+	Of thousands that had struck anointed kings,
+	And flourish'd after, I'd not do't; but since
+	Nor brass nor stone nor parchment bears not one,
+	Let villany itself forswear't. I must
+	Forsake the court: to do't, or no, is certain
+	To me a break-neck. Happy star reign now!
+	Here comes Bohemia.
+<SPEECH 25><ACT 1><SCENE 2><14%>
+	Hail, most royal sir!
+<SPEECH 26><ACT 1><SCENE 2><14%>
+	None rare, my lord.
+<SPEECH 27><ACT 1><SCENE 2><14%>
+	I dare not know, my lord.
+<SPEECH 28><ACT 1><SCENE 2><14%>
+	There is a sickness
+	Which puts some of us in distemper; but
+	I cannot name the disease, and it is caught
+	Of you that yet are well.
+<SPEECH 29><ACT 1><SCENE 2><15%>
+	I may not answer.
+<SPEECH 30><ACT 1><SCENE 2><15%>
+	Sir, I will tell you;
+	Since I am charg'd in honour and by him
+	That I think honourable. Therefore mark my counsel,
+	Which must be even as swiftly follow'd as
+	I mean to utter it, or both yourself and me
+	Cry 'lost,' and so good night!
+<SPEECH 31><ACT 1><SCENE 2><15%>
+	I am appointed him to murder you.
+<SPEECH 32><ACT 1><SCENE 2><15%>
+	By the king.
+<SPEECH 33><ACT 1><SCENE 2><15%>
+	He thinks, nay, with all confidence he swears,
+	As he had seen't or been an instrument
+	To vice you to't, that you have touch'd his queen
+	Forbiddenly.
+<SPEECH 34><ACT 1><SCENE 2><16%>
+	Swear his thought over
+	By each particular star in heaven and
+	By all their influences, you may as well
+	Forbid the sea for to obey the moon
+	As or by oath remove or counsel shake
+	The fabric of his folly, whose foundation
+	Is pil'd upon his faith, and will continue
+	The standing of his body.
+<SPEECH 35><ACT 1><SCENE 2><16%>
+	I know not: but I am sure 'tis safer to
+	Avoid what's grown than question how 'tis born.
+	If therefore you dare trust my honesty,
+	That lies enclosed in this trunk, which you
+	Shall bear along impawn'd, away to-night!
+	Your followers I will whisper to the business,
+	And will by twos and threes at several posterns
+	Clear them o'the city. For myself, I'll put
+	My fortunes to your service, which are here
+	By this discovery lost. Be not uncertain;
+	For, by the honour of my parents, I
+	Have utter'd truth, which, if you seek to prove,
+	I dare not stand by; nor shall you be safer
+	Than one condemn'd by the king's own mouth, thereon
+	His execution sworn.
+<SPEECH 36><ACT 1><SCENE 2><17%>
+	It is in mine authority to command
+	The keys of all the posterns: please your highness
+	To take the urgent hour. Come, sir, away!
+<SPEECH 37><ACT 4><SCENE 1><48%>
+	It is fifteen years since I saw my country: though I have for the most part been aired abroad, I desire to lay my bones there. Besides, the penitent king, my master, hath sent for me; to whose feeling sorrows I might be some allay, or I o'erween to think so, which is another spur to my departure.
+<SPEECH 38><ACT 4><SCENE 1><48%>
+	Sir, it is three days since I saw the prince. What his happier affairs may be, are to me unknown; but I have missingly noted he is of late much retired from court, and is less frequent to his princely exercises than formerly he hath appeared.
+<SPEECH 39><ACT 4><SCENE 1><49%>
+	I have heard, sir, of such a man, who hath a daughter of most rare note: the report of her is extended more than can be thought to begin from such a cottage.
+<SPEECH 40><ACT 4><SCENE 1><49%>
+	I willingly obey your command.
+<SPEECH 41><ACT 4><SCENE 3><57%>
+	I should leave grazing, were I of your flock,
+	And only live by gazing.
+<SPEECH 42><ACT 4><SCENE 3><59%>
+	He tells her something
+	That makes her blood look out. Good sooth, she is
+	The queen of curds and cream.
+<SPEECH 43><ACT 4><SCENE 3><66%>
+	This shows a sound affection.
+<SPEECH 44><ACT 4><SCENE 3><68%>
+	Why, how now, father!
+	Speak, ere thou diest.
+<SPEECH 45><ACT 4><SCENE 3><69%>
+	Gracious my lord,
+	You know your father's temper: at this time
+	He will allow no speech, which I do guess
+	You do not purpose to him; and as hardly
+	Will he endure your sight as yet, I fear:
+	Then, till the fury of his highness settle,
+	Come not before him.
+<SPEECH 46><ACT 4><SCENE 3><69%>
+	Even he, my lord.
+<SPEECH 47><ACT 4><SCENE 3><69%>
+	Be advis'd.
+<SPEECH 48><ACT 4><SCENE 3><69%>
+	This is desperate, sir.
+<SPEECH 49><ACT 4><SCENE 3><70%>
+	O my lord!
+	I would your spirit were easier for advice,
+	Or stronger for your need.
+<SPEECH 50><ACT 4><SCENE 3><70%>
+	He's irremovable,
+	Resolv'd for flight. Now were I happy if
+	His going I could frame to serve my turn,
+	Save him from danger, do him love and honour,
+	Purchase the sight again of dear Sicilia
+	And that unhappy king, my master, whom
+	I so much thirst to see.
+<SPEECH 51><ACT 4><SCENE 3><70%>
+	Sir, I think
+	You have heard of my poor services, i' the love
+	That I have borne your father?
+<SPEECH 52><ACT 4><SCENE 3><70%>
+	Well, my lord,
+	If you may please to think I love the king
+	And through him what's nearest to him, which is
+	Your gracious self, embrace but my direction,
+	If your more ponderous and settled project
+	May suffer alteration, on mine honour
+	I'll point you where you shall have such receiving
+	As shall become your highness; where you may
+	Enjoy your mistress,—from the whom, I see,
+	There's no disjunction to be made, but by,
+	As, heavens forfend! your ruin,—marry her;
+	And with my best endeavours in your absence
+	Your discontenting father strive to qualify,
+	And bring him up to liking.
+<SPEECH 53><ACT 4><SCENE 3><71%>
+	Have you thought on
+	A place whereto you'll go?
+<SPEECH 54><ACT 4><SCENE 3><71%>
+	Then list to me:
+	This follows; if you will not change your purpose
+	But undergo this flight, make for Sicilia,
+	And there present yourself and your fair princess,—
+	For so, I see, she must be,—'fore Leontes;
+	She shall be habited as it becomes
+	The partner of your bed. Methinks I see
+	Leontes opening his free arms and weeping
+	His welcomes forth; asks thee, the son, forgiveness
+	As 'twere i' the father's person; kisses the hands
+	Of your fresh princess; o'er and o'er divides him
+	'Twixt his unkindness and his kindness: the one
+	He chides to hell, and bids the other grow
+	Faster than thought or time.
+<SPEECH 55><ACT 4><SCENE 3><71%>
+	Sent by the king your father
+	To greet him and to give him comforts. Sir,
+	The manner of your bearing towards him, with
+	What you as from your father shall deliver,
+	Things known betwixt us three, I'll write you down:
+	The which shall point you forth at every sitting
+	What you must say; that he shall not perceive
+	But that you have your father's bosom there
+	And speak his very heart.
+<SPEECH 56><ACT 4><SCENE 3><72%>
+	A course more promising
+	Than a wild dedication of yourselves
+	To unpath'd waters, undream'd shores, most certain
+	To miseries enough: no hope to help you,
+	But as you shake off one to take another;
+	Nothing so certain as your anchors, who
+	Do their best office, if they can but stay you
+	Where you'll be loath to be. Besides, you know
+	Prosperity's the very bond of love,
+	Whose fresh complexion and whose heart together
+	Affliction alters.
+<SPEECH 57><ACT 4><SCENE 3><72%>
+	Yea, say you so?
+	There shall not at your father's house these seven years
+	Be born another such.
+<SPEECH 58><ACT 4><SCENE 3><72%>
+	I cannot say 'tis pity
+	She lacks instructions, for she seems a mistress
+	To most that teach.
+<SPEECH 59><ACT 4><SCENE 3><73%>
+	My lord,
+	Fear none of this: I think you know my fortunes
+	Do all lie there: it shall be so my care
+	To have you royally appointed as if
+	The scene you play were mine. For instance, sir,
+	That you may know you shall not want, one word.
+<SPEECH 60><ACT 4><SCENE 3><74%>
+	Nay, but my letters, by this means being there
+	So soon as you arrive, shall clear that doubt.
+<SPEECH 61><ACT 4><SCENE 3><74%>
+	Shall satisfy your father.
+<SPEECH 62><ACT 4><SCENE 3><74%>
+	</STAGE DIR> Whom have we here?
+	We'll make an instrument of this: omit
+	Nothing may give us aid.
+<SPEECH 63><ACT 4><SCENE 3><74%>
+	How now, good fellow! Why shakest thou so? Fear not, man; here's no harm intended to thee.
+<SPEECH 64><ACT 4><SCENE 3><74%>
+	Why, be so still; here's nobody will steal that from thee; yet, for the outside of thy poverty we must make an exchange; therefore, discase thee instantly,—thou must think, there's a necessity in't,—and change garments with this gentleman: though the pennyworth on his side be the worst, yet hold thee, there's some boot.
+<SPEECH 65><ACT 4><SCENE 3><74%>
+	Nay, prithee, dispatch: the gentleman is half flayed already.
+<SPEECH 66><ACT 4><SCENE 3><75%>
+	Unbuckle, unbuckle.—
+	Fortunate mistress,—let my prophecy
+	Come home to ye!—you must retire yourself
+	Into some covert: take your sweetheart's hat
+	And pluck it o'er your brows; muffle your face;
+	Dismantle you, and, as you can, disliken
+	The truth of your own seeming; that you may,—
+	For I do fear eyes over you,—to shipboard
+	Get undescried.
+<SPEECH 67><ACT 4><SCENE 3><75%>
+	No remedy.
+	Have you done there?
+<SPEECH 68><ACT 4><SCENE 3><75%>
+	Nay, you shall have no hat.
+	Come, lady, come. Farewell, my friend.
+<SPEECH 69><ACT 4><SCENE 3><75%>
+	</STAGE DIR> What I do next shall be to tell the king
+	Of this escape, and whither they are bound;
+	Wherein my hope is I shall so prevail
+	To force him after: in whose company
+	I shall review Sicilia, for whose sight
+	I have a woman's longing.
+<SPEECH 70><ACT 4><SCENE 3><75%>
+	The swifter speed the better.
+<SPEECH 71><ACT 5><SCENE 3><96%>
+	My lord, your sorrow was too sore laid on,
+	Which sixteen winters cannot blow away,
+	So many summers dry: scarce any joy
+	Did ever so long live; no sorrow
+	But kill'd itself much sooner.
+<SPEECH 72><ACT 5><SCENE 3><99%>
+	She hangs about his neck:
+	If she pertain to life let her speak too.

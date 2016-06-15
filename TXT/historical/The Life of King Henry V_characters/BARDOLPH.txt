@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 2><SCENE 1><15%>
+	Well met, Corporal Nym.
+<SPEECH 2><ACT 2><SCENE 1><15%>
+	What, are Ancient Pistol and you friends yet?
+<SPEECH 3><ACT 2><SCENE 1><15%>
+	I will bestow a breakfast to make you friends, and we'll be all three sworn brothers to France: let it be so, good Corporal Nym.
+<SPEECH 4><ACT 2><SCENE 1><15%>
+	It is certain, corporal, that he is married to Nell Quickly; and, certainly she did you wrong, for you were troth-plight to her.
+<SPEECH 5><ACT 2><SCENE 1><15%>
+	Here comes Ancient Pistol and his wife. Good corporal, be patient here. How now, mine host Pistol!
+<SPEECH 6><ACT 2><SCENE 1><16%>
+	Good lieutenant! good corporal! offer nothing here.
+<SPEECH 7><ACT 2><SCENE 1><16%>
+	Hear me, hear me what I say: he that strikes the first stroke, I'll run him up to the hilts, as I am a soldier.
+<SPEECH 8><ACT 2><SCENE 1><17%>
+	Away, you rogue!
+<SPEECH 9><ACT 2><SCENE 1><17%>
+	Come, shall I make you two friends? We must to France together. Why the devil should we keep knives to cut one another's throats?
+<SPEECH 10><ACT 2><SCENE 1><17%>
+	By this sword, he that makes the first thrust, I'll kill him; by this sword, I will.
+<SPEECH 11><ACT 2><SCENE 1><18%>
+	Corporal Nym, an thou wilt be friends, be friends: an thou wilt not, why then, be enemies with me too. Prithee, put up.
+<SPEECH 12><ACT 2><SCENE 3><24%>
+	Would I were with him, wheresome'er he is, either in heaven or in hell!
+<SPEECH 13><ACT 2><SCENE 3><25%>
+	And of women.
+<SPEECH 14><ACT 2><SCENE 3><25%>
+	Well, the fuel is gone that maintained that fire: that's all the riches I got in his service.
+<SPEECH 15><ACT 2><SCENE 3><26%>
+	Farewell, hostess.
+<SPEECH 16><ACT 3><SCENE 2><33%>
+	On, on, on, on, on! to the breach, to the breach!

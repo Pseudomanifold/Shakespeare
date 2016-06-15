@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 5><SCENE 5><97%>
+	Shall I do such a deed?
+<SPEECH 2><ACT 5><SCENE 5><97%>
+	O, Clitus!
+<SPEECH 3><ACT 5><SCENE 5><97%>
+	To kill him, Clitus. Look, he meditates.

@@ -1,0 +1,340 @@
+<SPEECH 1><ACT 1><SCENE 1><8%>
+	He has no equal.
+<SPEECH 2><ACT 1><SCENE 1><8%>
+	Mark'd you his lip and eyes?
+<SPEECH 3><ACT 1><SCENE 1><8%>
+	Being mov'd, he will not spare to gird the gods.
+<SPEECH 4><ACT 1><SCENE 1><8%>
+	The present wars devour him; he is grown
+	Too proud to be so valiant.
+<SPEECH 5><ACT 1><SCENE 1><8%>
+	Fame, at the which he aims,
+	In whom already he is well grac'd, cannot
+	Better be held nor more attain'd than by
+	A place below the first; for what miscarries
+	Shall be the general's fault, though he perform
+	To the utmost of a man; and giddy censure
+	Will then cry out of Marcius 'O! if he
+	Had borne the business.'
+<SPEECH 6><ACT 1><SCENE 1><8%>
+	Come:
+	Half all Cominius' honours are to Marcius,
+	Though Marcius earn'd them not; and all his faults
+	To Marcius shall be honours, though indeed
+	In aught he merit not.
+<SPEECH 7><ACT 1><SCENE 1><8%>
+	Let's along.
+<SPEECH 8><ACT 2><SCENE 1><24%>
+	Good or bad?
+<SPEECH 9><ACT 2><SCENE 1><24%>
+	He's a lamb indeed, that baes like a bear.
+<SPEECH 10><ACT 2><SCENE 1><24%>
+	Well, sir.
+<SPEECH 11><ACT 2><SCENE 1><24%>
+	He's poor in no one fault, but stored with all.
+<SPEECH 12><ACT 2><SCENE 1><24%>
+	And topping all others in boasting.
+<SPEECH 13><ACT 2><SCENE 1><25%>
+	We do it not alone, sir.
+<SPEECH 14><ACT 2><SCENE 1><25%>
+	What then, sir?
+<SPEECH 15><ACT 2><SCENE 1><25%>
+	Come, sir, come, we know you well enough.
+<SPEECH 16><ACT 2><SCENE 1><26%>
+	Come, come, you are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol.
+<SPEECH 17><ACT 2><SCENE 1><30%>
+	All tongues speak of him, and the bleared sights
+	Are spectacled to see him: your prattling nurse
+	Into a rapture lets her baby cry
+	While she chats him: the kitchen malkin pins
+	Her richest lockram 'bout her reechy neck,
+	Clambering the walls to eye him: stalls, bulks, windows,
+	Are smother'd up, leads fill'd, and ridges hors'd
+	With variable complexions, all agreeing
+	In earnestness to see him: seld-shown flamens
+	Do press among the popular throngs, and puff
+	To win a vulgar station: our veil'd dames
+	Commit the war of white and damask in
+	Their nicely-gawded cheeks to the wanton spoil
+	Of Phœbus' burning kisses: such a pother
+	As if that whatsoever god who leads him
+	Were slily crept into his human powers,
+	And gave him graceful posture.
+<SPEECH 18><ACT 2><SCENE 1><30%>
+	Then our office may,
+	During his power, go sleep.
+<SPEECH 19><ACT 2><SCENE 1><30%>
+	In that there's comfort.
+<SPEECH 20><ACT 2><SCENE 1><30%>
+	I heard him swear,
+	Were he to stand for consul, never would he
+	Appear i' the market-place, nor on him put
+	The napless vesture of humility;
+	Nor, showing, as the manner is, his wounds
+	To the people, beg their stinking breaths.
+<SPEECH 21><ACT 2><SCENE 1><30%>
+	It was his word. O! he would miss it rather
+	Than carry it but by the suit o' the gentry to him
+	And the desire of the nobles.
+<SPEECH 22><ACT 2><SCENE 1><31%>
+	'Tis most like he will.
+<SPEECH 23><ACT 2><SCENE 1><31%>
+	So it must fall out
+	To him or our authorities. For an end,
+	We must suggest the people in what hatred
+	He still hath held them; that to his power he would
+	Have made them mules, silenc'd their pleaders, and
+	Dispropertied their freedoms; holding them,
+	In human action and capacity,
+	Of no more soul nor fitness for the world
+	Than camels in the war; who have their provand
+	Only for bearing burdens, and sore blows
+	For sinking under them.
+<SPEECH 24><ACT 2><SCENE 1><31%>
+	What's the matter?
+<SPEECH 25><ACT 2><SCENE 1><31%>
+	Let's to the Capitol;
+	And carry with us ears and eyes for the time,
+	But hearts for the event.
+<SPEECH 26><ACT 2><SCENE 2><33%>
+	Which the rather
+	We shall be bless'd to do, if he remember
+	A kinder value of the people than
+	He hath hereto priz'd them at.
+<SPEECH 27><ACT 2><SCENE 2><33%>
+	Most willingly;
+	But yet my caution was more pertinent
+	Than the rebuke you give it.
+<SPEECH 28><ACT 2><SCENE 2><34%>
+	Sir, I hope
+	My words disbench'd you not.
+<SPEECH 29><ACT 2><SCENE 2><36%>
+	</STAGE DIR> Mark you that?
+<SPEECH 30><ACT 2><SCENE 2><36%>
+	You see how he intends to use the people.
+<SPEECH 31><ACT 2><SCENE 2><36%>
+	Come; we'll inform them
+	Of our proceedings here: on the market-place
+	I know they do attend us.
+<SPEECH 32><ACT 2><SCENE 3><41%>
+	We stay here for the people.
+<SPEECH 33><ACT 2><SCENE 3><41%>
+	With a proud heart he wore
+	His humble weeds. Will you dismiss the people?
+<SPEECH 34><ACT 2><SCENE 3><41%>
+	We pray the gods he may deserve your love.
+<SPEECH 35><ACT 2><SCENE 3><41%>
+	Could you not have told him
+	As you were lesson'd, when he had no power,
+	But was a petty servant to the state,
+	He was your enemy, ever spake against
+	Your liberties and the charters that you bear
+	I' the body of the weal; and now, arriving
+	A place of potency and sway o' the state,
+	If he should still malignantly remain
+	Fast foe to the plebeii, your voices might
+	Be curses to yourselves? You should have said
+	That as his worthy deeds did claim no less
+	Than what he stood for, so his gracious nature
+	Would think upon you for your voices and
+	Translate his malice towards you into love,
+	Standing your friendly lord.
+<SPEECH 36><ACT 2><SCENE 3><42%>
+	Did you perceive
+	He did solicit you in free contempt
+	When he did need your loves, and do you think
+	That his contempt shall not be bruising to you
+	When he hath power to crush? Why, had your bodies
+	No heart among you? or had you tongues to cry
+	Against the rectorship of judgment?
+<SPEECH 37><ACT 2><SCENE 3><42%>
+	Get you hence instantly, and tell those friends,
+	They have chose a consul that will from them take
+	Their liberties; make them of no more voice
+	Than dogs that are as often beat for barking
+	As therefore kept to do so.
+<SPEECH 38><ACT 2><SCENE 3><43%>
+	Lay
+	A fault on us, your tribunes; that we labour'd,—
+	No impediment between,—but that you must
+	Cast your election on him.
+<SPEECH 39><ACT 2><SCENE 3><43%>
+	Ay, spare us not. Say we read lectures to you,
+	How youngly he began to serve his country,
+	How long continu'd, and what stock he springs of,
+	The noble house o' the Marcians, from whence came
+	That Ancus Marcius, Numa's daughter's son,
+	Who, after great Hostilius, here was king;
+	Of the same house Publius and Quintus were,
+	That our best water brought by conduits hither;
+	And Censorinus, that was so surnam'd,—
+	And nobly nam'd so, twice being censor,—
+	Was his great ancestor.
+<SPEECH 40><ACT 2><SCENE 3><44%>
+	Say you ne'er had done 't—
+	Harp on that still—but by our putting on;
+	And presently, when you have drawn your number,
+	Repair to the Capitol.
+<SPEECH 41><ACT 2><SCENE 3><44%>
+	Let them go on;
+	This mutiny were better put in hazard
+	Than stay, past doubt, for greater.
+	If, as his nature is, he fall in rage
+	With their refusal, both observe and answer
+	The vantage of his anger.
+<SPEECH 42><ACT 3><SCENE 1><45%>
+	It will be dangerous to go on: no further.
+<SPEECH 43><ACT 3><SCENE 1><45%>
+	Cominius, no.
+<SPEECH 44><ACT 3><SCENE 1><45%>
+	The people are incens'd against him.
+<SPEECH 45><ACT 3><SCENE 1><45%>
+	Call't not a plot:
+	The people cry you mock'd them, and of late,
+	When corn was given them gratis, you repin'd;
+	Scandall'd the suppliants for the people, call'd them
+	Time-pleasers, flatterers, foes to nobleness.
+<SPEECH 46><ACT 3><SCENE 1><45%>
+	Not to them all.
+<SPEECH 47><ACT 3><SCENE 1><45%>
+	How! I inform them!
+<SPEECH 48><ACT 3><SCENE 1><45%>
+	Not unlike,
+	Each way, to better yours.
+<SPEECH 49><ACT 3><SCENE 1><46%>
+	You speak o' the people,
+	As if you were a god to punish, not
+	A man of their infirmity.
+<SPEECH 50><ACT 3><SCENE 1><47%>
+	Why, shall the people give
+	One that speaks thus their voice?
+<SPEECH 51><ACT 3><SCENE 1><48%>
+	Enough, with over-measure.
+<SPEECH 52><ACT 3><SCENE 1><49%>
+	He has said enough.
+<SPEECH 53><ACT 3><SCENE 1><49%>
+	Manifest treason!
+<SPEECH 54><ACT 3><SCENE 1><49%>
+	The ædiles, ho! Let him be apprehended.
+<SPEECH 55><ACT 3><SCENE 1><49%>
+	Seize him, ædiles!
+<SPEECH 56><ACT 3><SCENE 1><50%>
+	By the consent of all, we were establish'd
+	The people's magistrates.
+<SPEECH 57><ACT 3><SCENE 1><50%>
+	Or let us stand to our authority,
+	Or let us lose it. We do here pronounce,
+	Upon the part o' the people, in whose power
+	We were elected theirs, Marcius is worthy
+	Of present death.
+<SPEECH 58><ACT 3><SCENE 1><50%>
+	Ædiles, seize him!
+<SPEECH 59><ACT 3><SCENE 1><50%>
+	Sir, those cold ways,
+	That seem like prudent helps, are very poisonous
+	Where the disease is violent. Lay hands upon him,
+	And bear him to the rock.
+<SPEECH 60><ACT 3><SCENE 1><51%>
+	Lay hands upon him.
+<SPEECH 61><ACT 3><SCENE 1><52%>
+	He consul!
+<SPEECH 62><ACT 3><SCENE 1><53%>
+	Merely awry: when he did love his country
+	It honour'd him.
+<SPEECH 63><ACT 3><SCENE 1><53%>
+	We'll hear no more.
+	Pursue him to his house, and pluck him thence,
+	Lest his infection, being of catching nature,
+	Spread further.
+<SPEECH 64><ACT 3><SCENE 1><53%>
+	If 'twere so,—
+<SPEECH 65><ACT 3><SCENE 1><54%>
+	Go not home.
+<SPEECH 66><ACT 3><SCENE 3><58%>
+	In this point charge him home, that he affects
+	Tyrannical power: if he evade us there,
+	Enforce him with his envy to the people,
+	And that the spoil got on the Antiates
+	Was ne'er distributed.—
+	What, will he come?
+<SPEECH 67><ACT 3><SCENE 3><58%>
+	How accompanied?
+<SPEECH 68><ACT 3><SCENE 3><59%>
+	And when such time they have begun to cry,
+	Let them not cease, but with a din confus'd
+	Enforce the present execution
+	Of what we chance to sentence.
+<SPEECH 69><ACT 3><SCENE 3><59%>
+	Go about it.
+	Put him to choler straight. He hath been us'd
+	Ever to conquer, and to have his worth
+	Of contradiction: being once chaf'd, he cannot
+	Be rein'd again to temperance; then he speaks
+	What's in his heart; and that is there which looks
+	With us to break his neck.
+<SPEECH 70><ACT 3><SCENE 3><61%>
+	But since he hath
+	Serv'd well for Rome,—
+<SPEECH 71><ACT 3><SCENE 3><61%>
+	I talk of that, that know it.
+<SPEECH 72><ACT 3><SCENE 3><62%>
+	There's no more to be said, but he is banish'd,
+	As enemy to the people and his country:
+	It shall be so.
+<SPEECH 73><ACT 4><SCENE 2><64%>
+	Now we have shown our power,
+	Let us seem humbler after it is done
+	Than when it was a-doing.
+<SPEECH 74><ACT 4><SCENE 2><64%>
+	Dismiss them home.
+	Here comes his mother.
+<SPEECH 75><ACT 4><SCENE 2><65%>
+	Why?
+<SPEECH 76><ACT 4><SCENE 2><65%>
+	They have ta'en note of us: keep on your way.
+<SPEECH 77><ACT 4><SCENE 2><65%>
+	I would he had.
+<SPEECH 78><ACT 4><SCENE 2><65%>
+	Pray, let us go.
+<SPEECH 79><ACT 4><SCENE 2><66%>
+	Well, well, we'll leave you.
+<SPEECH 80><ACT 4><SCENE 6><75%>
+	We stood to 't in good time. Is this Menenius?
+<SPEECH 81><ACT 4><SCENE 6><76%>
+	Good den to you all, good den to you all.
+<SPEECH 82><ACT 4><SCENE 6><76%>
+	Farewell, kind neighbours: we wish'd Coriolanus
+	Had lov'd you as we did.
+<SPEECH 83><ACT 4><SCENE 6><76%>
+	Farewell, farewell.
+<SPEECH 84><ACT 4><SCENE 6><76%>
+	Caius Marcius was
+	A worthy officer i' the war; but insolent,
+	O'ercome with pride, ambitious past all thinking,
+	Self-loving,—
+<SPEECH 85><ACT 4><SCENE 6><76%>
+	The gods have well prevented it, and Rome
+	Sits safe and still without him.
+<SPEECH 86><ACT 4><SCENE 6><77%>
+	Go see this rumourer whipp'd. It cannot be
+	The Volsces dare break with us.
+<SPEECH 87><ACT 4><SCENE 6><77%>
+	Not possible.
+<SPEECH 88><ACT 4><SCENE 6><77%>
+	Rais'd only, that the weaker sort may wish
+	Good Marcius home again.
+<SPEECH 89><ACT 4><SCENE 6><78%>
+	But is this true, sir?
+<SPEECH 90><ACT 4><SCENE 6><79%>
+	Say not we brought it.
+<SPEECH 91><ACT 4><SCENE 6><80%>
+	I do not like this news.
+<SPEECH 92><ACT 4><SCENE 6><80%>
+	Let's to the Capitol. Would half my wealth
+	Would buy this for a lie!
+<SPEECH 93><ACT 5><SCENE 1><83%>
+	Only make trial what your love can do
+	For Rome, towards Marcius.
+<SPEECH 94><ACT 5><SCENE 1><83%>
+	You know the very road into his kindness,
+	And cannot lose your way.

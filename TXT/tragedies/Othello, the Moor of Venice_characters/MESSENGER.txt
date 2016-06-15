@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 1><SCENE 3><10%>
+	The Ottomites, reverend and gracious,
+	Steering with due course toward the isle of Rhodes,
+	Have there injointed them with an after fleet.
+<SPEECH 2><ACT 1><SCENE 3><10%>
+	Of thirty sail; and now they do re-stem
+	Their backward course, bearing with frank appearance
+	Their purposes toward Cyprus. Signior Montano,
+	Your trusty and most valiant servitor,
+	With his free duty recommends you thus,
+	And prays you to believe him.
+<SPEECH 3><ACT 2><SCENE 1><23%>
+	The town is empty; on the brow o' the sea
+	Stand ranks of people, and they cry, 'A sail!'

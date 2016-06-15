@@ -1,0 +1,86 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	It well may serve
+	A nursery to our gentry, who are sick
+	For breathing and exploit.
+<SPEECH 2><ACT 1><SCENE 2><10%>
+	You are lov'd, sir;
+	They that least lend it you shall lack you first.
+<SPEECH 3><ACT 2><SCENE 1><20%>
+	Health, at your bidding, serve your majesty!
+<SPEECH 4><ACT 2><SCENE 1><20%>
+	O! 'tis brave wars.
+<SPEECH 5><ACT 2><SCENE 1><21%>
+	I am your accessary; and so farewell.
+<SPEECH 6><ACT 2><SCENE 1><21%>
+	Sweet Monsieur Parolles!
+<SPEECH 7><ACT 2><SCENE 1><21%>
+	We shall, noble captain.
+<SPEECH 8><ACT 2><SCENE 3><32%>
+	No better, if you please.
+<SPEECH 9><ACT 3><SCENE 1><45%>
+	But I am sure the younger of our nature,
+	That surfeit on their ease, will day by day
+	Come here for physic.
+<SPEECH 10><ACT 3><SCENE 6><56%>
+	If your lordship find him not a hilding, hold me no more in your respect.
+<SPEECH 11><ACT 3><SCENE 6><56%>
+	It were fit you knew him; lest, reposing too far in his virtue, which he hath not, he might at some great and trusty business in a main danger fail you.
+<SPEECH 12><ACT 3><SCENE 6><57%>
+	None better than to let him fetch off his drum, which you hear him so confidently undertake to do.
+<SPEECH 13><ACT 3><SCENE 6><57%>
+	O! for the love of laughter, let him fetch his drum: he says he has a stratagem for't. When your lordship sees the bottom of his success in't, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum's entertainment, your inclining cannot be removed. Here he comes.
+<SPEECH 14><ACT 3><SCENE 6><57%>
+	A pox on't! let it go: 'tis but a drum.
+<SPEECH 15><ACT 3><SCENE 6><58%>
+	That was not to be blamed in the command of the service: it was a disaster of war that Cæsar himself could not have prevented if he had been there to command.
+<SPEECH 16><ACT 3><SCENE 6><59%>
+	You do not know him, my lord, as we do: certain it is, that he will steal himself into a man's favour, and for a week escape a great deal of discoveries; but when you find him out you have him ever after.
+<SPEECH 17><ACT 3><SCENE 6><59%>
+	We'll make you some sport with the fox ere we case him. He was first smoked by the old Lord Lafeu: when his disguise and he is parted, tell me what a sprat you shall find him; which you shall see this very night.
+<SPEECH 18><ACT 3><SCENE 6><60%>
+	But you say she's honest.
+<SPEECH 19><ACT 3><SCENE 6><60%>
+	With all my heart, my lord.
+<SPEECH 20><ACT 4><SCENE 3><68%>
+	I have delivered it an hour since: there is something in't that stings his nature, for on the reading it he changed almost into another man.
+<SPEECH 21><ACT 4><SCENE 3><68%>
+	Especially he hath incurred the everlasting displeasure of the king, who had even tuned his bounty to sing happiness to him. I will tell you a thing, but you shall let it dwell darkly with you.
+<SPEECH 22><ACT 4><SCENE 3><68%>
+	He hath perverted a young gentlewoman here in Florence, of a most chaste renown; and this night he fleshes his will in the spoil of her honour: he hath given her his monumental ring, and thinks himself made in the unchaste composition.
+<SPEECH 23><ACT 4><SCENE 3><69%>
+	Merely our own traitors: and as in the common course of all treasons, we still see them reveal themselves, till they attain to their abhorred ends, so he that in this action contrives against his own nobility, in his proper stream o'erflows himself.
+<SPEECH 24><ACT 4><SCENE 3><69%>
+	Not till after midnight, for he is dieted to his hour.
+<SPEECH 25><ACT 4><SCENE 3><69%>
+	We will not meddle with him till he come, for his presence must be the whip of the other.
+<SPEECH 26><ACT 4><SCENE 3><69%>
+	I hear there is an overture of peace.
+<SPEECH 27><ACT 4><SCENE 3><69%>
+	What will Count Rousillon do then? will he travel higher, or return again into France?
+<SPEECH 28><ACT 4><SCENE 3><69%>
+	Let it be forbid, sir; so should I be a great deal of his act.
+<SPEECH 29><ACT 4><SCENE 3><70%>
+	How is this justified?
+<SPEECH 30><ACT 4><SCENE 3><70%>
+	Hath the count all this intelligence?
+<SPEECH 31><ACT 4><SCENE 3><70%>
+	I am heartily sorry that he'll be glad of this.
+<SPEECH 32><ACT 4><SCENE 3><70%>
+	And how mightily some other times we drown our gain in tears! The great dignity that his valour hath here acquired for him shall at home be encountered with a shame as ample.
+<SPEECH 33><ACT 4><SCENE 3><71%>
+	They shall be no more than needful there, if they were more than they can commend.
+<SPEECH 34><ACT 4><SCENE 3><71%>
+	If the business be of any difficulty, and this morning your departure hence, it requires haste of your lordship.
+<SPEECH 35><ACT 4><SCENE 3><71%>
+	Bring him forth. <STAGE DIR>
+	</STAGE DIR> Has sat i' the stocks all night, poor gallant knave.
+<SPEECH 36><ACT 4><SCENE 3><72%>
+	His confession is taken, and it shall be read to his face: if your lordship be in't, as I believe you are, you must have the patience to hear it.
+<SPEECH 37><ACT 4><SCENE 3><73%>
+	I will never trust a man again for keeping his sword clean; nor believe he can have everything in him by wearing his apparel neatly.
+<SPEECH 38><ACT 4><SCENE 3><77%>
+	Why does he ask him or me?
+<SPEECH 39><ACT 4><SCENE 3><78%>
+	God bless you, Captain Parolles.
+<SPEECH 40><ACT 4><SCENE 3><79%>
+	Captain, what greeting will you to my Lord Lafeu? I am for France.

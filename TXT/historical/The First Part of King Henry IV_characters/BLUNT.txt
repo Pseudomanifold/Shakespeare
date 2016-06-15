@@ -1,0 +1,52 @@
+<SPEECH 1><ACT 1><SCENE 3><13%>
+	The circumstance consider'd, good my lord,
+	Whatever Harry Percy then had said
+	To such a person and in such a place,
+	At such a time, with all the rest re-told,
+	May reasonably die and never rise
+	To do him wrong, or any way impeach
+	What then he said, so he unsay it now.
+<SPEECH 2><ACT 3><SCENE 2><63%>
+	So hath the business that I come to speak of.
+	Lord Mortimer of Scotland hath sent word
+	That Douglas and the English rebels met,
+	The eleventh of this month at Shrewsbury.
+	A mighty and a fearful head they are,—
+	If promises be kept on every hand,—
+	As ever offer'd foul play in a state.
+<SPEECH 3><ACT 4><SCENE 3><78%>
+	I come with gracious offers from the king,
+	If you vouchsafe me hearing and respect.
+<SPEECH 4><ACT 4><SCENE 3><78%>
+	And God defend but still I should stand so,
+	So long as out of limit and true rule
+	You stand against anointed majesty.
+	But, to my charge. The king hath sent to know
+	The nature of your griefs, and whereupon
+	You conjure from the breast of civil peace
+	Such bold hostility, teaching his duteous land
+	Audacious cruelty. If that the king
+	Have any way your good deserts forgot,—
+	Which he confesseth to be manifold,—
+	He bids you name your griefs; and with all speed
+	You shall have your desires with interest,
+	And pardon absolute for yourself and these
+	Herein misled by your suggestion.
+<SPEECH 5><ACT 4><SCENE 3><80%>
+	Tut, I came not to hear this.
+<SPEECH 6><ACT 4><SCENE 3><80%>
+	Shall I return this answer to the king?
+<SPEECH 7><ACT 4><SCENE 3><81%>
+	I would you would accept of grace and love.
+<SPEECH 8><ACT 4><SCENE 3><81%>
+	Pray God, you do!
+<SPEECH 9><ACT 5><SCENE 3><90%>
+	What is thy name, that in the battle thus
+	Thou crossest me? what honour dost thou seek
+	Upon my head?
+<SPEECH 10><ACT 5><SCENE 3><90%>
+	They tell thee true.
+<SPEECH 11><ACT 5><SCENE 3><90%>
+	I was not born a yielder, thou proud Scot;
+	And thou shalt find a king that will revenge
+	Lord Stafford's death.

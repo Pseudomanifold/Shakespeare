@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Truly, sir, in respect of a fine workman, I am but, as you would say, a cobbler.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	A trade, sir, that, I hope, I may use with a safe conscience; which is, indeed, sir, a mender of bad soles.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Nay, I beseech you, sir, be not out with me: yet, if you be out, sir, I can mend you.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	Why, sir, cobble you.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	Truly, sir, all that I live by is with the awl: I meddle with no tradesman's matters, nor women's matters, but with awl. I am, indeed, sir, a surgeon to old shoes; when they are in great danger, I recover them. As proper men as ever trod upon neat's leather have gone upon my handiwork.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Truly, sir, to wear out their shoes, to get myself into more work. But, indeed, sir, we make holiday to see Cæsar and to rejoice in his triumph.

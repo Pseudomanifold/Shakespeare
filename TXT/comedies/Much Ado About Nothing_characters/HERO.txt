@@ -1,0 +1,168 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	My cousin means Signior Benedick of Padua.
+<SPEECH 2><ACT 2><SCENE 1><16%>
+	He is of a very melancholy disposition.
+<SPEECH 3><ACT 2><SCENE 1><19%>
+	So you walk softly and look sweetly and say nothing, I am yours for the walk; and especially when I walk away.
+<SPEECH 4><ACT 2><SCENE 1><19%>
+	I may say so, when I please.
+<SPEECH 5><ACT 2><SCENE 1><19%>
+	When I like your favour; for God defend the lute should be like the case!
+<SPEECH 6><ACT 2><SCENE 1><19%>
+	Why, then, your visor should be thatch'd.
+<SPEECH 7><ACT 2><SCENE 1><29%>
+	I will do any modest office, my lord, to help my cousin to a good husband.
+<SPEECH 8><ACT 3><SCENE 1><41%>
+	Good Margaret, run thee to the parlour;
+	There shalt thou find my cousin Beatrice
+	Proposing with the prince and Claudio:
+	Whisper her ear, and tell her, I and Ursula
+	Walk in the orchard, and our whole discourse
+	Is all of her; say that thou overheard'st us,
+	And bid her steal into the pleached bower,
+	Where honey-suckles, ripen'd by the sun,
+	Forbid the sun to enter; like favourites,
+	Made proud by princes, that advance their pride
+	Against that power that bred it. There will she hide her,
+	To listen our propose. This is thy office;
+	Bear thee well in it and leave us alone.
+<SPEECH 9><ACT 3><SCENE 1><42%>
+	Now, Ursula, when Beatrice doth come,
+	As we do trace this alley up and down,
+	Our talk must only be of Benedick:
+	When I do name him, let it be thy part
+	To praise him more than ever man did merit.
+	My talk to thee must be how Benedick
+	Is sick in love with Beatrice: of this matter
+	Is little Cupid's crafty arrow made,
+	That only wounds by hearsay.
+	Now begin;
+	For look where Beatrice, like a lapwing, runs
+	Close by the ground, to hear our conference.
+<SPEECH 10><ACT 3><SCENE 1><42%>
+	Then go we near her, that her ear lose nothing
+	Of the false sweet bait that we lay for it.
+	No, truly, Ursula, she is too disdainful;
+	I know her spirits are as coy and wild
+	As haggerds of the rock.
+<SPEECH 11><ACT 3><SCENE 1><43%>
+	So says the prince, and my new-trothed lord.
+<SPEECH 12><ACT 3><SCENE 1><43%>
+	They did entreat me to acquaint her of it;
+	But I persuaded them, if they lov'd Benedick,
+	To wish him wrestle with affection,
+	And never to let Beatrice know of it.
+<SPEECH 13><ACT 3><SCENE 1><43%>
+	O god of love! I know he doth deserve
+	As much as may be yielded to a man;
+	But nature never fram'd a woman's heart
+	Of prouder stuff than that of Beatrice;
+	Disdain and scorn ride sparkling in her eyes,
+	Misprising what they look on, and her wit
+	Values itself so highly, that to her
+	All matter else seems weak. She cannot love,
+	Nor take no shape nor project of affection,
+	She is so self-endear'd.
+<SPEECH 14><ACT 3><SCENE 1><43%>
+	Why, you speak truth. I never yet saw man,
+	How wise, how noble, young, how rarely featur'd,
+	But she would spell him backward: if fair-fac'd,
+	She would swear the gentleman should be her sister;
+	If black, why, Nature, drawing of an antick,
+	Made a foul blot; if tall, a lance ill-headed;
+	If low, an agate very vilely cut;
+	If speaking, why, a vane blown with all winds;
+	If silent, why, a block moved with none.
+	So turns she every man the wrong side out,
+	And never gives to truth and virtue that
+	Which simpleness and merit purchaseth.
+<SPEECH 15><ACT 3><SCENE 1><44%>
+	No; not to be so odd and from all fashions
+	As Beatrice is, cannot be commendable.
+	But who dare tell her so? If I should speak,
+	She would mock me into air: O! she would laugh me
+	Out of myself, press me to death with wit.
+	Therefore let Benedick, like cover'd fire,
+	Consume away in sighs, waste inwardly:
+	It were a better death than die with mocks,
+	Which is as bad as die with tickling.
+<SPEECH 16><ACT 3><SCENE 1><44%>
+	No; rather I will go to Benedick,
+	And counsel him to fight against his passion.
+	And, truly, I'll devise some honest slanders
+	To stain my cousin with. One doth not know
+	How much an ill word may empoison liking.
+<SPEECH 17><ACT 3><SCENE 1><45%>
+	He is the only man of Italy,
+	Always excepted my dear Claudio.
+<SPEECH 18><ACT 3><SCENE 1><45%>
+	Indeed, he hath an excellent good name.
+<SPEECH 19><ACT 3><SCENE 1><45%>
+	Why, every day, to-morrow. Come, go in:
+	I'll show thee some attires, and have thy counsel
+	Which is the best to furnish me to-morrow.
+<SPEECH 20><ACT 3><SCENE 1><45%>
+	If it prove so, then loving goes by haps:
+	Some Cupid kills with arrows, some with traps.
+<SPEECH 21><ACT 3><SCENE 4><57%>
+	Good Ursula, wake my cousin Beatrice, and desire her to rise.
+<SPEECH 22><ACT 3><SCENE 4><57%>
+	And bid her come hither.
+<SPEECH 23><ACT 3><SCENE 4><57%>
+	No, pray thee, good Meg, I'll wear this.
+<SPEECH 24><ACT 3><SCENE 4><57%>
+	My cousin's a fool, and thou art another: I'll wear none but this.
+<SPEECH 25><ACT 3><SCENE 4><57%>
+	O! that exceeds, they say.
+<SPEECH 26><ACT 3><SCENE 4><57%>
+	God give me joy to wear it! for my heart is exceeding heavy.
+<SPEECH 27><ACT 3><SCENE 4><58%>
+	Fie upon thee! art not ashamed?
+<SPEECH 28><ACT 3><SCENE 4><58%>
+	Good morrow, coz.
+<SPEECH 29><ACT 3><SCENE 4><58%>
+	Why, how now! do you speak in the sick tune?
+<SPEECH 30><ACT 3><SCENE 4><59%>
+	These gloves the count sent me; they are an excellent perfume.
+<SPEECH 31><ACT 3><SCENE 4><59%>
+	There thou prick'st her with a thistle.
+<SPEECH 32><ACT 3><SCENE 4><60%>
+	Help to dress me, good coz, good Meg, good Ursula.
+<SPEECH 33><ACT 4><SCENE 1><63%>
+	I do.
+<SPEECH 34><ACT 4><SCENE 1><63%>
+	None, my lord.
+<SPEECH 35><ACT 4><SCENE 1><64%>
+	And seem'd I ever otherwise to you?
+<SPEECH 36><ACT 4><SCENE 1><64%>
+	Is my lord well, that he doth speak so wide?
+<SPEECH 37><ACT 4><SCENE 1><65%>
+	True! O God!
+<SPEECH 38><ACT 4><SCENE 1><65%>
+	O, God defend me! how am I beset!
+	What kind of catechizing call you this?
+<SPEECH 39><ACT 4><SCENE 1><65%>
+	Is it not Hero? Who can blot that name
+	With any just reproach?
+<SPEECH 40><ACT 4><SCENE 1><65%>
+	I talk'd with no man at that hour, my lord.
+<SPEECH 41><ACT 4><SCENE 1><69%>
+	They know that do accuse me, I know none;
+	If I know more of any man alive
+	Than that which maiden modesty doth warrant,
+	Let all my sins lack mercy! O, my father!
+	Prove you that any man with me convers'd
+	At hours unmeet, or that I yesternight
+	Maintain'd the change of words with any creature,
+	Refuse me, hate me, torture me to death.
+<SPEECH 42><ACT 5><SCENE 4><97%>
+	And when I liv'd, I was your other wife:
+	And when you lov'd, you were my other husband.
+<SPEECH 43><ACT 5><SCENE 4><97%>
+	Nothing certainer:
+	One Hero died defil'd, but I do live,
+	And surely as I live, I am a maid.
+<SPEECH 44><ACT 5><SCENE 4><98%>
+	And here's another,
+	Writ in my cousin's hand, stolen from her pocket,
+	Containing her affection unto Benedick.

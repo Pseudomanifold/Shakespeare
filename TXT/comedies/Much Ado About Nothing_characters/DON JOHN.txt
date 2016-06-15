@@ -1,0 +1,88 @@
+<SPEECH 1><ACT 1><SCENE 1><6%>
+	I thank you: I am not of many words, but I thank you.
+<SPEECH 2><ACT 1><SCENE 3><13%>
+	There is no measure in the occasion that breeds; therefore the sadness is without limit.
+<SPEECH 3><ACT 1><SCENE 3><13%>
+	And when I have heard it, what blessing brings it?
+<SPEECH 4><ACT 1><SCENE 3><13%>
+	I wonder that thou, being,—as thou say'st thou art,—born under Saturn, goest about to apply a moral medicine to a mortifying mischief. I cannot hide what I am: I must be sad when I have cause, and smile at no man's jests; eat when I have stomach, and wait for no man's leisure; sleep when I am drowsy, and tend on no man's business; laugh when I am merry, and claw no man in his humour.
+<SPEECH 5><ACT 1><SCENE 3><14%>
+	I had rather be a canker in a hedge than a rose in his grace; and it better fits my blood to be disdained of all than to fashion a carriage to rob love from any: in this, though I cannot be said to be a flattering honest man, it must not be denied but I am a plain-dealing villain. I am trusted with a muzzle and enfranchised with a clog; therefore I have decreed not to sing in my cage. If I had my mouth, I would bite; if I had my liberty, I would do my liking: in the meantime, let me be that I am, and seek not to alter me.
+<SPEECH 6><ACT 1><SCENE 3><14%>
+	I make all use of it, for I use it only. Who comes here?
+	What news, Borachio?
+<SPEECH 7><ACT 1><SCENE 3><14%>
+	Will it serve for any model to build mischief on? What is he for a fool that betroths himself to unquietness?
+<SPEECH 8><ACT 1><SCENE 3><15%>
+	Who? the most exquisite Claudio?
+<SPEECH 9><ACT 1><SCENE 3><15%>
+	A proper squire! And who, and who? which way looks he?
+<SPEECH 10><ACT 1><SCENE 3><15%>
+	A very forward March-chick! How came you to this?
+<SPEECH 11><ACT 1><SCENE 3><15%>
+	Come, come; let us thither: this may prove food to my displeasure. That young start-up hath all the glory of my overthrow: if I can cross him any way, I bless myself every way. You are both sure, and will assist me?
+<SPEECH 12><ACT 1><SCENE 3><15%>
+	Let us to the great supper: their cheer is the greater that I am subdued. Would the cook were of my mind! Shall we go prove what's to be done?
+<SPEECH 13><ACT 2><SCENE 1><21%>
+	Sure my brother is amorous on Hero, and hath withdrawn her father to break with him about it. The ladies follow her and but one visor remains.
+<SPEECH 14><ACT 2><SCENE 1><21%>
+	Are you not Signior Benedick?
+<SPEECH 15><ACT 2><SCENE 1><21%>
+	Signior, you are very near my brother in his love: he is enamoured on Hero; I pray you, dissuade him from her; she is no equal for his birth: you may do the part of an honest man in it.
+<SPEECH 16><ACT 2><SCENE 1><21%>
+	I heard him swear his affection.
+<SPEECH 17><ACT 2><SCENE 1><21%>
+	Come, let us to the banquet.
+<SPEECH 18><ACT 2><SCENE 2><29%>
+	It is so; the Count Claudio shall marry the daughter of Leonato.
+<SPEECH 19><ACT 2><SCENE 2><29%>
+	Any bar, any cross, any impediment will be medicinable to me: I am sick in displeasure to him, and whatsoever comes athwart his affection ranges evenly with mine. How canst thou cross this marriage?
+<SPEECH 20><ACT 2><SCENE 2><30%>
+	Show me briefly how.
+<SPEECH 21><ACT 2><SCENE 2><30%>
+	I remember.
+<SPEECH 22><ACT 2><SCENE 2><30%>
+	What life is in that, to be the death of this marriage?
+<SPEECH 23><ACT 2><SCENE 2><30%>
+	What proof shall I make of that?
+<SPEECH 24><ACT 2><SCENE 2><30%>
+	Only to despite them, I will endeavour any thing.
+<SPEECH 25><ACT 2><SCENE 2><31%>
+	Grow this to what adverse issue it can, I will put it in practice. Be cunning in the working this, and thy fee is a thousand ducats.
+<SPEECH 26><ACT 2><SCENE 2><31%>
+	I will presently go learn their day of marriage.
+<SPEECH 27><ACT 3><SCENE 2><48%>
+	My lord and brother, God save you!
+<SPEECH 28><ACT 3><SCENE 2><48%>
+	If your leisure served, I would speak with you.
+<SPEECH 29><ACT 3><SCENE 2><48%>
+	If it please you; yet Count Claudio may hear, for what I would speak of concerns him.
+<SPEECH 30><ACT 3><SCENE 2><49%>
+	</STAGE DIR> Means your lordship to be married to-morrow?
+<SPEECH 31><ACT 3><SCENE 2><49%>
+	I know not that, when he knows what I know.
+<SPEECH 32><ACT 3><SCENE 2><49%>
+	You may think I love you not: let that appear hereafter, and aim better at me by that I now will manifest. For my brother, I think he holds you well, and in dearness of heart hath holp to effect your ensuing marriage; surely suit ill-spent, and labour ill bestowed!
+<SPEECH 33><ACT 3><SCENE 2><49%>
+	I came hither to tell you; and circumstances shortened,—for she hath been too long a talking of,—the lady is disloyal.
+<SPEECH 34><ACT 3><SCENE 2><49%>
+	Even she: Leonato's Hero, your Hero, every man's Hero.
+<SPEECH 35><ACT 3><SCENE 2><49%>
+	The word's too good to paint out her wickedness; I could say, she were worse: think you of a worse title, and I will fit her to it. Wonder not till further warrant: go but with me to-night, you shall see her chamber-window entered, even the night before her wedding-day: if you love her then, to-morrow wed her; but it would better fit your honour to change your mind.
+<SPEECH 36><ACT 3><SCENE 2><50%>
+	If you dare not trust that you see, confess not that you know. If you will follow me, I will show you enough; and when you have seen more and heard more, proceed accordingly.
+<SPEECH 37><ACT 3><SCENE 2><50%>
+	I will disparage her no further till you are my witnesses: bear it coldly but till midnight, and let the issue show itself.
+<SPEECH 38><ACT 3><SCENE 2><50%>
+	O plague right well prevented! So will you say when you have seen the sequel.
+<SPEECH 39><ACT 4><SCENE 1><65%>
+	Sir, they are spoken, and these things are true.
+<SPEECH 40><ACT 4><SCENE 1><66%>
+	Fie, fie! they are not to be nam'd, my lord,
+	Not to be spoke of;
+	There is not chastity enough in language
+	Without offence to utter them. Thus, pretty lady,
+	I am sorry for thy much misgovernment.
+<SPEECH 41><ACT 4><SCENE 1><66%>
+	Come, let us go. These things, come thus to light,
+	Smother her spirits up.

@@ -1,0 +1,157 @@
+<SPEECH 1><ACT 2><SCENE 3><39%>
+	</STAGE DIR> And how his silence drinks up this applause!
+<SPEECH 2><ACT 2><SCENE 3><39%>
+	You must prepare to fight without Achilles.
+<SPEECH 3><ACT 2><SCENE 3><40%>
+	Or covetous of praise,—
+<SPEECH 4><ACT 2><SCENE 3><40%>
+	Or strange, or self-affected!
+<SPEECH 5><ACT 2><SCENE 3><40%>
+	Be rul'd by him, Lord Ajax.
+<SPEECH 6><ACT 3><SCENE 3><52%>
+	This shall I undertake; and 'tis a burden
+	Which I am proud to bear.
+<SPEECH 7><ACT 4><SCENE 1><60%>
+	That's my mind too. Good morrow, Lord Æneas.
+<SPEECH 8><ACT 4><SCENE 1><60%>
+	The one and other Diomed embraces.
+	Our bloods are now in calm, and, so long, health!
+	But when contention and occasion meet,
+	By Jove, I'll play the hunter for thy life
+	With all my force, pursuit, and policy.
+<SPEECH 9><ACT 4><SCENE 1><60%>
+	We sympathize. Jove, let Æneas live,
+	If to my sword his fate be not the glory,
+	A thousand complete courses of the sun!
+	But, in mine emulous honour, let him die,
+	With every joint a wound, and that to-morrow!
+<SPEECH 10><ACT 4><SCENE 1><60%>
+	We do; and long to know each other worse.
+<SPEECH 11><ACT 4><SCENE 1><61%>
+	Both alike:
+	He merits well to have her that doth seek her—
+	Not making any scruple of her soilure—
+	With such a hell of pain and world of charge,
+	And you as well to keep her that defend her—
+	Not palating the taste of her dishonour—
+	With such a costly loss of wealth and friends:
+	He, like a puling cuckold, would drink up
+	The lees and dregs of a flat tamed piece;
+	You, like a lecher, out of whorish loins
+	Are pleas'd to breed out your inheritors:
+	Both merits pois'd, each weighs nor less nor more;
+	But he as he, the heavier for a whore.
+<SPEECH 12><ACT 4><SCENE 1><61%>
+	She's bitter to her country. Hear me, Paris:
+	For every false drop in her bawdy veins
+	A Grecian's life hath sunk; for every scruple
+	Of her contaminated carrion weight
+	A Trojan hath been slain. Since she could speak,
+	She hath not given so many good words breath
+	As for her Greeks and Trojans suffer'd death.
+<SPEECH 13><ACT 4><SCENE 4><69%>
+	Fair Lady Cressid,
+	So please you, save the thanks this prince expects:
+	The lustre in your eye, heaven in your cheek,
+	Pleads your fair usage; and to Diomed
+	You shall be mistress, and command him wholly.
+<SPEECH 14><ACT 4><SCENE 4><69%>
+	O! be not mov'd, Prince Troilus:
+	Let me be privileg'd by my place and message
+	To be a speaker free; when I am hence,
+	I'll answer to my lust; and know you, lord,
+	I'll nothing do on charge: to her own worth
+	She shall be priz'd; but that you say 'be't so,'
+	I'll speak it in my spirit and honour, 'no.'
+<SPEECH 15><ACT 4><SCENE 5><71%>
+	Even she.
+<SPEECH 16><ACT 4><SCENE 5><72%>
+	Lady, a word: I'll bring you to your father.
+<SPEECH 17><ACT 4><SCENE 5><74%>
+	You must no more.
+<SPEECH 18><ACT 4><SCENE 5><74%>
+	As Hector pleases.
+<SPEECH 19><ACT 4><SCENE 5><75%>
+	'Tis Agamemnon's wish, and great Achilles
+	Doth long to see unarm'd the valiant Hector.
+<SPEECH 20><ACT 5><SCENE 1><82%>
+	I cannot, lord; I have important business,
+	The tide whereof is now. Good-night, great Hector.
+<SPEECH 21><ACT 5><SCENE 2><82%>
+	What, are you up here, ho! speak.
+<SPEECH 22><ACT 5><SCENE 2><82%>
+	Diomed. Calchas, I think. Where's your daughter?
+<SPEECH 23><ACT 5><SCENE 2><83%>
+	How now, my charge!
+<SPEECH 24><ACT 5><SCENE 2><83%>
+	Will you remember?
+<SPEECH 25><ACT 5><SCENE 2><83%>
+	Nay, but do, then;
+	And let your mind be coupled with your words.
+<SPEECH 26><ACT 5><SCENE 2><83%>
+	Nay, then,—
+<SPEECH 27><ACT 5><SCENE 2><83%>
+	Foh, foh! come, tell a pin: you are forsworn.
+<SPEECH 28><ACT 5><SCENE 2><83%>
+	What did you swear you would bestow on me?
+<SPEECH 29><ACT 5><SCENE 2><83%>
+	Good-night.
+<SPEECH 30><ACT 5><SCENE 2><83%>
+	No, no, good-night; I'll be your fool no more.
+<SPEECH 31><ACT 5><SCENE 2><84%>
+	And so, good-night.
+<SPEECH 32><ACT 5><SCENE 2><84%>
+	Foh, foh! adieu; you palter.
+<SPEECH 33><ACT 5><SCENE 2><84%>
+	But will you, then?
+<SPEECH 34><ACT 5><SCENE 2><84%>
+	Give me some token for the surety of it.
+<SPEECH 35><ACT 5><SCENE 2><85%>
+	Whose was't?
+<SPEECH 36><ACT 5><SCENE 2><85%>
+	I shall have it.
+<SPEECH 37><ACT 5><SCENE 2><85%>
+	Ay, that.
+<SPEECH 38><ACT 5><SCENE 2><85%>
+	I had your heart before; this follows it.
+<SPEECH 39><ACT 5><SCENE 2><85%>
+	I will have this. Whose was it?
+<SPEECH 40><ACT 5><SCENE 2><85%>
+	Come, tell me whose it was.
+<SPEECH 41><ACT 5><SCENE 2><85%>
+	Whose was it?
+<SPEECH 42><ACT 5><SCENE 2><85%>
+	To-morrow will I wear it on my helm,
+	And grieve his spirit that dares not challenge it.
+<SPEECH 43><ACT 5><SCENE 2><85%>
+	Why then, farewell;
+	Thou never shalt mock Diomed again.
+<SPEECH 44><ACT 5><SCENE 2><85%>
+	I do not like this fooling.
+<SPEECH 45><ACT 5><SCENE 2><86%>
+	What, shall I come? the hour?
+<SPEECH 46><ACT 5><SCENE 2><86%>
+	Farewell till then.
+<SPEECH 47><ACT 5><SCENE 4><93%>
+	Thou dost miscall retire:
+	I do not fly; but advantageous care
+	Withdrew me from the odds of multitude.
+	Have at thee!
+<SPEECH 48><ACT 5><SCENE 5><93%>
+	Go, go, my servant, take thou Troilus' horse;
+	Present the fair steed to my Lady Cressid:
+	Fellow, commend my service to her beauty:
+	Tell her I have chastis'd the amorous Trojan,
+	And am her knight by proof.
+<SPEECH 49><ACT 5><SCENE 5><95%>
+	Ay, there, there.
+<SPEECH 50><ACT 5><SCENE 6><95%>
+	Troilus, I say! where's Troilus?
+<SPEECH 51><ACT 5><SCENE 6><95%>
+	I would correct him.
+<SPEECH 52><ACT 5><SCENE 6><95%>
+	Ha! art thou there?
+<SPEECH 53><ACT 5><SCENE 6><95%>
+	He is my prize; I will not look upon.
+<SPEECH 54><ACT 5><SCENE 1><98%>
+	The bruit is, Hector's slain, and by Achilles.

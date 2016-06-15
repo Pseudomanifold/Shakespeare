@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 1><SCENE 3><16%>
+	Good even, Casca: brought you Cæsar home?
+	Why are you breathless? and why stare you so?
+<SPEECH 2><ACT 1><SCENE 3><16%>
+	Why, saw you any thing more wonderful?
+<SPEECH 3><ACT 1><SCENE 3><17%>
+	Indeed, it is a strange-disposed time:
+	But men may construe things after their fashion,
+	Clean from the purpose of the things themselves.
+	Comes Cæsar to the Capitol to-morrow?
+<SPEECH 4><ACT 1><SCENE 3><17%>
+	Good-night then, Casca: this disturbed sky
+	Is not to walk in.

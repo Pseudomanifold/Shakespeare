@@ -1,0 +1,131 @@
+<SPEECH 1><ACT 4><SCENE 6><75%>
+	How now! How a dozen of virginities?
+<SPEECH 2><ACT 4><SCENE 6><75%>
+	You may so; 'tis the better for you that your resorters stand upon sound legs. How now! wholesome iniquity, have you that a man may deal withal, and defy the surgeon?
+<SPEECH 3><ACT 4><SCENE 6><76%>
+	If she'd do the deed of darkness, thou wouldst say.
+<SPEECH 4><ACT 4><SCENE 6><76%>
+	Well; call forth, call forth.
+<SPEECH 5><ACT 4><SCENE 6><76%>
+	What, prithee?
+<SPEECH 6><ACT 4><SCENE 6><76%>
+	That dignifies the renown of a bawd no less than it gives a good report to a number to be chaste.
+<SPEECH 7><ACT 4><SCENE 6><76%>
+	Faith, she would serve after a long voyage at sea. Well, there's for you; leave us.
+<SPEECH 8><ACT 4><SCENE 6><76%>
+	I beseech you do.
+<SPEECH 9><ACT 4><SCENE 6><77%>
+	Ha' you done?
+<SPEECH 10><ACT 4><SCENE 6><77%>
+	Go thy ways. <STAGE DIR>
+	</STAGE DIR> Now, pretty one, how long have you been at this trade?
+<SPEECH 11><ACT 4><SCENE 6><77%>
+	Why, I cannot name 't but I shall offend.
+<SPEECH 12><ACT 4><SCENE 6><77%>
+	How long have you been of this profession?
+<SPEECH 13><ACT 4><SCENE 6><77%>
+	Did you go to 't so young? Were you a gamester at five or at seven?
+<SPEECH 14><ACT 4><SCENE 6><78%>
+	Why, the house you dwell in proclaims you to be a creature of sale.
+<SPEECH 15><ACT 4><SCENE 6><78%>
+	Why, hath your principal made known unto you who I am?
+<SPEECH 16><ACT 4><SCENE 6><78%>
+	Why, your herb-woman; she that sets seeds and roots of shame and iniquity. O! you have heard something of my power, and so stand aloof for more serious wooing. But I protest to thee, pretty one, my authority shall not see thee, or else look friendly upon thee. Come, bring me to some private place; come, come.
+<SPEECH 17><ACT 4><SCENE 6><78%>
+	How's this? how's this? Some more; be sage.
+<SPEECH 18><ACT 4><SCENE 6><79%>
+	I did not think
+	Thou couldst have spoke so well; ne'er dream'd thou couldst.
+	Had I brought hither a corrupted mind,
+	Thy speech had alter'd it. Hold, here's gold for thee;
+	Persever in that clear way thou goest,
+	And the gods strengthen thee!
+<SPEECH 19><ACT 4><SCENE 6><79%>
+	For me, be you thoughten
+	That I came with no ill intent, for to me
+	The very doors and windows savour vilely.
+	Farewell. Thou art a piece of virtue, and
+	I doubt not but thy training hath been noble.
+	Hold, here's more gold for thee.
+	A curse upon him, die he like a thief,
+	That robs thee of thy goodness! If thou dost
+	Hear from me, it shall be for thy good.
+<SPEECH 20><ACT 4><SCENE 6><79%>
+	Avaunt! thou damned door-keeper. Your house,
+	But for this virgin that doth prop it, would
+	Sink and overwhelm you. Away!
+<SPEECH 21><ACT 5><SCENE 1><85%>
+	Hail, reverend sir! The gods preserve you!
+<SPEECH 22><ACT 5><SCENE 1><85%>
+	You wish me well.
+	Being on shore, honouring of Neptune's triumphs,
+	Seeing this goodly vessel ride before us,
+	I made to it to know of whence you are.
+<SPEECH 23><ACT 5><SCENE 1><85%>
+	I am the governor of this place you lie before.
+<SPEECH 24><ACT 5><SCENE 1><85%>
+	Upon what ground is his distemperature?
+<SPEECH 25><ACT 5><SCENE 1><85%>
+	May we not see him?
+<SPEECH 26><ACT 5><SCENE 1><85%>
+	Yet let me obtain my wish.
+<SPEECH 27><ACT 5><SCENE 1><85%>
+	Sir king, all hail! the gods preserve you!
+	Hall, royal sir!
+<SPEECH 28><ACT 5><SCENE 1><86%>
+	'Tis well bethought.
+	She questionless with her sweet harmony
+	And other chosen attractions, would allure,
+	And make a battery through his deafen'd ports
+	Which now are midway stopp'd:
+	She is all happy as the fair'st of all,
+	And with her fellow maids is now upon
+	The leafy shelter that abuts against
+	The island's side.
+<SPEECH 29><ACT 5><SCENE 1><86%>
+	O! sir, a courtesy,
+	Which if we should deny, the most just gods
+	For every graff would send a caterpillar,
+	And so afflict our province. Yet once more
+	Let me entreat to know at large the cause
+	Of your king's sorrow.
+<SPEECH 30><ACT 5><SCENE 1><87%>
+	O! here is
+	The lady that I sent for. Welcome, fair one!
+	Is't not a goodly presence?
+<SPEECH 31><ACT 5><SCENE 1><87%>
+	She's such a one, that were I well assur'd
+	Came of a gentle kind and noble stock,
+	I'd wish no better choice, and think me rarely wed.
+	Fair one, all goodness that consists in bounty
+	Expect even here, where is a kingly patient:
+	If that thy prosperous and artificial feat
+	Can draw him but to answer thee in aught,
+	Thy sacred physic shall receive such pay
+	As thy desires can wish.
+<SPEECH 32><ACT 5><SCENE 1><87%>
+	Come, let us leave her;
+	And the gods make her prosperous!
+<SPEECH 33><ACT 5><SCENE 1><87%>
+	Mark'd he your music?
+<SPEECH 34><ACT 5><SCENE 1><87%>
+	See, she will speak to him.
+<SPEECH 35><ACT 5><SCENE 1><92%>
+	She never would tell
+	Her parentage; being demanded that,
+	She would sit still and weep.
+<SPEECH 36><ACT 5><SCENE 1><93%>
+	It is not good to cross him; give him way.
+<SPEECH 37><ACT 5><SCENE 1><93%>
+	My lord, I hear.
+<SPEECH 38><ACT 5><SCENE 1><93%>
+	A pillow for his head.
+	So, leave him all. Well, my companion friends,
+	If this but answer to my just belief,
+	I'll well remember you.
+<SPEECH 39><ACT 5><SCENE 1><95%>
+	Sir,
+	With all my heart; and when you come ashore,
+	I have another suit.
+<SPEECH 40><ACT 5><SCENE 1><95%>
+	Sir, lend me your arm.

@@ -1,0 +1,304 @@
+<SPEECH 1><ACT 1><SCENE 1><8%>
+	Till I be gentle, stay thou for thy good morrow;
+	When thou art Timon's dog, and these knaves honest.
+<SPEECH 2><ACT 1><SCENE 1><8%>
+	Are they not Athenians?
+<SPEECH 3><ACT 1><SCENE 1><9%>
+	Then I repent not.
+<SPEECH 4><ACT 1><SCENE 1><9%>
+	Thou know'st I do; I call'd thee by thy name.
+<SPEECH 5><ACT 1><SCENE 1><9%>
+	Of nothing so much as that I am not like Timon.
+<SPEECH 6><ACT 1><SCENE 1><9%>
+	To knock out an honest Athenian's brains.
+<SPEECH 7><ACT 1><SCENE 1><9%>
+	Right, if doing nothing be death by the law.
+<SPEECH 8><ACT 1><SCENE 1><9%>
+	The best, for the innocence.
+<SPEECH 9><ACT 1><SCENE 1><9%>
+	He wrought better that made the painter; and yet he's but a filthy piece of work.
+<SPEECH 10><ACT 1><SCENE 1><9%>
+	Thy mother's of my generation: what's she, if I be a dog?
+<SPEECH 11><ACT 1><SCENE 1><9%>
+	No; I eat not lords.
+<SPEECH 12><ACT 1><SCENE 1><9%>
+	O! they eat lords; so they come by great bellies.
+<SPEECH 13><ACT 1><SCENE 1><9%>
+	So thou apprehendest it, take it for thy labour.
+<SPEECH 14><ACT 1><SCENE 1><9%>
+	Not so well as plain-dealing, which will not cost a man a doit.
+<SPEECH 15><ACT 1><SCENE 1><10%>
+	Not worth my thinking. How now, poet!
+<SPEECH 16><ACT 1><SCENE 1><10%>
+	Thou liest.
+<SPEECH 17><ACT 1><SCENE 1><10%>
+	Yes.
+<SPEECH 18><ACT 1><SCENE 1><10%>
+	Art not a poet?
+<SPEECH 19><ACT 1><SCENE 1><10%>
+	Then thou liest: look in thy last work, where thou hast feigned him a worthy fellow.
+<SPEECH 20><ACT 1><SCENE 1><10%>
+	Yes, he is worthy of thee, and to pay thee for thy labour: he that loves to be flattered is worthy o' the flatterer. Heavens, that I were a lord!
+<SPEECH 21><ACT 1><SCENE 1><10%>
+	Even as Apemantus does now; hate a lord with my heart.
+<SPEECH 22><ACT 1><SCENE 1><10%>
+	Ay.
+<SPEECH 23><ACT 1><SCENE 1><10%>
+	That I had no angry wit to be a lord.
+	Art not thou a merchant?
+<SPEECH 24><ACT 1><SCENE 1><10%>
+	Traffic confound thee, if the gods will not!
+<SPEECH 25><ACT 1><SCENE 1><10%>
+	Traffic's thy god, and thy god confound thee!
+<SPEECH 26><ACT 1><SCENE 1><11%>
+	So, so, there!
+	Aches contract and starve your supple joints!
+	That there should be small love 'mongst these sweet knaves,
+	And all this courtesy! The strain of man's bred out
+	Into baboon and monkey.
+<SPEECH 27><ACT 1><SCENE 1><11%>
+	Time to be honest.
+<SPEECH 28><ACT 1><SCENE 1><11%>
+	The more accursed thou, that still omitt'st it.
+<SPEECH 29><ACT 1><SCENE 1><11%>
+	Ay; to see meat fill khaves and wine heat fools.
+<SPEECH 30><ACT 1><SCENE 1><12%>
+	Thou art a fool to bid me farewell twice.
+<SPEECH 31><ACT 1><SCENE 1><12%>
+	Shouldst have kept one to thyself, for I mean to give thee none.
+<SPEECH 32><ACT 1><SCENE 1><12%>
+	No, I will do nothing at thy bidding: make thy requests to thy friend.
+<SPEECH 33><ACT 1><SCENE 1><12%>
+	I will fly, like a dog, the heels of an ass.
+<SPEECH 34><ACT 1><SCENE 2><14%>
+	Ho, ho! confess'd it; hang'd it, have you not?
+<SPEECH 35><ACT 1><SCENE 2><14%>
+	No,
+	You shall not make me welcome:
+	I come to have thee thrust me out of doors.
+<SPEECH 36><ACT 1><SCENE 2><14%>
+	Let me stay at thine apperil, Timon:
+	I come to observe; I give thee warning on't.
+<SPEECH 37><ACT 1><SCENE 2><14%>
+	I scorn thy meat; 'twould choke me, for I should
+	Ne'er flatter thee. O you gods! what a number
+	Of men eat Timon, and he sees them not.
+	It grieves me to see so many dip their meat
+	In one man's blood; and all the madness is,
+	He cheers them up too.
+	I wonder men dare trust themselves with men:
+	Methinks they should invite them without knives;
+	Good for their meat, and safer for their lives.
+	There's much example for't; the fellow that
+	Sits next him now, parts bread with him, and pledges
+	The breath of him in a divided draught,
+	Is the readiest man to kill him: 't has been prov'd.
+	If I were a huge man, I should fear to drink at meals;
+	Lest they should spy my wind-pipe's dangerous notes:
+	Great men should drink with harness on their throats.
+<SPEECH 38><ACT 1><SCENE 2><15%>
+	Flow this way! A brave fellow! he keeps his tides well. Those healths will make thee and thy state look ill, Timon.
+	Here's that which is too weak to be a sinner,
+	Honest water, which ne'er left man i' the mire:
+	This and my food are equals, there's no odds:
+	Feasts are too proud to give thanks to the gods.
+	Immortal gods, I crave no pelf;
+	I pray for no man but myself:
+	Grant I may never prove so fond,
+	To trust man on his oath or bond;
+	Or a harlot for her weeping;
+	Or a dog that seems a-sleeping;
+	Or a keeper with my freedom;
+	Or my friends, if I should need 'em.
+	Amen. So fall to't:
+	Rich men sin, and I eat root.
+	Much good dich thy good heart, Apemantus!
+<SPEECH 39><ACT 1><SCENE 2><16%>
+	'Would all those flatterers were thine enemies then, that then thou mightst kill 'em and bid me to 'em.
+<SPEECH 40><ACT 1><SCENE 2><17%>
+	Thou weepest to make them drink, Timon.
+<SPEECH 41><ACT 1><SCENE 2><17%>
+	Ho, ho! I laugh to think that babe a bastard.
+<SPEECH 42><ACT 1><SCENE 2><17%>
+	Much!
+<SPEECH 43><ACT 1><SCENE 2><18%>
+	Hoy-day! what a sweep of vanity comes this way:
+	They dance! they are mad women.
+	Like madness is the glory of this life,
+	As this pomp shows to a little oil and root.
+	We make ourselves fools to disport ourselves;
+	And spend our flatteries to drink those men
+	Upon whose age we void it up again,
+	With poisonous spite and envy.
+	Who lives that's not depraved or depraves?
+	Who dies that bears not one spurn to their graves
+	Of their friend's gift?
+	I should fear those that dance before me now
+	Would one day stamp upon me: it has been done;
+	Men shut their doors against a setting sun.
+<SPEECH 44><ACT 1><SCENE 2><19%>
+	Faith, for the worst is filthy; and would not hold taking, I doubt me.
+<SPEECH 45><ACT 1><SCENE 2><23%>
+	What a coil's here!
+	Serving of becks and jutting out of bums!
+	I doubt whether their legs be worth the sums
+	That are given for 'em. Friendship's full of dregs:
+	Methinks, false hearts should never have sound legs.
+	Thus honest fools lay out their wealth on curtsies.
+<SPEECH 46><ACT 1><SCENE 2><23%>
+	No, I'll nothing; for if I should be bribed too, there would be none left to rail upon thee, and then thou wouldst sin the faster. Thou givest so long, Timon, I fear me thou wilt give away thyself in paper shortly: what need these feasts, pomps, and vain-glories?
+<SPEECH 47><ACT 1><SCENE 2><23%>
+	So:
+	Thou wilt not hear me now; thou shalt not then;
+	I'll lock thy heaven from thee.
+	O! that men's ears should be
+	To counsel deaf, but not to flattery.
+<SPEECH 48><ACT 2><SCENE 2><28%>
+	Dost dialogue with thy shadow?
+<SPEECH 49><ACT 2><SCENE 2><28%>
+	No; 'tis to thyself. <STAGE DIR>
+	</STAGE DIR> Come away.
+<SPEECH 50><ACT 2><SCENE 2><28%>
+	No, thou stand'st single; thou'rt not on him yet.
+<SPEECH 51><ACT 2><SCENE 2><28%>
+	He last asked the question. Poor rogues, and usurers' men! bawds between gold and want!
+<SPEECH 52><ACT 2><SCENE 2><28%>
+	Asses.
+<SPEECH 53><ACT 2><SCENE 2><28%>
+	That you ask me what you are, and do not know yourselves. Speak to 'em, fool.
+<SPEECH 54><ACT 2><SCENE 2><28%>
+	Good! gramercy.
+<SPEECH 55><ACT 2><SCENE 2><29%>
+	Would I had a rod in my mouth, that I might answer thee profitably.
+<SPEECH 56><ACT 2><SCENE 2><29%>
+	Canst not read?
+<SPEECH 57><ACT 2><SCENE 2><29%>
+	There will little learning die then that day thou art hanged. This is to Lord Timon; this to Alcibiades. Go; thou wast born a bastard, and thou'lt die a bawd.
+<SPEECH 58><ACT 2><SCENE 2><29%>
+	E'en so thou outrunn'st grace.—
+	Fool, I will go with you to Lord Timon's.
+<SPEECH 59><ACT 2><SCENE 2><29%>
+	If Timon stay at home. You three serve three usurers?
+<SPEECH 60><ACT 2><SCENE 2><29%>
+	So would I, as good a trick as ever hangman served thief.
+<SPEECH 61><ACT 2><SCENE 2><30%>
+	Do it, then, that we may account thee a whoremaster and a knave; which, notwithstanding, thou shalt be no less esteemed.
+<SPEECH 62><ACT 2><SCENE 2><30%>
+	That answer might have become Apemantus.
+<SPEECH 63><ACT 2><SCENE 2><30%>
+	Come with me, fool, come.
+<SPEECH 64><ACT 4><SCENE 3><71%>
+	I was directed hither: men report
+	Thou dost affect my manners, and dost use them.
+<SPEECH 65><ACT 4><SCENE 3><71%>
+	This is in thee a nature but infected;
+	A poor unmanly melancholy sprung
+	From change of fortune. Why this spade? this place?
+	This slave-like habit? and these looks of care?
+	Thy flatterers yet wear silk, drink wine, lie soft,
+	Hug their diseas'd perfumes, and have forgot
+	That ever Timon was. Shame not these woods
+	By putting on the cunning of a carper.
+	Be thou a flatterer now, and seak to thrive
+	By that which has undone thee: hinge thy knee,
+	And let his very breath, whom thou'lt observe,
+	Blow off thy cap; praise his most vicious strain,
+	And call it excellent. Thou wast told thus;
+	Thou gav'st thine ears, like tapsters that bid welcome,
+	To knaves and all approachers: 'tis most just
+	That thou turn rascal; hadst thou wealth again,
+	Rascals should have't. Do not assume my likeness.
+<SPEECH 66><ACT 4><SCENE 3><72%>
+	Thou hast cast away thyself, being like thyself;
+	A madman so long, now a fool. What! think'st
+	That the bleak air, thy boisterous chamberlain,
+	Will put thy shirt on warm? will these moss'd trees,
+	That have outliv'd the eagle, page thy heels
+	And skip when thou point'st out? will the cold brook,
+	Candied with ice, caudle thy morning taste
+	To cure the o'er-night's surfeit? Call the creatures
+	Whose naked natures live in all the spite
+	Of wreakful heaven, whose bare unhoused trunks
+	To the conflicting elements expos'd,
+	Answer mere nature; bid them flatter thee;
+	O! thou shalt find—
+<SPEECH 67><ACT 4><SCENE 3><73%>
+	I love thee better now than e'er I did.
+<SPEECH 68><ACT 4><SCENE 3><73%>
+	Why?
+<SPEECH 69><ACT 4><SCENE 3><73%>
+	I flatter not, but say thou art a caitiff.
+<SPEECH 70><ACT 4><SCENE 3><73%>
+	To vex thee.
+<SPEECH 71><ACT 4><SCENE 3><73%>
+	Ay.
+<SPEECH 72><ACT 4><SCENE 3><73%>
+	If thou didst put this sour-cold habit on
+	To castigate thy pride, 'twere well; but thou
+	Dost it enforcedly; thou'dst courtier be again
+	Wert thou not beggar. Willing misery
+	Outlives incertain pomp, is crown'd before;
+	The one is filling still, never complete;
+	The other, at high wish: best state, contentless,
+	Hath a distracted and most wretched being,
+	Worse than the worst, content.
+	Thou shouldst desire to die, being miserable.
+<SPEECH 73><ACT 4><SCENE 3><75%>
+	Art thou proud yet?
+<SPEECH 74><ACT 4><SCENE 3><75%>
+	I, that I was
+	No prodigal.
+<SPEECH 75><ACT 4><SCENE 3><75%>
+	Here; I will mend thy feast.
+<SPEECH 76><ACT 4><SCENE 3><75%>
+	So I shall mend mine own, by the lack of thine.
+<SPEECH 77><ACT 4><SCENE 3><75%>
+	What wouldst thou have to Athens?
+<SPEECH 78><ACT 4><SCENE 3><75%>
+	Here is no use for gold.
+<SPEECH 79><ACT 4><SCENE 3><75%>
+	Where liest o' nights, Timon?
+<SPEECH 80><ACT 4><SCENE 3><75%>
+	Where my stomach finds meat; or, rather, where I eat it.
+<SPEECH 81><ACT 4><SCENE 3><75%>
+	Where wouldst thou send it?
+<SPEECH 82><ACT 4><SCENE 3><75%>
+	The middle of humanity thou never knewest, but the extremity of both ends. When thou wast in thy gilt and thy perfume, they mocked thee for too much curiosity; in thy rags thou knowest none, but art despised for the contrary. There's a medlar for thee; eat it.
+<SPEECH 83><ACT 4><SCENE 3><76%>
+	Dost hate a medlar?
+<SPEECH 84><ACT 4><SCENE 3><76%>
+	An thou hadst hated meddlers sooner, thou shouldst have loved thyself better now. What man didst thou ever know unthrift that was beloved after his means?
+<SPEECH 85><ACT 4><SCENE 3><76%>
+	Myself.
+<SPEECH 86><ACT 4><SCENE 3><76%>
+	What things in the world canst thou nearest compare to thy flatterers?
+<SPEECH 87><ACT 4><SCENE 3><76%>
+	Give it the beasts, to be rid of the men.
+<SPEECH 88><ACT 4><SCENE 3><76%>
+	Ay, Timon.
+<SPEECH 89><ACT 4><SCENE 3><77%>
+	If thou couldst please me with speaking to me, thou mightst have hit upon it here; the commonwealth of Athens is become a forest of beasts.
+<SPEECH 90><ACT 4><SCENE 3><77%>
+	Yonder comes a poet and a painter: the plague of company light upon thee! I will fear to catch it, and give way. When I know not what else to do, I'll see thee again.
+<SPEECH 91><ACT 4><SCENE 3><78%>
+	Thou art the cap of all the fools alive.
+<SPEECH 92><ACT 4><SCENE 3><78%>
+	A plague on thee! thou art too bad to curse!
+<SPEECH 93><ACT 4><SCENE 3><78%>
+	There is no leprosy but what thou speak'st.
+<SPEECH 94><ACT 4><SCENE 3><78%>
+	I would my tongue could rot them off!
+<SPEECH 95><ACT 4><SCENE 3><78%>
+	Would thou wouldst burst!
+<SPEECH 96><ACT 4><SCENE 3><78%>
+	Beast!
+<SPEECH 97><ACT 4><SCENE 3><78%>
+	Toad!
+<SPEECH 98><ACT 4><SCENE 3><79%>
+	Would 'twere so:
+	But not till I am dead; I'll say thou'st gold:
+	Thou wilt be throng'd to shortly.
+<SPEECH 99><ACT 4><SCENE 3><79%>
+	Ay.
+<SPEECH 100><ACT 4><SCENE 3><79%>
+	Live, and love thy misery!

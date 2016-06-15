@@ -1,0 +1,70 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	We mourn in black: why mourn we not in blood?
+	Henry is dead and never shall revive.
+	Upon a wooden coffin we attend,
+	And death's dishonourable victory
+	We with our stately presence glorify,
+	Like captives bound to a triumphant car.
+	What! shall we curse the planets of mishap
+	That plotted thus our glory's overthrow?
+	Or shall we think the subtle-witted French
+	Conjurers and sorcerers, that, afraid of him,
+	By magic verses have contriv'd his end?
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	How were they lost? what treachery was us'd?
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Were our tears wanting to this funeral
+	These tidings would call forth their flowing tides.
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	The Dauphin crowned king! all fly to him!
+	O! whither shall we fly from this reproach?
+<SPEECH 5><ACT 1><SCENE 1><6%>
+	Remember, lords, your oaths to Henry sworn,
+	Either to quell the Dauphin utterly,
+	Or bring him in obedience to your yoke.
+<SPEECH 6><ACT 1><SCENE 1><6%>
+	To Eltham will I, where the young king is,
+	Being ordain'd his special governor;
+	And for his safety there I'll best devise.
+<SPEECH 7><ACT 3><SCENE 1><48%>
+	Ay, we may march in England or in France,
+	Not seeing what is likely to ensue.
+	This late dissension grown betwixt the peers
+	Burns under feigned ashes of forg'd love,
+	And will at last break out into a flame:
+	As fester'd members rot but by degree,
+	Till bones and flesh and sinews fall away,
+	So will this base and envious discord breed.
+	And now I fear that fatal prophecy
+	Which in the time of Henry, nam'd the Fifth,
+	Was in the mouth of every sucking babe;
+	That Henry born at Monmouth should win all;
+	And Henry born at Windsor should lose all:
+	Which is so plain that Exeter doth wish
+	His days may finish ere that hapless time.
+<SPEECH 8><ACT 4><SCENE 1><64%>
+	It grieves his highness: good my lords, be friends.
+<SPEECH 9><ACT 4><SCENE 1><66%>
+	Well didst thou, Richard, to suppress thy voice;
+	For had the passions of thy heart burst out,
+	I fear we should have seen decipher'd there
+	More rancorous spite, more furious raging broils,
+	Than yet can be imagin'd or suppos'd.
+	But howsoe'er, no simple man that sees
+	This jarring discord of nobility,
+	This shouldering of each other in the court,
+	This factious bandying of their favourites,
+	But that it doth presage some ill event.
+	'Tis much when sceptres are in children's hands;
+	But more, when envy breeds unkind division:
+	There comes the ruin, there begins confusion.
+<SPEECH 10><ACT 5><SCENE 1><81%>
+	</STAGE DIR> What! is my Lord of Winchester install'd,
+	And call'd unto a cardinal's degree?
+	Then, I perceive that will be verified
+	Henry the Fifth did sometime prophesy,—
+	'If once he come to be a cardinal,
+	He'll make his cap co-equal with the crown.'
+<SPEECH 11><ACT 5><SCENE 5><98%>
+	Beside, his wealth doth warrant liberal dower,
+	Where Reignier sooner will receive than give.

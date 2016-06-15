@@ -1,0 +1,43 @@
+<SPEECH 1><ACT 2><SCENE 4><39%>
+	Such news, my lord, as grieves me to report.
+<SPEECH 2><ACT 2><SCENE 4><39%>
+	Well, madam, and in health.
+<SPEECH 3><ACT 2><SCENE 4><39%>
+	Lord Rivers and Lord Grey are sent to Pomfret,
+	With them Sir Thomas Vaughan, prisoners.
+<SPEECH 4><ACT 2><SCENE 4><39%>
+	The mighty dukes,
+	Gloucester and Buckingham.
+<SPEECH 5><ACT 2><SCENE 4><39%>
+	The sum of all I can I have disclos'd:
+	Why or for what the nobles were committed
+	Is all unknown to me, my gracious lord.
+<SPEECH 6><ACT 3><SCENE 2><46%>
+	</STAGE DIR> My lord! my lord!
+<SPEECH 7><ACT 3><SCENE 2><46%>
+	One from the Lord Stanley.
+<SPEECH 8><ACT 3><SCENE 2><46%>
+	Upon the stroke of four.
+<SPEECH 9><ACT 3><SCENE 2><46%>
+	So it appears by that I have to say.
+	First, he commends him to your noble self.
+<SPEECH 10><ACT 3><SCENE 2><46%>
+	Then certifies your lordship, that this night
+	He dreamt the boar had razed off his helm:
+	Besides, he says there are two councils held;
+	And that may be determin'd at the one
+	Which may make you and him to rue at the other.
+	Therefore he sends to know your lordship's pleasure,
+	If you will presently take horse with him,
+	And with all speed post with him towards the north,
+	To shun the danger that his soul divines.
+<SPEECH 11><ACT 3><SCENE 2><46%>
+	I'll go, my lord, and tell him what you say.
+<SPEECH 12><ACT 4><SCENE 4><84%>
+	My gracious sovereign, now in Devonshire,
+	As I by friends am well advertised,
+	Sir Edward Courtney, and the haughty prelate,
+	Bishop of Exeter, his brother there,
+	With many moe confederates are in arms.
+<SPEECH 13><ACT 5><SCENE 3><98%>
+	My lord, he doth deny to come.

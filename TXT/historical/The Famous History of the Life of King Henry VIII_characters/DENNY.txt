@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 5><SCENE 1><82%>
+	Sir, I have brought my lord the archbishop,
+	As you commanded me.
+<SPEECH 2><ACT 5><SCENE 1><82%>
+	Ay, my good lord.
+<SPEECH 3><ACT 5><SCENE 1><82%>
+	He attends your highness' pleasure.

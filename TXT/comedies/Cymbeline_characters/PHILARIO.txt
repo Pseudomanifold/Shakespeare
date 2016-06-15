@@ -1,0 +1,45 @@
+<SPEECH 1><ACT 1><SCENE 4><9%>
+	You speak of him when he was less furnished than now he is with that which makes him both without and within.
+<SPEECH 2><ACT 1><SCENE 4><9%>
+	His father and I were soldiers together; to whom I have been often bound for no less than my life. Here comes the Briton: let him be so entertained amongst you as suits, with gentlemen of your knowing, to a stranger of his quality.
+	I beseech you all, be better known to this gentleman, whom I commend to you, as a noble friend of mine; how worthy he is I will leave to appear hereafter, rather than story him in his own hearing.
+<SPEECH 3><ACT 1><SCENE 4><11%>
+	Let us leave here, gentlemen.
+<SPEECH 4><ACT 1><SCENE 4><12%>
+	Gentlemen, enough of this; it came in too suddenly; let it die as it was born, and, I pray you, be better acquainted.
+<SPEECH 5><ACT 1><SCENE 4><13%>
+	I will have it no lay.
+<SPEECH 6><ACT 1><SCENE 4><13%>
+	Signior Iachimo will not from it. Pray, let us follow 'em.
+<SPEECH 7><ACT 2><SCENE 4><31%>
+	What means do you make to him?
+<SPEECH 8><ACT 2><SCENE 4><31%>
+	Your very goodness and your company
+	O'erpays all I can do. By this, your king
+	Hath heard of great Augustus; Caius Lucius
+	Will do 's commission throughly, and I think
+	He'll grant the tribute, send the arrearages,
+	Or look upon our Romans, whose remembrance
+	Is yet fresh in their grief.
+<SPEECH 9><ACT 2><SCENE 4><31%>
+	See! Iachimo!
+<SPEECH 10><ACT 2><SCENE 4><31%>
+	Welcome, sir.
+<SPEECH 11><ACT 2><SCENE 4><32%>
+	Was Caius Lucius in the Britain court
+	When you were there?
+<SPEECH 12><ACT 2><SCENE 4><34%>
+	Have patience, sir,
+	And take your ring again; 'tis not yet won:
+	It may be probable she lost it; or
+	Who knows if one of her women, being corrupted,
+	Hath stol'n it from her?
+<SPEECH 13><ACT 2><SCENE 4><34%>
+	Sir, be patient:
+	This is not strong enough to be believ'd
+	Of one persuaded well of—
+<SPEECH 14><ACT 2><SCENE 4><35%>
+	Quite besides
+	The government of patience! You have won:
+	Let's follow him, and pervert the present wrath
+	He hath against himself.

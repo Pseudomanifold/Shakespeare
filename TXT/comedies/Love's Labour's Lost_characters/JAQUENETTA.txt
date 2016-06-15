@@ -1,0 +1,28 @@
+<SPEECH 1><ACT 1><SCENE 2><15%>
+	Man?
+<SPEECH 2><ACT 1><SCENE 2><15%>
+	That's hereby.
+<SPEECH 3><ACT 1><SCENE 2><15%>
+	Lord, how wise you are!
+<SPEECH 4><ACT 1><SCENE 2><15%>
+	With that face?
+<SPEECH 5><ACT 1><SCENE 2><15%>
+	So I heard you say.
+<SPEECH 6><ACT 1><SCENE 2><15%>
+	Fair weather after you!
+<SPEECH 7><ACT 4><SCENE 2><43%>
+	God give you good morrow, Master parson.
+<SPEECH 8><ACT 4><SCENE 2><43%>
+	Good Master parson <STAGE DIR>
+	</STAGE DIR> be so good as read me this letter: it was given me by Costard, and sent me from Don Armado: I beseech you, read it.
+<SPEECH 9><ACT 4><SCENE 2><45%>
+	Ay, sir; from one Monsieur Berowne, one of the strange queen's lords.
+<SPEECH 10><ACT 4><SCENE 2><45%>
+	Good Costard, go with me. Sir, God save your life!
+<SPEECH 11><ACT 4><SCENE 3><53%>
+	God bless the king!
+<SPEECH 12><ACT 4><SCENE 3><53%>
+	I beseech your Grace, let this letter be read:
+	Our parson misdoubts it; 'twas treason, he said.
+<SPEECH 13><ACT 4><SCENE 3><53%>
+	Of Costard.

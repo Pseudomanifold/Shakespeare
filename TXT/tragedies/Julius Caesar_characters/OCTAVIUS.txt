@@ -1,0 +1,66 @@
+<SPEECH 1><ACT 4><SCENE 1><68%>
+	Your brother too must die; consent you, Lepidus?
+<SPEECH 2><ACT 4><SCENE 1><68%>
+	Prick him down, Antony.
+<SPEECH 3><ACT 4><SCENE 1><68%>
+	Or here or at the Capitol.
+<SPEECH 4><ACT 4><SCENE 1><68%>
+	So you thought him;
+	And took his voice who should be prick'd to die,
+	In our black sentence and proscription.
+<SPEECH 5><ACT 4><SCENE 1><69%>
+	You may do your will;
+	But he's a tried and valiant soldier.
+<SPEECH 6><ACT 4><SCENE 1><69%>
+	Let us do so: for we are at the stake,
+	And bay'd about with many enemies;
+	And some that smile have in their hearts, I fear,
+	Millions of mischiefs.
+<SPEECH 7><ACT 5><SCENE 1><85%>
+	Now, Antony, our hopes are answered:
+	You said the enemy would not come down,
+	But keep the hills and upper regions;
+	It proves not so; their battles are at hand;
+	They mean to warn us at Philippi here,
+	Answering before we do demand of them.
+<SPEECH 8><ACT 5><SCENE 1><85%>
+	Upon the right hand I; keep thou the left.
+<SPEECH 9><ACT 5><SCENE 1><85%>
+	I do not cross you; but I will do so.
+<SPEECH 10><ACT 5><SCENE 1><86%>
+	Mark Antony, shall we give sign of battle?
+<SPEECH 11><ACT 5><SCENE 1><86%>
+	Stir not until the signal.
+<SPEECH 12><ACT 5><SCENE 1><86%>
+	Not that we love words better, as you do.
+<SPEECH 13><ACT 5><SCENE 1><87%>
+	Come, come, the cause: if arguing make us sweat,
+	The proof of it will turn to redder drops.
+	Look;
+	I draw a sword against conspirators;
+	When think you that the sword goes up again?
+	Never, till Cæsar's three-and-thirty wounds
+	Be well aveng'd; or till another Cæsar
+	Have added slaughter to the sword of traitors.
+<SPEECH 14><ACT 5><SCENE 1><87%>
+	So I hope;
+	I was not born to die on Brutus' sword.
+<SPEECH 15><ACT 5><SCENE 1><87%>
+	Come, Antony; away!
+	Defiance, traitors, hurl we in your teeth.
+	If you dare fight to-day, come to the field;
+	If not, when you have stomachs.
+<SPEECH 16><ACT 5><SCENE 5><99%>
+	What man is that?
+<SPEECH 17><ACT 5><SCENE 5><99%>
+	All that serv'd Brutus, I will entertain them.
+	Fellow, wilt thou bestow thy time with me?
+<SPEECH 18><ACT 5><SCENE 5><99%>
+	Do so, good Messala.
+<SPEECH 19><ACT 5><SCENE 5><100%>
+	According to his virtue let us use him,
+	With all respect and rites of burial.
+	Within my tent his bones to-night shall lie,
+	Most like a soldier, order'd honourably.
+	So, call the field to rest; and let's away,
+	To part the glories of this happy day.

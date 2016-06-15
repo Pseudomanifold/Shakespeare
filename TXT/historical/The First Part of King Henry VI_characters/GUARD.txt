@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 3><SCENE 2><49%>
+	</STAGE DIR> Qui est là?
+<SPEECH 2><ACT 3><SCENE 2><49%>
+	</STAGE DIR> Enter, go in; the market-bell is rung.

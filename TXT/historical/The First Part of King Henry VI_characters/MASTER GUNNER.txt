@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 1><SCENE 4><16%>
+	Sirrah, thou know'st how Orleans is besieg'd,
+	And how the English have the suburbs won.
+<SPEECH 2><ACT 1><SCENE 4><16%>
+	But now thou shalt not. Be thou rul'd by me:
+	Chief master-gunner am I of this town;
+	Something I must do to procure me grace.
+	The prince's espials have informed me
+	How the English, in the suburbs close entrench'd,
+	Wont through a secret gate of iron bars
+	In yonder tower to overpeer the city,
+	And thence discover how with most advantage
+	They may vex us with shot or with assault.
+	To intercept this inconvenience,
+	A piece of ordnance 'gainst it I have plac'd;
+	And fully even these three days have I watch'd
+	If I could see them. Now, boy, do thou watch,
+	For I can stay no longer.
+	If thou spy'st any, run and bring me word;
+	And thou shalt find me at the Governor's.

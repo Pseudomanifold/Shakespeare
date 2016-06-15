@@ -1,0 +1,211 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	While we pursu'd the horsemen of the north,
+	He slily stole away and left his men:
+	Whereat the great Lord of Northumberland,
+	Whose warlike ears could never brook retreat,
+	Cheer'd up the drooping army; and himself,
+	Lord Clifford, and Lord Stafford, all abreast,
+	Charg'd our main battle's front, and breaking in
+	Were by the swords of common soldiers slain.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Richard hath best deserv'd of all my sons.
+	But, is your Grace dead, my Lord of Somerset?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Assist me, then, sweet Warwick, and I will;
+	For hither we have broken in by force.
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	Thanks, gentle Norfolk. Stay by me, my lords;
+	And, soldiers, stay and lodge by me this night.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	The queen this day here holds her parliament,
+	But little thinks we shall be of her council:
+	By words or blows here let us win our right.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Then leave me not, my lords; be resolute;
+	I mean to take possession of my right.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	I am thine.
+<SPEECH 8><ACT 1><SCENE 1><3%>
+	'Twas my inheritance, as the earldom was.
+<SPEECH 9><ACT 1><SCENE 1><4%>
+	It must and shall be so: content thyself.
+<SPEECH 10><ACT 1><SCENE 1><4%>
+	Will you we show our title to the crown?
+	If not, our swords shall plead it in the field.
+<SPEECH 11><ACT 1><SCENE 1><5%>
+	Sons, peace!
+<SPEECH 12><ACT 1><SCENE 1><5%>
+	'Twas by rebellion against his king.
+<SPEECH 13><ACT 1><SCENE 1><5%>
+	What then?
+<SPEECH 14><ACT 1><SCENE 1><5%>
+	He rose against him, being his sovereign,
+	And made him to resign his crown perforce.
+<SPEECH 15><ACT 1><SCENE 1><6%>
+	Why whisper you, my lords, and answer not?
+<SPEECH 16><ACT 1><SCENE 1><6%>
+	Henry of Lancaster, resign thy crown.
+	What mutter you, or what conspire you, lords?
+<SPEECH 17><ACT 1><SCENE 1><6%>
+	Confirm the crown to me and to mine heirs,
+	And thou shalt reign in quiet while thou liv'st.
+<SPEECH 18><ACT 1><SCENE 1><7%>
+	This oath I willingly take and will perform.
+<SPEECH 19><ACT 1><SCENE 1><8%>
+	Now York and Lancaster are reconcil'd.
+<SPEECH 20><ACT 1><SCENE 1><8%>
+	Farewell, my gracious lord; I'll to my castle.
+<SPEECH 21><ACT 1><SCENE 2><10%>
+	Why, how now, sons and brother! at a strife?
+	What is your quarrel? how began it first?
+<SPEECH 22><ACT 1><SCENE 2><10%>
+	About what?
+<SPEECH 23><ACT 1><SCENE 2><10%>
+	Mine, boy? not till King Henry be dead.
+<SPEECH 24><ACT 1><SCENE 2><11%>
+	I took an oath that he should quietly reign.
+<SPEECH 25><ACT 1><SCENE 2><11%>
+	I shall be, if I claim by open war.
+<SPEECH 26><ACT 1><SCENE 2><11%>
+	Thou canst not, son; it is impossible.
+<SPEECH 27><ACT 1><SCENE 2><11%>
+	Richard, enough, I will be king, or die.
+	Brother, thou shalt to London presently,
+	And whet on Warwick to this enterprise.
+	Thou, Richard, shalt unto the Duke of Norfolk,
+	And tell him privily of our intent.
+	You, Edward, shall unto my Lord Cobham,
+	With whom the Kentishmen will willingly rise:
+	In them I trust; for they are soldiers,
+	Witty, courteous, liberal, full of spirit.
+	While you are thus employ'd, what resteth more,
+	But that I seek occasion how to rise,
+	And yet the king not privy to my drift,
+	Nor any of the house of Lancaster?
+	But, stay: what news? why com'st thou in such post?
+<SPEECH 28><ACT 1><SCENE 2><12%>
+	Ay, with my sword. What! think'st thou that we fear them?
+	Edward and Richard, you shall stay with me;
+	My brother Montague shall post to London:
+	Let noble Warwick, Cobham, and the rest,
+	Whom we have left protectors of the king,
+	With powerful policy strengthen themselves,
+	And trust not simple Henry nor his oaths.
+<SPEECH 29><ACT 1><SCENE 2><12%>
+	Sir John, and Sir Hugh Mortimer, mine uncles!
+	You are come to Sandal in a happy hour;
+	The army of the queen mean to besiege us.
+<SPEECH 30><ACT 1><SCENE 2><12%>
+	What! with five thousand men?
+<SPEECH 31><ACT 1><SCENE 2><12%>
+	Five men to twenty! though the odds be great,
+	I doubt not, uncle, of our victory.
+	Many a battle have I won in France,
+	When as the enemy hath been ten to one:
+	Why should I not now have the like success?
+<SPEECH 32><ACT 1><SCENE 4><15%>
+	The army of the queen hath got the field:
+	My uncles both are slain in rescuing me;
+	And all my followers to the eager foe
+	Turn back and fly, like ships before the wind,
+	Or lambs pursu'd by hunger-starved wolves.
+	My sons, God knows what hath bechanced them:
+	But this I know, they have demean'd themselves
+	Like men born to renown by life or death.
+	Three times did Richard make a lane to me,
+	And thrice cried, 'Courage, father! fight it out!'
+	And full as oft came Edward to my side,
+	With purple falchion, painted to the hilt
+	In blood of those that had encounter'd him:
+	And when the hardiest warriors did retire,
+	Richard cried, 'Charge! and give no foot of ground!'
+	And cried, 'A crown, or else a glorious tomb!
+	A sceptre, or an earthly sepulchre!'
+	With this, we charg'd again; but, out, alas!
+	We bodg'd again: as I have seen a swan
+	With bootless labour swim against the tide,
+	And spend her strength with over-matching waves.
+	Ah, hark! the fatal followers do pursue;
+	And I am faint and cannot fly their fury;
+	And were I strong I would not shun their fury:
+	The sands are number'd that make up my life;
+	Here must I stay, and here my life must end.
+	Come, bloody Clifford, rough Northumberland,
+	I dare your quenchless fury to more rage:
+	I am your butt, and I abide your shot.
+<SPEECH 33><ACT 1><SCENE 4><16%>
+	My ashes, as the phœnix, may bring forth
+	A bird that will revenge upon you all;
+	And in that hope I throw mine eyes to heaven,
+	Scorning whate'er you can afflict me with.
+	Why come you not? what! multitudes, and fear?
+<SPEECH 34><ACT 1><SCENE 4><16%>
+	O Clifford! but bethink thee once again,
+	And in thy thought o'er-run my former time;
+	And, if thou canst for blushing, view this face,
+	And bite thy tongue, that slanders him with cowardice
+	Whose frown hath made thee faint and fly ere this.
+<SPEECH 35><ACT 1><SCENE 4><17%>
+	So triumph thieves upon their conquer'd booty;
+	So true men yield, with robbers so o'er-matched.
+<SPEECH 36><ACT 1><SCENE 4><18%>
+	She-wolf of France, but worse than wolves of France,
+	Whose tongue more poisons than the adder's tooth!
+	How ill-beseeming is it in thy sex
+	To triumph, like an Amazonian trull,
+	Upon their woes whom fortune captivates!
+	But that thy face is, visor-like, unchanging,
+	Made impudent with use of evil deeds,
+	I would assay, proud queen, to make thee blush:
+	To tell thee whence thou cam'st, of whom deriv'd,
+	Were shame enough to shame thee, wert thou not shameless.
+	Thy father bears the type of King of Naples,
+	Of both the Sicils and Jerusalem;
+	Yet not so wealthy as an English yeoman.
+	Hath that poor monarch taught thee to insult?
+	It needs not, nor it boots thee not, proud queen,
+	Unless the adage must be verified,
+	That beggars mounted run their horse to death.
+	'Tis beauty that doth oft make women proud;
+	But, God he knows, thy share thereof is small:
+	'Tis virtue that doth make them most admir'd;
+	The contrary doth make thee wonder'd at:
+	'Tis government that makes them seem divine;
+	The want thereof makes thee abominable.
+	Thou art as opposite to every good
+	As the Antipodes are unto us,
+	Or as the south to the septentrion.
+	O tiger's heart wrapp'd in a woman's hide!
+	How couldst thou drain the life-blood of the child,
+	To bid the father wipe his eyes withal,
+	And yet be seen to bear a woman's face?
+	Women are soft, mild, pitiful, and flexible;
+	Thou stern, obdurate, flinty, rough, remorseless.
+	Bidd'st thou me rage? why, now thou hast thy wish:
+	Wouldst have me weep? why, now thou hast thy will;
+	For raging wind blows up incessant showers,
+	And when the rage allays, the rain begins.
+	These tears are my sweet Rutland's obsequies,
+	And every drop cries vengeance for his death,
+	'Gainst thee, fell Clifford, and thee, false Frenchwoman.
+<SPEECH 37><ACT 1><SCENE 4><19%>
+	That face of his the hungry cannibals
+	Would not have touch'd, would not have stain'd with blood;
+	But you are more inhuman, more inexorable,—
+	O! ten times more, than tigers of Hyrcania.
+	See, ruthless queen, a hapless father's tears:
+	This cloth thou dipp'dst in blood of my sweet boy,
+	And I with tears do wash the blood away.
+	Keep thou the napkin, and go boast of this;
+	And if thou tell'st the heavy story right,
+	Upon my soul, the hearers will shed tears;
+	Yea, even my foes will shed fast-falling tears,
+	And say, 'Alas! it was a piteous deed!'
+	There, take the crown, and, with the crown my curse,
+	And in thy need such comfort come to thee
+	As now I reap at thy too cruel hand!
+	Hard-hearted Clifford, take me from the world;
+	My soul to heaven, my blood upon your heads!
+<SPEECH 38><ACT 1><SCENE 4><20%>
+	Open thy gate of mercy, gracious God!
+	My soul flies through these wounds to seek out thee.

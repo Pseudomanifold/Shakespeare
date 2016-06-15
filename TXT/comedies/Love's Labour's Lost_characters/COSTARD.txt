@@ -1,0 +1,197 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+	Sir, the contempts thereof are as touching me.
+<SPEECH 2><ACT 1><SCENE 1><7%>
+	The matter is to me, sir, as concerning Jaquenetta. The manner of it is, I was taken with the manner.
+<SPEECH 3><ACT 1><SCENE 1><7%>
+	In manner and form following, sir; all those three: I was seen with her in the manor-house, sitting with her upon the form, and taken following her into the park; which, put together, is, in manner and form following. Now, sir, for the manner,—it is the manner of a man to speak to a woman, for the form,—in some form.
+<SPEECH 4><ACT 1><SCENE 1><8%>
+	As it shall follow in my correction; and God defend the right!
+<SPEECH 5><ACT 1><SCENE 1><8%>
+	Such is the simplicity of man to hearken after the flesh.
+<SPEECH 6><ACT 1><SCENE 1><8%>
+	Not a word of Costard yet.
+<SPEECH 7><ACT 1><SCENE 1><8%>
+	It may be so; but if he say it is so, he is, in telling true, but so.—
+<SPEECH 8><ACT 1><SCENE 1><8%>
+	Be to me and every man that dares not fight.
+<SPEECH 9><ACT 1><SCENE 1><8%>
+	Of other men's secrets, I beseech you.
+<SPEECH 10><ACT 1><SCENE 1><9%>
+	Me.
+<SPEECH 11><ACT 1><SCENE 1><9%>
+	Me.
+<SPEECH 12><ACT 1><SCENE 1><9%>
+	Still me.
+<SPEECH 13><ACT 1><SCENE 1><9%>
+	O me.
+<SPEECH 14><ACT 1><SCENE 1><9%>
+	With a wench.
+<SPEECH 15><ACT 1><SCENE 1><10%>
+	Sir, I confess the wench.
+<SPEECH 16><ACT 1><SCENE 1><10%>
+	I do confess much of the hearing it, but little of the marking of it.
+<SPEECH 17><ACT 1><SCENE 1><10%>
+	I was taken with none, sir: I was taken with a damosel.
+<SPEECH 18><ACT 1><SCENE 1><10%>
+	This was no damosel neither, sir: she was a 'virgin.'
+<SPEECH 19><ACT 1><SCENE 1><10%>
+	If it were, I deny her virginity: I was taken with a maid.
+<SPEECH 20><ACT 1><SCENE 1><10%>
+	This maid will serve my turn, sir.
+<SPEECH 21><ACT 1><SCENE 1><10%>
+	I had rather pray a month with mutton and porridge.
+<SPEECH 22><ACT 1><SCENE 1><11%>
+	I suffer for the truth, sir: for true it is I was taken with Jaquenetta, and Jaquenetta is a true girl; and therefore welcome the sour cup of prosperity! Affliction may one day smile again; and till then, sit thee down, sorrow!
+<SPEECH 23><ACT 1><SCENE 2><15%>
+	Well, sir, I hope, when I do it, I shall do it on a full stomach.
+<SPEECH 24><ACT 1><SCENE 2><15%>
+	I am more bound to you than your fellows, for they are but lightly rewarded.
+<SPEECH 25><ACT 1><SCENE 2><16%>
+	Let me not be pent up, sir: I will fast, being loose.
+<SPEECH 26><ACT 1><SCENE 2><16%>
+	Well, if ever I do see the merry days of desolation that I have seen, some shall see—
+<SPEECH 27><ACT 1><SCENE 2><16%>
+	Nay, nothing, Master Moth, but what they look upon. It is not for prisoners to be too silent in their words; and therefore I will say nothing: I thank God I have as little patience as another man, and therefore I can be quiet.
+<SPEECH 28><ACT 3><SCENE 1><29%>
+	No egma, no riddle, no l'envoy; no salve in the mail, sir. O! sir, plantain, a plain plantain: no l'envoy, no l'envoy: no salve, sir, but a plantain.
+<SPEECH 29><ACT 3><SCENE 1><30%>
+	The boy hath sold him a bargain, a goose, that's flat.
+	Sir, your pennyworth is good an your goose be fat.
+	To sell a bargain well is as cunning as fast and loose:
+	Let me see; a fat l'envoy; ay, that's a fat goose.
+<SPEECH 30><ACT 3><SCENE 1><30%>
+	True, and I for a plantain: thus came your argument in;
+	Then the boy's fat l'envoy, the goose that you bought;
+	And he ended the market.
+<SPEECH 31><ACT 3><SCENE 1><30%>
+	Thou hast no feeling of it, Moth: I will speak that l'envoy:
+	I, Costard, running out, that was safely within,
+	Fell over the threshold and broke my shin.
+<SPEECH 32><ACT 3><SCENE 1><30%>
+	Till there be more matter in the shin.
+<SPEECH 33><ACT 3><SCENE 1><30%>
+	O! marry me to one Frances: I smell some l'envoy, some goose, in this.
+<SPEECH 34><ACT 3><SCENE 1><31%>
+	True, true, and now you will be my purgation and let me loose.
+<SPEECH 35><ACT 3><SCENE 1><31%>
+	My sweet ounce of man's flesh! my incony Jew!
+	Now will I look to his remuneration. Remuneration! O! that's the Latin word for three farthings: three farthings, remuneration. 'What's the price of this inkle?' 'One penny.' 'No, I'll give you a remuneration:' why, it carries it Remuneration! why, it is a fairer name than French crown. I will never buy and sell out of this word.
+<SPEECH 36><ACT 3><SCENE 1><31%>
+	Pray you, sir, how much carnation riband may a man buy for a remuneration?
+<SPEECH 37><ACT 3><SCENE 1><32%>
+	Marry, sir, halfpenny farthing.
+<SPEECH 38><ACT 3><SCENE 1><32%>
+	I thank your worship. God be wi' you!
+<SPEECH 39><ACT 3><SCENE 1><32%>
+	When would you have it done, sir?
+<SPEECH 40><ACT 3><SCENE 1><32%>
+	Well, I will do it, sir! fare you well.
+<SPEECH 41><ACT 3><SCENE 1><32%>
+	I shall know, sir, when I have done it.
+<SPEECH 42><ACT 3><SCENE 1><32%>
+	I will come to your worship to-morrow morning.
+<SPEECH 43><ACT 3><SCENE 1><32%>
+	Gardon, O sweet gardon! better than remuneration; a 'leven-pence farthing better.
+	Most sweet gardon! I will do it, sir, in print
+	Gardon! remuneration!
+<SPEECH 44><ACT 4><SCENE 1><35%>
+	God dig-you-den all! Pray you, which is the head lady?
+<SPEECH 45><ACT 4><SCENE 1><35%>
+	Which is the greatest lady, the highest?
+<SPEECH 46><ACT 4><SCENE 1><35%>
+	The thickest, and the tallest! it is so; truth is truth.
+	An your waist, mistress, were as slender as my wit,
+	One o'these maids' girdles for your waist should be fit.
+	Are not you the chief woman? you are the thickest here.
+<SPEECH 47><ACT 4><SCENE 1><36%>
+	I have a letter from Monsieur Berowne to one Lady Rosaline.
+<SPEECH 48><ACT 4><SCENE 1><37%>
+	I told you; my lord.
+<SPEECH 49><ACT 4><SCENE 1><38%>
+	From my lord to my lady.
+<SPEECH 50><ACT 4><SCENE 1><38%>
+	From my lord Berowne, a good master of mine,
+	To a lady of France, that he call'd Rosaline.
+<SPEECH 51><ACT 4><SCENE 1><39%>
+	By my troth, most pleasant: how both did fit it!
+<SPEECH 52><ACT 4><SCENE 1><39%>
+	Indeed a' must shoot nearer, or he'll ne'er hit the clout.
+<SPEECH 53><ACT 4><SCENE 1><39%>
+	Then will she get the upshoot by cleaving the pin.
+<SPEECH 54><ACT 4><SCENE 1><39%>
+	She's too hard for you at pricks, sir: challenge her to bowl.
+<SPEECH 55><ACT 4><SCENE 1><39%>
+	By my soul, a swain! a most simple clown!
+	Lord, lord how the ladies and I have put him down!
+	O' my troth, most sweet jests! most incony vulgar wit!
+	When it comes so smoothly off, so obscenely, as it were, so fit,
+	Armado, o' the one side, O! a most dainty man.
+	To see him walk before a lady, and to bear her fan!
+	To see him kiss his hand! and how most sweetly a' will swear!
+	And his page o' t'other side, that handful of wit!
+	Ah! heavens, it is a most pathetical nit.
+	</STAGE DIR> Sola, sola!
+<SPEECH 56><ACT 4><SCENE 2><43%>
+	Marry, Master schoolmaster, he that is likest to a hogshead.
+<SPEECH 57><ACT 4><SCENE 2><45%>
+	Have with thee, my girl.
+<SPEECH 58><ACT 4><SCENE 3><53%>
+	Some certain treason.
+<SPEECH 59><ACT 4><SCENE 3><53%>
+	Nay, it makes nothing, sir.
+<SPEECH 60><ACT 4><SCENE 3><53%>
+	Of Dun Adramadio, Dun Adramadio.
+<SPEECH 61><ACT 4><SCENE 3><54%>
+	Walk aside the true folk, and let the traitors stay.
+<SPEECH 62><ACT 5><SCENE 1><62%>
+	O! they have lived long on the almsbasket of words. I marvel thy master hath not eaten thee for a word; for thou art not so long by the head as honorificabilitudinitatibus: thou art easier swallowed than a flap-dragon.
+<SPEECH 63><ACT 5><SCENE 1><63%>
+	An I had but one penny in the world, thou shouldst have it to buy gingerbread. Hold, there is the very remuneration I had of thy master, thou halfpenny purse of wit, thou pigeon-egg of discretion. O! an the heavens were so pleased that thou wert but my bastard, what a joyful father wouldst thou make me. Go to; thou hast it ad dunghill, at the fingers' ends, as they say.
+<SPEECH 64><ACT 5><SCENE 2><84%>
+	O Lord, sir, they would know
+	Whether the three Worthies shall come in or no.
+<SPEECH 65><ACT 5><SCENE 2><85%>
+	No, sir; but it is vara fine,
+	For every one pursents three.
+<SPEECH 66><ACT 5><SCENE 2><85%>
+	Not so, sir; under correction, sir, I hope, it is not so.
+	You cannot beg us, sir, I can assure you, sir; we know what we know:
+	I hope, sir, three times thrice, sir,—
+<SPEECH 67><ACT 5><SCENE 2><85%>
+	Under correction, sir, we know whereuntil it doth amount.
+<SPEECH 68><ACT 5><SCENE 2><85%>
+	O Lord, sir! it were pity you should get your living by reckoning, sir.
+<SPEECH 69><ACT 5><SCENE 2><85%>
+	O Lord, sir! the parties themselves, the actors, sir, will show whereuntil it doth amount: for mine own part, I am, as they say, but to parfect one man in one poor man, Pompion the Great, sir.
+<SPEECH 70><ACT 5><SCENE 2><85%>
+	It pleased them to think me worthy of Pompion the Great: for mine own part, I know not the degree of the Worthy, but I am to stand for him.
+<SPEECH 71><ACT 5><SCENE 2><85%>
+	We will turn it finely off, sir; we will take some care.
+<SPEECH 72><ACT 5><SCENE 2><87%>
+	I Pompey am,—
+<SPEECH 73><ACT 5><SCENE 2><87%>
+	I Pompey am,—
+<SPEECH 74><ACT 5><SCENE 2><87%>
+	I Pompey am, Pompey surnam'd the Big,—
+<SPEECH 75><ACT 5><SCENE 2><87%>
+	It is 'Great,' sir; Pompey surnam'd the Great;
+	That oft in field, with targe and shield, did make my foe to sweat:
+	And travelling along this coast, I here am come by chance,
+	And lay my arms before the legs of this sweet lass of France.
+	If your ladyship would say, 'Thanks, Pompey,' I had done.
+<SPEECH 76><ACT 5><SCENE 2><87%>
+	'Tis not so much worth; but I hope I was perfect. I made a little fault in 'Great.'
+<SPEECH 77><ACT 5><SCENE 2><88%>
+	Your servant, and Costard.
+<SPEECH 78><ACT 5><SCENE 2><88%>
+	</STAGE DIR> There, an't shall please you: a foolish mild man; an honest man, look you, and soon dashed! He is a marvellous good neighbour, faith, and a very good bowler; but, for Alisander,—alas, you see how 'tis,—a little o'erparted. But there are Worthies a-coming will speak their mind in some other sort.
+<SPEECH 79><ACT 5><SCENE 2><91%>
+	The party is gone; fellow Hector, she is gone; she is two months on her way.
+<SPEECH 80><ACT 5><SCENE 2><91%>
+	Faith, unless you play the honest Troyan, the poor wench is cast away: she's quick; the child brags in her belly already: 'tis yours.
+<SPEECH 81><ACT 5><SCENE 2><92%>
+	Then shall Hector be whipped for Jaquenetta that is quick by him, and hanged for Pompey that is dead by him.
+<SPEECH 82><ACT 5><SCENE 2><92%>
+	I will not fight with a pole, like a northern man: I'll slash; I'll do it by the sword. I bepray you, let me borrow my arms again.
+<SPEECH 83><ACT 5><SCENE 2><92%>
+	I'll do it in my shirt.

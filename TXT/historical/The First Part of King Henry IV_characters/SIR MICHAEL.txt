@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 4><SCENE 4><81%>
+	My good lord,
+	I guess their tenour.
+<SPEECH 2><ACT 4><SCENE 4><81%>
+	Why, my good lord, you need not fear:
+	There is the Douglas and Lord Mortimer.
+<SPEECH 3><ACT 4><SCENE 4><82%>
+	But there is Mordake, Vernon, Lord Harry Percy,
+	And there's my Lord of Worcester, and a head
+	Of gallant warriors, noble gentlemen.
+<SPEECH 4><ACT 4><SCENE 4><82%>
+	Doubt not, my lord, they shall be well oppos'd.

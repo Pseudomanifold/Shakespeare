@@ -1,0 +1,171 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	Mistress, you must come away to your father.
+<SPEECH 2><ACT 1><SCENE 2><9%>
+	No, by mine honour; but I was bid to come for you.
+<SPEECH 3><ACT 1><SCENE 2><9%>
+	Of a certain knight that swore by his honour they were good pancakes, and swore by his honour the mustard was naught: now, I'll stand to it, the pancakes were naught and the mustard was good, and yet was not the knight forsworn.
+<SPEECH 4><ACT 1><SCENE 2><9%>
+	Stand you both forth now: stroke your chins, and swear by your beards that I am a knave.
+<SPEECH 5><ACT 1><SCENE 2><9%>
+	By my knavery, if I had it, then I were; but if you swear by that that is not, you are not forsworn: no more was this knight, swearing by his honour, for he never had any; or if he had, he had sworn it away before ever he saw those pancakes or that mustard.
+<SPEECH 6><ACT 1><SCENE 2><10%>
+	One that old Frederick, your father, loves.
+<SPEECH 7><ACT 1><SCENE 2><10%>
+	The more pity, that fools may not speak wisely what wise men do foolishly.
+<SPEECH 8><ACT 1><SCENE 2><10%>
+	Or as the Destinies decree.
+<SPEECH 9><ACT 1><SCENE 2><10%>
+	Nay, if I keep not my rank,—
+<SPEECH 10><ACT 1><SCENE 2><11%>
+	But what is the sport, monsieur, that the ladies have lost?
+<SPEECH 11><ACT 1><SCENE 2><11%>
+	Thus men may grow wiser every day: it is the first time that ever I heard breaking of ribs was sport for ladies.
+<SPEECH 12><ACT 2><SCENE 4><28%>
+	I care not for my spirits if my legs were not weary.
+<SPEECH 13><ACT 2><SCENE 4><29%>
+	For my part, I had rather bear with you than bear you; yet I should bear no cross if I did bear you, for I think you have no money in your purse.
+<SPEECH 14><ACT 2><SCENE 4><29%>
+	Ay, now am I in Arden; the more fool I: when I was at home, I was in a better place: but travellers must be content.
+<SPEECH 15><ACT 2><SCENE 4><30%>
+	And I mine. I remember, when I was in love I broke my sword upon a stone, and bid him take that for coming a-night to Jane Smile; and I remember the kissing of her batler, and the cow's dugs that her pretty chopped hands had milked; and I remember the wooing of a peascod instead of her, from whom I took two cods, and giving her them again, said with weeping tears, 'Wear these for my sake.' We that are true lovers run into strange capers; but as all is mortal in nature, so is all nature in love mortal in folly.
+<SPEECH 16><ACT 2><SCENE 4><30%>
+	Nay, I shall ne'er be ware of mine own wit till I break my shins against it.
+<SPEECH 17><ACT 2><SCENE 4><30%>
+	And mine; but it grows something stale with me.
+<SPEECH 18><ACT 2><SCENE 4><31%>
+	Holla, you clown!
+<SPEECH 19><ACT 2><SCENE 4><31%>
+	Your betters, sir.
+<SPEECH 20><ACT 3><SCENE 2><43%>
+	Truly, shepherd, in respect of itself, it is a good life; but in respect that it is a shepherd's life, it is naught. In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vile life. Now, in respect it is in the fields, it pleaseth me well; but in respect it is not in the court, it is tedious. As it is a spare life, look you, it fits my humour well; but as there is no more plenty in it, it goes much against my stomach. Hast any philosophy in thee, shepherd?
+<SPEECH 21><ACT 3><SCENE 2><44%>
+	Such a one is a natural philosopher. Wast ever in court, shepherd?
+<SPEECH 22><ACT 3><SCENE 2><44%>
+	Then thou art damned.
+<SPEECH 23><ACT 3><SCENE 2><44%>
+	Truly, thou art damned like an ill-roasted egg, all on one side.
+<SPEECH 24><ACT 3><SCENE 2><44%>
+	Why, if thou never wast at court, thou never sawest good manners; if thou never sawest good manners, then thy manners must be wicked; and wickedness is sin, and sin is damnation. Thou art in a parlous state, shepherd.
+<SPEECH 25><ACT 3><SCENE 2><45%>
+	Instance, briefly; come, instance.
+<SPEECH 26><ACT 3><SCENE 2><45%>
+	Why, do not your courtier's hands sweat? and is not the grease of a mutton as wholesome as the sweat of a man? Shallow, shallow. A better instance, I say; come.
+<SPEECH 27><ACT 3><SCENE 2><45%>
+	Your lips will feel them the sooner: shallow again. A more sounder instance; come.
+<SPEECH 28><ACT 3><SCENE 2><45%>
+	Most shallow man! Thou worms-meat, in respect of a good piece of flesh, indeed! Learn of the wise, and perpend: civet is of a baser birth than tar, the very uncleanly flux of a cat. Mend the instance, shepherd.
+<SPEECH 29><ACT 3><SCENE 2><45%>
+	Wilt thou rest damned? God help thee, shallow man! God make incision in thee! thou art raw.
+<SPEECH 30><ACT 3><SCENE 2><45%>
+	That is another simple sin in you, to bring the ewes and the rams together, and to offer to get your living by the copulation of cattle; to be bawd to a bell-wether, and to betray a she-lamb of a twelvemonth to a crooked-pated, old, cuckoldy ram, out of all reasonable match. If thou be'st not damned for this, the devil himself will have no shepherds: I cannot see else how thou shouldst 'scape.
+<SPEECH 31><ACT 3><SCENE 2><46%>
+	I'll rime you so, eight years together, dinners and suppers and sleeping hours excepted: it is the right butter-women's rank to market.
+<SPEECH 32><ACT 3><SCENE 2><46%>
+	For a taste:—
+	If a hart do lack a hind,
+	Let him seek out Rosalind.
+	If the cat will after kind,
+	So be sure will Rosalind.
+	Winter-garments must be lin'd,
+	So must slender Rosalind.
+	They that reap must sheaf and bind,
+	Then to cart with Rosalind.
+	Sweetest nut hath sourest rind,
+	Such a nut is Rosalind.
+	He that sweetest rose will find
+	Must find love's prick and Rosalind.
+	This is the very false gallop of verses: why do you infect yourself with them?
+<SPEECH 33><ACT 3><SCENE 2><47%>
+	Truly, the tree yields bad fruit.
+<SPEECH 34><ACT 3><SCENE 2><47%>
+	You have said; but whether wisely or no, let the forest judge.
+<SPEECH 35><ACT 3><SCENE 2><48%>
+	Come, shepherd, let us make an honourable retreat; though not with bag and baggage, yet with scrip and scrippage.
+<SPEECH 36><ACT 3><SCENE 3><57%>
+	Come apace, good Audrey: I will fetch up your goats, Audrey. And how, Audrey? am I the man yet? doth my simple feature content you?
+<SPEECH 37><ACT 3><SCENE 3><57%>
+	I am here with thee and thy goats, as the most capricious poet, honest Ovid, was among the Goths.
+<SPEECH 38><ACT 3><SCENE 3><58%>
+	When a man's verses cannot be understood, nor a man's good wit seconded with the forward child Understanding, it strikes a man more dead than a great reckoning in a little room. Truly, I would the gods had made thee poetical.
+<SPEECH 39><ACT 3><SCENE 3><58%>
+	No, truly, for the truest poetry is the most feigning; and lovers are given to poetry, and what they swear in poetry may be said as lovers they do feign.
+<SPEECH 40><ACT 3><SCENE 3><58%>
+	I do, truly; for thou swearest to me thou art honest: now, if thou wert a poet, I might have some hope thou didst feign.
+<SPEECH 41><ACT 3><SCENE 3><58%>
+	No, truly, unless thou wert hard-favour'd; for honesty coupled to beauty is to have honey a sauce to sugar.
+<SPEECH 42><ACT 3><SCENE 3><58%>
+	Truly, and to cast away honesty upon a foul slut were to put good meat into an unclean dish.
+<SPEECH 43><ACT 3><SCENE 3><58%>
+	Well, praised be the gods for thy foulness! sluttishness may come hereafter. But be it as it may be, I will marry thee; and to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promised to meet me in this place of the forest, and to couple us.
+<SPEECH 44><ACT 3><SCENE 3><59%>
+	Amen. A man may, if he were of a fearful heart, stagger in this attempt; for here we have no temple but the wood, no assembly but horn-beasts. But what though? Courage! As horns are odious, they are necessary. It is said, 'many a man knows no end of his goods:' right; many a man has good horns, and knows no end of them. Well, that is the dowry of his wife; 'tis none of his own getting. Horns? Even so. Poor men alone? No, no; the noblest deer hath them as huge as the rascal. Is the single man therefore blessed? No: as a walled town is more worthier than a village, so is the forehead of a married man more honourable than the bare brow of a bachelor; and by how much defence is better than no skill, by so much is a horn more precious than to want. Here comes Sir Oliver.
+	Sir Oliver Martext, you are well met: will you dispatch us here under this tree, or shall we go with you to your chapel?
+<SPEECH 45><ACT 3><SCENE 3><60%>
+	I will not take her on gift of any man.
+<SPEECH 46><ACT 3><SCENE 3><60%>
+	Good even, good Master What-ye-call't. how do you, sir? You are very well met: God 'ild you for your last company: I am very glad to see you: even a toy in hand here, sir: nay, pray be covered.
+<SPEECH 47><ACT 3><SCENE 3><60%>
+	As the ox hath his bow, sir, the horse his curb, and the falcon her bells, so man hath his desires; and as pigeons bill, so wedlock would be nibbling.
+<SPEECH 48><ACT 3><SCENE 3><60%>
+	</STAGE DIR> I am not in the mind but I were better to be married of him than of another: for he is not like to marry me well, and not being well married, it will be a good excuse for me hereafter to leave my wife.
+<SPEECH 49><ACT 3><SCENE 3><60%>
+	Come, sweet Audrey:
+	We must be married, or we must live in bawdry.
+	Farewell, good Master Oliver: not
+	O sweet Oliver!
+	O brave Oliver!
+	Leave me not behind thee:
+	but,—
+	Wind away,
+	Begone, I say,
+	I will not to wedding with thee.
+<SPEECH 50><ACT 5><SCENE 1><83%>
+	We shall find a time, Audrey: patience, gentle Audrey.
+<SPEECH 51><ACT 5><SCENE 1><83%>
+	A most wicked Sir Oliver, Audrey; a most vile Martext. But, Audrey, there is a youth here in the forest lays claim to you.
+<SPEECH 52><ACT 5><SCENE 1><83%>
+	It is meat and drink to me to see a clown. By my troth, we that have good wits have much to answer for: we shall be flouting; we cannot hold.
+<SPEECH 53><ACT 5><SCENE 1><83%>
+	Good even, gentle friend. Cover thy head, cover thy head; nay, prithee, be covered. How old are you, friend?
+<SPEECH 54><ACT 5><SCENE 1><84%>
+	A ripe age. Is thy name William?
+<SPEECH 55><ACT 5><SCENE 1><84%>
+	A fair name. Wast born i' the forest here?
+<SPEECH 56><ACT 5><SCENE 1><84%>
+	'Thank God;' a good answer. Art rich?
+<SPEECH 57><ACT 5><SCENE 1><84%>
+	'So so,' is good, very good, very excellent good: and yet it is not; it is but so so. Art thou wise?
+<SPEECH 58><ACT 5><SCENE 1><84%>
+	Why, thou sayest well. I do now remember a saying, 'The fool doth think he is wise, but the wise man knows himself to be a fool.' The heathen philosopher, when he had a desire to eat a grape, would open his lips when he put it into his mouth; meaning thereby that grapes were made to eat and lips to open. You do love this maid?
+<SPEECH 59><ACT 5><SCENE 1><84%>
+	Give me your hand. Art thou learned?
+<SPEECH 60><ACT 5><SCENE 1><84%>
+	Then learn this of me: to have, is to have; for it is a figure in rhetoric, that drink, being poured out of a cup into a glass, by filling the one doth empty the other; for all your writers do consent that ipse is he: now, you are not ipse, for I am he.
+<SPEECH 61><ACT 5><SCENE 1><84%>
+	He, sir, that must marry this woman. Therefore, you clown, abandon,—which is in the vulgar, leave,—the society,—which in the boorish is, company,—of this female,—which in the common is, woman; which together is, abandon the society of this female, or, clown, thou perishest; or, to thy better understanding, diest; or, to wit, I kill thee, make thee away, translate thy life into death, thy liberty into bondage. I will deal in poison with thee, or in bastinado, or in steel; I will bandy with thee in faction; I will o'errun thee with policy; I will kill thee a hundred and fifty ways: therefore tremble, and depart.
+<SPEECH 62><ACT 5><SCENE 1><85%>
+	Trip, Audrey! trip, Audrey! I attend, I attend.
+<SPEECH 63><ACT 5><SCENE 3><90%>
+	To-morrow is the joyful day, Audrey; to-morrow will we be married.
+<SPEECH 64><ACT 5><SCENE 3><90%>
+	By my troth, well met. Come, sit, sit, and a song.
+<SPEECH 65><ACT 5><SCENE 3><91%>
+	Truly, young gentlemen, though there was no great matter in the ditty, yet the note was very untuneable.
+<SPEECH 66><ACT 5><SCENE 3><91%>
+	By my troth, yes; I count it but time lost to hear such a foolish song. God be wi' you; and God mend your voices! Come, Audrey.
+<SPEECH 67><ACT 5><SCENE 4><93%>
+	Salutation and greeting to you all!
+<SPEECH 68><ACT 5><SCENE 4><93%>
+	If any man doubt that, let him put me to my purgation. I have trod a measure; I have flattered a lady; I have been politic with my friend, smooth with mine enemy; I have undone three tailors; I have had four quarrels, and like to have fought one.
+<SPEECH 69><ACT 5><SCENE 4><93%>
+	Faith, we met, and found the quarrel was upon the seventh cause.
+<SPEECH 70><ACT 5><SCENE 4><93%>
+	God 'ild you, sir; I desire you of the like. I press in here, sir, amongst the rest of the country copulatives, to swear, and to forswear, according as marriage binds and blood breaks. A poor virgin, sir, an ill-favoured thing, sir, but mine own: a poor humour of mine, sir, to take that that no man else will. Rich honesty dwells like a miser, sir, in a poor house, as your pearl in your foul oyster.
+<SPEECH 71><ACT 5><SCENE 4><94%>
+	According to the fool's bolt, sir, and such dulcet diseases.
+<SPEECH 72><ACT 5><SCENE 4><94%>
+	Upon a lie seven times removed:—bear your body more seeming, Audrey:—as thus, sir. I did dislike the cut of a certain courtier's beard: he sent me word, if I said his beard was not cut well, he was in the mind it was: this is called 'the retort courteous.' If I sent him word again, it was not well cut, he would send me word, he cut it to please himself: this is called the 'quip modest.' If again, it was not well cut, he disabled my judgment: this is called the 'reply churlish.' If again, it was not well cut, he would answer, I spake not true: this is called the 'reproof valiant:' if again, it was not well cut, he would say, I lie: this is called the 'countercheck quarrelsome': and so to the 'lie circumstantial,' and the 'lie direct.'
+<SPEECH 73><ACT 5><SCENE 4><95%>
+	I durst go no further than the 'lie circumstantial,' nor he durst not give me the 'lie direct;' and so we measured swords and parted.
+<SPEECH 74><ACT 5><SCENE 4><95%>
+	O sir, we quarrel in print; by the book, as you have books for good manners: I will name you the degrees. The first, the 'retort courteous;' the second, the 'quip modest;' the third, the 'reply churlish;' the fourth, the 'reproof valiant;' the fifth, the 'countercheck quarrelsome;' the sixth, the 'lie with circumstance;' the seventh, the 'lie direct.' All these you may avoid but the lie direct; and you may avoid that too, with an 'if.' I knew when seven justices could not take up a quarrel; but when the parties were met themselves, one of them thought but of an 'if,' as 'If you said so, then I said so;' and they shook hands and swore brothers. Your 'if' is the only peace-maker; much virtue in 'if.'

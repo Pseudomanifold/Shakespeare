@@ -1,0 +1,119 @@
+<SPEECH 1><ACT 1><SCENE 3><5%>
+	By my troth, Sir Toby, you must come in earlier o' nights: your cousin, my lady, takes great exceptions to your ill hours.
+<SPEECH 2><ACT 1><SCENE 3><5%>
+	Ay, but you must confine yourself within the modest limits of order.
+<SPEECH 3><ACT 1><SCENE 3><5%>
+	That quaffing and drinking will undo you: I heard my lady talk of it yesterday; and of a foolish knight that you brought in one night here to be her wooer.
+<SPEECH 4><ACT 1><SCENE 3><5%>
+	Ay, he.
+<SPEECH 5><ACT 1><SCENE 3><5%>
+	What's that to the purpose?
+<SPEECH 6><ACT 1><SCENE 3><5%>
+	Ay, but he'll have but a year in all these ducats: he's a very fool and a prodigal.
+<SPEECH 7><ACT 1><SCENE 3><5%>
+	He hath indeed, almost natural; for, besides that he's a fool, he's a great quarreller; and but that he hath the gift of a coward to allay the gust he hath in quarrelling, 'tis thought among the prudent he would quickly have the gift of a grave.
+<SPEECH 8><ACT 1><SCENE 3><6%>
+	They that add, moreover, he's drunk nightly in your company.
+<SPEECH 9><ACT 1><SCENE 3><6%>
+	And you too, sir.
+<SPEECH 10><ACT 1><SCENE 3><6%>
+	My name is Mary, sir.
+<SPEECH 11><ACT 1><SCENE 3><7%>
+	Fare you well, gentlemen.
+<SPEECH 12><ACT 1><SCENE 3><7%>
+	Sir, I have not you by the hand.
+<SPEECH 13><ACT 1><SCENE 3><7%>
+	Now, sir, 'thought is free:' I pray you, bring your hand to the buttery-bar and let it drink.
+<SPEECH 14><ACT 1><SCENE 3><7%>
+	It's dry, sir.
+<SPEECH 15><ACT 1><SCENE 3><7%>
+	A dry jest, sir.
+<SPEECH 16><ACT 1><SCENE 3><7%>
+	Ay, sir, I have them at my fingers' ends: marry, now I let go your hand, I am barren.
+<SPEECH 17><ACT 1><SCENE 5><11%>
+	Nay, either tell me where thou hast been, or I will not open my lips so wide as a bristle may enter in way of thy excuse. My lady will hang thee for thy absence.
+<SPEECH 18><ACT 1><SCENE 5><12%>
+	Make that good.
+<SPEECH 19><ACT 1><SCENE 5><12%>
+	A good lenten answer: I can tell thee where that saying was born, of, 'I fear no colours.'
+<SPEECH 20><ACT 1><SCENE 5><12%>
+	In the wars; and that may you be bold to say in your foolery.
+<SPEECH 21><ACT 1><SCENE 5><12%>
+	Yet you will be hanged for being so long absent; or, to be turned away, is not that as good as a hanging to you?
+<SPEECH 22><ACT 1><SCENE 5><12%>
+	You are resolute then?
+<SPEECH 23><ACT 1><SCENE 5><12%>
+	That if one break, the other will hold; or, if both break, your gaskins fall.
+<SPEECH 24><ACT 1><SCENE 5><12%>
+	Peace, you rogue, no more o' that. Here comes my lady: make your excuse wisely, you were best.
+<SPEECH 25><ACT 1><SCENE 5><15%>
+	Madam, there is at the gate a young gentleman much desires to speak with you.
+<SPEECH 26><ACT 1><SCENE 5><15%>
+	I know not, madam: 'tis a fair young man, and well attended.
+<SPEECH 27><ACT 1><SCENE 5><15%>
+	Sir Toby, madam, your kinsman.
+<SPEECH 28><ACT 1><SCENE 5><19%>
+	Will you hoist sail, sir? here lies your way.
+<SPEECH 29><ACT 2><SCENE 3><30%>
+	What a caterwauling do you keep here! If my lady have not called up her steward Malvolio and bid him turn you out of doors, never trust me.
+<SPEECH 30><ACT 2><SCENE 3><30%>
+	For the love o' God, peace!
+<SPEECH 31><ACT 2><SCENE 3><31%>
+	Nay, good Sir Toby.
+<SPEECH 32><ACT 2><SCENE 3><32%>
+	Go shake your ears.
+<SPEECH 33><ACT 2><SCENE 3><32%>
+	Sweet Sir Toby, be patient for to-night: since the youth of the count's was to-day with my lady, she is much out of quiet. For Monsieur Malvolio, let me alone with him: if I do not gull him into a nayword, and make him a common recreation, do not think I have wit enough to lie straight in my bed. I know I can do it.
+<SPEECH 34><ACT 2><SCENE 3><32%>
+	Marry, sir, sometimes he is a kind of puritan.
+<SPEECH 35><ACT 2><SCENE 3><33%>
+	The devil a puritan that he is, or anything constantly but a time-pleaser; an affectioned ass, that cons state without book, and utters it by great swarths: the best persuaded of himself; so crammed, as he thinks, with excellences, that it is his ground of faith that all that look on him love him; and on that vice in him will my revenge find notable cause to work.
+<SPEECH 36><ACT 2><SCENE 3><33%>
+	I will drop in his way some obscure epistles of love; wherein, by the colour of his beard, the shape of his leg, the manner of his gait, the expressure of his eye, forehead, and complexion, he shall find himself most feelingly personated. I can write very like my lady your niece; on a forgotten matter we can hardly make distinction of our hands.
+<SPEECH 37><ACT 2><SCENE 3><33%>
+	My purpose is, indeed, a horse of that colour.
+<SPEECH 38><ACT 2><SCENE 3><34%>
+	Ass, I doubt not.
+<SPEECH 39><ACT 2><SCENE 3><34%>
+	Sport royal, I warrant you: I know my physic will work with him. I will plant you two, and let the fool make a third, where he shall find the letter: observe his construction of it. For this night, to bed, and dream on the event. Farewell.
+<SPEECH 40><ACT 2><SCENE 5><40%>
+	Get ye all three into the box-tree. Malvolio's coming down this walk: he has been yonder i' the sun practising behaviour to his own shadow this half-hour. Observe him, for the love of mockery; for I know this letter will make a contemplative idiot of him. Close, in the name of jesting! Lie thou there: <STAGE DIR>
+	</STAGE DIR> for here comes the trout that must be caught with tickling.
+<SPEECH 41><ACT 2><SCENE 5><46%>
+	Nay, but say true; does it work upon him?
+<SPEECH 42><ACT 2><SCENE 5><46%>
+	If you will, then see the fruits of the sport, mark his first approach before my lady; he will come to her in yellow stockings, and 'tis a colour she abhors; and cross-gartered, a fashion she detests; and he will smile upon her, which will now be so unsuitable to her disposition, being addicted to a melancholy as she is, that it cannot but turn him into a notable contempt. If you will see it, follow me.
+<SPEECH 43><ACT 3><SCENE 2><56%>
+	If you desire the spleen, and will laugh yourselves into stitches, follow me. Yond gull Malvolio is turned heathen, a very renegado; for there is no Christian, that means to be saved by believing rightly, can ever believe such impossible passages of grossness. He's in yellow stockings.
+<SPEECH 44><ACT 3><SCENE 2><56%>
+	Most villanously; like a pedant that keeps a school i' the church. I have dogged him like his murderer. He does obey every point of the letter that I dropped to betray him: he does smile his face into more lines than are in the new map with the augmentation of the Indies. You have not seen such a thing as 'tis; I can hardly forbear hurling things at him. I know my lady will strike him: if she do, he'll smile and take't for a great favour.
+<SPEECH 45><ACT 3><SCENE 4><59%>
+	He's coming, madam; but in very strange manner. He is sure possess'd, madam.
+<SPEECH 46><ACT 3><SCENE 4><59%>
+	No, madam; he does nothing but smile: your ladyship were best to have some guard about you if he come, for sure the man is tainted in's wits.
+<SPEECH 47><ACT 3><SCENE 4><60%>
+	How do you, Malvolio?
+<SPEECH 48><ACT 3><SCENE 4><60%>
+	Why appear you with this ridiculous boldness before my lady?
+<SPEECH 49><ACT 3><SCENE 4><62%>
+	Lo, how hollow the fiend speaks within him! did not I tell you? Sir Toby, my lady prays you to have a care of him.
+<SPEECH 50><ACT 3><SCENE 4><63%>
+	La you! an you speak ill of the devil, how he takes it at heart. Pray God, he be not bewitched!
+<SPEECH 51><ACT 3><SCENE 4><63%>
+	Marry, and it shall be done to-morrow morning, if I live. My lady would not lose him for more than I'll say.
+<SPEECH 52><ACT 3><SCENE 4><63%>
+	O Lord!
+<SPEECH 53><ACT 3><SCENE 4><63%>
+	Get him to say his prayers, good Sir Toby, get him to pray.
+<SPEECH 54><ACT 3><SCENE 4><63%>
+	No, I warrant you, he will not hear of godliness.
+<SPEECH 55><ACT 3><SCENE 4><64%>
+	Nay, pursue him now, lest the device take air, and taint.
+<SPEECH 56><ACT 3><SCENE 4><64%>
+	The house will be the quieter.
+<SPEECH 57><ACT 3><SCENE 4><65%>
+	You may have very fit occasion for for't: he is now in some commerce with my lady, and will by and by depart.
+<SPEECH 58><ACT 4><SCENE 2><78%>
+	Nay, I prithee, put on this gown and this beard; make him believe thou art Sir Topas the curate: do it quickly; I'll call Sir Toby the whilst.
+<SPEECH 59><ACT 4><SCENE 2><80%>
+	Thou mightst have done this without thy beard and gown: he sees thee not.

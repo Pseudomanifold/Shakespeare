@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 5><SCENE 5><99%>
+	Peace, ho! no outrage: peace!
+	The man is noble and his fame folds in
+	This orb o' the earth. His last offences to us
+	Shall have judicious hearing. Stand, Aufidius,
+	And trouble not the peace.
+<SPEECH 2><ACT 5><SCENE 5><99%>
+	Thou hast done a deed whereat valour will weep.
+<SPEECH 3><ACT 5><SCENE 5><100%>
+	His own impatience
+	Takes from Aufidius a great part of blame.
+	Let's make the best of it.

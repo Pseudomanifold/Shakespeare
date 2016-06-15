@@ -1,0 +1,208 @@
+<SPEECH 1><ACT 3><SCENE 1><43%>
+	Uncles of Gloucester and of Winchester,
+	The special watchmen of our English weal,
+	I would prevail, if prayers might prevail,
+	To join your hearts in love and amity.
+	O! what a scandal is it to our crown,
+	That two such noble peers as ye should jar.
+	Believe me, lords, my tender years can tell
+	Civil dissension is a viperous worm,
+	That gnaws the bowels of the commonwealth.
+	What tumult's this?
+<SPEECH 2><ACT 3><SCENE 1><44%>
+	We charge you, on allegiance to ourself,
+	To hold your slaught'ring hands, and keep the peace.—
+	Pray, uncle Gloucester, mitigate this strife.
+<SPEECH 3><ACT 3><SCENE 1><45%>
+	O! how this discord doth afflict my soul!
+	Can you, my Lord of Winchester, behold
+	My sighs and tears and will not once relent?
+	Who should be pitiful if you be not?
+	Or who should study to prefer a peace
+	If holy churchmen take delight in broils?
+<SPEECH 4><ACT 3><SCENE 1><45%>
+	Fie, uncle Beaufort! I have heard you preach,
+	That malice was a great and grievous sin;
+	And will not you maintain the thing you teach,
+	But prove a chief offender in the same?
+<SPEECH 5><ACT 3><SCENE 1><46%>
+	O loving uncle, kind Duke of Gloucester,
+	How joyful am I made by this contract!
+	Away, my masters! trouble us no more;
+	But join in friendship, as your lords have done.
+<SPEECH 6><ACT 3><SCENE 1><47%>
+	And those occasions, uncle, were of force:
+	Therefore, my loving lords, our pleasure is
+	That Richard be restored to his blood.
+<SPEECH 7><ACT 3><SCENE 1><47%>
+	If Richard will be true, not that alone,
+	But all the whole inheritance I give
+	That doth belong unto the house of York,
+	From whence you spring by lineal descent.
+<SPEECH 8><ACT 3><SCENE 1><47%>
+	Stoop then and set your knee against my foot;
+	And, in reguerdon of that duty done,
+	I girt thee with the valiant sword of York:
+	Rise, Richard, like a true Plantagenet,
+	And rise created princely Duke of York.
+<SPEECH 9><ACT 3><SCENE 1><47%>
+	When Gloucester says the word, King Henry goes;
+	For friendly counsel cuts off many foes.
+<SPEECH 10><ACT 3><SCENE 4><58%>
+	Is this the Lord Talbot, uncle Gloucester,
+	That hath so long been resident in France?
+<SPEECH 11><ACT 3><SCENE 4><58%>
+	Welcome, brave captain and victorious lord!
+	When I was young,—as yet I am not old,—
+	I do remember how my father said,
+	A stouter champion never handled sword.
+	Long since we were resolved of your truth,
+	Your faithful service and your toil in war;
+	Yet never have you tasted our reward,
+	Or been reguerdon'd with so much as thanks,
+	Because till now we never saw your face:
+	Therefore, stand up; and for these good deserts,
+	We here create you Earl of Shrewsbury;
+	And in our coronation take your place.
+<SPEECH 12><ACT 4><SCENE 1><61%>
+	Stain to thy countrymen! thou hear'st thy doom.
+	Be packing therefore, thou that wast a knight;
+	Henceforth we banish thee on pain of death.
+	And now, my Lord Protector, view the letter
+	Sent from our uncle Duke of Burgundy.
+<SPEECH 13><ACT 4><SCENE 1><62%>
+	What! doth my uncle Burgundy revolt?
+<SPEECH 14><ACT 4><SCENE 1><62%>
+	Is that the worst this letter doth contain?
+<SPEECH 15><ACT 4><SCENE 1><62%>
+	Why then, Lord Talbot there shall talk with him,
+	And give him chastisement for this abuse.
+	How say you, my lord? are you not content?
+<SPEECH 16><ACT 4><SCENE 1><62%>
+	Then gather strength, and march unto him straight:
+	Let him perceive how ill we brook his treason,
+	And what offence it is to flout his friends.
+<SPEECH 17><ACT 4><SCENE 1><62%>
+	Be patient, lords; and give them leave to speak.
+	Say, gentlemen, what makes you thus exclaim?
+	And wherefore crave you combat? or with whom?
+<SPEECH 18><ACT 4><SCENE 1><62%>
+	What is that wrong whereof you both complain?
+	First let me know, and then I'll answer you.
+<SPEECH 19><ACT 4><SCENE 1><63%>
+	Good Lord! what madness rules in brain-sick men,
+	When, for so slight and frivolous a cause,
+	Such factious emulations shall arise!
+	Good cousins both, of York and Somerset,
+	Quiet yourselves, I pray, and be at peace.
+<SPEECH 20><ACT 4><SCENE 1><64%>
+	Come hither, you that would be combatants.
+	Henceforth I charge you, as you love our favour,
+	Quite to forget this quarrel and the cause.
+	And you, my lords, remember where we are;
+	In France, amongst a fickle wav'ring nation.
+	If they perceive dissension in our looks,
+	And that within ourselves we disagree,
+	How will their grudging stomachs be provok'd
+	To wilful disobedience, and rebel!
+	Beside, what infamy will there arise,
+	When foreign princes shall be certified
+	That for a toy, a thing of no regard,
+	King Henry's peers and chief nobility
+	Destroy'd themselves, and lost the realm of France!
+	O! think upon the conquest of my father,
+	My tender years, and let us not forego
+	That for a trifle that was bought with blood!
+	Let me be umpire in this doubtful strife.
+	I see no reason, if I wear this rose,
+	That any one should therefore be suspicious
+	I more incline to Somerset than York:
+	Both are my kinsmen, and I love them both.
+	As well they may upbraid me with my crown,
+	Because, forsooth, the King of Scots is crown'd.
+	But your discretions better can persuade
+	Than I am able to instruct or teach:
+	And therefore, as we hither came in peace,
+	So let us still continue peace and love.
+	Cousin of York, we institute your Grace
+	To be our regent in these parts of France:
+	And, good my Lord of Somerset, unite
+	Your troops of horsemen with his bands of foot;
+	And like true subjects, sons of your progenitors,
+	Go cheerfully together and digest
+	Your angry choler on your enemies.
+	Ourself, my Lord Protector, and the rest,
+	After some respite will return to Calais;
+	From thence to England; where I hope ere long
+	To be presented by your victories,
+	With Charles, Alençon, and that traitorous rout.
+<SPEECH 21><ACT 5><SCENE 1><80%>
+	Have you perus'd the letters from the pope,
+	The emperor, and the Earl of Armagnac?
+<SPEECH 22><ACT 5><SCENE 1><80%>
+	How doth your Grace affect their motion?
+<SPEECH 23><ACT 5><SCENE 1><80%>
+	Ay, marry, uncle; for I always thought
+	It was both impious and unnatural
+	That such immanity and bloody strife
+	Should reign among professors of one faith.
+<SPEECH 24><ACT 5><SCENE 1><80%>
+	Marriage, uncle! alas! my years are young,
+	And fitter is my study and my books
+	Than wanton dalliance with a paramour.
+	Yet call the ambassadors; and, as you please,
+	So let them have their answers every one:
+	I shall be well content with any choice
+	Tends to God's glory and my country's weal.
+<SPEECH 25><ACT 5><SCENE 1><81%>
+	My lords ambassadors, your several suits
+	Have been consider'd, and debated on.
+	Your purpose is both good and reasonable;
+	And therefore are we certainly resolv'd
+	To draw conditions of a friendly peace;
+	Which by my Lord of Winchester we mean
+	Shall be transported presently to France.
+<SPEECH 26><ACT 5><SCENE 1><81%>
+	</STAGE DIR> In argument and proof of which contract,
+	Bear her this jewel, pledge of my affection.
+	And so, my lord protector, see them guarded,
+	And safely brought to Dover; where inshipp'd
+	Commit them to the fortune of the sea.
+<SPEECH 27><ACT 5><SCENE 5><97%>
+	Your wondrous rare description, noble earl,
+	Of beauteous Margaret hath astonish'd me:
+	Her virtues, graced with external gifts
+	Do breed love's settled passions in my heart:
+	And like as rigour of tempestuous gusts
+	Provokes the mightiest hulk against the tide,
+	So am I driven by breath of her renown
+	Either to suffer shipwrack, or arrive
+	Where I may have fruition of her love.
+<SPEECH 28><ACT 5><SCENE 5><97%>
+	And otherwise will Henry ne'er presume.
+	Therefore, my Lord Protector, give consent
+	That Margaret may be England's royal queen.
+<SPEECH 29><ACT 5><SCENE 5><99%>
+	Whether it be through force of your report,
+	My noble lord of Suffolk, or for that
+	My tender youth was never yet attaint
+	With any passion of inflaming love,
+	I cannot tell; but this I am assur'd,
+	I feel such sharp dissension in my breast,
+	Such fierce alarums both of hope and fear,
+	As I am sick with working of my thoughts.
+	Take, therefore, shipping; post, my lord, to France;
+	Agree to any covenants, and procure
+	That Lady Margaret do vouchsafe to come
+	To cross the seas to England and be crown'd
+	King Henry's faithful and anointed queen:
+	For your expenses and sufficient charge,
+	Among the people gather up a tenth.
+	Be gone, I say; for till you do return
+	I rest perplexed with a thousand cares.
+	And you, good uncle, banish all offence:
+	If you do censure me by what you were,
+	Not what you are, I know it will excuse
+	This sudden execution of my will.
+	And so, conduct me, where, from company
+	I may revolve and ruminate my grief.

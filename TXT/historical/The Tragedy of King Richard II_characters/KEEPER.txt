@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 5><SCENE 5><97%>
+	</STAGE DIR> Fellow, give place; here is no longer stay.
+<SPEECH 2><ACT 5><SCENE 5><97%>
+	My lord, will't please you to fall to?
+<SPEECH 3><ACT 5><SCENE 5><97%>
+	My lord, I dare not: Sir Pierce of Exton, who lately came from the king, commands the contrary.
+<SPEECH 4><ACT 5><SCENE 5><97%>
+	Help, help, help!

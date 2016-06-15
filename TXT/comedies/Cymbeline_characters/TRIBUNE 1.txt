@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 3><SCENE 7><58%>
+	Is Lucius general of the forces?
+<SPEECH 2><ACT 3><SCENE 7><58%>
+	Remaining now in Gallia?
+<SPEECH 3><ACT 3><SCENE 7><58%>
+	We will discharge our duty.

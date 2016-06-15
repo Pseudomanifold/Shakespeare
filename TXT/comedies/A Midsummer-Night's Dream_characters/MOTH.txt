@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 3><SCENE 1><44%>
+	And I.
+<SPEECH 2><ACT 3><SCENE 1><45%>
+	Hail!

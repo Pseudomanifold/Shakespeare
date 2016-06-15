@@ -1,0 +1,48 @@
+<SPEECH 1><ACT 4><SCENE 2><69%>
+	</STAGE DIR> Or rather, of stealing a cade of herrings.
+<SPEECH 2><ACT 4><SCENE 2><69%>
+	Silence!
+<SPEECH 3><ACT 4><SCENE 2><69%>
+	</STAGE DIR> He was an honest man, and a good bricklayer.
+<SPEECH 4><ACT 4><SCENE 2><69%>
+	</STAGE DIR> I knew her well; she was a midwife.
+<SPEECH 5><ACT 4><SCENE 2><69%>
+	</STAGE DIR> She was, indeed, a pedlar's daughter, and sold many laces.
+<SPEECH 6><ACT 4><SCENE 2><70%>
+	</STAGE DIR> Ay, by my faith, the field is honourable; and there was he born, under a hedge; for his father had never a house but the cage.
+<SPEECH 7><ACT 4><SCENE 2><70%>
+	</STAGE DIR> No question of that, for I have seen him whipped three market-days together.
+<SPEECH 8><ACT 4><SCENE 2><70%>
+	</STAGE DIR> But methinks he should stand in fear of fire, being burnt i' the hand for stealing of sheep.
+<SPEECH 9><ACT 4><SCENE 2><70%>
+	The first thing we do, let's kill all the lawyers.
+<SPEECH 10><ACT 4><SCENE 2><71%>
+	Nay, he can make obligations, and write court-hand.
+<SPEECH 11><ACT 4><SCENE 2><71%>
+	They use to write it on the top of letters. 'Twill go hard with you.
+<SPEECH 12><ACT 4><SCENE 2><73%>
+	Nay, 'tis too true; therefore he shall be king.
+<SPEECH 13><ACT 4><SCENE 2><73%>
+	And furthermore, we'll have the Lord Say's head for selling the dukedom of Maine.
+<SPEECH 14><ACT 4><SCENE 2><74%>
+	They are all in order, and march toward us.
+<SPEECH 15><ACT 4><SCENE 3><74%>
+	Here, sir.
+<SPEECH 16><ACT 4><SCENE 3><74%>
+	I desire no more.
+<SPEECH 17><ACT 4><SCENE 3><74%>
+	If we mean to thrive and do good, break open the gaols and let out the prisoners.
+<SPEECH 18><ACT 4><SCENE 6><78%>
+	My lord, there's an army gathered together in Smithfield.
+<SPEECH 19><ACT 4><SCENE 7><78%>
+	I have a suit unto your lordship.
+<SPEECH 20><ACT 4><SCENE 7><78%>
+	Only that the laws of England may come out of your mouth.
+<SPEECH 21><ACT 4><SCENE 7><80%>
+	And work in their shirt too; as myself, for example, that am a butcher.
+<SPEECH 22><ACT 4><SCENE 7><80%>
+	What say you of Kent?
+<SPEECH 23><ACT 4><SCENE 7><81%>
+	Why dost thou quiver, man?.
+<SPEECH 24><ACT 4><SCENE 7><82%>
+	My lord, when shall we go to Cheapside and take up commodities upon our bills?

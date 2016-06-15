@@ -1,0 +1,52 @@
+<SPEECH 1><ACT 4><SCENE 1><63%>
+	My lords, forbear this talk; here comes the king.
+<SPEECH 2><ACT 4><SCENE 3><70%>
+	What are they that fly there?
+<SPEECH 3><ACT 4><SCENE 6><76%>
+	My liege, it is young Henry, Earl of Richmond.
+<SPEECH 4><ACT 4><SCENE 6><76%>
+	My lord, I like not of this flight of Edward's;
+	For doubtless Burgundy will yield him help,
+	And we shall have more wars before't be long.
+	As Henry's late presaging prophecy
+	Did glad my heart with hope of this young Richmond,
+	So doth my heart misgive me, in these conflicts
+	What may befall him to his harm and ours:
+	Therefore, Lord Oxford, to prevent the worst,
+	Forthwith we'll send him hence to Brittany,
+	Till storms be past of civil enmity.
+<SPEECH 5><ACT 4><SCENE 6><77%>
+	It shall be so; he shall to Brittany.
+	Come, therefore, let's about it speedily.
+<SPEECH 6><ACT 5><SCENE 1><83%>
+	At Southam I did leave him with his forces,
+	And do expect him here some two hours hence.
+<SPEECH 7><ACT 5><SCENE 1><83%>
+	It is not his, my lord; here Southam lies:
+	The drum your honour hears marcheth from Warwick.
+<SPEECH 8><ACT 5><SCENE 1><83%>
+	They are at hand, and you shall quickly know.
+<SPEECH 9><ACT 5><SCENE 1><85%>
+	Somerset, Somerset, for Lancaster!
+<SPEECH 10><ACT 5><SCENE 2><88%>
+	Ah! Warwick, Warwick, wert thou as we are,
+	We might recover all our loss again.
+	The queen from France hath brought a puissant power;
+	Even now we heard the news. Ah! couldst thou fly.
+<SPEECH 11><ACT 5><SCENE 2><88%>
+	Ah! Warwick, Montague hath breath'd his last;
+	And to the latest gasp, cried out for Warwick,
+	And said, 'Commend me to my valiant brother.'
+	And more he would have said; and more he spoke,
+	Which sounded like a clamour in a vault,
+	That mought not be distinguish'd: but at last
+	I well might hear, deliver'd with a groan,
+	'O! farewell, Warwick!'
+<SPEECH 12><ACT 5><SCENE 4><91%>
+	And he, that will not fight for such a hope,
+	Go home to bed, and, like the owl by day,
+	If he arise, be mock'd and wonder'd at.
+<SPEECH 13><ACT 5><SCENE 4><91%>
+	But he's deceiv'd; we are in readiness.
+<SPEECH 14><ACT 5><SCENE 5><92%>
+	Nor I, but stoop with patience to my fortune.

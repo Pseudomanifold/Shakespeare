@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 4><SCENE 3><66%>
+	God's arm strike with us! 'tis a fearful odds.
+	God be wi' you, princes all; I'll to my charge:
+	If we no more meet till we meet in heaven,
+	Then, joyfully, my noble Lord of Bedford,
+	My dear Lord Gloucester, and my good Lord Exeter,
+	And my kind kinsman, warriors all, adieu!
+<SPEECH 2><ACT 4><SCENE 3><68%>
+	My sov'reign lord, bestow yourself with speed:
+	The French are bravely in their battles set,
+	And will with all expedience charge on us.

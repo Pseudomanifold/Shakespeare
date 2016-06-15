@@ -1,0 +1,875 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Attend the Lords of France and Burgundy, Gloucester.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Meantime we shall express our darker purpose.
+	Give me the map there. Know that we have divided
+	In three our kingdom; and 'tis our fast intent
+	To shake all cares and business from our age,
+	Conferring them on younger strengths, while we
+	Unburden'd crawl toward death. Our son of Cornwall,
+	And you, our no less loving son of Albany,
+	We have this hour a constant will to publish
+	Our daughters' several dowers, that future strife
+	May be prevented now. The princes, France and Burgundy,
+	Great rivals in our youngest daughter's love,
+	Long in our court have made their amorous sojourn,
+	And here are to be answer'd. Tell me, my daughters,—
+	Since now we will divest us both of rule,
+	Interest of territory, cares of state,—
+	Which of you shall we say doth love us most?
+	That we our largest bounty may extend
+	Where nature doth with merit challenge. Goneril,
+	Our eldest-born, speak first.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Of all these bounds, even from this line to this,
+	With shadowy forests and with champains rich'd,
+	With plenteous rivers and wide-skirted meads,
+	We make thee lady: to thine and Albany's issue
+	Be this perpetual. What says our second daughter,
+	Our dearest Regan, wife to Cornwall? Speak.
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	To thee and thine, hereditary ever,
+	Remain this ample third of our fair kingdom,
+	No less in space, validity, and pleasure,
+	Than that conferr'd on Goneril. Now, our joy,
+	Although our last, not least; to whose young love
+	The vines of France and milk of Burgundy
+	Strive to be interess'd; what can you say to draw
+	A third more opulent than your sisters? Speak.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	Nothing?
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	Nothing will come of nothing: speak again.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	How, how, Cordelia! mend your speech a little,
+	Lest you may mar your fortunes.
+<SPEECH 8><ACT 1><SCENE 1><3%>
+	But goes thy heart with this?
+<SPEECH 9><ACT 1><SCENE 1><3%>
+	So young, and so untender?
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	Let it be so; thy truth then be thy dower:
+	For, by the sacred radiance of the sun,
+	The mysteries of Hecate and the night,
+	By all the operation of the orbs
+	From whom we do exist and cease to be,
+	Here I disclaim all my paternal care,
+	Propinquity and property of blood,
+	And as a stranger to my heart and me
+	Hold thee from this for ever. The barbarous Scythian,
+	Or he that makes his generation messes
+	To gorge his appetite, shall to my bosom
+	Be as well neighbour'd, pitied, and reliev'd,
+	As thou my sometime daughter.
+<SPEECH 11><ACT 1><SCENE 1><4%>
+	Peace, Kent!
+	Come not between the dragon and his wrath.
+	I lov'd her most, and thought to set my rest
+	On her kind nursery. Hence, and avoid my sight!
+	So be my grave my peace, as here I give
+	Her father's heart from her! Call France. Who stirs?
+	Call Burgundy. Cornwall and Albany,
+	With my two daughters' dowers digest the third;
+	Let pride, which she calls plainness, marry her.
+	I do invest you jointly with my power,
+	Pre-eminence, and all the large effects
+	That troop with majesty. Ourself by monthly course,
+	With reservation of a hundred knights,
+	By you to be sustain'd, shall our abode
+	Make with you by due turn. Only we shall retain
+	The name and all th' addition to a king;
+	The sway, revenue, execution of the rest,
+	Beloved sons, be yours: which to confirm,
+	This coronet part between you.
+<SPEECH 12><ACT 1><SCENE 1><4%>
+	The bow is bent and drawn; make from the shaft.
+<SPEECH 13><ACT 1><SCENE 1><5%>
+	Kent, on thy life, no more.
+<SPEECH 14><ACT 1><SCENE 1><5%>
+	Out of my sight!
+<SPEECH 15><ACT 1><SCENE 1><5%>
+	Now, by Apollo,—
+<SPEECH 16><ACT 1><SCENE 1><5%>
+	O vassal! miscreant!
+<SPEECH 17><ACT 1><SCENE 1><5%>
+	Hear me, recreant!
+	On thine allegiance, hear me!
+	Since thou hast sought to make us break our vow,—
+	Which we durst never yet,—and, with strain'd pride
+	To come betwixt our sentence and our power,—
+	Which nor our nature nor our place can hear,—
+	Our potency made good, take thy reward.
+	Five days we do allot thee for provision
+	To shield thee from diseases of the world;
+	And, on the sixth, to turn thy hated back
+	Upon our kingdom: if, on the tenth day following
+	Thy banish'd trunk be found in our dominions,
+	The moment is thy death. Away! By Jupiter,
+	This shall not be revok'd.
+<SPEECH 18><ACT 1><SCENE 1><6%>
+	My Lord of Burgundy,
+	We first address toward you, who with this king
+	Hath rivall'd for our daughter. What, in the least,
+	Will you require in present dower with her,
+	Or cease your quest of love?
+<SPEECH 19><ACT 1><SCENE 1><6%>
+	Right noble Burgundy,
+	When she was dear to us we did hold her so,
+	But now her price is fall'n. Sir, there she stands:
+	If aught within that little-seeming substance,
+	Or all of it, with our displeasure piec'd,
+	And nothing more, may fitly like your Grace,
+	She's there, and she is yours.
+<SPEECH 20><ACT 1><SCENE 1><6%>
+	Will you, with those infirmities she owes,
+	Unfriended, new-adopted to our hate,
+	Dower'd with our curse, and stranger'd with our oath,
+	Take her, or leave her?
+<SPEECH 21><ACT 1><SCENE 1><6%>
+	Then leave her, sir; for, by the power that made me,
+	I tell you all her wealth.—<STAGE DIR>
+	</STAGE DIR> For you, great king,
+	I would not from your love make such a stray
+	To match you where I hate; therefore, beseech you
+	To avert your liking a more worthier way
+	Than on a wretch whom nature is asham'd
+	Almost to acknowledge hers.
+<SPEECH 22><ACT 1><SCENE 1><7%>
+	Better thou
+	Hadst not been born than not to have pleas'd me better.
+<SPEECH 23><ACT 1><SCENE 1><7%>
+	Nothing: I have sworn; I am firm.
+<SPEECH 24><ACT 1><SCENE 1><8%>
+	Thou hast her, France; let her be thine, for we
+	Have no such daughter, nor shall ever see
+	That face of hers again, therefore be gone
+	Without our grace, our love, our benison.
+	Come, noble Burgundy.
+<SPEECH 25><ACT 1><SCENE 4><16%>
+	Let me not stay a jot for dinner: go, get it ready. <STAGE DIR>
+	</STAGE DIR> How now! what art thou?
+<SPEECH 26><ACT 1><SCENE 4><16%>
+	What dost thou profess? What wouldst thou with us?
+<SPEECH 27><ACT 1><SCENE 4><16%>
+	What art thou?
+<SPEECH 28><ACT 1><SCENE 4><16%>
+	If thou be as poor for a subject as he is for a king, thou art poor enough. What wouldst thou?
+<SPEECH 29><ACT 1><SCENE 4><16%>
+	Whom wouldst thou serve?
+<SPEECH 30><ACT 1><SCENE 4><16%>
+	Dost thou know me, fellow?
+<SPEECH 31><ACT 1><SCENE 4><17%>
+	What's that?
+<SPEECH 32><ACT 1><SCENE 4><17%>
+	What services canst thou do?
+<SPEECH 33><ACT 1><SCENE 4><17%>
+	How old art thou?
+<SPEECH 34><ACT 1><SCENE 4><17%>
+	Follow me; thou shalt serve me; if I like thee no worse after dinner I will not part from thee yet. Dinner, ho! dinner! Where's my knave? my fool? Go you and call my fool hither.
+	You, you, sirrah, where's my daughter?
+<SPEECH 35><ACT 1><SCENE 4><17%>
+	What says the fellow there? Call the clotpoll back. <STAGE DIR>
+	</STAGE DIR> Where's my fool, ho? I think the world's asleep. How now! where's that mongrel?
+<SPEECH 36><ACT 1><SCENE 4><17%>
+	Why came not the slave back to me when I called him?
+<SPEECH 37><ACT 1><SCENE 4><17%>
+	He would not!
+<SPEECH 38><ACT 1><SCENE 4><18%>
+	Ha! sayest thou so?
+<SPEECH 39><ACT 1><SCENE 4><18%>
+	Thou but rememberest me of mine own conception: I have perceived a most faint neglect of late; which I have rather blamed as mine own jealous curiosity than as a very pretence and purpose of unkindness: I will look further into 't. But where's my fool? I have not seen him this two days.
+<SPEECH 40><ACT 1><SCENE 4><18%>
+	No more of that; I have noted it well.
+	Go you and tell my daughter I would speak with her.
+	Go you, call hither my fool.
+	O! you sir, you, come you hither, sir. Who am
+	I, sir?
+<SPEECH 41><ACT 1><SCENE 4><18%>
+	'My lady's father!' my lord's knave: you whoreson dog! you slave! you cur!
+<SPEECH 42><ACT 1><SCENE 4><18%>
+	Do you bandy looks with me, you rascal?
+<SPEECH 43><ACT 1><SCENE 4><18%>
+	I thank thee, fellow; thou servest me, and I'll love thee.
+<SPEECH 44><ACT 1><SCENE 4><19%>
+	Now, my friendly knave, I thank thee: there's earnest of thy service.
+<SPEECH 45><ACT 1><SCENE 4><19%>
+	How now, my pretty knave! how dost thou?
+<SPEECH 46><ACT 1><SCENE 4><19%>
+	Why, my boy?
+<SPEECH 47><ACT 1><SCENE 4><19%>
+	Take heed, sirrah; the whip.
+<SPEECH 48><ACT 1><SCENE 4><19%>
+	A pestilent gall to me!
+<SPEECH 49><ACT 1><SCENE 4><19%>
+	Do.
+<SPEECH 50><ACT 1><SCENE 4><20%>
+	Why, no, boy; nothing can be made out of nothing.
+<SPEECH 51><ACT 1><SCENE 4><20%>
+	A bitter fool!
+<SPEECH 52><ACT 1><SCENE 4><20%>
+	No, lad; teach me.
+<SPEECH 53><ACT 1><SCENE 4><20%>
+	Dost thou call me fool, boy?
+<SPEECH 54><ACT 1><SCENE 4><20%>
+	What two crowns shall they be?
+<SPEECH 55><ACT 1><SCENE 4><20%>
+	When were you wont to be so full of songs, sirrah?
+<SPEECH 56><ACT 1><SCENE 4><21%>
+	An you lie, sirrah, we'll have you whipped.
+<SPEECH 57><ACT 1><SCENE 4><21%>
+	How now, daughter! what makes that frontlet on? Methinks you are too much of late i' the frown.
+<SPEECH 58><ACT 1><SCENE 4><22%>
+	Are you our daughter?
+<SPEECH 59><ACT 1><SCENE 4><22%>
+	Does any here know me? This is not Lear:
+	Does Lear walk thus? speak thus? Where are his eyes?
+	Either his notion weakens, his discernings
+	Are lethargied. Ha! waking? 'tis not so.
+	Who is it that can tell me who I am?
+<SPEECH 60><ACT 1><SCENE 4><22%>
+	I would learn that; for, by the marks of sovereignty, knowledge and reason, I should be false persuaded I had daughters.
+<SPEECH 61><ACT 1><SCENE 4><22%>
+	Your name, fair gentlewoman?
+<SPEECH 62><ACT 1><SCENE 4><23%>
+	Darkness and devils!
+	Saddle my horses; call my train together.
+	Degenerate bastard! I'll not trouble thee:
+	Yet have I left a daughter.
+<SPEECH 63><ACT 1><SCENE 4><23%>
+	Woe, that too late repents;
+	</STAGE DIR> O! sir, are you come?
+	Is it your will? Speak, sir. Prepare my horses.
+	Ingratitude, thou marble-hearted fiend,
+	More hideous, when thou show'st thee in a child,
+	Than the sea-monster.
+<SPEECH 64><ACT 1><SCENE 4><23%>
+	</STAGE DIR> Detested kite! thou liest:
+	My train are men of choice and rarest parts,
+	That all particulars of duty know,
+	And in the most exact regard support
+	The worships of their name. O most small fault,
+	How ugly didst thou in Cordelia show!
+	Which, like an engine, wrench'd my frame of nature
+	From the fix'd place, drew from my heart all love,
+	And added to the gall. O Lear, Lear, Lear!
+	Beat at this gate, that let thy folly in,
+	And thy dear judgment out! Go, go, my people.
+<SPEECH 65><ACT 1><SCENE 4><24%>
+	It may be so, my lord.
+	Hear, Nature, hear! dear goddess, hear!
+	Suspend thy purpose, if thou didst intend
+	To make this creature fruitful!
+	Into her womb convey sterility!
+	Dry up in her the organs of increase,
+	And from her derogate body never spring
+	A babe to honour her! If she must teem,
+	Create her child of spleen, that it may live
+	And be a thwart disnatur'd torment to her!
+	Let it stamp wrinkles in her brow of youth,
+	With cadent tears fret channels in her cheeks,
+	Turn all her mother's pains and benefits
+	To laughter and contempt, that she may feel
+	How sharper than a serpent's tooth it is
+	To have a thankless child! Away, away!
+<SPEECH 66><ACT 1><SCENE 4><24%>
+	What! fifty of my followers at a clap,
+	Within a fortnight?
+<SPEECH 67><ACT 1><SCENE 4><24%>
+	I'll tell thee. <STAGE DIR>
+	</STAGE DIR> Life and death! I am asham'd
+	That thou hast power to shake my manhood thus,
+	That these hot tears, which break from me perforce,
+	Should make thee worth them. Blasts and fogs upon thee!
+	Th' untented woundings of a father's curse
+	Pierce every sense about thee! Old fond eyes,
+	Beweep this cause again, I'll pluck ye out,
+	And cast you, with the waters that you lose,
+	To temper clay. Yea, is it come to this?
+	Let it be so: I have another daughter,
+	Who, I am sure, is kind and comfortable:
+	When she shall hear this of thee, with her nails
+	She'll flay thy wolvish visage. Thou shalt find
+	That I'll resume the shape which thou dost think
+	I have cast off for ever; thou shalt, I warrant thee.
+<SPEECH 68><ACT 1><SCENE 5><26%>
+	Go you before to Gloucester with these letters. Acquaint my daughter no further with any thing you know than comes from her demand out of the letter. If your diligence be not speedy I shall be there before you.
+<SPEECH 69><ACT 1><SCENE 5><26%>
+	Ay, boy.
+<SPEECH 70><ACT 1><SCENE 5><26%>
+	Ha, ha, ha!
+<SPEECH 71><ACT 1><SCENE 5><26%>
+	What canst tell, boy?
+<SPEECH 72><ACT 1><SCENE 5><26%>
+	No.
+<SPEECH 73><ACT 1><SCENE 5><26%>
+	I did her wrong,—
+<SPEECH 74><ACT 1><SCENE 5><26%>
+	No.
+<SPEECH 75><ACT 1><SCENE 5><26%>
+	Why?
+<SPEECH 76><ACT 1><SCENE 5><27%>
+	I will forget my nature. So kind a father! Be my horses ready?
+<SPEECH 77><ACT 1><SCENE 5><27%>
+	Because they are not eight?
+<SPEECH 78><ACT 1><SCENE 5><27%>
+	To take it again perforce! Monster ingratitude!
+<SPEECH 79><ACT 1><SCENE 5><27%>
+	How's that?
+<SPEECH 80><ACT 1><SCENE 5><27%>
+	O! let me not be mad, not mad, sweet heaven;
+	Keep me in temper; I would not be mad!
+	How now! Are the horses ready?
+<SPEECH 81><ACT 1><SCENE 5><27%>
+	Come, boy.
+<SPEECH 82><ACT 2><SCENE 4><37%>
+	'Tis strange that they should so depart from home,
+	And not send back my messenger.
+<SPEECH 83><ACT 2><SCENE 4><37%>
+	Ha!
+	Mak'st thou this shame thy pastime?
+<SPEECH 84><ACT 2><SCENE 4><37%>
+	What's he that hath so much thy place mistook
+	To set thee here?
+<SPEECH 85><ACT 2><SCENE 4><37%>
+	No.
+<SPEECH 86><ACT 2><SCENE 4><37%>
+	No, I say.
+<SPEECH 87><ACT 2><SCENE 4><38%>
+	No, no; they would not.
+<SPEECH 88><ACT 2><SCENE 4><38%>
+	By Jupiter, I swear, no.
+<SPEECH 89><ACT 2><SCENE 4><38%>
+	They durst not do't;
+	They could not, would not do 't; 'tis worse than murder,
+	To do upon respect such violent outrage.
+	Resolve me, with all modest haste, which way
+	Thou mightst deserve, or they impose, this usage,
+	Coming from us.
+<SPEECH 90><ACT 2><SCENE 4><38%>
+	O! how this mother swells up toward my heart;
+	Hysterica passio! down, thou climbing sorrow!
+	Thy element's below. Where is this daughter?
+<SPEECH 91><ACT 2><SCENE 4><39%>
+	Follow me not; stay here.
+<SPEECH 92><ACT 2><SCENE 4><39%>
+	Deny to speak with me! They are sick! they are weary,
+	They have travell'd hard to-night! Mere fetches,
+	The images of revolt and flying off.
+	Fetch me a better answer.
+<SPEECH 93><ACT 2><SCENE 4><40%>
+	Vengeance! plague! death! confusion!
+	Fiery! what quality? Why, Gloucester, Gloucester,
+	I'd speak with the Duke of Cornwall and his wife.
+<SPEECH 94><ACT 2><SCENE 4><40%>
+	Inform'd them! Dost thou understand me, man?
+<SPEECH 95><ACT 2><SCENE 4><40%>
+	The king would speak with Cornwall; the dear father
+	Would with his daughter speak, commands her service:
+	Are they inform'd of this? My breath and blood!
+	Fiery! the fiery duke! Tell the hot duke that—
+	No, but not yet; may be he is not well:
+	Infirmity doth still neglect all office
+	Whereto our health is bound; we are not ourselves
+	When nature, being oppress'd, commands the mind
+	To suffer with the body. I'll forbear;
+	And am fall'n out with my more headier will,
+	To take the indispos'd and sickly fit
+	For the sound man. Death on my state! <STAGE DIR>
+	</STAGE DIR> Wherefore
+	Should he sit here? This act persuades me
+	That this remotion of the duke and her
+	Is practice only. Give me my servant forth.
+	Go, tell the duke and's wife I'd speak with them,
+	Now, presently: bid them come forth and hear me,
+	Or at their chamber-door I'll beat the drum
+	Till it cry sleep to death.
+<SPEECH 96><ACT 2><SCENE 4><40%>
+	O, me! my heart, my rising heart! but, down!
+<SPEECH 97><ACT 2><SCENE 4><41%>
+	Good morrow to you both.
+<SPEECH 98><ACT 2><SCENE 4><41%>
+	Regan, I think you are; I know what reason
+	I have to think so: if thou shouldst not be glad,
+	I would divorce me from thy mother's tomb,
+	Sepulchring an adult'ress.—<STAGE DIR>
+	</STAGE DIR> O! are you free?
+	Some other time for that. Beloved Regan,
+	Thy sister's naught: O Regan! she hath tied
+	Sharp-tooth'd unkindness, like a vulture, here:
+	I can scarce speak to thee; thou'lt not believe
+	With how deprav'd a quality—O Regan!
+<SPEECH 99><ACT 2><SCENE 4><41%>
+	Say, how is that?
+<SPEECH 100><ACT 2><SCENE 4><41%>
+	My curses on her!
+<SPEECH 101><ACT 2><SCENE 4><41%>
+	Ask her forgiveness?
+	Do you but mark how this becomes the house:
+	'Dear daughter, I confess that I am old;
+	Age is unnecessary: on my knees I beg
+	That you'll vouchsafe me raiment, bed, and food.'
+<SPEECH 102><ACT 2><SCENE 4><42%>
+	</STAGE DIR> Never, Regan.
+	She hath abated me of half my train;
+	Look'd black upon me; struck me with her tongue,
+	Most serpent-like, upon the very heart.
+	All the stor'd vengeances of heaven fall
+	On her ingrateful top! Strike her young bones,
+	You taking airs, with lameness!
+<SPEECH 103><ACT 2><SCENE 4><42%>
+	You nimble lightnings, dart your blinding flames
+	Into her scornful eyes! Infect her beauty,
+	You fen-suck'd fogs, drawn by the powerful sun,
+	To fall and blast her pride!
+<SPEECH 104><ACT 2><SCENE 4><42%>
+	No, Regan, thou shalt never have my curse:
+	Thy tender-hefted nature shall not give
+	Thee o'er to harshness: her eyes are fierce, but thine
+	Do comfort and not burn. 'Tis not in thee
+	To grudge my pleasures, to cut off my train,
+	To bandy hasty words, to scant my sizes,
+	And, in conclusion, to oppose the bolt
+	Against my coming in: thou better know'st
+	The offices of nature, bond of childhood,
+	Effects of courtesy, dues of gratitude;
+	Thy half o' the kingdom hast thou not forgot,
+	Wherein I thee endow'd.
+<SPEECH 105><ACT 2><SCENE 4><42%>
+	Who put my man i' the stocks?
+<SPEECH 106><ACT 2><SCENE 4><42%>
+	This is a slave, whose easy-borrow'd pride
+	Dwells in the fickle grace of her he follows.
+	Out, varlet, from my sight!
+<SPEECH 107><ACT 2><SCENE 4><43%>
+	Who stock'd my servant? Regan, I have good hope
+	Thou didst not know on 't. Who comes here? O heavens,
+	If you do love old men, if your sweet sway
+	Allow obedience, if yourselves are old,
+	Make it your cause; send down and take my part!
+	</STAGE DIR> Art not asham'd to look upon this beard?
+	O Regan, wilt thou take her by the hand?
+<SPEECH 108><ACT 2><SCENE 4><43%>
+	O sides! you are too tough;
+	Will you yet hold? How came my man i' the stocks?
+<SPEECH 109><ACT 2><SCENE 4><43%>
+	You! did you?
+<SPEECH 110><ACT 2><SCENE 4><43%>
+	Return to her? and fifty men dismiss'd!
+	No, rather I abjure all roofs, and choose
+	To wage against the enmity o' the air;
+	To be a comrade with the wolf and owl,
+	Necessity's sharp pinch! Return with her!
+	Why, the hot-blooded France, that dowerless took
+	Our youngest born, I could as well be brought
+	To knee his throne, and, squire-like, pension beg
+	To keep base life afoot. Return with her!
+	Persuade me rather to be slave and sumpter
+	To this detested groom.
+<SPEECH 111><ACT 2><SCENE 4><43%>
+	I prithee, daughter, do not make me mad:
+	I will not trouble thee, my child; farewell.
+	We'll no more meet, no more see one another;
+	But yet thou art my flesh, my blood, my daughter;
+	Or rather a disease that's in my flesh,
+	Which I must needs call mine: thou art a boil,
+	A plague-sore, an embossed carbuncle,
+	In my corrupted blood. But I'll not chide thee;
+	Let shame come when it will, I do not call it:
+	I do not bid the thunder-bearer shoot,
+	Nor tell tales of thee to high-judging Jove.
+	Mend when thou canst; be better at thy leisure:
+	I can be patient; I can stay with Regan,
+	I and my hundred knights.
+<SPEECH 112><ACT 2><SCENE 4><44%>
+	Is this well spoken?
+<SPEECH 113><ACT 2><SCENE 4><44%>
+	I gave you all—
+<SPEECH 114><ACT 2><SCENE 4><44%>
+	Made you my guardians, my depositaries,
+	But kept a reservation to be follow'd
+	With such a number. What! must I come to you
+	With five-and-twenty? Regan, said you so?
+<SPEECH 115><ACT 2><SCENE 4><45%>
+	Those wicked creatures yet do look well-favour'd,
+	When others are more wicked; not being the worst
+	Stands in some rank of praise. <STAGE DIR>
+	</STAGE DIR> I'll go with thee:
+	Thy fifty yet doth double five-and-twenty,
+	And thou art twice her love.
+<SPEECH 116><ACT 2><SCENE 4><45%>
+	O! reason not the need; our basest beggars
+	Are in the poorest thing superfluous:
+	Allow not nature more than nature needs,
+	Man's life is cheap as beast's. Thou art a lady;
+	If only to go warm were gorgeous,
+	Why, nature needs not what thou gorgeous wear'st,
+	Which scarcely keeps thee warm. But, for true need,—
+	You heavens, give me that patience, patience I need!
+	You see me here, you gods, a poor old man,
+	As full of grief as age; wretched in both!
+	If it be you that stir these daughters' hearts
+	Against their father, fool me not so much
+	To bear it tamely; touch me with noble anger,
+	And let not women's weapons, water-drops,
+	Stain my man's cheeks! No, you unnatural hags,
+	I will have such revenges on you both
+	That all the world shall—I will do such things,—
+	What they are yet I know not,—but they shall be
+	The terrors of the earth. You think I'll weep;
+	No, I'll not weep:
+	I have full cause of weeping, but this heart
+	Shall break into a hundred thousand flaws
+	Or ere I'll weep. O fool! I shall go mad.
+<SPEECH 117><ACT 3><SCENE 2><48%>
+	Blow, winds, and crack your cheeks! rage! blow!
+	You cataracts and hurricanoes, spout
+	Till you have drench'd our steeples, drown'd the cocks!
+	You sulphurous and thought-executing fires,
+	Vaunt-couriers to oak-cleaving thunderbolts,
+	Singe my white head! And thou, all-shaking thunder,
+	Strike flat the thick rotundity o' the world!
+	Crack nature's moulds, all germens spill at once
+	That make ingrateful man!
+<SPEECH 118><ACT 3><SCENE 2><48%>
+	Rumble thy bellyfull Spit, fire! spout, rain!
+	Nor rain, wind, thunder, fire, are my daughters:
+	I tax not you, you elements, with unkindness;
+	I never gave you kingdom, call'd you children,
+	You owe me no subscription: then, let fall
+	Your horrible pleasure; here I stand, your slave,
+	A poor, infirm, weak, and despis'd old man.
+	But yet I call you servile ministers,
+	That have with two pernicious daughters join'd
+	Your high-engender'd battles 'gainst a head
+	So old and white as this. O! O! 'tis foul.
+<SPEECH 119><ACT 3><SCENE 2><49%>
+	No, I will be the pattern of all patience; I will say nothing.
+<SPEECH 120><ACT 3><SCENE 2><49%>
+	Let the great gods,
+	That keep this dreadful pother o'er our heads,
+	Find out their enemies now. Tremble, thou wretch,
+	That hast within thee undivulged crimes,
+	Unwhipp'd of justice; hide thee, thou bloody hand;
+	Thou perjur'd, and thou simular of virtue
+	That art incestuous; caitiff, to pieces shake,
+	That under covert and convenient seeming
+	Hast practis'd on man's life; close pent-up guilts,
+	Rive your concealing continents, and cry
+	These dreadful summoners grace. I am a man
+	More sinn'd against than sinning.
+<SPEECH 121><ACT 3><SCENE 2><50%>
+	My wits begin to turn.
+	Come on, my boy. How dost, my boy? Art cold?
+	I am cold myself. Where is this straw, my fellow?
+	The art of our necessities is strange,
+	That can make vile things precious. Come, your hovel.
+	Poor fool and knave, I have one part in my heart
+	That's sorry yet for thee.
+<SPEECH 122><ACT 3><SCENE 2><50%>
+	True, my good boy. Come, bring us to this hovel.
+<SPEECH 123><ACT 3><SCENE 4><52%>
+	Let me alone.
+<SPEECH 124><ACT 3><SCENE 4><52%>
+	Wilt break my heart?
+<SPEECH 125><ACT 3><SCENE 4><52%>
+	Thou think'st 'tis much that this contentious storm
+	Invades us to the skin: so 'tis to thee;
+	But where the greater malady is fix'd,
+	The lesser is scarce felt. Thou'dst shun a bear;
+	But if thy flight lay toward the roaring sea,
+	Thou'dst meet the bear i' the mouth. When the mind's free
+	The body's delicate; the tempest in my mind
+	Doth from my senses take all feeling else
+	Save what beats there. Filial ingratitude!
+	Is it not as this mouth should tear this hand
+	For lifting food to 't? But I will punish home:
+	No, I will weep no more. In such a night
+	To shut me out! Pour on; I will endure.
+	In such a night as this! O Regan, Goneril!
+	Your old kind father, whose frank heart gave all,—
+	O! that way madness lies; let me shun that;
+	No more of that.
+<SPEECH 126><ACT 3><SCENE 4><52%>
+	Prithee, go in thyself; seek thine own ease:
+	This tempest will not give me leave to ponder
+	On things would hurt me more. But I'll go in.
+	</STAGE DIR> In, boy; go first. You houseless poverty,—
+	Nay, get thee in. I'll pray, and then I'll sleep.
+	Poor naked wretches, wheresoe'er you are,
+	That bide the pelting of this pitiless storm,
+	How shall your houseless heads and unfed sides,
+	Your loop'd and window'd raggedness, defend you
+	From seasons such as these? O! I have ta'en
+	Too little care of this. Take physic, pomp;
+	Expose thyself to feel what wretches feel,
+	That thou mayst shake the superflux to them,
+	And show the heavens more just.
+<SPEECH 127><ACT 3><SCENE 4><53%>
+	Didst thou give all to thy two daughters?
+	And art thou come to this?
+<SPEECH 128><ACT 3><SCENE 4><53%>
+	What! have his daughters brought him to this pass?
+	Couldst thou save nothing? Didst thou give them all?
+<SPEECH 129><ACT 3><SCENE 4><54%>
+	Now all the plagues that in the pendulous air
+	Hang fated o'er men's faults light on thy daughters!
+<SPEECH 130><ACT 3><SCENE 4><54%>
+	Death, traitor! nothing could have subdu'd nature
+	To such a lowness, but his unkind daughters.
+	Is it the fashion that discarded fathers
+	Should have thus little mercy on their flesh?
+	Judicious punishment! 'twas this flesh begot
+	Those pelican daughters.
+<SPEECH 131><ACT 3><SCENE 4><54%>
+	What hast thou been?
+<SPEECH 132><ACT 3><SCENE 4><55%>
+	Why, thou wert better in thy grave than to answer with thy uncovered body this extremity of the skies. Is man no more than this? Consider him well. Thou owest the worm no silk, the beast no hide, the sheep no wool, the cat no perfume. Ha! here's three on's are sophisticated; thou art the thing itself; unaccommodated man is no more but such a poor, bare, forked animal as thou art. Off, off, you lendings! Come; unbutton here.
+<SPEECH 133><ACT 3><SCENE 4><55%>
+	What's he?
+<SPEECH 134><ACT 3><SCENE 4><56%>
+	First let me talk with this philosopher.
+	What is the cause of thunder?
+<SPEECH 135><ACT 3><SCENE 4><56%>
+	I'll talk a word with this same learned Theban.
+	What is your study?
+<SPEECH 136><ACT 3><SCENE 4><56%>
+	Let me ask you one word in private.
+<SPEECH 137><ACT 3><SCENE 4><57%>
+	O! cry you mercy, sir.
+	Noble philosopher, your company.
+<SPEECH 138><ACT 3><SCENE 4><57%>
+	Come, let's in all.
+<SPEECH 139><ACT 3><SCENE 4><57%>
+	With him;
+	I will keep still with my philosopher.
+<SPEECH 140><ACT 3><SCENE 4><57%>
+	Come, good Athenian.
+<SPEECH 141><ACT 3><SCENE 6><58%>
+	A king, a king!
+<SPEECH 142><ACT 3><SCENE 6><58%>
+	To have a thousand with red burning spits
+	Come hizzing in upon 'em,—
+<SPEECH 143><ACT 3><SCENE 6><58%>
+	It shall be done; I will arraign them straight.
+	</STAGE DIR> Come, sit thou here, most learned justicer;
+	</STAGE DIR> Thou, sapient sir, sit here. Now, you she foxes!
+<SPEECH 144><ACT 3><SCENE 6><59%>
+	I'll see their trial first. Bring in their evidence.
+	</STAGE DIR> Thou robed man of justice, take thy place;
+	</STAGE DIR> And thou, his yoke-fellow of equity,
+	Bench by his side. <STAGE DIR>
+	</STAGE DIR> You are o' the commission,
+	Sit you too.
+<SPEECH 145><ACT 3><SCENE 6><59%>
+	Arraign her first; 'tis Goneril. I here take my oath before this honourable assembly, she kicked the poor king her father.
+<SPEECH 146><ACT 3><SCENE 6><59%>
+	She cannot deny it.
+<SPEECH 147><ACT 3><SCENE 6><59%>
+	And here's another, whose warp'd looks proclaim
+	What store her heart is made on. Stop her there!
+	Arms, arms, sword, fire! Corruption in the place!
+	False justicer, why hast thou let her 'scape?
+<SPEECH 148><ACT 3><SCENE 6><60%>
+	The little dogs and all,
+	Tray, Blanch, and Sweet-heart, see, they bark at me.
+<SPEECH 149><ACT 3><SCENE 6><60%>
+	Then let them anatomize Regan, see what breeds about her heart. Is there any cause in nature that makes these hard hearts? <STAGE DIR>
+	</STAGE DIR> You, sir, I entertain you for one of my hundred; only I do not like the fashion of your garments: you will say, they are Persian attire; but let them be changed.
+<SPEECH 150><ACT 3><SCENE 6><60%>
+	Make no noise, make no noise; draw the curtains: so, so, so. We'll go to supper i' the morning: so, so, so.
+<SPEECH 151><ACT 4><SCENE 6><77%>
+	No, they cannot touch me for coining;
+	I am the king himself.
+<SPEECH 152><ACT 4><SCENE 6><77%>
+	Nature's above art in that respect. There's your press-money. That fellow handles his bow like a crow-keeper: draw me a clothier's yard. Look, look! a mouse. Peace, peace! this piece of toasted cheese will do 't. There's my gauntlet; I'll prove it on a giant. Bring up the brown bills. O! well flown, bird; i' the clout, i' the clout: hewgh! Give the word.
+<SPEECH 153><ACT 4><SCENE 6><78%>
+	Pass.
+<SPEECH 154><ACT 4><SCENE 6><78%>
+	Ha! Goneril, with a white beard! They flatter'd me like a dog, and told me I had white hairs in my beard ere the black ones were there. To say 'ay' and 'no' to everything I said! 'Ay' and 'no' too was no good divinity. When the rain came to wet me once and the wind to make me chatter, when the thunder would not peace at my bidding, there I found 'em, there I smelt 'em out. Go to, they are not men o' their words: they told me I was every thing; 'tis a lie, I am not ague-proof.
+<SPEECH 155><ACT 4><SCENE 6><78%>
+	Ay, every inch a king:
+	When I do stare, see how the subject quakes.
+	I pardon that man's life. What was thy cause?
+	Adultery?
+	Thou shalt not die: die for adultery! No:
+	The wren goes to 't, and the small gilded fly
+	Does lecher in my sight.
+	Let copulation thrive; for Gloucester's bastard son
+	Was kinder to his father than my daughters
+	Got 'tween the lawful sheets.
+	To 't luxury, pell-mell! for I lack soldiers.
+	Behold yond simpering dame,
+	Whose face between her forks presageth snow;
+	That minces virtue, and does shake the head
+	To hear of pleasure's name;
+	The fitchew nor the soiled horse goes to 't
+	With a more riotous appetite.
+	Down from the waist they are Centaurs,
+	Though women all above:
+	But to the girdle do the gods inherit,
+	Beneath is all the fiends':
+	There's hell, there's darkness, there is the sulphurous pit,
+	Burning, scalding, stench, consumption; fie, fie, fie! pah, pah! Give me an ounce of civet, good apothecary, to sweeten my imagination: there's money for thee.
+<SPEECH 156><ACT 4><SCENE 6><79%>
+	Let me wipe it first; it smells of mortality.
+<SPEECH 157><ACT 4><SCENE 6><79%>
+	I remember thine eyes well enough.
+	Dost thou squiny at me? No, do thy worst, blind Cupid; I'll not love. Read thou this challenge; mark but the penning of it.
+<SPEECH 158><ACT 4><SCENE 6><79%>
+	Read.
+<SPEECH 159><ACT 4><SCENE 6><79%>
+	O, ho! are you there with me? No eyes in your head, nor no money in your purse? Your eyes are in a heavy case, your purse in a light: yet you see how this world goes.
+<SPEECH 160><ACT 4><SCENE 6><79%>
+	What! art mad? A man may see how this world goes with no eyes. Look with thine ears: see how yound justice rails upon yon simple thief. Hark, in thine ear: change places; and, handy-dandy, which is the justice, which is the thief? Thou hast seen a farmer's dog bark at a beggar?
+<SPEECH 161><ACT 4><SCENE 6><79%>
+	And the creature run from the cur? There thou mightst behold the great image of authority; a dog's obey'd in office.
+	Thou rascal beadle, hold thy bloody hand!
+	Why dost thou lash that whore? Strip thine own back;
+	Thou hotly lust'st to use her in that kind
+	For which thou whipp'st her. The usurer hangs the cozener.
+	Through tatter'd clothes small vices do appear;
+	Robes and furr'd gowns hide all. Plate sin with gold,
+	And the strong lance of justice hurtless breaks;
+	Arm it in rags, a pigmy's straw doth pierce it.
+	None does offend, none, I say none; I'll able 'em:
+	Take that of me, my friend, who have the power
+	To seal the accuser's lips. Get thee glass eyes;
+	And, like a scurvy politician, seem
+	To see the things thou dost not. Now, now, now, now;
+	Pull off my boots; harder, harder; so.
+<SPEECH 162><ACT 4><SCENE 6><80%>
+	If thou wilt weep my fortunes, take my eyes;
+	I know thee well enough; thy name is Gloucester:
+	Thou must be patient; we came crying hither:
+	Thou know'st the first time that we smell the air
+	We waul and cry. I will preach to thee: mark.
+<SPEECH 163><ACT 4><SCENE 6><80%>
+	When we are born, we cry that we are come
+	To this great stage of fools. This' a good block!
+	It were a delicate stratagem to shoe
+	A troop of horse with felt; I'll put it in proof,
+	And when I have stol'n upon these sons-in-law,
+	Then, kill, kill, kill, kill, kill, kill!
+<SPEECH 164><ACT 4><SCENE 6><80%>
+	No rescue? What! a prisoner? I am even
+	The natural fool of fortune. Use me well;
+	You shall have ransom. Let me have surgeons;
+	I am cut to the brains.
+<SPEECH 165><ACT 4><SCENE 6><80%>
+	No seconds? All myself?
+	Why this would make a man a man of salt,
+	To use his eyes for garden water-pots,
+	Ay, and laying autumn's dust.
+<SPEECH 166><ACT 4><SCENE 6><81%>
+	I will die bravely as a bridegroom. What!
+	I will be jovial: come, come; I am a king,
+	My masters, know you that?
+<SPEECH 167><ACT 4><SCENE 6><81%>
+	Then there's life in it. Nay, an you get it, you shall get it by running. Sa, sa, sa, sa
+<SPEECH 168><ACT 4><SCENE 7><85%>
+	You do me wrong to take me out o' the grave;
+	Thou art a soul in bliss; but I am bound
+	Upon a wheel of fire, that mine own tears
+	Do scald like molten lead.
+<SPEECH 169><ACT 4><SCENE 7><85%>
+	You are a spirit, I know; when did you die?
+<SPEECH 170><ACT 4><SCENE 7><85%>
+	Where have I been? Where am I? Fair day-light?
+	I am mightily abus'd. I should even die with pity
+	To see another thus. I know not what to say.
+	I will not swear these are my hands: let's see;
+	I feel this pin prick. Would I were assur'd
+	Of my condition!
+<SPEECH 171><ACT 4><SCENE 7><85%>
+	Pray, do not mock me:
+	I am a very foolish fond old man,
+	Fourscore and upward, not an hour more or less;
+	And, to deal plainly,
+	I fear I am not in my perfect mind.
+	Methinks I should know you and know this man;
+	Yet I am doubtful: for I am mainly ignorant
+	What place this is, and all the skill I have
+	Remembers not these garments; nor I know not
+	Where I did lodge last night. Do not laugh at me;
+	For, as I am a man, I think this lady
+	To be my child Cordelia.
+<SPEECH 172><ACT 4><SCENE 7><85%>
+	Be your tears wet? Yes, faith. I pray, weep not:
+	If you have poison for me, I will drink it.
+	I know you do not love me; for your sisters
+	Have, as I do remember, done me wrong:
+	You have some cause, they have not.
+<SPEECH 173><ACT 4><SCENE 7><86%>
+	Am I in France?
+<SPEECH 174><ACT 4><SCENE 7><86%>
+	Do not abuse me.
+<SPEECH 175><ACT 4><SCENE 7><86%>
+	You must bear with me.
+	Pray you now, forget and forgive: I am old and foolish.
+<SPEECH 176><ACT 5><SCENE 3><90%>
+	No, no, no, no! Come, let's away to prison;
+	We two alone will sing like birds i' the cage:
+	When thou dost ask me blessing, I'll kneel down,
+	And ask of thee forgiveness: so we'll live,
+	And pray, and sing, and tell old tales, and laugh
+	At gilded butterflies, and hear poor rogues
+	Talk of court news; and we'll talk with them too,
+	Who loses and who wins; who's in, who's out;
+	And take upon's the mystery of things,
+	As if we were God's spies: and we'll wear out,
+	In a wall'd prison, packs and sets of great ones
+	That ebb and flow by the moon.
+<SPEECH 177><ACT 5><SCENE 3><90%>
+	Upon such sacrifices, my Cordelia,
+	The gods themselves throw incense. Have I caught thee?
+	He that parts us shall bring a brand from heaven,
+	And fire us hence like foxes. Wipe thine eyes;
+	The goujeres shall devour them, flesh and fell,
+	Ere they shall make us weep: we'll see 'em starve first.
+	Come.
+<SPEECH 178><ACT 5><SCENE 3><98%>
+	Howl, howl, howl, howl! O! you are men of stones:
+	Had I your tongues and eyes, I'd use them so
+	That heaven's vaults should crack. She's gone for ever.
+	I know when one is dead, and when one lives;
+	She's dead as earth. Lend me a looking-glass;
+	If that her breath will mist or stain the stone,
+	Why, then she lives.
+<SPEECH 179><ACT 5><SCENE 3><98%>
+	This feather stirs; she lives! if it be so,
+	It is a chance which does redeem all sorrows
+	That ever I have felt.
+<SPEECH 180><ACT 5><SCENE 3><98%>
+	Prithee, away.
+<SPEECH 181><ACT 5><SCENE 3><98%>
+	A plague upon you, murderers, traitors all!
+	I might have sav'd her; now, she's gone for ever!
+	Cordelia, Cordelia! stay a little. Ha!
+	What is 't thou sayst? Her voice was ever soft,
+	Gentle and low, an excellent thing in woman.
+	I kill'd the slave that was a hanging thee.
+<SPEECH 182><ACT 5><SCENE 3><98%>
+	Did I not, fellow?
+	I have seen the day, with my good biting falchion
+	I would have made them skip: I am old now,
+	And these same crosses spoil me. Who are you?
+	Mine eyes are not o' the best: I'll tell you straight.
+<SPEECH 183><ACT 5><SCENE 3><98%>
+	This is a dull sight. Are you not Kent?
+<SPEECH 184><ACT 5><SCENE 3><99%>
+	He's a good fellow, I can tell you that;
+	He'll strike, and quickly too. He's dead and rotten.
+<SPEECH 185><ACT 5><SCENE 3><99%>
+	I'll see that straight.
+<SPEECH 186><ACT 5><SCENE 3><99%>
+	You are welcome hither.
+<SPEECH 187><ACT 5><SCENE 3><99%>
+	Ay, so I think.
+<SPEECH 188><ACT 5><SCENE 3><99%>
+	And my poor fool is hang'd! No, no, no life!
+	Why should a dog, a horse, a rat, have life,
+	And thou no breath at all? Thou'lt come no more,
+	Never, never, never, never, never!
+	Pray you, undo this button: thank you, sir.
+	Do you see this? Look on her, look, her lips,
+	Look there, look there!

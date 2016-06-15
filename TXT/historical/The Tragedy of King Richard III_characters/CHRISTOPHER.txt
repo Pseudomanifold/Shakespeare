@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 4><SCENE 5><86%>
+	At Pembroke, or at Ha'rford-west, in Wales.
+<SPEECH 2><ACT 4><SCENE 5><86%>
+	Sir Walter Herbert, a renowned soldier,
+	Sir Gilbert Talbot, Sir William Stanley,
+	Oxford, redoubted Pembroke, Sir James Blunt,
+	And Rice ap Thomas, with a valiant crew;
+	And many other of great name and worth:
+	And towards London do they bend their power,
+	If by the way they be not fought withal.

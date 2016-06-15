@@ -1,0 +1,337 @@
+<SPEECH 1><ACT 1><SCENE 5><15%>
+	Thou'rt mad to say it.
+	Is not thy master with him? who, were't so,
+	Would have inform'd for preparation.
+<SPEECH 2><ACT 1><SCENE 5><15%>
+	Give him tending;
+	He brings great news.—<STAGE DIR>
+	</STAGE DIR> The raven himself is hoarse
+	That croaks the fatal entrance of Duncan
+	Under my battlements. Come, you spirits
+	That tend on mortal thoughts! unsex me here,
+	And fill me from the crown to the toe top full
+	Of direst cruelty; make thick my blood,
+	Stop up the access and passage to remorse,
+	That no compunctious visitings of nature
+	Shake my fell purpose, nor keep peace between
+	The effect and it! Come to my woman's breasts,
+	And take my milk for gall, you murdering ministers,
+	Wherever in your sightless substances
+	You wait on nature's mischief! Come, thick night,
+	And pall thee in the dunnest smoke of hell,
+	That my keen knife see not the wound it makes,
+	Nor heaven peep through the blanket of the dark,
+	To cry, 'Hold, hold!'
+	Great Glamis! worthy Cawdor!
+	Greater than both, by the all-hail hereafter!
+	Thy letters have transported me beyond
+	This ignorant present, and I feel now
+	The future in the instant.
+<SPEECH 3><ACT 1><SCENE 5><16%>
+	And when goes hence?
+<SPEECH 4><ACT 1><SCENE 5><16%>
+	O! never
+	Shall sun that morrow see.
+	Your face, my thane, is as a book where men
+	May read strange matters. To beguile the time,
+	Look like the time; bear welcome in your eye,
+	Your hand, your tongue: look like the innocent flower,
+	But be the serpent under't. He that's coming
+	Must be provided for; and you shall put
+	This night's great business into my dispatch;
+	Which shall to all our nights and days to come
+	Give solely sovereign sway and masterdom.
+<SPEECH 5><ACT 1><SCENE 5><17%>
+	Only look up clear;
+	To alter favour ever is to fear.
+	Leave all the rest to me.
+<SPEECH 6><ACT 1><SCENE 6><18%>
+	All our service,
+	In every point twice done, and then done double,
+	Were poor and single business, to contend
+	Against those honours deep and broad wherewith
+	Your majesty loads our house: for those of old,
+	And the late dignities heap'd up to them,
+	We rest your hermits.
+<SPEECH 7><ACT 1><SCENE 6><18%>
+	Your servants ever
+	Have theirs, themselves, and what is theirs, in compt,
+	To make their audit at your highness' pleasure,
+	Still to return your own.
+<SPEECH 8><ACT 1><SCENE 7><20%>
+	He has almost supp'd: why have you left the chamber?
+<SPEECH 9><ACT 1><SCENE 7><20%>
+	Know you not he has?
+<SPEECH 10><ACT 1><SCENE 7><20%>
+	Was the hope drunk,
+	Wherein you dress'd yourself? hath it slept since,
+	And wakes it now, to look so green and pale
+	At what it did so freely? From this time
+	Such I account thy love. Art thou afeard
+	To be the same in thine own act and valour
+	As thou art in desire? Wouldst thou have that
+	Which thou esteem'st the ornament of life,
+	And live a coward in thine own esteem,
+	Letting 'I dare not' wait upon 'I would,'
+	Like the poor cat i' the adage?
+<SPEECH 11><ACT 1><SCENE 7><21%>
+	What beast was't, then,
+	That made you break this enterprise to me?
+	When you durst do it then you were a man;
+	And, to be more than what you were, you would
+	Be so much more the man. Nor time nor place
+	Did then adhere, and yet you would make both:
+	They have made themselves, and that their fitness now
+	Does unmake you. I have given suck, and know
+	How tender 'tis to love the babe that milks me:
+	I would, while it was smiling in my face,
+	Have pluck'd my nipple from his boneless gums,
+	And dash'd the brains out, had I so sworn as you
+	Have done to this.
+<SPEECH 12><ACT 1><SCENE 7><22%>
+	We fail!
+	But screw your courage to the sticking-place,
+	And we'll not fail. When Duncan is asleep,
+	Whereto the rather shall his day's hard journey
+	Soundly invite him, his two chamberlains
+	Will I with wine and wassail so convince
+	That memory, the warder of the brain,
+	Shall be a fume, and the receipt of reason
+	A limbeck only; when in swinish sleep
+	Their drenched natures lie, as in a death,
+	What cannot you and I perform upon
+	The unguarded Duncan? what not put upon
+	His spongy officers, who shall bear the guilt
+	Of our great quell?
+<SPEECH 13><ACT 1><SCENE 7><22%>
+	Who dares receive it other,
+	As we shall make our griefs and clamour roar
+	Upon his death?
+<SPEECH 14><ACT 2><SCENE 2><26%>
+	That which hath made them drunk hath made me bold,
+	What hath quench'd them hath given me fire. Hark!
+	Peace!
+	It was the owl that shriek'd, the fatal bellman,
+	Which gives the stern'st good-night. He is about it:
+	The doors are open, and the surfeited grooms
+	Do mock their charge with snores: I have drugg'd their possets,
+	That death and nature do contend about them,
+	Whether they live or die.
+<SPEECH 15><ACT 2><SCENE 2><26%>
+	Alack! I am afraid they have awak'd,
+	And 'tis not done; the attempt and not the deed
+	Confounds us. Hark! I laid their daggers ready;
+	He could not miss them. Had he not resembled
+	My father as he slept I had done 't. My husband!
+<SPEECH 16><ACT 2><SCENE 2><26%>
+	I heard the owl scream and the crickets cry.
+	Did not you speak?
+<SPEECH 17><ACT 2><SCENE 2><27%>
+	Now.
+<SPEECH 18><ACT 2><SCENE 2><27%>
+	Ay.
+<SPEECH 19><ACT 2><SCENE 2><27%>
+	Donalbain.
+<SPEECH 20><ACT 2><SCENE 2><27%>
+	A foolish thought to say a sorry sight.
+<SPEECH 21><ACT 2><SCENE 2><27%>
+	There are two lodg'd together.
+<SPEECH 22><ACT 2><SCENE 2><27%>
+	Consider it not so deeply.
+<SPEECH 23><ACT 2><SCENE 2><27%>
+	These deeds must not be thought
+	After these ways; so, it will make us mad.
+<SPEECH 24><ACT 2><SCENE 2><28%>
+	What do you mean?
+<SPEECH 25><ACT 2><SCENE 2><28%>
+	Who was it that thus cried? Why, worthy thane,
+	You do unbend your noble strength to think
+	So brainsickly of things. Go get some water,
+	And wash this filthy witness from your hand.
+	Why did you bring these daggers from the place?
+	They must lie there: go carry them, and smear
+	The sleepy grooms with blood.
+<SPEECH 26><ACT 2><SCENE 2><28%>
+	Infirm of purpose!
+	Give me the daggers. The sleeping and the dead
+	Are but as pictures; 'tis the eye of childhood
+	That fears a painted devil. If he do bleed,
+	I'll gild the faces of the grooms withal;
+	For it must seem their guilt.
+<SPEECH 27><ACT 2><SCENE 2><29%>
+	My hands are of your colour, but I shame
+	To wear a heart so white.—<STAGE DIR>
+	</STAGE DIR> I hear a knocking
+	At the south entry; retire we to our chamber;
+	A little water clears us of this deed;
+	How easy is it, then! Your constancy
+	Hath left you unattended. <STAGE DIR>
+	</STAGE DIR> Hark! more knocking.
+	Get on your night-gown, lest occasion call us,
+	And show us to be watchers. Be not lost
+	So poorly in your thoughts.
+<SPEECH 28><ACT 2><SCENE 3><34%>
+	What's the business,
+	That such a hideous trumpet calls to parley
+	The sleepers of the house? speak, speak!
+<SPEECH 29><ACT 2><SCENE 3><34%>
+	Woe, alas!
+	What! in our house?
+<SPEECH 30><ACT 2><SCENE 3><35%>
+	Help me hence, ho!
+<SPEECH 31><ACT 3><SCENE 1><40%>
+	If he had been forgotten
+	It had been as a gap in our great feast,
+	And all-thing unbecoming.
+<SPEECH 32><ACT 3><SCENE 2><46%>
+	Is Banquo gone from court?
+<SPEECH 33><ACT 3><SCENE 2><46%>
+	Say to the king, I would attend his leisure
+	For a few words.
+<SPEECH 34><ACT 3><SCENE 2><46%>
+	Nought's had, all's spent,
+	Where our desire is got without content:
+	'Tis safer to be that which we destroy
+	Than by destruction dwell in doubtful joy.
+	How now, my lord! why do you keep alone,
+	Of sorriest fancies your companions making,
+	Using those thoughts which should indeed have died
+	With them they think on? Things without all remedy
+	Should be without regard: what's done is done.
+<SPEECH 35><ACT 3><SCENE 2><47%>
+	Come on;
+	Gentle my lord, sleek o'er your rugged looks;
+	Be bright and jovial among your guests to-night.
+<SPEECH 36><ACT 3><SCENE 2><47%>
+	You must leave this.
+<SPEECH 37><ACT 3><SCENE 2><47%>
+	But in them nature's copy's not eterne.
+<SPEECH 38><ACT 3><SCENE 2><48%>
+	What's to be done?
+<SPEECH 39><ACT 3><SCENE 4><50%>
+	Pronounce it for me, sir, to all our friends;
+	For my heart speaks they are welcome.
+<SPEECH 40><ACT 3><SCENE 4><51%>
+	My royal lord,
+	You do not give the cheer: the feast is sold
+	That is not often vouch'd, while 'tis a-making,
+	'Tis given with welcome: to feed were best at home;
+	From thence, the sauce to meat is ceremony;
+	Meeting were bare without it.
+<SPEECH 41><ACT 3><SCENE 4><52%>
+	Sit, worthy friends: my lord is often thus,
+	And hath been from his youth: pray you, keep seat;
+	The fit is momentary; upon a thought
+	He will again be well. If much you note him
+	You shall offend him and extend his passion:
+	Feed and regard him not. Are you a man?
+<SPEECH 42><ACT 3><SCENE 4><53%>
+	O proper stuff!
+	This is the very painting of your fear;
+	This is the air-drawn dagger which, you said,
+	Led you to Duncan. O! these flaws and starts—
+	Impostors to true fear—would well become
+	A woman's story at a winter's fire,
+	Authoriz'd by her grandam. Shame itself!
+	Why do you make such faces? When all's done
+	You look but on a stool.
+<SPEECH 43><ACT 3><SCENE 4><53%>
+	What! quite unmann'd in folly?
+<SPEECH 44><ACT 3><SCENE 4><53%>
+	Fie, for shame!
+<SPEECH 45><ACT 3><SCENE 4><54%>
+	My worthy lord,
+	Your noble friends do lack you.
+<SPEECH 46><ACT 3><SCENE 4><54%>
+	Think of this, good peers,
+	But as a thing of custom: 'tis no other;
+	Only it spoils the pleasure of the time.
+<SPEECH 47><ACT 3><SCENE 4><55%>
+	You have displac'd the mirth, broke the good meeting,
+	With most admir'd disorder.
+<SPEECH 48><ACT 3><SCENE 4><55%>
+	I pray you, speak not; he grows worse and worse;
+	Question enrages him. At once, good-night:
+	Stand not upon the order of your going,
+	But go at once.
+<SPEECH 49><ACT 3><SCENE 4><56%>
+	A kind good-night to all!
+<SPEECH 50><ACT 3><SCENE 4><56%>
+	Almost at odds with morning, which is which.
+<SPEECH 51><ACT 3><SCENE 4><56%>
+	Did you send to him, sir?
+<SPEECH 52><ACT 3><SCENE 4><56%>
+	You lack the season of all natures, sleep.
+<SPEECH 53><ACT 4><SCENE 2><68%>
+	What had he done to make him fly the land?
+<SPEECH 54><ACT 4><SCENE 2><68%>
+	He had none:
+	His flight was madness: when our actions do not,
+	Our fears do make us traitors.
+<SPEECH 55><ACT 4><SCENE 2><68%>
+	Wisdom! to leave his wife, to leave his babes,
+	His mansion and his titles in a place
+	From whence himself does fly? He loves us not;
+	He wants the natural touch; for the poor wren,
+	The most diminutive of birds, will fight—
+	Her young ones in her nest—against the owl.
+	All is the fear and nothing is the love;
+	As little is the wisdom, where the flight
+	So runs against all reason.
+<SPEECH 56><ACT 4><SCENE 2><69%>
+	Father'd he is, and yet he's fatherless.
+<SPEECH 57><ACT 4><SCENE 2><69%>
+	Sirrah, your father's dead:
+	And what will you do now? How will you live?
+<SPEECH 58><ACT 4><SCENE 2><69%>
+	What! with worms and flies?
+<SPEECH 59><ACT 4><SCENE 2><69%>
+	Poor bird! thou'dst never fear the net nor lime,
+	The pit-fall nor the gin.
+<SPEECH 60><ACT 4><SCENE 2><69%>
+	Yes, he is dead: how wilt thou do for a father?
+<SPEECH 61><ACT 4><SCENE 2><70%>
+	Why, I can buy me twenty at any market.
+<SPEECH 62><ACT 4><SCENE 2><70%>
+	Thou speak'st with all thy wit; and yet, i' faith,
+	With wit enough for thee.
+<SPEECH 63><ACT 4><SCENE 2><70%>
+	Ay, that he was.
+<SPEECH 64><ACT 4><SCENE 2><70%>
+	Why, one that swears and lies.
+<SPEECH 65><ACT 4><SCENE 2><70%>
+	Every one that does so is a traitor, and must be hanged.
+<SPEECH 66><ACT 4><SCENE 2><70%>
+	Every one.
+<SPEECH 67><ACT 4><SCENE 2><70%>
+	Why, the honest men.
+<SPEECH 68><ACT 4><SCENE 2><70%>
+	Now God help thee, poor monkey!
+	But how wilt thou do for a father?
+<SPEECH 69><ACT 4><SCENE 2><70%>
+	Poor prattler, how thou talk'st!
+<SPEECH 70><ACT 4><SCENE 2><71%>
+	Whither should I fly?
+	I have done no harm. But I remember now
+	I am in this earthly world, where, to do harm
+	Is often laudable, to do good sometime
+	Accounted dangerous folly; why then, alas!
+	Do I put up that womanly defence,
+	To say I have done no harm?
+	What are these faces?
+<SPEECH 71><ACT 4><SCENE 2><71%>
+	I hope in no place so unsanctified
+	Where such as thou mayst find him.
+<SPEECH 72><ACT 5><SCENE 1><84%>
+	Yet here's a spot.
+<SPEECH 73><ACT 5><SCENE 1><84%>
+	Out, damned spot! out, I say! One; two: why, then, 'tis time to do't. Hell is murky! Fie, my lord, fie! a soldier, and afeard? What need we fear who knows it, when none can call our power to account? Yet who would have thought the old man to have had so much blood in him?
+<SPEECH 74><ACT 5><SCENE 1><84%>
+	The Thane of Fife had a wife: where is she now? What! will these hands ne'er be clean? No more o' that, my lord, no more o' that: you mar all with this starting.
+<SPEECH 75><ACT 5><SCENE 1><84%>
+	Here's the smell of the blood still: all the perfumes of Arabia will not sweeten this little hand. Oh! oh! oh!
+<SPEECH 76><ACT 5><SCENE 1><85%>
+	Wash your hands, put on your night-gown; look not so pale. I tell you yet again, Banquo's buried; he cannot come out on 's grave.
+<SPEECH 77><ACT 5><SCENE 1><85%>
+	To bed, to bed: there's knocking at the gate. Come, come, come, come, give me your hand. What's done cannot be undone.
+	To bed, to bed, to bed.

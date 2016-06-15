@@ -1,0 +1,140 @@
+<SPEECH 1><ACT 2><SCENE 1><26%>
+	How fares our noble uncle, Lancaster?
+<SPEECH 2><ACT 2><SCENE 2><34%>
+	To please the king I did; to please myself
+	I cannot do it; yet I know no cause
+	Why I should welcome such a guest as grief,
+	Save bidding farewell to so sweet a guest
+	As my sweet Richard: yet, again, methinks,
+	Some unborn sorrow, ripe in fortune's womb,
+	Is coming towards me, and my inward soul
+	With nothing trembles; at some thing it grieves
+	More than with parting from my lord the king.
+<SPEECH 3><ACT 2><SCENE 2><35%>
+	It may be so; but yet my inward soul
+	Persuades me it is otherwise: howe'er it be,
+	I cannot but be sad, so heavy sad,
+	As, though in thinking on no thought I think,
+	Makes me with heavy nothing faint and shrink.
+<SPEECH 4><ACT 2><SCENE 2><35%>
+	'Tis nothing less: conceit is still deriv'd
+	From some forefather grief; mine is not so,
+	For nothing hath begot my something grief;
+	Or something hath the nothing that I grieve:
+	'Tis in reversion that I do possess;
+	But what it is, that is not yet known; what
+	I cannot name; 'tis nameless woe, I wot.
+<SPEECH 5><ACT 2><SCENE 2><36%>
+	Why hop'st thou so? 'tis better hope he is,
+	For his designs crave haste, his haste good hope:
+	Then wherefore dost thou hope he is not shipp'd?
+<SPEECH 6><ACT 2><SCENE 2><36%>
+	Now God in heaven forbid!
+<SPEECH 7><ACT 2><SCENE 2><36%>
+	So, Green, thou art the midwife to my woe,
+	And Bolingbroke my sorrow's dismal heir:
+	Now hath my soul brought forth her prodigy,
+	And I, a gasping new-deliver'd mother,
+	Have woe to woe, sorrow to sorrow join'd.
+<SPEECH 8><ACT 2><SCENE 2><36%>
+	Who shall hinder me?
+	I will despair, and be at enmity
+	With cozening hope: he is a flatterer,
+	A parasite, a keeper-back of death,
+	Who gently would dissolve the bands of life,
+	Which false hope lingers in extremity.
+<SPEECH 9><ACT 2><SCENE 2><37%>
+	With signs of war about his aged neck:
+	O! full of careful business are his looks.
+	Uncle, for God's sake, speak comfortable words.
+<SPEECH 10><ACT 3><SCENE 4><63%>
+	What sport shall we devise here in this garden,
+	To drive away the heavy thought of care?
+<SPEECH 11><ACT 3><SCENE 4><63%>
+	'Twill make me think the world is full of rubs;
+	And that my fortune runs against the bias.
+<SPEECH 12><ACT 3><SCENE 4><64%>
+	My legs can keep no measure in delight
+	When my poor heart no measure keeps in grief:
+	Therefore, no dancing, girl; some other sport.
+<SPEECH 13><ACT 3><SCENE 4><64%>
+	Of sorrow or of joy?
+<SPEECH 14><ACT 3><SCENE 4><64%>
+	Of neither, girl:
+	For if of joy, being altogether wanting,
+	It doth remember me the more of sorrow;
+	Or if of grief, being altogether had,
+	It adds more sorrow to my want of joy:
+	For what I have I need not to repeat,
+	And what I want it boots not to complain.
+<SPEECH 15><ACT 3><SCENE 4><64%>
+	'Tis well that thou hast cause;
+	But thou shouldst please me better wouldst thou weep.
+<SPEECH 16><ACT 3><SCENE 4><64%>
+	And I could sing would weeping do me good,
+	And never borrow any tear of thee.
+	But stay, here come the gardeners:
+	Let's step into the shadow of these trees.
+	My wretchedness unto a row of pins,
+	They'll talk of state; for every one doth so
+	Against a change: woe is forerun with woe.
+<SPEECH 17><ACT 3><SCENE 4><66%>
+	O! I am press'd to death through want of speaking.
+	Thou, old Adam's likeness, set to dress this garden,
+	How dares thy harsh rude tongue sound this unpleasing news?
+	What Eve, what serpent, hath suggested thee
+	To make a second fall of cursed man?
+	Why dost thou say King Richard is depos'd?
+	Dar'st thou, thou little better thing than earth,
+	Divine his downfall? Say, where, when, and how
+	Cam'st thou by these ill tidings? speak, thou wretch.
+<SPEECH 18><ACT 3><SCENE 4><67%>
+	Nimble mischance. that art so light of foot,
+	Doth not thy embassage belong to me,
+	And am I last that knows it? O! thou think'st
+	To serve me last, that I may longest keep
+	Thy sorrow in my breast. Come, ladies, go,
+	To meet at London London's king in woe.
+	What! was I born to this, that my sad look
+	Should grace the triumph of great Bolingbroke?
+	Gardener, for telling me these news of woe,
+	Pray God the plants thou graft'st may never grow.
+<SPEECH 19><ACT 5><SCENE 1><79%>
+	This way the king will come; this is the way
+	To Julius Cæsar's ill-erected tower,
+	To whose flint bosom my condemned lord
+	Is doom'd a prisoner by proud Bolingbroke.
+	Here let us rest, if this rebellious earth
+	Have any resting for her true king's queen.
+	But soft, but see, or rather do not see,
+	My fair rose wither: yet look up, behold,
+	That you in pity may dissolve to dew,
+	And wash him fresh again with true-love tears.
+	Ah! thou, the model where old Troy did stand,
+	Thou map of honour, thou King Richard's tomb,
+	And not King Richard; thou most beauteous inn,
+	Why should hard-favour'd grief be lodg'd in thee,
+	When triumph is become an alehouse guest?
+<SPEECH 20><ACT 5><SCENE 1><80%>
+	What! is my Richard both in shape and mind
+	Transform'd and weaken'd! Hath Bolingbroke depos'd
+	Thine intellect? hath he been in thy heart?
+	The lion dying thrusteth forth his paw
+	And wounds the earth, if nothing else, with rage
+	To be o'erpower'd; and wilt thou, pupil-like,
+	Take thy correction mildly, kiss the rod,
+	And fawn on rage with base humility,
+	Which art a lion and a king of beasts?
+<SPEECH 21><ACT 5><SCENE 1><82%>
+	And must we be divided? must we part?
+<SPEECH 22><ACT 5><SCENE 1><82%>
+	Banish us both and send the king with me.
+<SPEECH 23><ACT 5><SCENE 1><82%>
+	Then whither he goes, thither let me go.
+<SPEECH 24><ACT 5><SCENE 1><82%>
+	So longest way shall have the longest moans.
+<SPEECH 25><ACT 5><SCENE 1><83%>
+	Give me mine own again; 'twere no good part
+	To take on me to keep and kill thy heart.
+	So, now I have mine own again, be gone,
+	That I may strive to kill it with a groan.

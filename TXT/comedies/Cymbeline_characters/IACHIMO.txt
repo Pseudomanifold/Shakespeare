@@ -1,0 +1,451 @@
+<SPEECH 1><ACT 1><SCENE 4><8%>
+	Believe it, sir, I have seen him in Britain; he was then of a crescent note, expected to prove so worthy as since he hath been allowed the name of; but I could then have looked on him without the help of admiration, though the catalogue of his endowments had been tabled by his side and I to peruse him by items.
+<SPEECH 2><ACT 1><SCENE 4><9%>
+	This matter of marrying his king's daughter,—wherein he must be weighed rather by her value than his own,—words him, I doubt not, a great deal from the matter.
+<SPEECH 3><ACT 1><SCENE 4><9%>
+	Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him; be it but to fortify her judgment, which else an easy battery might lay flat, for taking a beggar without less quality. But how comes it, he is to sojourn with you? How creeps acquaintance?
+<SPEECH 4><ACT 1><SCENE 4><10%>
+	Can we, with manners, ask what was the difference?
+<SPEECH 5><ACT 1><SCENE 4><10%>
+	That lady is not now living, or this gentleman's opinion by this worn out.
+<SPEECH 6><ACT 1><SCENE 4><10%>
+	You must not so far prefer her 'fore ours of Italy.
+<SPEECH 7><ACT 1><SCENE 4><10%>
+	As fair and as good—a kind of hand-in-hand comparison—had been something too fair and too good for any lady in Britain. If she went before others I have seen, as that diamond of yours outlustres many I have beheld, I could not but believe she excelled many; but I have not seen the most precious diamond that is, nor you the lady.
+<SPEECH 8><ACT 1><SCENE 4><11%>
+	What do you esteem it at?
+<SPEECH 9><ACT 1><SCENE 4><11%>
+	Either your unparagoned mistress is dead, or she's outprized by a trifle.
+<SPEECH 10><ACT 1><SCENE 4><11%>
+	Which the gods have given you?
+<SPEECH 11><ACT 1><SCENE 4><11%>
+	You may wear her in little yours, but, you know, strange fowl light upon neighbouring ponds. Your ring may be stolen, too; so your brace of unprizeable estimations, the one is but frail and the other causal; a cunning thief, or a that way accomplished courtier, would hazard the winning both of first and last.
+<SPEECH 12><ACT 1><SCENE 4><11%>
+	With five times so much conversation I should get ground of your fair mistress, make her go back, even to the yielding, had I admittance and opportunity to friend.
+<SPEECH 13><ACT 1><SCENE 4><11%>
+	I dare thereupon pawn the moiety of my estate to your ring, which, in my opinion, o'ervalues it something; but I make my wager rather against your confidence than her reputation; and, to bar your offence herein too, I durst attempt it against any lady in the world.
+<SPEECH 14><ACT 1><SCENE 4><12%>
+	What's that?
+<SPEECH 15><ACT 1><SCENE 4><12%>
+	Would I had put my estate and my neighbour's on the approbation of what I have spoke!
+<SPEECH 16><ACT 1><SCENE 4><12%>
+	Yours; whom in constancy you think stands so safe. I will lay you ten thousand ducats to your ring, that, commend me to the court where your lady is, with no more advantage than the opportunity of a second conference, and I will bring from thence that honour of hers which you imagine so reserved.
+<SPEECH 17><ACT 1><SCENE 4><12%>
+	You are afraid, and therein the wiser. If you buy ladies' flesh at a million a dram, you cannot preserve it from tainting. But I see you have some religion in you, that you fear.
+<SPEECH 18><ACT 1><SCENE 4><12%>
+	I am the master of my speeches, and would undergo what's spoken, I swear.
+<SPEECH 19><ACT 1><SCENE 4><13%>
+	By the gods, it is one. If I bring you no sufficient testimony that I have enjoyed the dearest bodily part of your mistress, my ten thousand ducats are yours; so is your diamond too: if I come off, and leave her in such honour as you have trust in, she your jewel, this your jewel, and my gold are yours; provided I have your commendation for my more free entertainment.
+<SPEECH 20><ACT 1><SCENE 4><13%>
+	Your hand; a covenant. We will have these things set down by lawful counsel, and straight away for Britain, lest the bargain should catch cold and starve. I will fetch my gold and have our two wagers recorded.
+<SPEECH 21><ACT 1><SCENE 6><17%>
+	Change you, madam?
+	The worthy Leonatus is in safety,
+	And greets your highness dearly.
+<SPEECH 22><ACT 1><SCENE 6><17%>
+	</STAGE DIR> All of her that is out of door most rich!
+	If she be furnish'd with a mind so rare,
+	She is alone the Arabian bird, and I
+	Have lost the wager. Boldness be my friend!
+	Arm me, audacity, from head to foot!
+	Or, like the Parthian, I shall flying fight;
+	Rather, directly fly.
+<SPEECH 23><ACT 1><SCENE 6><17%>
+	Thanks, fairest lady.
+	What! are men mad? Hath nature given them eyes
+	To see this vaulted arch, and the rich crop
+	Of sea and land, which can distinguish 'twixt
+	The fiery orbs above and the twinn'd stones
+	Upon the number'd beach? and can we not
+	Partition make with spectacles so precious
+	'Twixt fair and foul?
+<SPEECH 24><ACT 1><SCENE 6><17%>
+	It cannot be i' the eye; for apes and monkeys
+	'Twixt two such shes would chatter this way and
+	Contemn with mows the other; nor i' the judgment,
+	For idiots in this case of favour would
+	Be wisely definite; nor i' the appetite;
+	Sluttery to such neat excellence oppos'd
+	Should make desire vomit emptiness,
+	Not so allur'd to feed.
+<SPEECH 25><ACT 1><SCENE 6><18%>
+	The cloyed will,—
+	That satiate yet unsatisfied desire, that tub
+	Both fill'd and running,—ravening first the lamb,
+	Longs after for the garbage.
+<SPEECH 26><ACT 1><SCENE 6><18%>
+	Thanks, madam, well.
+	</STAGE DIR> Beseech you, sir,
+	Desire my man's abode where I did leave him;
+	He's strange and peevish.
+<SPEECH 27><ACT 1><SCENE 6><18%>
+	Well, madam.
+<SPEECH 28><ACT 1><SCENE 6><18%>
+	Exceeding pleasant; none a stranger there
+	So merry and so gamesome: he is call'd
+	The Briton reveller.
+<SPEECH 29><ACT 1><SCENE 6><18%>
+	I never saw him sad.
+	There is a Frenchman his companion, one,
+	An eminent monsieur, that, it seems, much loves
+	A Gallian girl at home; he furnaces
+	The thick sighs from him, whiles the jolly Briton—
+	Your lord, I mean—laughs from 's free lungs, cries, 'O!
+	Can my sides hold, to think that man, who knows
+	By history, report, or his own proof,
+	What woman is, yea, what she cannot choose
+	But must be, will his free hours languish for
+	Assured bondage?'
+<SPEECH 30><ACT 1><SCENE 6><18%>
+	Ay, madam, with his eyes in flood with laughter:
+	It is a recreation to be by
+	And hear him mock the Frenchman; but, heavens know,
+	Some men are much to blame.
+<SPEECH 31><ACT 1><SCENE 6><18%>
+	Not he; but yet heaven's bounty towards him might
+	Be us'd more thankfully. In himself, 'tis much;
+	In you,—which I account his beyond all talents,—
+	Whilst I am bound to wonder, I am bound
+	To pity too.
+<SPEECH 32><ACT 1><SCENE 6><19%>
+	Two creatures, heartily.
+<SPEECH 33><ACT 1><SCENE 6><19%>
+	Lamentable! What!
+	To hide me from the radiant sun and solace
+	I' the dungeon by a snuff!
+<SPEECH 34><ACT 1><SCENE 6><19%>
+	That others do,
+	I was about to say, enjoy your—But
+	It is an office of the gods to venge it,
+	Not mine to speak on 't.
+<SPEECH 35><ACT 1><SCENE 6><19%>
+	Had I this cheek
+	To bathe my lips upon; this hand, whose touch,
+	Whose every touch, would force the feeler's soul
+	To the oath of loyalty; this object, which
+	Takes prisoner the wild motion of mine eye,
+	Firing it only here; should I—damn'd then—
+	Slaver with lips as common as the stairs
+	That mount the Capitol; join gripes with hands
+	Made hard with hourly falsehood,—falsehood, as
+	With labour;—then by-peeping in an eye,
+	Base and illustrous as the smoky light
+	That's fed with stinking tallow; it were fit
+	That all the plagues of hell should at one time
+	Encounter such revolt.
+<SPEECH 36><ACT 1><SCENE 6><19%>
+	And himself. Not I,
+	Inclin'd to this intelligence, pronounce
+	The beggary of his change; but 'tis your graces
+	That from my mutest conscience to my tongue
+	Charms this report out.
+<SPEECH 37><ACT 1><SCENE 6><20%>
+	O dearest soul! your cause doth strike my heart
+	With pity, that doth make me sick. A lady
+	So fair,—and fasten'd to an empery
+	Would make the great'st king double,—to be partner'd
+	With tom-boys hir'd with that self-exhibition
+	Which your own coffers yield! with diseas'd ventures
+	That play with all infirmities for gold
+	Which rottenness can lend nature! such boil'd stuff
+	As well might poison poison! Be reveng'd;
+	Or she that bore you was no queen, and you
+	Recoil from your great stock.
+<SPEECH 38><ACT 1><SCENE 6><20%>
+	Should be make me
+	Live like Diana's priest, betwixt cold sheets,
+	Whiles he is vaulting variable ramps,
+	In your despite, upon your purse? Revenge it.
+	I dedicate myself to your sweet pleasure,
+	More noble than that runagate to your bed,
+	And will continue fast to your affection,
+	Still close as sure.
+<SPEECH 39><ACT 1><SCENE 6><20%>
+	Let me my service tender on your lips.
+<SPEECH 40><ACT 1><SCENE 6><21%>
+	O happy Leonatus! I may say:
+	The credit that thy lady hath of thee
+	Deserves thy trust, and thy most perfect goodness
+	Her assur'd credit. Blessed live you long!
+	A lady to the worthiest sir that ever
+	Country call'd his; and you his mistress, only
+	For the most worthiest fit. Give me your pardon.
+	I have spoken this, to know if your affiance
+	Were deeply rooted, and shall make your lord
+	That which he is, new o'er; and he is one
+	The truest manner'd; such a holy witch
+	That he enchants societies into him;
+	Half all men's hearts are his.
+<SPEECH 41><ACT 1><SCENE 6><21%>
+	He sits 'mongst men like a descended god:
+	He hath a kind of honour sets him off,
+	More than a mortal seeming. Be not angry,
+	Most mighty princess, that I have adventur'd
+	To try your taking of a false report; which hath
+	Honour'd with confirmation your great judgment
+	In the election of a sir so rare,
+	Which you know cannot err. The love I bear him
+	Made me to fan you thus; but the gods made you,
+	Unlike all others, chaffless. Pray, your pardon.
+<SPEECH 42><ACT 1><SCENE 6><21%>
+	My humble thanks. I had almost forget
+	To entreat your Grace but in a small request,
+	And yet of moment too, for it concerns
+	Your lord, myself, and other noble friends,
+	Are partners in the business.
+<SPEECH 43><ACT 1><SCENE 6><21%>
+	Some dozen Romans of us and your lord,
+	The best feather of our wing, have mingled sums
+	To buy a present for the emperor;
+	Which I, the factor for the rest, have done
+	In France; 'tis plate of rare device, and jewels
+	Of rich and exquisite form; their values great;
+	And I am something curious, being strange,
+	To have them in safe stowage. May it please you
+	To take them in protection?
+<SPEECH 44><ACT 1><SCENE 6><22%>
+	They are in a trunk,
+	Attended by my men; I will make bold
+	To send them to you, only for this night;
+	I must aboard to-morrow.
+<SPEECH 45><ACT 1><SCENE 6><22%>
+	Yes, I beseech, or I shall short my word
+	By lengthening my return. From Gallia
+	I cross'd the seas on purpose and on promise
+	To see your Grace.
+<SPEECH 46><ACT 1><SCENE 6><22%>
+	O! I must, madam:
+	Therefore I shall beseech you, if you please
+	To greet your lord with writing, do 't to-night:
+	I have outstood my time, which is material
+	To the tender of our present.
+<SPEECH 47><ACT 2><SCENE 2><24%>
+	The crickets sing, and man's o'erlabour'd sense
+	Repairs itself by rest. Our Tarquin thus
+	Did softly press the rushes ere he waken'd
+	The chastity he wounded. Cytherea,
+	How bravely thou becom'st thy bed! freshlily,
+	And whiter than the sheets! That I might touch!
+	But kiss: one kiss! Rubies unparagon'd,
+	How dearly they do 't! 'Tis her breathing that
+	Perfumes the chamber thus; the flame of the taper
+	Bows toward her, and would under-peep her lids,
+	To see the enclosed lights, now canopied
+	Under these windows, white and azure lac'd
+	With blue of heaven's own tinct. But my design,
+	To note the chamber: I will write all down:
+	Such and such pictures; there the window; such
+	Th' adornment of her bed; the arras, figures,
+	Why, such and such; and the contents o' the story.
+	Ah! but some natural notes about her body,
+	Above ten thousand meaner moveables
+	Would testify, to enrich mine inventory.
+	O sleep! thou ape of death, lie dull upon her;
+	And be her senses but as a monument
+	Thus in a chapel lying. Come off, come off;—
+	As slippery as the Gordian knot was hard!
+	'Tis mine; and this will witness outwardly,
+	As strongly as the conscience does within,
+	To the madding of her lord. On her left breast
+	A mole cinque-spotted, like the crimson drops
+	I' the bottom of a cowslip: here's a voucher;
+	Stronger than ever law could make: this secret
+	Will force him think I have pick'd the lock and ta'en
+	The treasure of her honour. No more. To what end?
+	Why should I write this down, that's riveted,
+	Screw'd to my memory? She hath been reading late
+	The tale of Tereus; here the leaf's turn'd down
+	Where Philomel gave up. I have enough:
+	To the trunk again, and shut the spring of it.
+	Swift, swift, you dragons of the night, that dawning
+	May bare the raven's eye! I lodge in fear;
+	Though this a heavenly angel, hell is here.
+	One, two, three: time, time!
+<SPEECH 48><ACT 2><SCENE 4><31%>
+	Your lady
+	Is one of the fairest that I have look'd upon.
+<SPEECH 49><ACT 2><SCENE 4><32%>
+	Here are letters for you.
+<SPEECH 50><ACT 2><SCENE 4><32%>
+	'Tis very like.
+<SPEECH 51><ACT 2><SCENE 4><32%>
+	He was expected then,
+	But not approach'd.
+<SPEECH 52><ACT 2><SCENE 4><32%>
+	If I have lost it,
+	I should have lost the worth of it in gold.
+	I'll make a journey twice as far to enjoy
+	A second night of such sweet shortness which
+	Was mine in Britain; for the ring is won.
+<SPEECH 53><ACT 2><SCENE 4><32%>
+	Not a whit,
+	Your lady being so easy.
+<SPEECH 54><ACT 2><SCENE 4><32%>
+	Good sir, we must,
+	If you keep covenant. Had I not brought
+	The knowledge of your mistress home, I grant
+	We were to question further, but I now
+	Profess myself the winner of her honour,
+	Together with your ring; and not the wronger
+	Of her or you, having proceeded but
+	By both your wills.
+<SPEECH 55><ACT 2><SCENE 4><32%>
+	Sir, my circumstances
+	Being so near the truth as I will make them,
+	Must first induce you to believe: whose strength
+	I will confirm with oath; which, I doubt not,
+	You'll give me leave to spare, when you shall find
+	You need it not.
+<SPEECH 56><ACT 2><SCENE 4><32%>
+	First, her bedchamber,—
+	Where I confess I slept not, but profess
+	Had that was well worth watching,—it was hang'd
+	With tapestry of silk and silver; the story
+	Proud Cleopatra, when she met her Roman,
+	And Cydnus swell'd above the banks, or for
+	The press of boats or pride; a piece of work
+	So bravely done, so rich, that it did strive
+	In workmanship and value; which I wonder'd
+	Could be rarely and exactly wrought,
+	Since the true life on 't was—
+<SPEECH 57><ACT 2><SCENE 4><33%>
+	More particulars
+	Must justify my knowledge.
+<SPEECH 58><ACT 2><SCENE 4><33%>
+	The chimney
+	Is south the chamber, and the chimney-piece
+	Chaste Dian bathing; never saw I figures
+	So likely to report themselves; the cutter
+	Was as another nature, dumb; outwent her,
+	Motion and breath left out.
+<SPEECH 59><ACT 2><SCENE 4><33%>
+	The roof o' the chamber
+	With golden cherubins is fretted; her andirons—
+	I had forgot them—were two winking Cupids
+	Of silver, each on one foot standing, nicely
+	Depending on their brands.
+<SPEECH 60><ACT 2><SCENE 4><33%>
+	Then, if you can,
+	Be pale: I beg but leave to air this jewel; see!
+	And now 'tis up again; it must be married
+	To that your diamond; I'll keep them.
+<SPEECH 61><ACT 2><SCENE 4><33%>
+	Sir,—I thank her,—that:
+	She stripp'd it from her arm; I see her yet;
+	Her pretty action did outsell her gift,
+	And yet enrich'd it too. She gave it me, and said
+	She priz'd it once.
+<SPEECH 62><ACT 2><SCENE 4><34%>
+	She writes so to you, doth she?
+<SPEECH 63><ACT 2><SCENE 4><34%>
+	By Jupiter, I had it from her arm.
+<SPEECH 64><ACT 2><SCENE 4><34%>
+	If you seek
+	For further satisfying, under her breast,
+	Worthy the pressing, lies a mole, right proud
+	Of that most delicate lodging: by my life,
+	I kiss'd it, and it gave me present hunger
+	To feed again, though full. You do remember
+	This stain upon her?
+<SPEECH 65><ACT 2><SCENE 4><35%>
+	Will you hear more?
+<SPEECH 66><ACT 2><SCENE 4><35%>
+	I'll be sworn,—
+<SPEECH 67><ACT 2><SCENE 4><35%>
+	I'll deny nothing.
+<SPEECH 68><ACT 2><SCENE 4><35%>
+	With all my heart.
+<SPEECH 69><ACT 5><SCENE 2><76%>
+	The heaviness and guilt within my bosom
+	Takes off my manhood: I have belied a lady,
+	The princess of this country, and the air on 't
+	Revengingly enfeebles me; or could this carl,
+	A very drudge of nature's, have subdu'd me
+	In my profession? Knighthoods and honours, borne
+	As I wear mine, are titles but of scorn.
+	If that thy gentry, Britain, go before
+	This lout as he exceeds our lords, the odds
+	Is that we scarce are men and you are gods.
+<SPEECH 70><ACT 5><SCENE 2><77%>
+	'Tis their fresh supplies.
+<SPEECH 71><ACT 5><SCENE 5><90%>
+	Thou'lt torture me to leave unspoken that
+	Which, to be spoke, would torture thee.
+<SPEECH 72><ACT 5><SCENE 5><90%>
+	I am glad to be constrain'd to utter that
+	Which torments me to conceal. By villany
+	I got this ring; 'twas Leonatus' jewel,
+	Whom thou didst banish, and—which more may grieve thee,
+	As it doth me—a nobler sir ne'er liv'd
+	'Twixt sky and ground. Wilt thou hear more, my lord?
+<SPEECH 73><ACT 5><SCENE 5><90%>
+	That paragon, thy daughter,—
+	For whom my heart drops blood, and my false spirits
+	Quail to remember,—Give me leave; I faint.
+<SPEECH 74><ACT 5><SCENE 5><90%>
+	Upon a time,—unhappy was the clock
+	That struck the hour!—it was in Rome,—accurs'd
+	The mansion where!—'twas at a feast—O, would
+	Our viands had been poison'd, or at least
+	Those which I heav'd to head!—the good Posthumus,—
+	What should I say? he was too good to be
+	Where ill men were; and was the best of all
+	Amongst the rar'st of good ones;—sitting sadly
+	Hearing us praise our loves of Italy
+	For beauty that made barren the swell'd boast
+	Of him that best could speak; for feature laming
+	The shrine of Venus, or straight-pight Minerva,
+	Postures beyond brief nature; for condition,
+	A shop of all the qualities that man
+	Loves woman for; besides that hook of wiving,
+	Fairness which strikes the eye.
+<SPEECH 75><ACT 5><SCENE 5><91%>
+	All too soon I shall,
+	Unless thou wouldst grieve quickly. This Posthumus—
+	Most like a noble lord in love, and one
+	That had a royal lover—took his hint;
+	And, not dispraising whom we prais'd,—therein
+	He was as calm as virtue,—he began
+	His mistress' picture; which by his tongue being made,
+	And then a mind put in 't, either our brags
+	Were crack'd of kitchen trulls, or his description
+	Prov'd us unspeaking sots.
+<SPEECH 76><ACT 5><SCENE 5><91%>
+	Your daughter's chastity, there it begins.
+	He spake of her as Dian had hot dreams,
+	And she alone were cold; whereat I, wretch,
+	Made scruple of his praise, and wager'd with him
+	Pieces of gold 'gainst this, which then he wore
+	Upon his honour'd finger, to attain
+	In suit the place of his bed, and win this ring
+	By hers and mine adultery. He, true knight,
+	No lesser of her honour confident
+	Than I did truly find her, stakes this ring;
+	And would so, had it been a carbuncle
+	Of Phœbus' wheel; and might so safely, had it
+	Been all the worth of 's car. Away to Britain
+	Post I in this design. Well may you, sir,
+	Remember me at court, where I was taught
+	Of your chaste daughter the wide difference
+	'Twixt amorous and villanous. Being thus quench'd
+	Of hope, not longing, mine Italian brain
+	'Gan in your duller Britain operate
+	Most vilely; for my vantage, excellent;
+	And, to be brief, my practice so prevail'd,
+	That I return'd with simular proof enough
+	To make the noble Leonatus mad,
+	By wounding his belief in her renown
+	With tokens thus, and thus; averring notes
+	Of chamber-hanging, pictures, this her bracelet;—
+	Oh cunning! how I got it!—nay, some marks
+	Of secret on her person, that he could not
+	But think her bond of chastity quite crack'd,
+	I having ta'en the forfeit. Whereupon,—
+	Methinks I see him now,—
+<SPEECH 77><ACT 5><SCENE 5><98%>
+	</STAGE DIR> I am down again;
+	But now my heavy conscience sinks my knee,
+	As then your force did. Take that life, beseech you,
+	Which I so often owe, but your ring first,
+	And here the bracelet of the truest princess
+	That ever swore her faith.

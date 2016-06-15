@@ -1,0 +1,70 @@
+<SPEECH 1><ACT 3><SCENE 2><55%>
+	To his own hand, in his bedchamber.
+<SPEECH 2><ACT 3><SCENE 2><55%>
+	Presently
+	He did unseal them; and the first he view'd,
+	He did it with a serious mind; a heed
+	Was in his countenance. You he bade
+	Attend him here this morning.
+<SPEECH 3><ACT 3><SCENE 2><55%>
+	I think, by this he is.
+<SPEECH 4><ACT 3><SCENE 2><65%>
+	I have no power to speak, sir.
+<SPEECH 5><ACT 3><SCENE 2><65%>
+	How does your Grace?
+<SPEECH 6><ACT 3><SCENE 2><65%>
+	I am glad your Grace has made that right use of it.
+<SPEECH 7><ACT 3><SCENE 2><65%>
+	The heaviest and the worst,
+	Is your displeasure with the king.
+<SPEECH 8><ACT 3><SCENE 2><66%>
+	The next is, that Sir Thomas More is chosen
+	Lord Chancellor in your place.
+<SPEECH 9><ACT 3><SCENE 2><66%>
+	That Cranmer is return'd with welcome,
+	Install'd Lord Archbishop of Canterbury.
+<SPEECH 10><ACT 3><SCENE 2><66%>
+	Last, that the Lady Anne,
+	Whom the king hath in secrecy long married,
+	This day was view'd in open, as his queen,
+	Going to chapel; and the voice is now
+	Only about her coronation.
+<SPEECH 11><ACT 3><SCENE 2><66%>
+	O my lord!
+	Must I then, leave you? must I needs forego
+	So good, so noble, and so true a master?
+	Bear witness all that have not hearts of iron,
+	With what a sorrow Cromwell leaves his lord.
+	The king shall have my service; but my prayers
+	For ever and for ever, shall be yours.
+<SPEECH 12><ACT 3><SCENE 2><68%>
+	Good sir, have patience.
+<SPEECH 13><ACT 5><SCENE 3><87%>
+	Please your honours,
+	The chief cause concerns his Grace of Canterbury.
+<SPEECH 14><ACT 5><SCENE 3><88%>
+	Yes.
+<SPEECH 15><ACT 5><SCENE 3><90%>
+	My Lord of Winchester, you are a little,
+	By your good favour, too sharp; men so noble,
+	However faulty, yet should find respect
+	For what they have been: 'tis a cruelty
+	To load a falling man.
+<SPEECH 16><ACT 5><SCENE 3><90%>
+	Why, my lord?
+<SPEECH 17><ACT 5><SCENE 3><90%>
+	Not sound?
+<SPEECH 18><ACT 5><SCENE 3><90%>
+	Would you were half so honest!
+	Men's prayers then would seek you, not their fears.
+<SPEECH 19><ACT 5><SCENE 3><90%>
+	Do.
+	Remember your bold life too.
+<SPEECH 20><ACT 5><SCENE 3><90%>
+	And I.
+<SPEECH 21><ACT 5><SCENE 3><91%>
+	My mind gave me,
+	In seeking tales and informations
+	Against this man—whose honesty the devil
+	And his disciples only envy at—
+	Ye blew the fire that burns ye: now have at ye!

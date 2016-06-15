@@ -1,0 +1,181 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	A pox o' your throat, you bawling, blasphemous, incharitable dog!
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	I am out of patience.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	Let's take leave of him.
+<SPEECH 4><ACT 2><SCENE 1><29%>
+	He receives comfort like cold porridge.
+<SPEECH 5><ACT 2><SCENE 1><29%>
+	Look, he's winding up the watch of his wit; by and by it will strike.
+<SPEECH 6><ACT 2><SCENE 1><29%>
+	One: tell.
+<SPEECH 7><ACT 2><SCENE 1><29%>
+	A dollar.
+<SPEECH 8><ACT 2><SCENE 1><30%>
+	You have taken it wiselier than I meant you should.
+<SPEECH 9><ACT 2><SCENE 1><30%>
+	He will be talking.
+<SPEECH 10><ACT 2><SCENE 1><30%>
+	The old cock.
+<SPEECH 11><ACT 2><SCENE 1><30%>
+	Done. The wager?
+<SPEECH 12><ACT 2><SCENE 1><30%>
+	A match!
+<SPEECH 13><ACT 2><SCENE 1><30%>
+	Ha, ha, ha! So you're paid.
+<SPEECH 14><ACT 2><SCENE 1><30%>
+	Yet—
+<SPEECH 15><ACT 2><SCENE 1><30%>
+	Ay, and a subtle; as he most learnedly delivered.
+<SPEECH 16><ACT 2><SCENE 1><30%>
+	As if it had lungs, and rotten ones.
+<SPEECH 17><ACT 2><SCENE 1><31%>
+	Of that there's none, or little.
+<SPEECH 18><ACT 2><SCENE 1><31%>
+	With an eye of green in't.
+<SPEECH 19><ACT 2><SCENE 1><31%>
+	No; he doth but mistake the truth totally.
+<SPEECH 20><ACT 2><SCENE 1><31%>
+	As many vouch'd rarities are.
+<SPEECH 21><ACT 2><SCENE 1><31%>
+	Ay, or very falsely pocket up his report.
+<SPEECH 22><ACT 2><SCENE 1><31%>
+	'Twas a sweet marriage, and we prosper well in our return.
+<SPEECH 23><ACT 2><SCENE 1><32%>
+	What if he had said, widower Æneas too? Good Lord, how you take it!
+<SPEECH 24><ACT 2><SCENE 1><32%>
+	He hath rais'd the wall, and houses too.
+<SPEECH 25><ACT 2><SCENE 1><32%>
+	I think he will carry this island home in his pocket, and give it his son for an apple.
+<SPEECH 26><ACT 2><SCENE 1><33%>
+	Bate, I beseech you, widow Dido.
+<SPEECH 27><ACT 2><SCENE 1><34%>
+	Sir, you may thank yourself for this great loss,
+	That would not bless our Europe with your daughter,
+	But rather lose her to an African;
+	Where she at least is banish'd from your eye,
+	Who hath cause to wet the grief on't.
+<SPEECH 28><ACT 2><SCENE 1><34%>
+	You were kneel'd to and importun'd otherwise
+	By all of us; and the fair soul herself
+	Weigh'd between loathness and obedience, at
+	Which end o' the beam should bow. We have lost your son,
+	I fear, for ever: Milan and Naples have
+	More widows in them of this business' making,
+	Than we bring men to comfort them: the fault's
+	Your own.
+<SPEECH 29><ACT 2><SCENE 1><34%>
+	Very well.
+<SPEECH 30><ACT 2><SCENE 1><34%>
+	Foul weather?
+<SPEECH 31><ACT 2><SCENE 1><35%>
+	Or docks, or mallows.
+<SPEECH 32><ACT 2><SCENE 1><35%>
+	'Scape being drunk for want of wine.
+<SPEECH 33><ACT 2><SCENE 1><35%>
+	Yet he would be king on't.
+<SPEECH 34><ACT 2><SCENE 1><35%>
+	No marrying 'mong his subjects?
+<SPEECH 35><ACT 2><SCENE 1><36%>
+	Save his majesty!
+<SPEECH 36><ACT 2><SCENE 1><36%>
+	An it had not fallen flat-long.
+<SPEECH 37><ACT 2><SCENE 1><36%>
+	We would so, and then go a-bat-fowling.
+<SPEECH 38><ACT 2><SCENE 1><37%>
+	Please you, sir,
+	Do not omit the heavy offer of it:
+	It seldom visits sorrow; when it doth
+	It is a comforter.
+<SPEECH 39><ACT 2><SCENE 1><37%>
+	What a strange drowsiness possesses them!
+<SPEECH 40><ACT 2><SCENE 1><37%>
+	Why
+	Doth it not then our eyelids sink? I find not
+	Myself dispos'd to sleep.
+<SPEECH 41><ACT 2><SCENE 1><38%>
+	What! art thou waking?
+<SPEECH 42><ACT 2><SCENE 1><38%>
+	I do; and surely,
+	It is a sleepy language, and thou speak'st
+	Out of thy sleep. What is it thou didst say?
+	This is a strange repose, to be asleep
+	With eyes wide open; standing, speaking, moving,
+	And yet so fast asleep.
+<SPEECH 43><ACT 2><SCENE 1><38%>
+	Thou dost snore distinctly:
+	There's meaning in thy snores.
+<SPEECH 44><ACT 2><SCENE 1><38%>
+	Well; I am standing water.
+<SPEECH 45><ACT 2><SCENE 1><38%>
+	Do so: to ebb,
+	Hereditary sloth instructs me.
+<SPEECH 46><ACT 2><SCENE 1><39%>
+	Prithee, say on:
+	The setting of thine eye and cheek proclaim
+	A matter from thee, and a birth indeed
+	Which throes thee much to yield.
+<SPEECH 47><ACT 2><SCENE 1><39%>
+	I have no hope
+	That he's undrown'd.
+<SPEECH 48><ACT 2><SCENE 1><39%>
+	He's gone.
+<SPEECH 49><ACT 2><SCENE 1><39%>
+	Claribel.
+<SPEECH 50><ACT 2><SCENE 1><40%>
+	What stuff is this!—How say you?
+	'Tis true my brother's daughter's Queen of Tunis;
+	So is she heir of Naples; 'twixt which regions
+	There is some space.
+<SPEECH 51><ACT 2><SCENE 1><40%>
+	Methinks I do.
+<SPEECH 52><ACT 2><SCENE 1><41%>
+	I remember
+	You did supplant your brother Prospero.
+<SPEECH 53><ACT 2><SCENE 1><41%>
+	But, for your conscience,—
+<SPEECH 54><ACT 2><SCENE 1><41%>
+	Thy case, dear friend,
+	Shall be my precedent: as thou got'st Milan,
+	I'll come by Naples. Draw thy sword: one stroke
+	Shall free thee from the tribute which thou pay'st,
+	And I the king shall love thee.
+<SPEECH 55><ACT 2><SCENE 1><42%>
+	O! but one word.
+<SPEECH 56><ACT 2><SCENE 1><42%>
+	Whiles we stood here securing your repose,
+	Even now, we heard a hollow burst of bellowing
+	Like bulls, or rather hons; did't not wake you?
+	It struck mine ear most terribly.
+<SPEECH 57><ACT 3><SCENE 3><65%>
+	</STAGE DIR> The next advantage
+	Will we take throughly.
+<SPEECH 58><ACT 3><SCENE 3><65%>
+	</STAGE DIR> I say to-night: no more.
+<SPEECH 59><ACT 3><SCENE 3><65%>
+	A living drollery. Now I will believe
+	That there are unicorns; that in Arabia
+	There is one tree, the phœnix' throne; one phœnix
+	At this hour reigning there.
+<SPEECH 60><ACT 3><SCENE 3><66%>
+	No matter, since
+	They have left their viands behind; for we have stomachs.—
+	Will't please you to taste of what is here?
+<SPEECH 61><ACT 3><SCENE 3><70%>
+	But one fiend at a time,
+	I'll fight their legions o'er.
+<SPEECH 62><ACT 5><SCENE 1><90%>
+	</STAGE DIR> The devil speaks in him.
+<SPEECH 63><ACT 5><SCENE 1><92%>
+	A most high miracle!
+<SPEECH 64><ACT 5><SCENE 1><97%>
+	Ha, ha!
+	What things are these, my lord Antonio?
+	Will money buy them?
+<SPEECH 65><ACT 5><SCENE 1><97%>
+	He is drunk now: where had he wine?
+<SPEECH 66><ACT 5><SCENE 1><98%>
+	Why, how now, Stephano!
+<SPEECH 67><ACT 5><SCENE 1><98%>
+	Or stole it, rather.

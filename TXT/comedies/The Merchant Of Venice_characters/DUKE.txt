@@ -1,0 +1,75 @@
+<SPEECH 1><ACT 4><SCENE 1><70%>
+	What, is Antonio here?
+<SPEECH 2><ACT 4><SCENE 1><70%>
+	I am sorry for thee: thou art come to answer
+	A stony adversary, an inhuman wretch
+	Uncapable of pity, void and empty
+	From any dram of mercy.
+<SPEECH 3><ACT 4><SCENE 1><71%>
+	Go one, and call the Jew into the court.
+<SPEECH 4><ACT 4><SCENE 1><71%>
+	Make room, and let him stand before our face.
+	Shylock, the world thinks, and I think so too,
+	That thou but lead'st this fashion of thy malice
+	To the last hour of act; and then 'tis thought
+	Thou'lt show thy mercy and remorse more strange
+	Than is thy strange-apparent cruelty;
+	And where thou now exact'st the penalty,—
+	Which is a pound of this poor merchant's flesh,—
+	Thou wilt not only loose the forfeiture,
+	But, touch'd with human gentleness and love,
+	Forgive a moiety of the principal;
+	Glancing an eye of pity on his losses,
+	That have of late so huddled on his back,
+	Enow to press a royal merchant down,
+	And pluck commiseration of his state
+	From brassy bosoms and rough hearts of flint,
+	From stubborn Turks and Tartars, never train'd
+	To offices of tender courtesy.
+	We all expect a gentle answer, Jew.
+<SPEECH 5><ACT 4><SCENE 1><73%>
+	How shalt thou hope for mercy, rendering none?
+<SPEECH 6><ACT 4><SCENE 1><74%>
+	Upon my power I may dismiss this court,
+	Unless Bellario, a learned doctor,
+	Whom I have sent for to determine this,
+	Come here to-day.
+<SPEECH 7><ACT 4><SCENE 1><74%>
+	Bring us the letters: call the messenger.
+<SPEECH 8><ACT 4><SCENE 1><74%>
+	Came you from Padua, from Bellario?
+<SPEECH 9><ACT 4><SCENE 1><75%>
+	This letter from Bellario doth commend
+	A young and learned doctor to our court.
+	Where is he?
+<SPEECH 10><ACT 4><SCENE 1><76%>
+	With all my heart: some three or four of you
+	Go give him courteous conduct to this place.
+	Meantime, the court shall hear Bellario's letter.
+<SPEECH 11><ACT 4><SCENE 1><76%>
+	You hear the learn'd Bellario, what he writes:
+	And here, I take it, is the doctor come.
+	Give me your hand. Came you from old Bellario?
+<SPEECH 12><ACT 4><SCENE 1><76%>
+	You are welcome: take your place.
+	Are you acquainted with the difference
+	That holds this present question in the court?
+<SPEECH 13><ACT 4><SCENE 1><77%>
+	Antonio and old Shylock, both stand forth.
+<SPEECH 14><ACT 4><SCENE 1><84%>
+	That thou shalt see the difference of our spirits,
+	I pardon thee thy life before thou ask it.
+	For half thy wealth, it is Antonio's;
+	The other half comes to the general state,
+	Which humbleness may drive into a fine.
+<SPEECH 15><ACT 4><SCENE 1><85%>
+	He shall do this, or else I do recant
+	The pardon that I late pronounced here.
+<SPEECH 16><ACT 4><SCENE 1><85%>
+	Get thee gone, but do it.
+<SPEECH 17><ACT 4><SCENE 1><85%>
+	Sir, I entreat you home with me to dinner.
+<SPEECH 18><ACT 4><SCENE 1><85%>
+	I am sorry that your leisure serves you not.
+	Antonio, gratify this gentleman,
+	For, in my mind, you are much bound to him.

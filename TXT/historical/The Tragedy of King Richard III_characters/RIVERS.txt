@@ -1,0 +1,66 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+	Have patience, madam: there's no doubt his majesty
+	Will soon recover his accustom'd health.
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	Is it concluded he shall be protector?
+<SPEECH 3><ACT 1><SCENE 3><14%>
+	She may, my lord; for—
+<SPEECH 4><ACT 1><SCENE 3><14%>
+	What, marry, may she?
+<SPEECH 5><ACT 1><SCENE 3><15%>
+	My Lord of Gloucester, in those busy days
+	Which here you urge to prove us enemies,
+	We follow'd then our lord, our lawful king;
+	So should we you, if you should be our king.
+<SPEECH 6><ACT 1><SCENE 3><17%>
+	Tyrants themselves wept when it was reported.
+<SPEECH 7><ACT 1><SCENE 3><18%>
+	Were you well serv'd, you would be taught your duty.
+<SPEECH 8><ACT 1><SCENE 3><20%>
+	And so doth mine. I muse why she's at liberty.
+<SPEECH 9><ACT 1><SCENE 3><20%>
+	A virtuous and a Christian-like conclusion,
+	To pray for them that have done scath to us.
+<SPEECH 10><ACT 1><SCENE 3><20%>
+	We wait upon your Grace.
+<SPEECH 11><ACT 2><SCENE 1><29%>
+	By heaven, my soul is purg'd from grudging hate;
+	And with my hand I seal my true heart's love.
+<SPEECH 12><ACT 2><SCENE 1><29%>
+	And I, as I love Hastings with my heart!
+<SPEECH 13><ACT 2><SCENE 2><35%>
+	Madam, bethink you, like a careful mother,
+	Of the young prince your son: send straight for him;
+	Let him be crown'd; in him your comfort lives.
+	Drown desperate sorrow in dead Edward's grave,
+	And plant your joys in living Edward's throne.
+<SPEECH 14><ACT 2><SCENE 2><36%>
+	Why with some little train, my Lord of Buckingham?
+<SPEECH 15><ACT 2><SCENE 2><36%>
+	And so in me; and so, I think, in all:
+	Yet, since it is but green, it should be put
+	To no apparent likelihood of breach,
+	Which haply by much company might be urg'd:
+	Therefore I say with noble Buckingham,
+	That it is meet so few should fetch the prince.
+<SPEECH 16><ACT 3><SCENE 3><49%>
+	Sir Richard Ratcliff, let me tell thee this:
+	To-day shalt thou behold a subject die
+	For truth, for duty, and for loyalty.
+<SPEECH 17><ACT 3><SCENE 3><49%>
+	O Pomfret, Pomfret! O thou bloody prison!
+	Fatal and ominous to noble peers!
+	Within the guilty closure of thy walls
+	Richard the Second here was hack'd to death;
+	And, for more slander to thy dismal seat,
+	We give thee up our guitless blood to drink.
+<SPEECH 18><ACT 3><SCENE 3><50%>
+	Then curs'd she Richard, then curs'd she Buckingham,
+	Then curs'd she Hastings: O! remember, God,
+	To hear her prayer for them, as now for us;
+	And for my sister and her princely sons,
+	Be satisfied, dear God, with our true blood,
+	Which, as thou know'st, unjustly must be spilt.
+<SPEECH 19><ACT 3><SCENE 3><50%>
+	Come, Grey, come, Vaughan; let us here embrace:
+	And take our leave until we meet in heaven.

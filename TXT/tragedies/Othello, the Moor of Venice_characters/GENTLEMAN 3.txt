@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 2><SCENE 1><22%>
+	News, lads! our wars are done.
+	The desperate tempest hath so bang'd the Turks
+	That their designment halts; a noble ship of Venice
+	Hath seen a grievous wrack and sufferance
+	On most part of their fleet.
+<SPEECH 2><ACT 2><SCENE 1><22%>
+	The ship is here put in,
+	A Veronesa; Michael Cassio,
+	Lieutenant to the war-like Moor Othello,
+	Is come on shore: the Moor himself's at sea,
+	And is in full commission here for Cyprus.
+<SPEECH 3><ACT 2><SCENE 1><22%>
+	But this same Cassio, though he speak of comfort
+	Touching the Turkish loss, yet he looks sadly
+	And prays the Moor be safe; for they were parted
+	With foul and violent tempest.
+<SPEECH 4><ACT 2><SCENE 1><22%>
+	Come, let's do so;
+	For every minute is expectancy
+	Of more arrivance.

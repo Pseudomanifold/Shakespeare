@@ -1,0 +1,28 @@
+<SPEECH 1><ACT 2><SCENE 1><22%>
+	I will, my lord.
+<SPEECH 2><ACT 2><SCENE 1><22%>
+	My lord, I did intend it.
+<SPEECH 3><ACT 2><SCENE 1><23%>
+	Ay, very well, my lord.
+<SPEECH 4><ACT 2><SCENE 1><23%>
+	As gaming, my lord?
+<SPEECH 5><ACT 2><SCENE 1><23%>
+	My lord, that would dishonour him.
+<SPEECH 6><ACT 2><SCENE 1><23%>
+	But, my good lord,—
+<SPEECH 7><ACT 2><SCENE 1><23%>
+	Ay, my lord,
+	I would know that.
+<SPEECH 8><ACT 2><SCENE 1><23%>
+	Very good, my lord.
+<SPEECH 9><ACT 2><SCENE 1><24%>
+	At 'closes in the consequence.'
+	At 'friend or so,' and 'gentleman.'
+<SPEECH 10><ACT 2><SCENE 1><24%>
+	My lord, I have.
+<SPEECH 11><ACT 2><SCENE 1><24%>
+	Good my lord!
+<SPEECH 12><ACT 2><SCENE 1><24%>
+	I shall, my lord.
+<SPEECH 13><ACT 2><SCENE 1><24%>
+	Well, my lord.

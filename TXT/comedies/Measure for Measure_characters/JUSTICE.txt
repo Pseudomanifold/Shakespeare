@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 2><SCENE 1><25%>
+	Eleven, sir.
+<SPEECH 2><ACT 2><SCENE 1><25%>
+	I humbly thank you.
+<SPEECH 3><ACT 2><SCENE 1><25%>
+	Lord Angelo is severe.

@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 3><SCENE 1><43%>
+	How, sir, how?
+<SPEECH 2><ACT 3><SCENE 1><43%>
+	Ay, marry, are they, sir.
+<SPEECH 3><ACT 3><SCENE 1><43%>
+	Whereby hangs a tale, sir?
+<SPEECH 4><ACT 3><SCENE 1><43%>
+	Well, sir, we will not.
+<SPEECH 5><ACT 3><SCENE 1><43%>
+	We have none such, sir.

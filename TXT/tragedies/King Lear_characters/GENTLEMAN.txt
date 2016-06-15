@@ -1,0 +1,114 @@
+<SPEECH 1><ACT 1><SCENE 5><27%>
+	Ready, my lord.
+<SPEECH 2><ACT 2><SCENE 4><37%>
+	As I learn'd,
+	The night before there was no purpose in them
+	Of this remove.
+<SPEECH 3><ACT 2><SCENE 4><39%>
+	Made you no more offence than what you speak of?
+<SPEECH 4><ACT 3><SCENE 1><46%>
+	One minded like the weather, most unquietly.
+<SPEECH 5><ACT 3><SCENE 1><47%>
+	Contending with the fretful elements;
+	Bids the wind blow the earth into the sea,
+	Or swell the curled waters 'bove the main,
+	That things might change or cease; tears his white hair,
+	Which the impetuous blasts, with eyeless rage,
+	Catch in their fury, and make nothing of;
+	Strives in his little world of man to out-scorn
+	The to-and-fro-conflicting wind and rain.
+	This night, wherein the cub-drawn bear would couch,
+	The lion and the belly-pinched wolf
+	Keep their fur dry, unbonneted he runs,
+	And bids what will take all.
+<SPEECH 6><ACT 3><SCENE 1><47%>
+	None but the fool, who labours to out-jest
+	His heart-struck injuries.
+<SPEECH 7><ACT 3><SCENE 1><48%>
+	I will talk further with you.
+<SPEECH 8><ACT 3><SCENE 1><48%>
+	Give me your hand. Have you no more to say?
+<SPEECH 9><ACT 4><SCENE 3><71%>
+	Something he left imperfect in the state, which since his coming forth is thought of; which imports to the kingdom so much fear and danger, that his personal return was most required and necessary.
+<SPEECH 10><ACT 4><SCENE 3><71%>
+	The Marshal of France, Monsieur la Far.
+<SPEECH 11><ACT 4><SCENE 3><71%>
+	Ay, sir; she took them, read them in my presence;
+	And now and then an ample tear trill'd down
+	Her delicate cheek; it seem'd she was a queen
+	Over her passion; who, most rebel-like,
+	Sought to be king o'er her.
+<SPEECH 12><ACT 4><SCENE 3><71%>
+	Not to a rage; patience and sorrow strove
+	Who should express her goodliest. You have seen
+	Sunshine and rain at once; her smiles and tears
+	Were like a better way; those happy smilets
+	That play'd on her ripe lip seem'd not to know
+	What guests were in her eyes; which parted thence,
+	As pearls from diamonds dropp'd. In brief,
+	Sorrow would be a rarity most belov'd,
+	If all could so become it.
+<SPEECH 13><ACT 4><SCENE 3><72%>
+	Faith, once or twice she heav'd the name of 'father'
+	Pantingly forth, as if it press'd her heart;
+	Cried, 'Sisters! sisters! Shame of ladies! sisters!
+	Kent! father! sisters! What, i' the storm? i' the night?
+	Let pity not be believed!' There she shook
+	The holy water from her heavenly eyes,
+	And clamour-moisten'd, then away she started
+	To deal with grief alone.
+<SPEECH 14><ACT 4><SCENE 3><72%>
+	No.
+<SPEECH 15><ACT 4><SCENE 3><72%>
+	No, since.
+<SPEECH 16><ACT 4><SCENE 3><72%>
+	Why, good sir?
+<SPEECH 17><ACT 4><SCENE 3><72%>
+	Alack! poor gentleman.
+<SPEECH 18><ACT 4><SCENE 3><72%>
+	'Tis so, they are afoot.
+<SPEECH 19><ACT 4><SCENE 6><80%>
+	O! here he is; lay hand upon him. Sir,
+	Your most dear daughter—
+<SPEECH 20><ACT 4><SCENE 6><80%>
+	You shall have any thing.
+<SPEECH 21><ACT 4><SCENE 6><80%>
+	Good sir,—
+<SPEECH 22><ACT 4><SCENE 6><81%>
+	You are a royal one, and we obey you.
+<SPEECH 23><ACT 4><SCENE 6><81%>
+	A sight most pitiful in the meanest wretch,
+	Past speaking of in a king! Thou hast one daughter,
+	Who redeems nature from the general curse
+	Which twain have brought her to.
+<SPEECH 24><ACT 4><SCENE 6><81%>
+	Sir, speed you: what's your will?
+<SPEECH 25><ACT 4><SCENE 6><81%>
+	Most sure and vulgar; every one hears that,
+	Which can distinguish sound.
+<SPEECH 26><ACT 4><SCENE 6><81%>
+	Near, and on speedy foot; the main descry
+	Stands on the hourly thought.
+<SPEECH 27><ACT 4><SCENE 6><81%>
+	Though that the queen on special cause is here,
+	Her army is mov'd on.
+<SPEECH 28><ACT 4><SCENE 7><84%>
+	Ay, madam; in the heaviness of sleep,
+	We put fresh garments on him.
+<SPEECH 29><ACT 4><SCENE 7><86%>
+	Holds it true, sir, that the Duke of Cornwall was so slain?
+<SPEECH 30><ACT 4><SCENE 7><86%>
+	Who is conductor of his people?
+<SPEECH 31><ACT 4><SCENE 7><86%>
+	They say Edgar, his banished son, is with the Earl of Kent in Germany.
+<SPEECH 32><ACT 4><SCENE 7><86%>
+	The arbitrement is like to be bloody.
+	Fare you well, sir.
+<SPEECH 33><ACT 5><SCENE 3><96%>
+	Help, help! O help!
+<SPEECH 34><ACT 5><SCENE 3><97%>
+	'Tis hot, it smokes;
+	It came even from the heart of—O! she's dead.
+<SPEECH 35><ACT 5><SCENE 3><97%>
+	Your lady, sir, your lady: and her sister
+	By her is poison'd; she confesses it.

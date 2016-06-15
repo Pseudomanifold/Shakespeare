@@ -1,0 +1,123 @@
+<SPEECH 1><ACT 1><SCENE 3><10%>
+	Yea, at all points, and longs to enter in.
+<SPEECH 2><ACT 1><SCENE 3><10%>
+	Why then, the champions are prepar'd, and stay
+	For nothing but his majesty's approach.
+<SPEECH 3><ACT 1><SCENE 3><19%>
+	Cousin, farewell: what presence must not know,
+	From where you do remain let paper show.
+<SPEECH 4><ACT 1><SCENE 4><21%>
+	I brought high Hereford, if you call him so,
+	But to the next highway, and there I left him.
+<SPEECH 5><ACT 1><SCENE 4><21%>
+	Faith, none for me; except the northeast wind,
+	Which then blew bitterly against our faces,
+	Awak'd the sleeping rheum, and so by chance
+	Did grace our hollow parting with a tear.
+<SPEECH 6><ACT 1><SCENE 4><22%>
+	'Farewell:'
+	And, for my heart disdained that my tongue
+	Should so profane the word, that taught me craft
+	To counterfeit oppression of such grief
+	That words seem'd buried in my sorrow's grave.
+	Marry, would the word 'farewell' have lengthen'd hours
+	And added years to his short banishment,
+	He should have had a volume of farewells;
+	But, since it would not, he had none of me.
+<SPEECH 7><ACT 3><SCENE 2><48%>
+	Yea, my lord. How brooks your Grace the air,
+	After your late tossing on the breaking seas?
+<SPEECH 8><ACT 3><SCENE 2><49%>
+	He means, my lord, that we are too remiss;
+	Whilst Bolingbroke, through our security,
+	Grows strong and great in substance and in friends.
+<SPEECH 9><ACT 3><SCENE 2><51%>
+	Comfort, my liege! why looks your Grace so pale?
+<SPEECH 10><ACT 3><SCENE 2><51%>
+	Comfort, my liege! remember who you are.
+<SPEECH 11><ACT 3><SCENE 2><53%>
+	Is Bushy, Green, and the Earl of Wiltshire dead?
+<SPEECH 12><ACT 3><SCENE 2><53%>
+	Where is the duke my father with his power?
+<SPEECH 13><ACT 3><SCENE 2><55%>
+	My father hath a power; inquire of him
+	And learn to make a body of a limb.
+<SPEECH 14><ACT 3><SCENE 2><56%>
+	My liege, one word.
+<SPEECH 15><ACT 3><SCENE 3><60%>
+	No, good my lord; let's fight with gentle words,
+	Till time lend friends and friends their helpful swords.
+<SPEECH 16><ACT 3><SCENE 3><61%>
+	Northumberland comes back from Bolingbroke.
+<SPEECH 17><ACT 4><SCENE 1><68%>
+	Princes and noble lords,
+	What answer shall I make to this base man?
+	Shall I so much dishonour my fair stars,
+	On equal terms to give him chastisement?
+	Either I must, or have mine honour soil'd
+	With the attainder of his slanderous lips.
+	There is my gage, the manual seal of death,
+	That marks thee out for hell: I say thou liest,
+	And will maintain what thou hast said is false
+	In thy heart-blood, though being all too base
+	To stain the temper of my knightly sword.
+<SPEECH 18><ACT 4><SCENE 1><69%>
+	Excepting one, I would he were the best
+	In all this presence that hath mov'd me so.
+<SPEECH 19><ACT 4><SCENE 1><69%>
+	Thou dar'st not, coward, live to see that day.
+<SPEECH 20><ACT 4><SCENE 1><69%>
+	Fitzwater, thou art damn'd to hell for this.
+<SPEECH 21><ACT 4><SCENE 1><69%>
+	And if I do not may my hands rot off
+	And never brandish more revengeful steel
+	Over the glittering helmet of my foe!
+<SPEECH 22><ACT 4><SCENE 1><69%>
+	Who sets me else? by heaven, I'll throw at all:
+	I have a thousand spirits in one breast,
+	To answer twenty thousand such as you.
+<SPEECH 23><ACT 4><SCENE 1><70%>
+	Some honest Christian trust me with a gage.
+	That Norfolk lies, here do I throw down this,
+	If he may be repeal'd to try his honour.
+<SPEECH 24><ACT 4><SCENE 1><79%>
+	You holy clergymen, is there no plot
+	To rid the realm of this pernicious blot?
+<SPEECH 25><ACT 5><SCENE 2><85%>
+	Madam, I know not, nor I greatly care not:
+	God knows I had as lief be none as one.
+<SPEECH 26><ACT 5><SCENE 2><85%>
+	For aught I know, my lord, they do.
+<SPEECH 27><ACT 5><SCENE 2><85%>
+	If God prevent it not, I purpose so.
+<SPEECH 28><ACT 5><SCENE 2><85%>
+	My lord, 'tis nothing.
+<SPEECH 29><ACT 5><SCENE 2><85%>
+	I do beseech your Grace to pardon me:
+	It is a matter of small consequence,
+	Which for some reasons I would not have seen.
+<SPEECH 30><ACT 5><SCENE 2><85%>
+	I do beseech you, pardon me; I may not show it.
+<SPEECH 31><ACT 5><SCENE 2><86%>
+	Good mother, be content; it is no more
+	Than my poor life must answer.
+<SPEECH 32><ACT 5><SCENE 3><88%>
+	Where is the king?
+<SPEECH 33><ACT 5><SCENE 3><88%>
+	God save your Grace! I do beseech your majesty,
+	To have some conference with your Grace alone.
+<SPEECH 34><ACT 5><SCENE 3><88%>
+	</STAGE DIR> For ever may my knees grow to the earth,
+	My tongue cleave to my roof within my mouth,
+	Unless a pardon ere I rise or speak.
+<SPEECH 35><ACT 5><SCENE 3><89%>
+	Then give me leave that I may turn the key,
+	That no man enter till my tale be done.
+<SPEECH 36><ACT 5><SCENE 3><89%>
+	Stay thy revengeful hand; thou hast no cause to fear.
+<SPEECH 37><ACT 5><SCENE 3><89%>
+	Remember, as thou read'st, thy promise pass'd:
+	I do repent me; read not my name there;
+	My heart is not confederate with my hand.
+<SPEECH 38><ACT 5><SCENE 3><91%>
+	Unto my mother's prayers I bend my knee.

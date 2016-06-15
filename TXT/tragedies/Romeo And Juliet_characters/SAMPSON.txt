@@ -1,0 +1,40 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Gregory, o' my word, we'll not carry coals.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	I mean, an we be in choler, we'll draw.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	I strike quickly, being moved.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	A dog of the house of Montague moves me.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	A dog of that house shall move me to stand: I will take the wall of any man or maid of Montague's.
+<SPEECH 6><ACT 1><SCENE 1><1%>
+	'Tis true; and therefore women, being the weaker vessels, are ever thrust to the wall: therefore I will push Montague's men from the wall, and thrust his maids to the wall.
+<SPEECH 7><ACT 1><SCENE 1><1%>
+	'Tis all one, I will show myself a tyrant: when I have fought with the men, I will be cruel with the maids; I will cut off their heads.
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	Ay, the heads of the maids, or their maidenheads; take it in what sense thou wilt.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	Me they shall feel while I am able to stand; and 'tis known I am a pretty piece of flesh.
+<SPEECH 10><ACT 1><SCENE 1><2%>
+	My naked weapon is out; quarrel, I will back thee.
+<SPEECH 11><ACT 1><SCENE 1><2%>
+	Fear me not.
+<SPEECH 12><ACT 1><SCENE 1><2%>
+	Let us take the law of our sides; let them begin.
+<SPEECH 13><ACT 1><SCENE 1><2%>
+	Nay, as they dare. I will bite my thumb at them; which is a disgrace to them, if they bear it.
+<SPEECH 14><ACT 1><SCENE 1><2%>
+	I do bite my thumb, sir.
+<SPEECH 15><ACT 1><SCENE 1><2%>
+	</STAGE DIR> Is the law of our side if I say ay?
+<SPEECH 16><ACT 1><SCENE 1><2%>
+	No, sir, I do not bite my thumb at you, sir; but I bite my thumb, sir.
+<SPEECH 17><ACT 1><SCENE 1><2%>
+	If you do, sir, I am for you: I serve as good a man as you.
+<SPEECH 18><ACT 1><SCENE 1><3%>
+	Well, sir.
+<SPEECH 19><ACT 1><SCENE 1><3%>
+	Yes, better, sir.
+<SPEECH 20><ACT 1><SCENE 1><3%>
+	Draw, if you be men. Gregory, remember thy swashing blow.

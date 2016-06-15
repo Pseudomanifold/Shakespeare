@@ -1,0 +1,854 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Old John of Gaunt, time-honour'd Lancaster,
+	Hast thou, according to thy oath and band,
+	Brought hither Henry Hereford thy bold son,
+	Here to make good the boisterous late appeal,
+	Which then our leisure would not let us hear,
+	Against the Duke of Norfolk, Thomas Mowbray?
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Tell me, moreover, hast thou sounded him,
+	If he appeal the duke on ancient malice,
+	Or worthily, as a good subject should,
+	On some known ground of treachery in him?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Then call them to our presence: face to face,
+	And frowning brow to brow, ourselves will hear
+	The accuser and the accused freely speak:
+	High-stomach'd are they both, and full of ire,
+	In rage deaf as the sea, hasty as fire.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	We thank you both: yet one but flatters us,
+	As well appeareth by the cause you come;
+	Namely, to appeal each other of high treason.
+	Cousin of Hereford, what dost thou object
+	Against the Duke of Norfolk, Thomas Mowbray?
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	What doth our cousin lay to Mowbray's charge?
+	It must be great that can inherit us
+	So much as of a thought of ill in him.
+<SPEECH 6><ACT 1><SCENE 1><4%>
+	How high a pitch his resolution soars!
+	Thomas of Norfolk, what sayst thou to this?
+<SPEECH 7><ACT 1><SCENE 1><4%>
+	Mowbray, impartial are our eyes and ears:
+	Were he my brother, nay, my kingdom's heir,—
+	As he is but my father's brother's son,—
+	Now, by my sceptre's awe I make a vow,
+	Such neighbour nearness to our sacred blood
+	Should nothing privilege him, nor partialize
+	The unstooping firmness of my upright soul.
+	He is our subject, Mowbray; so art thou:
+	Free speech and fearless I to thee allow.
+<SPEECH 8><ACT 1><SCENE 1><5%>
+	Wrath-kindled gentlemen, be rul'd by me;
+	Let's purge this choler without letting blood:
+	This we prescribe, though no physician;
+	Deep malice makes too deep incision:
+	Forget, forgive; conclude and be agreed,
+	Our doctors say this is no month to bleed.
+	Good uncle, let this end where it begun;
+	We'll calm the Duke of Norfolk, you your son.
+<SPEECH 9><ACT 1><SCENE 1><6%>
+	And, Norfolk, throw down his.
+<SPEECH 10><ACT 1><SCENE 1><6%>
+	Norfolk, throw down, we bid; there is no boot.
+<SPEECH 11><ACT 1><SCENE 1><6%>
+	Rage must be withstood:
+	Give me his gage: lions make leopards tame.
+<SPEECH 12><ACT 1><SCENE 1><7%>
+	Cousin, throw down your gage: do you begin.
+<SPEECH 13><ACT 1><SCENE 1><7%>
+	We were not born to sue, but to command:
+	Which since we cannot do to make you friends,
+	Be ready, as your lives shall answer it,
+	At Coventry, upon Saint Lambert's day:
+	There shall your swords and lances arbitrate
+	The swelling difference of your settled hate:
+	Since we cannot atone you, we shall see
+	Justice design the victor's chivalry.
+	Marshal, command our officers-at-arms
+	Be ready to direct these home alarms.
+<SPEECH 14><ACT 1><SCENE 3><11%>
+	Marshal, demand of yonder champion
+	The cause of his arrival here in arms:
+	Ask him his name, and orderly proceed
+	To swear him in the justice of his cause.
+<SPEECH 15><ACT 1><SCENE 3><11%>
+	Marshal, ask yonder knight in arms,
+	Both who he is and why he cometh hither
+	Thus plated in habiliments of war;
+	And formally, according to our law,
+	Depose him in the justice of his cause.
+<SPEECH 16><ACT 1><SCENE 3><12%>
+	</STAGE DIR> We will descend and fold him in our arms.
+	Cousin of Hereford, as thy cause is right,
+	So be thy fortune in this royal fight!
+	Farewell, my blood; which if to-day thou shed,
+	Lament we may, but not revenge thee dead.
+<SPEECH 17><ACT 1><SCENE 3><14%>
+	Farewell, my lord: securely I espy
+	Virtue with valour couched in thine eye.
+	Order the trial, marshal, and begin.
+<SPEECH 18><ACT 1><SCENE 3><15%>
+	Let them lay by their helmets and their spears,
+	And both return back to their chairs again:
+	Withdraw with us; and let the trumpets sound
+	While we return these dukes what we decree.
+	</STAGE DIR> Draw near,
+	And list what with our council we have done.
+	For that our kingdom's earth should not be soil'd
+	With that dear blood which it hath fostered;
+	And for our eyes do hate the dire aspect
+	Of civil wounds plough'd up with neighbours' swords;
+	And for we think the eagle-winged pride
+	Of sky-aspiring and ambitious thoughts,
+	With rival-hating envy, set on you
+	To wake our peace, which in our country's cradle
+	Draws the sweet infant breath of gentle sleep;
+	Which so rous'd up with boist'rous untun'd drums,
+	With harsh-resounding trumpets' dreadful bray,
+	And grating shock of wrathful iron arms,
+	Might from our quiet confines fright fair peace
+	And make us wade even in our kindred's blood:
+	Therefore, we banish you our territories:
+	You, cousin Hereford, upon pain of life,
+	Till twice five summers have enrich'd our fields,
+	Shall not regreet our fair dominions,
+	But tread the stranger paths of banishment.
+<SPEECH 19><ACT 1><SCENE 3><16%>
+	Norfolk, for thee remains a heavier doom,
+	Which I with some unwillingness pronounce:
+	The sly slow hours shall not determinate
+	The dateless limit of thy dear exile;
+	The hopeless word of 'never to return'
+	Breathe I against thee, upon pain of life.
+<SPEECH 20><ACT 1><SCENE 3><16%>
+	It boots thee not to be compassionate:
+	After our sentence plaining comes too late.
+<SPEECH 21><ACT 1><SCENE 3><17%>
+	Return again, and take an oath with thee.
+	Lay on our royal sword your banish'd hands;
+	Swear by the duty that you owe to God—
+	Our part therein we banish with yourselves—
+	To keep the oath that we administer.
+	You never shall,—so help you truth and God!—
+	Embrace each other's love in banishment;
+	Nor never look upon each other's face;
+	Nor never write, regreet, nor reconcile
+	This low'ring tempest of your home-bred hate;
+	Nor never by advised purpose meet
+	To plot, contrive, or complot any ill
+	'Gainst us, our state, our subjects, or our land.
+<SPEECH 22><ACT 1><SCENE 3><18%>
+	Uncle, even in the glasses of thine eyes
+	I see thy grieved heart: thy sad aspect
+	Hath from the number of his banish'd years
+	Pluck'd four away.—<STAGE DIR>
+	</STAGE DIR> Six frozen winters spent,
+	Return with welcome home from banishment.
+<SPEECH 23><ACT 1><SCENE 3><18%>
+	Why, uncle, thou hast many years to live.
+<SPEECH 24><ACT 1><SCENE 3><18%>
+	Thy son is banish'd upon good advice,
+	Whereto thy tongue a party-verdict gave:
+	Why at our justice seem'st thou then to lower?
+<SPEECH 25><ACT 1><SCENE 3><19%>
+	Cousin, farewell; and, uncle, bid him so:
+	Six years we banish him, and he shall go.
+<SPEECH 26><ACT 1><SCENE 4><21%>
+	We did observe. Cousin Aumerle,
+	How far brought you high Hereford on his way?
+<SPEECH 27><ACT 1><SCENE 4><21%>
+	And say, what store of parting tears were shed?
+<SPEECH 28><ACT 1><SCENE 4><22%>
+	What said our cousin when you parted with him?
+<SPEECH 29><ACT 1><SCENE 4><22%>
+	He is our cousin, cousin; but 'tis doubt,
+	When time shall call him home from banishment,
+	Whether our kinsman come to see his friends.
+	Ourself and Bushy, Bagot here and Green
+	Observ'd his courtship to the common people,
+	How he did seem to dive into their hearts
+	With humble and familiar courtesy,
+	What reverence he did throw away on slaves,
+	Wooing poor craftsmen with the craft of smiles
+	And patient underbearing of his fortune,
+	As 'twere to banish their affects with him.
+	Off goes his bonnet to an oyster-wench;
+	A brace of draymen bid God speed him well,
+	And had the tribute of his supple knee,
+	With 'Thanks, my countrymen, my loving friends;'
+	As were our England in reversion his,
+	And he our subjects' next degree in hope.
+<SPEECH 30><ACT 1><SCENE 4><23%>
+	We will ourself in person to this war.
+	And, for our coffers with too great a court
+	And liberal largess are grown somewhat light,
+	We are enforc'd to farm our royal realm;
+	The revenue whereof shall furnish us
+	For our affairs in hand. If that come short,
+	Our substitutes at home shall have blank charters;
+	Whereto, when they shall know what men are rich,
+	They shall subscribe them for large sums of gold,
+	And send them after to supply our wants;
+	For we will make for Ireland presently.
+	Bushy, what news?
+<SPEECH 31><ACT 1><SCENE 4><23%>
+	Where lies he?
+<SPEECH 32><ACT 1><SCENE 4><23%>
+	Now, put it, God. in his physician's mind
+	To help him to his grave immediately!
+	The lining of his coffers shall make coats
+	To deck our soldiers for these Irish wars.
+	Come, gentlemen, let's all go visit him:
+	Pray God we may make haste, and come too late.
+<SPEECH 33><ACT 2><SCENE 1><26%>
+	What comfort, man? How is't with aged Gaunt?
+<SPEECH 34><ACT 2><SCENE 1><26%>
+	Can sick men play so nicely with their names?
+<SPEECH 35><ACT 2><SCENE 1><27%>
+	Should dying men flatter with those that live?
+<SPEECH 36><ACT 2><SCENE 1><27%>
+	Thou, now a-dying, sayst thou flatter'st me.
+<SPEECH 37><ACT 2><SCENE 1><27%>
+	I am in health, I breathe, and see thee ill.
+<SPEECH 38><ACT 2><SCENE 1><27%>
+	And thou a lunatic lean-witted fool,
+	Presuming on an ague's privilege,
+	Dar'st with thy frozen admonition
+	Make pale our cheek, chasing the royal blood
+	With fury from his native residence.
+	Now, by my seat's right royal majesty,
+	Wert thou not brother to great Edward's son,—
+	This tongue that runs so roundly in thy head
+	Should run thy head from thy unreverent shoulders.
+<SPEECH 39><ACT 2><SCENE 1><28%>
+	And let them die that age and sullens have;
+	For both hast thou, and both become the grave.
+<SPEECH 40><ACT 2><SCENE 1><29%>
+	Right, you say true: as Hereford's love, so his;
+	As theirs, so mine; and all be as it is.
+<SPEECH 41><ACT 2><SCENE 1><29%>
+	What says he?
+<SPEECH 42><ACT 2><SCENE 1><29%>
+	The ripest fruit first falls, and so doth he:
+	His time is spent; our pilgrimage must be.
+	So much for that. Now for our Irish wars.
+	We must supplant those rough rug-headed kerns,
+	Which live like venom where no venom else
+	But only they have privilege to live.
+	And for these great affairs do ask some charge,
+	Towards our assistance we do seize to us
+	The plate, coin, revenues, and moveables,
+	Whereof our uncle Gaunt did stand possess'd.
+<SPEECH 43><ACT 2><SCENE 1><30%>
+	Why, uncle, what's the matter?
+<SPEECH 44><ACT 2><SCENE 1><31%>
+	Think what you will: we seize into our hands
+	His plate, his goods, his money, and his lands.
+<SPEECH 45><ACT 2><SCENE 1><31%>
+	Go, Bushy, to the Earl of Wiltshire straight:
+	Bid him repair to us to Ely House
+	To see this business. To-morrow next
+	We will for Ireland; and 'tis time, I trow:
+	And we create, in absence of ourself,
+	Our uncle York lord governor of England;
+	For he is just, and always lov'd us well.
+	Come on, our queen: to-morrow must we part;
+	Be merry, for our time of stay is short.
+<SPEECH 46><ACT 3><SCENE 2><48%>
+	Barkloughly Castle call they this at hand?
+<SPEECH 47><ACT 3><SCENE 2><48%>
+	Needs must I like it well: I weep for joy
+	To stand upon my kingdom once again.
+	Dear earth, I do salute thee with my hand,
+	Though rebels wound thee with their horses' hoofs:
+	As a long-parted mother with her child
+	Plays fondly with her tears and smiles in meeting,
+	So, weeping, smiling, greet I thee, my earth,
+	And do thee favour with my royal hands.
+	Feed not thy sovereign's foe, my gentle earth,
+	Nor with thy sweets comfort his revenous sense;
+	But let thy spiders, that suck up thy venom,
+	And heavy-gaited toads lie in their way,
+	Doing annoyance to the treacherous feet
+	Which with usurping steps do trample thee.
+	Yield stinging nettles to mine enemies;
+	And when they from thy bosom pluck a flower,
+	Guard it, I pray thee, with a lurking adder
+	Whose double tongue may with a mortal touch
+	Throw death upon thy sovereign's enemies.
+	Mock not my senseless conjuration, lords:
+	This earth shall have a feeling and these stones
+	Prove armed soldiers, ere her native king
+	Shall falter under foul rebellion's arms.
+<SPEECH 48><ACT 3><SCENE 2><49%>
+	Discomfortable cousin! know'st thou not
+	That when the searching eye of heaven is hid
+	Behind the globe, and lights the lower world,
+	Then thieves and robbers range abroad unseen,
+	In murders and in outrage bloody here;
+	But when, from under this terrestrial ball
+	He fires the proud tops of the eastern pines
+	And darts his light through every guilty hole,
+	Then murders, treasons, and detested sins,
+	The cloak of night being pluck'd from off their backs,
+	Stand bare and naked, trembling at themselves?
+	So when this thief, this traitor, Bolingbroke,
+	Who all this while hath revell'd in the night
+	Whilst we were wandering with the antipodes,
+	Shall see us rising in our throne, the east,
+	His treasons will sit blushing in his face,
+	Not able to endure the sight of day,
+	But self-affrighted tremble at his sin.
+	Not all the water in the rough rude sea
+	Can wash the balm from an anointed king;
+	The breath of worldly men cannot depose
+	The deputy elected by the Lord.
+	For every man that Bolingbroke hath press'd
+	To lift shrewd steel against our golden crown,
+	God for his Richard hath in heavenly pay
+	A glorious angel: then, if angels fight,
+	Weak men must fall, for heaven still guards the right.
+	Welcome, my lord: how far off lies your power?
+<SPEECH 49><ACT 3><SCENE 2><51%>
+	But now, the blood of twenty thousand men
+	Did triumph in my face, and they are fled;
+	And till so much blood thither come again
+	Have I not reason to look pale and dead?
+	All souls that will be safe, fly from my side;
+	For time hath set a blot upon my pride.
+<SPEECH 50><ACT 3><SCENE 2><51%>
+	I had forgot myself. Am I not king?
+	Awake, thou sluggard majesty! thou sleepest.
+	Is not the king's name twenty thousand names?
+	Arm, arm, my name! a puny subject strikes
+	At thy great glory. Look not to the ground,
+	Ye favourites of a king: are we not high?
+	High be our thoughts: I know my uncle York
+	Hath power enough to serve our turn. But who comes here?
+<SPEECH 51><ACT 3><SCENE 2><51%>
+	Mine ear is open and my heart prepar'd:
+	The worst is worldly loss thou canst unfold.
+	Say, is my kingdom lost? why, 'twas my care;
+	And what loss is it to be rid of care?
+	Strives Bolingbroke to be as great as we?
+	Greater he shall not be: if he serve God
+	We'll serve him too, and be his fellow so:
+	Revolt our subjects? that we cannot mend;
+	They break their faith to God as well as us:
+	Cry woe, destruction, ruin, loss, decay;
+	The worst is death, and death will have his day.
+<SPEECH 52><ACT 3><SCENE 2><52%>
+	Too well, too well thou tell'st a tale so ill.
+	Where is the Earl of Wiltshire? where is Bagot?
+	What is become of Bushy? where is Green?
+	That they have let the dangerous enemy
+	Measure our confines with such peaceful steps?
+	If we prevail, their heads shall pay for it.
+	I warrant they have made peace with Bolingbroke.
+<SPEECH 53><ACT 3><SCENE 2><53%>
+	O villains, vipers, damn'd without redemption!
+	Dogs, easily won to fawn on any man!
+	Snakes, in my heart-blood warm'd, that sting my heart!
+	Three Judases, each one thrice worse than Judas!
+	Would they make peace? terrible hell make war
+	Upon their spotted souls for this offence!
+<SPEECH 54><ACT 3><SCENE 2><53%>
+	No matter where. Of comfort no man speak:
+	Let's talk of graves, of worms, and epitaphs;
+	Make dust our paper, and with rainy eyes
+	Write sorrow on the bosom of the earth;
+	Let's choose executors and talk of wills:
+	And yet not so—for what can we bequeath
+	Save our deposed bodies to the ground?
+	Our lands, our lives, and all are Bolingbroke's,
+	And nothing can we call our own but death,
+	And that small model of the barren earth
+	Which serves as paste and cover to our bones.
+	For God's sake, let us sit upon the ground
+	And tell sad stories of the death of kings:
+	How some have been depos'd, some slain in war,
+	Some haunted by the ghosts they have depos'd,
+	Some poison'd by their wives, some sleeping kill'd;
+	All murder'd: for within the hollow crown
+	That rounds the mortal temples of a king
+	Keeps Death his court, and there the antick sits,
+	Scoffing his state and grinning at his pomp;
+	Allowing him a breath, a little scene,
+	To monarchize, be fear'd, and kill with looks,
+	Infusing him with self and vain conceit
+	As if this flesh which walls about our life
+	Were brass impregnable; and humour'd thus
+	Comes at the last, and with a little pin
+	Bores through his castle wall, and farewell king!
+	Cover your heads, and mock not flesh and blood
+	With solemn reverence: throw away respect,
+	Tradition, form, and ceremonious duty,
+	For you have but mistook me all this while:
+	I live with bread like you, feel want,
+	Taste grief, need friends: subjected thus,
+	How can you say to me I am a king?
+<SPEECH 55><ACT 3><SCENE 2><55%>
+	Thou chid'st me well. Proud Boling broke, I come
+	To change blows with thee for our day of doom.
+	This ague-fit of fear is over-blown;
+	An easy task it is, to win our own.—
+	Say, Scroop, where lies our uncle with his power?
+	Speak sweetly, man, although thy looks be sour.
+<SPEECH 56><ACT 3><SCENE 2><55%>
+	Thou hast said enough.
+	</STAGE DIR> Beshrew thee, cousin, which didst lead me forth
+	Of that sweet way I was in to despair!
+	What say you now? What comfort have we now?
+	By heaven, I'll hate him everlastingly
+	That bids me be of comfort any more.
+	Go to Flint Castle: there I'll pine away;
+	A king, woe's slave, shall kingly woe obey.
+	That power I have, discharge; and let them go
+	To ear the land that hath some hope to grow,
+	For I have none: let no man speak again
+	To alter this, for counsel is but vain.
+<SPEECH 57><ACT 3><SCENE 2><56%>
+	He does me double wrong,
+	That wounds me with the flatteries of his tongue.
+	Discharge my followers: let them hence away,
+	From Richard's night to Bolingbroke's fair day.
+<SPEECH 58><ACT 3><SCENE 3><58%>
+	</STAGE DIR> We are amaz'd; and thus long have we stood
+	To watch the fearful bending of thy knee,
+	Because we thought ourself thy lawful king:
+	And if we be, how dare thy joints forget
+	To pay their awful duty to our presence?
+	If we be not, show us the hand of God
+	That hath dismiss'd us from our stewardship;
+	For well we know, no hand of blood and bone
+	Can gripe the sacred handle of our sceptre,
+	Unless he do profane, steal, or usurp.
+	And though you think that all, as you have done,
+	Have torn their souls by turning them from us,
+	And we are barren and bereft of friends;
+	Yet know, my master, God omnipotent,
+	Is mustering in his clouds on our behalf
+	Armies of pestilence; and they shall strike
+	Your children yet unborn and unbegot,
+	That lift your vassal hands against my head
+	And threat the glory of my precious crown.
+	Tell Bolingbroke,—for yond methinks he is,—
+	That every stride he makes upon my land
+	Is dangerous treason: he is come to open
+	The purple testament of bleeding war;
+	But ere the crown he looks for live in peace,
+	Ten thousand bloody crowns of mothers' sons
+	Shall ill become the flower of England's face,
+	Change the complexion of her maid-pale peace
+	To scarlet indignation, and bedew
+	Her pastures' grass with faithful English blood.
+<SPEECH 59><ACT 3><SCENE 3><60%>
+	Northumberland, say, thus the king returns:
+	His noble cousin is right welcome hither;
+	And all the number of his fair demands
+	Shall be accomplish'd without contradiction:
+	With all the gracious utterance thou hast
+	Speak to his gentle hearing kind commends.
+	</STAGE DIR> We do debase ourself, cousin, do we not,
+	To look so poorly and to speak so fair?
+	Shall we call back Northumberland and send
+	Defiance to the traitor, and so die?
+<SPEECH 60><ACT 3><SCENE 3><60%>
+	O God! O God! that e'er this tongue of mine,
+	That laid the sentence of dread banishment
+	On yond proud man, should take it off again
+	With words of sooth. O! that I were as great
+	As is my grief, or lesser than my name,
+	Or that I could forget what I have been,
+	Or not remember what I must be now.
+	Swell'st thou, proud heart? I'll give thee scope to beat,
+	Since foes have scope to beat both thee and me.
+<SPEECH 61><ACT 3><SCENE 3><61%>
+	What must the king do now? Must he submit?
+	The king shall do it: must he be depos'd?
+	The king shall be contented: must he lose
+	The name of king? o' God's name, let it go:
+	I'll give my jewels for a set of beads,
+	My gorgeous palace for a hermitage,
+	My gay apparel for an almsman's gown,
+	My figur'd goblets for a dish of wood,
+	My sceptre for a palmer's walking-staff,
+	My subjects for a pair of carved saints,
+	And my large kingdom for a little grave,
+	A little little grave, an obscure grave;
+	Or I'll be buried in the king's highway,
+	Some way of common trade, where subjects' feet
+	May hourly trample on their sovereign's head;
+	For on my heart they tread now whilst I live;
+	And buried once, why not upon my head?
+	Aumerle, thou weep'st, my tender-hearted cousin!
+	We'll make foul weather with despised tears;
+	Our sighs and they shall lodge the summer corn,
+	And make a dearth in this revolting land.
+	Or shall we play the wantons with our woes,
+	And make some pretty match with shedding tears?
+	As thus; to drop them still upon one place,
+	Till they have fretted us a pair of graves
+	Within the earth; and, there inlaid: 'There lies
+	Two kinsmen digg'd their graves with weeping eyes.'
+	Would not this ill do well? Well, well, I see
+	I talk but idly and you laugh at me.
+	Most mighty prince, my Lord Northumberland,
+	What says King Bolingbroke? will his majesty
+	Give Richard leave to live till Richard die?
+	You make a leg, and Bolingbroke says ay.
+<SPEECH 62><ACT 3><SCENE 3><62%>
+	Down, down, I come; like glistering Phaethon,
+	Wanting the manage of unruly jades.
+	In the base court? Base court, where kings grow base,
+	To come at traitors' calls and do them grace.
+	In the base court? Come down? Down, court! down, king!
+	For night-owls shriek where mounting larks should sing.
+<SPEECH 63><ACT 3><SCENE 3><62%>
+	Fair cousin, you debase your princely knee
+	To make the base earth proud with kissing it:
+	Me rather had my heart might feel your love
+	Than my unpleas'd eye see your courtesy.
+	Up, cousin, up; your heart is up, I know,
+	Thus high at least, although your knee be low.
+<SPEECH 64><ACT 3><SCENE 3><63%>
+	Your own is yours, and I am yours, and all.
+<SPEECH 65><ACT 3><SCENE 3><63%>
+	Well you deserve: they well deserve to have
+	That know the strong'st and surest way to get.
+	Uncle, give me your hand: nay, dry your eyes;
+	Tears show their love, but want their remedies.
+	Cousin, I am too young to be your father,
+	Though you are old enough to be my heir.
+	What you will have I'll give, and willing too;
+	For do we must what force will have us do.
+	Set on towards London. Cousin, is it so?
+<SPEECH 66><ACT 3><SCENE 3><63%>
+	Then I must not say no.
+<SPEECH 67><ACT 4><SCENE 1><73%>
+	Alack! why am I sent for to a king
+	Before I have shook off the regal thoughts
+	Wherewith I reign'd? I hardly yet have learn'd
+	To insinuate, flatter, bow, and bend my limbs:
+	Give sorrow leave awhile to tutor me
+	To this submission. Yet I well remember
+	The favours of these men: were they not mine?
+	Did they not sometime cry, 'All haill' to me?
+	So Judas did to Christ: but he, in twelve,
+	Found truth in all but one; I, in twelve thousand, none.
+	God save the king! Will no man say, amen?
+	Am I both priest and clerk? well then, amen.
+	God save the king! although I be not he;
+	And yet, amen, if heaven do think him me.
+	To do what service am I sent for hither?
+<SPEECH 68><ACT 4><SCENE 1><74%>
+	Give me the crown. Here, cousin, seize the crown;
+	Here cousin,
+	On this side my hand and on that side thine.
+	Now is this golden crown like a deep well
+	That owes two buckets filling one another;
+	The emptier ever dancing in the air,
+	The other down, unseen and full of water:
+	That bucket down and full of tears am I,
+	Drinking my griefs, whilst you mount up on high.
+<SPEECH 69><ACT 4><SCENE 1><74%>
+	My crown, I am; but still my griefs are mine.
+	You may my glories and my state depose,
+	But not my griefs; still am I king of those.
+<SPEECH 70><ACT 4><SCENE 1><74%>
+	Your cares set up do not pluck my cares down.
+	My care is loss of care, by old care done;
+	Your care is gain of care, by new care won.
+	The cares I give I have, though given away;
+	They tend the crown, yet still with me they stay.
+<SPEECH 71><ACT 4><SCENE 1><74%>
+	Ay, no; no, ay; for I must nothing be;
+	Therefore no no, for I resign to thee.
+	Now mark me how I will undo myself:
+	I give this heavy weight from off my head,
+	And this unwieldy sceptre from my hand,
+	The pride of kingly sway from out my heart;
+	With mine own tears I wash away my balm,
+	With mine own hands I give away my crown,
+	With mine own tongue deny my sacred state,
+	With mine own breath release all duteous rites:
+	All pomp and majesty I do forswear;
+	My manors, rents, revenues, I forego;
+	My acts, decrees, and statutes I deny:
+	God pardon all oaths that are broke to me!
+	God keep all vows unbroke are made to thee!
+	Make me, that nothing have, with nothing griev'd,
+	And thou with all pleas'd, that hast all achiev'd!
+	Long mayst thou live in Richard's seat to sit,
+	And soon lie Richard in an earthy pit!
+	God save King Henry, unking'd Richard says,
+	And send him many years of sunshine days!
+	What more remains?
+<SPEECH 72><ACT 4><SCENE 1><75%>
+	Must I do so? and must I ravel out
+	My weav'd-up follies? Gentle Northumberland,
+	If thy offences were upon record,
+	Would it not shame thee in so fair a troop
+	To read a lecture of them? If thou wouldst,
+	There shouldst thou find one heinous article,
+	Containing the deposing of a king,
+	And cracking the strong warrant of an oath,
+	Mark'd with a blot, damn'd in the book of heaven.
+	Nay, all of you that stand and look upon me,
+	Whilst that my wretchedness doth bait myself,
+	Though some of you with Pilate wash your hands,
+	Showing an outward pity; yet you Pilates
+	Have here deliver'd me to my sour cross,
+	And water cannot wash away your sin.
+<SPEECH 73><ACT 4><SCENE 1><76%>
+	Mine eyes are full of tears, I cannot see:
+	And yet salt water blinds them not so much
+	But they can see a sort of traitors here.
+	Nay, if I turn mine eyes upon myself,
+	I find myself a traitor with the rest;
+	For I have given here my soul's consent
+	To undeck the pompous body of a king;
+	Made glory base and sovereignty a slave,
+	Proud majesty a subject, state a peasant,
+<SPEECH 74><ACT 4><SCENE 1><76%>
+	No lord of thine, thou haught insulting man,
+	Nor no man's lord; I have no name, no title,
+	No, not that name was given me at the font,
+	But 'tis usurp'd: alack the heavy day!
+	That I have worn so many winters out,
+	And know not now what name to call myself.
+	O! that I were a mockery king of snow,
+	Standing before the sun of Bolingbroke,
+	To melt myself away in water-drops.
+	Good king, great king,—and yet not greatly good,
+	An if my word be sterling yet in England,
+	Let it command a mirror hither straight,
+	That it may show me what a face I have,
+	Since it is bankrupt of his majesty.
+<SPEECH 75><ACT 4><SCENE 1><77%>
+	Fiend! thou torment'st me ere I come to hell.
+<SPEECH 76><ACT 4><SCENE 1><77%>
+	They shall be satisfied: I'll read enough
+	When I do see the very book indeed
+	Where all my sins are writ, and that's myself.
+	Give me the glass, and therein will I read.
+	No deeper wrinkles yet? Hath sorrow struck
+	So many blows upon this face of mine
+	And made no deeper wounds? O, flattering glass!
+	Like to my followers in prosperity,
+	Thou dost beguile me. Was this face the face
+	That every day under his household roof
+	Did keep ten thousand men? Was this the face
+	That like the sun did make beholders wink?
+	Was this the face that fac'd so many follies,
+	And was at last out-fac'd by Bolingbroke?
+	A brittle glory shineth in this face:
+	As brittle as the glory is the face;
+	For there it is, crack'd in a hundred shivers.
+	Mark, silent king, the moral of this sport,
+	How soon my sorrow hath destroy'd my face.
+<SPEECH 77><ACT 4><SCENE 1><78%>
+	Say that again.
+	The shadow of my sorrow! Ha! let's see:
+	'Tis very true, my grief lies all within;
+	And these external manners of laments
+	Are merely shadows to the unseen grief
+	That swells with silence in the tortur'd soul;
+	There lies the substance: and I thank thee, king,
+	For thy great bounty, that not only giv'st
+	Me cause to wail, but teachest me the way
+	How to lament the cause. I'll beg one boon,
+	And then be gone and trouble you no more.
+	Shall I obtain it?
+<SPEECH 78><ACT 4><SCENE 1><78%>
+	'Fair cousin!' I am greater than a king;
+	For when I was a king, my flatterers
+	Were then but subjects; being now a subject,
+	I have a king here to my flatterer.
+	Being so great, I have no need to beg.
+<SPEECH 79><ACT 4><SCENE 1><78%>
+	And shall I have?
+<SPEECH 80><ACT 4><SCENE 1><78%>
+	Then give me leave to go.
+<SPEECH 81><ACT 4><SCENE 1><78%>
+	Whither you will, so I were from your sights.
+<SPEECH 82><ACT 4><SCENE 1><78%>
+	O, good! convey? conveyers are you all,
+	That rise thus nimbly by a true king's fall.
+<SPEECH 83><ACT 5><SCENE 1><80%>
+	Join not with grief, fair woman, do not so,
+	To make my end too sudden: learn, good soul,
+	To think our former state a happy dream;
+	From which awak'd, the truth of what we are
+	Shows us but this. I am sworn brother, sweet,
+	To grim Necessity, and he and I
+	Will keep a league till death. Hie thee to France,
+	And cloister thee in some religious house:
+	Our holy lives must win a new world's crown,
+	Which our profane hours here have stricken down.
+<SPEECH 84><ACT 5><SCENE 1><80%>
+	A king of beasts indeed; if aught but beasts,
+	I had been still a happy king of men.
+	Good sometime queen, prepare thee hence for France,
+	Think I am dead, and that even here thou tak'st,
+	As from my death-bed, my last living leave.
+	In winter's tedious nights sit by the fire
+	With good old folks, and let them tell thee tales
+	Of woeful ages, long ago betid;
+	And ere thou bid good night, to quit their grief,
+	Tell thou the lamentable tale of me,
+	And send the hearers weeping to their beds:
+	For why the senseless brands will sympathize
+	The heavy accent of thy moving tongue,
+	And in compassion weep the fire out;
+	And some will mourn in ashes, some coal-black,
+	For the deposing of a rightful king.
+<SPEECH 85><ACT 5><SCENE 1><81%>
+	Northumberland, thou ladder wherewithal
+	The mounting Bolingbroke ascends my throne,
+	The time shall not be many hours of age
+	More than it is, ere foul sin gathering head
+	Shall break into corruption. Thou shalt think,
+	Though he divide the realm and give thee half,
+	It is too little, helping him to all;
+	And he shall think that thou, which know'st the way
+	To plant unrightful kings, wilt know again,
+	Being ne'er so little urg'd, another way
+	To pluck him headlong from the usurped throne.
+	The love of wicked friends converts to fear;
+	That fear to hate, and hate turns one or both
+	To worthy danger and deserved death.
+<SPEECH 86><ACT 5><SCENE 1><82%>
+	Doubly divorc'd! Bad men, ye violate
+	A two-fold marriage; 'twixt my crown and me,
+	And then, betwixt me and my married wife.
+	Let me unkiss the oath 'twixt thee and me;
+	And yet not so, for with a kiss 'twas made.
+	Part us, Northumberland: I towards the north,
+	Where shivering cold and sickness pines the clime;
+	My wife to France: from whence, set forth in pomp,
+	She came adorned hither like sweet May,
+	Sent back like Hallowmas or short'st of day.
+<SPEECH 87><ACT 5><SCENE 1><82%>
+	Ay, hand from hand, my love, and heart from heart.
+<SPEECH 88><ACT 5><SCENE 1><82%>
+	So two, together weeping, make one woe.
+	Weep thou for me in France, I for thee here;
+	Better far off, than near, be ne'er the near.
+	Go, count thy way with sighs, I mine with groans.
+<SPEECH 89><ACT 5><SCENE 1><82%>
+	Twice for one step I'll groan, the way being short,
+	And piece the way out with a heavy heart.
+	Come, come, in wooing sorrow let's be brief,
+	Since, wedding it, thero is such length in grief.
+	One kiss shall stop our mouths, and dumbly part;
+	Thus give I mine, and thus take I thy heart.
+<SPEECH 90><ACT 5><SCENE 1><83%>
+	We make woe wanton with this fond delay:
+	Once more, adieu; the rest let sorrow say.
+<SPEECH 91><ACT 5><SCENE 5><94%>
+	I have been studying how I may compare
+	This prison where I live unto the world:
+	And for because the world is populous,
+	And here is not a creature but myself,
+	I cannot do it; yet I'll hammer it out.
+	My brain I'll prove the female to my soul;
+	My soul the father: and these two beget
+	A generation of still-breeding thoughts,
+	And these same thoughts people this little world
+	In humours like the people of this world,
+	For no thought is contented. The better sort,
+	As thoughts of things divine, are intermix'd
+	With scruples, and do set the word itself
+	Against the word:
+	As thus, 'Come, little ones;' and then again,
+	'It is as hard to come as for a camel
+	To thread the postern of a needle's eye.'
+	Thoughts tending to ambition, they do plot
+	Unlikely wonders; how these vain weak nails
+	May tear a passage through the flinty ribs
+	Of this hard world, my ragged prison walls;
+	And, for they cannot, die in their own pride.
+	Thoughts tending to content flatter themselves
+	That they are not the first of fortune's slaves,
+	Nor shall not be the last; like silly beggars
+	Who sitting in the stocks refuge their shame,
+	That many have and others must sit there:
+	And in this thought they find a kind of ease,
+	Bearing their own misfortune on the back
+	Of such as have before endur'd the like.
+	Thus play I in one person many people,
+	And none contented: sometimes am I king;
+	Then treason makes me wish myself a beggar,
+	And so I am: then crushing penury
+	Persuades me I was better when a king;
+	Then am I king'd again; and by and by
+	Think that I am unking'd by Bolingbroke,
+	And straight am nothing: but whate'er I be,
+	Nor I nor any man that but man is
+	With nothing shall be pleas'd, till he be eas'd
+	With being nothing. Music do I hear?
+	Ha, ha! keep time. How sour sweet music is
+	When time is broke and no proportion kept!
+	So is it in the music of men's lives.
+	And here have I the daintiness of ear
+	To check time broke in a disorder'd string;
+	But for the concord of my state and time
+	Had not an ear to hear my true time broke.
+	I wasted time, and now doth time waste me;
+	For now hath time made me his numbering clock:
+	My thoughts are minutes, and with sighs they jar
+	Their watches on unto mine eyes, the outward watch,
+	Whereto my finger, like a dial's point,
+	Is pointing still, in cleansing them from tears.
+	Now sir, the sound that tells what hour it is
+	Are clamorous groans, that strike upon my heart
+	Which is the bell: so sighs and tears and groans
+	Show minutes, times, and hours; but my time
+	Runs posting on in Bolingbroke's proud joy,
+	While I stand fooling here, his Jack o' the clock.
+	This music mads me: let it sound no more;
+	For though it have holp madmen to their wits,
+	In me it seems it will make wise men mad.
+	Yet blessing on his heart that gives it me!
+	For 'tis a sign of love, and love to Richard
+	Is a strange brooch in this all-hating world.
+<SPEECH 92><ACT 5><SCENE 5><96%>
+	Thanks, noble peer;
+	The cheapest of us is ten groats too dear.
+	What art thou? and how comest thou hither, man,
+	Where no man never comes but that sad dog
+	That brings me food to make misfortune live?
+<SPEECH 93><ACT 5><SCENE 5><96%>
+	Rode he on Barbary? Tell me, gentle friend,
+	How went he under him?
+<SPEECH 94><ACT 5><SCENE 5><96%>
+	So proud that Bolingbroke was on his back!
+	That jade hath eat bread from my royal hand;
+	This hand hath made him proud with clapping him.
+	Would he not stumble? Would he not fall down,—
+	Since pride must have a fall,—and break the neck
+	Of that proud man that did usurp his back?
+	Forgiveness, horse! why do I rail on thee,
+	Since thou, created to be aw'd by man,
+	Wast born to bear? I was not made a horse;
+	And yet I bear a burden like an ass,
+	Spur-gall'd and tir'd by jauncing Bolingbroke.
+<SPEECH 95><ACT 5><SCENE 5><97%>
+	If thou love me, 'tis time thou wert away.
+<SPEECH 96><ACT 5><SCENE 5><97%>
+	Taste of it first, as thou art wont to do.
+<SPEECH 97><ACT 5><SCENE 5><97%>
+	The devil take Henry of Lancaster, and thee!
+	Patience is stale, and I am weary of it.
+<SPEECH 98><ACT 5><SCENE 5><97%>
+	How now! what means death in this rude assault?
+	Villain, thine own hand yields thy death's instrument.
+	Go thou and fill another room in hell.
+	That hand shall burn in never-quenching fire
+	That staggers thus my person. Exton, thy fierce hand
+	Hath with the king's blood stain'd the king's own land.
+	Mount, mount, my soul! thy seat is up on high,
+	Whilst my gross flesh sinks downward, here to die.

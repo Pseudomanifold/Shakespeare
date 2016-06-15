@@ -1,0 +1,115 @@
+<SPEECH 1><ACT 2><SCENE 5><39%>
+	Nay, I'll come: if I lose a scruple of this sport, let me be boiled to death with melancholy.
+<SPEECH 2><ACT 2><SCENE 5><39%>
+	I would exult, man: you know he brought me out o' favour with my lady about a bear-baiting here.
+<SPEECH 3><ACT 2><SCENE 5><40%>
+	O, peace! Contemplation makes a rare turkey-cock of him: how he jets under his advanced plumes!
+<SPEECH 4><ACT 2><SCENE 5><41%>
+	O, peace! now he's deeply in; look how imagination blows him.
+<SPEECH 5><ACT 2><SCENE 5><41%>
+	O, peace! peace!
+<SPEECH 6><ACT 2><SCENE 5><41%>
+	O, peace, peace, peace! now, now.
+<SPEECH 7><ACT 2><SCENE 5><42%>
+	Though our silence be drawn from us with cars, yet peace!
+<SPEECH 8><ACT 2><SCENE 5><42%>
+	Nay, patience, or we break the sinews of our plot.
+<SPEECH 9><ACT 2><SCENE 5><42%>
+	Now is the woodcock near the gin.
+<SPEECH 10><ACT 2><SCENE 5><43%>
+	This wins him, liver and all.
+<SPEECH 11><ACT 2><SCENE 5><43%>
+	A fustian riddle!
+<SPEECH 12><ACT 2><SCENE 5><43%>
+	What dish o' poison has she dressed him!
+<SPEECH 13><ACT 2><SCENE 5><44%>
+	Sowter will cry upon 't, for all this, though it be as rank as a fox.
+<SPEECH 14><ACT 2><SCENE 5><44%>
+	Did not I say he would work it out? the cur is excellent at faults.
+<SPEECH 15><ACT 2><SCENE 5><44%>
+	And O shall end, I hope.
+<SPEECH 16><ACT 2><SCENE 5><44%>
+	Ay, an you had any eye behind you, you might see more detraction at your heels than fortunes before you.
+<SPEECH 17><ACT 2><SCENE 5><46%>
+	I will not give my part of this sport for a pension of thousands to be paid from the Sophy.
+<SPEECH 18><ACT 2><SCENE 5><46%>
+	Here comes my noble gull-catcher.
+<SPEECH 19><ACT 3><SCENE 2><54%>
+	You must needs yield your reason, Sir Andrew.
+<SPEECH 20><ACT 3><SCENE 2><54%>
+	This was a great argument of love in her toward you.
+<SPEECH 21><ACT 3><SCENE 2><54%>
+	I will prove it legitimate, sir, upon the oaths of judgment and reason.
+<SPEECH 22><ACT 3><SCENE 2><54%>
+	She did show favour to the youth in your sight only to exasperate you, to awake your dormouse valour, to put fire in your heart, and brimstone in your liver. You should then have accosted her, and with some excellent jests, firenew from the mint, you should have banged the youth into dumbness. This was looked for at your hand, and this was balked: the double gilt of this opportunity you let time wash off, and you are now sailed into the north of my lady's opinion; where you will hang like an icicle on a Dutchman's beard, unless you do redeem it by some laudable attempt, either of valour or policy.
+<SPEECH 23><ACT 3><SCENE 2><55%>
+	There is no way but this, Sir Andrew.
+<SPEECH 24><ACT 3><SCENE 2><56%>
+	This is a dear manakin to you, Sir Toby.
+<SPEECH 25><ACT 3><SCENE 2><56%>
+	We shall have a rare letter from him; but you'll not deliver it.
+<SPEECH 26><ACT 3><SCENE 2><56%>
+	And his opposite, the youth, bears in his visage no great presage of cruelty.
+<SPEECH 27><ACT 3><SCENE 4><62%>
+	Here he is, here he is. How is't with you, sir? how is't with you, man?
+<SPEECH 28><ACT 3><SCENE 4><63%>
+	Carry his water to the wise-woman.
+<SPEECH 29><ACT 3><SCENE 4><63%>
+	No way but gentleness; gently, gently: the fiend is rough, and will not be roughly used.
+<SPEECH 30><ACT 3><SCENE 4><64%>
+	If this were played upon a stage now, I could condemn it as an improbable fiction.
+<SPEECH 31><ACT 3><SCENE 4><64%>
+	Why, we shall make him mad indeed.
+<SPEECH 32><ACT 3><SCENE 4><64%>
+	More matter for a May morning.
+<SPEECH 33><ACT 3><SCENE 4><64%>
+	Is't so saucy?
+<SPEECH 34><ACT 3><SCENE 4><65%>
+	Good, and valiant.
+<SPEECH 35><ACT 3><SCENE 4><65%>
+	A good note, that keeps you from the blow of the law.
+<SPEECH 36><ACT 3><SCENE 4><65%>
+	Very brief, and to exceeding good sense—less.
+<SPEECH 37><ACT 3><SCENE 4><65%>
+	Good.
+<SPEECH 38><ACT 3><SCENE 4><65%>
+	Still you keep o' the windy side of the law: good.
+<SPEECH 39><ACT 3><SCENE 4><66%>
+	Here he comes with your niece: give them way till he take leave, and presently after him.
+<SPEECH 40><ACT 3><SCENE 4><69%>
+	I know the knight is incensed against you, even to a mortal arbitrement, but nothing of the circumstance more.
+<SPEECH 41><ACT 3><SCENE 4><69%>
+	Nothing of that wonderful promise, to read him by his form, as you are like to find him in the proof of his valour. He is, indeed, sir, the most skilful, bloody, and fatal opposite that you could possibly have found in any part of Illyria. Will you walk towards him? I will make your peace with him if I can.
+<SPEECH 42><ACT 3><SCENE 4><70%>
+	He is as horribly conceited of him; and pants and looks pale, as if a bear were at his heels.
+<SPEECH 43><ACT 3><SCENE 4><71%>
+	Give ground, if you see him furious.
+<SPEECH 44><ACT 3><SCENE 4><72%>
+	O, good sir Toby, hold! here come the officers.
+<SPEECH 45><ACT 3><SCENE 4><74%>
+	A coward, a most devout coward, religious in it.
+<SPEECH 46><ACT 3><SCENE 4><75%>
+	Come, let's see the event.
+<SPEECH 47><ACT 5><SCENE 1><84%>
+	Now, as thou lovest me, let me see his letter.
+<SPEECH 48><ACT 5><SCENE 1><84%>
+	Anything.
+<SPEECH 49><ACT 5><SCENE 1><84%>
+	This is, to give a dog, and, in recompense desire my dog again.
+<SPEECH 50><ACT 5><SCENE 1><96%>
+	By the Lord, madam, you wrong me, and the world shall know it: though you have put me into darkness, and given your drunken cousin rule over me, yet have I the benefit of my senses as well as your ladyship. I have your own letter that induced me to the semblance I put on; with the which I doubt not but to do myself much right, or you much shame. Think of me as you please. I leave my duty a little unthought of, and speak out of my injury. THE MADLY-USED MALVOLIO.
+<SPEECH 51><ACT 5><SCENE 1><98%>
+	Good madam, hear me speak,
+	And let no quarrel nor no brawl to come
+	Taint the condition of this present hour,
+	Which I have wonder'd at. In hope it shall not,
+	Most freely I confess, myself and Toby
+	Set this device against Malvolio here,
+	Upon some stubborn and uncourteous parts
+	We had conceiv'd against him. Maria writ
+	The letter at Sir Toby's great importance;
+	In recompense whereof he hath married her.
+	How with a sportful malice it was follow'd,
+	May rather pluck on laughter than revenge,
+	If that the injuries be justly weigh'd
+	That have on both sides past.

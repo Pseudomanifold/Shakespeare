@@ -1,0 +1,74 @@
+<SPEECH 1><ACT 1><SCENE 3><16%>
+	Our present musters grow upon the file
+	To five-and-twenty thousand men of choice;
+	And our supplies live largely in the hope
+	Of great Northumberland, whose bosom burns
+	With an incensed fire of injuries.
+<SPEECH 2><ACT 1><SCENE 3><16%>
+	With him, we may.
+<SPEECH 3><ACT 1><SCENE 3><17%>
+	But, by your leave, it never yet did hurt
+	To lay down likelihoods and forms of hope.
+<SPEECH 4><ACT 1><SCENE 3><17%>
+	Grant that our hopes, yet likely of fair birth,
+	Should be still-born, and that we now possess'd
+	The utmost man of expectation;
+	I think we are a body strong enough,
+	Even as we are, to equal with the king.
+<SPEECH 5><ACT 1><SCENE 3><18%>
+	To us no more; nay, not so much, Lord Bardolph.
+	For his divisions, as the times do brawl,
+	Are in three heads: one power against the French,
+	And one against Glendower; perforce, a third
+	Must take up us: so is the unfirm king
+	In three divided, and his coffers sound
+	With hollow poverty and emptiness.
+<SPEECH 6><ACT 1><SCENE 3><18%>
+	If he should do so,
+	He leaves his back unarm'd, the French and Welsh
+	Baying him at the heels: never fear that.
+<SPEECH 7><ACT 1><SCENE 3><18%>
+	The Duke of Lancaster and Westmoreland;
+	Against the Welsh, himself and Harry Monmouth:
+	But who is substituted 'gainst the French
+	I have no certain notice.
+<SPEECH 8><ACT 1><SCENE 3><19%>
+	We are time's subjects, and time bids be gone.
+<SPEECH 9><ACT 4><SCENE 1><57%>
+	'Tis Gaultree Forest, an't shall please your Grace.
+<SPEECH 10><ACT 4><SCENE 1><57%>
+	We have sent forth already.
+<SPEECH 11><ACT 4><SCENE 1><57%>
+	Now, what news?
+<SPEECH 12><ACT 4><SCENE 1><62%>
+	Hath the Prince John a full commission,
+	In very ample virtue of his father,
+	To hear and absolutely to determine
+	Of what conditions we shall stand upon?
+<SPEECH 13><ACT 4><SCENE 1><62%>
+	Fear you not that: if we can make our peace
+	Upon such large terms, and so absolute
+	As our condition shall consist upon,
+	Our peace shall stand as firm as rocky mountains.
+<SPEECH 14><ACT 4><SCENE 1><63%>
+	Besides, the king hath wasted all his rods
+	On late offenders, that he now doth lack
+	The very instruments of chastisement;
+	So that his power, like to a fangless lion,
+	May offer, but not hold.
+<SPEECH 15><ACT 4><SCENE 2><65%>
+	And though we here fall down,
+	We have supplies to second our attempt:
+	If they miscarry, theirs shall second them;
+	And so success of mischief shall be born,
+	And heir from heir shall hold this quarrel up
+	Whiles England shall have generation.
+<SPEECH 16><ACT 4><SCENE 2><66%>
+	</STAGE DIR> Go, captain, and deliver to the army
+	This news of peace: let them have pay, and part:
+	I know it will well please them: hie thee, captain.
+<SPEECH 17><ACT 4><SCENE 2><67%>
+	My lord, our army is dispers'd already:
+	Like youthful steers unyok'd, they take their courses
+	East, west, north, south; or, like a school broke up,
+	Each hurries toward his home and sporting-place.

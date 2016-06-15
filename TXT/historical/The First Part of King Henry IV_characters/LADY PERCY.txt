@@ -1,0 +1,71 @@
+<SPEECH 1><ACT 2><SCENE 3><28%>
+	O, my good lord! why are you thus alone?
+	For what offence have I this fortnight been
+	A banish'd woman from my Harry's bed?
+	Tell me, sweet lord, what is't that takes from thee
+	Thy stomach, pleasure, and thy golden sleep?
+	Why dost thou bend thine eyes upon the earth,
+	And start so often when thou sitt'st alone?
+	Why hast thou lost the fresh blood in thy cheeks,
+	And given my treasures and my rights of thee
+	To thick-eyed musing and curst melancholy?
+	In thy faint slumbers I by thee have watch'd,
+	And heard thee murmur tales of iron wars,
+	Speak terms of manage to thy bounding steed,
+	Cry, 'Courage! to the field!' And thou hast talk'd
+	Of sallies and retires, of trenches, tents,
+	Of palisadoes, frontiers, parapets,
+	Of basilisks, of cannon, culverin,
+	Of prisoners' ransom, and of soldiers slain,
+	And all the currents of a heady fight.
+	Thy spirit within thee hath been so at war,
+	And thus hath so bestirr'd thee in thy sleep,
+	That beads of sweat have stood upon thy brow,
+	Like bubbles in a late-disturbed stream;
+	And in thy face strange motions have appear'd,
+	Such as we see when men restrain their breath
+	On some great sudden hest. O! what portents are these?
+	Some heavy business hath my lord in hand,
+	And I must know it, else he loves me not.
+<SPEECH 2><ACT 2><SCENE 3><30%>
+	But hear you, my lord.
+<SPEECH 3><ACT 2><SCENE 3><30%>
+	What is it carries you away?
+<SPEECH 4><ACT 2><SCENE 3><30%>
+	Out, you mad-headed ape!
+	A weasel hath not such a deal of spleen
+	As you are toss'd with. In faith,
+	I'll know your business, Harry, that I will.
+	I fear my brother Mortimer doth stir
+	About his title, and hath sent for you
+	To line his enterprise. But if you go—
+<SPEECH 5><ACT 2><SCENE 3><30%>
+	Come, come, you paraquito, answer me
+	Directly unto this question that I ask.
+	In faith, I'll break thy little finger, Harry,
+	An if thou wilt not tell me all things true.
+<SPEECH 6><ACT 2><SCENE 3><30%>
+	Do you not love me? do you not, indeed?
+	Well, do not, then; for since you love me not,
+	I will not love myself. Do you not love me?
+	Nay, tell me if you speak in jest or no.
+<SPEECH 7><ACT 2><SCENE 3><31%>
+	How! so far?
+<SPEECH 8><ACT 2><SCENE 3><31%>
+	It must, of force.
+<SPEECH 9><ACT 3><SCENE 1><56%>
+	Go, ye giddy goose.
+<SPEECH 10><ACT 3><SCENE 1><57%>
+	Then should you be nothing but musical for you are altogether governed by humours. Lie still, ye thief, and hear the lady sing in Welsh.
+<SPEECH 11><ACT 3><SCENE 1><57%>
+	Wouldst thou have thy head broken?
+<SPEECH 12><ACT 3><SCENE 1><57%>
+	Then be still.
+<SPEECH 13><ACT 3><SCENE 1><57%>
+	Now, God help thee!
+<SPEECH 14><ACT 3><SCENE 1><57%>
+	What's that?
+<SPEECH 15><ACT 3><SCENE 1><57%>
+	Not mine, in good sooth.
+<SPEECH 16><ACT 3><SCENE 1><57%>
+	I will not sing.

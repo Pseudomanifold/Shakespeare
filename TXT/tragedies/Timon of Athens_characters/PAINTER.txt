@@ -1,0 +1,79 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	I am glad you're well.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	It wears, sir, as it grows.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	I know them both; th' other's a jeweller.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	You are rapt, sir, in some work, some dedication
+	To the great lord.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	A picture, sir. When comes your book forth?
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	'Tis a good piece.
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	Indifferent.
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	It is a pretty mocking of the life.
+	Here is a touch; is 't good?
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	How this lord is follow'd!
+<SPEECH 10><ACT 1><SCENE 1><2%>
+	Look, more!
+<SPEECH 11><ACT 1><SCENE 1><3%>
+	How shall I understand you?
+<SPEECH 12><ACT 1><SCENE 1><3%>
+	I saw them speak together.
+<SPEECH 13><ACT 1><SCENE 1><4%>
+	'Tis conceiv'd to scope.
+	This throne, this Fortune, and this hill, methinks,
+	With one man beckon'd from the rest below,
+	Bowing his head against the steepy mount
+	To climb his happiness, would be well express'd
+	In our condition.
+<SPEECH 14><ACT 1><SCENE 1><4%>
+	Ay, marry, what of these?
+<SPEECH 15><ACT 1><SCENE 1><4%>
+	'Tis common:
+	A thousand moral paintings I can show
+	That shall demonstrate these quick blows of Fortune's
+	More pregnantly than words. Yet you do well
+	To show Lord Timon that mean eyes have seen
+	The foot above the head.
+<SPEECH 16><ACT 1><SCENE 1><7%>
+	A piece of painting, which I do beseech
+	Your lordship to accept.
+<SPEECH 17><ACT 1><SCENE 1><8%>
+	The gods preserve you!
+<SPEECH 18><ACT 1><SCENE 1><9%>
+	You're a dog.
+<SPEECH 19><ACT 5><SCENE 1><85%>
+	As I took note of the place, it cannot be far where he abides.
+<SPEECH 20><ACT 5><SCENE 1><85%>
+	Certain: Alcibiades reports it; Phrynia and Timandra had gold of him: he likewise enriched poor straggling soldiers with great quantity. 'Tis said he gave unto his steward a mighty sum.
+<SPEECH 21><ACT 5><SCENE 1><86%>
+	Nothing else; you shall see him a palm in Athens again, and flourish with the highest. Therefore 'tis not amiss we tender our loves to him, in this supposed distress of his: it will show honestly in us, and is very likely to load our purposes with what they travel for, if it be a just and true report that goes of his having.
+<SPEECH 22><ACT 5><SCENE 1><86%>
+	Nothing at this time but my visitation; only, I will promise him an excellent piece.
+<SPEECH 23><ACT 5><SCENE 1><86%>
+	Good as the best. Promising is the very air o' the time; it opens the eyes of expectation; performance is ever the duller for his act; and, but in the plainer and simpler kind of people, the deed of saying is quite out of use. To promise is most courtly and fashionable; performance is a kind of will or testament which argues a great sickness in his judgment that makes it.
+<SPEECH 24><ACT 5><SCENE 1><87%>
+	True;
+	When the day serves, before black-corner'd night,
+	Find what thou want'st by free and offer'd light.
+	Come.
+<SPEECH 25><ACT 5><SCENE 1><87%>
+	Our late noble master!
+<SPEECH 26><ACT 5><SCENE 1><88%>
+	He and myself
+	Have travell'd in the great shower of your gifts,
+	And sweetly felt it.
+<SPEECH 27><ACT 5><SCENE 1><88%>
+	We are hither come to offer you our service.
+<SPEECH 28><ACT 5><SCENE 1><88%>
+	So it is said, my noble lord; but therefore
+	Came not my friend nor I.
+<SPEECH 29><ACT 5><SCENE 1><89%>
+	So, so, my lord.
+<SPEECH 30><ACT 5><SCENE 1><89%>
+	I know none such, my lord.

@@ -1,0 +1,33 @@
+<SPEECH 1><ACT 2><SCENE 1><31%>
+	And living too; for now his son is duke.
+<SPEECH 2><ACT 2><SCENE 1><31%>
+	My heart is great; but it must break with silence,
+	Ere't be disburden'd with a liberal tongue.
+<SPEECH 3><ACT 2><SCENE 1><32%>
+	No good at all that I can do for him,
+	Unless you call it good to pity him,
+	Bereft and gelded of his patrimony.
+<SPEECH 4><ACT 2><SCENE 1><32%>
+	The commons hath he pill'd with grievous taxes,
+	And quite lost their hearts: the nobles hath he fin'd
+	For ancient quarrels, and quite lost their hearts.
+<SPEECH 5><ACT 2><SCENE 1><32%>
+	The Earl of Wiltshire hath the realm in farm.
+<SPEECH 6><ACT 2><SCENE 1><33%>
+	He hath not money for these Irish wars,
+	His burdenous taxations notwithstanding,
+	But by the robbing of the banish'd duke.
+<SPEECH 7><ACT 2><SCENE 1><33%>
+	We see the very wrack that we must suffer;
+	And unavoided is the danger now,
+	For suffering so the causes of our wrack.
+<SPEECH 8><ACT 2><SCENE 1><33%>
+	Be confident to speak, Northumberland:
+	We three are but thyself: and, speaking so,
+	Thy words are but as thoughts; therefore, be bold.
+<SPEECH 9><ACT 2><SCENE 1><34%>
+	To horse, to horse! urge doubts to them that fear.
+<SPEECH 10><ACT 2><SCENE 3><42%>
+	Your presence makes us rich, most noble lord.
+<SPEECH 11><ACT 2><SCENE 3><44%>
+	It stands your Grace upon to do him right.

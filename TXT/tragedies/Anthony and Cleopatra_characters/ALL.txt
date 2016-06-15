@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 4><SCENE 4><69%>
+	Good morrow, general.
+<SPEECH 2><ACT 4><SCENE XII.— ><81%>
+	Alas, and woe!
+<SPEECH 3><ACT 4><SCENE XII.— ><82%>
+	Most heavy day!
+<SPEECH 4><ACT 4><SCENE XIII.— ><84%>
+	A heavy sight!

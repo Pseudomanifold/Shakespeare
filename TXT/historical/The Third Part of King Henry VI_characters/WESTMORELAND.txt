@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	What! shall we suffer this? let's pluck him down:
+	My heart for anger burns; I cannot brook it.
+<SPEECH 2><ACT 1><SCENE 1><4%>
+	He is both king and Duke of Lancaster;
+	And that the Lord of Westmoreland shall maintain.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	Plantagenet, of thee, and these thy sons,
+	Thy kinsmen and thy friends, I'll have more lives
+	Than drops of blood were in my father's veins.
+<SPEECH 4><ACT 1><SCENE 1><7%>
+	Base, fearful, and despairing Henry!
+<SPEECH 5><ACT 1><SCENE 1><7%>
+	I cannot stay to hear these articles.
+<SPEECH 6><ACT 1><SCENE 1><7%>
+	Farewell, faint-hearted and degenerate king,
+	In whose cold blood no spark of honour bides.

@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+	What say you, master?
+<SPEECH 2><ACT 2><SCENE 1><23%>
+	Faith, master, I am thinking of the poor men that were cast away before us even now.
+<SPEECH 3><ACT 2><SCENE 1><23%>
+	Nay, master, said not I as much when I saw the porpus how he bounced and tumbled? they say they're half fish half flesh; a plague on them! they ne'er come but I look to be washed. Master, I marvel how the fishes live in the sea.
+<SPEECH 4><ACT 2><SCENE 1><24%>
+	But master, if I had been the sexton, I would have been that day in the belfry.
+<SPEECH 5><ACT 2><SCENE 1><24%>
+	Because he should have swallowed me too; and when I had been in his belly, I would have kept such a jangling of the bells, that he should never have left till he cast bells, steeple, church, and parish, up again. But if the good King Simonides were of my mind,—
+<SPEECH 6><ACT 2><SCENE 1><24%>
+	We would purge the land of these drones, that rob the bee of her honey.

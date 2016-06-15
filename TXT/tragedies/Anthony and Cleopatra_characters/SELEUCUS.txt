@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 5><SCENE 2><93%>
+	Here, madam.
+<SPEECH 2><ACT 5><SCENE 2><93%>
+	Madam,
+	I had rather seal my lips, than, to my peril,
+	Speak that which is not.
+<SPEECH 3><ACT 5><SCENE 2><93%>
+	Enough to purchase what you have made known.

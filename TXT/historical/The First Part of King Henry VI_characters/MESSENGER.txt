@@ -1,0 +1,52 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	My honourable lords, health to you all!
+	Sad tidings bring I to you out of France,
+	Of loss, of slaughter, and discomfiture:
+	Guienne, Champaigne, Rheims, Orleans,
+	Paris, Guysors, Poictiers, are all quite lost.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	No treachery; but want of men and money.
+	Among the soldiers this is muttered,
+	That here you maintain several factions;
+	And, whilst a field should be dispatch'd and fought,
+	You are disputing of your generals.
+	One would have lingering wars with little cost;
+	Another would fly swift, but wanteth wings;
+	A third thinks, without expense at all,
+	By guileful fair words peace may be obtain'd.
+	Awake, awake, English nobility!
+	Let not sloth dim your honours new-begot:
+	Cropp'd are the flower-de-luces in your arms;
+	Of England's coat one half is cut away.
+<SPEECH 3><ACT 1><SCENE 4><20%>
+	My lord, my lord! the French have gather'd head:
+	The Dauphin, with one Joan la Pucelle join'd,
+	A holy prophetess new risen up
+	Is come with a great power to raise the siege.
+<SPEECH 4><ACT 2><SCENE 2><28%>
+	All hail, my lords! Which of this princely train
+	Call ye the war-like Talbot, for his acts
+	So much applauded through the realm of France?
+<SPEECH 5><ACT 2><SCENE 2><28%>
+	The virtuous lady, Countess of Auvergne,
+	With modesty admiring thy renown,
+	By me entreats, great lord, thou wouldst vouchsafe
+	To visit her poor castle where she lies,
+	That she may boast she hath beheld the man
+	Whose glory fills the world with loud report.
+<SPEECH 6><ACT 2><SCENE 3><29%>
+	Madam,
+	According as your ladyship desir'd,
+	By message crav'd, so is Lord Talbot come.
+<SPEECH 7><ACT 2><SCENE 3><29%>
+	Madam, it is.
+<SPEECH 8><ACT 2><SCENE 3><30%>
+	Stay, my Lord Talbot; for my lady craves
+	To know the cause of your abrupt departure.
+<SPEECH 9><ACT 4><SCENE 3><68%>
+	They are return'd, my lord; and give it out,
+	That he is march'd to Bourdeaux with his power,
+	To fight with Talbot. As he march'd along,
+	By your espials were discovered
+	Two mightier troops than that the Dauphin led,
+	Which join'd with him and made their march for Bourdeaux.

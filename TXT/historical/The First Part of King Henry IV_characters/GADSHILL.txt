@@ -1,0 +1,36 @@
+<SPEECH 1><ACT 2><SCENE 1><21%>
+	Good morrow, carriers. What's o'clock?
+<SPEECH 2><ACT 2><SCENE 1><21%>
+	I prithee, lend me thy lanthorn, to see my gelding in the stable.
+<SPEECH 3><ACT 2><SCENE 1><21%>
+	I prithee, lend me thine.
+<SPEECH 4><ACT 2><SCENE 1><21%>
+	Sirrah carrier, what time do you mean to come to London?
+<SPEECH 5><ACT 2><SCENE 1><21%>
+	What, ho! chamberlain!
+<SPEECH 6><ACT 2><SCENE 1><22%>
+	That's even as fair as, 'at hand, quoth the chamberlain'; for thou variest no more from picking of purses than giving direction doth from labouring; thou layest the plot how.
+<SPEECH 7><ACT 2><SCENE 1><22%>
+	Sirrah, if they meet not with Saint Nicholas' clerks, I'll give thee this neck.
+<SPEECH 8><ACT 2><SCENE 1><22%>
+	What talkest thou to me of the hangman? If I hang I'll make a fat pair of gallows; for if I hang, old Sir John hangs with me, and thou knowest he's no starveling. Tut! there are other Troyans that thou dreamest not of, the which for sport sake are content to do the profession some grace; that would, if matters should be looked into, for their own credit sake make all whole. I am joined with no foot-land-rakers, no long-staff sixpenny strikers, none of these mad mustachio-purple-hued malt worms; but with nobility and tranquillity, burgomasters and great oneyers such as can hold in, such as will strike sooner than speak, and speak sooner than drink, and drink sooner than pray: and yet I lie; for they pray continually to their saint, the commonwealth; or, rather, not pray to her, but prey on her, for they ride up and down on her and make her their boots.
+<SPEECH 9><ACT 2><SCENE 1><23%>
+	She will, she will; justice hath liquored her. We steal as in a castle, cock-sure; we have the receipt of fern-seed, we walk invisible.
+<SPEECH 10><ACT 2><SCENE 1><23%>
+	Give me thy hand: thou shalt have a share in our purchase, as I am a true man.
+<SPEECH 11><ACT 2><SCENE 1><23%>
+	Go to; homo is a common name to all men. Bid the ostler bring my gelding out of the stable. Farewell, you muddy knave.
+<SPEECH 12><ACT 2><SCENE 2><25%>
+	Stand.
+<SPEECH 13><ACT 2><SCENE 2><25%>
+	Case ye, case ye; on with your vizards: there's money of the king's coming down the hill; 'tis going to the king's exchequer.
+<SPEECH 14><ACT 2><SCENE 2><25%>
+	There's enough to make us all.
+<SPEECH 15><ACT 2><SCENE 2><25%>
+	Some eight or ten.
+<SPEECH 16><ACT 2><SCENE 4><37%>
+	We four set upon some dozen,—
+<SPEECH 17><ACT 2><SCENE 4><37%>
+	And bound them.
+<SPEECH 18><ACT 2><SCENE 4><37%>
+	As we were sharing, some six or seven fresh men set upon us,—

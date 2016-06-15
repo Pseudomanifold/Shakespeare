@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 5><SCENE 3><94%>
+	He is slain.
+<SPEECH 2><ACT 5><SCENE 3><94%>
+	Brave Titinius!
+	Look whe'r he have not crown'd dead Cassius!
+<SPEECH 3><ACT 5><SCENE 4><95%>
+	What bastard doth not? Who will go with me?
+	I will proclaim my name about the field:
+	I am the son of Marcus Cato, ho!
+	A foe to tyrants, and my country's friend;
+	I am the son of Marcus Cato, ho!

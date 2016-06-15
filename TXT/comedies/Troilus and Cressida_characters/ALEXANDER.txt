@@ -1,0 +1,28 @@
+<SPEECH 1><ACT 1><SCENE 2><5%>
+	Queen Hecuba and Helen.
+<SPEECH 2><ACT 1><SCENE 2><5%>
+	Up to the eastern tower,
+	Whose height commands as subject all the vale,
+	To see the battle. Hector, whose patience
+	Is as a virtue fix'd, to-day was mov'd:
+	He chid Andromache, and struck his armourer;
+	And, like as there were husbandry in war,
+	Before the sun rose he was harness'd light,
+	And to the field goes he; where every flower
+	Did, as a prophet, weep what it foresaw
+	In Hector's wrath.
+<SPEECH 3><ACT 1><SCENE 2><5%>
+	The noise goes, this: there is among the Greeks
+	A lord of Trojan blood, nephew to Hector;
+	They call him Ajax.
+<SPEECH 4><ACT 1><SCENE 2><5%>
+	They say he is a very man per se
+	And stands alone.
+<SPEECH 5><ACT 1><SCENE 2><5%>
+	This man, lady, hath robbed many beasts of their particular additions: he is as valiant as the lion, churlish as the bear, slow as the elephant: a man into whom nature hath so crowded humours that his valour is crushed into folly, his folly sauced with discretion: there is no man hath a virtue that he hath not a glimpse of, nor any man an attaint but he carries some stain of it. He is melancholy without cause, and merry against the hair; he hath the joints of every thing, but every thing so out of joint that he is a gouty Briareus, many hands and no use; or purblind Argus, all eyes and no sight.
+<SPEECH 6><ACT 1><SCENE 2><5%>
+	They say he yesterday coped Hector in the battle and struck him down; the disdain and shame whereof hath ever since kept Hector fasting and waking.
+<SPEECH 7><ACT 1><SCENE 2><6%>
+	Madam, your uncle Pandarus.
+<SPEECH 8><ACT 1><SCENE 2><6%>
+	As may be in the world, lady.

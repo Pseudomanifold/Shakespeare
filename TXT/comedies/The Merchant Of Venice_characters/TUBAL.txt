@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 3><SCENE 1><48%>
+	I often came where I did hear of her, but cannot find her.
+<SPEECH 2><ACT 3><SCENE 1><49%>
+	Yes, other men have ill luck too. Antonio, as I heard in Genoa,—
+<SPEECH 3><ACT 3><SCENE 1><49%>
+	—hath an argosy cast away, coming from Tripolis.
+<SPEECH 4><ACT 3><SCENE 1><49%>
+	I spoke with some of the sailors that escaped the wrack.
+<SPEECH 5><ACT 3><SCENE 1><49%>
+	Your daughter spent in Genoa, as I heard, one night, fourscore ducats.
+<SPEECH 6><ACT 3><SCENE 1><49%>
+	There came divers of Antonio's creditors in my company to Venice, that swear he cannot choose but break.
+<SPEECH 7><ACT 3><SCENE 1><50%>
+	One of them showed me a ring that he had of your daughter for a monkey.
+<SPEECH 8><ACT 3><SCENE 1><50%>
+	But Antonio is certainly undone.

@@ -1,0 +1,36 @@
+<SPEECH 1><ACT 1><SCENE 2><10%>
+	Jesus preserve your royal majesty!
+<SPEECH 2><ACT 1><SCENE 2><10%>
+	But, by the grace of God, and Hume's advice,
+	Your Grace's title shall be multiplied.
+<SPEECH 3><ACT 1><SCENE 2><10%>
+	This they have promised, to show your highness
+	A spirit rais'd from depth of under ground,
+	That shall make answer to such questions
+	As by your Grace shall be propounded him.
+<SPEECH 4><ACT 1><SCENE 2><11%>
+	Hume must make merry with the duchess' gold;
+	Marry and shall. But how now, Sir John Hume!
+	Seal up your lips, and give no words but mum:
+	The business asketh silent secrecy.
+	Dame Eleanor gives gold to bring the witch:
+	Gold cannot come amiss, were she a devil.
+	Yet have I gold flies from another coast:
+	I dare not say from the rich cardinal
+	And from the great and new-made Duke of Suffolk;
+	Yet I do find it so: for, to be plain,
+	They, knowing Dame Eleanor's aspiring humour,
+	Have hired me to undermine the duchess
+	And buzz these conjurations in her brain.
+	They say, 'A crafty knave does need no broker;'
+	Yet am I Suffolk and the cardinal's broker.
+	Hume, if you take not heed, you shall go near
+	To call them both a pair of crafty knaves.
+	Well, so it stands; and thus, I fear, at last
+	Hume's knavery will be the duchess' wrack,
+	And her attainture will be Humphrey's fall.
+	Sort how it will I shall have gold for all.
+<SPEECH 5><ACT 1><SCENE 4><18%>
+	Come, my masters; the duchess, I tell you, expects performance of your promises.
+<SPEECH 6><ACT 1><SCENE 4><19%>
+	Ay; what else? fear you not her courage.

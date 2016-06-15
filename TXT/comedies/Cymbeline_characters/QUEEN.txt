@@ -1,0 +1,197 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	No, be assur'd you shall not find me, daughter,
+	After the slander of most step-mothers,
+	Evil-ey'd unto you; you're my prisoner, but
+	Your gaoler shall deliver you the keys
+	That lock up your restraint. For you, Posthumus,
+	So soon as I can win the offended king,
+	I will be known your advocate; marry, yet
+	The fire of rage is in him, and 'twere good
+	You lean'd unto his sentence with what patience
+	Your wisdom may inform you.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	You know the peril:
+	I'll fetch a turn about the garden, pitying
+	The pangs of barr'd affections, though the king
+	Hath charg'd you should not speak together.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Be brief, I pray you;
+	If the king come, I shall incur I know not
+	How much of his displeasure. <STAGE DIR>
+	</STAGE DIR> Yet I'll move him
+	To walk this way. I never do him wrong,
+	But he does buy my injuries to be friends,
+	Pays dear for my offences.
+<SPEECH 4><ACT 1><SCENE 1><5%>
+	Beseech your patience. Peace!
+	Dear lady daughter, peace! Sweet sovereign,
+	Leave us to ourselves, and make yourself some comfort
+	Out of your best advice.
+<SPEECH 5><ACT 1><SCENE 1><5%>
+	Fie! you must give way:
+	Here is your servant. How now, sir! What news?
+<SPEECH 6><ACT 1><SCENE 1><5%>
+	Ha!
+	No harm, I trust, is done?
+<SPEECH 7><ACT 1><SCENE 1><5%>
+	I am very glad on 't.
+<SPEECH 8><ACT 1><SCENE 1><6%>
+	This hath been
+	Your faithful servant; I dare lay mine honour
+	He will remain so.
+<SPEECH 9><ACT 1><SCENE 1><6%>
+	Pray, walk awhile.
+<SPEECH 10><ACT 1><SCENE 5><13%>
+	Whiles yet the dew 's on ground, gather those flowers:
+	Make haste; who has the note of them?
+<SPEECH 11><ACT 1><SCENE 5><13%>
+	Dispatch.
+	Now, Master doctor, have you brought those drugs?
+<SPEECH 12><ACT 1><SCENE 5><14%>
+	I wonder, doctor,
+	Thou ask'st me such a question: have I not been
+	Thy pupil long? Hast thou not learn'd me how
+	To make perfumes? distil? preserve? yea, so
+	That our great king himself doth woo me oft
+	For my confections? Having thus far proceeded,—
+	Unless thou think'st me devilish,—is 't not meet
+	That I did amplify my judgment in
+	Other conclusions? I will try the forces
+	Of these thy compounds on such creatures as
+	We count not worth the hanging,—but none human,—
+	To try the vigour of them and apply
+	Allayments to their act, and by them gather
+	Their several virtues and effects.
+<SPEECH 13><ACT 1><SCENE 5><14%>
+	O! content thee.
+	</STAGE DIR> Here comes a flattering rascal; upon him
+	Will I first work: he's for his master,
+	And enemy to my son. How now, Pisanio:
+	Doctor, your service for this time is ended;
+	Take your own way.
+<SPEECH 14><ACT 1><SCENE 5><14%>
+	</STAGE DIR> Hark thee, a word.
+<SPEECH 15><ACT 1><SCENE 5><15%>
+	No further service, doctor,
+	Until I send for thee.
+<SPEECH 16><ACT 1><SCENE 5><15%>
+	Weeps she still, sayst thou? Dost thou think in time
+	She will not quench, and let instructions enter
+	Where folly now possesses? Do thou work:
+	When thou shalt bring me word she loves my son,
+	I'll tell thee on the instant thou art then
+	As great as is thy master; greater, for
+	His fortunes all lie speechless, and his name
+	Is at last gasp; return he cannot, nor
+	Continue where he is; to shift his being
+	Is to exchange one misery with another,
+	And every day that comes comes to decay
+	A day's work in him. What shalt thou expect,
+	To be depender on a thing that leans,
+	Who cannot be new built, nor has no friends,
+	So much as but to prop him?
+	Thou tak'st up
+	Thou know'st not what; but take it for thy labour:
+	It is a thing I made, which hath the king
+	Five times redeem'd from death; I do not know
+	What is more cordial: nay, I prithee, take it;
+	It is an earnest of a further good
+	That I mean to thee. Tell thy mistress how
+	The case stands with her; do 't as from thyself.
+	Think what a chance thou changest on, but think
+	Thou hast thy mistress still, to boot, my son,
+	Who shall take notice of thee. I'll move the king
+	To any shape of thy preferment such
+	As thou'lt desire; and then myself, I chiefly,
+	That set thee on to this desert, am bound
+	To load thy merit richly. Call my women;
+	Think on my words.
+	A sly and constant knave,
+	Not to be shak'd; the agent for his master,
+	And the remembrancer of her to hold
+	The hand-fast to her lord. I have given him that
+	Which, if he take, shall quite unpeople her
+	Of leigers for her sweet, and which she after,
+	Except she bend her humour, shall be assur'd
+	To taste of too.
+	So, so;—well done, well done.
+	The violets, cowslips, and the prime-roses
+	Bear to my closet. Fare thee well, Pisanio:
+	Think on my words.
+<SPEECH 17><ACT 2><SCENE 3><27%>
+	You are most bound to the king,
+	Who lets go by no vantages that may
+	Prefer you to his daughter. Frame yourself
+	To orderly soliciting, and be friended
+	With aptness of the season; make denials
+	Increase your services; so seem as if
+	You were inspir'd to do those duties which
+	You tender to her; that you in all obey her
+	Save when command to your dismission tends,
+	And therein you are senseless.
+<SPEECH 18><ACT 3><SCENE 1><37%>
+	And, to kill the marvel,
+	Shall be so ever.
+<SPEECH 19><ACT 3><SCENE 1><37%>
+	That opportunity,
+	Which then they had to take from 's, to resume,
+	We have again. Remember, sir, my liege,
+	The kings your ancestors, together with
+	The natural bravery of your isle, which stands
+	As Neptune's park, ribbed and paled in
+	With rocks unscaleable and roaring waters,
+	With sands, that will not bear your enemies' boats,
+	But suck them up to the topmast. A kind of conquest
+	Cæsar made here, but made not here his brag
+	Of 'came, and saw, and overcame:' with shame—
+	The first that ever touch'd him—he was carried
+	From off our coast, twice beaten; and his shipping—
+	Poor ignorant baubles!—on our terrible seas,
+	Like egg-shells mov'd upon their surges, crack'd
+	As easily 'gainst our rocks: for joy whereof
+	The fam'd Cassibelan, who was once at point—
+	O giglot fortune!—to master Cæsar's sword,
+	Made Lud's town with rejoicing-fires bright,
+	And Britons stiut with courage.
+<SPEECH 20><ACT 3><SCENE 5><50%>
+	And you!
+<SPEECH 21><ACT 3><SCENE 5><50%>
+	He goes hence frowning; but it honours us
+	That we have given him cause.
+<SPEECH 22><ACT 3><SCENE 5><51%>
+	'Tis not sleepy business;
+	But must be look'd to speedily and strongly.
+<SPEECH 23><ACT 3><SCENE 5><51%>
+	Royal sir.
+	Since the exile of Posthumus, most retir'd
+	Hath her life been; the cure whereof, my lord,
+	'Tis time must do. Beseech your majesty,
+	Forbear sharp speeches to her; she's a lady
+	So tender of rebukes that words are strokes,
+	And strokes death to her.
+<SPEECH 24><ACT 3><SCENE 5><51%>
+	My lord, when last I went to visit her,
+	She pray'd me to excuse her keeping close,
+	Whereto constrain'd by her infirmity,
+	She should that duty leave unpaid to you,
+	Which daily she was bound to proffer; this
+	She wish'd me to make known, but our great court
+	Made me to blame in memory.
+<SPEECH 25><ACT 3><SCENE 5><51%>
+	Son, I say, follow the king.
+<SPEECH 26><ACT 3><SCENE 5><51%>
+	Go, look after.
+	Pisanio, thou that stand'st so for Posthumus!
+	He hath a drug of mine; I pray his absence
+	Proceed by swallowing that, for he believes
+	It is a thing most precious. But for her,
+	Where is she gone? Haply, despair hath sciz'd her,
+	Or, wing'd with fervour of her love, she's flown
+	To her desir'd Posthumus. Gone she is
+	To death or to dishonour, and my end
+	Can make good use of either; she being down,
+	I have the placing of the British crown.
+	How now, my son!
+<SPEECH 27><ACT 3><SCENE 5><52%>
+	</STAGE DIR> All the better; may
+	This night forestall him of the coming day!

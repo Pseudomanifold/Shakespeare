@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 4><SCENE 3><80%>
+	It is noised he hath a mass of treasure.
+<SPEECH 2><ACT 4><SCENE 3><80%>
+	True; for he bears it not about him, 'tis hid.
+<SPEECH 3><ACT 4><SCENE 3><80%>
+	'Tis his description.
+<SPEECH 4><ACT 4><SCENE 3><82%>
+	I'll believe him as an enemy, and give over my trade.

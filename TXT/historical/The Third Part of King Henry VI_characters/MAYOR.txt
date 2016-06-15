@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 4><SCENE 7><77%>
+	My lords, we were forewarned of your coming,
+	And shut the gates for safety of ourselves;
+	For now we owe allegiance unto Henry.
+<SPEECH 2><ACT 4><SCENE 7><78%>
+	True, my good lord, I know you for no less.
+<SPEECH 3><ACT 4><SCENE 7><78%>
+	Ay, say you so? the gates shall then be open'd.

@@ -1,0 +1,24 @@
+<SPEECH 1><ACT 5><SCENE 1><82%>
+	I tell thee she is; and therefore make her grave straight: the crowner hath sat on her, and finds it Christian burial.
+<SPEECH 2><ACT 5><SCENE 1><82%>
+	Why, 'tis found so.
+<SPEECH 3><ACT 5><SCENE 1><82%>
+	Nay, but hear you, goodman delver,—
+<SPEECH 4><ACT 5><SCENE 1><82%>
+	But is this law?
+<SPEECH 5><ACT 5><SCENE 1><82%>
+	Will you ha' the truth on 't? If this had not been a gentlewoman she should have been buried out o' Christian burial.
+<SPEECH 6><ACT 5><SCENE 1><82%>
+	Was he a gentleman?
+<SPEECH 7><ACT 5><SCENE 1><82%>
+	Why, he had none.
+<SPEECH 8><ACT 5><SCENE 1><82%>
+	Go to.
+<SPEECH 9><ACT 5><SCENE 1><83%>
+	The gallows-maker; for that frame outlives a thousand tenants.
+<SPEECH 10><ACT 5><SCENE 1><83%>
+	Who builds stronger than a mason, a shipwright, or a carpenter?
+<SPEECH 11><ACT 5><SCENE 1><83%>
+	Marry, now I can tell.
+<SPEECH 12><ACT 5><SCENE 1><83%>
+	Mass, I cannot tell.

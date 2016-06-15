@@ -1,0 +1,103 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	He was a king bless'd of the King of kings.
+	Unto the French the dreadful judgment-day
+	So dreadful will not be as was his sight.
+	The battles of the Lord of hosts he fought:
+	The church's prayers made him so prosperous.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	Gloucester, whate'er we like thou art protector,
+	And lookest to command the prince and realm.
+	Thy wife is proud; she holdeth thee in awe,
+	More than God or religious churchmen may.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	What! wherein Talbot overcame? is't so?
+<SPEECH 4><ACT 1><SCENE 1><6%>
+	Each hath his place and function to attend:
+	I am left out; for me nothing remains.
+	But long I will not be Jack-out-of-office.
+	The king from Eltham I intend to steal,
+	And sit at chiefest stern of public weal.
+<SPEECH 5><ACT 1><SCENE 3><13%>
+	How now, ambitious Humphrey! what means this?
+<SPEECH 6><ACT 1><SCENE 3><14%>
+	I do, thou most usurping proditor,
+	And not protector, of the king or realm.
+<SPEECH 7><ACT 1><SCENE 3><14%>
+	Nay, stand thou back; I will not budge a foot:
+	This be Damascus, be thou cursed Cam,
+	To slay thy brother Abel, if thou wilt.
+<SPEECH 8><ACT 1><SCENE 3><14%>
+	Do what thou dar'st; I'll beard thee to thy face.
+<SPEECH 9><ACT 1><SCENE 3><14%>
+	Gloucester, thou'lt answer this before the pope.
+<SPEECH 10><ACT 1><SCENE 3><15%>
+	Here's Gloucester, a foe to citizens;
+	One that still motions war and never peace,
+	O'ercharging your free purses with large fines,
+	That seeks to overthrow religion
+	Because he is protector of the realm,
+	And would have armour here out of the Tower,
+	To crown himself king and suppress the prince.
+<SPEECH 11><ACT 1><SCENE 3><15%>
+	Gloucester, we will meet; to thy cost, be sure:
+	Thy heart-blood I will have for this day's work.
+<SPEECH 12><ACT 1><SCENE 3><16%>
+	Abominable Gloucester! guard thy head;
+	For I intend to have it ere long.
+<SPEECH 13><ACT 3><SCENE 1><41%>
+	Com'st thou with deep premeditated lines,
+	With written pamphlets studiously devis'd,
+	Humphrey of Gloucester? If thou canst accuse,
+	Or aught intend'st to lay unto my charge,
+	Do it without invention, suddenly;
+	As I, with sudden and extemporal speech
+	Purpose to answer what thou canst object.
+<SPEECH 14><ACT 3><SCENE 1><42%>
+	Gloucester, I do defy thee. Lords, vouchsafe
+	To give me hearing what I shall reply.
+	If I were covetous, ambitious, or perverse,
+	As he will have me, how am I so poor?
+	Or how haps it I seek not to advance
+	Or raise myself, but keep my wonted calling?
+	And for dissension, who preferreth peace
+	More than I do, except I be provok'd?
+	No, my good lords, it is not that offends;
+	It is not that that hath incens'd the duke:
+	It is, because no one should sway but he;
+	No one but he should be about the king;
+	And that engenders thunder in his breast,
+	And makes him roar these accusations forth.
+	But he shall know I am as good—
+<SPEECH 15><ACT 3><SCENE 1><42%>
+	Ay, lordly sir; for what are you, I pray,
+	But one imperious in another's throne?
+<SPEECH 16><ACT 3><SCENE 1><42%>
+	And am not I a prelate of the church?
+<SPEECH 17><ACT 3><SCENE 1><43%>
+	Unreverent Gloucester!
+<SPEECH 18><ACT 3><SCENE 1><43%>
+	Rome shall remedy this.
+<SPEECH 19><ACT 3><SCENE 1><45%>
+	He shall submit or I will never yield.
+<SPEECH 20><ACT 3><SCENE 1><46%>
+	Well, Duke of Gloucester, I will yield to thee;
+	Love for thy love and hand for hand I give.
+<SPEECH 21><ACT 3><SCENE 1><46%>
+	</STAGE DIR> So help me God, as I intend it not!
+<SPEECH 22><ACT 3><SCENE 1><47%>
+	As will the rest, so willeth Winchester.
+<SPEECH 23><ACT 4><SCENE 1><59%>
+	God save King Henry, of that name the sixth.
+<SPEECH 24><ACT 5><SCENE 1><81%>
+	Stay, my lord legate: you shall first receive
+	The sum of money which I promised
+	Should be deliver'd to his holiness
+	For clothing me in these grave ornaments.
+<SPEECH 25><ACT 5><SCENE 1><82%>
+	</STAGE DIR> Now Winchester will not submit, I trow,
+	Or be inferior to the proudest peer.
+	Humphrey of Gloucester, thou shalt well perceive
+	That neither in birth or for authority
+	The bishop will be overborne by thee:
+	I'll either make thee stoop and bend thy knee,
+	Or sack this country with a mutiny.

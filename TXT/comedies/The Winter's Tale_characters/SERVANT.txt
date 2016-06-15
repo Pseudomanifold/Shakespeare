@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 2><SCENE 3><33%>
+	Please your highness, posts
+	From those you sent to the oracle are come
+	An hour since: Cleomenes and Dion,
+	Being well arriv'd from Delphos, are both landed,
+	Hasting to the court.
+<SPEECH 2><ACT 3><SCENE 2><38%>
+	My lord the king, the king!
+<SPEECH 3><ACT 3><SCENE 2><39%>
+	O sir! I shall be hated to report it:
+	The prince your son, with mere conceit and fear
+	Of the queen's speed, is gone.
+<SPEECH 4><ACT 3><SCENE 2><39%>
+	Is dead.
+<SPEECH 5><ACT 4><SCENE 3><59%>
+	O master! if you did but hear the pedlar at the door, you would never dance again after a tabor and pipe; no, the bagpipe could not move you. He sings several tunes faster than you'll tell money; he utters them as he had eaten ballads and all men's ears grew to his tunes.
+<SPEECH 6><ACT 4><SCENE 3><60%>
+	He hath songs for man or woman, of all sizes; no milliner can so fit his customers with gloves: he has the prettiest love-songs for maids; so without bawdry, which is strange; with such delicate burthens of dildos and fadings, 'jump her and thump her;' and where some stretchmouthed rascal would, as it were, mean mischief and break a foul gap into the matter, he makes the maid to answer, 'Whoop, do me no harm, good man;' puts him off, slights him with 'Whoop, do me no harm, good man.'
+<SPEECH 7><ACT 4><SCENE 3><60%>
+	He hath ribands of all the colours i' the rainbow; points more than all the lawyers in Bohemia can learnedly handle, though they come to him by the gross; inkles, caddisses, cambrics, lawns: why, he sings 'em over, as they were gods or goddesses. You would think a smock were a she-angel, he so chants to the sleeve-hand and the work about the square on't.
+<SPEECH 8><ACT 4><SCENE 3><64%>
+	Master, there is three carters, three shepherds, three neat-herds, three swine-herds, that have made themselves all men of hair; they call themselves Saltiers; and they have a dance which the wenches say is a gallimaufry of gambols, because they are not in't; but they themselves are o' the mind,—if it be not too rough for some that know little but bowling,—it will please plentifully.
+<SPEECH 9><ACT 4><SCENE 3><64%>
+	One three of them, by their own report, sir, hath danced before the king; and not the worst of the three but jumps twelve foot and a half by the squier.
+<SPEECH 10><ACT 4><SCENE 3><64%>
+	Why, they stay at door, sir.

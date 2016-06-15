@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 1><SCENE 3><10%>
+	May your Grace speak of it?
+<SPEECH 2><ACT 1><SCENE 3><11%>
+	Gladly, my lord.
+<SPEECH 3><ACT 1><SCENE 3><11%>
+	It rested in your Grace
+	T' unloose this tied-up justice when you pleas'd;
+	And it in you more dreadful would have seem'd
+	Than in Lord Angelo.

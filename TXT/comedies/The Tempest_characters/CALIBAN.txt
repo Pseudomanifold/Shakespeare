@@ -1,0 +1,218 @@
+<SPEECH 1><ACT 1><SCENE 2><19%>
+	</STAGE DIR> There's wood enough within.
+<SPEECH 2><ACT 1><SCENE 2><19%>
+	As wicked dew as e'er my mother brush'd
+	With raven's feather from unwholesome fen
+	Drop on you both! a south-west blow on ye,
+	And blister you all o'er!
+<SPEECH 3><ACT 1><SCENE 2><20%>
+	I must eat my dinner.
+	This island's mine, by Sycorax my mother,
+	Which thou tak'st from me. When thou camest first,
+	Thou strok'dst me, and mad'st much of me; wouldst give me
+	Water with berries in't; and teach me how
+	To name the bigger light, and how the less,
+	That burn by day and night: and then I lov'd thee
+	And show'd thee all the qualities o' th' isle,
+	The fresh springs, brine-pits, barren place, and fertile.
+	Cursed be I that did so!—All the charms
+	Of Sycorax, toads, beetles, bats, light on you!
+	For I am all the subjects that you have,
+	Which first was mine own king; and here you sty me
+	In this hard rock, whiles you do keep from me
+	The rest o' th' island.
+<SPEECH 4><ACT 1><SCENE 2><21%>
+	Oh ho! Oh ho!—would it had been done!
+	Thou didst prevent me; I had peopled else
+	This isle with Calibans.
+<SPEECH 5><ACT 1><SCENE 2><21%>
+	You taught me language: and my profit on't
+	Is, I know how to curse: the red plague rid you,
+	For learning me your language!
+<SPEECH 6><ACT 1><SCENE 2><22%>
+	No, pray thee!—
+	</STAGE DIR> I must obey: his art is of such power,
+	It would control my dam's god, Setebos,
+	And make a vassal of him.
+<SPEECH 7><ACT 2><SCENE 2><44%>
+	All the infections that the sun sucks up
+	From bogs, fens, flats, on Prosper fall, and make him
+	By inch-meal a disease! His spirits hear me,
+	And yet I needs must curse. But they'll nor pinch,
+	Fright me with urchin-shows, pitch me i' the mire,
+	Nor lead me, like a firebrand, in the dark
+	Out of my way, unless he bid 'em; but
+	For every trifle are they set upon me:
+	Sometime like apes, that mow and chatter at me
+	And after bite me; then like hedge-hogs, which
+	Lie tumbling in my bare-foot way and mount
+	Their pricks at my foot-fall; sometime am I
+	All wound with adders, who with cloven tongues
+	Do hiss me into madness.—
+	Lo now! lo!
+	Here comes a spirit of his, and to torment me
+	For bringing wood in slowly: I'll fall flat;
+	Perchance he will not mind me.
+<SPEECH 8><ACT 2><SCENE 2><46%>
+	Do not torment me: O!
+<SPEECH 9><ACT 2><SCENE 2><47%>
+	The spirit torments me: O!
+<SPEECH 10><ACT 2><SCENE 2><47%>
+	Do not torment me, prithee: I'll bring my wood home faster.
+<SPEECH 11><ACT 2><SCENE 2><47%>
+	Thou dost me yet but little hurt; thou wilt anon, I know it by thy trembling: now Prosper works upon thee.
+<SPEECH 12><ACT 2><SCENE 2><49%>
+	</STAGE DIR> These be fine things an if they be not sprites.
+	That's a brave god and bears celestial liquor:
+	I will kneel to him.
+<SPEECH 13><ACT 2><SCENE 2><49%>
+	I'll swear upon that bottle, to be thy true subject; for the liquor is not earthly.
+<SPEECH 14><ACT 2><SCENE 2><50%>
+	Hast thou not dropped from heaven?
+<SPEECH 15><ACT 2><SCENE 2><50%>
+	I have seen thee in her, and I do adore thee; my mistress showed me thee, and thy dog, and thy bush.
+<SPEECH 16><ACT 2><SCENE 2><50%>
+	I'll show thee every fertile inch o' the island;
+	And I will kiss thy foot. I prithee, be my god.
+<SPEECH 17><ACT 2><SCENE 2><51%>
+	I'll kiss thy foot: I'll swear myself thy subject.
+<SPEECH 18><ACT 2><SCENE 2><51%>
+	I'll shew thee the best springs; I'll pluck thee berries;
+	I'll fish for thee, and get thee wood enough.
+	A plague upon the tyrant that I serve!
+	I'll bear him no more sticks, but follow thee,
+	Thou wondrous man.
+<SPEECH 19><ACT 2><SCENE 2><51%>
+	I prithee, let me bring thee where crabs grow;
+	And I with my long nails will dig thee pig-nuts;
+	Show thee a jay's nest and instruct thee how
+	To snare the nimble marmozet; I'll bring thee
+	To clust'ring filberts, and sometimes I'll get thee
+	Young scamels from the rock. Wilt thou go with me?
+<SPEECH 20><ACT 2><SCENE 2><52%>
+	Farewell, master; farewell, farewell
+<SPEECH 21><ACT 2><SCENE 2><52%>
+	No more dams I'll make for fish,
+	Nor fetch in firing
+	At requiring,
+	Nor scrape trenchering, nor wash dish,
+	'Ban, 'Ban, Ca—Caliban,
+	Has a new master—Get a new man.
+	Freedom, high-day! high-day, freedom! freedom! high-day, freedom!
+<SPEECH 22><ACT 3><SCENE 2><58%>
+	How does thy honour? Let me lick thy shoe. I'll not serve him, he is not valiant.
+<SPEECH 23><ACT 3><SCENE 2><58%>
+	Lo, how he mocks me! wilt thou let him, my lord?
+<SPEECH 24><ACT 3><SCENE 2><59%>
+	Lo, lo, again! bite him to death, I prithee.
+<SPEECH 25><ACT 3><SCENE 2><59%>
+	I thank my noble lord. Wilt thou be pleas'd
+	To hearken once again the suit I made thee?
+<SPEECH 26><ACT 3><SCENE 2><59%>
+	As I told thee before, I am subject to a tyrant, a sorcerer, that by his cunning hath cheated me of the island.
+<SPEECH 27><ACT 3><SCENE 2><59%>
+	Thou liest, thou jesting monkey thou;
+	I would my valiant master would destroy thee;
+	I do not lie.
+<SPEECH 28><ACT 3><SCENE 2><59%>
+	I say, by sorcery he got this isle;
+	From me he got it: if thy greatness will,
+	Revenge it on him,—for, I know, thou dar'st;
+	But this thing dare not,—
+<SPEECH 29><ACT 3><SCENE 2><60%>
+	Thou shalt be lord of it and I'll serve thee.
+<SPEECH 30><ACT 3><SCENE 2><60%>
+	Yea, yea, my lord: I'll yield him thee asleep,
+	Where thou may'st knock a nail into his head.
+<SPEECH 31><ACT 3><SCENE 2><60%>
+	What a pied ninny's this! Thou scurvy patch!—
+	I do beseech thy greatness, give him blows,
+	And take his bottle from him: when that's gone
+	He shall drink nought but brine; for I'll not show him
+	Where the quick freshes are.
+<SPEECH 32><ACT 3><SCENE 2><61%>
+	Ha, ha, ha!
+<SPEECH 33><ACT 3><SCENE 2><61%>
+	Beat him enough: after a little time
+	I'll beat him too.
+<SPEECH 34><ACT 3><SCENE 2><61%>
+	Why, as I told thee, 'tis a custom with him
+	I' the afternoon to sleep: there thou may'st brain him,
+	Having first seiz'd his books; or with a log
+	Batter his skull, or paunch him with a stake,
+	Or cut his wezand with thy knife. Remember
+	First to possess his books; for without them
+	He's but a sot, as I am, nor hath not
+	One spirit to command: they all do hate him
+	As rootedly as I. Burn but his books;
+	He has brave utensils,—for so he calls them,—
+	Which, when he has a house, he'll deck withal:
+	And that most deeply to consider is
+	The beauty of his daughter; he himself
+	Calls her a nonpareil: I never saw a woman,
+	But only Sycorax my dam and she;
+	But she as far surpasseth Sycorax
+	As great'st does least.
+<SPEECH 35><ACT 3><SCENE 2><62%>
+	Ay, lord; she will become thy bed, I warrant,
+	And bring thee forth brave brood.
+<SPEECH 36><ACT 3><SCENE 2><62%>
+	Within this half hour will he be asleep;
+	Wilt thou destroy him then?
+<SPEECH 37><ACT 3><SCENE 2><62%>
+	Thou mak'st me merry: I am full of pleasure.
+	Let us be jocund: will you troll the catch
+	You taught me but while-ere?
+<SPEECH 38><ACT 3><SCENE 2><63%>
+	That's not the tune.
+<SPEECH 39><ACT 3><SCENE 2><63%>
+	Art thou afeard?
+<SPEECH 40><ACT 3><SCENE 2><63%>
+	Be not afeard: the isle is full of noises,
+	Sounds and sweet airs, that give delight, and hurt not.
+	Sometimes a thousand twangling instruments
+	Will hum about mine ears; and sometime voices,
+	That, if I then had wak'd after long sleep,
+	Will make mesleep again: and then, in dreaming,
+	The clouds methought would open and show riches
+	Ready to drop upon me; that, when I wak'd
+	I cried to dream again.
+<SPEECH 41><ACT 3><SCENE 2><63%>
+	When Prospero is destroyed.
+<SPEECH 42><ACT 4><SCENE 1><80%>
+	Pray you, tread softly, that the blind mole may not
+	Hear a foot fall: we now are near his cell.
+<SPEECH 43><ACT 4><SCENE 1><80%>
+	Good my lord, give me thy favour still:
+	Be patient, for the prize I'll bring thee to
+	Shall hoodwink this mischance: therefore speak softly;
+	All's hush'd as midnight yet.
+<SPEECH 44><ACT 4><SCENE 1><81%>
+	Prithee, my king, be quiet. Seest thou here,
+	This is the mouth o' the cell: no noise, and enter.
+	Do that good mischief, which may make this island
+	Thine own for ever, and I, thy Caliban,
+	For aye thy foot-licker.
+<SPEECH 45><ACT 4><SCENE 1><81%>
+	Let it alone, thou fool; it is but trash.
+<SPEECH 46><ACT 4><SCENE 1><81%>
+	The dropsy drown this fooll what do you mean
+	To dote thus on such luggage? Let's along,
+	And do the murder first: if he awake,
+	From toe to crown he'll fill our skins with pinches;
+	Make us strange stuff.
+<SPEECH 47><ACT 4><SCENE 1><82%>
+	I will have none on't: we shall lose our time,
+	And all be turn'd to barnacles, or to apes
+	With foreheads villanous low.
+<SPEECH 48><ACT 5><SCENE 1><96%>
+	O Setebos! these be brave spirits, indeed.
+	How fine my master is! I am afraid
+	He will chastise me.
+<SPEECH 49><ACT 5><SCENE 1><97%>
+	I shall be pinch'd to death
+<SPEECH 50><ACT 5><SCENE 1><98%>
+	Ay, that I will; and I'll be wise hereafter,
+	And seek for grace. What a thrice-double ass
+	Was I, to take this drunkard for a god,
+	And worship this dull fool!

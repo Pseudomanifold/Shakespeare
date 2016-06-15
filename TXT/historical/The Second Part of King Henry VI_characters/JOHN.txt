@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 4><SCENE 2><68%>
+	They have the more need to sleep now then.
+<SPEECH 2><ACT 4><SCENE 2><68%>
+	So he had need, for 'tis threadbare. Well, I say it was never merry world in England since gentlemen came up.
+<SPEECH 3><ACT 4><SCENE 2><68%>
+	The nobility think scorn to go in leather aprons.
+<SPEECH 4><ACT 4><SCENE 2><69%>
+	True; and yet it is said, 'Labour in thy vocation:' which is as much to say as, let the magistrates be labouring men; and therefore should we be magistrates.
+<SPEECH 5><ACT 4><SCENE 2><69%>
+	I see them! I see them! There's Best's son, the tanner of Wingham,—
+<SPEECH 6><ACT 4><SCENE 2><69%>
+	And Dick the butcher,—
+<SPEECH 7><ACT 4><SCENE 2><69%>
+	And Smith the weaver,—
+<SPEECH 8><ACT 4><SCENE 2><69%>
+	Come, come, let's fall in with them.
+<SPEECH 9><ACT 4><SCENE 7><78%>
+	</STAGE DIR> Mass, 'twill be sore law then; for he was thrust in the mouth with a spear, and 'tis not whole yet.
+<SPEECH 10><ACT 4><SCENE 7><78%>
+	</STAGE DIR> Then we are like to have biting statutes, unless his teeth be pulled out.

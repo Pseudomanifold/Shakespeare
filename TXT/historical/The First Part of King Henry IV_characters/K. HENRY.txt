@@ -1,0 +1,371 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	So shaken as we are, so wan with care,
+	Find we a time for frighted peace to pant,
+	And breathe short-winded accents of new broils
+	To be commenc'd in stronds afar remote.
+	No more the thirsty entrance of this soil
+	Shall daub her lips with her own children's blood;
+	No more shall trenching war channel her fields,
+	Nor bruise her flowerets with the armed hoofs
+	Of hostile paces: those opposed eyes,
+	Which, like the meteors of a troubled heaven,
+	All of one nature, of one substance bred,
+	Did lately meet in the intestine shock
+	And furious close of civil butchery,
+	Shall now, in mutual well-beseeming ranks,
+	March all one way, and be no more oppos'd
+	Against acquaintance, kindred, and allies:
+	The edge of war, like an ill-sheathed knife,
+	No more shall cut his master. Therefore, friends,
+	As far as to the sepulchre of Christ,—
+	Whose soldier now, under whose blessed cross
+	We are impressed and engag'd to fight,—
+	Forthwith a power of English shall we levy,
+	Whose arms were moulded in their mother's womb
+	To chase these pagans in those holy fields
+	Over whose acres walk'd those blessed feet
+	Which fourteen hundred years ago were nail'd
+	For our advantage on the bitter cross.
+	But this our purpose is a twelvemonth old,
+	And bootless 'tis to tell you we will go:
+	Therefore we meet not now. Then let me hear
+	Of you, my gentle cousin Westmoreland,
+	What yesternight our council did decree
+	In forwarding this dear expedience.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	It seems then that the tidings of this broil
+	Brake off our business for the Holy Land.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Here is a dear and true industrious friend,
+	Sir Walter Blunt, new lighted from his horse,
+	Stain'd with the variation of each soil
+	Betwixt that Holmedon and this seat of ours;
+	And he hath brought us smooth and welcome news.
+	The Earl of Douglas is discomfited;
+	Ten thousand bold Scots, two and twenty knights,
+	Balk'd in their own blood did Sir Walter see
+	On Holmedon's plains: of prisoners Hotspur took
+	Mordake the Earl of Fife, and eldest son
+	To beaten Douglas, and the Earls of Athol,
+	Of Murray, Angus, and Menteith.
+	And is not this an honourable spoil?
+	A gallant prize? ha, cousin, is it not?
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	Yea, there thou mak'st me sad and mak'st me sin
+	In envy that my Lord Northumberland
+	Should be the father to so blest a son,
+	A son who is the theme of honour's tongue;
+	Amongst a grove the very straightest plant;
+	Who is sweet Fortune's minion and her pride:
+	Whilst I, by looking on the praise of him,
+	See riot and dishonour stain the brow
+	Of my young Harry. O! that it could be prov'd
+	That some night-tripping fairy had exchang'd
+	In cradle-clothes our children where they lay,
+	And call'd mine Percy, his Plantagenet.
+	Then would I have his Harry, and he mine.
+	But let him from my thoughts. What think you, coz,
+	Of this young Percy's pride? the prisoners,
+	Which he in this adventure hath surpris'd,
+	To his own use he keeps, and sends me word,
+	I shall have none but Mordake Earl of Fife.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	But I have sent for him to answer this;
+	And for this cause a while we must neglect
+	Our holy purpose to Jerusalem.
+	Cousin, on Wednesday next our council we
+	Will hold at Windsor; so inform the lords:
+	But come yourself with speed to us again;
+	For more is to be said and to be done
+	Than out of anger can be uttered.
+<SPEECH 6><ACT 1><SCENE 3><11%>
+	My blood hath been too cold and temperate,
+	Unapt to stir at these indignities,
+	And you have found me; for accordingly
+	You tread upon my patience: but, be sure,
+	I will from henceforth rather be myself,
+	Mighty, and to be fear'd, than my condition,
+	Which hath been smooth as oil, soft as young down,
+	And therefore lost that title of respect
+	Which the proud soul ne'er pays but to the proud.
+<SPEECH 7><ACT 1><SCENE 3><11%>
+	Worcester, get thee gone; for I do see
+	Danger and disobedience in thine eye.
+	O, sir, your presence is too bold and peremptory,
+	And majesty might never yet endure
+	The moody frontier of a servant brow.
+	You have good leave to leave us; when we need
+	Your use and counsel we shall send for you.
+	</STAGE DIR> You were about to speak.
+<SPEECH 8><ACT 1><SCENE 3><13%>
+	Why, yet he doth deny his prisoners,
+	But with proviso and exception,
+	That we at our own charge shall ransom straight
+	His brother-in-law, the foolish Mortimer;
+	Who, on my soul, hath wilfully betray'd
+	The lives of those that he did lead to fight
+	Against the great magician, damn'd Glendower,
+	Whose daughter, as we hear, the Earl of March
+	Hath lately married. Shall our coffers then
+	Be emptied to redeem a traitor home?
+	Shall we buy treason, and indent with fears,
+	When they have lost and forfeited themselves?
+	No, on the barren mountains let him starve;
+	For I shall never hold that man my friend
+	Whose tongue shall ask me for one penny cost
+	To ransom home revolted Mortimer.
+<SPEECH 9><ACT 1><SCENE 3><14%>
+	Thou dost belie him, Percy, thou dost belie him:
+	He never did encounter with Glendower:
+	I tell thee,
+	He durst as well have met the devil alone
+	As Owen Glendower for an enemy.
+	Art thou not asham'd? But, sirrah, henceforth
+	Let me not hear you speak of Mortimer:
+	Send me your prisoners with the speediest means,
+	Or you shall hear in such a kind from me
+	As will displease you. My Lord Northumberland,
+	We license your departure with your son.
+	Send us your prisoners, or you'll hear of it.
+<SPEECH 10><ACT 3><SCENE 2><58%>
+	Lords, give us leave; the Prince of Wales and I
+	Must have some private conference: but be near at hand,
+	For we shall presently have need of you.
+	I know not whether God will have it so,
+	For some displeasing service I have done,
+	That, in his secret doom, out of my blood
+	He'll breed revengement and a scourge for me;
+	But thou dost in thy passages of life
+	Make me believe that thou art only mark'd
+	For the hot vengeance and the rod of heaven
+	To punish my mistreadings. Tell me else,
+	Could such inordinate and low desires,
+	Such poor, such bare, such lewd, such mean attempts,
+	Such barren pleasures, rude society,
+	As thou art match'd withal and grafted to,
+	Accompany the greatness of thy blood
+	And hold their level with thy princely heart?
+<SPEECH 11><ACT 3><SCENE 2><59%>
+	God pardon thee! yet let me wonder, Harry,
+	At thy affections, which do hold a wing
+	Quite from the flight of all thy ancestors.
+	Thy place in council thou hast rudely lost,
+	Which by thy younger brother is supplied,
+	And art almost an alien to the hearts
+	Of all the court and princes of my blood.
+	The hope and expectation of thy time
+	Is ruin'd, and the soul of every man
+	Prophetically do forethink thy fall.
+	Had I so lavish of my presence been,
+	So common-hackney'd in the eyes of men,
+	So stale and cheap to vulgar company,
+	Opinion, that did help me to the crown,
+	Had still kept loyal to possession
+	And left me in reputeless banishment,
+	A fellow of no mark nor likelihood.
+	By being seldom seen, I could not stir,
+	But like a comet I was wonder'd at;
+	That men would tell their children, 'This is he;'
+	Others would say, 'Where? which is Bolingbroke?'
+	And then I stole all courtesy from heaven,
+	And dress'd myself in such humility
+	That I did pluck allegiance from men's hearts,
+	Loud shouts and salutations from their mouths,
+	Even in the presence of the crowned king.
+	Thus did I keep my person fresh and new;
+	My presence, like a robe pontifical,
+	Ne'er seen but wonder'd at: and so my state,
+	Seldom but sumptuous, showed like a feast,
+	And won by rareness such solemnity.
+	The skipping king, he ambled up and down
+	With shallow jesters and rash bavin wits,
+	Soon kindled and soon burnt; carded his state,
+	Mingled his royalty with capering fools,
+	Had his great name profaned with their scorns,
+	And gave his countenance, against his name,
+	To laugh at gibing boys and stand the push
+	Of every beardless vain comparative;
+	Grew a companion to the common streets,
+	Enfeoff'd himself to popularity;
+	That, being daily swallow'd by men's eyes,
+	They surfeited with honey and began
+	To loathe the taste of sweetness, whereof a little
+	More than a little is by much too much.
+	So, when he had occasion to be seen,
+	He was but as the cuckoo is in June,
+	Heard, not regarded; seen, but with such eyes
+	As, sick and blunted with community,
+	Afford no extraordinary gaze,
+	Such as is bent on sun-like majesty
+	When it shines seldom in admiring eyes;
+	But rather drows'd and hung their eyelids down,
+	Slept in his face, and render'd such aspect
+	As cloudy men use to their adversaries,
+	Being with his presence glutted, gorg'd, and full.
+	And in that very line, Harry, stand'st thou;
+	For thou hast lost thy princely privilege
+	With vile participation: not an eye
+	But is aweary of thy common sight,
+	Save mine, which hath desir'd to see thee more;
+	Which now doth that I would not have it do,
+	Make blind itself with foolish tenderness.
+<SPEECH 12><ACT 3><SCENE 2><60%>
+	For all the world,
+	As thou art to this hour was Richard then
+	When I from France set foot at Ravenspurgh;
+	And even as I was then is Percy now.
+	Now, by my sceptre and my soul to boot,
+	He hath more worthy interest to the state
+	Than thou the shadow of succession;
+	For of no right, nor colour like to right,
+	He doth fill fields with harness in the realm,
+	Turns head against the lion's armed jaws,
+	And, being no more in debt to years than thou,
+	Leads ancient lords and reverend bishops on
+	To bloody battles and to bruising arms.
+	What never-dying honour hath he got
+	Against renowned Douglas! whose high deeds,
+	Whose hot incursions and great name in arms,
+	Holds from all soldiers chief majority,
+	And military title capital,
+	Through all the kingdoms that acknowledge Christ.
+	Thrice hath this Hotspur, Mars in swathling clothes,
+	This infant warrior, in his enterprises
+	Discomfited great Douglas; ta'en him once,
+	Enlarged him and made a friend of him,
+	To fill the mouth of deep defiance up
+	And shake the peace and safety of our throne.
+	And what say you to this? Percy, Northumberland,
+	The Archbishop's Grace of York, Douglas, Mortimer,
+	Capitulate against us and are up.
+	But wherefore do I tell these news to thee?
+	Why, Harry, do I tell thee of my foes,
+	Which art my near'st and dearest enemy?
+	Thou that art like enough, through vassal fear,
+	Base inclination, and the start of spleen,
+	To fight against me under Percy's pay,
+	To dog his heels, and curtsy at his frowns,
+	To show how much thou art degenerate.
+<SPEECH 13><ACT 3><SCENE 2><62%>
+	A hundred thousand rebels die in this:
+	Thou shalt have charge and sovereign trust herein.
+	How now, good Blunt! thy looks are full of speed.
+<SPEECH 14><ACT 3><SCENE 2><63%>
+	The Earl of Westmoreland set forth to-day,
+	With him my son, Lord John of Lancaster;
+	For this advertisement is five days old.
+	On Wednesday next, Harry, you shall set forward;
+	On Thursday we ourselves will march: our meeting
+	Is Bridgenorth; and Harry, you shall march
+	Through Gloucestershire; by which account,
+	Our business valued, some twelve days hence
+	Our general forces at Bridgenorth shall meet.
+	Our hands are full of business: let's away;
+	Advantage feeds him fat while men delay.
+<SPEECH 15><ACT 5><SCENE 1><82%>
+	How bloodily the sun begins to peer
+	Above yon busky hill! the day looks pale
+	At his distemperature.
+<SPEECH 16><ACT 5><SCENE 1><82%>
+	Then with the losers let it sympathize,
+	For nothing can seem foul to those that win.
+	How now, my Lord of Worcester! 'tis not well
+	That you and I should meet upon such terms
+	As now we meet. You have deceiv'd our trust,
+	And made us doff our easy robes of peace,
+	To crush our old limbs in ungentle steel:
+	This is not well, my lord; this is not well.
+	What say you to it? will you again unknit
+	This churlish knot of all-abhorred war,
+	And move in that obedient orb again
+	Where you did give a fair and natural light,
+	And be no more an exhal'd meteor,
+	A prodigy of fear and a portent
+	Of broached mischief to the unborn times?
+<SPEECH 17><ACT 5><SCENE 1><83%>
+	You have not sought it! how comes it then?
+<SPEECH 18><ACT 5><SCENE 1><84%>
+	These things indeed, you have articulate,
+	Proclaim'd at market-crosses, read in churches,
+	To face the garment of rebellion
+	With some fine colour that may please the eye
+	Of fickle changelings and poor discontents,
+	Which gape and rub the elbow at the news
+	Of hurlyburly innovation:
+	And never yet did insurrection want
+	Such water-colours to impaint his cause;
+	Nor moody beggars, starving for a time
+	Of pell-mell havoc and confusion.
+<SPEECH 19><ACT 5><SCENE 1><85%>
+	And, Prince of Wales, so dare we venture thee,
+	Albeit considerations infinite
+	Do make against it. No, good Worcester, no,
+	We love our people well; even those we love
+	That are misled upon your cousin's part;
+	And, will they take the offer of our grace,
+	Both he and they and you, yea, every man
+	Shall be my friend again, and I'll be his.
+	So tell your cousin, and bring me word
+	What he will do; but if he will not yield,
+	Rebuke and dread correction wait on us,
+	And they shall do their office. So, be gone:
+	We will not now be troubled with reply;
+	We offer fair, take it advisedly.
+<SPEECH 20><ACT 5><SCENE 1><86%>
+	Hence, therefore, every leader to his charge;
+	For, on their answer, will we set on them;
+	And God befriend us, as our cause is just!
+<SPEECH 21><ACT 5><SCENE 4><92%>
+	I prithee,
+	Harry, withdraw thyself; thou bleed'st too much.
+	Lord John of Lancaster, go you with him.
+<SPEECH 22><ACT 5><SCENE 4><93%>
+	I will do so.
+	My Lord of Westmoreland, lead him to his tent.
+<SPEECH 23><ACT 5><SCENE 4><93%>
+	I saw him hold Lord Percy at the point
+	With lustier maintenance than I did look for
+	Of such an ungrown warrior.
+<SPEECH 24><ACT 5><SCENE 4><93%>
+	The king himself; who, Douglas, grieves at heart
+	So many of his shadows thou hast met
+	And not the very king. I have two boys
+	Seek Percy and thyself about the field:
+	But, seeing thou fall'st on me so luckily,
+	I will assay thee; so defend thyself.
+<SPEECH 25><ACT 5><SCENE 4><94%>
+	Stay, and breathe awhile.
+	Thou hast redeem'd thy lost opinion,
+	And show'd thou mak'st some tender of my life,
+	In this fair rescue thou hast brought to me.
+<SPEECH 26><ACT 5><SCENE 4><94%>
+	Make up to Clifton: I'll to Sir Nicholas Gawsey.
+<SPEECH 27><ACT 5><SCENE 5><99%>
+	Thus ever did rebellion find rebuke.
+	Ill-spirited Worcester! did we not send grace,
+	Pardon, and terms of love to all of you?
+	And wouldst thou turn our offers contrary?
+	Misuse the tenour of thy kinsman's trust?
+	Three knights upon our party slain to-day,
+	A noble earl and many a creature else
+	Had been alive this hour,
+	If like a Christian, thou hadst truly borne
+	Betwixt our armies true intelligence.
+<SPEECH 28><ACT 5><SCENE 5><99%>
+	Bear Worcester to the death and Vernon too:
+	Other offenders we will pause upon.
+	How goes the field?
+<SPEECH 29><ACT 5><SCENE 5><99%>
+	With all my heart.
+<SPEECH 30><ACT 5><SCENE 5><100%>
+	Then this remains, that we divide our power.
+	You, son John, and my cousin Westmoreland
+	Towards York shall bend you, with your dearest speed,
+	To meet Northumberland and the prelate Scroop,
+	Who, as we hear, are busily in arms:
+	Myself and you, son Harry, will towards Wales,
+	To fight with Glendower and the Earl of March.
+	Rebellion in this land shall lose his sway,
+	Meeting the check of such another day:
+	And since this business so fair is done,
+	Let us not leave till all our own be won.

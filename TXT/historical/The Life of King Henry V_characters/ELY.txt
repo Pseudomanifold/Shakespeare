@@ -1,0 +1,39 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	But how, my lord, shall we resist it now?
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	This would drink deep.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	But what prevention?
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	And a true lover of the holy church.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	We are blessed in the change.
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	The strawberry grows underneath the nettle,
+	And wholesome berries thrive and ripen best
+	Neighbour'd by fruit of baser quality:
+	And so the prince obscur'd his contemplation
+	Under the veil of wildness; which, no doubt,
+	Grew like the summer grass, fastest by night,
+	Unseen, yet crescive in his faculty.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	But, my good lord,
+	How now for mitigation of this bill
+	Urg'd by the commons? Doth his majesty
+	Incline to it, or no?
+<SPEECH 8><ACT 1><SCENE 1><4%>
+	How did this offer seem receiv'd, my lord?
+<SPEECH 9><ACT 1><SCENE 1><4%>
+	What was the impediment that broke this off?
+<SPEECH 10><ACT 1><SCENE 1><4%>
+	It is.
+<SPEECH 11><ACT 1><SCENE 1><4%>
+	I'll wait upon you, and I long to hear it.
+<SPEECH 12><ACT 1><SCENE 2><8%>
+	Awake remembrance of these valiant dead,
+	And with your puissant arm renew their feats:
+	You are their heir, you sit upon their throne,
+	The blood and courage that renowned them
+	Runs in your veins; and my thrice-puissantliege
+	Is in the very May-morn of his youth,
+	Ripe for exploits and mighty enterprises.

@@ -1,0 +1,35 @@
+<SPEECH 1><ACT 1><SCENE 3><10%>
+	My Lord Aumerle, is Harry Hereford arm'd?
+<SPEECH 2><ACT 1><SCENE 3><10%>
+	The Duke of Norfolk, sprightfully and bold,
+	Stays but the summons of the appellant's trumpet.
+<SPEECH 3><ACT 1><SCENE 3><11%>
+	In God's name, and the king's, say who thou art,
+	And why thou com'st thus knightly clad in arms,
+	Against what man thou com'st, and what thy quarrel.
+	Speak truly, on thy knighthood and thine oath:
+	As so defend thee heaven and thy valour!
+<SPEECH 4><ACT 1><SCENE 3><11%>
+	What is thy name? and wherefore com'st thou hither,
+	Before King Richard in his royal lists?
+	Against whom comest thou? and what's thy quarrel?
+	Speak like a true knight, so defend thee heaven!
+<SPEECH 5><ACT 1><SCENE 3><12%>
+	On pain of death, no person be so bold
+	Or daring-hardy as to touch the lists,
+	Except the marshal and such officers
+	Appointed to direct these fair designs.
+<SPEECH 6><ACT 1><SCENE 3><12%>
+	The appellant in all duty greets your highness,
+	And craves to kiss your hand and take his leave.
+<SPEECH 7><ACT 1><SCENE 3><14%>
+	Harry of Hereford, Lancaster, and Derby,
+	Receive thy lance; and God defend the right!
+<SPEECH 8><ACT 1><SCENE 3><14%>
+	</STAGE DIR> Go bear this lance to Thomas, Duke of Norfolk.
+<SPEECH 9><ACT 1><SCENE 3><14%>
+	Sound, trumpets; and set forward, combatants.
+	Stay, stay, the king hath thrown his warderdown.
+<SPEECH 10><ACT 1><SCENE 3><19%>
+	My lord, no leave take I; for I will ride,
+	As far as land will let me, by your side.

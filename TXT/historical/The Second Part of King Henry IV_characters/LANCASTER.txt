@@ -1,0 +1,138 @@
+<SPEECH 1><ACT 4><SCENE 2><64%>
+	You are well encounter'd here, my cousin Mowbray:
+	Good day to you, gentle lord archbishop;
+	And so to you, Lord Hastings, and to all.
+	My Lord of York, it better show'd with you,
+	When that your flock, assembled by the bell,
+	Encircled you to hear with reverence
+	Your exposition on the holy text
+	Than now to see you here an iron man,
+	Cheering a rout of rebels with your drum,
+	Turning the word to sword and life to death.
+	That man that sits within a monarch's heart
+	And ripens in the sunshine of his favour,
+	Would he abuse the countenance of the king,
+	Alack! what mischief might he set abroach
+	In shadow of such greatness. With you, lord bishop,
+	It is even so. Who hath not heard it spoken
+	How deep you were within the books of God?
+	To us, the speaker in his parliament;
+	To us the imagin'd voice of God himself;
+	The very opener and intelligencer
+	Between the grace, the sanctities of heaven,
+	And our dull workings. O! who shall believe
+	But you misuse the reverence of your place,
+	Employ the countenance and grace of heaven,
+	As a false favourite doth his prince's name,
+	In deeds dishonourable? You have taken up,
+	Under the counterfeited zeal of God,
+	The subjects of his substitute, my father;
+	And both against the peace of heaven and him
+	Have here upswarm'd them.
+<SPEECH 2><ACT 4><SCENE 2><65%>
+	You are too shallow, Hastings, much too shallow,
+	To sound the bottom of the after-times.
+<SPEECH 3><ACT 4><SCENE 2><65%>
+	I like them all, and do allow them well;
+	And swear here, by the honour of my blood,
+	My father's purposes have been mistook,
+	And some about him have too lavishly
+	Wrested his meaning and authority.
+	My lord, these griefs shall be with speed redress'd;
+	Upon my soul, they shall. If this may please you,
+	Discharge your powers unto their several counties,
+	As we will ours: and here between the armies
+	Let's drink together friendly and embrace,
+	That all their eyes may bear those tokens home
+	Of our restored love and amity.
+<SPEECH 4><ACT 4><SCENE 2><66%>
+	I give it you, and will maintain my word:
+	And thereupon I drink unto your Grace.
+<SPEECH 5><ACT 4><SCENE 2><66%>
+	The word of peace is render'd: hark, how they shout!
+<SPEECH 6><ACT 4><SCENE 2><66%>
+	Go, my lord,
+	And let our army be discharged too.
+	And, good my lord, so please you, let our trains
+	March by us, that we may peruse the men
+	We should have cop'd withal.
+<SPEECH 7><ACT 4><SCENE 2><67%>
+	I trust, lords, we shall lie to-night together.
+	Now, cousin, wherefore stands our army still?
+<SPEECH 8><ACT 4><SCENE 2><67%>
+	They know their duties.
+<SPEECH 9><ACT 4><SCENE 2><67%>
+	I pawn'd thee none.
+	I promis'd you redress of these same grievances
+	Whereof you did complain; which, by mine honour,
+	I will perform with a most Christian care.
+	But for you, rebels, look to taste the due
+	Meet for rebellion and such acts as yours.
+	Most shallowly did you these arms commence,
+	Fondly brought here and foolishly sent hence.
+	Strike up our drums! pursue the scatter'd stray:
+	God, and not we, hath safely fought to-day.
+	Some guard these traitors to the block of death;
+	Treason's true bed, and yielder up of breath.
+<SPEECH 10><ACT 4><SCENE 3><68%>
+	The heat is past, follow no further now.
+	Call in the powers, good cousin Westmoreland.
+	Now, Falstaff, where have you been all this while?
+	When everything is ended, then you come:
+	These tardy tricks of yours will, on my life,
+	One time or other break some gallows' back.
+<SPEECH 11><ACT 4><SCENE 3><69%>
+	It was more of his courtesy than your deserving.
+<SPEECH 12><ACT 4><SCENE 3><69%>
+	Thine's too heavy to mount.
+<SPEECH 13><ACT 4><SCENE 3><69%>
+	Thine's too thick to shine.
+<SPEECH 14><ACT 4><SCENE 3><69%>
+	Is thy name Colevile?
+<SPEECH 15><ACT 4><SCENE 3><70%>
+	A famous rebel art thou, Colevile.
+<SPEECH 16><ACT 4><SCENE 3><70%>
+	Have you left pursuit?
+<SPEECH 17><ACT 4><SCENE 3><70%>
+	Send Colevile with his confederates
+	To York, to present execution.
+	Blunt, lead him hence, and see you guard him sure.
+	And now dispatch we toward the court, my lords:
+	I hear, the king my father is sore sick:
+	Our news shall go before us to his majesty,
+	Which, cousin <STAGE DIR>
+	</STAGE DIR>, you shall bear, to comfort him;
+	And we with sober speed will follow you.
+<SPEECH 18><ACT 4><SCENE 3><70%>
+	Fare you well, Falstaff: I, in my condition,
+	Shall better speak of you than you deserve.
+<SPEECH 19><ACT 4><SCENE 5><83%>
+	Health, peace, and happiness to my royal father!
+<SPEECH 20><ACT 5><SCENE 2><87%>
+	Good morrow, cousin Warwick, good morrow.
+<SPEECH 21><ACT 5><SCENE 2><87%>
+	We meet like men that had forgot to speak.
+<SPEECH 22><ACT 5><SCENE 2><87%>
+	Well, peace be with him that hath made us heavy!
+<SPEECH 23><ACT 5><SCENE 2><87%>
+	Though no man be assur'd what grace to find,
+	You stand in coldest expectation.
+	I am the sorrier; would 'twere otherwise.
+<SPEECH 24><ACT 5><SCENE 5><99%>
+	I like this fair proceeding of the king's.
+	He hath intent his wonted followers
+	Shall all be very well provided for;
+	But all are banish'd till their conversations
+	Appear more wise and modest to the world.
+<SPEECH 25><ACT 5><SCENE 5><99%>
+	The king hath call'd his parliament, my lord.
+<SPEECH 26><ACT 5><SCENE 5><99%>
+	I will lay odds, that, ere this year expire,
+	We bear our civil swords and native fire
+	As far as France. I heard a bird so sing,
+	Whose music, to my thinking, pleas'd the king.
+	Come, will you hence?
+	<Spoken by a> 
+	First, my fear; then, my curtsy; last my speech. My fear is, your displeasure, my curtsy, my duty, and my speech, to beg your pardon. If you look for a good speech now, you undo me; for what I have to say is of mine own making; and what indeed I should say will, I doubt, prove mine own marring. But to the purpose, and so to the venture. Be it known to you,—as it is very well,—I was lately here in the end of a displeasing play, to pray your patience for it and to promise you a better. I did mean indeed to pay you with this; which, if like an ill venture it come unluckily home, I break, and you, my gentle creditors, lose. Here, I promised you I would be, and here I commit my body to your mercies: bate me some and I will pay you some; and, as most debtors do, promise you infinitely.
+	If my tongue cannot entreat you to acquit me, will you command me to use my legs? and yet that were but light payment, to dance out of your debt. But a good conscience will make any possible satisfaction, and so will I. All the gentlewomen here have forgiven me: if the gentlemen will not, then the gentlemen do not agree with the gentlewomen, which was never seen before in such an assembly.
+	One word more, I beseech you. If you be not too much cloyed with fat meat, our humble author will continue the story, with Sir John in it, and make you merry with fair Katharine of France: where, for anything I know, Falstaff shall die of a sweat, unless already a' be killed with your hard opinions; for Oldcastle died a martyr, and this is not the man. My tongue is weary; when my legs are too, I will bid you good night: and so kneel down before you; but, indeed, to pray for the queen.

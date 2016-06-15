@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 3><SCENE 2><50%>
+	Good morrow to your lordship.
+<SPEECH 2><ACT 3><SCENE 2><51%>
+	That is the cause we trouble you so early;
+	'Tis not our husbandry.
+<SPEECH 3><ACT 3><SCENE 2><52%>
+	Your honour has through Ephesus pour'd forth
+	Your charity, and hundreds call themselves
+	Your creatures, who by you have been restor'd:
+	And not your knowledge, your personal pain, but even
+	Your purse, still open, hath built Lord Cerimon
+	Such strong renown as time shall ne'er decay.
+<SPEECH 4><ACT 3><SCENE 2><52%>
+	'Tis like a coffin, sir.
+<SPEECH 5><ACT 3><SCENE 2><52%>
+	'Tis so, my lord.
+<SPEECH 6><ACT 3><SCENE 2><52%>
+	A delicate odour.
+<SPEECH 7><ACT 3><SCENE 2><53%>
+	Most likely, sir.
+<SPEECH 8><ACT 3><SCENE 2><54%>
+	Is not this strange?
+<SPEECH 9><ACT 4><SCENE 5><74%>
+	No, nor never shall do in such a place as this, she being once gone.
+<SPEECH 10><ACT 4><SCENE 5><74%>
+	No, no. Come, I am for no more bawdy-houses. Shall's go hear the vestals sing?

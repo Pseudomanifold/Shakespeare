@@ -1,0 +1,121 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	Ay, madam, so you stumble not unheedfully.
+<SPEECH 2><ACT 1><SCENE 2><7%>
+	Please you repeat their names, I'll show my mind
+	According to my shallow simple skill.
+<SPEECH 3><ACT 1><SCENE 2><8%>
+	As of a knight well-spoken, neat and fine;
+	But, were I you, he never should be mine.
+<SPEECH 4><ACT 1><SCENE 2><8%>
+	Well of his wealth; but of himself, so so.
+<SPEECH 5><ACT 1><SCENE 2><8%>
+	Lord, Lord! to see what folly reigns in us!
+<SPEECH 6><ACT 1><SCENE 2><8%>
+	Pardon, dear madam; 'tis a passing shame
+	That I, unworthy body as I am,
+	Should censure thus on lovely gentlemen.
+<SPEECH 7><ACT 1><SCENE 2><8%>
+	Then thus,—of many good I think him best.
+<SPEECH 8><ACT 1><SCENE 2><8%>
+	I have no other but a woman's reason:
+	I think him so because I think him so.
+<SPEECH 9><ACT 1><SCENE 2><8%>
+	Ay, if you thought your love not cast away.
+<SPEECH 10><ACT 1><SCENE 2><8%>
+	Yet he of all the rest, I think, best loves ye.
+<SPEECH 11><ACT 1><SCENE 2><8%>
+	Fire that's closest kept burns most of all.
+<SPEECH 12><ACT 1><SCENE 2><9%>
+	O! they love least that let men know their love.
+<SPEECH 13><ACT 1><SCENE 2><9%>
+	Peruse this paper, madam.
+<SPEECH 14><ACT 1><SCENE 2><9%>
+	That the contents will show.
+<SPEECH 15><ACT 1><SCENE 2><9%>
+	Sir Valentine's page, and sent, I think, from Proteus.
+	He would have given it you, but I, being in the way,
+	Did in your name receive it; pardon the fault, I pray.
+<SPEECH 16><ACT 1><SCENE 2><9%>
+	To plead for love deserves more fee than hate.
+<SPEECH 17><ACT 1><SCENE 2><9%>
+	That you may ruminate.
+<SPEECH 18><ACT 1><SCENE 2><10%>
+	What would your ladyship?
+<SPEECH 19><ACT 1><SCENE 2><10%>
+	I would it were;
+	That you might kill your stomach on your meat
+	And not upon your maid.
+<SPEECH 20><ACT 1><SCENE 2><10%>
+	Nothing.
+<SPEECH 21><ACT 1><SCENE 2><10%>
+	To take a paper up
+	That I let fall.
+<SPEECH 22><ACT 1><SCENE 2><11%>
+	Nothing concerning me.
+<SPEECH 23><ACT 1><SCENE 2><11%>
+	Madam, it will not lie where it concerns,
+	Unless it have a false interpreter.
+<SPEECH 24><ACT 1><SCENE 2><11%>
+	That I might sing it, madam, to a tune:
+	Give me a note: your ladyship can set.
+<SPEECH 25><ACT 1><SCENE 2><11%>
+	It is too heavy for so light a tune.
+<SPEECH 26><ACT 1><SCENE 2><11%>
+	Ay; and melodious were it, would you sing it.
+<SPEECH 27><ACT 1><SCENE 2><11%>
+	I cannot reach so high.
+<SPEECH 28><ACT 1><SCENE 2><11%>
+	Keep tune there still, so you will sing it out:
+	And yet methinks, I do not like this tune.
+<SPEECH 29><ACT 1><SCENE 2><11%>
+	No, madam; it is too sharp.
+<SPEECH 30><ACT 1><SCENE 2><11%>
+	Nay, now you are too flat
+	And mar the concord with too harsh a descant:
+	There wanteth but a mean to fill your song.
+<SPEECH 31><ACT 1><SCENE 2><12%>
+	Indeed, I bid the base for Proteus.
+<SPEECH 32><ACT 1><SCENE 2><12%>
+	She makes it strange; but she would be best pleas'd
+	To be so anger'd with another letter.
+<SPEECH 33><ACT 1><SCENE 2><13%>
+	Madam,
+	Dinner is ready, and your father stays.
+<SPEECH 34><ACT 1><SCENE 2><13%>
+	What! shall these papers he like tell-tales here?
+<SPEECH 35><ACT 1><SCENE 2><13%>
+	Nay, I was taken up for laying them down;
+	Yet here they shall not lie, for catching cold.
+<SPEECH 36><ACT 1><SCENE 2><13%>
+	Ay, madam, you may say what sights you see;
+	I see things too, although you judge I wink.
+<SPEECH 37><ACT 2><SCENE 7><43%>
+	Alas! the way is wearisome and long.
+<SPEECH 38><ACT 2><SCENE 7><43%>
+	Better forbear till Proteus make return.
+<SPEECH 39><ACT 2><SCENE 7><44%>
+	I do not seek to quench your love's hot fire,
+	But qualify the fire's extreme rage,
+	Lest it should burn above the bounds of reason.
+<SPEECH 40><ACT 2><SCENE 7><44%>
+	But in what habit will you go along?
+<SPEECH 41><ACT 2><SCENE 7><44%>
+	Why, then, your ladyship must cut your hair.
+<SPEECH 42><ACT 2><SCENE 7><45%>
+	What fashion, madam, shall I make your breeches?
+<SPEECH 43><ACT 2><SCENE 7><45%>
+	You must needs have them with a cod-piece, madam.
+<SPEECH 44><ACT 2><SCENE 7><45%>
+	A round hose, madam, now's not worth a pin,
+	Unless you have a cod-piece to stick pins on.
+<SPEECH 45><ACT 2><SCENE 7><45%>
+	If you think so, then stay at home and go not.
+<SPEECH 46><ACT 2><SCENE 7><45%>
+	Then never dream on infamy, but go.
+	If Proteus like your journey when you come,
+	No matter who's displeas'd when you are gone.
+	I fear me, he will scarce be pleas'd withal.
+<SPEECH 47><ACT 2><SCENE 7><46%>
+	All these are servants to deceitful men.
+<SPEECH 48><ACT 2><SCENE 7><46%>
+	Pray heaven he prove so when you come to him!

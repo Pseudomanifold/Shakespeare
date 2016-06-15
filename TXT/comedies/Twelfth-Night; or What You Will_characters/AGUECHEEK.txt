@@ -1,0 +1,178 @@
+<SPEECH 1><ACT 1><SCENE 3><6%>
+	Sir Toby Belch! how now, Sir Toby Belch!
+<SPEECH 2><ACT 1><SCENE 3><6%>
+	Bless you, fair shrew.
+<SPEECH 3><ACT 1><SCENE 3><6%>
+	What's that?
+<SPEECH 4><ACT 1><SCENE 3><6%>
+	Good Mistress Accost, I desire better acquaintance.
+<SPEECH 5><ACT 1><SCENE 3><6%>
+	Good Mistress Mary Accost,—
+<SPEECH 6><ACT 1><SCENE 3><7%>
+	By my troth, I would not undertake her in this company. Is that the meaning of 'accost?'
+<SPEECH 7><ACT 1><SCENE 3><7%>
+	An you part so, mistress, I would I might never draw sword again. Fair lady, do you think you have fools in hand?
+<SPEECH 8><ACT 1><SCENE 3><7%>
+	Marry, but you shall have; and here's my hand.
+<SPEECH 9><ACT 1><SCENE 3><7%>
+	Wherefore, sweetheart? what's your metaphor?
+<SPEECH 10><ACT 1><SCENE 3><7%>
+	Why, I think so: I am not such an ass but I can keep my hand dry. But what's your jest?
+<SPEECH 11><ACT 1><SCENE 3><7%>
+	Are you full of them?
+<SPEECH 12><ACT 1><SCENE 3><7%>
+	Never in your life, I think; unless you see canary put me down. Methinks sometimes I have no more wit than a Christian or an ordinary man has; but I am a great eater of beef, and I believe that does harm to my wit.
+<SPEECH 13><ACT 1><SCENE 3><8%>
+	An I thought that, I'd forswear it.
+	I'll ride home to-morrow, Sir Toby.
+<SPEECH 14><ACT 1><SCENE 3><8%>
+	What is 'pourquoi?' do or not do? I would I had bestowed that time in the tongues that I have in fencing, dancing, and bear-baiting. O! had I but followed the arts!
+<SPEECH 15><ACT 1><SCENE 3><8%>
+	Why, would that have mended my hair?
+<SPEECH 16><ACT 1><SCENE 3><8%>
+	But it becomes me well enough, does't not?
+<SPEECH 17><ACT 1><SCENE 3><8%>
+	Faith, I'll home to-morrow, Sir Toby: your niece will not be seen; or if she be, it's four to one she'll none of me. The count himself here hard by woos her.
+<SPEECH 18><ACT 1><SCENE 3><8%>
+	I'll stay a month longer. I am a fellow o' the strangest mind i' the world; I delight in masques and revels sometimes altogether.
+<SPEECH 19><ACT 1><SCENE 3><9%>
+	As any man in Illyria, whatsoever he be, under the degree of my betters: and yet I will not compare with an old man.
+<SPEECH 20><ACT 1><SCENE 3><9%>
+	Faith, I can cut a caper.
+<SPEECH 21><ACT 1><SCENE 3><9%>
+	And I think I have the back-trick simply as strong as any man in Illyria.
+<SPEECH 22><ACT 1><SCENE 3><9%>
+	Ay, 'tis strong, and it does indifferent well in a flame-coloured stock. Shall we set about some revels?
+<SPEECH 23><ACT 1><SCENE 3><9%>
+	Taurus! that's sides and heart.
+<SPEECH 24><ACT 2><SCENE 3><27%>
+	Nay, by my troth, I know not; but I know, to be up late is to be up late.
+<SPEECH 25><ACT 2><SCENE 3><28%>
+	Faith, so they say; but, I think, it rather consists of eating and drinking.
+<SPEECH 26><ACT 2><SCENE 3><28%>
+	Here comes the fool, i' faith.
+<SPEECH 27><ACT 2><SCENE 3><28%>
+	By my troth, the fool has an excellent breast. I had rather than forty shillings I had such a leg, and so sweet a breath to sing, as the fool has. In sooth, thou wast in very gracious fooling last night, when thou spokest of Pigrogromitus, of the Vapians passing the equinoctial of Queubus: 'twas very good, i' faith. I sent thee sixpence for thy leman: hadst it?
+<SPEECH 28><ACT 2><SCENE 3><28%>
+	Excellent! Why, this is the best fooling, when all is done. Now, a song.
+<SPEECH 29><ACT 2><SCENE 3><28%>
+	There's a testril of me too: if one knight give a—
+<SPEECH 30><ACT 2><SCENE 3><29%>
+	Ay, ay; I care not for good life.
+<SPEECH 31><ACT 2><SCENE 3><29%>
+	Excellent good, i' faith.
+<SPEECH 32><ACT 2><SCENE 3><29%>
+	A mellifluous voice, as I am true knight.
+<SPEECH 33><ACT 2><SCENE 3><29%>
+	Very sweet and contagious, i' faith.
+<SPEECH 34><ACT 2><SCENE 3><29%>
+	An you love me, let's do't: I am dog at a catch.
+<SPEECH 35><ACT 2><SCENE 3><29%>
+	Most certain. Let our catch be, 'Thou knave.'
+<SPEECH 36><ACT 2><SCENE 3><30%>
+	'Tis not the first time I have constrained one to call me knave. Begin, fool: it begins, 'Hold thy peace.'
+<SPEECH 37><ACT 2><SCENE 3><30%>
+	Good, i' faith. Come, begin.
+<SPEECH 38><ACT 2><SCENE 3><30%>
+	Ay, he does well enough if he be disposed, and so do I too: he does it with a better grace, but I do it more natural.
+<SPEECH 39><ACT 2><SCENE 3><32%>
+	'Twere as good a deed as to drink when a man's a-hungry, to challenge him the field, and then to break promise with him and make a fool of him.
+<SPEECH 40><ACT 2><SCENE 3><32%>
+	O! if I thought that, I'd beat him like a dog.
+<SPEECH 41><ACT 2><SCENE 3><33%>
+	I have no exquisite reason for't, but I have reason good enough.
+<SPEECH 42><ACT 2><SCENE 3><33%>
+	I have't in my nose too.
+<SPEECH 43><ACT 2><SCENE 3><33%>
+	And your horse now would make him an ass.
+<SPEECH 44><ACT 2><SCENE 3><34%>
+	O! 'twill be admirable.
+<SPEECH 45><ACT 2><SCENE 3><34%>
+	Before me, she's a good wench.
+<SPEECH 46><ACT 2><SCENE 3><34%>
+	I was adored once too.
+<SPEECH 47><ACT 2><SCENE 3><34%>
+	If I cannot recover your niece, I am a foul way out.
+<SPEECH 48><ACT 2><SCENE 3><34%>
+	If I do not, never trust me, take it how you will.
+<SPEECH 49><ACT 2><SCENE 5><40%>
+	An we do not, it is pity of our lives.
+<SPEECH 50><ACT 2><SCENE 5><41%>
+	'Slight, I could so beat the rogue!
+<SPEECH 51><ACT 2><SCENE 5><41%>
+	Pistol him, pistol him.
+<SPEECH 52><ACT 2><SCENE 5><41%>
+	Fie on him, Jezebel!
+<SPEECH 53><ACT 2><SCENE 5><42%>
+	That's me, I warrant you.
+<SPEECH 54><ACT 2><SCENE 5><42%>
+	I knew 'twas I; for many do call me fool.
+<SPEECH 55><ACT 2><SCENE 5><43%>
+	Her C's, her U's, and her T's: why that—
+<SPEECH 56><ACT 2><SCENE 5><46%>
+	So could I too.
+<SPEECH 57><ACT 2><SCENE 5><46%>
+	Nor I neither.
+<SPEECH 58><ACT 2><SCENE 5><46%>
+	Or o' mine either?
+<SPEECH 59><ACT 2><SCENE 5><46%>
+	I' faith, or I either?
+<SPEECH 60><ACT 2><SCENE 5><47%>
+	I'll make one too.
+<SPEECH 61><ACT 3><SCENE 1><50%>
+	Dieu vous garde, monsieur.
+<SPEECH 62><ACT 3><SCENE 1><50%>
+	I hope, sir, you are; and I am yours.
+<SPEECH 63><ACT 3><SCENE 1><50%>
+	That youth's a rare courtier. 'Rain odours!' well.
+<SPEECH 64><ACT 3><SCENE 1><51%>
+	'Odours,' 'pregnant,' and 'vouchsafed.' I'll get 'em all three all ready.
+<SPEECH 65><ACT 3><SCENE 2><54%>
+	No, faith, I'll not stay a jot longer.
+<SPEECH 66><ACT 3><SCENE 2><54%>
+	Marry, I saw your niece do more favours to the count's serving-man than ever she bestowed upon me; I saw't i' the orchard.
+<SPEECH 67><ACT 3><SCENE 2><54%>
+	As plain as I see you now.
+<SPEECH 68><ACT 3><SCENE 2><54%>
+	'Slight! will you make an ass o' me?
+<SPEECH 69><ACT 3><SCENE 2><55%>
+	An't be any way, it must be with valour, for policy I hate: I had as lief be a Brownist as a politician.
+<SPEECH 70><ACT 3><SCENE 2><55%>
+	Will either of you bear me a challenge to him?
+<SPEECH 71><ACT 3><SCENE 2><56%>
+	Where shall I find you?
+<SPEECH 72><ACT 3><SCENE 4><64%>
+	Here's the challenge; read it: I warrant there's vinegar and pepper in't.
+<SPEECH 73><ACT 3><SCENE 4><64%>
+	Ay, is't, I warrant him: do but read.
+<SPEECH 74><ACT 3><SCENE 4><66%>
+	Nay, let me alone for swearing.
+<SPEECH 75><ACT 3><SCENE 4><70%>
+	Pox on't, I'll not meddle with him.
+<SPEECH 76><ACT 3><SCENE 4><70%>
+	Plague on't; an I thought he had been valiant and so cunning in fence I'd have seen him damned ere I'd have challenged him. Let him let the matter slip, and I'll give him my horse, grey Capilet.
+<SPEECH 77><ACT 3><SCENE 4><71%>
+	Pray God, he keep his oath!
+<SPEECH 78><ACT 3><SCENE 4><72%>
+	Marry, will I, sir; and, for that I promised you, I'll be as good as my word. He will bear you easily and reins well.
+<SPEECH 79><ACT 3><SCENE 4><74%>
+	'Slid, I'll after him again and beat him.
+<SPEECH 80><ACT 3><SCENE 4><75%>
+	An I do not,—
+<SPEECH 81><ACT 4><SCENE 1><76%>
+	Now, sir, have I met you again? there's for you.
+<SPEECH 82><ACT 4><SCENE 1><76%>
+	Nay, let him alone; I'll go another way to work with him: I'll have an action of battery against him if there be any law in Illyria. Though I struck him first, yet it's no matter for that.
+<SPEECH 83><ACT 5><SCENE 1><91%>
+	For the love of God, a surgeon! send one presently to Sir Toby.
+<SPEECH 84><ACT 5><SCENE 1><91%>
+	He has broke my head across, and has given Sir Toby a bloody coxcomb too. For the love of God, your help! I had rather than forty pound I were at home.
+<SPEECH 85><ACT 5><SCENE 1><91%>
+	The count's gentleman, one Cesario: we took him for a coward, but he's the very devil incardinate.
+<SPEECH 86><ACT 5><SCENE 1><91%>
+	Od's lifelings! here he is. You broke my head for nothing! and that that I did, I was set on to do't by Sir Toby.
+<SPEECH 87><ACT 5><SCENE 1><91%>
+	If a bloody coxcomb be a hurt, you have hurt me: I think you set nothing by a bloody coxcomb. Here comes Sir Toby halting;
+	you shall hear more: but if he had not been in drink he would have tickled you othergates than he did.
+<SPEECH 88><ACT 5><SCENE 1><92%>
+	I'll help you, Sir Toby, because we'll be dressed together.

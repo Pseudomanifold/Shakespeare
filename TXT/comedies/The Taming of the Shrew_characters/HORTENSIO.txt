@@ -1,0 +1,259 @@
+<SPEECH 1><ACT 1><SCENE 1><13%>
+	Mates, maid! how mean you that? no mates for you,
+	Unless you were of gentler, milder mould.
+<SPEECH 2><ACT 1><SCENE 1><14%>
+	From all such devils, good Lord deliver us!
+<SPEECH 3><ACT 1><SCENE 1><14%>
+	Signior Baptista, will you be so strange?
+	Sorry am I that our good will effects
+	Bianca's grief.
+<SPEECH 4><ACT 1><SCENE 1><15%>
+	So will I, Signior Gremio: but a word, I pray. Though the nature of our quarrel yet never brooked parle, know now, upon advice, it toucheth us both,—that we may yet again have access to our fair mistress and be happy rivals in Bianca's love,—to labour and effect one thing specially.
+<SPEECH 5><ACT 1><SCENE 1><16%>
+	Marry, sir, to get a husband for her sister.
+<SPEECH 6><ACT 1><SCENE 1><16%>
+	I say, a husband.
+<SPEECH 7><ACT 1><SCENE 1><16%>
+	Tush, Gremio! though it pass your patience and mine to endure her loud alarums, why, man, there be good fellows in the world, an a man could light on them, would take her with all faults, and money enough.
+<SPEECH 8><ACT 1><SCENE 1><16%>
+	Faith, as you say, there's small choice in rotten apples. But, come; since this bar in law makes us friends, it shall be so far forth friendly maintained, till by helping Baptista's eldest daughter to a husband, we set his youngest free for a husband, and then have to't afresh. Sweet Bianca! Happy man be his dole! He that runs fastest gets the ring. How say you, Signior Gremio?
+<SPEECH 9><ACT 1><SCENE 2><21%>
+	How now! what's the matter? My old friend Grumio! and my good friend Petruchio! How do you all at Verona?
+<SPEECH 10><ACT 1><SCENE 2><21%>
+	Alla nostra casa ben venuto; molto honorato signior mio Petruchio.
+	Rise, Grumio, rise: we will compound this quarrel.
+<SPEECH 11><ACT 1><SCENE 2><22%>
+	Petruchio, patience; I am Grumio's pledge.
+	Why, this's a heavy chance 'twixt him and you,
+	Your ancient, trusty, pleasant servant Grumio.
+	And tell me now, sweet friend, what happy gale
+	Blows you to Padua here from old Verona?
+<SPEECH 12><ACT 1><SCENE 2><23%>
+	Petruchio, shall I then come roundly to thee,
+	And wish thee to a shrewd ill-favour'd wife?
+	Thou'dst thank me but a little for my counsel;
+	And yet I'll promise thee she shall be rich,
+	And very rich: but thou'rt too much my friend,
+	And I'll not wish thee to her.
+<SPEECH 13><ACT 1><SCENE 2><23%>
+	Petruchio, since we are stepp'd thus far in,
+	I will continue that I broach'd in jest.
+	I can, Petruchio, help thee to a wife
+	With wealth enough, and young and beauteous,
+	Brought up as best becomes a gentlewoman:
+	Her only fault,—and that is faults enough,—
+	Is, that she is intolerable curst
+	And shrewd and froward, so beyond all measure,
+	That, were my state far worser than it is,
+	I would not wed her for a mine of gold:
+<SPEECH 14><ACT 1><SCENE 2><24%>
+	Her father is Baptista Minola,
+	An affable and courteous gentleman;
+	Her name is Katharina Minola,
+	Renown'd in Padua for her scolding tongue.
+<SPEECH 15><ACT 1><SCENE 2><25%>
+	Tarry, Petruchio, I must go with thee,
+	For in Baptista's keep my treasure is:
+	He hath the jewel of my life in hold,
+	His youngest daughter, beautiful Bianca,
+	And her withholds from me and other more,
+	Suitors to her and rivals in my love;
+	Supposing it a thing impossible,
+	For those defects I have before rehears'd,
+	That ever Katharina will be woo'd:
+	Therefore this order hath Baptista ta'en,
+	That none shall have access unto Bianca,
+	Till Katharine the curst have got a husband.
+<SPEECH 16><ACT 1><SCENE 2><25%>
+	Now shall my friend Petruchio do me grace,
+	And offer me, disguis'd in sober robes,
+	To old Baptista as a schoolmaster
+	Well seen in music, to instruct Bianca;
+	That so I may, by this device, at least
+	Have leave and leisure to make love to her,
+	And unsuspected court her by herself.
+<SPEECH 17><ACT 1><SCENE 2><26%>
+	Peace, Grumio! 'tis the rival of my love.
+	Petruchio, stand by awhile.
+<SPEECH 18><ACT 1><SCENE 2><26%>
+	Grumio, mum! God save you, Signior Gremio!
+<SPEECH 19><ACT 1><SCENE 2><27%>
+	'Tis well: and I have met a gentleman
+	Hath promis'd me to help me to another,
+	A fine musician to instruct our mistress:
+	So shall I no whit be behind in duty
+	To fair Bianca, so belov'd of me.
+<SPEECH 20><ACT 1><SCENE 2><27%>
+	Gremio, 'tis now no time to vent our love:
+	Listen to me, and if you speak me fair,
+	I'll tell you news indifferent good for either.
+	Here is a gentleman whom by chance I met,
+	Upon agreement from us to his liking,
+	Will undertake to woo curst Katharine;
+	Yea, and to marry her, if her dowry please.
+<SPEECH 21><ACT 1><SCENE 2><28%>
+	I promis'd we would be contributors,
+	And bear his charge of wooing, whatsoe'er.
+<SPEECH 22><ACT 1><SCENE 2><29%>
+	Sir, a word ere you go:
+	Are you a suitor to the maid you talk of, yea or no?
+<SPEECH 23><ACT 1><SCENE 2><29%>
+	That she's the chosen of Signior Hortensio.
+<SPEECH 24><ACT 1><SCENE 2><30%>
+	Sir, let me be so bold as ask you,
+	Did you yet ever see Baptista's daughter?
+<SPEECH 25><ACT 1><SCENE 2><30%>
+	Sir, you say well, and well you do conceive;
+	And since you do profess to be a suitor,
+	You must, as we do, gratify this gentleman,
+	To whom we all rest generally beholding.
+<SPEECH 26><ACT 1><SCENE 2><31%>
+	The motion's good indeed, and be it so:—
+	Petruchio, I shall be your ben venuto.
+<SPEECH 27><ACT 2><SCENE 1><36%>
+	For fear, I promise you, if I look pale.
+<SPEECH 28><ACT 2><SCENE 1><37%>
+	I think she'll sooner prove a soldier:
+	Iron may hold with her, but never lutes.
+<SPEECH 29><ACT 2><SCENE 1><37%>
+	Why, no; for she hath broke the lute to me.
+	I did but tell her she mistook her frets,
+	And bow'd her hand to teach her fingering;
+	When, with a most impatient devilish spirit,
+	'Frets, call you these?' quoth she; 'I'll fume with them;'
+	And, with that word, she struck me on the head,
+	And through the instrument my pate made way;
+	And there I stood amazed for a while,
+	As on a pillory, looking through the lute;
+	While she did call me rascal fiddler,
+	And twangling Jack; with twenty such vile terms
+	As she had studied to misuse me so.
+<SPEECH 30><ACT 3><SCENE 1><47%>
+	But, wrangling pedant, this is
+	The patroness of heavenly harmony:
+	Then give me leave to have prerogative;
+	And when in music we have spent an hour,
+	Your lecture shall have leisure for as much.
+<SPEECH 31><ACT 3><SCENE 1><47%>
+	Sirrah, I will not bear these braves of thine.
+<SPEECH 32><ACT 3><SCENE 1><47%>
+	You'll leave his lecture when I am in tune?
+<SPEECH 33><ACT 3><SCENE 1><48%>
+	</STAGE DIR> Madam, my instrument's in tune.
+<SPEECH 34><ACT 3><SCENE 1><48%>
+	Madam, 'tis now in tune.
+<SPEECH 35><ACT 3><SCENE 1><48%>
+	The base is right; 'tis the base knave that jars.
+	How fiery and forward our pedant is!
+	</STAGE DIR> Now, for my life, the knave doth court my love:
+	Pedascule, I'll watch you better yet.
+<SPEECH 36><ACT 3><SCENE 1><49%>
+	</STAGE DIR> You may go walk, and give me leave a while:
+	My lessons make no music in three parts.
+<SPEECH 37><ACT 3><SCENE 1><49%>
+	Madam, before you touch the instrument,
+	To learn the order of my fingering,
+	I must begin with rudiments of art;
+	To teach you gamut in a briefer sort,
+	More pleasant, pithy, and effectual,
+	Than hath been taught by any of my trade:
+	And there it is in writing, fairly drawn.
+<SPEECH 38><ACT 3><SCENE 1><49%>
+	Yet read the gamut of Hortensio.
+<SPEECH 39><ACT 3><SCENE 1><50%>
+	But I have cause to pry into this pedant:
+	Methinks he looks as though he were in love.
+	Yet if thy thoughts, Bianca, be so humble
+	To cast thy wandering eyes on every stale,
+	Seize thee that list: if once I find thee ranging,
+	Hortensio will be quit with thee by changing.
+<SPEECH 40><ACT 4><SCENE 2><67%>
+	Sir, to satisfy you in what I have said,
+	Stand by, and mark the manner of his teaching.
+<SPEECH 41><ACT 4><SCENE 2><68%>
+	Quick proceeders, marry! Now, tell me, I pray,
+	You that durst swear that your mistress Bianca
+	Lov'd none in the world so well as Lucentio.
+<SPEECH 42><ACT 4><SCENE 2><68%>
+	Mistake no more: I am not Licio,
+	Nor a musician, as I seem to be;
+	But one that scorns to live in this disguise,
+	For such a one as leaves a gentleman,
+	And makes a god of such a cullion:
+	Know, sir, that I am call'd Hortensio.
+<SPEECH 43><ACT 4><SCENE 2><68%>
+	See, how they kiss and court! Signior Lucentio,
+	Here is my hand, and here I firmly vow
+	Never to woo her more; but I do forswear her,
+	As one unworthy all the former favours
+	That I have fondly flatter'd her withal.
+<SPEECH 44><ACT 4><SCENE 2><69%>
+	Would all the world, but he had quite forsworn!
+	For me, that I may surely keep mine oath,
+	I will be married to a wealthy widow
+	Ere three days pass, which hath as long lov'd me
+	As I have lov'd this proud disdainful haggard.
+	And so farewell, Signior Lucentio.
+	Kindness in women, not their beauteous looks,
+	Shall win my love: and so I take my leave,
+	In resolution as I swore before.
+<SPEECH 45><ACT 4><SCENE 3><73%>
+	Mistress, what cheer?
+<SPEECH 46><ACT 4><SCENE 3><74%>
+	Signior Petruchio, fie! you are to blame.
+	Come, Mistress Kate, I'll bear you company.
+<SPEECH 47><ACT 4><SCENE 3><75%>
+	</STAGE DIR> That will not be in haste.
+<SPEECH 48><ACT 4><SCENE 3><76%>
+	</STAGE DIR> I see, she's like to have neither cap nor gown.
+<SPEECH 49><ACT 4><SCENE 3><78%>
+	God-a-mercy, Grumio! then he shall have no odds.
+<SPEECH 50><ACT 4><SCENE 3><78%>
+	</STAGE DIR> Tailor, I'll pay thee for thy gown to-morrow:
+	Take no unkindness of his hasty words.
+	Away! I say; commend me to thy master.
+<SPEECH 51><ACT 4><SCENE 3><79%>
+	Why, so this gallant will command the sun.
+<SPEECH 52><ACT 4><SCENE 5><84%>
+	Say as he says, or we shall never go.
+<SPEECH 53><ACT 4><SCENE 5><84%>
+	Petruchio, go thy ways; the field is won.
+<SPEECH 54><ACT 4><SCENE 5><85%>
+	A' will make the man mad, to make a woman of him.
+<SPEECH 55><ACT 4><SCENE 5><86%>
+	I do assure thee, father, so it is.
+<SPEECH 56><ACT 4><SCENE 5><86%>
+	Well, Petruchio, this has put me in heart.
+	Have to my widow! and if she be froward,
+	Then hast thou taught Hortensio to be untoward.
+<SPEECH 57><ACT 5><SCENE 2><93%>
+	For both our sakes I would that word were true.
+<SPEECH 58><ACT 5><SCENE 2><93%>
+	My widow says, thus she conceives her tale.
+<SPEECH 59><ACT 5><SCENE 2><94%>
+	To her, widow!
+<SPEECH 60><ACT 5><SCENE 2><94%>
+	That's my office.
+<SPEECH 61><ACT 5><SCENE 2><95%>
+	Confess, confess, hath he not hit you here?
+<SPEECH 62><ACT 5><SCENE 2><95%>
+	Content. What is the wager?
+<SPEECH 63><ACT 5><SCENE 2><95%>
+	Content.
+<SPEECH 64><ACT 5><SCENE 2><95%>
+	Who shall begin?
+<SPEECH 65><ACT 5><SCENE 2><96%>
+	Sirrah Biondello, go and entreat my wife
+	To come to me forthwith.
+<SPEECH 66><ACT 5><SCENE 2><96%>
+	I am afraid, sir,
+	Do what you can, yours will not be entreated.
+	Now, where's my wife?
+<SPEECH 67><ACT 5><SCENE 2><96%>
+	I know her answer.
+<SPEECH 68><ACT 5><SCENE 2><96%>
+	She will not.
+<SPEECH 69><ACT 5><SCENE 2><97%>
+	And so it is. I wonder what it bodes.
+<SPEECH 70><ACT 5><SCENE 2><100%>
+	Now, go thy ways; thou hast tam'd a curst shrew.

@@ -1,0 +1,185 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	Good time of day unto my gracious lord!
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	With patience, noble lord, as prisoners must:
+	But I shall live, my lord, to give them thanks
+	That were the cause of my imprisonment.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	More pity that the eagles should be mew'd,
+	While kites and buzzards prey at liberty.
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	No news so bad abroad as this at home;
+	The king is sickly, weak, and melancholy,
+	And his physicians fear him mightily.
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	He is.
+<SPEECH 6><ACT 1><SCENE 3><16%>
+	O! 'twas the foulest deed to slay that babe,
+	And the most merciless, that e'er was heard of.
+<SPEECH 7><ACT 1><SCENE 3><18%>
+	False-boding woman, end thy frantic curse,
+	Lest to thy harm thou move our patience.
+<SPEECH 8><ACT 1><SCENE 3><20%>
+	My hair doth stand on end to hear her curses.
+<SPEECH 9><ACT 2><SCENE 1><29%>
+	So thrive I, as I truly swear the like!
+<SPEECH 10><ACT 2><SCENE 1><29%>
+	So prosper I, as I swear perfect love!
+<SPEECH 11><ACT 2><SCENE 1><29%>
+	And so swear I.
+<SPEECH 12><ACT 2><SCENE 2><36%>
+	And so say I.
+<SPEECH 13><ACT 3><SCENE 1><41%>
+	On what occasion, God he knows, not I,
+	The queen your mother, and your brother York,
+	Have taken sanctuary: the tender prince
+	Would fain have come with me to meet your Grace,
+	But by his mother was perforce withheld.
+<SPEECH 14><ACT 3><SCENE 1><42%>
+	I go, my lord.
+<SPEECH 15><ACT 3><SCENE 2><46%>
+	</STAGE DIR> Who knocks?
+<SPEECH 16><ACT 3><SCENE 2><46%>
+	</STAGE DIR> What is't o'clock?
+<SPEECH 17><ACT 3><SCENE 2><46%>
+	Cannot my Lord Stanley sleep these tedious nights?
+<SPEECH 18><ACT 3><SCENE 2><46%>
+	What then?
+<SPEECH 19><ACT 3><SCENE 2><46%>
+	Go, fellow, go, return unto thy lord;
+	Bid him not fear the separated councils:
+	His honour and myself are at the one,
+	And at the other is my good friend Catesby;
+	Where nothing can proceed that toucheth us
+	Whereof I shall not have intelligence.
+	Tell him his fears are shallow, wanting instance:
+	And for his dreams, I wonder he's so fond
+	To trust the mockery of unquiet slumbers.
+	To fly the boar before the boar pursues,
+	Were to incense the boar to follow us
+	And make pursuit where he did mean no chase.
+	Go, bid thy master rise and come to me;
+	And we will both together to the Tower,
+	Where, he shall see, the boar will use us kindly.
+<SPEECH 20><ACT 3><SCENE 2><47%>
+	Good morrow, Catesby; you are early stirring.
+	What news, what news, in this our tottering state?
+<SPEECH 21><ACT 3><SCENE 2><47%>
+	How! wear the garland! dost thou mean the crown?
+<SPEECH 22><ACT 3><SCENE 2><47%>
+	I'll have this crown of mine cut from my shoulders
+	Before I'll see the crown so foul misplac'd.
+	But canst thou guess that he doth aim at it?
+<SPEECH 23><ACT 3><SCENE 2><47%>
+	Indeed, I am no mourner for that news,
+	Because they have been still my adversaries;
+	But that I'll give my voice on Richard's side,
+	To bar my master's heirs in true descent,
+	God knows I will not do it, to the death.
+<SPEECH 24><ACT 3><SCENE 2><47%>
+	But I shall laugh at this a twelve-month hence,
+	That they which brought me in my master's hate,
+	I live to look upon their tragedy.
+	Well, Catesby, ere a fortnight make me older,
+	I'll send some packing that yet think not on't.
+<SPEECH 25><ACT 3><SCENE 2><47%>
+	O monstrous, monstrous! and so falls it out
+	With Rivers, Vaughan, Grey; and so 'twill do
+	With some men else, who think themselves as safe
+	As thou and I; who, as thou know'st, are dear
+	To princely Richard and to Buckingham.
+<SPEECH 26><ACT 3><SCENE 2><48%>
+	I know they do, and I have well deserv'd it.
+	Come on, come on; where is your boar-spear, man?
+	Fear you the boar, and go so unprovided?
+<SPEECH 27><ACT 3><SCENE 2><48%>
+	My lord, I hold my life as dear as you do yours;
+	And never, in my days, I do protest,
+	Was it so precious to me as 'tis now.
+	Think you, but that I know our state secure,
+	I would be so triumphant as I am?
+<SPEECH 28><ACT 3><SCENE 2><48%>
+	Come, come, have with you. Wot you what, my lord?
+	To-day the lords you talk of are beheaded.
+<SPEECH 29><ACT 3><SCENE 2><48%>
+	Go on before; I'll talk with this good fellow.
+	How now, sirrah! how goes the world with thee?
+<SPEECH 30><ACT 3><SCENE 2><48%>
+	I tell thee, man, 'tis better with me now
+	Than when I met thee last where now we meet:
+	Then was I going prisoner to the Tower,
+	By the suggestion of the queen's allies;
+	But now, I tell thee,—keep it to thyself,—
+	This day those enemies are put to death,
+	And I in better state than e'er I was.
+<SPEECH 31><ACT 3><SCENE 2><48%>
+	Gramercy, fellow: there, drink that for me.
+<SPEECH 32><ACT 3><SCENE 2><49%>
+	I thank thee, good Sir John, with all my heart.
+	I am in your debt for your last exercise;
+	Come the next Sabbath, and I will content you.
+<SPEECH 33><ACT 3><SCENE 2><49%>
+	Good faith, and when I met this holy man,
+	The men you talk of came into my mind.
+	What, go you toward the Tower?
+<SPEECH 34><ACT 3><SCENE 2><49%>
+	Nay, like enough, for I stay dinner there.
+<SPEECH 35><ACT 3><SCENE 2><49%>
+	I'll wait upon your lordship.
+<SPEECH 36><ACT 3><SCENE 4><50%>
+	My lords, at once: the cause why we are met
+	Is to determine of the coronation:
+	In God's name, speak, when is the royal day?
+<SPEECH 37><ACT 3><SCENE 4><50%>
+	I thank his Grace, I know he loves me well;
+	But, for his purpose in the coronation,
+	I have not sounded him, nor he deliver'd
+	His gracious pleasure any way therein:
+	But you, my noble lords, may name the time;
+	And in the duke's behalf I'll give my voice,
+	Which, I presume, he'll take in gentle part.
+<SPEECH 38><ACT 3><SCENE 4><51%>
+	His Grace looks cheerfully and smooth this morning:
+	There's some conceit or other likes him well,
+	When that he bids good morrow with such spirit.
+	I think there's never a man in Christendom
+	Can lesser hide his hate or love than he;
+	For by his face straight shall you know his heart.
+<SPEECH 39><ACT 3><SCENE 4><52%>
+	Marry, that with no man here he is offended;
+	For, were he, he had shown it in his looks.
+<SPEECH 40><ACT 3><SCENE 4><52%>
+	The tender love I bear your Grace, my lord,
+	Makes me most forward in this princely presence
+	To doom th' offenders, whosoe'er they be:
+	I say, my lord, they have deserved death.
+<SPEECH 41><ACT 3><SCENE 4><52%>
+	If they have done this thing, my noble lord,—
+<SPEECH 42><ACT 3><SCENE 4><52%>
+	Woe, woe, for England! not a whit for me;
+	For I, too fond, might have prevented this.
+	Stanley did dream the boar did raze his helm;
+	And I did scorn it, and disdain'd to fly.
+	Three times to-day my foot-cloth horse did stumble,
+	And startled when he looked upon the Tower,
+	As loath to bear me to the slaughter-house.
+	O! now I need the priest that spake to me:
+	I now repent I told the pursuivant,
+	As too triumphing, how mine enemies
+	To-day at Pomfret bloodily were butcher'd
+	And I myself secure in grace and favour.
+	O Margaret, Margaret! now thy heavy curse
+	Is lighted on poor Hastings' wretched head.
+<SPEECH 43><ACT 3><SCENE 4><53%>
+	O momentary grace of mortal man,
+	Which we more hunt for than the grace of God!
+	Who builds his hope in air of your good looks,
+	Lives like a drunken sailor on a mast;
+	Ready with every nod to tumble down
+	Into the fatal bowels of the deep.
+<SPEECH 44><ACT 3><SCENE 4><53%>
+	O bloody Richard! miserable England!
+	I prophesy the fearfull'st time to thee
+	That ever wretched age hath look'd upon.
+	Come, lead me to the block; bear him my head:
+	They smile at me who shortly shall be dead.

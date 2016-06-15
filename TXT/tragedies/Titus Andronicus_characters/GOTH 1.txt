@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 5><SCENE 1><78%>
+	Brave slip, sprung from the great Andronicus,
+	Whose name was once our terror, now our comfort;
+	Whose high exploits and honourable deeds
+	Ingrateful Rome requites with foul contempt,
+	Be bold in us: we'll follow where thou lead'st,
+	Like stinging bees in hottest summer's day
+	Led by their master to the flower'd fields,
+	And be aveng'd on cursed Tamora.
+<SPEECH 2><ACT 5><SCENE 1><82%>
+	What! canst thou say all this, and never blush?
+<SPEECH 3><ACT 5><SCENE 1><84%>
+	What says our general?
+<SPEECH 4><ACT 5><SCENE 3><92%>
+	And ours with thine, befall what fortune will.

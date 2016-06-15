@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 2><SCENE 1><30%>
+	There is no fear in him; let him not die:
+	For he will live, and laugh at this hereafter.
+<SPEECH 2><ACT 2><SCENE 1><30%>
+	'Tis time to part.
+<SPEECH 3><ACT 2><SCENE 2><40%>
+	Cæsar, I will:—<STAGE DIR>
+	</STAGE DIR> and so near will I be,
+	That your best friends shall wish I had been further.
+<SPEECH 4><ACT 3><SCENE 1><48%>
+	Fled to his house amaz'd.
+	Men, wives and children stare, cry out and run
+	As it were doomsday.

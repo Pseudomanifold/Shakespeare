@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 1><SCENE 3><9%>
+	</STAGE DIR> What, ho! what, ho! what, ho!
+<SPEECH 2><ACT 1><SCENE 3><10%>
+	The Turkish preparation makes for Rhodes;
+	So was I bid report here to the state
+	By Signior Angelo.

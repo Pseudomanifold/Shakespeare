@@ -1,0 +1,117 @@
+<SPEECH 1><ACT 2><SCENE 2><31%>
+	Else might the world convince of levity
+	As well my undertakings as your counsels;
+	But I attest the gods, your full consent
+	Gave wings to my propension and cut off
+	All fears attending on so dire a project:
+	For what, alas! can these my single arms?
+	What propugnation is in one man's valour,
+	To stand the push and enmity of those
+	This quarrel would excite? Yet, I protest,
+	Were I alone to pass the difficulties,
+	And had as ample power as I have will,
+	Paris should ne'er retract what he hath done,
+	Nor faint in the pursuit.
+<SPEECH 2><ACT 2><SCENE 2><31%>
+	Sir, I propose not merely to myself
+	The pleasure such a beauty brings with it;
+	But I would have the soil of her fair rape
+	Wip'd off, in honourable keeping her.
+	What treason were it to the ransack'd queen,
+	Disgrace to your great worths, and shame to me,
+	Now to deliver her possession up,
+	On terms of base compulsion! Can it be
+	That so degenerate a strain as this
+	Should once set footing in your generous bosoms?
+	There's not the meanest spirit on our party
+	Without a heart to dare or sword to draw
+	When Helen is defended, nor none so noble
+	Whose life were ill bestow'd or death unfam'd
+	Where Helen is the subject: then, I say,
+	Well may we fight for her, whom, we know well,
+	The world's large spaces cannot parallel.
+<SPEECH 3><ACT 3><SCENE 1><42%>
+	You have broke it, cousin; and, by my life, you shall make it whole again: you shall piece it out with a piece of your performance. Nell, he is full of harmony.
+<SPEECH 4><ACT 3><SCENE 1><42%>
+	Well said, my lord! Well, you say so in fits.
+<SPEECH 5><ACT 3><SCENE 1><43%>
+	What exploit's in hand? where sups he to-night?
+<SPEECH 6><ACT 3><SCENE 1><43%>
+	I'll lay my life, with my disposer Cressida.
+<SPEECH 7><ACT 3><SCENE 1><43%>
+	Well, I'll make excuse.
+<SPEECH 8><ACT 3><SCENE 1><43%>
+	I spy.
+<SPEECH 9><ACT 3><SCENE 1><44%>
+	Ay, good now, love, love, nothing but love.
+<SPEECH 10><ACT 3><SCENE 1><44%>
+	He eats nothing but doves, love; and that breeds hot blood, and hot blood begets hot thoughts, and hot thoughts beget hot deeds, and hot deeds is love.
+<SPEECH 11><ACT 3><SCENE 1><44%>
+	Hector, Deiphobus, Helenus, Antenor, and all the gallantry of Troy: I would fain have armed to-day, but my Nell would not have it so. How chance my brother Troilus went not?
+<SPEECH 12><ACT 3><SCENE 1><44%>
+	To a hair.
+<SPEECH 13><ACT 3><SCENE 1><44%>
+	They're come from field: let us to Priam's hall
+	To greet the warriors. Sweet Helen, I must woo you
+	To help unarm our Hector: his stubborn buckles,
+	With these your white enchanting fingers touch'd,
+	Shall more obey than to the edge of steel
+	Or force of Greekish sinews; you shall do more
+	Than all the island kings,—disarm great Hector.
+<SPEECH 14><ACT 3><SCENE 1><45%>
+	Sweet, above thought I love thee.
+<SPEECH 15><ACT 4><SCENE 1><60%>
+	See, ho! who is that there?
+<SPEECH 16><ACT 4><SCENE 1><60%>
+	A valiant Greek, Æneas; take his hand:
+	Witness the process of your speech, wherein
+	You told how Diomed, a whole week by days,
+	Did haunt you in the field.
+<SPEECH 17><ACT 4><SCENE 1><60%>
+	This is the most despiteful gentle greeting,
+	The noblest hateful love, that e'er I heard of.
+	What business, lord, so early?
+<SPEECH 18><ACT 4><SCENE 1><61%>
+	His purpose meets you: 'twas to bring this Greek
+	To Calchas' house, and there to render him,
+	For the enfreed Antenor, the fair Cressid.
+	Let's have your company; or, if you please,
+	Haste there before us. I constantly do think—
+	Or rather, call my thought a certain knowledge—
+	My brother Troilus lodges there to-night:
+	Rouse him and give him note of our approach,
+	With the whole quality wherefore: I fear
+	We shall be much unwelcome.
+<SPEECH 19><ACT 4><SCENE 1><61%>
+	There is no help;
+	The bitter disposition of the time
+	Will have it so. On, lord; we'll follow you.
+<SPEECH 20><ACT 4><SCENE 1><61%>
+	And tell me, noble Diomed; faith, tell me true,
+	Even in the soul of sound good-fellowship,
+	Who, in your thoughts, merits fair Helen best—
+	Myself or Menelaus?
+<SPEECH 21><ACT 4><SCENE 1><61%>
+	You are too bitter to your country-woman.
+<SPEECH 22><ACT 4><SCENE 1><62%>
+	Fair Diomed, you do as chapmen do,
+	Dispraise the thing that you desire to buy;
+	But we in silence hold this virtue well,
+	We'll not commend what we intend to sell.
+	Here lies our way.
+<SPEECH 23><ACT 4><SCENE 3><65%>
+	It is great morning, and the hour prefix'd
+	Of her delivery to this valiant Greek
+	Comes fast upon. Good my brother Troilus,
+	Tell you the lady what she is to do,
+	And haste her to the purpose.
+<SPEECH 24><ACT 4><SCENE 3><66%>
+	I know what 'tis to love;
+	And would, as I shall pity, I could help!
+	Please you walk in, my lords.
+<SPEECH 25><ACT 4><SCENE 4><69%>
+	</STAGE DIR> Brother Troilus!
+<SPEECH 26><ACT 4><SCENE 4><70%>
+	Hark! Hector's trumpet.
+<SPEECH 27><ACT 4><SCENE 4><70%>
+	'Tis Troilus' fault. Come, come, to field with him.

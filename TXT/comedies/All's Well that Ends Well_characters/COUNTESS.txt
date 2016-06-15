@@ -1,0 +1,304 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	In delivering my son from me, I bury a second husband.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	What hope is there of his majesty's amendment?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	This young gentlewoman had a father,—O, that 'had!' how sad a passage 'tis!—whose skill was almost as great as his honesty; had it stretched so far, would have made nature immortal, and death should have play for lack of work. Would, for the king's sake, he were living! I think it would be the death of the king's disease.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	He was famous, sir, in his profession, and it was his great right to be so: Gerard de Narbon.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	His sole child, my lord; and bequeathed to my overlooking. I have those hopes of her good that her education promises: her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity; they are virtues and traitors too: in her they are the better for their simpleness; she derives her honesty and achieves her goodness.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	'Tis the best brine a maiden can season her praise in. The remembrance of her father never approaches her heart but the tyranny of her sorrows takes all livelihood from her cheek. No more of this, Helena, go to, no more; lest it be rather thought you affect a sorrow, than have it.
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	Be thou blest, Bertram; and succeed thy father
+	In manners, as in shape! thy blood and virtue
+	Contend for empire in thee; and thy goodness
+	Share with thy birthright! Love all, trust a few,
+	Do wrong to none: be able for thine enemy
+	Rather in power than use, and keep thy friend
+	Under thy own life's key: be check'd for silence,
+	But never tax'd for speech. What heaven more will
+	That thee may furnish, and my prayers pluck down,
+	Fall on thy head! Farewell, my lord;
+	'Tis an unseason'd courtier; good my lord,
+	Advise him.
+<SPEECH 8><ACT 1><SCENE 1><3%>
+	Heaven bless him! Farewell, Bertram.
+<SPEECH 9><ACT 1><SCENE 3><11%>
+	I will now hear: what say you of this gentlewoman?
+<SPEECH 10><ACT 1><SCENE 3><11%>
+	What does this knave here? Get you gone, sirrah: the complaints I have heard of you I do not all believe: 'tis my slowness that I do not; for I know you lack not folly to commit them, and have ability enough to make such knaveries yours.
+<SPEECH 11><ACT 1><SCENE 3><11%>
+	Well, sir.
+<SPEECH 12><ACT 1><SCENE 3><12%>
+	Wilt thou needs be a beggar?
+<SPEECH 13><ACT 1><SCENE 3><12%>
+	In what case?
+<SPEECH 14><ACT 1><SCENE 3><12%>
+	Tell me thy reason why thou wilt marry.
+<SPEECH 15><ACT 1><SCENE 3><12%>
+	Is this all your worship's reason?
+<SPEECH 16><ACT 1><SCENE 3><12%>
+	May the world know them?
+<SPEECH 17><ACT 1><SCENE 3><12%>
+	Thy marriage, sooner than thy wickedness.
+<SPEECH 18><ACT 1><SCENE 3><12%>
+	Such friends are thine enemies, knave.
+<SPEECH 19><ACT 1><SCENE 3><13%>
+	Wilt thou ever be a foul-mouthed and calumnious knave?
+<SPEECH 20><ACT 1><SCENE 3><13%>
+	Get you gone, sir: I'll talk with you more anon.
+<SPEECH 21><ACT 1><SCENE 3><13%>
+	Sirrah, tell my gentlewoman I would speak with her; Helen I mean.
+<SPEECH 22><ACT 1><SCENE 3><13%>
+	What! one good in ten? you corrupt the song, sirrah.
+<SPEECH 23><ACT 1><SCENE 3><14%>
+	You'll be gone, sir knave, and do as I command you!
+<SPEECH 24><ACT 1><SCENE 3><14%>
+	Well, now.
+<SPEECH 25><ACT 1><SCENE 3><14%>
+	Faith, I do: her father bequeathed her to me; and she herself, without other advantage, may lawfully make title to as much love as she finds: there is more owing her than is paid, and more shall be paid her than she'll demand.
+<SPEECH 26><ACT 1><SCENE 3><15%>
+	You have discharged this honestly: keep it to yourself. Many likelihoods informed me of this before, which hung so tottering in the balance that I could neither believe nor misdoubt. Pray you, leave me: stall this in your bosom; and I thank you for your honest care. I will speak with you further anon.
+	Even so it was with me when I was young:
+	If ever we are nature's, these are ours; this thorn
+	Doth to our rose of youth rightly belong;
+	Our blood to us, this to our blood is born:
+	It is the show and seal of nature's truth,
+	Where love's strong passion is impress'd in youth:
+	By our remembrances of days foregone,
+	Such were our faults; or then we thought them none.
+	Her eye is sick on't: I observe her now.
+<SPEECH 27><ACT 1><SCENE 3><15%>
+	You know, Helen,
+	I am a mother to you.
+<SPEECH 28><ACT 1><SCENE 3><15%>
+	Nay, a mother:
+	Why not a mother? When I said, 'a mother,'
+	Methought you saw a serpent: what's in 'mother'
+	That you start at it? I say, I am your mother;
+	And put you in the catalogue of those
+	That were enwombed mine: 'tis often seen
+	Adoption strives with nature, and choice breeds
+	A native slip to us from foreign seeds;
+	You ne'er oppress'd me with a mother's groan,
+	Yet I express to you a mother's care.
+	God's mercy, maiden! does it curd thy blood
+	To say I am thy mother? What's the matter,
+	That this distemper'd messenger of wet,
+	The many-colour'd Iris, rounds thine eye?
+	Why? that you are my daughter?
+<SPEECH 29><ACT 1><SCENE 3><16%>
+	I say, I am your mother.
+<SPEECH 30><ACT 1><SCENE 3><16%>
+	Nor I your mother?
+<SPEECH 31><ACT 1><SCENE 3><16%>
+	Yes, Helen, you might be my daughter-in-law:
+	God shield you mean it not! daughter and mother
+	So strive upon your pulse. What, pale again?
+	My fear hath catch'd your fondness: now I see
+	The mystery of your loneliness, and find
+	Your salt tears' head: now to all sense 'tis gross
+	You love my son: invention is asham'd,
+	Against the proclamation of thy passion,
+	To say thou dost not: therefore tell me true;
+	But tell me then, 'tis so; for, look, thy cheeks
+	Confess it, th' one to th' other; and thine eyes
+	See it so grossly shown in thy behaviours
+	That in their kind they speak it: only sin
+	And hellish obstinacy tie thy tongue,
+	That truth should be suspected. Speak, is't so?
+	If it be so, you have wound a goodly clew;
+	If it be not, forswear't: howe'er, I charge thee,
+	As heaven shall work in me for thine avail,
+	To tell me truly.
+<SPEECH 32><ACT 1><SCENE 3><17%>
+	Do you love my son?
+<SPEECH 33><ACT 1><SCENE 3><17%>
+	Love you my son?
+<SPEECH 34><ACT 1><SCENE 3><17%>
+	Go not about; my love hath in't a bond
+	Whereof the world takes note: come, come, disclose
+	The state of your affection, for your passions
+	Have to the full appeach'd.
+<SPEECH 35><ACT 1><SCENE 3><18%>
+	Had you not lately an intent, speak truly,
+	To go to Paris?
+<SPEECH 36><ACT 1><SCENE 3><18%>
+	Wherefore? tell true.
+<SPEECH 37><ACT 1><SCENE 3><18%>
+	This was your motive
+	For Paris, was it? speak.
+<SPEECH 38><ACT 1><SCENE 3><18%>
+	But think you, Helen,
+	If you should tender your supposed aid,
+	He would receive it? He and his physicians
+	Are of a mind; he, that they cannot help him,
+	They, that they cannot help. How shall they credit
+	A poor unlearned virgin, when the schools,
+	Embowell'd of their doctrine, have left off
+	The danger to itself?
+<SPEECH 39><ACT 1><SCENE 3><19%>
+	Dost thou believe't?
+<SPEECH 40><ACT 1><SCENE 3><19%>
+	Why, Helen, thou shalt have my leave and love,
+	Means, and attendants, and my loving greetings
+	To those of mine in court. I'll stay at home
+	And pray God's blessing into thy attempt.
+	Be gone to-morrow; and be sure of this,
+	What I can help thee to thou shalt not miss.
+<SPEECH 41><ACT 2><SCENE 2><27%>
+	Come on, sir; I shall now put you to the height of your breeding.
+<SPEECH 42><ACT 2><SCENE 2><27%>
+	To the court! why what place make you special, when you put off that with such contempt? 'But to the court!'
+<SPEECH 43><ACT 2><SCENE 2><27%>
+	Marry, that's a bountiful answer that fits all questions.
+<SPEECH 44><ACT 2><SCENE 2><27%>
+	Will your answer serve fit to all questions?
+<SPEECH 45><ACT 2><SCENE 2><28%>
+	Have you, I say, an answer of such fitness for all questions?
+<SPEECH 46><ACT 2><SCENE 2><28%>
+	It must be an answer of most monstrous size that must fit all demands.
+<SPEECH 47><ACT 2><SCENE 2><28%>
+	To be young again, if we could. I will be a fool in question, hoping to be the wiser by your answer. I pray you, sir, are you a courtier?
+<SPEECH 48><ACT 2><SCENE 2><28%>
+	Sir, I am a poor friend of yours, that loves you.
+<SPEECH 49><ACT 2><SCENE 2><28%>
+	I think, sir, you can eat none of this homely meat.
+<SPEECH 50><ACT 2><SCENE 2><28%>
+	You were lately whipped, sir, as I think.
+<SPEECH 51><ACT 2><SCENE 2><28%>
+	Do you cry, 'O Lord, sir!' at your whipping, and 'Spare not me?' Indeed your 'O Lord, sir!' is very sequent to your whipping: you would answer very well to a whipping, if you were but bound to't.
+<SPEECH 52><ACT 2><SCENE 2><29%>
+	I play the noble housewife with the time,
+	To entertain't so merrily with a fool.
+<SPEECH 53><ACT 2><SCENE 2><29%>
+	An end, sir: to your business. Give Helen this,
+	And urge her to a present answer back:
+	Commend me to my kinsmen and my son.
+	This is not much.
+<SPEECH 54><ACT 2><SCENE 2><29%>
+	Not much employment for you: you understand me?
+<SPEECH 55><ACT 2><SCENE 2><29%>
+	Haste you again.
+<SPEECH 56><ACT 3><SCENE 2><46%>
+	It hath happened all as I would have had it, save that he comes not along with her.
+<SPEECH 57><ACT 3><SCENE 2><46%>
+	By what observance, I pray you?
+<SPEECH 58><ACT 3><SCENE 2><46%>
+	</STAGE DIR> Let me see what he writes, and when he means to come.
+<SPEECH 59><ACT 3><SCENE 2><46%>
+	What have we here?
+<SPEECH 60><ACT 3><SCENE 2><46%>
+	I have sent you a daughter-in-law: she hath recovered the king, and undone me. I have wedded her, not bedded her; and sworn to make the <span class="normal>'not' eternal. You shall hear I am ran away: know it before the report come. If there be breadth enough in the world, I will hold a long distance. My duty to you.
+	Your unfortunate son,
+	<BERTRAM.>This is not well: rash and unbridled boy,
+	To fly the favours of so good a king!
+	To pluck his indignation on thy head
+	By the misprising of a maid too virtuous
+	For the contempt of empire!
+<SPEECH 61><ACT 3><SCENE 2><47%>
+	What is the matter?
+<SPEECH 62><ACT 3><SCENE 2><47%>
+	Why should he be killed?
+<SPEECH 63><ACT 3><SCENE 2><47%>
+	Think upon patience. Pray you, gentlemen,
+	I have felt so many quirks of joy and grief,
+	That the first face of neither, on the start,
+	Can woman me unto 't: where is my son, I pray you?
+<SPEECH 64><ACT 3><SCENE 2><48%>
+	Brought you this letter, gentlemen?
+<SPEECH 65><ACT 3><SCENE 2><48%>
+	I prithee, lady, have a better cheer;
+	If thou engrossest all the griefs are thine,
+	Thou robb'st me of a moiety: he was my son,
+	But I do wash his name out of my blood,
+	And thou art all my child. Towards Florence is he?
+<SPEECH 66><ACT 3><SCENE 2><48%>
+	And to be a soldier?
+<SPEECH 67><ACT 3><SCENE 2><48%>
+	Return you thither?
+<SPEECH 68><ACT 3><SCENE 2><48%>
+	Find you that there?
+<SPEECH 69><ACT 3><SCENE 2><48%>
+	Nothing in France until he have no wife!
+	There's nothing here that is too good for him
+	But only she; and she deserves a lord
+	That twenty such rude boys might tend upon,
+	And call her hourly mistress. Who was with him?
+<SPEECH 70><ACT 3><SCENE 2><49%>
+	Parolles, was it not?
+<SPEECH 71><ACT 3><SCENE 2><49%>
+	A very tainted fellow, and full of wickedness.
+	My son corrupts a well-derived nature
+	With his inducement.
+<SPEECH 72><ACT 3><SCENE 2><49%>
+	Y'are welcome, gentlemen.
+	I will entreat you, when you see my son,
+	To tell him that his sword can never win
+	The honour that he loses: more I'll entreat you
+	Written to bear along.
+<SPEECH 73><ACT 3><SCENE 2><49%>
+	Not so, but as we change our courtesies.
+	Will you draw near?
+<SPEECH 74><ACT 3><SCENE 4><51%>
+	Alas! and would you take the letter of her?
+	Might you not know she would do as she has done,
+	By sending me a letter? Read it again.
+<SPEECH 75><ACT 3><SCENE 4><51%>
+	Ah, what sharp stings are in her mildest words!
+	Rinaldo, you did never lack advice so much,
+	As letting her pass so: had I spoke with her,
+	I could have well diverted her intents,
+	Which thus she hath prevented.
+<SPEECH 76><ACT 3><SCENE 4><52%>
+	What angel shall
+	Bless this unworthy husband? he cannot thrive,
+	Unless her prayers, whom heaven delights to hear,
+	And loves to grant, reprieve him from the wrath
+	Of greatest justice. Write, write, Rinaldo,
+	To this unworthy husband of his wife;
+	Let every word weigh heavy of her worth
+	That he does weigh too light: my greatest grief,
+	Though little he do feel it, set down sharply.
+	Dispatch the most convenient messenger:
+	When haply he shall hear that she is gone,
+	He will return; and hope I may that she,
+	Hearing so much, will speed her foot again,
+	Led hither by pure love. Which of them both
+	Is dearest to me I have no skill in sense
+	To make distinction. Provide this messenger.
+	My heart is heavy and mine age is weak;
+	Grief would have tears, and sorrow bids me speak.
+<SPEECH 77><ACT 4><SCENE 5><81%>
+	I would I had not known him; it was the death of the most virtuous gentlewoman that ever nature had praise for creating. If she had partaken of my flesh, and cost me the dearest groans of a mother, I could not have owed her a more rooted love.
+<SPEECH 78><ACT 4><SCENE 5><83%>
+	So he is. My lord that's gone made himself much sport out of him: by his authority he remains here, which he thinks is a patent for his sauciness; and, indeed, he has no pace, but runs where he will.
+<SPEECH 79><ACT 4><SCENE 5><83%>
+	With very much content, my lord; and I wish it happily effected.
+<SPEECH 80><ACT 4><SCENE 5><83%>
+	It rejoices me that I hope I shall see him ere I die. I have letters that my son will be here to-night: I shall beseech your lordship to remain with me till they meet together.
+<SPEECH 81><ACT 4><SCENE 5><84%>
+	You need but plead your honourable privilege.
+<SPEECH 82><ACT 5><SCENE 3><88%>
+	'Tis past, my liege;
+	And I beseech your majesty to make it
+	Natural rebellion, done i' the blaze of youth;
+	When oil and fire, too strong for reason's force,
+	O'erbears it and burns on.
+<SPEECH 83><ACT 5><SCENE 3><90%>
+	Which better than the first, O dear heaven, bless!
+	Or, ere they meet, in me, O nature, cesse!
+<SPEECH 84><ACT 5><SCENE 3><91%>
+	Son, on my life,
+	I have seen her wear it; and she reckon'd it
+	At her life's rate.
+<SPEECH 85><ACT 5><SCENE 3><93%>
+	Now, justice on the doers!
+<SPEECH 86><ACT 5><SCENE 3><95%>
+	He blushes, and 'tis it:
+	Of six preceding ancestors, that gem
+	Conferr'd by testament to the sequent issue,
+	Hath it been ow'd and worn. This is his wife:
+	That ring's a thousand proofs.

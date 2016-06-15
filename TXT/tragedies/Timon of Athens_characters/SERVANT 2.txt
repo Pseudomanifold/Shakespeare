@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 1><SCENE 2><20%>
+	May it please your honour, Lord Lucius,
+	Out of his free love, hath presented to you
+	Four milk-white horses, trapp'd in silver.
+<SPEECH 2><ACT 4><SCENE 2><61%>
+	As we do turn our backs
+	From our companion thrown into his grave,
+	So his familiars to his buried fortunes
+	Slink all away, leave their false vows with him,
+	Like empty purses pick'd; and his poor self,
+	A dedicated beggar to the air,
+	With his disease of all-shunn'd poverty,
+	Walks, like contempt, alone. More of our fellows.

@@ -1,0 +1,50 @@
+<SPEECH 1><ACT 2><SCENE 2><30%>
+	</STAGE DIR> Cry, Trojans, cry!
+<SPEECH 2><ACT 2><SCENE 2><30%>
+	</STAGE DIR> Cry, Trojans!
+<SPEECH 3><ACT 2><SCENE 2><30%>
+	Cry, Trojans, cry! lend me ten thousand eyes,
+	And I will fill them with prophetic tears.
+<SPEECH 4><ACT 2><SCENE 2><30%>
+	Virgins and boys, mid-age and wrinkled eld,
+	Soft infancy, that nothing canst but cry,
+	Add to my clamours! let us pay betimes
+	A moiety of that mass of moan to come.
+	Cry, Trojans, cry! practise your eyes with tears!
+	Troy must not be, nor goodly Ilion stand;
+	Our firebrand brother, Paris, burns us all.
+	Cry, Trojans, cry! a Helen and a woe!
+	Cry, cry! Troy burns, or else let Helen go.
+<SPEECH 5><ACT 5><SCENE 3><89%>
+	Where is my brother Hector?
+<SPEECH 6><ACT 5><SCENE 3><89%>
+	O! 'tis true.
+<SPEECH 7><ACT 5><SCENE 3><89%>
+	No notes of sally, for the heavens, sweet brother.
+<SPEECH 8><ACT 5><SCENE 3><89%>
+	The gods are deaf to hot and peevish vows:
+	They are polluted offerings, more abhorr'd
+	Than spotted livers in the sacrifice.
+<SPEECH 9><ACT 5><SCENE 3><89%>
+	It is the purpose that makes strong the vow;
+	But vows to every purpose must not hold.
+	Unarm, sweet Hector.
+<SPEECH 10><ACT 5><SCENE 3><90%>
+	Lay hold upon him, Priam, hold him fast:
+	He is thy crutch; now if thou lose thy stay,
+	Thou on him leaning, and all Troy on thee,
+	Fall all together.
+<SPEECH 11><ACT 5><SCENE 3><91%>
+	O Priam! yield not to him.
+<SPEECH 12><ACT 5><SCENE 3><91%>
+	O farewell! dear Hector.
+	Look! how thou diest; look! how thy eye turns pale;
+	Look! how thy wounds do bleed at many vents:
+	Hark! how Troy roars: how Hecuba cries out!
+	How poor Andromache shrills her dolours forth!
+	Behold, distraction, frenzy, and amazement,
+	Like witless anticks, one another meet,
+	And all cry Hector! Hector's dead! O Hector!
+<SPEECH 13><ACT 5><SCENE 3><91%>
+	Farewell. Yet, soft! Hector, I take my leave:
+	Thou dost thyself and all our Troy deceive.

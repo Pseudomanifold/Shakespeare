@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 1><SCENE 2><15%>
+	Have you the lion's part written? pray you, if it be, give it me, for I am slow of study.
+<SPEECH 2><ACT 3><SCENE 1><39%>
+	Doth the moon shine that night we play our play?
+<SPEECH 3><ACT 3><SCENE 1><39%>
+	You can never bring in a wall. What say you, Bottom?
+<SPEECH 4><ACT 4><SCENE 2><79%>
+	Masters, the duke is coming from the temple, and there is two or three lords and ladies more married: if our sport had gone forward, we had all been made men.

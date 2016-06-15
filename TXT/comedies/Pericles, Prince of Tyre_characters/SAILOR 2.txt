@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 3><SCENE 1><48%>
+	But sea-room, an the brine and cloudy billow kiss the moon, I care not.
+<SPEECH 2><ACT 3><SCENE 1><49%>
+	Sir, we have a chest beneath the hatches, caulk'd and bitumed ready.
+<SPEECH 3><ACT 3><SCENE 1><49%>
+	We are near Tarsus.
+<SPEECH 4><ACT 3><SCENE 1><49%>
+	By break of day, if the wind cease.

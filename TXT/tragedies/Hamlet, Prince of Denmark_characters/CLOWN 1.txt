@@ -1,0 +1,81 @@
+<SPEECH 1><ACT 5><SCENE 1><82%>
+	Is she to be buried in Christian burial that wilfully seeks her own salvation?
+<SPEECH 2><ACT 5><SCENE 1><82%>
+	How can that be, unless she drowned herself in her own defence?
+<SPEECH 3><ACT 5><SCENE 1><82%>
+	It must be se offendendo; it cannot be else. For here lies the point: if I drown myself wittingly it argues an act; and an act hath three branches; it is, to act, to do, and to perform: argal, she drowned herself wittingly.
+<SPEECH 4><ACT 5><SCENE 1><82%>
+	Give me leave. Here lies the water; good: here stands the man; good: if the man go to this water, and drown himself, it is, will he, nill he, he goes; mark you that? but if the water come to him, and drown him, he drowns not himself: argal, he that is not guilty of his own death shortens not his own life.
+<SPEECH 5><ACT 5><SCENE 1><82%>
+	Ay, marry, is 't; crowner's quest law.
+<SPEECH 6><ACT 5><SCENE 1><82%>
+	Why, there thou sayest; and the more pity that great folk should have countenance in this world to drown or hang themselves more than their even Christian. Come, my spade. There is no ancient gentlemen but gardeners, ditchers, and grave-makers; they hold up Adam's profession.
+<SPEECH 7><ACT 5><SCENE 1><82%>
+	A' was the first that ever bore arms.
+<SPEECH 8><ACT 5><SCENE 1><82%>
+	What! art a heathen? How dost thou understand the Scripture? The Scripture says, Adam digged; could be dig without arms?
+	I'll put another question to thee; if thou answerest me not to the purpose, confess thyself—
+<SPEECH 9><ACT 5><SCENE 1><82%>
+	What is he that builds stronger than either the mason, the shipwright, or the carpenter?
+<SPEECH 10><ACT 5><SCENE 1><83%>
+	I like thy wit well, in good faith; the gallows does well, but how does it well? it does well to those that do ill; now thou dost ill to say the gallows is built stronger than the church: argal, the gallows may do well to thee.
+	To 't again; come.
+<SPEECH 11><ACT 5><SCENE 1><83%>
+	Ay, tell me that, and unyoke.
+<SPEECH 12><ACT 5><SCENE 1><83%>
+	To 't.
+<SPEECH 13><ACT 5><SCENE 1><83%>
+	Cudgel thy brains no more about it, for your dull ass will not mend his pace with beating; and, when you are asked this question next, say, 'a grave-maker:' the houses that he makes last till doomsday. Go, get thee to Yaughan; fetch me a stoup of liquor.
+	First Clown digs, and sings.
+	In youth, when I did love, did love,
+	Methought it was very sweet,
+	To contract, O! the time, for-a my behove,
+	O! methought there was nothing meet.
+<SPEECH 14><ACT 5><SCENE 1><83%>
+	But age, with his stealing steps,
+	Hath claw'd me in his clutch,
+	And hath shipped me intil the land,
+	As if I had never been such.
+<SPEECH 15><ACT 5><SCENE 1><84%>
+	A pick-axe, and a spade, a spade,
+	For and a shrouding sheet;
+	O! a pit of clay for to be made
+	For such a guest is meet.
+<SPEECH 16><ACT 5><SCENE 1><84%>
+	Mine, sir,
+	O! a pit of clay for to be made
+	For such a guest is meet.
+<SPEECH 17><ACT 5><SCENE 1><85%>
+	You lie out on 't, sir, and therefore it is not yours; for my part, I do not lie in 't, and yet it is mine.
+<SPEECH 18><ACT 5><SCENE 1><85%>
+	'Tis a quick lie, sir; 'twill away again, from me to you.
+<SPEECH 19><ACT 5><SCENE 1><85%>
+	For no man, sir.
+<SPEECH 20><ACT 5><SCENE 1><85%>
+	For none, neither.
+<SPEECH 21><ACT 5><SCENE 1><85%>
+	One that was a woman, sir; but, rest her soul, she's dead.
+<SPEECH 22><ACT 5><SCENE 1><85%>
+	Of all the days i' the year, I came to 't that day that our last King Hamlet overcame Fortinbras.
+<SPEECH 23><ACT 5><SCENE 1><85%>
+	Cannot you tell that? every fool can tell that; it was the very day that young Hamlet was born; he that is mad, and sent into England.
+<SPEECH 24><ACT 5><SCENE 1><85%>
+	Why, because he was mad: he shall recover his wits there; or, if he do not, 'tis no great matter there
+<SPEECH 25><ACT 5><SCENE 1><85%>
+	'Twill not be seen in him there; there the men are as mad as he.
+<SPEECH 26><ACT 5><SCENE 1><85%>
+	Very strangely, they say.
+<SPEECH 27><ACT 5><SCENE 1><85%>
+	Faith, e'en with losing his wits.
+<SPEECH 28><ACT 5><SCENE 1><85%>
+	Why, here in Denmark; I have been sexton here, man and boy, thirty years.
+<SPEECH 29><ACT 5><SCENE 1><86%>
+	Faith, if he be not rotten before he die,—as we have many pocky corses now-a-days, that will scarce hold the laying in,—he will last you some eight year or nine year; a tanner will last you nine year.
+<SPEECH 30><ACT 5><SCENE 1><86%>
+	Why, sir, his hide is so tanned with his trade that he will keep out water a great while, and your water is a sore decayer of your whoreson dead body. Here's a skull now; this skull hath lain you i' the earth three-and-twenty years.
+<SPEECH 31><ACT 5><SCENE 1><86%>
+	A whoreson mad fellow's it was: whose do you think it was?
+<SPEECH 32><ACT 5><SCENE 1><86%>
+	A pestilence on him for a mad rogue! a' poured a flagon of Rhenish on my head once. This same skull, sir, was Yorick's skull, the king's jester.
+<SPEECH 33><ACT 5><SCENE 1><86%>
+	E'en that.

@@ -1,0 +1,60 @@
+<SPEECH 1><ACT 4><SCENE 2><40%>
+	Very reverend sport, truly: and done in the testimony of a good conscience.
+<SPEECH 2><ACT 4><SCENE 2><40%>
+	Truly, Master Holofernes, the epithets are sweetly varied, like a scholar at the least: but, sir, I assure ye, it was a buck of the first head.
+<SPEECH 3><ACT 4><SCENE 2><41%>
+	Sir, he hath not fed of the dainties that are bred of a book;
+	he hath not eat paper, as it were; he hath not drunk ink: his intellect is not replenished; he is only an animal, only sensible in the duller parts:
+	And such barren plants are set before us, that we thankful should be,
+	Which we of taste and feeling are, for those parts that do fructify in us more than he;
+	For as it would ill become me to be vain, indiscreet, or a fool:
+	So, were there a patch set on learning, to see him in a school:
+	But, omne bene, say I; being of an old Father's mind,
+	Many can brook the weather that love not the wind.
+<SPEECH 4><ACT 4><SCENE 2><41%>
+	A title to Phœbe, to Luna, to the moon.
+<SPEECH 5><ACT 4><SCENE 2><42%>
+	Perge, good Master Holofernes, perge; so it shall please you to abrogate scurrility.
+<SPEECH 6><ACT 4><SCENE 2><42%>
+	A rare talent!
+<SPEECH 7><ACT 4><SCENE 2><42%>
+	Sir, I praise the Lord for you, and so may my parishioners; for their sons are well tutored by you, and their daughters profit very greatly under you: you are a good member of the commonwealth.
+<SPEECH 8><ACT 4><SCENE 2><44%>
+	Ay, sir, and very learned.
+<SPEECH 9><ACT 4><SCENE 2><44%>
+	If love make me forsworn, how shall I swear to love?
+	Ah! never faith could hold, if not to beauty vow'd;
+	Though to myself forsworn, to thee I'll faithful prove;
+	Those thoughts to me were oaks, to thee like osiers bow'd
+	Study his bias leaves and makes his book thine eyes.
+	Where all those pleasures live that art would comprehend:
+	If knowledge be the mark, to know thee shall suffice
+	Well learned is that tongue that well can thee commend;
+	All ignorant that soul that sees thee without wonder;
+	Which is to me some praise that I thy parts admire
+	Thy eye Jove's lightning bears, thy voice his dreadful thunder,
+	Which, not to anger bent, is music and sweet fire.
+	Celestial as thou art, O! pardon love this wrong.
+	That sings heaven's praise with such an earthly tongue!
+<SPEECH 10><ACT 4><SCENE 2><45%>
+	Sir, you have done this in the fear of God, very religiously; and, as a certain Father saith—
+<SPEECH 11><ACT 4><SCENE 2><45%>
+	Marvellous well for the pen.
+<SPEECH 12><ACT 4><SCENE 2><46%>
+	And thank you too; for society—saith the text—is the happiness of life.
+<SPEECH 13><ACT 5><SCENE 1><60%>
+	I praise God for you, sir: your reasons at dinner have been sharp and sententious; pleasant without scurrility, witty without affection, audacious without impudency, learned without opinion, and strange without heresy. I did converse this quondam day with a companion of the king's, who is intituled, nominated, or called, Don Adriano de Armado.
+<SPEECH 14><ACT 5><SCENE 1><61%>
+	A most singular and choice epithet.
+<SPEECH 15><ACT 5><SCENE 1><61%>
+	Laus Deo bone intelligo.
+<SPEECH 16><ACT 5><SCENE 1><61%>
+	Videsne quis venit?
+<SPEECH 17><ACT 5><SCENE 1><65%>
+	Where will you find men worthy enough to present them?
+<SPEECH 18><ACT 5><SCENE 2><87%>
+	When in the world I liv'd, I was the world's commander;
+	By east, west, north, and south, I spread my conquering might:
+	My scutcheon plain declares that I am Alisander,—
+<SPEECH 19><ACT 5><SCENE 2><88%>
+	When in the world I liv'd, I was the world's commander;—

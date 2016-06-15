@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 3><SCENE 2><49%>
+	Run to my Lord of Suffolk; let him know
+	We have dispatch'd the duke, as he commanded.
+<SPEECH 2><ACT 3><SCENE 2><49%>
+	Here comes my lord.
+<SPEECH 3><ACT 3><SCENE 2><49%>
+	Ay, my good lord, he's dead.
+<SPEECH 4><ACT 3><SCENE 2><50%>
+	'Tis, my good lord.

@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 1><SCENE 5><19%>
+	When good manners shall lie all in one or two men's hands, and they unwashed too, 'tis a foul thing.
+<SPEECH 2><ACT 1><SCENE 5><20%>
+	Ay, boy; ready.
+<SPEECH 3><ACT 1><SCENE 5><20%>
+	Cheerly, boys; be brisk awhile, and the longer liver take all.
+<SPEECH 4><ACT 4><SCENE 2><76%>
+	You shall have none ill, sir; for
+	I'll try if they can lick their fingers.
+<SPEECH 5><ACT 4><SCENE 2><76%>
+	Marry, sir, 'tis an ill cook that cannot lick his own fingers: therefore he that cannot lick his fingers goes not with me.
+<SPEECH 6><ACT 4><SCENE 4><80%>
+	I have a head, sir, that will find out logs,
+	And never trouble Peter for the matter.

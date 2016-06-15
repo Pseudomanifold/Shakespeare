@@ -1,0 +1,461 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+	Good time of day unto your royal Grace!
+<SPEECH 2><ACT 1><SCENE 3><13%>
+	Madam, good hope; his Grace speaks cheerfully.
+<SPEECH 3><ACT 1><SCENE 3><13%>
+	Ay, madam: he desires to make atonement
+	Between the Duke of Gloucester and your brothers,
+	And between them and my lord chamberlain;
+	And sent to warn them to his royal presence.
+<SPEECH 4><ACT 1><SCENE 3><17%>
+	Northumberland, then present, wept to see it.
+<SPEECH 5><ACT 1><SCENE 3><19%>
+	Peace, peace! for shame, if not for charity.
+<SPEECH 6><ACT 1><SCENE 3><19%>
+	Have done, have done.
+<SPEECH 7><ACT 1><SCENE 3><19%>
+	Nor no one here; for curses never pass
+	The lips of those that breathe them in the air.
+<SPEECH 8><ACT 1><SCENE 3><19%>
+	Nothing that I respect, my gracious lord.
+<SPEECH 9><ACT 2><SCENE 1><29%>
+	</STAGE DIR> Whenever Buckingham doth turn his hate
+	Upon your Grace, but with all duteous love
+	Doth cherish you and yours, God punish me
+	With hate in those where I expect most love!
+	When I have most need to employ a friend,
+	And most assured that he is a friend,
+	Deep, hollow, treacherous, and full of guile,
+	Be he unto me! This do I beg of God,
+	When I am cold in love to you or yours.
+<SPEECH 10><ACT 2><SCENE 1><30%>
+	And, in good time, here comes the noble duke.
+<SPEECH 11><ACT 2><SCENE 1><31%>
+	Look I so pale, Lord Dorset, as the rest?
+<SPEECH 12><ACT 2><SCENE 1><32%>
+	We wait upon your Grace.
+<SPEECH 13><ACT 2><SCENE 2><35%>
+	You cloudy princes and heart-sorrowing peers,
+	That bear this heavy mutual load of moan,
+	Now cheer each other in each other's love:
+	Though we have spent our harvest of this king,
+	We are to reap the harvest of his son.
+	The broken rancour of your high-swoln hearts,
+	But lately splinter'd, knit, and join'd together,
+	Must gently be preserv'd, cherish'd, and kept:
+	Me seemeth good, that, with some little train,
+	Forthwith from Ludlow the young prince be fetch'd
+	Hither to London, to be crown'd our king.
+<SPEECH 14><ACT 2><SCENE 2><36%>
+	Marry, my lord, lest, by a multitude,
+	The new-heal'd wound of malice should break out;
+	Which would be so much the more dangerous,
+	By how much the estate is green and yet ungovern'd;
+	Where every horse bears his commanding rein,
+	And may direct his course as please himself,
+	As well the fear of harm, as harm apparent,
+	In my opinion, ought to be prevented.
+<SPEECH 15><ACT 2><SCENE 2><36%>
+	My lord, whoever journeys to the prince,
+	For God's sake, let not us two stay at home:
+	For by the way I'll sort occasion,
+	As index to the story we late talk'd of,
+	To part the queen's proud kindred from the prince.
+<SPEECH 16><ACT 3><SCENE 1><40%>
+	Welcome, sweet prince, to London, to your chamber.
+<SPEECH 17><ACT 3><SCENE 1><41%>
+	And in good time here comes the sweating lord.
+<SPEECH 18><ACT 3><SCENE 1><41%>
+	Fie! what an indirect and peevish course
+	Is this of hers! Lord Cardinal, will your Grace
+	Persuade the queen to send the Duke of York
+	Unto his princely brother presently?
+	If she deny, Lord Hastings, go with him,
+	And from her jealous arms pluck him perforce.
+<SPEECH 19><ACT 3><SCENE 1><41%>
+	You are too senseless-obstinate, my lord,
+	Too ceremonious and traditional:
+	Weigh it but with the grossness of this age,
+	You break not sanctuary in seizing him.
+	The benefit thereof is always granted
+	To those whose dealings have deserv'd the place
+	And those who have the wit to claim the place:
+	This prince hath neither claim'd it, nor deserv'd it;
+	And therefore, in mine opinion, cannot have it:
+	Then, taking him from thence that is not there,
+	You break no privilege nor charter there.
+	Oft have I heard of sanctuary men,
+	But sanctuary children ne'er till now.
+<SPEECH 20><ACT 3><SCENE 1><42%>
+	He did, my gracious lord, begin that place,
+	Which, since, succeeding ages have re-edified.
+<SPEECH 21><ACT 3><SCENE 1><42%>
+	Upon record, my gracious lord.
+<SPEECH 22><ACT 3><SCENE 1><43%>
+	What, my gracious lord?
+<SPEECH 23><ACT 3><SCENE 1><43%>
+	Now, in good time, here comes the Duke of York.
+<SPEECH 24><ACT 3><SCENE 1><44%>
+	With what a sharp provided with he reasons!
+	To mitigate the scorn he gives his uncle,
+	He prettily and aptly taunts himself:
+	So cunning and so young is wonderful.
+<SPEECH 25><ACT 3><SCENE 1><44%>
+	Think you, my lord, this little prating York
+	Was not incensed by his subtle mother
+	To taunt and scorn you thus opprobriously?
+<SPEECH 26><ACT 3><SCENE 1><44%>
+	Well, let them rest. Come hither, Catesby; thou art sworn
+	As deeply to effect what we intend
+	As closely to conceal what we impart.
+	Thou know'st our reasons urg'd upon the way:
+	What think'st thou? is it not an easy matter
+	To make William Lord Hastings of our mind,
+	For the instalment of this noble duke
+	In the seat royal of this famous isle?
+<SPEECH 27><ACT 3><SCENE 1><45%>
+	What think'st thou then of Stanley? what will he?
+<SPEECH 28><ACT 3><SCENE 1><45%>
+	Well then, no more but this: go, gentle Catesby,
+	And, as it were far off, sound thou Lord Hastings,
+	How he doth stand affected to our purpose;
+	And summon him to-morrow to the Tower,
+	To sit about the coronation.
+	If thou dost find him tractable to us,
+	Encourage him, and tell him all our reasons:
+	If he be leaden, icy-cold, unwilling,
+	Be thou so too, and so break off the talk,
+	And give us notice of his inclination;
+	For we to-morrow hold divided councils,
+	Wherein thyself shalt highly be employ'd.
+<SPEECH 29><ACT 3><SCENE 1><45%>
+	Good Catesby, go, effect this business soundly.
+<SPEECH 30><ACT 3><SCENE 1><45%>
+	Now, my lord, what shall we do if we perceive
+	Lord Hastings will not yield to our complots?
+<SPEECH 31><ACT 3><SCENE 1><45%>
+	I'll claim that promise at your Grace's hand.
+<SPEECH 32><ACT 3><SCENE 2><49%>
+	What, talking with a priest, lord chamberlain?
+	Your friends at Pomfret, they do need the priest:
+	Your honour hath no shriving work in hand.
+<SPEECH 33><ACT 3><SCENE 2><49%>
+	I do, my lord; but long I shall not stay:
+	I shall return before your lordship thence.
+<SPEECH 34><ACT 3><SCENE 2><49%>
+	</STAGE DIR> And supper too, although thou know'st it not.
+	Come, will you go?
+<SPEECH 35><ACT 3><SCENE 4><50%>
+	Are all things ready for that royal time?
+<SPEECH 36><ACT 3><SCENE 4><50%>
+	Who knows the Lord Protector's mind herein?
+	Who is most inward with the noble duke?
+<SPEECH 37><ACT 3><SCENE 4><50%>
+	We know each other's faces; for our hearts,
+	He knows no more of mine than I of yours;
+	Nor I of his, my lord, than you of mine.
+	Lord Hastings, you and he are near in love.
+<SPEECH 38><ACT 3><SCENE 4><51%>
+	Had you not come upon your cue, my lord,
+	William Lord Hastings had pronounc'd your part,
+	I mean, your voice, for crowning of the king.
+<SPEECH 39><ACT 3><SCENE 4><51%>
+	Withdraw yourself a while; I'll go with you.
+<SPEECH 40><ACT 3><SCENE 5><53%>
+	Tut! I can counterfeit the deep tragedian,
+	Speak and look back, and pry on every side,
+	Tremble and start at wagging of a straw,
+	Intending deep suspicion: ghastly looks
+	Are at my service, like enforced smiles;
+	And both are ready in their offices,
+	At any time, to grace my stratagems.
+	But what! is Catesby gone?
+<SPEECH 41><ACT 3><SCENE 5><53%>
+	Lord Mayor,—
+<SPEECH 42><ACT 3><SCENE 5><53%>
+	Hark! a drum.
+<SPEECH 43><ACT 3><SCENE 5><53%>
+	Lord Mayor, the reason we have sent,—
+<SPEECH 44><ACT 3><SCENE 5><53%>
+	God and our innocency defend and guard us!
+<SPEECH 45><ACT 3><SCENE 5><54%>
+	Well, well, he was the covert'st shelter'd traitor
+	That ever liv'd.
+	Would you imagine, or almost believe,—
+	Were't not that by great preservation
+	We live to tell it, that the subtle traitor
+	This day had plotted, in the council-house,
+	To murder me and my good Lord of Gloucester?
+<SPEECH 46><ACT 3><SCENE 5><54%>
+	Yet had we not determin'd he should die,
+	Until your lordship came to see his end;
+	Which now the loving haste of these our friends,
+	Something against our meaning, hath prevented:
+	Because, my lord, we would have had you heard
+	The traitor speak, and timorously confess
+	The manner and the purpose of his treason;
+	That you might well have signified the same
+	Unto the citizens, who haply may
+	Misconster us in him, and wail his death.
+<SPEECH 47><ACT 3><SCENE 5><55%>
+	But since you come too late of our intent,
+	Yet witness what you hear we did intend:
+	And so, my good Lord Mayor, we bid farewell.
+<SPEECH 48><ACT 3><SCENE 5><55%>
+	Doubt not, my lord, I'll play the orator
+	As if the golden fee for which I plead
+	Were for myself: and so, my lord, adieu.
+<SPEECH 49><ACT 3><SCENE 5><56%>
+	I go; and towards three or four o'clock
+	Look for the news that the Guildhall affords.
+<SPEECH 50><ACT 3><SCENE 7><56%>
+	Now, by the holy mother of our Lord,
+	The citizens are mum, say not a word.
+<SPEECH 51><ACT 3><SCENE 7><56%>
+	I did; with his contract with Lady Lucy,
+	And his contract by deputy in France;
+	The insatiate greediness of his desires,
+	And his enforcement of the city wives;
+	His tyranny for trifles; his own bastardy,
+	As being got, your father then in France,
+	And his resemblance, being not like the duke:
+	Withal I did infer your lineaments,
+	Being the right idea of your father,
+	Both in your form and nobleness of mind;
+	Laid open all your victories in Scotland,
+	Your discipline in war, wisdom in peace,
+	Your bounty, virtue, fair humility;
+	Indeed, left nothing fitting for your purpose
+	Untouch'd or slightly handled in discourse;
+	And when my oratory drew toward end,
+	I bade them that did love their country's good
+	Cry 'God save Richard, England's royal king!'
+<SPEECH 52><ACT 3><SCENE 7><57%>
+	No, so God help me, they spake not a word;
+	But, like dumb statuas or breathing stones,
+	Star'd each on other, and look'd deadly pale.
+	Which when I saw, I reprehended them;
+	And ask'd the mayor what meant this wilful silence:
+	His answer was, the people were not wont
+	To be spoke to but by the recorder.
+	Then he was urg'd to tell my tale again:
+	'Thus saith the duke, thus hath the duke inferr'd;'
+	But nothing spoke in warrant from himself.
+	When he had done, some followers of mine own,
+	At lower end of the hall, hurl'd up their caps,
+	And some ten voices cried, 'God save King Richard!'
+	And thus I took the vantage of those few,
+	'Thanks, gentle citizens and friends,' quoth I;
+	'This general applause and cheerful shout
+	Argues your wisdom and your love to Richard:'
+	And even here brake off, and came away.
+<SPEECH 53><ACT 3><SCENE 7><57%>
+	The mayor is here at hand. Intend some fear;
+	Be not you spoke with but by mighty suit:
+	And look you get a prayer-book in your hand,
+	And stand between two churchmen, good my lord:
+	For on that ground I'll make a holy descant:
+	And be not easily won to our requests;
+	Play the maid's part, still answer nay, and take it.
+<SPEECH 54><ACT 3><SCENE 7><58%>
+	Go, go, up to the leads! the Lord Mayor knocks.
+	Welcome, my lord: I dance attendance here;
+	I think the duke will not be spoke withal.
+	Now, Catesby! what says your lord to my request?
+<SPEECH 55><ACT 3><SCENE 7><58%>
+	Return, good Catesby, to the gracious duke:
+	Tell him, myself, the mayor and aldermen,
+	In deep designs in matter of great moment,
+	No less importing than our general good,
+	Are come to have some conference with his Grace.
+<SPEECH 56><ACT 3><SCENE 7><58%>
+	Ah, ha, my lord, this prince is not an Edward!
+	He is not lolling on a lewd day-bed,
+	But on his knees at meditation;
+	Not dallying with a brace of courtezans,
+	But meditating with two deep divines;
+	Not sleeping, to engross his idle body,
+	But praying, to enrich his watchful soul.
+	Happy were England, would this virtuous prince
+	Take on his Grace the sovereignty thereof:
+	But sore, I fear, we shall not win him to it.
+<SPEECH 57><ACT 3><SCENE 7><58%>
+	I fear he will. Here Catesby comes again.
+	Now, Catesby, what says his Grace?
+<SPEECH 58><ACT 3><SCENE 7><59%>
+	Sorry I am my noble cousin should
+	Suspect me that I mean no good to him.
+	By heaven, we come to him in perfect love;
+	And so once more return, and tell his Grace.
+	When holy and devout religious men
+	Are at their beads, 'tis much to draw them thence;
+	So sweet is zealous contemplation.
+<SPEECH 59><ACT 3><SCENE 7><59%>
+	Two props of virtue for a Christian prince,
+	To stay him from the fall of vanity;
+	And, see, a book of prayer in his hand;
+	True ornament to know a holy man.
+	Famous Plantagenet, most gracious prince,
+	Lend favourable ear to our requests,
+	And pardon us the interruption
+	Of thy devotion, and right Christian zeal.
+<SPEECH 60><ACT 3><SCENE 7><59%>
+	Even that, I hope, which pleaseth God above,
+	And all good men of this ungovern'd isle.
+<SPEECH 61><ACT 3><SCENE 7><59%>
+	You have, my lord: would it might please your Grace,
+	On our entreaties to amend your fault!
+<SPEECH 62><ACT 3><SCENE 7><59%>
+	Know then, it is your fault that you resign
+	The supreme seat, the throne majestical,
+	The sceptred office of your ancestors,
+	Your state of fortune and your due of birth,
+	The lineal glory of your royal house,
+	To the corruption of a blemish'd stock;
+	Whiles, in the mildness of your sleepy thoughts,—
+	Which here we waken to our country's good,—
+	This noble isle doth want her proper limbs;
+	Her face defac'd with scars of infamy,
+	Her royal stock graft with ignoble plants,
+	And almost shoulder'd in the swallowing gulf
+	Of dark forgetfulness and deep oblivion.
+	Which to recure we heartily solicit
+	Your gracious self to take on you the charge
+	And kingly government of this your land;
+	Not as protector, steward, substitute,
+	Or lowly factor for another's gain;
+	But as successively from blood to blood,
+	Your right of birth, your empery, your own.
+	For this, consorted with the citizens,
+	Your very worshipful and loving friends,
+	And by their vehement instigation,
+	In this just cause come I to move your Grace.
+<SPEECH 63><ACT 3><SCENE 7><61%>
+	My lord, this argues conscience in your Grace;
+	But the respects thereof are nice and trivial,
+	All circumstances well considered.
+	You say that Edward is your brother's son:
+	So say we too, but not by Edward's wife;
+	For first was he contract to Lady Lucy,
+	Your mother lives a witness to his vow,
+	And afterward by substitute betroth'd
+	To Bona, sister to the King of France.
+	These both put by, a poor petitioner,
+	A care-craz'd mother to a many sons,
+	A beauty-waning and distressed widow,
+	Even in the afternoon of her best days,
+	Made prize and purchase of his wanton eye,
+	Seduc'd the pitch and height of his degree
+	To base declension and loath'd bigamy:
+	By her, in his unlawful bed, he got
+	This Edward, whom our manners call the prince.
+	More bitterly could I expostulate,
+	Save that, for reverence to some alive,
+	I give a sparing limit to my tongue.
+	Then, good my lord, take to your royal self
+	This proffer'd benefit of dignity;
+	If not to bless us and the land withal,
+	Yet to draw forth your noble ancestry
+	From the corruption of abusing times,
+	Unto a lineal true-derived course.
+<SPEECH 64><ACT 3><SCENE 7><61%>
+	Refuse not, mighty lord, this proffer'd love.
+<SPEECH 65><ACT 3><SCENE 7><62%>
+	If you refuse it, as, in love and zeal,
+	Loath to depose the child, your brother's son;
+	As well we know your tenderness of heart
+	And gentle, kind, effeminate remorse,
+	Which we have noted in you to your kindred,
+	And egally, indeed, to all estates,
+	Yet whether you accept our suit or no,
+	Your brother's son shall never reign our king;
+	But we will plant some other in the throne,
+	To the disgrace and downfall of your house:
+	And in this resolution here we leave you.
+	Come, citizens, we will entreat no more.
+<SPEECH 66><ACT 3><SCENE 7><62%>
+	Then I salute you with this royal title:
+	Long live King Richard, England's worthy king!
+<SPEECH 67><ACT 3><SCENE 7><62%>
+	To-morrow may it please you to be crown'd?
+<SPEECH 68><ACT 3><SCENE 7><62%>
+	To-morrow then we will attend your Grace:
+	And so most joyfully we take our leave.
+<SPEECH 69><ACT 4><SCENE 2><66%>
+	My gracious sovereign!
+<SPEECH 70><ACT 4><SCENE 2><66%>
+	Still live they, and for ever let them last!
+<SPEECH 71><ACT 4><SCENE 2><66%>
+	Say on, my loving lord.
+<SPEECH 72><ACT 4><SCENE 2><66%>
+	Why, so you are, my thrice-renowned liege.
+<SPEECH 73><ACT 4><SCENE 2><66%>
+	True, noble prince.
+<SPEECH 74><ACT 4><SCENE 2><66%>
+	Your Grace may do your pleasure.
+<SPEECH 75><ACT 4><SCENE 2><66%>
+	Give me some little breath, some pause, dear lord,
+	Before I positively speak in this:
+	I will resolve you herein presently.
+<SPEECH 76><ACT 4><SCENE 2><68%>
+	My lord, I have consider'd in my mind
+	The late demand that you did sound me in.
+<SPEECH 77><ACT 4><SCENE 2><68%>
+	I hear the news, my lord.
+<SPEECH 78><ACT 4><SCENE 2><68%>
+	My lord, I claim the gift, my due by promise,
+	For which your honour and your faith is pawn'd;
+	The earldom of Hereford and the moveables
+	Which you have promised I shall possess.
+<SPEECH 79><ACT 4><SCENE 2><68%>
+	What says your highness to my just request?
+<SPEECH 80><ACT 4><SCENE 2><69%>
+	My lord!
+<SPEECH 81><ACT 4><SCENE 2><69%>
+	My lord, your promise for the earldom,—
+<SPEECH 82><ACT 4><SCENE 2><69%>
+	My lord!
+<SPEECH 83><ACT 4><SCENE 2><69%>
+	I am thus bold to put your Grace in mind
+	Of what you promis'd me.
+<SPEECH 84><ACT 4><SCENE 2><69%>
+	Upon the stroke of ten.
+<SPEECH 85><ACT 4><SCENE 2><69%>
+	Why let it strike?
+<SPEECH 86><ACT 4><SCENE 2><69%>
+	Why, then resolve me whe'r you will, or no.
+<SPEECH 87><ACT 4><SCENE 2><69%>
+	And is it thus? repays he my deep service
+	With such contempt? made I him king for this?
+	O, let me think on Hastings, and be gone
+	To Brecknock, while my fearful head is on.
+<SPEECH 88><ACT 5><SCENE 1><86%>
+	Will not King Richard let me speak with him?
+<SPEECH 89><ACT 5><SCENE 1><86%>
+	Hastings, and Edward's children, Grey and Rivers,
+	Holy King Henry, and thy fair son Edward,
+	Vaughan, and all that have miscarried
+	By underhand corrupted foul injustice,
+	If that your moody discontented souls
+	Do through the clouds behold this present hour,
+	Even for revenge mock my destruction!
+	This is All-Souls' day, fellows, is it not?
+<SPEECH 90><ACT 5><SCENE 1><87%>
+	Why, then All-Souls' day is my body's doomsday.
+	This is the day that, in King Edward's time,
+	I wish'd might fall on me, when I was found
+	False to his children or his wife's allies;
+	This is the day wherein I wish'd to fall
+	By the false faith of him whom most I trusted;
+	This, this All-Souls' day to my fearful soul
+	Is the determin'd respite of my wrongs.
+	That high All-Seer which I dallied with
+	Hath turn'd my feigned prayer on my head,
+	And given in earnest what I begg'd in jest.
+	Thus doth he force the swords of wicked men
+	To turn their own points on their masters' bosoms:
+	Thus Margaret's curse falls heavy on my neck:
+	'When he,' quoth she, 'shall split thy heart with sorrow,
+	Remember Margaret was a prophetess.'
+	Come, lead me, officers, to the block of shame:
+	Wrong hath but wrong, and blame the due of blame.

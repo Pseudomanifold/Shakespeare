@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 4><SCENE 1><64%>
+	Macbeth! Macbeth! Macbeth!—
+<SPEECH 2><ACT 4><SCENE 1><64%>
+	Be bloody, bold, and resolute; laugh to scorn
+	The power of man, for none of woman born
+	Shall harm Macbeth.

@@ -1,0 +1,39 @@
+<SPEECH 1><ACT 4><SCENE 5><68%>
+	Wine, wine, wine! What service is here! I think our fellows are asleep.
+<SPEECH 2><ACT 4><SCENE 5><69%>
+	What would you have, friend? Whence are you? Here's no place for you: pray, go to the door.
+<SPEECH 3><ACT 4><SCENE 5><69%>
+	A strange one as ever I looked on:
+	I cannot get him out o' the house: prithee, call my master to him.
+<SPEECH 4><ACT 4><SCENE 5><73%>
+	</STAGE DIR> Here's a strange alteration!
+<SPEECH 5><ACT 4><SCENE 5><73%>
+	What an arm he has! He turned me about with his finger and his thumb, as one would set up a top.
+<SPEECH 6><ACT 4><SCENE 5><73%>
+	He had so; looking as it were,— would I were hanged but I thought there was more in him than I could think.
+<SPEECH 7><ACT 4><SCENE 5><73%>
+	I think he is; but a greater soldier than he you wot on.
+<SPEECH 8><ACT 4><SCENE 5><73%>
+	Nay, it's no matter for that.
+<SPEECH 9><ACT 4><SCENE 5><73%>
+	Nay, not so neither; but I take him to be the greater soldier.
+<SPEECH 10><ACT 4><SCENE 5><73%>
+	Ay, and for an assault too.
+<SPEECH 11><ACT 4><SCENE 5><73%>
+	What, what, what? let's partake.
+<SPEECH 12><ACT 4><SCENE 5><73%>
+	Wherefore? wherefore?
+<SPEECH 13><ACT 4><SCENE 5><74%>
+	Why do you say 'thwack our general?'
+<SPEECH 14><ACT 4><SCENE 5><74%>
+	He was too hard for him,—directly to say the truth on 't: before Corioli he scotched him and notched him like a carbonado.
+<SPEECH 15><ACT 4><SCENE 5><74%>
+	But, more of thy news.
+<SPEECH 16><ACT 4><SCENE 5><74%>
+	Directitude! what's that?
+<SPEECH 17><ACT 4><SCENE 5><74%>
+	But when goes this forward?
+<SPEECH 18><ACT 4><SCENE 5><75%>
+	Let me have war, say I; it exceeds peace as far as day does night; it's spritely, waking, audible, and full of vent. Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war's a destroyer of men.
+<SPEECH 19><ACT 4><SCENE 5><75%>
+	Ay, and it makes men hate one another.

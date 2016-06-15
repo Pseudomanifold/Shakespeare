@@ -1,0 +1,301 @@
+<SPEECH 1><ACT 1><SCENE 1><13%>
+	</STAGE DIR> I pray you, sir, is it your will
+	To make a stale of me amongst these mates?
+<SPEECH 2><ACT 1><SCENE 1><13%>
+	I' faith, sir, you shall never need to fear:
+	I wis it is not half way to her heart;
+	But if it were, doubt not her care should be
+	To comb your noddle with a three-legg'd stool,
+	And paint your face, and use you like a fool.
+<SPEECH 3><ACT 1><SCENE 1><14%>
+	A pretty peat! it is best
+	Put finger in the eye, an she knew why.
+<SPEECH 4><ACT 1><SCENE 1><15%>
+	Why, and I trust I may go too; may I not?
+	What! shall I be appointed hours, as though, belike,
+	I knew not what to take, and what to leave? Ha!
+<SPEECH 5><ACT 2><SCENE 1><31%>
+	Of all thy suitors, here I charge thee, tell
+	Whom thou lov'st best: see thou dissemble not.
+<SPEECH 6><ACT 2><SCENE 1><31%>
+	Minion, thou liest. Is't not Hortensio?
+<SPEECH 7><ACT 2><SCENE 1><31%>
+	O! then, belike, you fancy riches more:
+	You will have Gremio to keep you fair.
+<SPEECH 8><ACT 2><SCENE 1><32%>
+	If that be jest, then all the rest was so.
+<SPEECH 9><ACT 2><SCENE 1><32%>
+	Her silence flouts me, and I'll be reveng'd.
+<SPEECH 10><ACT 2><SCENE 1><32%>
+	What! will you not suffer me? Nay, now I see
+	She is your treasure, she must have a husband;
+	I must dance bare-foot on her wedding-day,
+	And, for your love to her, lead apes in hell.
+	Talk not to me: I will go sit and weep
+	Till I can find occasion of revenge.
+<SPEECH 11><ACT 2><SCENE 1><38%>
+	Well have you heard, but something hard of hearing:
+	They call me Katharine that do talk of me.
+<SPEECH 12><ACT 2><SCENE 1><38%>
+	Mov'd! in good time: let him that mov'd you hither
+	Remove you hence. I knew you at the first,
+	You were a moveable.
+<SPEECH 13><ACT 2><SCENE 1><39%>
+	A joint-stool.
+<SPEECH 14><ACT 2><SCENE 1><39%>
+	Asses are made to bear, and so are you.
+<SPEECH 15><ACT 2><SCENE 1><39%>
+	No such jade as bear you, if me you mean.
+<SPEECH 16><ACT 2><SCENE 1><39%>
+	Too light for such a swain as you to catch,
+	And yet as heavy as my weight should be.
+<SPEECH 17><ACT 2><SCENE 1><39%>
+	Well ta'en, and like a buzzard.
+<SPEECH 18><ACT 2><SCENE 1><39%>
+	Ay, for a turtle, as he takes a buzzard.
+<SPEECH 19><ACT 2><SCENE 1><39%>
+	If I be waspish, best beware my sting.
+<SPEECH 20><ACT 2><SCENE 1><39%>
+	Ay, if the fool could find it where it lies.
+<SPEECH 21><ACT 2><SCENE 1><39%>
+	In his tongue.
+<SPEECH 22><ACT 2><SCENE 1><39%>
+	Yours, if you talk of tails; and so farewell.
+<SPEECH 23><ACT 2><SCENE 1><39%>
+	That I'll try.
+<SPEECH 24><ACT 2><SCENE 1><40%>
+	So may you lose your arms:
+	If you strike me, you are no gentleman;
+	And if no gentleman, why then no arms.
+<SPEECH 25><ACT 2><SCENE 1><40%>
+	What is your crest? a coxcomb?
+<SPEECH 26><ACT 2><SCENE 1><40%>
+	No cock of mine; you crow too like a craven.
+<SPEECH 27><ACT 2><SCENE 1><40%>
+	It is my fashion when I see a crab.
+<SPEECH 28><ACT 2><SCENE 1><40%>
+	There is, there is.
+<SPEECH 29><ACT 2><SCENE 1><40%>
+	Had I a glass, I would.
+<SPEECH 30><ACT 2><SCENE 1><40%>
+	Well aim'd of such a young one.
+<SPEECH 31><ACT 2><SCENE 1><40%>
+	Yet you are wither'd.
+<SPEECH 32><ACT 2><SCENE 1><40%>
+	I care not.
+<SPEECH 33><ACT 2><SCENE 1><40%>
+	I chafe you, if I tarry: let me go.
+<SPEECH 34><ACT 2><SCENE 1><41%>
+	Go, fool, and whom thou keep'st command.
+<SPEECH 35><ACT 2><SCENE 1><41%>
+	Where did you study all this goodly speech?
+<SPEECH 36><ACT 2><SCENE 1><41%>
+	A witty mother! witless else her son.
+<SPEECH 37><ACT 2><SCENE 1><41%>
+	Yes; keep you warm.
+<SPEECH 38><ACT 2><SCENE 1><42%>
+	Call you me daughter? now, I promise you
+	You have show'd a tender fatherly regard,
+	To wish me wed to one half lunatic;
+	A mad-cap ruffian and a swearing Jack,
+	That thinks with oaths to face the matter out.
+<SPEECH 39><ACT 2><SCENE 1><42%>
+	I'll see thee hang'd on Sunday first.
+<SPEECH 40><ACT 3><SCENE 2><51%>
+	No shame but mine: I must, forsooth, be forc'd
+	To give my hand oppos'd against my heart
+	Unto a mad-brain rudesby, full of spleen;
+	Who woo'd in haste and means to wed at leisure.
+	I told you, I, he was a frantic fool,
+	Hiding his bitter jests in blunt behaviour;
+	And to be noted for a merry man,
+	He'll woo a thousand, 'point the day of marriage,
+	Make friends invite, and proclaim the banns;
+	Yet never means to wed where he hath woo'd.
+	Now must the world point at poor Katharine,
+	And say, 'Lo! there is mad Petruchio's wife,
+	If it would please him come and marry her.'
+<SPEECH 41><ACT 3><SCENE 2><51%>
+	Would Katharine had never seen him though!
+<SPEECH 42><ACT 3><SCENE 2><58%>
+	Let me entreat you.
+<SPEECH 43><ACT 3><SCENE 2><58%>
+	Are you content to stay?
+<SPEECH 44><ACT 3><SCENE 2><58%>
+	Now, if you love me, stay.
+<SPEECH 45><ACT 3><SCENE 2><58%>
+	Nay, then,
+	Do what thou canst, I will not go to-day;
+	No, nor to-morrow, nor till I please myself,
+	The door is open, sir, there lies your way;
+	You may be jogging whiles your boots are green;
+	For me, I'll not be gone till I please myself.
+	'Tis like you'll prove a jolly surly groom,
+	That take it on you at the first so roundly.
+<SPEECH 46><ACT 3><SCENE 2><58%>
+	I will be angry: what hast thou to do?
+	Father, be quiet; he shall stay my leisure.
+<SPEECH 47><ACT 3><SCENE 2><58%>
+	Gentlemen, forward to the bridal dinner:
+	I see a woman may be made a fool,
+	If she had not a spirit to resist.
+<SPEECH 48><ACT 4><SCENE 1><65%>
+	Patience, I pray you; 'twas a fault unwilling.
+<SPEECH 49><ACT 4><SCENE 1><65%>
+	I pray you, husband, be not so disquiet:
+	The meat was well if you were so contented.
+<SPEECH 50><ACT 4><SCENE 3><72%>
+	The more my wrong the more his spite appears.
+	What, did he marry me to famish me?
+	Beggars, that come unto my father's door,
+	Upon entreaty have a present alms;
+	If not, elsewhere they meet with charity:
+	But I, who never knew how to entreat,
+	Nor never needed that I should entreat,
+	Am starv'd for meat, giddy for lack of sleep;
+	With oaths kept waking, and with brawling fed.
+	And that which spites me more than all these wants,
+	He does it under name of perfect love;
+	As who should say, if I should sleep or eat
+	'Twere deadly sickness, or else present death.
+	I prithee go and get me some repast;
+	I care not what, so it be wholesome food.
+<SPEECH 51><ACT 4><SCENE 3><73%>
+	'Tis passing good: I prithee let me have it.
+<SPEECH 52><ACT 4><SCENE 3><73%>
+	I like it well: good Grumio, fetch it me.
+<SPEECH 53><ACT 4><SCENE 3><73%>
+	A dish that I do love to feed upon.
+<SPEECH 54><ACT 4><SCENE 3><73%>
+	Why, then the beef, and let the mustard rest.
+<SPEECH 55><ACT 4><SCENE 3><73%>
+	Then both, or one, or anything thou wilt.
+<SPEECH 56><ACT 4><SCENE 3><73%>
+	Go, get thee gone, thou false deluding slave,
+	That feed'st me with the very name of meat.
+	Sorrow on thee and all the pack of you,
+	That triumph thus upon my misery!
+	Go, get thee gone, I say.
+<SPEECH 57><ACT 4><SCENE 3><73%>
+	Faith, as cold as can be.
+<SPEECH 58><ACT 4><SCENE 3><74%>
+	I pray you, let it stand.
+<SPEECH 59><ACT 4><SCENE 3><74%>
+	I thank you, sir.
+<SPEECH 60><ACT 4><SCENE 3><75%>
+	I'll have no bigger: this doth fit the time,
+	And gentlewomen wear such caps as these.
+<SPEECH 61><ACT 4><SCENE 3><75%>
+	Why, sir, I trust I may have leave to speak,
+	And speak I will; I am no child, no babe:
+	Your betters have endur'd me say my mind,
+	And if you cannot, best you stop your ears.
+	My tongue will tell the anger of my heart,
+	Or else my heart, concealing it, will break:
+	And rather than it shall, I will be free
+	Even to the uttermost, as I please, in words.
+<SPEECH 62><ACT 4><SCENE 3><75%>
+	Love me or love me not, I like the cap,
+	And it I will have, or I will have none.
+<SPEECH 63><ACT 4><SCENE 3><76%>
+	I never saw a better-fashion'd gown,
+	More quaint, more pleasing, nor more commendable.
+	Belike you mean to make a puppet of me.
+<SPEECH 64><ACT 4><SCENE 3><79%>
+	I dare assure you, sir, 'tis almost two;
+	And 'twill be supper-time ere you come there.
+<SPEECH 65><ACT 4><SCENE 5><83%>
+	The moon! the sun: it is not moonlight now.
+<SPEECH 66><ACT 4><SCENE 5><84%>
+	I know it is the sun that shines so bright.
+<SPEECH 67><ACT 4><SCENE 5><84%>
+	Forward, I pray, since we have come so far,
+	And be it moon, or sun, or what you please.
+	An if you please to call it a rush-candle,
+	Henceforth I vow it shall be so for me.
+<SPEECH 68><ACT 4><SCENE 5><84%>
+	I know it is the moon.
+<SPEECH 69><ACT 4><SCENE 5><84%>
+	Then God be bless'd, it is the blessed sun:
+	But sun it is not when you say it is not,
+	And the moon changes even as your mind.
+	What you will have it nam'd, even that it is;
+	And so, it shall be so for Katharine.
+<SPEECH 70><ACT 4><SCENE 5><85%>
+	Young budding virgin, fair and fresh and sweet,
+	Whither away, or where is thy abode?
+	Happy the parents of so fair a child;
+	Happier the man, whom favourable stars
+	Allot thee for his lovely bed-fellow!
+<SPEECH 71><ACT 4><SCENE 5><85%>
+	Pardon, old father, my mistaking eyes,
+	That have been so bedazzled with the sun
+	That everything I look on seemeth green:
+	Now I perceive thou art a reverend father;
+	Pardon, I pray thee, for my mad mistaking.
+<SPEECH 72><ACT 5><SCENE 1><92%>
+	Husband, let's follow, to see the end of this ado.
+<SPEECH 73><ACT 5><SCENE 1><92%>
+	What! in the midst of the street?
+<SPEECH 74><ACT 5><SCENE 1><92%>
+	No, sir, God forbid; but ashamed to kiss.
+<SPEECH 75><ACT 5><SCENE 1><92%>
+	Nay, I will give thee a kiss: now pray thee, love, stay.
+<SPEECH 76><ACT 5><SCENE 2><93%>
+	Mistress, how mean you that?
+<SPEECH 77><ACT 5><SCENE 2><93%>
+	'He that is giddy thinks the world turns round:'
+	I pray you, tell me what you meant by that.
+<SPEECH 78><ACT 5><SCENE 2><94%>
+	A very mean meaning.
+<SPEECH 79><ACT 5><SCENE 2><94%>
+	And I am mean, indeed, respecting you.
+<SPEECH 80><ACT 5><SCENE 2><96%>
+	What is your will, sir, that you send for me?
+<SPEECH 81><ACT 5><SCENE 2><97%>
+	They sit conferring by the parlour fire.
+<SPEECH 82><ACT 5><SCENE 2><98%>
+	Fie, fie! unknit that threatening unkind brow,
+	And dart not scornful glances from those eyes,
+	To wound thy lord, thy king, thy governor:
+	It blots thy beauty as frosts do bite the meads,
+	Confounds thy fame as whirlwinds shake fair buds,
+	And in no sense is meet or amiable.
+	A woman mov'd is like a fountain troubled,
+	Muddy, ill-seeming, thick, bereft of beauty;
+	And while it is so, none so dry or thirsty
+	Will deign to sip or touch one drop of it.
+	Thy husband is thy lord, thy life, thy keeper,
+	Thy head, thy sovereign; one that cares for thee,
+	And for thy maintenance commits his body
+	To painful labour both by sea and land,
+	To watch the night in storms, the day in cold,
+	Whilst thou liest warm at home, secure and safe;
+	And craves no other tribute at thy hands
+	But love, fair looks, and true obedience;
+	Too little payment for so great a debt.
+	Such duty as the subject owes the prince,
+	Even such a woman oweth to her husband;
+	And when she's froward, peevish, sullen, sour,
+	And not obedient to his honest will,
+	What is she but a foul contending rebel,
+	And graceless traitor to her loving lord?—
+	I am asham'd that women are so simple
+	To offer war where they should kneel for peace,
+	Or seek for rule, supremacy, and sway,
+	When they are bound to serve, love, and obey.
+	Why are our bodies soft, and weak, and smooth,
+	Unapt to toil and trouble in the world,
+	But that our soft conditions and our hearts
+	Should well agree with our external parts?
+	Come, come, you froward and unable worms!
+	My mind hath been as big as one of yours,
+	My heart as great, my reason haply more,
+	To bandy word for word and frown for frown;
+	But now I see our lances are but straws,
+	Our strength as weak, our weakness past compare,
+	That seeming to be most which we indeed least are.
+	Then vail your stomachs, for it is no boot,
+	And place your hands below your husband's foot:
+	In token of which duty, if he please,
+	My hand is ready; may it do him ease.

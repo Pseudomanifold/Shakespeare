@@ -1,0 +1,892 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Escalus.
+<SPEECH 2><ACT 1><SCENE 1><0%>
+	Of government the properties to unfold,
+	Would seem in me to affect speech and discourse,
+	Since I am put to know that your own science
+	Exceeds, in that, the lists of all advice
+	My strength can give you: then no more remains,
+	But that, to your sufficiency, as your worth is able,
+	And let them work. The nature of our people,
+	Our city's institutions, and the terms
+	For common justice, you're as pregnant in,
+	As art and practice hath enriched any
+	That we remember. There is our commission,
+	From which we would not have you warp. Call hither,
+	I say, bid come before us Angelo.
+	What figure of us think you he will bear?
+	For you must know, we have with special soul
+	Elected him our absence to supply,
+	Lent him our terror, drest him with our love,
+	And given his deputation all the organs
+	Of our own power: what think you of it?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Look where he comes.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	Angelo,
+	There is a kind of character in thy life,
+	That, to th' observer doth thy history
+	Fully unfold. Thyself and thy belongings
+	Are not thine own so proper, as to waste
+	Thyself upon thy virtues, they on thee.
+	Heaven doth with us as we with torches do,
+	Not light them for themselves; for if our virtues
+	Did not go forth of us, 'twere all alike
+	As if we had them not. Spirits are not finely touch'd
+	But to fine issues, nor Nature never lends
+	The smallest scruple of her excellence,
+	But, like a thrifty goddess, she determines
+	Herself the glory of a creditor,
+	Both thanks and use. But I do bend my speech
+	To one that can my part in him advertise;
+	Hold, therefore, Angelo:
+	In our remove be thou at full ourself;
+	Mortality and mercy in Vienna
+	Live in thy tongue and heart. Old Escalus,
+	Though first in question, is thy secondary.
+	Take thy commission.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	No more evasion:
+	We have with a leaven'd and prepared choice
+	Proceeded to you; therefore take your honours.
+	Our haste from hence is of so quick condition
+	That it prefers itself, and leaves unquestion'd
+	Matters of needful value. We shall write to you,
+	As time and our concernings shall importune,
+	How it goes with us; and do look to know
+	What doth befall you here. So, fare you well:
+	To the hopeful execution do I leave you
+	Of your commissions.
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	My haste may not admit it;
+	Nor need you, on mine honour, have to do
+	With any scruple: your scope is as mine own,
+	So to enforce or qualify the laws
+	As to your soul seems good. Give me your hand;
+	I'll privily away: I love the people,
+	But do not like to stage me to their eyes.
+	Though it do well, I do not relish well
+	Their loud applause and Aves vehement,
+	Nor do I think the man of safe discretion
+	That does affect it. Once more, fare you well.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	I thank you. Fare you well.
+<SPEECH 8><ACT 1><SCENE 3><10%>
+	No, holy father; throw away that thought:
+	Believe not that the dribbling dart of love
+	Can pierce a complete bosom. Why I desire thee
+	To give me secret harbour, hath a purpose
+	More grave and wrinkled than the aims and ends
+	Of burning youth.
+<SPEECH 9><ACT 1><SCENE 3><10%>
+	My holy sir, none better knows than you
+	How I have ever lov'd the life remov'd,
+	And held in idle price to haunt assemblies
+	Where youth, and cost, and witless bravery keeps.
+	I have deliver'd to Lord Angelo—
+	A man of stricture and firm abstinence—
+	My absolute power and place here in Vienna,
+	And he supposes me travell'd to Poland;
+	For so I have strew'd it in the common ear,
+	And so it is receiv'd. Now, pious sir,
+	You will demand of me why I do this?
+<SPEECH 10><ACT 1><SCENE 3><11%>
+	We have strict statutes and most biting laws,—
+	The needful bits and curbs to headstrong steeds,—
+	Which for this fourteen years we have let sleep;
+	Even like an o'ergrown lion in a cave,
+	That goes not out to prey. Now, as fond fathers,
+	Having bound up the threat'ning twigs of birch,
+	Only to stick it in their children's sight
+	For terror, not to use, in time the rod
+	Becomes more mock'd than fear'd; so our decrees,
+	Dead to infliction, to themselves are dead,
+	And liberty plucks justice by the nose;
+	The baby beats the nurse, and quite athwart
+	Goes all decorum.
+<SPEECH 11><ACT 1><SCENE 3><11%>
+	I do fear, too dreadful:
+	Sith 'twas my fault to give the people scope,
+	'Twould be my tyranny to strike and gall them
+	For what I bid them do: for we bid this be done,
+	When evil deeds have their permissive pass
+	And not the punishment. Therefore, indeed, my father,
+	I have on Angelo impos'd the office,
+	Who may, in the ambush of my name, strike home,
+	And yet my nature never in the sight
+	To do it slander. And to behold his sway,
+	I will, as 'twere a brother of your order,
+	Visit both prince and people: therefore, I prithee,
+	Supply me with the habit, and instruct me
+	How I may formally in person bear me
+	Like a true friar. Moe reasons for this action
+	At our more leisure shall I render you;
+	Only, this one: Lord Angelo is precise;
+	Stands at a guard with envy; scarce confesses
+	That his blood flows, or that his appetite
+	Is more to bread than stone: hence shall we see,
+	If power change purpose, what our seemers be.
+<SPEECH 12><ACT 2><SCENE 3><33%>
+	Hail to you, provost! so I think you are.
+<SPEECH 13><ACT 2><SCENE 3><33%>
+	Bound by my charity and my bless'd order,
+	I come to visit the afflicted spirits
+	Here in the prison: do me the common right
+	To let me see them and to make me know
+	The nature of their crimes, that I may minister
+	To them accordingly.
+<SPEECH 14><ACT 2><SCENE 3><33%>
+	When must he die?
+<SPEECH 15><ACT 2><SCENE 3><33%>
+	Repent you, fair one, of the sin you carry?
+<SPEECH 16><ACT 2><SCENE 3><33%>
+	I'll teach you how you shall arraign your conscience,
+	And try your penitence, if it be sound,
+	Or hollowly put on.
+<SPEECH 17><ACT 2><SCENE 3><33%>
+	Love you the man that wrong'd you?
+<SPEECH 18><ACT 2><SCENE 3><34%>
+	So then it seems your most offenceful act
+	Was mutually committed?
+<SPEECH 19><ACT 2><SCENE 3><34%>
+	Then was your sin of heavier kind than his.
+<SPEECH 20><ACT 2><SCENE 3><34%>
+	'Tis meet so, daughter: but lest you do repent,
+	As that the sin hath brought you to this shame,
+	Which sorrow is always toward ourselves, not heaven,
+	Showing we would not spare heaven as we love it,
+	But as we stand in fear,—
+<SPEECH 21><ACT 2><SCENE 3><34%>
+	There rest.
+	Your partner, as I hear, must die to-morrow,
+	And I am going with instruction to him.
+	God's grace go with you! Benedicite!
+<SPEECH 22><ACT 3><SCENE 1><41%>
+	So then you hope of pardon from Lord Angelo?
+<SPEECH 23><ACT 3><SCENE 1><41%>
+	Be absolute for death; either death or life
+	Shall thereby be the sweeter. Reason thus with life:
+	If I do lose thee, I do lose a thing
+	That none but fools would keep: a breath thou art,
+	Servile to all the skyey influences,
+	That dost this habitation, where thou keep'st,
+	Hourly afflict. Merely, thou art death's fool;
+	For him thou labour'st by thy flight to shun,
+	And yet run'st toward him still. Thou art not noble:
+	For all th' accommodations that thou bear'st
+	Are nurs'd by baseness. Thou art by no means valiant;
+	For thou dost fear the soft and tender fork
+	Of a poor worm. Thy best of rest is sleep,
+	And that thou oft provok'st; yet grossly fear'st
+	Thy death, which is no more. Thou art not thyself;
+	For thou exist'st on many a thousand grains
+	That issue out of dust. Happy thou art not;
+	For what thou hast not, still thou striv'st to get,
+	And what thou hast, forget'st. Thou art not certain;
+	For thy complexion shifts to strange effects,
+	After the moon. If thou art rich, thou'rt poor;
+	For, like an ass whose back with ingots bows,
+	Thou bear'st thy heavy riches but a journey,
+	And death unloads thee. Friend hast thou none;
+	For thine own bowels, which do call thee sire,
+	The mere effusion of thy proper loins,
+	Do curse the gout, serpigo, and the rheum,
+	For ending thee no sooner. Thou hast nor youth nor age;
+	But, as it were, an after-dinner's sleep,
+	Dreaming on both; for all thy blessed youth
+	Becomes as aged, and doth beg the alms
+	Of palsied eld; and when thou art old and rich,
+	Thou hast neither heat, affection, limb, nor beauty,
+	To make thy riches pleasant. What's yet in this
+	That bears the name of life? Yet in this life
+	Lie hid moe thousand deaths: yet death we fear,
+	That makes these odds all even.
+<SPEECH 24><ACT 3><SCENE 1><42%>
+	Dear sir, ere long I'll visit you again.
+<SPEECH 25><ACT 3><SCENE 1><43%>
+	Provost, a word with you.
+<SPEECH 26><ACT 3><SCENE 1><43%>
+	Bring me to hear them speak, where I may be conceal'd.
+<SPEECH 27><ACT 3><SCENE 1><46%>
+	Vouchsafe a word, young sister, but one word.
+<SPEECH 28><ACT 3><SCENE 1><46%>
+	Might you dispense with your leisure, I would by and by have some speech with you: the satisfaction I would require is likewise your own benefit.
+<SPEECH 29><ACT 3><SCENE 1><46%>
+	</STAGE DIR> Son, I have overheard what hath past between you and your sister. Angelo had never the purpose to corrupt her; only he hath made an assay of her virtue to practise his judgment with the disposition of natures. She, having the truth of honour in her, hath made him that gracious denial which he is most glad to receive: I am confessor to Angelo, and I know this to be true; therefore prepare yourself to death. Do not satisfy your resolution with hopes that are fallible: to-morrow you must die; go to your knees and make ready.
+<SPEECH 30><ACT 3><SCENE 1><47%>
+	Hold you there: farewell.
+	Provost, a word with you.
+<SPEECH 31><ACT 3><SCENE 1><47%>
+	That now you are come, you will be gone. Leave me awhile with the maid: my mind promises with my habit no loss shall touch her by my company.
+<SPEECH 32><ACT 3><SCENE 1><47%>
+	The hand that hath made you fair hath made you good: the goodness that is cheap in beauty makes beauty brief in goodness; but grace, being the soul of your complexion, shall keep the body of it ever fair. The assault that Angelo hath made to you, fortune hath conveyed to my understanding; and, but that frailty hath examples for his falling, I should wonder at Angelo. How would you do to content this substitute, and to save your brother?
+<SPEECH 33><ACT 3><SCENE 1><48%>
+	That shall not be much amiss: yet, as the matter now stands, he will avoid your accusation; 'he made trial of you only.' Therefore, fasten your ear on my advisings: to the love I have in doing good a remedy presents itself. I do make myself believe that you may most uprighteously do a poor wronged lady a merited benefit, redeem your brother from the angry law, do no stain to your own gracious person, and much please the absent duke, if peradventure he shall ever return to have hearing of this business.
+<SPEECH 34><ACT 3><SCENE 1><48%>
+	Virtue is bold, and goodness never fearful. Have you not heard speak of Mariana, the sister of Frederick, the great soldier who miscarried at sea?
+<SPEECH 35><ACT 3><SCENE 1><48%>
+	She should this Angelo have married; was affianced to her by oath, and the nuptial appointed: between which time of the contract, and limit of the solemnity, her brother Frederick was wracked at sea, having in that perished vessel the dowry of his sister. But mark how heavily this befell to the poor gentlewoman: there she lost a noble and renowned brother, in his love toward her ever most kind and natural; with him the portion and sinew of her fortune, her marriage-dowry with both, her combinate husband, this well-seeming Angelo.
+<SPEECH 36><ACT 3><SCENE 1><49%>
+	Left her in her tears, and dried not one of them with his comfort; swallowed his vows whole, pretending in her discoveries of dishonour: in few, bestowed her on her own lamentation, which she yet wears for his sake; and he, a marble to her tears, is washed with them, but relents not.
+<SPEECH 37><ACT 3><SCENE 1><49%>
+	It is a rupture that you may easily heal; and the cure of it not only saves your brother, but keeps you from dishonour in doing it.
+<SPEECH 38><ACT 3><SCENE 1><49%>
+	This forenamed maid hath yet in her the continuance of her first affection: his unjust unkindness, that in all reason should have quenched her love, hath, like an impediment in the current, made it more violent and unruly. Go you to Angelo: answer his requiring with a plausible obedience: agree with his demands to the point; only refer yourself to this advantage, first, that your stay with him may not be long, that the time may have all shadow and silence in it, and the place answer to convenience. This being granted in course, and now follows all, we shall advise this wronged maid to stead up your appointment, go in your place; if the encounter acknowledge itself hereafter, it may compel him to her recompense; and here by this is your brother saved, your honour untainted, the poor Mariana advantaged, and the corrupt deputy scaled. The maid will I frame and make fit for his attempt. If you think well to carry this, as you may, the doubleness of the benefit defends the deceit from reproof. What think you of it?
+<SPEECH 39><ACT 3><SCENE 1><50%>
+	It lies much in your holding up. Haste you speedily to Angelo: if for this night he entreat you to his bed, give him promise of satisfaction. I will presently to St. Luke's; there, at the moated grange, resides this dejected Mariana: at that place call upon me, and dispatch with Angelo, that it may be quickly.
+<SPEECH 40><ACT 3><SCENE 2><51%>
+	O heavens! what stuff is here?
+<SPEECH 41><ACT 3><SCENE 2><51%>
+	And you, good brother father. What offence hath this man made you, sir?
+<SPEECH 42><ACT 3><SCENE 2><51%>
+	Fie, sirrah: a bawd, a wicked bawd!
+	The evil that thou causest to be done,
+	That is thy means to live. Do thou but think
+	What 'tis to cram a maw or clothe a back
+	From such a filthy vice: say to thyself,
+	From their abominable and beastly touches
+	I drink, I eat, array myself, and live.
+	Canst thou believe thy living is a life,
+	So stinkingly depending? Go mend, go mend.
+<SPEECH 43><ACT 3><SCENE 2><52%>
+	Nay, if the devil have given thee proofs for sin,
+	Thou wilt prove his. Take him to prison, officer;
+	Correction and instruction must both work
+	Ere this rude beast will profit.
+<SPEECH 44><ACT 3><SCENE 2><52%>
+	That we were all, as some would seem to be,
+	From our faults, as faults from seeming, free!
+<SPEECH 45><ACT 3><SCENE 2><52%>
+	Still thus, and thus, still worse!
+<SPEECH 46><ACT 3><SCENE 2><53%>
+	And you.
+<SPEECH 47><ACT 3><SCENE 2><53%>
+	I know none. Can you tell me of any?
+<SPEECH 48><ACT 3><SCENE 2><54%>
+	I know not where; but wheresoever, I wish him well.
+<SPEECH 49><ACT 3><SCENE 2><54%>
+	He does well in't.
+<SPEECH 50><ACT 3><SCENE 2><54%>
+	It is too general a vice, and severity must cure it.
+<SPEECH 51><ACT 3><SCENE 2><54%>
+	How should he be made, then?
+<SPEECH 52><ACT 3><SCENE 2><54%>
+	You are pleasant, sir, and speak apace.
+<SPEECH 53><ACT 3><SCENE 2><55%>
+	I never heard the absent duke much detected for women; he was not inclined that way.
+<SPEECH 54><ACT 3><SCENE 2><55%>
+	'Tis not possible.
+<SPEECH 55><ACT 3><SCENE 2><55%>
+	You do him wrong, surely.
+<SPEECH 56><ACT 3><SCENE 2><55%>
+	What, I prithee, might be the cause?
+<SPEECH 57><ACT 3><SCENE 2><55%>
+	Wise! why, no question but he was.
+<SPEECH 58><ACT 3><SCENE 2><55%>
+	Either this is envy in you, folly, or mistaking: the very stream of his life and the business he hath helmed must, upon a warranted need, give him a better proclamation. Let him be but testimonied in his own bringings forth, and he shall appear to the envious a scholar, a statesman and a soldier. Therefore you speak unskilfully; or, if your knowledge be more, it is much darkened in your malice.
+<SPEECH 59><ACT 3><SCENE 2><56%>
+	Love talks with better knowledge, and knowledge with dearer love.
+<SPEECH 60><ACT 3><SCENE 2><56%>
+	I can hardly believe that, since you know not what you speak. But, if ever the duke return,—as our prayers are he may,—let me desire you to make your answer before him: if it be honest you have spoke, you have courage to maintain it. I am bound to call upon you; and, I pray you, your name?
+<SPEECH 61><ACT 3><SCENE 2><56%>
+	He shall know you better, sir, if I may live to report you.
+<SPEECH 62><ACT 3><SCENE 2><56%>
+	O! you hope the duke will return no more, or you imagine me too unhurtful an opposite. But indeed I can do you little harm; you'll forswear this again.
+<SPEECH 63><ACT 3><SCENE 2><56%>
+	Why should he die, sir?
+<SPEECH 64><ACT 3><SCENE 2><57%>
+	No might nor greatness in mortality
+	Can censure 'scape: back-wounding calumny
+	The whitest virtue strikes. What king so strong
+	Can tie the gall up in the slanderous tongue?
+	But who comes here?
+<SPEECH 65><ACT 3><SCENE 2><58%>
+	Bliss and goodness on you!
+<SPEECH 66><ACT 3><SCENE 2><58%>
+	Not of this country, though my chance is now
+	To use it for my time: I am a brother
+	Of gracious order, late come from the See,
+	In special business from his Holiness.
+<SPEECH 67><ACT 3><SCENE 2><58%>
+	None, but there is so great a fever on goodness, that the dissolution of it must cure it: novelty is only in request; and it is as dangerous to be aged in any kind of course, as it is virtuous to be constant in any undertaking: there is scarce truth enough alive to make societies secure, but security enough to make fellowships accursed. Much upon this riddle runs the wisdom of the world. This news is old enough, yet it is every day's news. I pray you, sir, of what disposition was the duke?
+<SPEECH 68><ACT 3><SCENE 2><59%>
+	What pleasure was he given to?
+<SPEECH 69><ACT 3><SCENE 2><59%>
+	He professes to have received no sinister measure from his judge, but most willingly humbles himself to the determination of justice; yet had he framed to himself, by the instruction of his frailty, many deceiving promises of life, which I, by my good leisure have discredited to him, and now is he resolved to die.
+<SPEECH 70><ACT 3><SCENE 2><59%>
+	If his own life answer the straitness of his proceeding, it shall become him well; wherein if he chance to fail, he hath sentenced himself.
+<SPEECH 71><ACT 3><SCENE 2><59%>
+	Peace be with you!
+	He, who the sword of heaven will bear
+	Should be as holy as severe;
+	Pattern in himself to know,
+	Grace to stand, and virtue go;
+	More nor less to others paying
+	Than by self offences weighing.
+	Shame to him whose cruel striking
+	Kills for faults of his own liking!
+	Twice treble shame on Angelo,
+	To weed my vice and let his grow!
+	O, what may man within him hide,
+	Though angel on the outward side!
+	How many likeness made in crimes,
+	Making practice on the times,
+	To draw with idle spiders' strings
+	Most pond'rous and substantial things!
+	Craft against vice I must apply:
+	With Angelo to-night shall lie
+	His old betrothed but despis'd:
+	So disguise shall, by the disguis'd,
+	Pay with falsehood false exacting,
+	And perform an old contracting.
+	Take, O take those lips away,
+	That so sweetly were forsworn;
+	And those eyes, the break of day,
+	Lights that do mislead the morn:
+	But my kisses bring again,
+	bring again,
+	Seals of love, but seal'd in vain,
+	seal'd in vain.
+<SPEECH 72><ACT 4><SCENE 1><61%>
+	'Tis good; though music oft hath such a charm
+	To make bad good, and good provoke to harm.
+	I pray you tell me, hath anybody inquired for me here to-day? much upon this time have I promised here to meet.
+<SPEECH 73><ACT 4><SCENE 1><61%>
+	I do constantly believe you. The time is come even now. I shall crave your forbearance a little; may be I will call upon you anon, for some advantage to yourself.
+<SPEECH 74><ACT 4><SCENE 1><61%>
+	Very well met, and well come.
+	What is the news from this good deputy?
+<SPEECH 75><ACT 4><SCENE 1><61%>
+	But shall you on your knowledge find this way?
+<SPEECH 76><ACT 4><SCENE 1><62%>
+	Are there no other tokens
+	Between you 'greed concerning her observance?
+<SPEECH 77><ACT 4><SCENE 1><62%>
+	'Tis well borne up.
+	I have not yet made known to Mariana
+	A word of this. What ho! within! come forth.
+	I pray you, be acquainted with this maid;
+	She comes to do you good.
+<SPEECH 78><ACT 4><SCENE 1><62%>
+	Do you persuade yourself that I respect you?
+<SPEECH 79><ACT 4><SCENE 1><62%>
+	Take then this your companion by the hand,
+	Who hath a story ready for your ear.
+	I shall attend your leisure: but make haste;
+	The vaporous night approaches.
+<SPEECH 80><ACT 4><SCENE 1><62%>
+	O place and greatness! millions of false eyes
+	Are stuck upon thee: volumes of report
+	Run with these false and most contrarious quests
+	Upon thy doings: thousand escapes of wit
+	Make thee the father of their idle dream,
+	And rack thee in their fancies!
+	Welcome! How agreed?
+<SPEECH 81><ACT 4><SCENE 1><63%>
+	It is not my consent,
+	But my entreaty too.
+<SPEECH 82><ACT 4><SCENE 1><63%>
+	Nor, gentle daughter, fear you not at all.
+	He is your husband on a pre-contract:
+	To bring you thus together, 'tis no sin,
+	Sith that the justice of your title to him
+	Doth flourish the deceit. Come, let us go:
+	Our corn's to reap, for yet our tithe's to sow.
+<SPEECH 83><ACT 4><SCENE 2><66%>
+	The best and wholesom'st spirits of the night
+	Envelop you, good provost! Who call'd here of late?
+<SPEECH 84><ACT 4><SCENE 2><66%>
+	Not Isabel?
+<SPEECH 85><ACT 4><SCENE 2><66%>
+	They will, then, ere't be long.
+<SPEECH 86><ACT 4><SCENE 2><66%>
+	There's some in hope.
+<SPEECH 87><ACT 4><SCENE 2><66%>
+	Not so, not so: his life is parallel'd
+	Even with the stroke and line of his great justice:
+	He doth with holy abstinence subdue
+	That in himself which he spurs on his power
+	To qualify in others: were he meal'd with that
+	Which he corrects, then were he tyrannous;
+	But this being so, he's just.—<STAGE DIR>
+	</STAGE DIR> Now are they come.
+	This is a gentle provost: seldom when
+	The steeled gaoler is the friend of men.
+	How now! What noise? That spirit's possess'd with haste
+	That wounds the unsisting postern with these strokes.
+<SPEECH 88><ACT 4><SCENE 2><67%>
+	Have you no countermand for Claudio yet,
+	But he must die to-morrow?
+<SPEECH 89><ACT 4><SCENE 2><67%>
+	As near the dawning, provost, as it is,
+	You shall hear more ere morning.
+<SPEECH 90><ACT 4><SCENE 2><67%>
+	And here comes Claudio's pardon.
+<SPEECH 91><ACT 4><SCENE 2><67%>
+	</STAGE DIR> This is his pardon, purchased by such sin
+	For which the pardoner himself is in;
+	Hence hath offence his quick celerity,
+	When it is borne in high authority.
+	When vice makes mercy, mercy's so extended,
+	That for the fault's love is the offender friended.
+	Now, sir, what news?
+<SPEECH 92><ACT 4><SCENE 2><68%>
+	Pray you, let's hear.
+<SPEECH 93><ACT 4><SCENE 2><68%>
+	What is that Barnardine who is to be executed this afternoon?
+<SPEECH 94><ACT 4><SCENE 2><68%>
+	How came it that the absent duke had not either delivered him to his liberty or executed him? I have heard it was ever his manner to do so.
+<SPEECH 95><ACT 4><SCENE 2><68%>
+	It is now apparent?
+<SPEECH 96><ACT 4><SCENE 2><68%>
+	Hath he borne himself penitently in prison? How seems he to be touched?
+<SPEECH 97><ACT 4><SCENE 2><69%>
+	He wants advice.
+<SPEECH 98><ACT 4><SCENE 2><69%>
+	More of him anon. There is written in your brow, provost, honesty and constancy; if I read it not truly, my ancient skill beguiles me; but, in the boldness of my cunning I will lay myself in hazard. Claudio, whom here you have warrant to execute, is no greater forfeit to the law than Angalo who hath sentenced him. To make you understand this in a manifested effect, I crave but four days' respite, for the which you are to do me both a present and a dangerous courtesy.
+<SPEECH 99><ACT 4><SCENE 2><69%>
+	In the delaying death.
+<SPEECH 100><ACT 4><SCENE 2><69%>
+	By the vow of mine order I warrant you, if my instructions may be your guide. Let this Barnardine be this morning executed, and his head borne to Angelo.
+<SPEECH 101><ACT 4><SCENE 2><70%>
+	O! death's a great disguiser, and you may add to it. Shave the head, and tie the beard; and say it was the desire of the penitent to be so bared before his death: you know the course is common. If anything fall to you upon this, more than thanks and good fortune, by the saint whom I profess, I will plead against it with my life.
+<SPEECH 102><ACT 4><SCENE 2><70%>
+	Were you sworn to the duke or to the deputy?
+<SPEECH 103><ACT 4><SCENE 2><70%>
+	You will think you have made no offence, if the duke avouch the justice of your dealing?
+<SPEECH 104><ACT 4><SCENE 2><70%>
+	Not a resemblance, but a certainty. Yet since I see you fearful, that neither my coat, integrity, nor persuasion can with ease attempt you, I will go further than I meant, to pluck all fears out of you. Look you, sir; here is the hand and seal of the duke: you know the character, I doubt not, and the signet is not strange to you.
+<SPEECH 105><ACT 4><SCENE 2><70%>
+	The contents of this is the return of the duke: you shall anon over-read if at your pleasure, where you shall find within these two days, he will be here. This is a thing that Angelo knows not, for he this very day receives letters of strange tenour; perchance of the duke's death; perchance, his entering into some monastery; but, by chance, nothing of what is writ. Look, the unfolding star calls up the shepherd. Put not yourself into amazement how these things should be: all difficulties are but easy when they are known. Call your executioner, and off with Barnardine's head: I will give him a present shrift and advise him for a better place. Yet you are amaz'd, but this shall absolutely resolve you. Come away; it is almost clear dawn.
+<SPEECH 106><ACT 4><SCENE 3><73%>
+	Sir, induced by my charity, and hearing how hastily you are to depart, I am come to advise you, comfort you, and pray with you.
+<SPEECH 107><ACT 4><SCENE 3><73%>
+	O, sir, you must; and therefore, I beseech you look forward on the journey you shall go.
+<SPEECH 108><ACT 4><SCENE 3><73%>
+	But hear you.
+<SPEECH 109><ACT 4><SCENE 3><73%>
+	Unfit to live or die. O, gravel heart!
+	After him fellows: bring him to the block.
+<SPEECH 110><ACT 4><SCENE 3><73%>
+	A creature unprepar'd, unmeet for death;
+	And, to transport him in the mind he is
+	Were damnable.
+<SPEECH 111><ACT 4><SCENE 3><74%>
+	O, 'tis an accident that heaven provides!
+	Dispatch it presently: the hour draws on
+	Prefix'd by Angelo. See this be done,
+	And sent according to command, whiles I
+	Persuade this rude wretch willingly to die.
+<SPEECH 112><ACT 4><SCENE 3><74%>
+	Let this be done:
+	Put them in secret holds, both Barnardine and Claudio:
+	Ere twice the sun hath made his journal greeting
+	To the under generation, you shall find
+	Your safety manifested.
+<SPEECH 113><ACT 4><SCENE 3><74%>
+	Quick, dispatch,
+	And send the head to Angelo.
+	Now will I write letters to Angelo,—
+	The provost, he shall bear them,—whose contents
+	Shall witness to him I am near at home,
+	And that, by great injunctions, I am bound
+	To enter publicly: him I'll desire
+	To meet me at the consecrated fount
+	A league below the city; and from thence,
+	By cold gradation and well-balanc'd form,
+	We shall proceed with Angelo.
+<SPEECH 114><ACT 4><SCENE 3><75%>
+	Convenient is it. Make a swift return,
+	For I would commune with you of such things
+	That want no ear but yours.
+<SPEECH 115><ACT 4><SCENE 3><75%>
+	The tongue of Isabel. She's come to know
+	If yet her brother's pardon be come hither;
+	But I will keep her ignorant of her good,
+	To make her heavenly comforts of despair,
+	When it is least expected.
+<SPEECH 116><ACT 4><SCENE 3><75%>
+	Good morning to you, fair and gracious daughter.
+<SPEECH 117><ACT 4><SCENE 3><75%>
+	He hath releas'd him, Isabel, from the world:
+	His head is off and sent to Angelo.
+<SPEECH 118><ACT 4><SCENE 3><75%>
+	It is no other: show your wisdom, daughter,
+	In your close patience.
+<SPEECH 119><ACT 4><SCENE 3><75%>
+	You shall not be admitted to his sight.
+<SPEECH 120><ACT 4><SCENE 3><76%>
+	This nor hurts him nor profits you a jot;
+	Forbear it therefore; give your cause to heaven.
+	Mark what I say, which you shall find
+	By every syllable a faithful verity.
+	The duke comes home to-morrow; nay, dry your eyes:
+	One of our covent, and his confessor,
+	Gives me this instance: already he hath carried
+	Notice to Escalus and Angelo,
+	Who do prepare to meet him at the gates,
+	There to give up their power. If you can, pace your wisdom
+	In that good path that I would wish it go,
+	And you shall have your bosom on this wretch,
+	Grace of the Duke, revenges to your heart,
+	And general honour.
+<SPEECH 121><ACT 4><SCENE 3><76%>
+	This letter then to Friar Peter give;
+	'Tis that he sent me of the duke's return:
+	Say, by this token, I desire his company
+	At Mariana's house to-night. Her cause and yours,
+	I'll perfect him withal, and he shall bring you
+	Before the duke; and to the head of Angelo
+	Accuse him home, and home. For my poor self,
+	I am combined by a sacred vow
+	And shall be absent. Wend you with this letter.
+	Command these fretting waters from your eyes
+	With a light heart: trust not my holy order,
+	If I pervert your course. Who's here?
+<SPEECH 122><ACT 4><SCENE 3><76%>
+	Not within, sir.
+<SPEECH 123><ACT 4><SCENE 3><77%>
+	Sir, the duke is marvellous little beholding to your reports; but the best is, he lives not in them.
+<SPEECH 124><ACT 4><SCENE 3><77%>
+	Well, you'll answer this one day.
+	Fare ye well.
+<SPEECH 125><ACT 4><SCENE 3><77%>
+	You have told me too many of him already, sir, if they be true; if not true, none were enough.
+<SPEECH 126><ACT 4><SCENE 3><77%>
+	Did you such a thing?
+<SPEECH 127><ACT 4><SCENE 3><77%>
+	Sir, your company is fairer than honest.
+	Rest you well.
+<SPEECH 128><ACT 4><SCENE 5><79%>
+	These letters at fit time deliver me.
+	The provost knows our purpose and our plot.
+	The matter being afoot, keep your instruction,
+	And hold you ever to our special drift,
+	Though sometimes you do blench from this to that,
+	As cause doth minister. Go call at Flavius' house,
+	And tell him where I stay: give the like notice
+	To Valentinus, Rowland, and to Crassus,
+	And bid them bring the trumpets to the gate;
+	But send me Flavius first.
+<SPEECH 129><ACT 4><SCENE 5><79%>
+	I thank thee, Varrius; thou hast made good haste.
+	Come, we will walk. There's other of our friends
+	Will greet us here anon, my gentle Varrius.
+<SPEECH 130><ACT 5><SCENE 1><80%>
+	My very worthy cousin, fairly met!
+	Our old and faithful friend, we are glad to see you.
+<SPEECH 131><ACT 5><SCENE 1><81%>
+	Many and hearty thankings to you both.
+	We have made inquiry of you; and we hear
+	Such goodness of your justice, that our soul
+	Cannot but yield you forth to public thanks,
+	Forerunning more requital.
+<SPEECH 132><ACT 5><SCENE 1><81%>
+	O! your desert speaks loud; and I should wrong it,
+	To lock it in the wards of covert bosom,
+	When it deserves, with characters of brass,
+	A forted residence 'gainst the tooth of time
+	And razure of oblivion. Give me your hand,
+	And let the subject see, to make them know
+	That outward courtesies would fain proclaim
+	Favours that keep within. Come, Escalus,
+	You must walk by us on our other hand;
+	And good supporters are you.
+<SPEECH 133><ACT 5><SCENE 1><81%>
+	Relate your wrongs: in what? by whom? Be brief;
+	Here is Lord Angelo, shall give you justice:
+	Reveal yourself to him.
+<SPEECH 134><ACT 5><SCENE 1><82%>
+	Nay, it is ten times strange.
+<SPEECH 135><ACT 5><SCENE 1><82%>
+	Away with her! poor soul,
+	She speaks this in the infirmity of sense.
+<SPEECH 136><ACT 5><SCENE 1><83%>
+	By mine honesty,
+	If she be mad,—as I believe no other,—
+	Her madness hath the oddest frame of sense,
+	Such a dependency of thing on thing,
+	As e'er I heard in madness.
+<SPEECH 137><ACT 5><SCENE 1><83%>
+	Many that are not mad
+	Have, sure, more lack of reason. What would you say?
+<SPEECH 138><ACT 5><SCENE 1><83%>
+	You were not bid to speak.
+<SPEECH 139><ACT 5><SCENE 1><83%>
+	I wish you now, then;
+	Pray you, take note of it; and when you have
+	A business for yourself, pray heaven you then
+	Be perfect.
+<SPEECH 140><ACT 5><SCENE 1><84%>
+	The warrant's for yourself: take heed to it.
+<SPEECH 141><ACT 5><SCENE 1><84%>
+	It may be right; but you are in the wrong
+	To speak before your time. Proceed.
+<SPEECH 142><ACT 5><SCENE 1><84%>
+	That's somewhat madly spoken.
+<SPEECH 143><ACT 5><SCENE 1><84%>
+	Mended again: the matter; proceed.
+<SPEECH 144><ACT 5><SCENE 1><84%>
+	This is most likely!
+<SPEECH 145><ACT 5><SCENE 1><84%>
+	By heaven, fond wretch! thou know'st not what thou speak'st,
+	Or else thou art suborn'd against his honour
+	In hateful practice. First, his integrity
+	Stands without blemish; next, it imports no reason
+	That with such vehemency he should pursue
+	Faults proper to himself: if he had so offended,
+	He would have weigh'd thy brother by himself,
+	And not have cut him off. Some one hath set you on:
+	Confess the truth, and say by whose advice
+	Thou cam'st here to complain.
+<SPEECH 146><ACT 5><SCENE 1><85%>
+	I know you'd fain be gone. An officer!
+	To prison with her! Shall we thus permit
+	A blasting and a scandalous breath to fall
+	On him so near us? This needs must be a practice.
+	Who knew of your intent and coming hither?
+<SPEECH 147><ACT 5><SCENE 1><85%>
+	A ghostly father, belike. Who knows that Lodowick?
+<SPEECH 148><ACT 5><SCENE 1><85%>
+	Words against me! This' a good friar, belike!
+	And to set on this wretched woman here
+	Against our substitute! Let this friar be found.
+<SPEECH 149><ACT 5><SCENE 1><86%>
+	We did believe no less.
+	Know you that Friar Lodowick that she speaks of?
+<SPEECH 150><ACT 5><SCENE 1><86%>
+	Good friar, let's hear it.
+	Do you not smile at this, Lord Angelo?—
+	O heaven, the vanity of wretched fools!
+	Give us some seats. Come, cousin Angelo;
+	In this I'll be impartial; be you judge
+	Of your own cause. Is this the witness, friar?
+	First, let her show her face, and after speak.
+<SPEECH 151><ACT 5><SCENE 1><87%>
+	What, are you married?
+<SPEECH 152><ACT 5><SCENE 1><87%>
+	Are you a maid?
+<SPEECH 153><ACT 5><SCENE 1><87%>
+	A widow, then?
+<SPEECH 154><ACT 5><SCENE 1><87%>
+	Why, you
+	Are nothing, then: neither maid, widow, nor wife?
+<SPEECH 155><ACT 5><SCENE 1><87%>
+	Silence that fellow: I would he had some cause
+	To prattle for himself.
+<SPEECH 156><ACT 5><SCENE 1><87%>
+	For the benefit of silence, would thou wert so too!
+<SPEECH 157><ACT 5><SCENE 1><87%>
+	This is no witness for Lord Angelo.
+<SPEECH 158><ACT 5><SCENE 1><87%>
+	No? you say your husband.
+<SPEECH 159><ACT 5><SCENE 1><88%>
+	Know you this woman?
+<SPEECH 160><ACT 5><SCENE 1><88%>
+	Sirrah, no more!
+<SPEECH 161><ACT 5><SCENE 1><89%>
+	Ay, with my heart;
+	And punish them unto your height of pleasure.
+	Thou foolish friar, and thou pernicious woman,
+	Compact with her that's gone, think'st thou thy oaths,
+	Though they would swear down each particular saint,
+	Were testimonies against his worth and credit
+	That's seal'd in approbation? You, Lord Escalus,
+	Sit with my cousin; lend him your kind pains
+	To find out this abuse, whence 'tis deriv'd.
+	There is another friar that set them on;
+	Let him be sent for.
+<SPEECH 162><ACT 5><SCENE 1><89%>
+	Go do it instantly.
+	And you, my noble and well-warranted cousin,
+	Whom it concerns to hear this matter forth,
+	Do with your injuries as seems you best,
+	In any chastisement: I for awhile will leave you;
+	But stir not you, till you have well determin'd
+	Upon these slanderers.
+<SPEECH 163><ACT 5><SCENE 1><91%>
+	'Tis false.
+<SPEECH 164><ACT 5><SCENE 1><91%>
+	Respect to your great place! and let the devil
+	Be sometime honour'd for his burning throne.
+	Where is the duke? 'tis he should hear me speak.
+<SPEECH 165><ACT 5><SCENE 1><91%>
+	Boldly, at least. But, O, poor souls!
+	Come you to seek the lamb here of the fox?
+	Good night to your redress! Is the duke gone?
+	Then is your cause gone too. The duke's unjust,
+	Thus to retort your manifest appeal,
+	And put your trial in the villain's mouth
+	Which here you come to accuse.
+<SPEECH 166><ACT 5><SCENE 1><92%>
+	Be not so hot; the duke
+	Dare no more stretch this finger of mine than he
+	Dare rack his own: his subject am I not,
+	Nor here provincial. My business in this state
+	Made me a looker-on here in Vienna,
+	Where I have seen corruption boil and bubble
+	Till it o'er-run the stew: laws for all faults,
+	But faults so countenanc'd, that the strong statutes
+	Stand like the forfeits in a barber's shop,
+	As much in mock as mark.
+<SPEECH 167><ACT 5><SCENE 1><92%>
+	I remember you, sir, by the sound of your voice: I met you at the prison, in the absence of the duke.
+<SPEECH 168><ACT 5><SCENE 1><92%>
+	Most notedly, sir.
+<SPEECH 169><ACT 5><SCENE 1><92%>
+	You must, sir, change persons with me, ere you make that my report: you, indeed, spoke so of him; and much more, much worse.
+<SPEECH 170><ACT 5><SCENE 1><92%>
+	I protest I love the duke as I love myself.
+<SPEECH 171><ACT 5><SCENE 1><93%>
+	Stay, sir; stay awhile.
+<SPEECH 172><ACT 5><SCENE 1><93%>
+	Thou art the first knave that e'er made a duke.
+	First, provost, let me bail these gentle three.
+	</STAGE DIR> Sneak not away, sir; for the friar and you
+	Must have a word anon. Lay hold on him.
+<SPEECH 173><ACT 5><SCENE 1><93%>
+	</STAGE DIR> What you have spoke I pardon; sit you down:
+	We'll borrow place of him. <STAGE DIR>
+	</STAGE DIR> Sir, by your leave.
+	Hast thou or word, or wit, or impudence,
+	That yet can do thee office? If thou hast,
+	Rely upon it till my tale be heard,
+	And hold no longer out.
+<SPEECH 174><ACT 5><SCENE 1><94%>
+	Come hither, Mariana,
+	Say, wast thou e'er contracted to this woman?
+<SPEECH 175><ACT 5><SCENE 1><94%>
+	Go take her hence, and marry her instantly.
+	Do you the office, friar; which consummate,
+	Return him here again. Go with him, provost.
+<SPEECH 176><ACT 5><SCENE 1><94%>
+	Come hither, Isabel.
+	Your friar is now your prince: as I was then
+	Advertising and holy to your business,
+	Not changing heart with habit, I am still
+	Attorney'd at your service.
+<SPEECH 177><ACT 5><SCENE 1><94%>
+	You are pardon'd, Isabel:
+	And now, dear maid, be you as free to us.
+	Your brother's death, I know, sits at your heart;
+	And you may marvel why I obscur'd myself,
+	Labouring to save his life, and would not rather
+	Make rash remonstrance of my hidden power
+	Than let him so be lost. O most kind maid!
+	It was the swift celerity of his death,
+	Which I did think with slower foot came on,
+	That brain'd my purpose: but, peace be with him!
+	That life is better life, past fearing death,
+	Than that which lives to fear: make it your comfort,
+	So happy is your brother.
+<SPEECH 178><ACT 5><SCENE 1><95%>
+	For this new-married man approaching here,
+	Whose salt imagination yet hath wrong'd
+	Your well-defended honour, you must pardon
+	For Mariana's sake. But as he adjudg'd your brother,—
+	Being criminal, in double violation
+	Of sacred chastity, and of promise-breach,
+	Thereon dependent, for your brother's life,—
+	The very mercy of the law cries out
+	Most audible, even from his proper tongue,
+	'An Angelo for Claudio, death for death!'
+	Haste still pays haste, and leisure answers leisure,
+	Like doth quit like, and Measure still for Measure.
+	Then, Angelo, thy fault's thus manifested,
+	Which, though thou wouldst deny, denies thee vantage.
+	We do condemn thee to the very block
+	Where Claudio stoop'd to death, and with like haste.
+	Away with him!
+<SPEECH 179><ACT 5><SCENE 1><95%>
+	It is your husband mock'd you with a husband.
+	Consenting to the safeguard of your honour,
+	I thought your marriage fit; else imputation,
+	For that he knew you, might reproach your life
+	And choke your good to come. For his possessions,
+	Although by confiscation they are ours,
+	We do instate and widow you withal,
+	To buy you a better husband.
+<SPEECH 180><ACT 5><SCENE 1><96%>
+	Never crave him; we are definitive.
+<SPEECH 181><ACT 5><SCENE 1><96%>
+	You do but lose your labour.
+	Away with him to death! <STAGE DIR>
+	</STAGE DIR> Now, sir, to you.
+<SPEECH 182><ACT 5><SCENE 1><96%>
+	Against all sense you do importune her:
+	Should she kneel down in mercy of this fact,
+	Her brother's ghost his paved bed would break,
+	And take her hence in horror.
+<SPEECH 183><ACT 5><SCENE 1><96%>
+	He dies for Claudio's death.
+<SPEECH 184><ACT 5><SCENE 1><97%>
+	Your suit's unprofitable: stand up, I say.
+	I have bethought me of another fault.
+	Provost, how came it Claudio was beheaded
+	At an unusual hour?
+<SPEECH 185><ACT 5><SCENE 1><97%>
+	Had you a special warrant for the deed?
+<SPEECH 186><ACT 5><SCENE 1><97%>
+	For which I do discharge you of your office:
+	Give up your keys.
+<SPEECH 187><ACT 5><SCENE 1><97%>
+	What's he?
+<SPEECH 188><ACT 5><SCENE 1><97%>
+	I would thou hadst done so by Claudio.
+	Go, fetch him hither: let me look upon him.
+<SPEECH 189><ACT 5><SCENE 1><98%>
+	Which is that Barnardine?
+<SPEECH 190><ACT 5><SCENE 1><98%>
+	There was a friar told me of this man.
+	Sirrah, thou art said to have a stubborn soul,
+	That apprehends no further than this world,
+	And squar'st thy life according. Thou'rt condemn'd:
+	But, for those earthly faults, I quit them all,
+	And pray thee take this mercy to provide
+	For better times to come. Friar, advise him:
+	I leave him to your hand.—What muffled fellow's that?
+<SPEECH 191><ACT 5><SCENE 1><98%>
+	</STAGE DIR> If he be like your brother, for his sake
+	Is he pardon'd; and, for your lovely sake
+	Give me your hand and say you will be mine,
+	He is my brother too. But fitter time for that.
+	By this, Lord Angelo perceives he's safe:
+	Methinks I see a quickening in his eye.
+	Well, Angelo, your evil quits you well:
+	Look that you love your wife; her worth worth yours.—
+	I find an apt remission in myself,
+	And yet here's one in place I cannot pardon.—
+	</STAGE DIR> You, sirrah, that knew me for a fool, a coward,
+	One all of luxury, an ass, a madman:
+	Wherein have I so deserv'd of you,
+	That you extol me thus?
+<SPEECH 192><ACT 5><SCENE 1><99%>
+	Whipp'd first, sir, and hang'd after.
+	Proclaim it, provost, round about the city,
+	If any woman's wrong'd by this lewd fellow,—
+	As I have heard him swear himself there's one
+	Whom he begot with child, let her appear,
+	And he shall marry her: the nuptial finish'd,
+	Let him be whipp'd and hang'd.
+<SPEECH 193><ACT 5><SCENE 1><99%>
+	Upon mine honour, thou shalt marry her.
+	Thy slanders I forgive; and therewithal
+	Remit thy other forfeits. Take him to prison,
+	And see our pleasure herein executed.
+<SPEECH 194><ACT 5><SCENE 1><99%>
+	Slandering a prince deserves it.
+	She, Claudio, that you wrong'd, look you restore.
+	Joy to you, Mariana! love her, Angelo:
+	I have confess'd her and I know her virtue.
+	Thanks, good friend Escalus, for thy much goodness:
+	There's more behind that is more gratulate.
+	Thanks, provost, for thy care and secrecy;
+	We shall employ thee in a worthier place.
+	Forgive him, Angelo, that brought you home
+	The head of Ragozine for Claudio's:
+	The offence pardons itself. Dear Isabel,
+	I have a motion much imports your good;
+	Whereto if you'll a willing ear incline,
+	What's mine is yours, and what is yours is mine.
+	So, bring us to our palace; where we'll show
+	What's yet behind, that's meet you all should know.

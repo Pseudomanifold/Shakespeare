@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	News, my good lord, from Rome.
+<SPEECH 2><ACT 2><SCENE 5><28%>
+	The music, ho!
+<SPEECH 3><ACT 3><SCENE 1><55%>
+	Fly! not we.
+<SPEECH 4><ACT 3><SCENE XI.— ><60%>
+	A messenger from Cæsar.

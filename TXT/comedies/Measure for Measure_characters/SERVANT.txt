@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 2><SCENE 2><25%>
+	He's hearing of a cause: he will come straight:
+	I'll tell him of you.
+<SPEECH 2><ACT 2><SCENE 2><26%>
+	Here is the sister of the man condemn'd
+	Desires access to you.
+<SPEECH 3><ACT 2><SCENE 4><35%>
+	One Isabel, a sister,
+	Desires access to you.

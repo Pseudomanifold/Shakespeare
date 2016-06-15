@@ -1,0 +1,554 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	My life itself, and the best heart of it,
+	Thanks you for this great care: I stood i' the level
+	Of a full-charg'd confederacy, and give thanks
+	To you that chok'd it. Let be call'd before us
+	That gentleman of Buckingham's; in person
+	I'll hear him his confessions justify;
+	And point by point the treasons of his master
+	He shall again relate.
+<SPEECH 2><ACT 1><SCENE 2><9%>
+	Arise, and take place by us: half your suit
+	Never name to us; you have half our power:
+	The other moiety, ere you ask, is given;
+	Repeat your will, and take it.
+<SPEECH 3><ACT 1><SCENE 2><10%>
+	Lady mine, proceed.
+<SPEECH 4><ACT 1><SCENE 2><10%>
+	Taxation!
+	Wherein? and what taxation? My Lord Cardinal,
+	You that are blam'd for it alike with us,
+	Know you of this taxation?
+<SPEECH 5><ACT 1><SCENE 2><11%>
+	Still exaction!
+	The nature of it? In what kind, let's know,
+	Is this exaction?
+<SPEECH 6><ACT 1><SCENE 2><11%>
+	By my life,
+	This is against our pleasure.
+<SPEECH 7><ACT 1><SCENE 2><12%>
+	Things done well,
+	And with a care, exempt themselves from fear;
+	Things done without example, in their issue
+	Are to be fear'd. Have you a precedent
+	Of this commission? I believe, not any.
+	We must not rend our subjects from our laws,
+	And stick them in our will. Sixth part of each?
+	A trembling contribution! Why, we take
+	From every tree, lop, bark, and part o' the timber;
+	And, though we leave it with a root, thus hack'd,
+	The air will drink the sap. To every county
+	Where this is question'd, send our letters, with
+	Free pardon to each man that has denied
+	The force of this commission. Pray, look to 't;
+	I put it to your care.
+<SPEECH 8><ACT 1><SCENE 2><13%>
+	It grieves many:
+	The gentleman is learn'd, and a most rare speaker,
+	To nature none more bound; his training such
+	That he may furnish and instruct great teachers,
+	And never seek for aid out of himself. Yet see,
+	When these so noble benefits shall prove
+	Not well dispos'd, the mind growing once corrupt,
+	They turn to vicious forms, ten times more ugly
+	Than ever they were fair. This man so complete,
+	Who was enroll'd 'mongst wonders, and when we,
+	Almost with ravish'd listening, could not find
+	His hour of speech a minute; he, my lady,
+	Hath into monstrous habits put the graces
+	That once were his, and is become as black
+	As if besmear'd in hell. Sit by us; you shall hear—
+	This was his gentleman in trust—of him
+	Things to strike honour sad. Bid him recount
+	The fore-recited practices; whereof
+	We cannot feel too little, hear too much.
+<SPEECH 9><ACT 1><SCENE 2><13%>
+	Speak freely.
+<SPEECH 10><ACT 1><SCENE 2><14%>
+	Speak on:
+	How grounded he his title to the crown
+	Upon our fail? to this point hast thou heard him
+	At any time speak aught?
+<SPEECH 11><ACT 1><SCENE 2><14%>
+	What was that Hopkins?
+<SPEECH 12><ACT 1><SCENE 2><14%>
+	How know'st thou this?
+<SPEECH 13><ACT 1><SCENE 2><15%>
+	Let him on.
+	Go forward.
+<SPEECH 14><ACT 1><SCENE 2><15%>
+	Ha! what, so rank? Ah, ha!
+	There's mischief in this man. Canst thou say further?
+<SPEECH 15><ACT 1><SCENE 2><15%>
+	Proceed.
+<SPEECH 16><ACT 1><SCENE 2><15%>
+	I remember
+	Of such a time: being my sworn servant,
+	The duke retain'd him his. But on; what hence?
+<SPEECH 17><ACT 1><SCENE 2><16%>
+	A giant traitor!
+<SPEECH 18><ACT 1><SCENE 2><16%>
+	There's something more would out of thee? what sayst?
+<SPEECH 19><ACT 1><SCENE 2><16%>
+	There's his period;
+	To sheathe his knife in us. He is attach'd;
+	Call him to present trial: if he may
+	Find mercy in the law, 'tis his; if none,
+	Let him not seek't of us: by day and night!
+	He's traitor to the height.
+<SPEECH 20><ACT 1><SCENE 4><22%>
+	The fairest hand I ever touch'd! O beauty,
+	Till now I never knew thee!
+<SPEECH 21><ACT 1><SCENE 4><22%>
+	</STAGE DIR> You have found him, cardinal.
+	You hold a fair assembly; you do well, lord:
+	You are a churchman, or, I'll tell you, cardinal,
+	I should judge now unhappily.
+<SPEECH 22><ACT 1><SCENE 4><23%>
+	My Lord Chamberlain,
+	Prithee, come hither. What fair lady's that?
+<SPEECH 23><ACT 1><SCENE 4><23%>
+	By heaven, she is a dainty one. Sweetheart,
+	I were unmannerly to take you out,
+	And not to kiss you. A health, gentlemen!
+	Let it go round.
+<SPEECH 24><ACT 1><SCENE 4><23%>
+	I fear, too much.
+<SPEECH 25><ACT 1><SCENE 4><23%>
+	Lead in your ladies, every one. Sweet partner,
+	I must not yet forsake you. Let's be merry:
+	Good my Lord Cardinal, I have half a dozen healths
+	To drink to these fair ladies, and a measure
+	To lead 'em once again; and then let's dream
+	Who's best in favour. Let the music knock it.
+<SPEECH 26><ACT 2><SCENE 2><31%>
+	Who is there, ha?
+<SPEECH 27><ACT 2><SCENE 2><31%>
+	Who's there, I say? How dare you thrust yourselves
+	Into my private meditations?
+	Who am I, ha?
+<SPEECH 28><ACT 2><SCENE 2><32%>
+	Ye are too bold.
+	Go to; I'll make ye know your times of business:
+	Is this an hour for temporal affairs, ha?
+	Who's there? my good Lord Cardinal? O! my Wolsey,
+	The quiet of my wounded conscience;
+	Thou art a cure fit for a king. <STAGE DIR>
+	</STAGE DIR> You're welcome,
+	Most learned reverend sir, into our kingdom:
+	Use us, and it. <STAGE DIR>
+	</STAGE DIR> My good lord, have great care
+	I be not found a talker.
+<SPEECH 29><ACT 2><SCENE 2><32%>
+	</STAGE DIR> We are busy: go.
+<SPEECH 30><ACT 2><SCENE 2><33%>
+	And once more in my arms I bid him welcome,
+	And thank the holy conclave for their loves:
+	They have sent me such a man I would have wish'd for.
+<SPEECH 31><ACT 2><SCENE 2><33%>
+	Two equal men. The queen shall be acquainted
+	Forthwith for what you come. Where's Gardiner?
+<SPEECH 32><ACT 2><SCENE 2><33%>
+	Ay, and the best, she shall have; and my favour
+	To him that does best: God forbid else. Cardinal,
+	Prithee, call Gardiner to me, my new secretary:
+	I find him a fit fellow.
+<SPEECH 33><ACT 2><SCENE 2><34%>
+	Come hither, Gardiner.
+<SPEECH 34><ACT 2><SCENE 2><34%>
+	Deliver this with modesty to the queen.
+	The most convenient place that I can think of
+	For such receipt of learning, is Black-Friars;
+	There ye shall meet about this weighty business.
+	My Wolsey, see it furnish'd. O my lord!
+	Would it not grieve an able man to leave
+	So sweet a bedfellow? But, conscience, conscience!
+	O! 'tis a tender place, and I must leave her.
+<SPEECH 35><ACT 2><SCENE 4><39%>
+	What's the need?
+	It hath already publicly been read,
+	And on all sides the authority allow'd;
+	You may then spare that time.
+<SPEECH 36><ACT 2><SCENE 4><39%>
+	Here.
+<SPEECH 37><ACT 2><SCENE 4><43%>
+	Call her again.
+<SPEECH 38><ACT 2><SCENE 4><43%>
+	Go thy ways, Kate:
+	That man i' the world who shall report he has
+	A better wife, let him in nought be trusted,
+	For speaking false in that: thou art, alone,—
+	If thy rare qualities, sweet gentleness,
+	Thy meekness saint-like, wife-like government,
+	Obeying in commanding, and thy parts
+	Sovereign and pious else, could speak thee out,—
+	The queen of earthly queens. She's noble born;
+	And, like her true nobility, she has
+	Carried herself towards me.
+<SPEECH 39><ACT 2><SCENE 4><44%>
+	My Lord Cardinal,
+	I do excuse you; yea, upon mine honour,
+	I free you from't. You are not to be taught
+	That you have many enemies, that know not
+	Why they are so, but, like to village curs,
+	Bark when their fellows do: by some of these
+	The queen is put in anger. You're excus'd:
+	But will you be more justified? you ever
+	Have wish'd the sleeping of this business; never
+	Desir'd it to be stirr'd; but oft have hinder'd, oft,
+	The passages made toward it. On my honour,
+	I speak my good Lord Cardinal to this point,
+	And thus far clear him. Now, what mov'd me to't,
+	I will be bold with time and your attention:
+	Then mark the inducement. Thus it came; give heed to't:
+	My conscience first receiv'd a tenderness,
+	Scruple, and prick, on certain speeches utter'd
+	By the Bishop of Bayonne, then French ambassador,
+	Who had been hither sent on the debating
+	A marriage 'twixt the Duke of Orleans and
+	Our daughter Mary. I' the progress of this business,
+	Ere a determinate resolution, he—
+	I mean, the bishop—did require a respite;
+	Wherein he might the king his lord advertise
+	Whether our daughter were legitimate,
+	Respecting this our marriage with the dowager,
+	Sometimes our brother's wife. This respite shook
+	The bosom of my conscience, enter'd me,
+	Yea, with a splitting power, and made to tremble
+	The region of my breast; which forc'd such way,
+	That many maz'd considerings did throng,
+	And press'd in with this caution. First, methought
+	I stood not in the smile of heaven, who had
+	Commanded nature, that my lady's womb,
+	If it conceiv'd a male child by me, should
+	Do no more offices of life to't than
+	The grave does to the dead; for her male issue
+	Or died where they were made, or shortly after
+	This world had air'd them. Hence I took a thought
+	This was a judgment on me; that my kingdom,
+	Well worthy the best heir o' the world, should not
+	Be gladded in't by me. Then follows that
+	I weigh'd the danger which my realms stood in
+	By this my issue's fail; and that gave to me
+	Many a groaning throe. Thus hulling in
+	The wild sea of my conscience, I did steer
+	Toward this remedy, whereupon we are
+	Now present here together; that's to say,
+	I meant to rectify my conscience, which
+	I then did feel full sick, and yet not well,
+	By all the rev'rend fathers of the land
+	And doctors learn'd. First, I began in private
+	With you, my Lord of Lincoln; you remember
+	How under my oppression I did reek,
+	When I first mov'd you.
+<SPEECH 40><ACT 2><SCENE 4><45%>
+	I have spoke long: be pleas'd yourself to say
+	How far you satisfied me.
+<SPEECH 41><ACT 2><SCENE 4><46%>
+	Then I mov'd you,
+	My Lord of Canterbury, and got your leave
+	To make this present summons. Unsolicited
+	I left no reverend person in this court;
+	But by particular consent proceeded
+	Under your hands and seals: therefore, go on;
+	For no dislike i' the world against the person
+	Of the good queen, but the sharp thorny points
+	Of my alleged reasons drive this forward.
+	Prove but our marriage lawful, by my life
+	And kingly dignity, we are contented
+	To wear our mortal state to come with her,
+	Katharine our queen, before the primest creature
+	That's paragon'd o' the world.
+<SPEECH 42><ACT 2><SCENE 4><46%>
+	</STAGE DIR> I may perceive
+	These cardinals trifle with me: I abhor
+	This dilatory sloth and tricks of Rome.
+	My learn'd and well-beloved servant Cranmer,
+	Prithee, return: with thy approach, I know,
+	My comfort comes along. Break up the court:
+	I say, set on.
+<SPEECH 43><ACT 3><SCENE 2><56%>
+	What piles of wealth hath he accumulated
+	To his own portion! and what expense by the hour
+	Seems to flow from him! How, i' the name of thrift,
+	Does he rake this together? Now, my lords,
+	Saw you the cardinal?
+<SPEECH 44><ACT 3><SCENE 2><57%>
+	It may well be:
+	There is a mutiny in 's mind. This morning
+	Papers of state he sent me to peruse,
+	As I requir'd; and wot you what I found
+	There, on my conscience, put unwittingly?
+	Forsooth, an inventory, thus importing;
+	The several parcels of his plate, his treasure,
+	Rich stuffs and ornaments of household, which
+	I find at such a proud rate that it out-speaks
+	Possession of a subject.
+<SPEECH 45><ACT 3><SCENE 2><57%>
+	If we did think
+	His contemplation were above the earth,
+	And fix'd on spiritual object, he should still
+	Dwell in his musings: but I am afraid
+	His thinkings are below the moon, not worth
+	His serious considering.
+<SPEECH 46><ACT 3><SCENE 2><57%>
+	Good my lord,
+	You are full of heavenly stuff, and bear the inventory
+	Of your best graces in your mind, the which
+	You were now running o'er: you have scarce time
+	To steal from spiritual leisure a brief span
+	To keep your earthly audit: sure, in that
+	I deem you an ill husband, and am glad
+	To have you therein my companion.
+<SPEECH 47><ACT 3><SCENE 2><58%>
+	You have said well.
+<SPEECH 48><ACT 3><SCENE 2><58%>
+	'Tis well said again;
+	And 'tis a kind of good deed to say well:
+	And yet words are no deeds. My father lov'd you:
+	He said he did; and with his deed did crown
+	His word upon you. Since I had my office,
+	I have kept you next my heart; have not alone
+	Employ'd you where high profits might come home,
+	But par'd my present havings, to bestow
+	My bounties upon you.
+<SPEECH 49><ACT 3><SCENE 2><58%>
+	Have I not made you
+	The prime man of the state? I pray you, tell me
+	If what I now pronounce you have found true;
+	And if you may confess it, say withal,
+	If you are bound to us or no. What say you?
+<SPEECH 50><ACT 3><SCENE 2><59%>
+	Fairly answer'd;
+	A loyal and obedient subject is
+	Therein illustrated; the honour of it
+	Does pay the act of it, as, i' the contrary,
+	The foulness is the punishment. I presume
+	That as my hand has open'd bounty to you,
+	My heart dropp'd love, my power rain'd honour, more
+	On you than any; so your hand and heart,
+	Your brain, and every function of your power,
+	Should, notwithstanding that your bond of duty,
+	As 'twere in love's particular, be more
+	To me, your friend, than any.
+<SPEECH 51><ACT 3><SCENE 2><59%>
+	'Tis nobly spoken.
+	Take notice, lords, he has a loyal breast,
+	For you have seen him open't. Read o'er this;
+	And after, this: and then to breakfast with
+	What appetite you have.
+<SPEECH 52><ACT 5><SCENE 1><81%>
+	Charles, I will play no more to-night;
+	My mind's not on't; you are too hard for me.
+<SPEECH 53><ACT 5><SCENE 1><81%>
+	But little, Charles;
+	Nor shall not when my fancy's on my play.
+	Now, Lovell, from the queen what is the news?
+<SPEECH 54><ACT 5><SCENE 1><82%>
+	What sayst thou, ha?
+	To pray for her? what! is she crying out?
+<SPEECH 55><ACT 5><SCENE 1><82%>
+	Alas! good lady.
+<SPEECH 56><ACT 5><SCENE 1><82%>
+	'Tis midnight, Charles;
+	Prithee, to bed; and in thy prayers remember
+	The estate of my poor queen. Leave me alone;
+	For I must think of that which company
+	Would not be friendly to.
+<SPEECH 57><ACT 5><SCENE 1><82%>
+	Charles, good-night.
+	Well, Sir, what follows?
+<SPEECH 58><ACT 5><SCENE 1><82%>
+	Ha! Canterbury?
+<SPEECH 59><ACT 5><SCENE 1><82%>
+	'Tis true: where is he, Denny?
+<SPEECH 60><ACT 5><SCENE 1><82%>
+	Bring him to us.
+<SPEECH 61><ACT 5><SCENE 1><82%>
+	Avoid the gallery.
+	Ha! I have said. Begone.
+	What!—
+<SPEECH 62><ACT 5><SCENE 1><83%>
+	How now, my lord! You do desire to know
+	Wherefore I sent for you.
+<SPEECH 63><ACT 5><SCENE 1><83%>
+	Pray you, arise,
+	My good and gracious Lord of Canterbury.
+	Come, you and I must walk a turn together;
+	I have news to tell you: come, come, give me your hand.
+	Ah! my good lord, I grieve at what I speak,
+	And am right sorry to repeat what follows.
+	I have, and most unwillingly, of late
+	Heard many grievous, I do say, my lord,
+	Grievous complaints of you; which, being consider'd,
+	Have mov'd us and our council, that you shall
+	This morning come before us; where, I know,
+	You cannot with such freedom purge yourself,
+	But that, till further trial in those charges
+	Which will require your answer, you must take
+	Your patience to you, and be well contented
+	To make your house our Tower: you a brother of us,
+	It fits we thus proceed, or else no witness
+	Would come against you.
+<SPEECH 64><ACT 5><SCENE 1><83%>
+	Stand up, good Canterbury:
+	Thy truth and thy integrity is rooted
+	In us, thy friend: give me thy hand, stand up:
+	Prithee, let's walk. Now, by my holidame,
+	What manner of man are you? My lord, I look'd
+	You would have given me your petition, that
+	I should have ta'en some pains to bring together
+	Yourself and your accusers; and to have heard you,
+	Without indurance, further.
+<SPEECH 65><ACT 5><SCENE 1><84%>
+	Know you not
+	How your state stands i' the world, with the whole world?
+	Your enemies are many, and not small; their practices
+	Must bear the same proportion; and not ever
+	The justice and the truth o' the question carries
+	The due o' the verdict with it. At what ease
+	Might corrupt minds procure knaves as corrupt
+	To swear against you? such things have been done.
+	You are potently oppos'd, and with a malice
+	Of as great size. Ween you of better luck,
+	I mean in perjur'd witness, than your master,
+	Whose minister you are, whiles here he liv'd
+	Upon this naughty earth? Go to, go to;
+	You take a precipice for no leap of danger,
+	And woo your own destruction.
+<SPEECH 66><ACT 5><SCENE 1><84%>
+	Be of good cheer;
+	They shall no more prevail than we give way to.
+	Keep comfort to you; and this morning see
+	You do appear before them. If they shall chance,
+	In charging you with matters, to commit you,
+	The best persuasions to the contrary
+	Fail not to use, and with what vehemency
+	The occasion shall instruct you: if entreaties
+	Will render you no remedy, this ring
+	Deliver them, and your appeal to us
+	There make before them. Look! the good man weeps;
+	He's honest, on mine honour. God's blest mother!
+	I swear he is true-hearted; and a soul
+	None better in my kingdom. Get you gone,
+	And do as I have bid you. <STAGE DIR>
+	</STAGE DIR> He has strangled
+	His language in his tears.
+<SPEECH 67><ACT 5><SCENE 1><85%>
+	Now, by thy looks
+	I guess thy message. Is the queen deliver'd?
+	Say, ay; and of a boy.
+<SPEECH 68><ACT 5><SCENE 1><85%>
+	Lovell!
+<SPEECH 69><ACT 5><SCENE 1><85%>
+	Give her a hundred marks. I'll to the queen.
+<SPEECH 70><ACT 5><SCENE 2><87%>
+	What's that, Butts?
+<SPEECH 71><ACT 5><SCENE 2><87%>
+	Body o' me, where is it?
+<SPEECH 72><ACT 5><SCENE 2><87%>
+	Ha! 'Tis he, indeed:
+	Is this the honour they do one another?
+	'Tis well there's one above 'em yet. I had thought
+	They had parted so much honesty among 'em,—
+	At least, good manners,—as not thus to suffer
+	A man of his place, and so near our favour,
+	To dance attendance on their lordships' pleasures,
+	And at the door too, like a post with packets.
+	By holy Mary, Butts, there's knavery:
+	Let 'em alone, and draw the curtain close;
+	We shall hear more anon.
+<SPEECH 73><ACT 5><SCENE 3><92%>
+	You were ever good at sudden commendations,
+	Bishop of Winchester; but know, I come not
+	To hear such flattery now, and in my presence;
+	They are too thin and bare to hide offences.
+	To me you cannot reach; you play the spaniel,
+	And think with wagging of your tongue to win me;
+	But, whatsoe'er thou tak'st me for, I'm sure
+	Thou hast a cruel nature and a bloody.
+	</STAGE DIR> Good man, sit down. Now let me see the proudest
+	He, that dares most, but wag his finger at thee:
+	By all that's holy, he had better starve
+	Than but once think this place becomes thee not.
+<SPEECH 74><ACT 5><SCENE 3><92%>
+	No, sir, it does not please me.
+	I had thought I had had men of some understanding
+	And wisdom of my council; but I find none.
+	Was it discretion, lords, to let this man,
+	This good man,—few of you deserve that title,—
+	This honest man, wait like a lousy footboy
+	At chamber-door? and one as great as you are?
+	Why, what a shame was this! Did my commission
+	Bid ye so far forget yourselves? I gave ye
+	Power as he was a counsellor to try him,
+	Not as a groom. There's some of ye, I see,
+	More out of malice than integrity,
+	Would try him to the utmost, had ye mean;
+	Which ye shall never have while I live.
+<SPEECH 75><ACT 5><SCENE 3><93%>
+	Well, well, my lords, respect him;
+	Take him, and use him well; he's worthy of it.
+	I will say thus much for him, if a prince
+	May be beholding to a subject, I
+	Am, for his love and service, so to him.
+	Make me no more ado, but all embrace him:
+	Be friends, for shame, my lords! My Lord of Canterbury,
+	I have a suit which you must not deny me;
+	That is, a fair young maid that yet wants baptism,
+	You must be godfather, and answer for her.
+<SPEECH 76><ACT 5><SCENE 3><93%>
+	Come, come, my lord, you'd spare your spoons: you shall have two noble partners with you; the old Duchess of Norfolk, and Lady Marquess Dorset: will these please you?
+	Once more, my Lord of Winchester, I charge you,
+	Embrace and love this man.
+<SPEECH 77><ACT 5><SCENE 3><93%>
+	Good man! those joyful tears show thy true heart:
+	The common voice, I see, is verified
+	Of thee, which says thus, 'Do my Lord of Canterbury
+	A shrewd turn, and he is your friend for ever.'
+	Come, lords, we trifle time away; I long
+	To have this young one made a Christian.
+	As I have made ye one, lords, one remain;
+	So I grow stronger, you more honour gain.
+<SPEECH 78><ACT 5><SCENE 5><97%>
+	Thank you, good lord archbishop:
+	What is her name?
+<SPEECH 79><ACT 5><SCENE 5><97%>
+	Stand up, lord.
+	With this kiss take my blessing; God protect thee!
+	Into whose hand I give thy life.
+<SPEECH 80><ACT 5><SCENE 5><97%>
+	My noble gossips, ye have been too prodigal:
+	I thank ye heartily: so shall this lady
+	When she has so much English.
+<SPEECH 81><ACT 5><SCENE 5><99%>
+	Thou speakest wonders.
+<SPEECH 82><ACT 5><SCENE 5><99%>
+	O lord archbishop!
+	Thou hast made me now a man: never, before
+	This happy child, did I get any thing.
+	This oracle of comfort has so pleas'd me,
+	That when I am in heaven, I shall desire
+	To see what this child does, and praise my Maker.
+	I thank ye all. To you, my good Lord Mayor,
+	And your good brethren, I am much beholding;
+	I have receiv'd much honour by your presence,
+	And ye shall find me thankful. Lead the way, lords:
+	Ye must all see the queen, and she must thank ye;
+	She will be sick else. This day, no man think
+	He has business at his house; for all shall stay:
+	This little one shall make it holiday.
+	'Tis ten to one, this play can never please
+	All that are here: some come to take their ease
+	And sleep an act or two; but those, we fear,
+	We've frighted with our trumpets; so, 'tis clear
+	They'll say 'tis naught: others, to hear the city
+	Abus'd extremely, and to cry, 'That's witty!'
+	Which we have not done neither: that, I fear,
+	All the expected good we're like to hear
+	For this play at this time, is only in
+	The merciful construction of good women;
+	For such a one we show'd 'em: if they smile,
+	And say 'twill do, I know, within a while
+	All the best men are ours; for 'tis ill hap
+	If they hold when their ladies bid 'em clap.

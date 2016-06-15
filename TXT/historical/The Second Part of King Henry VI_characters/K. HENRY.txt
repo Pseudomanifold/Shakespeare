@@ -1,0 +1,399 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Suffolk, arise. Welcome, Queen Margaret:
+	I can express no kinder sign of love
+	Than this kind kiss. O Lord! that lends me life,
+	Lend me a heart replete with thankfulness!
+	For thou hast given me in this beauteous face
+	A world of earthly blessings to my soul,
+	If sympathy of love unite our thoughts.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Her sight did ravish, but her grace in speech,
+	Her words y-clad with wisdom's majesty,
+	Makes me from wondering fall to weeping joys;
+	Such is the fulness of my heart's content.
+	Lords, with one cheerful voice welcome my love.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Uncle, how now!
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	Uncle of Winchester, I pray, read on.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	They please us well. Lord marquess, kneel down:
+	We here create thee the first Duke of Suffolk,
+	And girt thee with the sword. Cousin of York,
+	We here discharge your Grace from being regent
+	I' the parts of France, till term of eighteen months
+	Be full expir'd. Thanks, uncle Winchester,
+	Gloucester, York, Buckingham, Somerset,
+	Salisbury, and Warwick;
+	We thank you all for this great favour done,
+	In entertainment to my princely queen.
+	Come, let us in, and with all speed provide
+	To see her coronation be perform'd.
+<SPEECH 6><ACT 1><SCENE 3><15%>
+	For my part, noble lords, I care not which;
+	Or Somerset or York, all's one to me.
+<SPEECH 7><ACT 1><SCENE 3><16%>
+	Sweet aunt, be quiet; 'twas against her will.
+<SPEECH 8><ACT 1><SCENE 3><17%>
+	What mean'st thou, Suffolk? tell me, what are these?
+<SPEECH 9><ACT 1><SCENE 3><17%>
+	Say, man, were these thy words?
+<SPEECH 10><ACT 1><SCENE 3><18%>
+	Uncle, what shall we say to this in law?
+<SPEECH 11><ACT 1><SCENE 3><18%>
+	Then be it so. My Lord of Somerset,
+	We make your Grace lord regent o'er the French.
+<SPEECH 12><ACT 1><SCENE 3><18%>
+	Away with them to prison; and the day
+	Of combat shall be the last of the next month.
+	Come, Somerset, we'll see thee sent away.
+<SPEECH 13><ACT 2><SCENE 1><22%>
+	But what a point, my lord, your falcon made,
+	And what a pitch she flew above the rest!
+	To see how God in all his creatures works!
+	Yea, man and birds are fain of climbing high.
+<SPEECH 14><ACT 2><SCENE 1><22%>
+	The treasury of everlasting joy.
+<SPEECH 15><ACT 2><SCENE 1><22%>
+	I prithee, peace,
+	Good queen, and whet not on these furious peers;
+	For blessed are the peacemakers on earth.
+<SPEECH 16><ACT 2><SCENE 1><23%>
+	How now, my lords!
+<SPEECH 17><ACT 2><SCENE 1><23%>
+	Why, how now, uncle Gloucester!
+<SPEECH 18><ACT 2><SCENE 1><23%>
+	The winds grow high; so do your stomachs, lords.
+	How irksome is this music to my heart!
+	When such strings jar, what hope of harmony?
+	I pray, my lords, let me compound this strife.
+<SPEECH 19><ACT 2><SCENE 1><24%>
+	Now, God be prais'd, that to believing souls
+	Gives light in darkness, comfort in despair!
+<SPEECH 20><ACT 2><SCENE 1><24%>
+	Great is his comfort in this earthly vale,
+	Although by his sight his sin be multiplied.
+<SPEECH 21><ACT 2><SCENE 1><24%>
+	Good fellow, tell us here the circumstance,
+	That we for thee may glorify the Lord.
+	What! hast thou been long blind, and now restor'd?
+<SPEECH 22><ACT 2><SCENE 1><24%>
+	Where wert thou born?
+<SPEECH 23><ACT 2><SCENE 1><24%>
+	Poor soul! God's goodness hath been great to thee:
+	Let never day nor night unhallow'd pass,
+	But still remember what the Lord hath done.
+<SPEECH 24><ACT 2><SCENE 1><25%>
+	Why then, thou know'st what colour jet is of?
+<SPEECH 25><ACT 2><SCENE 1><27%>
+	O God! seest thou this, and bear'st so long?
+<SPEECH 26><ACT 2><SCENE 1><27%>
+	What tidings with our cousin Buckingham?
+<SPEECH 27><ACT 2><SCENE 1><28%>
+	O God! what mischiefs work the wicked ones,
+	Heaping confusion on their own heads thereby.
+<SPEECH 28><ACT 2><SCENE 1><28%>
+	Well, for this night we will repose us here:
+	To-morrow toward London back again,
+	To look into this business thoroughly,
+	And call these foul offenders to their answers;
+	And poise the cause in justice' equal scales,
+	Whose beam stands sure, whose rightful cause prevails.
+<SPEECH 29><ACT 2><SCENE 3><31%>
+	Stand forth, Dame Eleanor Cobham, Gloucester's wife.
+	In sight of God and us, your guilt is great:
+	Receive the sentence of the law for sins
+	Such as by God's book are adjudg'd to death.
+	You four, from hence to prison back again;
+	From thence, unto the place of execution:
+	The witch in Smithfield shall be burn'd to ashes,
+	And you three shall be strangled on the gallows.
+	You, madam, for you are more nobly born,
+	Despoiled of your honour in your life,
+	Shall, after three days' open penance done,
+	Live in your country here, in banishment,
+	With Sir John Stanley, in the Isle of Man.
+<SPEECH 30><ACT 2><SCENE 3><32%>
+	Stay, Humphrey, Duke of Gloucester: ere thou go,
+	Give up thy staff: Henry will to himself
+	Protector be; and God shall be my hope,
+	My stay, my guide, and lantern to my feet.
+	And go in peace, Humphrey; no less belov'd
+	Than when thou wert protector to thy king.
+<SPEECH 31><ACT 2><SCENE 3><33%>
+	O' God's name, see the lists and all things fit:
+	Here let them end it; and God defend the right!
+<SPEECH 32><ACT 2><SCENE 3><34%>
+	Go, take hence that traitor from our sight;
+	For by his death we do perceive his guilt:
+	And God in justice hath reveal'd to us
+	The truth and innocence of this poor fellow,
+	Which he had thought to have murder'd wrongfully.
+	Come, fellow, follow us for thy reward.
+<SPEECH 33><ACT 3><SCENE 1><38%>
+	I muse my Lord of Gloucester is not come:
+	'Tis not his wont to be the hindmost man,
+	Whate'er occasion keeps him from us now.
+<SPEECH 34><ACT 3><SCENE 1><40%>
+	My lords, at once: the care you have of us,
+	To mow down thorns that would annoy our foot,
+	Is worthy praise; but shall I speak my conscience,
+	Our kinsman Gloucester is as innocent
+	From meaning treason to our royal person,
+	As is the sucking lamb or harmless dove.
+	The duke is virtuous, mild, and too well given
+	To dream on evil, or to work my downfall.
+<SPEECH 35><ACT 3><SCENE 1><40%>
+	Welcome, Lord Somerset. What news from France?
+<SPEECH 36><ACT 3><SCENE 1><40%>
+	Cold news, Lord Somerset: but God's will be done!
+<SPEECH 37><ACT 3><SCENE 1><42%>
+	My Lord of Gloucester, 'tis my special hope
+	That you will clear yourself from all suspect:
+	My conscience tells me you are innocent.
+<SPEECH 38><ACT 3><SCENE 1><44%>
+	My lords, what to your wisdoms seemeth best
+	Do or undo, as if ourself were here.
+<SPEECH 39><ACT 3><SCENE 1><44%>
+	Ay, Margaret; my heart is drown'd with grief,
+	Whose flood begins to flow within mine eyes,
+	My body round engirt with misery,
+	For what's more miserable than discontent?
+	Ah! uncle Humphrey, in thy face I see
+	The map of honour, truth, and loyalty;
+	And yet, good Humphrey, is the hour to come
+	That e'er I prov'd thee false, or fear'd thy faith.
+	What low'ring star now envies thy estate,
+	That these great lords, and Margaret our queen,
+	Do seek subversion of thy harmless life?
+	Thou never didst them wrong, nor no man wrong;
+	And as the butcher takes away the calf,
+	And binds the wretch, and beats it when it strays,
+	Bearing it to the bloody slaughter-house,
+	Even so, remorseless, have they borne him hence;
+	And as the dam runs lowing up and down,
+	Looking the way her harmless young one went,
+	And can do nought but wail her darling's loss;
+	Even so myself bewails good Gloucester's case,
+	With sad unhelpful tears, and with dimm'd eyes
+	Look after him, and cannot do him good;
+	So mighty are his vowed enemies.
+	His fortunes I will weep; and, 'twixt each groan,
+	Say 'Who's a traitor, Gloucester he is none.'
+<SPEECH 40><ACT 3><SCENE 2><50%>
+	Go, call our uncle to our presence straight;
+	Say, we intend to try his Grace to-day,
+	If he be guilty, as 'tis published.
+<SPEECH 41><ACT 3><SCENE 2><50%>
+	Lords, take your places; and, I pray you all,
+	Proceed no straiter 'gainst our uncle Gloucester
+	Than from true evidence, of good esteem,
+	He be approv'd in practice culpable.
+<SPEECH 42><ACT 3><SCENE 2><50%>
+	I thank thee, Meg; these words content me much.
+	How now! why look'st thou pale? why tremblest thou?
+	Where is our uncle? what's the matter, Suffolk?
+<SPEECH 43><ACT 3><SCENE 2><51%>
+	O heavenly God!
+<SPEECH 44><ACT 3><SCENE 2><51%>
+	What! doth my Lord of Suffolk comfort me?
+	Came he right now to sing a raven's note,
+	Whose dismal tune bereft my vital powers,
+	And thinks he that the chirping of a wren,
+	By crying comfort from a hollow breast,
+	Can chase away the first-conceived sound?
+	Hide not thy poison with such sugar'd words:
+	Lay not thy hands on me; forbear, I say:
+	Their touch affrights me as a serpent's sting.
+	Thou baleful messenger, out of my sight!
+	Upon thy eyeballs murderous tyranny
+	Sits in grim majesty to fright the world.
+	Look not upon me, for thine eyes are wounding:
+	Yet do not go away; come, basilisk,
+	And kill the innocent gazer with thy sight;
+	For in the shade of death I shall find joy,
+	In life but double death, now Gloucester's dead.
+<SPEECH 45><ACT 3><SCENE 2><52%>
+	Ah! woe is me for Gloucester, wretched man.
+<SPEECH 46><ACT 3><SCENE 2><53%>
+	That he is dead, good Warwick, 'tis too true;
+	But how he died God knows, not Henry.
+	Enter his chamber, view his breathless corpse,
+	And comment then upon his sudden death.
+<SPEECH 47><ACT 3><SCENE 2><54%>
+	O! Thou that judgest all things, stay my thoughts,
+	My thoughts that labour to persuade my soul
+	Some violent hands were laid on Humphrey's life.
+	If my suspect be false, forgive me, God,
+	For judgment only doth belong to thee.
+	Fain would I go to chafe his paly lips
+	With twenty thousand kisses, and to drain
+	Upon his face an ocean of salt tears,
+	To tell my love unto his deaf dumb trunk,
+	And with my fingers feel his hand unfeeling:
+	But all in vain are these mean obsequies,
+	And to survey his dead and earthly image
+	What were it but to make my sorrow greater?
+<SPEECH 48><ACT 3><SCENE 2><54%>
+	That is to see how deep my grave is made;
+	For with his soul fled all my worldly solace,
+	For seeing him I see my life in death.
+<SPEECH 49><ACT 3><SCENE 2><57%>
+	What stronger breastplate than a heart untainted!
+	Thrice is he arm'd that hath his quarrel just,
+	And he but naked, though lock'd up in steel,
+	Whose conscience with injustice is corrupted.
+<SPEECH 50><ACT 3><SCENE 2><57%>
+	Why, how now, lords! your wrathful weapons drawn
+	Here in our presence! dare you be so bold?
+	Why, what tumultuous clamour have we here?
+<SPEECH 51><ACT 3><SCENE 2><58%>
+	Go, Salisbury, and tell them all from me,
+	I thank them for their tender loving care;
+	And had I not been cited so by them,
+	Yet did I purpose as they do entreat;
+	For, sure, my thoughts do hourly prophesy
+	Mischance unto my state by Suffolk's means:
+	And therefore, by his majesty I swear,
+	Whose far unworthy deputy I am,
+	He shall not breathe infection in this air
+	But three days longer, on the pain of death.
+<SPEECH 52><ACT 3><SCENE 2><58%>
+	Ungentle queen, to call him gentle Suffolk!
+	No more, I say; if thou dost plead for him
+	Thou wilt but add increase unto my wrath.
+	Had I but said, I would have kept my word,
+	But when I swear, it is irrevocable.
+	</STAGE DIR> If after three days' space thou here be'st found
+	On any ground that I am ruler of,
+	The world shall not be ransom for thy life.
+	Come, Warwick, come, good Warwick, go with me;
+	I have great matters to impart to thee.
+<SPEECH 53><ACT 3><SCENE 3><62%>
+	How fares my lord? speak, Beaufort, to thy sovereign.
+<SPEECH 54><ACT 3><SCENE 3><62%>
+	Ah! what a sign it is of evil life
+	Where death's approach is seen so terrible.
+<SPEECH 55><ACT 3><SCENE 3><63%>
+	O thou eternal Mover of the heavens!
+	Look with a gentle eye upon this wretch;
+	O! beat away the busy meddling fiend
+	That lays strong siege unto this wretch's soul,
+	And from his bosom purge this black despair.
+<SPEECH 56><ACT 3><SCENE 3><63%>
+	Peace to his soul, if God's good pleasure be!
+	Lord Cardinal, if thou think'st on heaven's bliss,
+	Hold up thy hand, make signal of thy hope.
+	He dies, and makes no sign. O God, forgive him!
+<SPEECH 57><ACT 3><SCENE 3><63%>
+	Forbear to judge, for we are sinners all.
+	Close up his eyes, and draw the curtain close;
+	And let us all to meditation.
+<SPEECH 58><ACT 4><SCENE 4><75%>
+	I'll send some holy bishop to entreat;
+	For God forbid so many simple souls
+	Should perish by the sword! And I myself,
+	Rather than bloody war shall cut them short,
+	Will parley with Jack Cade their general.
+	But stay, I'll read it over once again.
+<SPEECH 59><ACT 4><SCENE 4><75%>
+	Lord Say, Jack Cade hath sworn to have thy head.
+<SPEECH 60><ACT 4><SCENE 4><75%>
+	How now, madam!
+	Still lamenting and mourning for Suffolk's death?
+	I fear me, love, if that I had been dead,
+	Thou wouldest not have mourn'd so much for me.
+<SPEECH 61><ACT 4><SCENE 4><76%>
+	How now! what news? why com'st thou in such haste?
+<SPEECH 62><ACT 4><SCENE 4><76%>
+	O graceless men! they know not what they do.
+<SPEECH 63><ACT 4><SCENE 4><76%>
+	Lord Say, the traitors hate thee,
+	Therefore away with us to Killingworth.
+<SPEECH 64><ACT 4><SCENE 4><76%>
+	Come, Margaret; God, our hope, will succour us.
+<SPEECH 65><ACT 4><SCENE 4><76%>
+	</STAGE DIR> Farewell, my lord: trust not the Kentish rebels.
+<SPEECH 66><ACT 4><SCENE 1><84%>
+	Was ever king that joy'd an earthly throne,
+	And could command no more content than I?
+	No sooner was I crept out of my cradle
+	But I was made a king at nine months old:
+	Was never subject long'd to be a king
+	As I do long and wish to be a subject.
+<SPEECH 67><ACT 4><SCENE 1><85%>
+	Why, Buckingham, is the traitor Cade surpris'd?
+	Or is he but retir'd to make him strong?
+<SPEECH 68><ACT 4><SCENE 1><85%>
+	Then, heaven, set ope thy everlasting gates,
+	To entertain my vows of thanks and praise!
+	Soldiers, this day have you redeem'd your lives,
+	And show'd how well you love your prince and country:
+	Continue still in this so good a mind,
+	And Henry, though he be infortunate,
+	Assure yourselves, will never be unkind:
+	And so, with thanks and pardon to you all,
+	I do dismiss you to your several countries.
+<SPEECH 69><ACT 4><SCENE 1><85%>
+	Thus stands my state, 'twixt Cade and York distress'd;
+	Like to a ship, that, having scap'd a tempest,
+	Is straight way calm'd, and boarded with a pirate.
+	But now is Cade driven back, his men dispers'd;
+	And now is York in arms to second him.
+	I pray thee, Buckingham, go and meet him,
+	And ask him what's the reason of these arms.
+	Tell him I'll send Duke Edmund to the Tower;
+	And, Somerset, we will commit thee thither,
+	Until his army be dismiss'd from him.
+<SPEECH 70><ACT 4><SCENE 1><86%>
+	In any case, be not too rough in terms;
+	For he is fierce and cannot brook hard language.
+<SPEECH 71><ACT 4><SCENE 1><86%>
+	Come, wife, let's in, and learn to govern better;
+	For yet may England curse my wretched reign.
+<SPEECH 72><ACT 5><SCENE 1><91%>
+	Buckingham, doth York intend no harm to us,
+	That thus he marcheth with thee arm in arm?
+<SPEECH 73><ACT 5><SCENE 1><91%>
+	Then what intend these forces thou dost bring?
+<SPEECH 74><ACT 5><SCENE 1><91%>
+	The head of Cade! Great God, how just art thou!
+	O! let me view his visage, being dead,
+	That living wrought me such exceeding trouble.
+	Tell me, my friend, art thou the man that slew him?
+<SPEECH 75><ACT 5><SCENE 1><91%>
+	How art thou call'd, and what is thy degree?
+<SPEECH 76><ACT 5><SCENE 1><91%>
+	Iden, kneel down. <STAGE DIR>
+	</STAGE DIR> Rise up a knight.
+	We give thee for reward a thousand marks;
+	And will, that thou henceforth attend on us.
+<SPEECH 77><ACT 5><SCENE 1><91%>
+	See! Buckingham! Somerset comes with the queen:
+	Go, bid her hide him quickly from the duke.
+<SPEECH 78><ACT 5><SCENE 1><93%>
+	Ay, Clifford; a bedlam and ambitious humour
+	Makes him oppose himself against his king.
+<SPEECH 79><ACT 5><SCENE 1><94%>
+	Why, Warwick, hath thy knee forgot to bow?
+	Old Salisbury, shame to thy silver hair,
+	Thou mad misleader of thy brain-sick son!
+	What! wilt thou on thy death-bed play the ruffian,
+	And seek for sorrow with thy spectacles?
+	O! where is faith? O, where is loyalty?
+	If it be banish'd from the frosty head,
+	Where shall it find a harbour in the earth?
+	Wilt thou go dig a grave to find out war,
+	And shame thine honourable age with blood?
+	Why art thou old, and want'st experience?
+	Or wherefore dost abuse it, if thou hast it?
+	For shame! in duty bend thy knee to me,
+	That bows unto the grave with mickle age.
+<SPEECH 80><ACT 5><SCENE 1><95%>
+	Hast thou not sworn allegiance unto me?
+<SPEECH 81><ACT 5><SCENE 1><95%>
+	Canst thou dispense with heaven for such an oath?
+<SPEECH 82><ACT 5><SCENE 1><95%>
+	Call Buckingham, and bid him arm himself.
+<SPEECH 83><ACT 5><SCENE 2><98%>
+	Can we outrun the heavens? good Margaret, stay.

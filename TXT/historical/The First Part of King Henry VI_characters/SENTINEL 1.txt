@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+	Sergeant, you shall.
+	Thus are poor servitors—
+	When others sleep upon their quiet beds—
+	Constrain'd to watch in darkness, rain, and cold.
+<SPEECH 2><ACT 2><SCENE 1><25%>
+	Arm, arm! the enemy doth make assault!

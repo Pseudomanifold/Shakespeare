@@ -1,0 +1,28 @@
+<SPEECH 1><ACT 4><SCENE 3><59%>
+	Now, in good time!
+<SPEECH 2><ACT 4><SCENE 3><61%>
+	I was promised them against the feast; but they come not too late now.
+<SPEECH 3><ACT 4><SCENE 3><61%>
+	He hath paid you all he promised you: may be he has paid you more, which will shame you to give him again.
+<SPEECH 4><ACT 4><SCENE 3><61%>
+	I have done. Come, you promised me a tawdry lace and a pair of sweet gloves.
+<SPEECH 5><ACT 4><SCENE 3><62%>
+	Pray now, buy some: I love a ballad in print, a-life, for then we are sure they are true.
+<SPEECH 6><ACT 4><SCENE 3><62%>
+	Is it true, think you?
+<SPEECH 7><ACT 4><SCENE 3><62%>
+	Pray you now, buy it.
+<SPEECH 8><ACT 4><SCENE 3><62%>
+	Let's have some merry ones.
+<SPEECH 9><ACT 4><SCENE 3><63%>
+	We can both sing it: if thou'lt bear a part thou shalt hear; 'tis in three parts.
+<SPEECH 10><ACT 4><SCENE 3><63%>
+	O! whither?
+<SPEECH 11><ACT 4><SCENE 3><63%>
+	It becomes thy oath full woll,
+	Thou to me thy secrets tell.
+<SPEECH 12><ACT 4><SCENE 3><63%>
+	Or thou go'st to the grange or mill.
+<SPEECH 13><ACT 4><SCENE 3><63%>
+	Thou hast sworn it more to me:
+	Then whither go'st? say whither?

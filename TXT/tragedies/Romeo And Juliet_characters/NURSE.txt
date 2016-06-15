@@ -1,0 +1,324 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+	Now, by my maidenhead, at twelve year old,—
+	I bade her come. What, lamb! what, ladybird!
+	God forbid! where's this girl? what, Juliet!
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	Your mother.
+<SPEECH 3><ACT 1><SCENE 3><12%>
+	Faith, I can tell her age unto an hour.
+<SPEECH 4><ACT 1><SCENE 3><12%>
+	I'll lay fourteen of my teeth—
+	And yet to my teen be it spoken I have but four—
+	She is not fourteen. How long is it now
+	To Lammas-tide?
+<SPEECH 5><ACT 1><SCENE 3><13%>
+	Even or odd, of all days in the year,
+	Come Lammas-eve at night shall she be fourteen.
+	Susan and she—God rest all Christian souls!—
+	Were of an age. Well, Susan is with God;
+	She was too good for me. But, as I said,
+	On Lammas-eve at night shall she be fourteen;
+	That shall she, marry; I remember it well.
+	'Tis since the earthquake now eleven years;
+	And she was wean'd, I never shall forget it,
+	Of all the days of the year, upon that day;
+	For I had then laid wormwood to my dug,
+	Sitting in the sun under the dove-house wall;
+	My lord and you were then at Mantua.
+	Nay, I do bear a brain:—but, as I said,
+	When it did taste the wormwood on the nipple
+	Of my dug and felt it bitter, pretty fool!
+	To see it tetchy and fall out with the dug.
+	'Shake,' quoth the dove-house: 'twas no need, I trow,
+	To bid me trudge:
+	And since that time it is eleven years;
+	For then she could stand high lone; nay, by the rood,
+	She could have run and waddled all about;
+	For even the day before she broke her brow:
+	And then my husband—God be with his soul!
+	A' was a merry man—took up the child:
+	'Yea,' quoth he, 'dost thou fall upon thy face?
+	Thou wilt fall backward when thou hast more wit;
+	Wilt thou not, Jule?' and, by my halidom,
+	The pretty wretch left crying, and said 'Ay.'
+	To see now how a jest shall come about!
+	I warrant, an I should live a thousand years,
+	I never should forget it: 'Wilt thou not, Jule?' quoth he;
+	And, pretty fool, it stinted and said 'Ay.'
+<SPEECH 6><ACT 1><SCENE 3><14%>
+	Yes, madam. Yet I cannot choose but laugh,
+	To think it should leave crying, and say 'Ay.'
+	And yet, I warrant, it had upon its brow
+	A bump as big as a young cockerel's stone;
+	A parlous knock; and it cried bitterly:
+	'Yea,' quoth my husband, 'fall'st upon thy face?
+	Thou wilt fall backward when thou com'st to age;
+	Wilt thou not, Jule?' it stinted and said 'Ay.'
+<SPEECH 7><ACT 1><SCENE 3><14%>
+	Peace, I have done. God mark thee to his grace!
+	Thou wast the prettiest babe that e'er I nursed:
+	An I might live to see thee married once,
+	I have my wish.
+<SPEECH 8><ACT 1><SCENE 3><14%>
+	An honour! were not I thine only nurse,
+	I would say thou hadst suck'd wisdom from thy teat.
+<SPEECH 9><ACT 1><SCENE 3><14%>
+	A man, young lady! lady, such a man
+	As all the world—why, he's a man of wax.
+<SPEECH 10><ACT 1><SCENE 3><14%>
+	Nay, he's a flower; in faith, a very flower.
+<SPEECH 11><ACT 1><SCENE 3><15%>
+	No less! nay, bigger; women grow by men.
+<SPEECH 12><ACT 1><SCENE 3><15%>
+	Go, girl, seek happy nights to happy days.
+<SPEECH 13><ACT 1><SCENE 5><23%>
+	Madam, your mother craves a word with you.
+<SPEECH 14><ACT 1><SCENE 5><23%>
+	Marry, bachelor,
+	Her mother is the lady of the house,
+	And a good lady, and a wise, and virtuous:
+	I nurs'd her daughter, that you talk'd withal;
+	I tell you he that can lay hold of her
+	Shall have the chinks.
+<SPEECH 15><ACT 1><SCENE 5><24%>
+	The son and heir of old Tiberio.
+<SPEECH 16><ACT 1><SCENE 5><24%>
+	Marry, that, I think, be young Petruchio.
+<SPEECH 17><ACT 1><SCENE 5><24%>
+	I know not.
+<SPEECH 18><ACT 1><SCENE 5><24%>
+	His name is Romeo, and a Montague;
+	The only son of your great enemy.
+<SPEECH 19><ACT 1><SCENE 5><24%>
+	What's this, what's this?
+<SPEECH 20><ACT 1><SCENE 5><24%>
+	Anon, anon!—
+	Come, let's away; the strangers are all gone.
+<SPEECH 21><ACT 2><SCENE 2><31%>
+	</STAGE DIR> Madam!
+<SPEECH 22><ACT 2><SCENE 2><31%>
+	</STAGE DIR> Madam!
+<SPEECH 23><ACT 2><SCENE 4><39%>
+	Peter!
+<SPEECH 24><ACT 2><SCENE 4><39%>
+	My fan, Peter.
+<SPEECH 25><ACT 2><SCENE 4><39%>
+	God ye good morrow, gentlemen.
+<SPEECH 26><ACT 2><SCENE 4><39%>
+	Is it good den?
+<SPEECH 27><ACT 2><SCENE 4><39%>
+	Out upon you! what a man are you!
+<SPEECH 28><ACT 2><SCENE 4><39%>
+	By my troth, it is well said; 'for himself to mar,' quoth a'?—Gentlemen, can any of you tell me where I may find the young Romeo?
+<SPEECH 29><ACT 2><SCENE 4><39%>
+	You say well.
+<SPEECH 30><ACT 2><SCENE 4><39%>
+	If you be he, sir, I desire some confidence with you.
+<SPEECH 31><ACT 2><SCENE 4><40%>
+	Marry, farewell! I pray you, sir, what saucy merchant was this, that was so full of his ropery?
+<SPEECH 32><ACT 2><SCENE 4><40%>
+	An a' speak anything against me, I'll take him down, an a' were lustier than he is, and twenty such Jacks; and if I cannot, I'll find those that shall. Scurvy knave! I am none of his flirt-gills; I am none of his skeins-mates. <STAGE DIR>
+	</STAGE DIR> And thou must stand by too, and suffer every knave to use me at his pleasure!
+<SPEECH 33><ACT 2><SCENE 4><40%>
+	Now, afore God, I am so vexed, that every part about me quivers. Scurvy knave! Pray you, sir, a word; and as I told you, my young lady bade me inquire you out; what she bid me say I will keep to myself; but first let me tell ye, if ye should lead her into a fool's paradise, as they say, it were a very gross kind of behaviour, as they say: for the gentlewoman is young; and, therefore, if you should deal double with her, truly it were an ill thing to be offered to any gentlewoman, and very weak dealing.
+<SPEECH 34><ACT 2><SCENE 4><41%>
+	Good heart! and i' faith, I will tell her as much. Lord, Lord! she will be a joyful woman.
+<SPEECH 35><ACT 2><SCENE 4><41%>
+	I will tell her, sir, that you do protest; which, as I take it, is a gentlemanlike offer.
+<SPEECH 36><ACT 2><SCENE 4><41%>
+	No, truly, sir; not a penny.
+<SPEECH 37><ACT 2><SCENE 4><41%>
+	This afternoon, sir? well, she shall be there.
+<SPEECH 38><ACT 2><SCENE 4><41%>
+	Now God in heaven bless thee! Hark you, sir.
+<SPEECH 39><ACT 2><SCENE 4><41%>
+	Is your man secret? Did you ne'er hear say,
+	Two may keep counsel, putting one away?
+<SPEECH 40><ACT 2><SCENE 4><41%>
+	Well, sir; my mistress is the sweetest lady—Lord, Lord!—when 'twas a little prating thing,—O! there's a nobleman in town, one Paris, that would fain lay knife aboard; but she, good soul, had as lief see a toad, a very toad, as see him. I anger her sometimes and tell her that Paris is the properer man; but, I'll warrant you, when I say so, she looks as pale as any clout in the versal world. Doth not rosemary and Romeo begin both with a letter?
+<SPEECH 41><ACT 2><SCENE 4><42%>
+	Ah! mocker; that's the dog's name. R is for the—No; I know it begins with some other letter: and she had the prettiest sententious of it, of you and rosemary, that it would do you good to hear it.
+<SPEECH 42><ACT 2><SCENE 4><42%>
+	Ay, a thousand times. <STAGE DIR>
+	</STAGE DIR> Peter!
+<SPEECH 43><ACT 2><SCENE 4><42%>
+	Before, and apace.
+<SPEECH 44><ACT 2><SCENE 5><43%>
+	Peter, stay at the gate.
+<SPEECH 45><ACT 2><SCENE 5><43%>
+	I am aweary, give me leave awhile:
+	Fie, how my bones ache! What a jaunce have I had!
+<SPEECH 46><ACT 2><SCENE 5><43%>
+	Jesu! what haste? can you not stay awhile?
+	Do you not see that I am out of breath?
+<SPEECH 47><ACT 2><SCENE 5><43%>
+	Well, you have made a simple choice; you know not how to choose a man: Romeo! no, not he; though his face be better than any man's, yet his leg excels all men's; and for a hand, and a foot, and a body, though they be not to be talked on, yet they are past compare. He is not the flower of courtesy, but, I'll warrant him, as gentle as a lamb. Go thy ways, wench; serve God. What! have you dined at home?
+<SPEECH 48><ACT 2><SCENE 5><44%>
+	Lord! how my head aches; what a head have I!
+	It beats as it would fall in twenty pieces.
+	My back o' t'other side; O! my back, my back!
+	Beshrew your heart for sending me about,
+	To catch my death with jauncing up and down.
+<SPEECH 49><ACT 2><SCENE 5><44%>
+	Your love says, like an honest gentleman, and a courteous, and a kind, and a handsome, and, I warrant, a virtuous,—Where is your mother?
+<SPEECH 50><ACT 2><SCENE 5><44%>
+	O! God's lady dear,
+	Are you so hot? Marry, come up, I trow;
+	Is this the poultice for my aching bones?
+	Henceforward do your messages yourself.
+<SPEECH 51><ACT 2><SCENE 5><44%>
+	Have you got leave to go to shrift to-day?
+<SPEECH 52><ACT 2><SCENE 5><44%>
+	Then hie you hence to Friar Laurence' cell,
+	There stays a husband to make you a wife:
+	Now comes the wanton blood up in your cheeks,
+	They'll be in scarlet straight at any news.
+	Hie you to church; I must another way,
+	To fetch a ladder, by the which your love
+	Must climb a bird's nest soon when it is dark;
+	I am the drudge and toil in your delight,
+	But you shall bear the burden soon at night.
+	Go; I'll to dinner: hie you to the cell.
+<SPEECH 53><ACT 3><SCENE 2><54%>
+	Ay, ay, the cords.
+<SPEECH 54><ACT 3><SCENE 2><54%>
+	Ah well-a-day! he's dead, he's dead, he's dead!
+	We are undone, lady, we are undone!
+	Alack the day! he's gone, he's killed, he's dead!
+<SPEECH 55><ACT 3><SCENE 2><54%>
+	Romeo can,
+	Though heaven cannot. O! Romeo, Romeo;
+	Who ever would have thought it? Romeo!
+<SPEECH 56><ACT 3><SCENE 2><54%>
+	I saw the wound, I saw it with mine eyes,
+	God save the mark! here on his manly breast:
+	A piteous corse, a bloody piteous corse;
+	Pale, pale as ashes, all bedaub'd in blood,
+	All in gore blood; I swounded at the sight.
+<SPEECH 57><ACT 3><SCENE 2><54%>
+	O Tybalt, Tybalt! the best friend I had:
+	O courteous Tybalt! honest gentleman!
+	That ever I should live to see thee dead!
+<SPEECH 58><ACT 3><SCENE 2><55%>
+	Tybalt is gone, and Romeo banished;
+	Romeo, that kill'd him, he is banished.
+<SPEECH 59><ACT 3><SCENE 2><55%>
+	It did, it did; alas the day! it did.
+<SPEECH 60><ACT 3><SCENE 2><55%>
+	There's no trust,
+	No faith, no honesty in men; all naught,
+	All perjur'd, all dissemblers, all forsworn.
+	Ah! where's my man? give me some aqua vitæ:
+	These griefs, these woes, these sorrows make me old.
+	Shame come to Romeo!
+<SPEECH 61><ACT 3><SCENE 2><55%>
+	Will you speak well of him that kill'd your cousin?
+<SPEECH 62><ACT 3><SCENE 2><56%>
+	Weeping and wailing over Tybalt's corse:
+	Will you go to them? I will bring you thither.
+<SPEECH 63><ACT 3><SCENE 2><57%>
+	Hie to your chamber; I'll find Romeo
+	To comfort you: I wot well where he is.
+	Hark ye, your Romeo will be here to-night:
+	I'll to him; he is hid at Laurence' cell.
+<SPEECH 64><ACT 3><SCENE 3><60%>
+	</STAGE DIR> Let me come in, and you shall know my errand:
+	I come from Lady Juliet.
+<SPEECH 65><ACT 3><SCENE 3><60%>
+	O holy friar! O! tell me, holy friar,
+	Where is my lady's lord? where's Romeo?
+<SPEECH 66><ACT 3><SCENE 3><60%>
+	O! he is even in my mistress' case,
+	Just in her case!
+<SPEECH 67><ACT 3><SCENE 3><60%>
+	Ah, sir! ah, sir! Well, death's the end of all.
+<SPEECH 68><ACT 3><SCENE 3><60%>
+	O! she says nothing, sir, but weeps and weeps;
+	And now falls on her bed; and then starts up,
+	And Tybalt calls, and then on Romeo cries,
+	And then down falls again.
+<SPEECH 69><ACT 3><SCENE 3><62%>
+	O Lord! I could have stay'd here all the night
+	To hear good counsel: O! what learning is.
+	My lord, I'll tell my lady you will come.
+<SPEECH 70><ACT 3><SCENE 3><62%>
+	Here, sir, a ring she bid me give you, sir.
+	Hie you, make haste, for it grows very late.
+<SPEECH 71><ACT 3><SCENE 5><65%>
+	Madam!
+<SPEECH 72><ACT 3><SCENE 5><65%>
+	Your lady mother is coming to your chamber:
+	The day is broke; be wary, look about.
+<SPEECH 73><ACT 3><SCENE 5><69%>
+	God in heaven bless her!
+	You are to blame, my lord, to rate her so.
+<SPEECH 74><ACT 3><SCENE 5><70%>
+	I speak no treason.
+<SPEECH 75><ACT 3><SCENE 5><70%>
+	May not one speak?
+<SPEECH 76><ACT 3><SCENE 5><71%>
+	Faith, here it is. Romeo
+	Is banished; and all the world to nothing
+	That he dares ne'er come back to challenge you;
+	Or, if he do, it needs must be by stealth.
+	Then, since the case so stands as now it doth,
+	I think it best you married with the county.
+	O! he's a lovely gentleman;
+	Romeo's a dishclout to him: an eagle, madam,
+	Hath not so green, so quick, so fair an eye
+	As Paris hath. Beshrew my very heart,
+	I think you are happy in this second match,
+	For it excels your first: or if it did not,
+	Your first is dead; or 'twere as good he were,
+	As living here and you no use of him.
+<SPEECH 77><ACT 3><SCENE 5><71%>
+	And from my soul too;
+	Or else beshrew them both.
+<SPEECH 78><ACT 3><SCENE 5><71%>
+	What!
+<SPEECH 79><ACT 3><SCENE 5><71%>
+	Marry, I will; and this is wisely done.
+<SPEECH 80><ACT 4><SCENE 2><76%>
+	Ay, forsooth.
+<SPEECH 81><ACT 4><SCENE 2><76%>
+	See where she comes from shrift with merry look.
+<SPEECH 82><ACT 4><SCENE 4><80%>
+	They call for dates and quinces in the pastry.
+<SPEECH 83><ACT 4><SCENE 4><80%>
+	Go, go, you cot-quean, go;
+	Get you to bed; faith, you'll be sick to-morrow
+	For this night's watching.
+<SPEECH 84><ACT 4><SCENE 5><81%>
+	Mistress! what, mistress! Juliet! fast, I warrant her, she:
+	Why, lamb! why, lady! fie, you slug-a-bed!
+	Why, love, I say! madam! sweet-heart! why, bride!
+	What! not a word? you take your pennyworths now:
+	Sleep for a week; for the next night, I warrant,
+	The County Paris hath set up his rest,
+	That you shall rest but little. God forgive me,
+	Marry, and amen, how sound is she asleep!
+	I needs must wake her. Madam, madam, madam!
+	Ay, let the county take you in your bed;
+	He'll fright you up, i' faith. Will it not be?
+	What, dress'd! and in your clothes! and down again!
+	I must needs wake you. Lady! lady! lady!
+	Alas! alas! Help! help! my lady's dead!
+	O! well-a-day, that ever I was born.
+	Some aqua-vitæ, ho! My lord! my lady!
+<SPEECH 85><ACT 4><SCENE 5><81%>
+	O lamentable day!
+<SPEECH 86><ACT 4><SCENE 5><81%>
+	Look, look! O heavy day!
+<SPEECH 87><ACT 4><SCENE 5><82%>
+	She's dead, deceas'd, she's dead; alack the day!
+<SPEECH 88><ACT 4><SCENE 5><82%>
+	O lamentable day!
+<SPEECH 89><ACT 4><SCENE 5><83%>
+	O woe! O woeful, woeful, woeful day!
+	Most lamentable day, most woeful day,
+	That ever, ever, I did yet behold!
+	O day! O day! O day! O hateful day!
+	Never was seen so black a day as this:
+	O woeful day, O woeful day!
+<SPEECH 90><ACT 4><SCENE 5><84%>
+	Honest good fellows, ah! put up, put up, for, well you know, this is a pitiful case.

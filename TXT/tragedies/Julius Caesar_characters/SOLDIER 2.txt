@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 4><SCENE 2><71%>
+	Stand!
+<SPEECH 2><ACT 5><SCENE 4><96%>
+	Room, ho! Tell Antony, Brutus is ta'en.

@@ -1,0 +1,37 @@
+<SPEECH 1><ACT 1><SCENE 3><11%>
+	My lord,—
+<SPEECH 2><ACT 1><SCENE 3><11%>
+	Yea, my good lord.
+	Those prisoners in your highness' name demanded,
+	Which Harry Percy here at Holmedon took,
+	Were, as he says, not with such strength denied
+	As is deliver'd to your majesty:
+	Either envy, therefore, or misprision
+	Is guilty of this fault and not my son.
+<SPEECH 3><ACT 1><SCENE 3><14%>
+	What! drunk with choler? stay, and pause awhile:
+	Here comes your uncle.
+<SPEECH 4><ACT 1><SCENE 3><15%>
+	Brother, the king hath made your nephew mad.
+<SPEECH 5><ACT 1><SCENE 3><15%>
+	He was; I heard the proclamation:
+	And then it was when the unhappy king,—
+	Whose wrongs in us God pardon!—did set forth
+	Upon his Irish expedition;
+	From whence he, intercepted, did return
+	To be depos'd, and shortly murdered.
+<SPEECH 6><ACT 1><SCENE 3><15%>
+	He did; myself did hear it.
+<SPEECH 7><ACT 1><SCENE 3><17%>
+	Imagination of some great exploit
+	Drives him beyond the bounds of patience.
+<SPEECH 8><ACT 1><SCENE 3><18%>
+	Why, what a wasp-stung and impatient fool
+	Art thou to break into this woman's mood,
+	Tying thine ear to no tongue but thine own!
+<SPEECH 9><ACT 1><SCENE 3><18%>
+	At Berkeley Castle.
+<SPEECH 10><ACT 1><SCENE 3><19%>
+	Before the game's afoot thou still lett'st slip.
+<SPEECH 11><ACT 1><SCENE 3><20%>
+	Farewell, good brother: we shall thrive, I trust.

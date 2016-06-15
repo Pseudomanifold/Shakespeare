@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 3><SCENE 2><52%>
+	So; lift there.
+<SPEECH 2><ACT 3><SCENE 2><52%>
+	Sir, even now
+	Did the sea toss upon our shore this chest:
+	'Tis of some wrack.
+<SPEECH 3><ACT 3><SCENE 2><52%>
+	I never saw so huge a billow, sir,
+	As toss'd it upon shore.

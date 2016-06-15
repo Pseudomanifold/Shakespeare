@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 3><SCENE 2><50%>
+	Good morrow, sir.
+<SPEECH 2><ACT 3><SCENE 2><50%>
+	Sir,
+	Our lodgings, standing bleak upon the sea,
+	Shook as the earth' did quake;
+	The very principals did seem to rend,
+	And all to topple. Pure surprise and fear
+	Made me to quit the house.
+<SPEECH 3><ACT 3><SCENE 2><51%>
+	But I much marvel that your lordship, having
+	Rich tire about you, should at these early hours
+	Shake off the golden slumber of repose.
+	'Tis most strange,
+	Nature should be so conversant with pain,
+	Being thereto not compell'd.
+<SPEECH 4><ACT 3><SCENE 2><53%>
+	Most strange!
+<SPEECH 5><ACT 3><SCENE 2><54%>
+	The heavens
+	Through you increase our wonder and set up
+	Your fame for ever.
+<SPEECH 6><ACT 3><SCENE 2><54%>
+	Most rare.
+<SPEECH 7><ACT 4><SCENE 5><74%>
+	Did you ever hear the like?
+<SPEECH 8><ACT 4><SCENE 5><74%>
+	But to have divinity preached there! did you ever dream of such a thing?
+<SPEECH 9><ACT 4><SCENE 5><74%>
+	I'll do any thing now that is virtuous; but I am out of the road of rutting for ever.
+<SPEECH 10><ACT 5><SCENE 1><84%>
+	Doth your lordship call?

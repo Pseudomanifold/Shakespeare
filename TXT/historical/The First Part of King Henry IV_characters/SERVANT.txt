@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 2><SCENE 3><29%>
+	He is, my lord, an hour ago.
+<SPEECH 2><ACT 2><SCENE 3><29%>
+	One horse, my lord, he brought even now.
+<SPEECH 3><ACT 2><SCENE 3><30%>
+	It is, my lord.

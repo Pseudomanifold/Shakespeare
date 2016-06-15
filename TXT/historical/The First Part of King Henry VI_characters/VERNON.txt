@@ -1,0 +1,41 @@
+<SPEECH 1><ACT 2><SCENE 4><33%>
+	Stay, lords and gentlemen, and pluck no more,
+	Till you conclude that he, upon whose side
+	The fewest roses are cropp'd from the tree,
+	Shall yield the other in the right opinion.
+<SPEECH 2><ACT 2><SCENE 4><33%>
+	Then for the truth and plainness of the case,
+	I pluck this pale and maiden blossom here,
+	Giving my verdict on the white rose side.
+<SPEECH 3><ACT 2><SCENE 4><33%>
+	If I, my lord, for my opinion bleed,
+	Opinion shall be surgeon to my hurt,
+	And keep me on the side where still I am.
+<SPEECH 4><ACT 2><SCENE 4><36%>
+	In your behalf still would I wear the same.
+<SPEECH 5><ACT 3><SCENE 4><58%>
+	Now, sir, to you, that were so hot at sea,
+	Disgracing of these colours that I wear
+	In honour of my noble Lord of York,
+	Dar'st thou maintain the former words thou spak'st?
+<SPEECH 6><ACT 3><SCENE 4><59%>
+	Sirrah, thy lord I honour as he is.
+<SPEECH 7><ACT 3><SCENE 4><59%>
+	Hark ye; not so: in witness, take ye that.
+<SPEECH 8><ACT 3><SCENE 4><59%>
+	Well, miscreant, I'll be there as soon as you;
+	And, after, meet you sooner than you would.
+<SPEECH 9><ACT 4><SCENE 1><62%>
+	Grant me the combat, gracious sovereign!
+<SPEECH 10><ACT 4><SCENE 1><62%>
+	With him, my lord; for he hath done me wrong.
+<SPEECH 11><ACT 4><SCENE 1><63%>
+	And that is my petition, noble lord:
+	For though he seem with forged quaint conceit,
+	To set a gloss upon his bold intent,
+	Yet know, my lord, I was provok'd by him;
+	And he first took exceptions at this badge,
+	Pronouncing, that the paleness of this flower
+	Bewray'd the faintness of my master's heart.
+<SPEECH 12><ACT 4><SCENE 1><64%>
+	Nay, let it rest where it began at first.

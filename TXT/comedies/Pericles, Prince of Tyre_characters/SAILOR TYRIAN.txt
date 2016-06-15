@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 5><SCENE 1><84%>
+	</STAGE DIR> Where's the Lord Helicanus? he can resolve you.
+	O! here he is.—
+	Sir, there's a barge put off from Mitylene,
+	And in it is Lysimachus, the governor,
+	Who craves to come aboard. What is your will?
+<SPEECH 2><ACT 5><SCENE 1><84%>
+	Ho, gentlemen! my lord calls.
+<SPEECH 3><ACT 5><SCENE 1><84%>
+	Sir,
+	This is the man that can, in aught you would,
+	Resolve you.

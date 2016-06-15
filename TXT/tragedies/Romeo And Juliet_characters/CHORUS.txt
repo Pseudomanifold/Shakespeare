@@ -1,0 +1,30 @@
+<SPEECH 1><0%>
+	Two households, both alike in dignity,
+	In fair Verona, where we lay our scene,
+	From ancient grudge break to new mutiny,
+	Where civil blood makes civil hands unclean.
+	From forth the fatal loins of these two foes
+	A pair of star-cross'd lovers take their life;
+	Whose misadventur'd piteous overthrows
+	Do with their death bury their parents' strife.
+	The fearful passage of their death-mark'd love,
+	And the continuance of their parents' rage,
+	Which, but their children's end, nought could remove,
+	Is now the two hours' traffick of our stage;
+	The which if you with patient ears attend,
+	What here shall miss, our toil shall strive to mend.
+<SPEECH 2><ACT 1><SCENE 5><24%>
+	Now old desire doth in his death-bed lie,
+	And young affection gapes to be his heir;
+	That fair for which love groan'd for and would die,
+	With tender Juliet match'd, is now not fair.
+	Now Romeo is belov'd and loves again,
+	Alike bewitched by the charm of looks,
+	But to his foe suppos'd he must complain,
+	And she steal love's sweet bait from fearful hooks:
+	Being held a foe, he may not have access
+	To breathe such vows as lovers us'd to swear;
+	And she as much in love, her means much less
+	To meet her new-beloved any where:
+	But passion lends them power, time means, to meet,
+	Tempering extremity with extreme sweet.

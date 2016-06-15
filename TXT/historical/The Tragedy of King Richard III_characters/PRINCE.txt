@@ -1,0 +1,61 @@
+<SPEECH 1><ACT 3><SCENE 1><40%>
+	No, uncle; but our crosses on the way
+	Have made it tedious, wearisome, and heavy:
+	I want more uncles here to welcome me.
+<SPEECH 2><ACT 3><SCENE 1><41%>
+	God keep me from false friends! but they were none.
+<SPEECH 3><ACT 3><SCENE 1><41%>
+	I thank you, good my lord; and thank you all.
+	I thought my mother and my brother York
+	Would long ere this have met us on the way:
+	Fie! what a slug is Hastings, that he comes not
+	To tell us whether they will come or no.
+<SPEECH 4><ACT 3><SCENE 1><41%>
+	Welcome, my lord. What, will our mother come?
+<SPEECH 5><ACT 3><SCENE 1><42%>
+	Good lords, make all the speedy haste you may.
+	Say, uncle Gloucester, if our brother come,
+	Where shall we sojourn till our coronation?
+<SPEECH 6><ACT 3><SCENE 1><42%>
+	I do not like the Tower, of any place:
+	Did Julius Cæsar build that place, my lord?
+<SPEECH 7><ACT 3><SCENE 1><42%>
+	Is it upon record, or else reported
+	Successively from age to age, he built it?
+<SPEECH 8><ACT 3><SCENE 1><42%>
+	But say, my lord, it were not register'd,
+	Methinks the truth should live from age to age,
+	As 'twere retail'd to all posterity,
+	Even to the general all-ending day.
+<SPEECH 9><ACT 3><SCENE 1><42%>
+	What say you, uncle?
+<SPEECH 10><ACT 3><SCENE 1><42%>
+	That Julius Cæsar was a famous man;
+	With what his valour did enrich his wit,
+	His wit set down to make his valour live:
+	Death makes no conquest of this conqueror,
+	For now he lives in fame, though not in life.
+	I'll tell you what, my cousin Buckingham,—
+<SPEECH 11><ACT 3><SCENE 1><43%>
+	An if I live until I be a man,
+	I'll win our ancient right in France again,
+	Or die a soldier, as I liv'd a king.
+<SPEECH 12><ACT 3><SCENE 1><43%>
+	Richard of York! how fares our loving brother?
+<SPEECH 13><ACT 3><SCENE 1><43%>
+	Ay, brother, to our grief, as it is yours:
+	Too late he died that might have kept that title,
+	Which by his death hath lost much majesty.
+<SPEECH 14><ACT 3><SCENE 1><43%>
+	A beggar, brother?
+<SPEECH 15><ACT 3><SCENE 1><44%>
+	My Lord of York will still be cross in talk.
+	Uncle, your Grace knows how to bear with him.
+<SPEECH 16><ACT 3><SCENE 1><44%>
+	My Lord Protector needs will have it so.
+<SPEECH 17><ACT 3><SCENE 1><44%>
+	I fear no uncles dead.
+<SPEECH 18><ACT 3><SCENE 1><44%>
+	An if they live, I hope, I need not fear.
+	But come, my lord; and, with a heavy heart,
+	Thinking on them, go I unto the Tower.

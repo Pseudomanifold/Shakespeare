@@ -1,0 +1,211 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+	Do you doubt that?
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	No more but so?
+<SPEECH 3><ACT 1><SCENE 3><13%>
+	I shall th' effect of this good lesson keep,
+	As watchman to my heart. But, good my brother,
+	Do not, as some ungracious pastors do,
+	Show me the steep and thorny way to heaven,
+	Whiles, like a puff'd and reckless libertine,
+	Himself the primrose path of dalliance treads,
+	And recks not his own rede.
+<SPEECH 4><ACT 1><SCENE 3><14%>
+	'Tis in my memory lock'd,
+	And you yourself shall keep the key of it.
+<SPEECH 5><ACT 1><SCENE 3><14%>
+	So please you, something touching the Lord Hamlet.
+<SPEECH 6><ACT 1><SCENE 3><14%>
+	He hath, my lord, of late made many tenders
+	Of his affection to me.
+<SPEECH 7><ACT 1><SCENE 3><14%>
+	I do not know, my lord, what I should think.
+<SPEECH 8><ACT 1><SCENE 3><14%>
+	My lord, he hath importun'd me with love
+	In honourable fashion.
+<SPEECH 9><ACT 1><SCENE 3><14%>
+	And hath given countenance to his speech, my lord,
+	With almost all the holy vows of heaven.
+<SPEECH 10><ACT 1><SCENE 3><15%>
+	I shall obey, my lord.
+<SPEECH 11><ACT 2><SCENE 1><24%>
+	Alas! my lord, I have been so affrighted.
+<SPEECH 12><ACT 2><SCENE 1><24%>
+	My lord, as I was sewing in my closet,
+	Lord Hamlet, with his doublet all unbrac'd;
+	No hat upon his head; his stockings foul'd,
+	Ungarter'd, and down-gyved to his ancle;
+	Pale as his shirt; his knees knocking each other;
+	And with a look so piteous in purport
+	As if he had been loosed out of hell
+	To speak of horrors, he comes before me.
+<SPEECH 13><ACT 2><SCENE 1><24%>
+	My lord, I do not know;
+	But truly I do fear it.
+<SPEECH 14><ACT 2><SCENE 1><24%>
+	He took me by the wrist and held me hard,
+	Then goes he to the length of all his arm,
+	And, with his other hand thus o'er his brow,
+	He falls to such perusal of my face
+	As he would draw it. Long stay'd he so;
+	At last, a little shaking of mine arm,
+	And thrice his head thus waving up and down,
+	He rais'd a sigh so piteous and profound
+	That it did seem to shatter all his bulk
+	And end his being. That done, he lets me go,
+	And, with his head over his shoulder turn'd,
+	He seem'd to find his way without his eyes;
+	For out o' doors he went without their help,
+	And to the last bended their light on me.
+<SPEECH 15><ACT 2><SCENE 1><25%>
+	No, my good lord; but, as you did command,
+	I did repel his letters and denied
+	His access to me.
+<SPEECH 16><ACT 3><SCENE 1><42%>
+	Madam, I wish it may.
+<SPEECH 17><ACT 3><SCENE 1><43%>
+	Good my lord,
+	How does your honour for this many a day?
+<SPEECH 18><ACT 3><SCENE 1><43%>
+	My lord, I have remembrances of yours,
+	That I have longed long to re-deliver;
+	I pray you, now receive them.
+<SPEECH 19><ACT 3><SCENE 1><43%>
+	My honour'd lord, you know right well you did;
+	And, with them, words of so sweet breath compos'd
+	As made the things more rich: their perfume lost,
+	Take these again; for to the noble mind
+	Rich gifts wax poor when givers prove unkind.
+	There, my lord.
+<SPEECH 20><ACT 3><SCENE 1><43%>
+	My lord!
+<SPEECH 21><ACT 3><SCENE 1><43%>
+	What means your lordship?
+<SPEECH 22><ACT 3><SCENE 1><43%>
+	Could beauty, my lord, have better commerce than with honesty?
+<SPEECH 23><ACT 3><SCENE 1><43%>
+	Indeed, my lord, you made me believe so.
+<SPEECH 24><ACT 3><SCENE 1><44%>
+	I was the more deceived.
+<SPEECH 25><ACT 3><SCENE 1><44%>
+	At home, my lord.
+<SPEECH 26><ACT 3><SCENE 1><44%>
+	O! help him, you sweet heavens!
+<SPEECH 27><ACT 3><SCENE 1><44%>
+	O heavenly powers, restore him!
+<SPEECH 28><ACT 3><SCENE 1><44%>
+	O! what a noble mind is here o'erthrown:
+	The courtier's, soldier's, scholar's, eye, tongue, sword;
+	The expectancy and rose of the fair state,
+	The glass of fashion and the mould of form,
+	The observ'd of all observers, quite, quite down!
+	And I, of ladies most deject and wretched,
+	That suck'd the honey of his music vows,
+	Now see that noble and most sovereign reason,
+	Like sweet bells jangled, out of tune and harsh;
+	That unmatch'd form and feature of blown youth
+	Blasted with ecstasy: O! woe is me,
+	To have seen what I have seen, see what I see!
+<SPEECH 29><ACT 3><SCENE 2><49%>
+	No, my lord.
+<SPEECH 30><ACT 3><SCENE 2><49%>
+	Ay, my lord.
+<SPEECH 31><ACT 3><SCENE 2><49%>
+	I think nothing, my lord.
+<SPEECH 32><ACT 3><SCENE 2><49%>
+	What is, my lord?
+<SPEECH 33><ACT 3><SCENE 2><49%>
+	You are merry, my lord.
+<SPEECH 34><ACT 3><SCENE 2><49%>
+	Ay, my lord.
+<SPEECH 35><ACT 3><SCENE 2><49%>
+	Nay, 'tis twice two months, my lord.
+<SPEECH 36><ACT 3><SCENE 2><50%>
+	What means this, my lord?
+<SPEECH 37><ACT 3><SCENE 2><50%>
+	Belike this show imports the argument of the play.
+<SPEECH 38><ACT 3><SCENE 2><50%>
+	Will he tell us what this show meant?
+<SPEECH 39><ACT 3><SCENE 2><50%>
+	You are naught, you are naught. I'll mark the play.
+<SPEECH 40><ACT 3><SCENE 2><50%>
+	'Tis brief, my lord.
+<SPEECH 41><ACT 3><SCENE 2><52%>
+	You are a good chorus, my lord.
+<SPEECH 42><ACT 3><SCENE 2><52%>
+	You are keen, my lord, you are keen.
+<SPEECH 43><ACT 3><SCENE 2><52%>
+	Still better, and worse.
+<SPEECH 44><ACT 3><SCENE 2><53%>
+	The king rises.
+<SPEECH 45><ACT 4><SCENE 5><71%>
+	Where is the beauteous majesty of Denmark?
+<SPEECH 46><ACT 4><SCENE 5><71%>
+	How should I your true love know
+	From another one?
+	By his cockle hat and staff,
+	And his sandal shoon.
+<SPEECH 47><ACT 4><SCENE 5><71%>
+	Say you? nay, pray you, mark.
+	He is dead and gone, lady,
+	He is dead and gone;
+	At his head a grass-green turf;
+	At his heals a stone.
+	O, ho!
+<SPEECH 48><ACT 4><SCENE 5><71%>
+	Pray you, mark.
+	White his shroud as the mountain snow,—
+<SPEECH 49><ACT 4><SCENE 5><71%>
+	Larded with sweet flowers;
+	Which bewept to the grave did go
+	With true-love showers.
+<SPEECH 50><ACT 4><SCENE 5><71%>
+	Well, God 'ild you! They say the owl was a baker's daughter. Lord! we know what we are, but know not what we may be. God be at your table!
+<SPEECH 51><ACT 4><SCENE 5><71%>
+	Pray you, let's have no words of this; but when they ask you what it means, say you this:
+	To-morrow is Saint Valentine's day,
+	All in the morning betime,
+	And I a maid at your window,
+	To be your Valentine:
+	Then up he rose, and donn'd his clothes,
+	And dupp'd the chamber door;
+	Let in the maid, that out a maid
+	Never departed more.
+<SPEECH 52><ACT 4><SCENE 5><71%>
+	Indeed, la! without an oath, I'll make an end on 't:
+	By Gis and by Saint Charity,
+	Alack, and fie for shame!
+	Young men will do't, if they come to't;
+	By Cock they are to blame.
+	Quoth she, before you tumbled me,
+	You promis'd me to wed:
+	So would I ha' done, by yonder sun,
+	An thou hadst not come to my bed.
+<SPEECH 53><ACT 4><SCENE 5><72%>
+	I hope all will be well. We must be patient: but I cannot choose but weep, to think they should lay him i' the cold ground. My brother shall know of it: and so I thank you for your good counsel. Come, my coach! Good-night, ladies; good-night, sweet ladies; good-night, good-night.
+<SPEECH 54><ACT 4><SCENE 5><74%>
+	They bore him barefac'd on the bier;
+	Hey non nonny, nonny, hey nonny;
+	And in his grave rain'd many a tear;—
+	Fare you well, my dove!
+<SPEECH 55><ACT 4><SCENE 5><74%>
+	You must sing, a-down a-down,
+	And you call him a-down-a.
+	O how the wheel becomes it! It is the false steward that stole his master's daughter.
+<SPEECH 56><ACT 4><SCENE 5><74%>
+	There's rosemary, that's for remembrance; brance; pray, love, remember: and there is pansies, that's for thoughts.
+<SPEECH 57><ACT 4><SCENE 5><75%>
+	There's fennel for you, and columbines; there's rue for you; and here's some for me; we may call it herb of grace o' Sundays. O! you must wear your rue with a difference. There's a daisy; I would give you some violets, but they withered all when my father died. They say he made a good end,—
+	For bonny sweet Robin is all my joy.
+<SPEECH 58><ACT 4><SCENE 5><75%>
+	And will he not come again?
+	And will he not come again?
+	No, no, he is dead;
+	Go to thy death-bed,
+	He never will come again.
+	His beard was as white as snow
+	All fiaxen was his poll,
+	He is gone, he is gone,
+	And we cast away moan:
+	God ha' mercy on his soul!
+	And of all Christian souls! I pray God. God be wi' ye!

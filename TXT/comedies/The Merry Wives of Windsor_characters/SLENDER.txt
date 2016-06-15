@@ -1,0 +1,114 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	In the county of Gloster, justice of peace, and coram.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Ay, and rato-lorum too; and a gentleman born, Master Parson; who writes himself armigero, in any bill, warrant, quittance, or obligation,—armigero.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	All his successors gone before him hath done't; and all his ancestors that come after him may: they may give the dozen white luces in their coat.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	I may quarter, coz?
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	Mistress Anne Page? She has brown hair, and speaks small like a woman.
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	How does your fallow greyhound, sir? I heard say he was outrun on Cotsall.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	You'll not confess, you'll not confess.
+<SPEECH 8><ACT 1><SCENE 1><4%>
+	Marry, sir, I have matter in my head against you; and against your cony-catching rascals, Bardolph, Nym, and Pistol. They carried me to the tavern, and made me drunk, and afterwards picked my pocket.
+<SPEECH 9><ACT 1><SCENE 1><4%>
+	Ay, it is no matter.
+<SPEECH 10><ACT 1><SCENE 1><5%>
+	Ay, it is no matter.
+<SPEECH 11><ACT 1><SCENE 1><5%>
+	Where's Simple, my man? can you tell, cousin?
+<SPEECH 12><ACT 1><SCENE 1><5%>
+	Ay, by these gloves, did he,—or I would I might never come in mine own great chamber again else,—of seven groats in mill-sixpences, and two Edward shovel-boards, that cost me two shilling and two pence a-piece of Yead Miller, by these gloves.
+<SPEECH 13><ACT 1><SCENE 1><5%>
+	By these gloves, then, 'twas he.
+<SPEECH 14><ACT 1><SCENE 1><6%>
+	By this hat, then, he in the red face had it; for though I cannot remember what I did when you made me drunk, yet I am not altogether an ass.
+<SPEECH 15><ACT 1><SCENE 1><6%>
+	Ay, you spake in Latin then too; but 'tis no matter. I'll ne'er be drunk whilst I live again, but in honest, civil, godly company, for this trick: if I be drunk, I'll be drunk with those that have the fear of God, and not with drunken knaves.
+<SPEECH 16><ACT 1><SCENE 1><6%>
+	O heaven! this is Mistress Anne Page.
+<SPEECH 17><ACT 1><SCENE 1><7%>
+	I had rather than forty shillings I had my Book of Songs and Sonnets here.
+	How now, Simple! Where have you been? I must wait on myself, must I? You have not the Book of Riddles about you, have you?
+<SPEECH 18><ACT 1><SCENE 1><7%>
+	Ay, sir, you shall find me reasonable: if it be so, I shall do that that is reason.
+<SPEECH 19><ACT 1><SCENE 1><7%>
+	So I do, sir.
+<SPEECH 20><ACT 1><SCENE 1><7%>
+	Nay, I will do as my cousin Shallow says. I pray you pardon me; he's a justice of peace in his country, simple though I stand here.
+<SPEECH 21><ACT 1><SCENE 1><8%>
+	Why, if it be so, I will marry her upon any reasonable demands.
+<SPEECH 22><ACT 1><SCENE 1><8%>
+	I hope, sir, I will do as it shall become one that would do reason.
+<SPEECH 23><ACT 1><SCENE 1><8%>
+	I will do a greater thing than that, upon your request, cousin, in any reason.
+<SPEECH 24><ACT 1><SCENE 1><8%>
+	I will marry her, sir, at your request; but if there be no great love in the beginning, yet heaven may decrease it upon better acquaintance, when we are married and have more occasion to know one another: I hope, upon familiarity will grow more contempt: but if you say, 'Marry her,' I will marry her; that I am freely dissolved, and dissolutely.
+<SPEECH 25><ACT 1><SCENE 1><9%>
+	Ay, or else I would I might be hanged, la!
+<SPEECH 26><ACT 1><SCENE 1><9%>
+	No, I thank you, forsooth, heartily; I am very well.
+<SPEECH 27><ACT 1><SCENE 1><9%>
+	I am not a-hungry, I thank you forsooth. Go, sirrah, for all you are my man, go wait upon my cousin Shallow. <STAGE DIR>
+	</STAGE DIR> A justice of peace sometime may be beholding to his friend for a man. I keep but three men and a boy yet, till my mother be dead; but what though? yet I live like a poor gentleman born.
+<SPEECH 28><ACT 1><SCENE 1><9%>
+	I' faith, I'll eat nothing; I thank you as much as though I did.
+<SPEECH 29><ACT 1><SCENE 1><9%>
+	I had rather walk here, I thank you. I bruised my shin th' other day with playing at sword and dagger with a master of fence; three veneys for a dish of stewed prunes;—and, by my troth, I cannot abide the smell of hot meat since. Why do your dogs bark so? be there bears i' the town?
+<SPEECH 30><ACT 1><SCENE 1><10%>
+	I love the sport well; but I shall as soon quarrel at it as any man in England. You are afraid, if you see the bear loose, are you not?
+<SPEECH 31><ACT 1><SCENE 1><10%>
+	That's meat and drink to me, now: I have seen Sackerson loose twenty times, and have taken him by the chain; but, I warrant you, the women have so cried and shrieked at it, that it passed: but women, indeed, cannot abide 'em; they are very ill-favoured rough things.
+<SPEECH 32><ACT 1><SCENE 1><10%>
+	I'll eat nothing, I thank you, sir.
+<SPEECH 33><ACT 1><SCENE 1><10%>
+	Nay, pray you, lead the way.
+<SPEECH 34><ACT 1><SCENE 1><10%>
+	Mistress Anne, yourself shall go first.
+<SPEECH 35><ACT 1><SCENE 1><10%>
+	Truly, I will not go first: truly, la! I will not do you that wrong.
+<SPEECH 36><ACT 1><SCENE 1><10%>
+	I'll rather be unmannerly than troublesome. You do yourself wrong, indeed, la!
+<SPEECH 37><ACT 2><SCENE 3><40%>
+	Give you good morrow, sir.
+<SPEECH 38><ACT 3><SCENE 1><44%>
+	</STAGE DIR> Ah, sweet Anne Page!
+<SPEECH 39><ACT 3><SCENE 1><44%>
+	</STAGE DIR> O, sweet Anne Page!
+<SPEECH 40><ACT 3><SCENE 1><46%>
+	</STAGE DIR> O, sweet Anne Page!
+<SPEECH 41><ACT 3><SCENE 2><48%>
+	And so must I, sir: we have appointed to dine with Mistress Anne, and I would not break with her for more money than I'll speak of.
+<SPEECH 42><ACT 3><SCENE 2><48%>
+	I hope I have your good will, father Page.
+<SPEECH 43><ACT 3><SCENE 4><59%>
+	I'll make a shaft or a bolt on't. 'Slid, 'tis but venturing.
+<SPEECH 44><ACT 3><SCENE 4><59%>
+	No, she shall not dismay me: I care not for that, but that I am afeard.
+<SPEECH 45><ACT 3><SCENE 4><59%>
+	I had a father, Mistress Anne; my uncle can tell you good jests of him. Pray you, uncle, tell Mistress Anne the jest, how my father stole two geese out of a pen, good uncle.
+<SPEECH 46><ACT 3><SCENE 4><60%>
+	Ay, that I do; as well as I love any woman in Glostershire.
+<SPEECH 47><ACT 3><SCENE 4><60%>
+	Ay, that I will, come cut and long-tail, under the degree of a squire.
+<SPEECH 48><ACT 3><SCENE 4><60%>
+	Now, good Mistress Anne.—
+<SPEECH 49><ACT 3><SCENE 4><60%>
+	My will? od's heartlings! that's a pretty jest, indeed! I ne'er made my will yet, I thank heaven; I am not such a sickly creature, I give heaven praise.
+<SPEECH 50><ACT 3><SCENE 4><60%>
+	Truly, for mine own part, I would little or nothing with you. Your father and my uncle have made motions: if it be my luck, so; if not, happy man be his dole! They can tell you how things go better than I can: you may ask your father; here he comes.
+<SPEECH 51><ACT 5><SCENE 2><89%>
+	Ay, forsooth; I have spoke with her and we have a nayword how to know one another. I come to her in white, and cry, 'mum;' she cries, 'budget;' and by that we know one another.
+<SPEECH 52><ACT 5><SCENE 5><98%>
+	Whoa, ho! ho! father Page!
+<SPEECH 53><ACT 5><SCENE 5><98%>
+	Dispatched! I'll make the best in Gloster-shire know on 't; would I were hanged, la, else!
+<SPEECH 54><ACT 5><SCENE 5><98%>
+	I came yonder at Eton to marry Mistress Anne Page, and she's a great lubberly boy: if it had not been i' the church, I would have swinged him, or he should have swinged me. If I did not think it had been Anne Page, would I might never stir! and 'tis a postmaster's boy.
+<SPEECH 55><ACT 5><SCENE 5><98%>
+	What need you tell me that? I think so, when I took a boy for a girl. If I had been married to him, for all he was in woman's apparel, I would not have had him.
+<SPEECH 56><ACT 5><SCENE 5><98%>
+	I went to her in white, and cried, 'mum,' and she cried 'budget,' as Anne and I had appointed; and yet it was not Anne, but a postmaster's boy.

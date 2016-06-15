@@ -1,0 +1,27 @@
+<SPEECH 1><ACT 1><SCENE 1><8%>
+	Doth your highness call?
+<SPEECH 2><ACT 1><SCENE 1><8%>
+	My lord, 'tis done.
+<SPEECH 3><ACT 1><SCENE 1><9%>
+	My lord,
+	If I can get him within my pistol's length,
+	I'll make him sure enough: so, farewell to your highness.
+<SPEECH 4><ACT 1><SCENE 3><14%>
+	So this is Tyre, and this the court. Here must I kill King Pericles; and if I do not, I am sure to be hanged at home: 'tis dangerous. Well, I perceive he was a wise fellow, and had good discretion, that, being bid to ask what he would of the king, desired he might know none of his secrets: now do I see he had some reason for it; for if a king bid a man be a villain, he is bound by the indenture of his oath to be one. Hush! here come the lords of Tyre.
+<SPEECH 5><ACT 1><SCENE 3><15%>
+	</STAGE DIR> How! the king gone!
+<SPEECH 6><ACT 1><SCENE 3><15%>
+	</STAGE DIR> What from Antioch?
+<SPEECH 7><ACT 1><SCENE 3><16%>
+	</STAGE DIR> Well, I perceive
+	I shall not be hang'd now, although I would;
+	But since he's gone, the king it sure must please:
+	He 'scap'd the land, to perish at the sea.
+	I'll present myself. <STAGE DIR>
+	</STAGE DIR> Peace to the lords of Tyre.
+<SPEECH 8><ACT 1><SCENE 3><16%>
+	From him I come,
+	With message unto princely Pericles;
+	But since my landing I have understood
+	Your lord hath betook himself to unknown travels,
+	My message must return from whence it came.

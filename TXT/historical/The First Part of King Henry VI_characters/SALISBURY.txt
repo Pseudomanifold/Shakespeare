@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 1><SCENE 4><17%>
+	Talbot, my life, my joy! again return'd!
+	How wert thou handled being prisoner?
+	Or by what means got'st thou to be releas'd,
+	Discourse, I prithee, on this turret's top.
+<SPEECH 2><ACT 1><SCENE 4><17%>
+	Yet tell'st thou not how thou wert entertain'd.
+<SPEECH 3><ACT 1><SCENE 4><18%>
+	I grieve to hear what torments you endur'd;
+	But we will be reveng'd sufficiently.
+	Now it is supper-time in Orleans:
+	Here, through this grate, I count each one,
+	And view the Frenchmen how they fortify:
+	Let us look in; the sight will much delight thee.
+	Sir Thomas Gargrave, and Sir William Glansdale,
+	Let me have your express opinions
+	Where is best place to make our battery next.
+<SPEECH 4><ACT 1><SCENE 4><19%>
+	O Lord! have mercy on us, wretched sinners.

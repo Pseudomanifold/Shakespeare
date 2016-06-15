@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 1><SCENE 3><11%>
+	Dead?
+<SPEECH 2><ACT 1><SCENE 3><11%>
+	We are very sorry for it.

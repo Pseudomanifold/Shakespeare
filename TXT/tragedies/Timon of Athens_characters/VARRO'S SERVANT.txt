@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 2><SCENE 2><26%>
+	Is't not your business too?
+<SPEECH 2><ACT 2><SCENE 2><26%>
+	I fear it.
+<SPEECH 3><ACT 2><SCENE 2><26%>
+	One Varro's servant, my good lord,—
+<SPEECH 4><ACT 2><SCENE 2><27%>
+	'Twas due on forfeiture, my lord, six weeks
+	And past.
+<SPEECH 5><ACT 2><SCENE 2><28%>
+	Hang him, he'll abuse us.
+<SPEECH 6><ACT 2><SCENE 2><28%>
+	How dost, fool?
+<SPEECH 7><ACT 2><SCENE 2><28%>
+	I speak not to thee.
+<SPEECH 8><ACT 2><SCENE 2><30%>
+	I could render one.
+<SPEECH 9><ACT 2><SCENE 2><30%>
+	What is a whoremaster, fool?
+<SPEECH 10><ACT 2><SCENE 2><30%>
+	Thou art not altogether a fool.

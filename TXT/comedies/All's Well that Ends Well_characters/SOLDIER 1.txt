@@ -1,0 +1,94 @@
+<SPEECH 1><ACT 4><SCENE 1><62%>
+	Good captain, let me be the interpreter.
+<SPEECH 2><ACT 4><SCENE 1><62%>
+	No, sir, I warrant you.
+<SPEECH 3><ACT 4><SCENE 1><62%>
+	Even such as you speak to me.
+<SPEECH 4><ACT 4><SCENE 1><64%>
+	Boskos thromuldo boskos.
+<SPEECH 5><ACT 4><SCENE 1><64%>
+	Boskos vauvado:
+	I understand thee, and can speak thy tongue:
+	Kerelybonto: Sir,
+	Betake thee to thy faith, for seventeen poniards
+	Are at thy bosom.
+<SPEECH 6><ACT 4><SCENE 1><64%>
+	O! pray, pray, pray.
+	Manka revania dulche.
+<SPEECH 7><ACT 4><SCENE 1><64%>
+	The general is content to spare thee yet;
+	And, hoodwink'd as thou art, will lead thee on
+	To gather from thee: haply thou may'st inform
+	Something to save thy life.
+<SPEECH 8><ACT 4><SCENE 1><65%>
+	But wilt thou faithfully?
+<SPEECH 9><ACT 4><SCENE 1><65%>
+	Acordo linta.
+	Come on; thou art granted space.
+<SPEECH 10><ACT 4><SCENE 3><72%>
+	He calls for the tortures: what will you say without 'em?
+<SPEECH 11><ACT 4><SCENE 3><72%>
+	Bosko chimurcho.
+<SPEECH 12><ACT 4><SCENE 3><72%>
+	You are a merciful general. Our general bids you answer to what I shall ask you out of a note.
+<SPEECH 13><ACT 4><SCENE 3><72%>
+	First, demand of him how many horse the duke is strong. What say you to that?
+<SPEECH 14><ACT 4><SCENE 3><73%>
+	Shall I set down your answer so?
+<SPEECH 15><ACT 4><SCENE 3><73%>
+	Well, that's set down.
+<SPEECH 16><ACT 4><SCENE 3><73%>
+	Well, that's set down.
+<SPEECH 17><ACT 4><SCENE 3><73%>
+	Demand of him, of what strength they are a-foot. What say you to that?
+<SPEECH 18><ACT 4><SCENE 3><74%>
+	Well, that's set down. You shall demand of him, whether one Captain Dumain be i' the camp, a Frenchman; what his reputation is with the duke; what his valour, honesty, and expertness in wars; or whether he thinks it were not possible, with well-weighing sums of gold, to corrupt him to a revolt. What say you to this? what do you know of it?
+<SPEECH 19><ACT 4><SCENE 3><74%>
+	Do you know this Captain Dumain?
+<SPEECH 20><ACT 4><SCENE 3><74%>
+	Well, is this captain in the Duke of Florence's camp?
+<SPEECH 21><ACT 4><SCENE 3><75%>
+	What is his reputation with the duke?
+<SPEECH 22><ACT 4><SCENE 3><75%>
+	Marry, we'll search.
+<SPEECH 23><ACT 4><SCENE 3><75%>
+	Here 'tis; here's a paper; shall I read it to you?
+<SPEECH 24><ACT 4><SCENE 3><75%>
+	Dian, the count's a fool, and full of gold—
+<SPEECH 25><ACT 4><SCENE 3><75%>
+	Nay, I'll read it first, by your favour.
+<SPEECH 26><ACT 4><SCENE 3><75%>
+	When he swears oaths, bid him drop gold, and take it;
+	After he scores, he never pays the score:
+	Half won is match well made; match, and well make it;
+	He ne'er pays after-debts; take it before,
+	And say a soldier, Dian, told thee this,
+	Men are to mell with, boys are not to kiss;
+	For count of this, the count's a fool, I know it,
+	Who pays before, but not when he does owe it.
+	Thine, as he vow'd to thee in thine ear,
+<SPEECH 27><ACT 4><SCENE 3><76%>
+	I perceive, sir, by our general's looks, we shall be fain to hang you.
+<SPEECH 28><ACT 4><SCENE 3><76%>
+	We'll see what may be done, so you confess freely: therefore, once more to this Captain Dumain. You have answered to his reputation with the duke and to his valour: what is his honesty?
+<SPEECH 29><ACT 4><SCENE 3><77%>
+	What say you to his expertness in war?
+<SPEECH 30><ACT 4><SCENE 3><77%>
+	His qualities being at this poor price, I need not ask you, if gold will corrupt him to revolt.
+<SPEECH 31><ACT 4><SCENE 3><77%>
+	What's his brother, the other Captain Dumain?
+<SPEECH 32><ACT 4><SCENE 3><77%>
+	What's he?
+<SPEECH 33><ACT 4><SCENE 3><78%>
+	If your life be saved, will you undertake to betray the Florentine?
+<SPEECH 34><ACT 4><SCENE 3><78%>
+	I'll whisper with the general, and know his pleasure.
+<SPEECH 35><ACT 4><SCENE 3><78%>
+	There is no remedy, sir, but you must die. The general says, you, that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die. Come, headsman, off with his head.
+<SPEECH 36><ACT 4><SCENE 3><78%>
+	That shall you, and take your leave of all your friends.
+	So, look about you: know you any here?
+<SPEECH 37><ACT 4><SCENE 3><79%>
+	You are undone, captain; all but your scarf; that has a knot on't yet.
+<SPEECH 38><ACT 4><SCENE 3><79%>
+	If you could find out a country where but women were that had received so much shame, you might begin an impudent nation. Fare ye well, sir; I am for France too: we shall speak of you there.

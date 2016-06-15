@@ -1,0 +1,35 @@
+<SPEECH 1><ACT 3><SCENE 3><51%>
+	Now, princes, for the service I have done you,
+	The advantage of the time prompts me aloud
+	To call for recompense. Appear it to your mind
+	That through the sight I bear in things to come,
+	I have abandon'd Troy, left my possession,
+	Incurr'd a traitor's name; expos'd myself,
+	From certain and possess'd conveniences,
+	To doubtful fortunes; sequestering from me all
+	That time, acquaintance, custom, and condition
+	Made tame and most familiar to my nature;
+	And here, to do you service, have become
+	As new into the world, strange, unacquainted:
+	I do beseech you, as in way of taste,
+	To give me now a little benefit,
+	Out of those many register'd in promise,
+	Which, you say, live to come in my behalf.
+<SPEECH 2><ACT 3><SCENE 3><51%>
+	You have a Trojan prisoner, call'd Antenor,
+	Yesterday took: Troy holds him very dear.
+	Oft have you—often have you thanks therefore—
+	Desir'd my Cressid in right great exchange,
+	Whom Troy hath still denied; but this Antenor
+	I know is such a wrest in their affairs
+	That their negociations all must slack,
+	Wanting his manage; and they will almost
+	Give us a prince of blood, a son of Priam,
+	In change of him: let him be sent, great princes,
+	And he shall buy my daughter; and her presence
+	Shall quite strike off all service I have done,
+	In most accepted pain.
+<SPEECH 3><ACT 5><SCENE 2><82%>
+	</STAGE DIR> Who calls?
+<SPEECH 4><ACT 5><SCENE 2><83%>
+	</STAGE DIR> She comes to you.

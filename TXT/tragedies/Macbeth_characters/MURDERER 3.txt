@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 3><SCENE 3><48%>
+	Macbeth.
+<SPEECH 2><ACT 3><SCENE 3><49%>
+	Hark! I hear horses.
+<SPEECH 3><ACT 3><SCENE 3><49%>
+	Almost a mile; but he does usually,
+	So all men do, from hence to the palace gate
+	Make it their walk.
+<SPEECH 4><ACT 3><SCENE 3><49%>
+	'Tis he.
+<SPEECH 5><ACT 3><SCENE 3><49%>
+	Who did strike out the light?
+<SPEECH 6><ACT 3><SCENE 3><50%>
+	There's but one down; the son is fled.

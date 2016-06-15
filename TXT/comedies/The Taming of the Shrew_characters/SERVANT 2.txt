@@ -1,0 +1,16 @@
+<SPEECH 1><SCENE 2><6%>
+	Will't please your honour taste of these conserves?
+<SPEECH 2><SCENE 2><7%>
+	O! this it is that makes your servants droop.
+<SPEECH 3><SCENE 2><8%>
+	Dost thou love pictures? we will fetch thee straight
+	Adonis painted by a running brook,
+	And Cytherea all in sedges hid,
+	Which seem to move and wanton with her breath,
+	Even as the waving sedges play with wind.
+<SPEECH 4><SCENE 2><9%>
+	Will't please your mightiness to wash your hands?
+	O, how we joy to see your wit restor'd!
+	O, that once more you knew but what you are!
+	These fifteen years you have been in a dream,
+	Or, when you wak'd, so wak'd as if you slept.

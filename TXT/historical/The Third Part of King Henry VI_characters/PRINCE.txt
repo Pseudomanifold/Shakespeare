@@ -1,0 +1,62 @@
+<SPEECH 1><ACT 1><SCENE 1><9%>
+	Father, you cannot disinherit me:
+	If you be king, why should not I succeed?
+<SPEECH 2><ACT 1><SCENE 1><10%>
+	When I return with victory from the field
+	I'll see your Grace: till then, I'll follow her.
+<SPEECH 3><ACT 2><SCENE 2><29%>
+	My gracious father, by your kingly leave,
+	I'll draw it as apparent to the crown,
+	And in that quarrel use it to the death.
+<SPEECH 4><ACT 2><SCENE 2><29%>
+	My royal father, cheer these noble lords,
+	And hearten those that fight in your defence:
+	Unsheathe your sword, good father: cry, 'Saint George!'
+<SPEECH 5><ACT 2><SCENE 2><31%>
+	If that be right which Warwick says is right,
+	There is no wrong, but everything is right.
+<SPEECH 6><ACT 2><SCENE 5><39%>
+	Fly, father, fly! for all your friends are fled,
+	And Warwick rages like a chafed bull.
+	Away! for death doth hold us in pursuit.
+<SPEECH 7><ACT 3><SCENE 3><56%>
+	And why not queen?
+<SPEECH 8><ACT 3><SCENE 3><58%>
+	To Edward, but not to the English king.
+<SPEECH 9><ACT 3><SCENE 3><59%>
+	Nay, mark how Lewis stamps as he were nettled:
+	I hope all's for the best.
+<SPEECH 10><ACT 3><SCENE 3><62%>
+	Yes, I accept her, for she well deserves it;
+	And here, to pledge my vow, I give my hand.
+<SPEECH 11><ACT 5><SCENE 4><90%>
+	Methinks a woman of this valiant spirit
+	Should, if a coward heard her speak these words,
+	Infuse his breast with magnanimity,
+	And make him, naked, foil a man at arms.
+	I speak not this, as doubting any here;
+	For did I but suspect a fearful man,
+	He should have leave to go away betimes,
+	Lest in our need he might infect another,
+	And make him of like spirit to himself.
+	If any such be here, as God forbid!
+	Let him depart before we need his help.
+<SPEECH 12><ACT 5><SCENE 4><91%>
+	And take his thanks that yet hath nothing else.
+<SPEECH 13><ACT 5><SCENE 5><93%>
+	Speak like a subject, proud ambitious York!
+	Suppose that I am now my father's mouth:
+	Resign thy chair, and where I stand kneel thou,
+	Whilst I propose the self-same words to thee,
+	Which, traitor, thou wouldst have me answer to.
+<SPEECH 14><ACT 5><SCENE 5><93%>
+	Let Æsop fable in a winter's night;
+	His currish riddles sort not with this place.
+<SPEECH 15><ACT 5><SCENE 5><93%>
+	Nay, take away this scolding crookback rather.
+<SPEECH 16><ACT 5><SCENE 5><93%>
+	I know my duty; you are all undutiful:
+	Lascivious Edward, and thou perjur'd George,
+	And thou mis-shapen Dick, I tell ye all,
+	I am your better, traitors as ye are;
+	And thou usurp'st my father's right and mine.

@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 2><SCENE 2><28%>
+	My best endeavours shall be done herein.
+<SPEECH 2><ACT 2><SCENE 2><28%>
+	Yonder, sir, he walks.

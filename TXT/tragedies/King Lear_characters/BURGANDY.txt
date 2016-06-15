@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 1><SCENE 1><6%>
+	Most royal majesty,
+	I crave no more than hath your highness offer'd,
+	Nor will you tender less.
+<SPEECH 2><ACT 1><SCENE 1><6%>
+	I know no answer.
+<SPEECH 3><ACT 1><SCENE 1><6%>
+	Pardon me, royal sir;
+	Election makes not up on such conditions.
+<SPEECH 4><ACT 1><SCENE 1><7%>
+	Royal Lear,
+	Give but that portion which yourself propos'd,
+	And here I take Cordelia by the hand,
+	Duchess of Burgundy.
+<SPEECH 5><ACT 1><SCENE 1><8%>
+	I am sorry, then, you have so lost a father
+	That you must lose a husband.

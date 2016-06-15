@@ -1,0 +1,37 @@
+<SPEECH 1><ACT 4><SCENE 2><67%>
+	From France to England. Never such a power
+	For any foreign preparation
+	Was levied in the body of a land.
+	The copy of your speed is learn'd by them;
+	For when you should be told they do prepare,
+	The tidings come that they are all arriv'd.
+<SPEECH 2><ACT 4><SCENE 2><68%>
+	My liege, her ear
+	Is stopp'd with dust: the first of April died
+	Your noble mother; and, as I hear, my lord,
+	The Lady Constance in a frenzy died
+	Three days before: but this from rumour's tongue
+	I idly heard; if true or false I know not.
+<SPEECH 3><ACT 4><SCENE 2><68%>
+	Under the Dauphin.
+<SPEECH 4><ACT 4><SCENE 2><70%>
+	With all my heart, my liege.
+<SPEECH 5><ACT 5><SCENE 3><90%>
+	My lord, your valiant kinsman, Faulconbridge,
+	Desires your majesty to leave the field,
+	And send him word by me which way you go.
+<SPEECH 6><ACT 5><SCENE 3><90%>
+	Be of good comfort: for the great supply
+	That was expected by the Dauphin here,
+	Are wrack'd three nights ago on Goodwin sands.
+	This news was brought to Richard but even now.
+	The French fight coldly, and retire themselves.
+<SPEECH 7><ACT 5><SCENE 5><93%>
+	Where is my prince, the Dauphin?
+<SPEECH 8><ACT 5><SCENE 5><93%>
+	The Count Melun is slain; the English lords,
+	By his persuasion, are again fall'n off;
+	And your supply, which you have wish'd so long,
+	Are cast away and sunk, on Goodwin sands.
+<SPEECH 9><ACT 5><SCENE 5><93%>
+	Whoever spoke it, it is true, my lord.

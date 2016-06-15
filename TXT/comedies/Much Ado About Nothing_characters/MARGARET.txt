@@ -1,0 +1,52 @@
+<SPEECH 1><ACT 2><SCENE 1><19%>
+	So would not I, for your own sake; for I have many ill qualities.
+<SPEECH 2><ACT 2><SCENE 1><19%>
+	I say my prayers aloud.
+<SPEECH 3><ACT 2><SCENE 1><19%>
+	God match me with a good dancer!
+<SPEECH 4><ACT 2><SCENE 1><19%>
+	And God keep him out of my sight when the dance is done! Answer, clerk.
+<SPEECH 5><ACT 3><SCENE 1><42%>
+	I'll make her come, I warrant you, presently.
+<SPEECH 6><ACT 3><SCENE 4><57%>
+	Troth, I think your other rabato were better.
+<SPEECH 7><ACT 3><SCENE 4><57%>
+	By my troth's not so good; and I warrant your cousin will say so.
+<SPEECH 8><ACT 3><SCENE 4><57%>
+	I like the new tire within excellently, if the hair were a thought browner; and your gown's a most rare fashion, i' faith. I saw the Duchess of Milan's gown that they praise so.
+<SPEECH 9><ACT 3><SCENE 4><57%>
+	By my troth's but a night-gown in respect of yours: cloth o' gold, and cuts, and laced with silver, set with pearls, down sleeves, side sleeves, and skirts round, underborne with a bluish tinsel; but for a fine, quaint, graceful, and excellent fashion, yours is worth ten on't.
+<SPEECH 10><ACT 3><SCENE 4><57%>
+	'Twill be heavier soon by the weight of a man.
+<SPEECH 11><ACT 3><SCENE 4><58%>
+	Of what, lady? of speaking honourably? is not marriage honourable in a beggar? Is not your lord honourable without marriage? I think you would have me say, 'saving your reverence, a husband:' an bad thinking do not wrest true speaking, I'll offend nobody. Is there any harm in 'the heavier for a husband?' None, I think, an it be the right husband and the right wife; otherwise 'tis light, and not heavy: ask my Lady Beatrice else; here she comes.
+<SPEECH 12><ACT 3><SCENE 4><58%>
+	Clap's into 'Light o' love;' that goes without a burden: do you sing it, and I'll dance it.
+<SPEECH 13><ACT 3><SCENE 4><58%>
+	O illegitimate construction! I scorn that with my heels.
+<SPEECH 14><ACT 3><SCENE 4><58%>
+	For a hawk, a horse, or a husband?
+<SPEECH 15><ACT 3><SCENE 4><58%>
+	Well, an you be not turned Turk, there's no more sailing by the star.
+<SPEECH 16><ACT 3><SCENE 4><59%>
+	Nothing I; but God send every one their heart's desire!
+<SPEECH 17><ACT 3><SCENE 4><59%>
+	A maid, and stuffed! there's goodly catching of cold.
+<SPEECH 18><ACT 3><SCENE 4><59%>
+	Ever since you left it. Doth not my wit become me rarely!
+<SPEECH 19><ACT 3><SCENE 4><59%>
+	Get you some of this distilled Carduus Benedictus, and lay it to your heart: it is the only thing for a qualm.
+<SPEECH 20><ACT 3><SCENE 4><59%>
+	Moral! no, by my troth, I have no moral meaning; I meant, plain holy-thistle. You may think, perchance, that I think you are in love: nay, by'r lady, I am not such a fool to think what I list; nor I list not to think what I can; nor, indeed, I cannot think, if I would think my heart out of thinking, that you are in love, or that you will be in love, or that you can be in love. Yet Benedick was such another, and now is he become a man: he swore he would never marry; and yet now, in despite of his heart, he eats his meat without grudging: and how you may be converted, I know not; but methinks you look with your eyes as other women do.
+<SPEECH 21><ACT 3><SCENE 4><60%>
+	Not a false gallop.
+<SPEECH 22><ACT 5><SCENE 2><90%>
+	Will you then write me a sonnet in praise of my beauty?
+<SPEECH 23><ACT 5><SCENE 2><90%>
+	To have no man come over me! why, shall I always keep below stairs?
+<SPEECH 24><ACT 5><SCENE 2><90%>
+	And yours as blunt as the fencer's foils, which hit, but hurt not.
+<SPEECH 25><ACT 5><SCENE 2><90%>
+	Give us the swords, we have bucklers of our own.
+<SPEECH 26><ACT 5><SCENE 2><91%>
+	Well, I will call Beatrice to you, who I think hath legs.

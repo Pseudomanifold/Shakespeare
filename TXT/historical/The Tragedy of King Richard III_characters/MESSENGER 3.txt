@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 4><SCENE 4><85%>
+	My lord, the army of great Buckingham—
+<SPEECH 2><ACT 4><SCENE 4><85%>
+	The news I have to tell your majesty
+	Is, that by sudden floods and fall of waters,
+	Buckingham's army is dispers'd and scatter'd;
+	And he himself wander'd away alone,
+	No man knows whither.
+<SPEECH 3><ACT 4><SCENE 4><85%>
+	Such proclamation hath been made, my liege.

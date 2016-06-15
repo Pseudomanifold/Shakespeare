@@ -1,0 +1,287 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+	If the Duke with the other dukes come not to composition with the King of Hungary, why then, all the dukes fall upon the king.
+<SPEECH 2><ACT 1><SCENE 2><4%>
+	Thou concludest like the sanctimonious pirate, that went to sea with the Ten Commandments, but scraped one out of the table.
+<SPEECH 3><ACT 1><SCENE 2><4%>
+	Ay, that he razed.
+<SPEECH 4><ACT 1><SCENE 2><4%>
+	I believe thee, for I think thou never wast where grace was said.
+<SPEECH 5><ACT 1><SCENE 2><4%>
+	In any proportion or in any language.
+<SPEECH 6><ACT 1><SCENE 2><4%>
+	Ay; why not? Grace is grace, despite of all controversy: as, for example, thou thyself art a wicked villain, despite of all grace.
+<SPEECH 7><ACT 1><SCENE 2><4%>
+	I grant; as there may between the lists and the velvet: thou art the list.
+<SPEECH 8><ACT 1><SCENE 2><5%>
+	I think thou dost; and, indeed, with most painful feeling of thy speech: I will, out of thine own confession, learn to begin thy health; but, whilst I live, forget to drink after thee.
+<SPEECH 9><ACT 1><SCENE 2><5%>
+	Behold, behold, where Madam Mitigation comes! I have purchased as many diseases under her roof as come to—
+<SPEECH 10><ACT 1><SCENE 2><5%>
+	Judge.
+<SPEECH 11><ACT 1><SCENE 2><5%>
+	A French crown more.
+<SPEECH 12><ACT 1><SCENE 2><5%>
+	Nay, not as one would say, healthy; but so sound as things that are hollow: thy bones are hollow; impiety has made a feast of thee.
+<SPEECH 13><ACT 1><SCENE 2><6%>
+	But, after all this fooling, I would not have it so. Art thou sure of this?
+<SPEECH 14><ACT 1><SCENE 2><6%>
+	Believe me, this may be: he promised to meet me two hours since, and he was ever precise in promise-keeping.
+<SPEECH 15><ACT 1><SCENE 2><6%>
+	Away! let's go learn the truth of it.
+<SPEECH 16><ACT 1><SCENE 2><8%>
+	Why, how now, Claudio! whence comes this restraint?
+<SPEECH 17><ACT 1><SCENE 2><8%>
+	If I could speak so wisely under an arrest, I would send for certain of my creditors. And yet, to say the truth, I had as lief have the foppery of freedom as the morality of imprisonment. What's thy offence, Claudio?
+<SPEECH 18><ACT 1><SCENE 2><8%>
+	What, is't murder?
+<SPEECH 19><ACT 1><SCENE 2><8%>
+	Lechery?
+<SPEECH 20><ACT 1><SCENE 2><8%>
+	A hundred, if they'll do you any good.
+	Is lechery so looked after?
+<SPEECH 21><ACT 1><SCENE 2><9%>
+	With child, perhaps?
+<SPEECH 22><ACT 1><SCENE 2><9%>
+	I warrant it is: and thy head stands so tickle on thy shoulders that a milkmaid, if she be in love, may sigh it off. Send after the duke and appeal to him.
+<SPEECH 23><ACT 1><SCENE 2><10%>
+	I pray she may: as well for the encouragement of the like, which else would stand under grievous imposition, as for the enjoying of thy life, who I would be sorry should be thus foolishly lost at a game of tick-tack. I'll to her.
+<SPEECH 24><ACT 1><SCENE 2><10%>
+	Within two hours.
+<SPEECH 25><ACT 1><SCENE 4><12%>
+	</STAGE DIR> Ho! Peace be in this place!
+<SPEECH 26><ACT 1><SCENE 4><13%>
+	Hail, virgin, if you be, as those cheek-roses
+	Proclaim you are no less! Can you so stead me
+	As bring me to the sight of Isabella,
+	A novice of this place, and the fair sister
+	To her unhappy brother Claudio?
+<SPEECH 27><ACT 1><SCENE 4><13%>
+	Gentle and fair, your brother kindly greets you:
+	Not to be weary with you, he's in prison.
+<SPEECH 28><ACT 1><SCENE 4><13%>
+	For that which, if myself might be his judge,
+	He should receive his punishment in thanks:
+	He hath got his friend with child.
+<SPEECH 29><ACT 1><SCENE 4><13%>
+	It is true.
+	I would not, though 'tis my familiar sin
+	With maids to seem the lapwing and to jest,
+	Tongue far from heart, play with all virgins so:
+	I hold you as a thing ensky'd and sainted;
+	By your renouncement an immortal spirit,
+	And to be talk'd with in sincerity,
+	As with a saint.
+<SPEECH 30><ACT 1><SCENE 4><13%>
+	Do not believe it. Fewness and truth, 'tis thus:
+	Your brother and his lover have embrac'd:
+	As those that feed grow full, as blossoming time
+	That from the seedness the bare fallow brings
+	To teeming foison, even so her plenteous womb
+	Expresseth his full tilth and husbandry.
+<SPEECH 31><ACT 1><SCENE 4><14%>
+	Is she your cousin?
+<SPEECH 32><ACT 1><SCENE 4><14%>
+	She it is.
+<SPEECH 33><ACT 1><SCENE 4><14%>
+	This is the point.
+	The duke is very strangely gone from hence;
+	Bore many gentlemen, myself being one,
+	In hand and hope of action; but we do learn
+	By those that know the very nerves of state,
+	His givings out were of an infinite distance
+	From his true-meant design. Upon his place,
+	And with full line of his authority,
+	Governs Lord Angelo; a man whose blood
+	Is very snow-broth; one who never feels
+	The wanton stings and motions of the sense,
+	But doth rebate and blunt his natural edge
+	With profits of the mind, study and fast.
+	He,—to give fear to use and liberty,
+	Which have for long run by the hideous law,
+	As mice by lions, hath pick'd out an act,
+	Under whose heavy sense your brother's life
+	Falls into forfeit: he arrests him on it,
+	And follows close the rigour of the statute,
+	To make him an example. All hope is gone,
+	Unless you have the grace by your fair prayer
+	To soften Angelo; and that's my pith of business
+	Twixt you and your poor brother.
+<SPEECH 34><ACT 1><SCENE 4><14%>
+	He's censur'd him
+	Already; and, as I hear, the provost hath
+	A warrant for his execution.
+<SPEECH 35><ACT 1><SCENE 4><15%>
+	Assay the power you have.
+<SPEECH 36><ACT 1><SCENE 4><15%>
+	Our doubts are traitors,
+	And make us lose the good we oft might win,
+	By fearing to attempt. Go to Lord Angelo,
+	And let him learn to know, when maidens sue,
+	Men give like gods; but when they weep and kneel,
+	All their petitions are as freely theirs
+	As they themselves would owe them.
+<SPEECH 37><ACT 1><SCENE 4><15%>
+	But speedily.
+<SPEECH 38><ACT 1><SCENE 4><15%>
+	I take my leave of you.
+<SPEECH 39><ACT 2><SCENE 2><27%>
+	</STAGE DIR> Give't not o'er so: to him again, entreat him;
+	Kneel down before him, hang upon his gown;
+	You are too cold; if you should need a pin,
+	You could not with more tame a tongue desire it.
+	To him. I say!
+<SPEECH 40><ACT 2><SCENE 2><27%>
+	</STAGE DIR> You are too cold.
+<SPEECH 41><ACT 2><SCENE 2><28%>
+	</STAGE DIR> Ay, touch him; there's the vein.
+<SPEECH 42><ACT 2><SCENE 2><29%>
+	</STAGE DIR> Ay, well said.
+<SPEECH 43><ACT 2><SCENE 2><29%>
+	</STAGE DIR> That's well said.
+<SPEECH 44><ACT 2><SCENE 2><30%>
+	</STAGE DIR> O, to him, to him, wench! He will relent:
+	He's coming: I perceive't.
+<SPEECH 45><ACT 2><SCENE 2><30%>
+	</STAGE DIR> Thou'rt in the right, girl: more o' that.
+<SPEECH 46><ACT 2><SCENE 2><30%>
+	</STAGE DIR> Art advis'd o' that? more on 't.
+<SPEECH 47><ACT 2><SCENE 2><31%>
+	</STAGE DIR> You had marr'd all else.
+<SPEECH 48><ACT 2><SCENE 2><31%>
+	</STAGE DIR> Go to; 'tis well: away!
+<SPEECH 49><ACT 3><SCENE 2><52%>
+	How now, noble Pompey! What, at the wheels of Cæsar? Art thou led in triumph? What, is there none of Pygmalion's images, newly made woman, to he had now, for putting the hand in the pocket and extracting it clutched? What reply? ha? What say'st thou to this tune, matter and method? Is't not drowned i' the last rain, ha? What sayest thou Trot? Is the world as it was, man? Which is the way? Is it sad, and few words, or how? The trick of it?
+<SPEECH 50><ACT 3><SCENE 2><52%>
+	How doth my dear morsel, thy mistress? Procures she still, ha?
+<SPEECH 51><ACT 3><SCENE 2><53%>
+	Why, 'tis good; it is the right of it; it must be so: ever your fresh whore and your powdered bawd: an unshunned consequence; it must be so. Art going to prison, Pompey?
+<SPEECH 52><ACT 3><SCENE 2><53%>
+	Why, 'tis not amiss, Pompey. Farewell. Go, say I sent thee thither. For debt, Pompey? or how?
+<SPEECH 53><ACT 3><SCENE 2><53%>
+	Well, then, imprison him. If imprisonment be the due of a bawd, why, 'tis his right: bawd is he, doubtless, and of antiquity too; bawd-born. Farewell, good Pompey. Commend me to the prison, Pompey. You will turn good husband now, Pompey; you will keep the house.
+<SPEECH 54><ACT 3><SCENE 2><53%>
+	No, indeed will I not, Pompey; it is not the wear. I will pray, Pompey, to increase your bondage: if you take it not patiently, why, your mettle is the more. Adieu, trusty Pompey. Bless you, friar.
+<SPEECH 55><ACT 3><SCENE 2><53%>
+	Does Bridget paint still, Pompey, ha?
+<SPEECH 56><ACT 3><SCENE 2><53%>
+	Then, Pompey, nor now. What news abroad, friar? What news?
+<SPEECH 57><ACT 3><SCENE 2><53%>
+	Go to kennel, Pompey; go.
+	What news, friar, of the duke?
+<SPEECH 58><ACT 3><SCENE 2><54%>
+	Some say he is with the Emperor of Russia; other some, he is in Rome: but where is he, think you?
+<SPEECH 59><ACT 3><SCENE 2><54%>
+	It was a mad fantastical trick of him to steal from the state, and usurp the beggary he was never born to. Lord Angelo dukes it well in his absence; he puts transgression to't.
+<SPEECH 60><ACT 3><SCENE 2><54%>
+	A little more lenity to lechery would do no harm in him: something too crabbed that way, friar.
+<SPEECH 61><ACT 3><SCENE 2><54%>
+	Yes, in good sooth, the vice is of a great kindred; it is well allied; but it is impossible to extirp it quite, friar, till eating and drinking be put down. They say this Angelo was not made by man and woman after this downright way of creation: is it true, think you?
+<SPEECH 62><ACT 3><SCENE 2><54%>
+	Some report a sea-maid spawn'd him; some that he was begot between two stock-fishes. But it is certain that when he makes water his urine is congealed ice; that I know to be true; and he is a motion generative; that's infallible.
+<SPEECH 63><ACT 3><SCENE 2><54%>
+	Why, what a ruthless thing is this in him, for the rebellion of a cod-piece to take away the life of a man! Would the duke that is absent have done this? Ere he would have hanged a man for the getting a hundred bastards, he would have paid for the nursing a thousand: he had some feeling of the sport; he knew the service, and that instructed him to mercy.
+<SPEECH 64><ACT 3><SCENE 2><55%>
+	O, sir, you are deceived.
+<SPEECH 65><ACT 3><SCENE 2><55%>
+	Who? not the duke? yes, your beggar of fifty, and his use was to put a ducat in her clack-dish; the duke had crotchets in him. He would be drunk too; that let me inform you.
+<SPEECH 66><ACT 3><SCENE 2><55%>
+	Sir, I was an inward of his. A shy fellow was the duke; and, I believe I know the cause of his withdrawing.
+<SPEECH 67><ACT 3><SCENE 2><55%>
+	No, pardon; 'tis a secret must be locked within the teeth and the lips; but this I can let you understand, the greater file of the subject held the duke to be wise.
+<SPEECH 68><ACT 3><SCENE 2><55%>
+	A very superficial, ignorant, unweighing fellow.
+<SPEECH 69><ACT 3><SCENE 2><56%>
+	Sir, I know him, and I love him.
+<SPEECH 70><ACT 3><SCENE 2><56%>
+	Come, sir, I know what I know.
+<SPEECH 71><ACT 3><SCENE 2><56%>
+	Sir, my name is Lucio, well known to the duke.
+<SPEECH 72><ACT 3><SCENE 2><56%>
+	I fear you not.
+<SPEECH 73><ACT 3><SCENE 2><56%>
+	I'll be hanged first: thou art deceived in me, friar. But no more of this. Canst thou tell if Claudio die to-morrow or no?
+<SPEECH 74><ACT 3><SCENE 2><56%>
+	Why? for filling a bottle with a tundish. I would the duke we talk of were returned again: this ungenitured agent will unpeople the province with continency; sparrows must not build in his house-eaves, because they are lecherous. The duke yet would have dark deeds darkly answered; he would never bring them to light: would he were returned! Marry, this Claudio is condemned for untrussing. Farewell, good friar; I prithee, pray for me. The duke, I say to thee again, would eat mutton on Fridays. He's not past it yet, and I say to thee, he would mouth with a beggar, though she smelt brown bread and garlic: say that I said so. Farewell.
+<SPEECH 75><ACT 4><SCENE 3><76%>
+	Good even. Friar, where is the provost?
+<SPEECH 76><ACT 4><SCENE 3><77%>
+	O pretty Isabella, I am pale at mine heart to see thine eyes so red: thou must be patient. I am fain to dine and sup with water and bran; I dare not for my head fill my belly; one fruitful meal would set me to't. But they say the duke will be here to-morrow. By my troth, Isabel, I loved thy brother: if the old fantastical duke of dark corners had been at home, he had lived.
+<SPEECH 77><ACT 4><SCENE 3><77%>
+	Friar, thou knowest not the duke so well as I do: he's a better woodman than thou takest him for.
+<SPEECH 78><ACT 4><SCENE 3><77%>
+	Nay, tarry; I'll go along with thee: I can tell thee pretty tales of the duke.
+<SPEECH 79><ACT 4><SCENE 3><77%>
+	I was once before him for getting a wench with child.
+<SPEECH 80><ACT 4><SCENE 3><77%>
+	Yes, marry, did I; but I was fain to forswear it: they would else have married me to the rotten medlar.
+<SPEECH 81><ACT 4><SCENE 3><77%>
+	By my troth, I'll go with thee to the lane's end. If bawdy talk offend you, we'll have very little of it. Nay, friar, I am a kind of burr; I shall stick.
+<SPEECH 82><ACT 5><SCENE 1><83%>
+	That's I, an't like your Grace:
+	I came to her from Claudio, and desir'd her
+	To try her gracious fortune with Lord Angelo
+	For her poor brother's pardon.
+<SPEECH 83><ACT 5><SCENE 1><83%>
+	No, my good lord;
+	Nor wish'd to hold my peace.
+<SPEECH 84><ACT 5><SCENE 1><83%>
+	I warrant your honour.
+<SPEECH 85><ACT 5><SCENE 1><84%>
+	Right.
+<SPEECH 86><ACT 5><SCENE 1><85%>
+	My lord, I know him; 'tis a meddling friar;
+	I do not like the man: had he been lay, my lord,
+	For certain words he spake against your Grace
+	In your retirement, I had swing'd him soundly.
+<SPEECH 87><ACT 5><SCENE 1><85%>
+	But yesternight, my lord, she and that friar,
+	I saw them at the prison: a saucy friar,
+	A very scurvy fellow.
+<SPEECH 88><ACT 5><SCENE 1><86%>
+	My lord, most villanously; believe it.
+<SPEECH 89><ACT 5><SCENE 1><87%>
+	My lord, she may be a punk; for many of them are neither maid, widow, nor wife.
+<SPEECH 90><ACT 5><SCENE 1><87%>
+	Well, my lord.
+<SPEECH 91><ACT 5><SCENE 1><87%>
+	He was drunk then my lord: it can be no better.
+<SPEECH 92><ACT 5><SCENE 1><87%>
+	Well, my lord.
+<SPEECH 93><ACT 5><SCENE 1><88%>
+	Carnally, she says.
+<SPEECH 94><ACT 5><SCENE 1><88%>
+	Enough, my lord.
+<SPEECH 95><ACT 5><SCENE 1><90%>
+	Cucullus non facit monachum: honest in nothing, but in his clothes; and one that hath spoke most villanous speeches of the duke.
+<SPEECH 96><ACT 5><SCENE 1><90%>
+	As any in Vienna, on my word.
+<SPEECH 97><ACT 5><SCENE 1><90%>
+	Not better than he, by her own report.
+<SPEECH 98><ACT 5><SCENE 1><90%>
+	Marry, sir, I think, if you handled her privately, she would sooner confess: perchance, publicly, she'll be ashamed.
+<SPEECH 99><ACT 5><SCENE 1><90%>
+	That's the way: for women are light at midnight.
+<SPEECH 100><ACT 5><SCENE 1><90%>
+	My lord, here comes the rascal I spoke of; here with the provost.
+<SPEECH 101><ACT 5><SCENE 1><91%>
+	Mum.
+<SPEECH 102><ACT 5><SCENE 1><91%>
+	This is the rascal: this is he I spoke of.
+<SPEECH 103><ACT 5><SCENE 1><92%>
+	'Tis he, my lord. Come hither, goodman bald-pate: do you know me?
+<SPEECH 104><ACT 5><SCENE 1><92%>
+	O! did you so? And do you remember what you said of the duke?
+<SPEECH 105><ACT 5><SCENE 1><92%>
+	Do you so, sir? And was the duke a flesh-monger, a fool, and a coward, as you then reported him to be?
+<SPEECH 106><ACT 5><SCENE 1><92%>
+	O thou damnable fellow! Did not I pluck thee by the nose for thy speeches?
+<SPEECH 107><ACT 5><SCENE 1><93%>
+	Come, sir; come, sir; come, sir; foh! sir. Why, you bald-pated, lying rascal, you must be hooded, must you? show your knave's visage, with a pox to you! show your sheepbiting face, and be hanged an hour! Will't not off?
+<SPEECH 108><ACT 5><SCENE 1><93%>
+	This may prove worse than hanging.
+<SPEECH 109><ACT 5><SCENE 1><99%>
+	'Faith, my lord, I spoke it but according to the trick. If you will hang me for it, you may; but I had rather it would please you I might be whipped.
+<SPEECH 110><ACT 5><SCENE 1><99%>
+	I beseech your highness, do not marry me to a whore. Your highness said even now, I made you a duke: good my lord, do not recompense me in making me a cuckold.
+<SPEECH 111><ACT 5><SCENE 1><99%>
+	Marrying a punk, my lord, is pressing to death, whipping, and hanging.

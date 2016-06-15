@@ -1,0 +1,27 @@
+<SPEECH 1><ACT 3><SCENE 2><55%>
+	We will be satisfied: let us be satisfied.
+<SPEECH 2><ACT 3><SCENE 2><57%>
+	None, Brutus, none.
+<SPEECH 3><ACT 3><SCENE 2><57%>
+	Live, Brutus! live! live!
+<SPEECH 4><ACT 3><SCENE 2><59%>
+	Peace, ho! let us hear him.
+<SPEECH 5><ACT 3><SCENE 2><61%>
+	The will, the will! we will hear Cæsar's will.
+<SPEECH 6><ACT 3><SCENE 2><62%>
+	The will! the testament!
+<SPEECH 7><ACT 3><SCENE 2><62%>
+	Come down.
+<SPEECH 8><ACT 3><SCENE 2><62%>
+	Stand back! room! bear back!
+<SPEECH 9><ACT 3><SCENE 2><63%>
+	Revenge!—About!—Seek!—Burn!
+	Fire!—Kill!—Slay! Let not a traitor live.
+<SPEECH 10><ACT 3><SCENE 2><64%>
+	We'll mutiny.
+<SPEECH 11><ACT 3><SCENE 2><65%>
+	Peace, ho!—Hear Antony,—most noble Antony.
+<SPEECH 12><ACT 3><SCENE 2><65%>
+	Most true. The will! let's stay and hear the will.
+<SPEECH 13><ACT 3><SCENE 2><65%>
+	Peace, ho!

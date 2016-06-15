@@ -1,0 +1,27 @@
+<SPEECH 1><ACT 4><SCENE 1><67%>
+	If there be ten, shrink not, but down with 'em.
+<SPEECH 2><ACT 4><SCENE 1><68%>
+	Peace! we'll hear him.
+<SPEECH 3><ACT 4><SCENE 1><68%>
+	Whither travel you?
+<SPEECH 4><ACT 4><SCENE 1><68%>
+	What! were you banish'd thence?
+<SPEECH 5><ACT 4><SCENE 1><68%>
+	For what offence?
+<SPEECH 6><ACT 4><SCENE 1><69%>
+	Have you the tongues?
+<SPEECH 7><ACT 4><SCENE 1><69%>
+	Tell us this: have you anything to take to?
+<SPEECH 8><ACT 4><SCENE 1><69%>
+	And I from Mantua, for a gentleman,
+	Who, in my mood, I stabb'd unto the heart.
+<SPEECH 9><ACT 4><SCENE 1><70%>
+	Indeed, because you are a banish'd man,
+	Therefore, above the rest, we parley to you.
+	Are you content to be our general?
+	To make a virtue of necessity
+	And live, as we do, in this wilderness?
+<SPEECH 10><ACT 4><SCENE 1><70%>
+	Thou shalt not live to brag what we have offer'd.
+<SPEECH 11><ACT 5><SCENE 3><92%>
+	Come, bring her away.

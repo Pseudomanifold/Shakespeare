@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 3><SCENE 2><35%>
+	I say gud day, Captain Fluellen.
+<SPEECH 2><ACT 3><SCENE 2><36%>
+	It sall be vary gud, gud feith, gud captains bath: <STAGE DIR>
+	</STAGE DIR> and I sall quit you with gud leve, as I may pick occasion; that sall I, marry.
+<SPEECH 3><ACT 3><SCENE 2><36%>
+	By the mess, ere theise eyes of mine take themselves to slumber, aile do gud service, or aile lig i' the grund for it; ay, or go to death; and aile pay it as valorously as I may, that sal I suerly do, that is the breff and the long. Marry, I wad full fain heard some question 'tween you tway.
+<SPEECH 4><ACT 3><SCENE 2><37%>
+	A! that's a foul fault.

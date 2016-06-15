@@ -1,0 +1,205 @@
+<SPEECH 1><ACT 1><SCENE 1><13%>
+	To cart her rather: she's too rough for me.
+	There, there, Hortensio, will you any wife?
+<SPEECH 2><ACT 1><SCENE 1><14%>
+	And me too, good Lord!
+<SPEECH 3><ACT 1><SCENE 1><14%>
+	Why will you mew her up,
+	Signior Baptista, for this fiend of hell,
+	And make her bear the penance of her tongue?
+<SPEECH 4><ACT 1><SCENE 1><15%>
+	You may go to the devil's dam: your gifts are so good, here's none will hold you. Their love is not so great, Hortensio, but we may blow our nails together, and fast it fairly out: our cake's dough on both sides. Farewell: yet, for the love I bear my sweet Bianca, if I can by any means light on a fit man to teach her that wherein she delights, I will wish him to her father.
+<SPEECH 5><ACT 1><SCENE 1><15%>
+	What's that, I pray?
+<SPEECH 6><ACT 1><SCENE 1><16%>
+	A husband! a devil.
+<SPEECH 7><ACT 1><SCENE 1><16%>
+	I say, a devil. Thinkest thou, Hortensio, though her father be very rich, any man is so very a fool to be married to hell?
+<SPEECH 8><ACT 1><SCENE 1><16%>
+	I cannot tell; but I had as lief take her dowry with this condition, to be whipped at the high-cross every morning.
+<SPEECH 9><ACT 1><SCENE 1><16%>
+	I am agreed: and would I had given him the best horse in Padua to begin his wooing, that would thoroughly woo her, wed her, and bed her, and rid the house of her. Come on.
+<SPEECH 10><ACT 1><SCENE 2><26%>
+	O! very well; I have perus'd the note.
+	Hark you, sir; I'll have them very fairly bound:
+	All books of love, see that at any hand,
+	And see you read no other lectures to her.
+	You understand me. Over and beside
+	Signior Baptista's liberality,
+	I'll mend it with a largess. Take your papers too,
+	And let me have them very well perfum'd;
+	For she is sweeter than perfume itself
+	To whom they go to. What will you read to her?
+<SPEECH 11><ACT 1><SCENE 2><26%>
+	O! this learning, what a thing it is.
+<SPEECH 12><ACT 1><SCENE 2><26%>
+	And you're well met, Signior Hortensio.
+	Trow you whither I am going? To Baptista Minola.
+	I promis'd to inquire carefully
+	About a schoolmaster for the fair Bianca;
+	And, by good fortune, I have lighted well
+	On this young man; for learning and behaviour
+	Fit for her turn; well read in poetry
+	And other books, good ones, I warrant ye.
+<SPEECH 13><ACT 1><SCENE 2><27%>
+	Belov'd of me, and that my deeds shall prove.
+<SPEECH 14><ACT 1><SCENE 2><27%>
+	So said, so done, is well.
+	Hortensio, have you told him all her faults?
+<SPEECH 15><ACT 1><SCENE 2><27%>
+	No, sayst me so, friend? What countryman?
+<SPEECH 16><ACT 1><SCENE 2><27%>
+	O, sir, such a life, with such a wife, were strange!
+	But if you have a stomach, to't i' God's name:
+	You shall have me assisting you in all.
+	But will you woo this wild-cat?
+<SPEECH 17><ACT 1><SCENE 2><28%>
+	Hortensio, hark:
+	This gentleman is happily arriv'd,
+	My mind presumes, for his own good and ours.
+<SPEECH 18><ACT 1><SCENE 2><28%>
+	And so we will, provided that he win her.
+<SPEECH 19><ACT 1><SCENE 2><29%>
+	Hark you, sir; you mean not her to—
+<SPEECH 20><ACT 1><SCENE 2><29%>
+	No; if without more words you will get you hence.
+<SPEECH 21><ACT 1><SCENE 2><29%>
+	But so is not she.
+<SPEECH 22><ACT 1><SCENE 2><29%>
+	For this reason, if you'll know,
+	That she's the choice love of Signior Gremio.
+<SPEECH 23><ACT 1><SCENE 2><29%>
+	What! this gentleman will out-talk us all.
+<SPEECH 24><ACT 1><SCENE 2><30%>
+	Yea, leave that labour to great Hercules,
+	And let it be more than Alcides' twelve.
+<SPEECH 25><ACT 2><SCENE 1><33%>
+	Good morrow, neighbour Baptista.
+<SPEECH 26><ACT 2><SCENE 1><33%>
+	You are too blunt: go to it orderly.
+<SPEECH 27><ACT 2><SCENE 1><34%>
+	Saving your tale, Petruchio, I pray,
+	Let us, that are poor petitioners, speak too.
+	Backare! you are marvellous forward.
+<SPEECH 28><ACT 2><SCENE 1><34%>
+	I doubt it not, sir; but you will curse your wooing.
+	Neighbour, this is a gift very grateful, I am sure of it. To express the like kindness myself, that have been more kindly beholding to you than any, freely give unto you this young scholar, <STAGE DIR>
+	</STAGE DIR> that has been long studying at Rheims; as cunning in Greek, Latin, and other languages, as the other in music and mathematics. His name is Cambio; pray accept his service.
+<SPEECH 29><ACT 2><SCENE 1><42%>
+	Hark, Petruchio: she says she'll see thee hang'd first.
+<SPEECH 30><ACT 2><SCENE 1><43%>
+	Amen, say we: we will be witnesses.
+<SPEECH 31><ACT 2><SCENE 1><43%>
+	Was ever match clapp'd up so suddenly?
+<SPEECH 32><ACT 2><SCENE 1><44%>
+	No doubt but he hath got a quiet catch.
+	But now, Baptista, to your younger daughter:
+	Now is the day we long have looked for:
+	I am your neighbour, and was suitor first.
+<SPEECH 33><ACT 2><SCENE 1><44%>
+	Youngling, thou canst not love so dear as I.
+<SPEECH 34><ACT 2><SCENE 1><44%>
+	But thine doth fry.
+	Skipper, stand back: 'tis age that nourisheth.
+<SPEECH 35><ACT 2><SCENE 1><44%>
+	First, as you know, my house within the city
+	Is richly furnished with plate and gold:
+	Basins and ewers to lave her dainty hands;
+	My hangings all of Tyrian tapestry;
+	In ivory coffers I have stuff'd my crowns;
+	In cypress chests my arras counterpoints,
+	Costly apparel, tents, and canopies,
+	Fine linen, Turkey cushions boss'd with pearl,
+	Valance of Venice gold in needle-work,
+	Pewter and brass, and all things that belong
+	To house or housekeeping: then, at my farm
+	I have a hundred milch-kine to the pail,
+	Six score fat oxen standing in my stalls,
+	And all things answerable to this portion.
+	Myself am struck in years, I must confess;
+	And if I die to-morrow, this is hers,
+	If whilst I live she will be only mine.
+<SPEECH 36><ACT 2><SCENE 1><45%>
+	Two thousand ducats by the year of land!
+	My land amounts not to so much in all:
+	That she shall have; besides an argosy
+	That now is lying in Marseilles' road.
+	What, have I chok'd you with an argosy?
+<SPEECH 37><ACT 2><SCENE 1><45%>
+	Nay, I have offer'd all, I have no more;
+	And she can have no more than all I have:
+	If you like me, she shall have me and mine.
+<SPEECH 38><ACT 2><SCENE 1><46%>
+	And may not young men die as well as old?
+<SPEECH 39><ACT 2><SCENE 1><46%>
+	Adieu, good neighbour. <STAGE DIR>
+	</STAGE DIR> Now I fear thee not:
+	Sirrah young gamester, your father were a fool
+	To give thee all, and in his waning age
+	Set foot under thy table. Tut! a toy!
+	An old Italian fox is not so kind, my boy.
+<SPEECH 40><ACT 3><SCENE 2><56%>
+	As willingly as e'er I came from school.
+<SPEECH 41><ACT 3><SCENE 2><56%>
+	A bridegroom say you? 'Tis a groom indeed,
+	A grumbling groom, and that the girl shall find.
+<SPEECH 42><ACT 3><SCENE 2><56%>
+	Why, he's a devil, a devil, a very fiend.
+<SPEECH 43><ACT 3><SCENE 2><56%>
+	Tut! she's a lamb, a dove, a fool to him.
+	I'll tell you, Sir Lucentio: when the priest
+	Should ask, if Katharine should be his wife,
+	'Ay, by gogs-wouns!' quoth he; and swore so loud,
+	That, all amaz'd, the priest let fall the book;
+	And, as he stoop'd again to take it up,
+	The mad-brain'd bridegroom took him such a cuff
+	That down fell priest and book and book and priest:
+	'Now take them up,' quoth he, 'if any list.'
+<SPEECH 44><ACT 3><SCENE 2><56%>
+	Trembled and shook; for why he stampt and swore,
+	As if the vicar meant to cozen him.
+	But after many ceremonies done,
+	He calls for wine: 'A health!' quoth he; as if
+	He had been aboard, carousing to his mates
+	After a storm; quaff'd off the muscadel,
+	And threw the sops all in the sexton's face;
+	Having no other reason
+	But that his beard grew thin and hungerly,
+	And seem'd to ask him sops as he was drinking.
+	This done, he took the bride about the neck,
+	And kiss'd her lips with such a clamorous smack
+	That at the parting all the church did echo:
+	And I, seeing this, came thence for very shame;
+	And after me, I know, the rout is coming.
+	Such a mad marriage never was before.
+	Hark, hark! I hear the minstrels play.
+<SPEECH 45><ACT 3><SCENE 2><57%>
+	Let me entreat you.
+<SPEECH 46><ACT 3><SCENE 2><58%>
+	Ay, marry, sir, now it begins to work.
+<SPEECH 47><ACT 3><SCENE 2><59%>
+	Went they not quickly I should die with laughing.
+<SPEECH 48><ACT 3><SCENE 2><59%>
+	I warrant him, Petruchio is Kated.
+<SPEECH 49><ACT 5><SCENE 1><87%>
+	I marvel Cambio comes not all this while.
+<SPEECH 50><ACT 5><SCENE 1><87%>
+	They're busy within; you were best knock louder.
+<SPEECH 51><ACT 5><SCENE 1><90%>
+	Stay, officer: he shall not go to prison.
+<SPEECH 52><ACT 5><SCENE 1><90%>
+	Take heed, Signior Baptista, lest you be cony-catched in this business: I dare swear this is the right Vincentio.
+<SPEECH 53><ACT 5><SCENE 1><90%>
+	Nay, I dare not swear it.
+<SPEECH 54><ACT 5><SCENE 1><90%>
+	Yes, I know thee to be Signior Lucentio.
+<SPEECH 55><ACT 5><SCENE 1><91%>
+	Here's packing, with a witness, to deceive us all!
+<SPEECH 56><ACT 5><SCENE 1><92%>
+	My cake is dough; but I'll in among the rest,
+	Out of hope of all, but my share of the feast.
+<SPEECH 57><ACT 5><SCENE 2><94%>
+	Believe me, sir, they butt together well.
+<SPEECH 58><ACT 5><SCENE 2><96%>
+	Ay, and a kind one too:
+	Pray God, sir, your wife send you not a worse.

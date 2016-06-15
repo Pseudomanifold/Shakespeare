@@ -1,0 +1,46 @@
+<SPEECH 1><ACT 1><SCENE 3><13%>
+	What the good-year, my lord! why are you thus out of measure sad?
+<SPEECH 2><ACT 1><SCENE 3><13%>
+	You should hear reason.
+<SPEECH 3><ACT 1><SCENE 3><13%>
+	It not a present remedy, at least a patient sufferance.
+<SPEECH 4><ACT 1><SCENE 3><13%>
+	Yea; but you must not make the full show of this till you may do it without controlment. You have of late stood out against your brother, and he hath ta'en you newly into his grace; where it is impossible you should take true root but by the fair weather that you make yourself: it is needful that you frame the season for your own harvest.
+<SPEECH 5><ACT 1><SCENE 3><14%>
+	Can you make no use of your discontent?
+<SPEECH 6><ACT 1><SCENE 3><15%>
+	To the death, my lord.
+<SPEECH 7><ACT 3><SCENE 3><54%>
+	Here, man, I am at thy elbow.
+<SPEECH 8><ACT 3><SCENE 3><54%>
+	I will owe thee an answer for that; and now forward with thy tale.
+<SPEECH 9><ACT 3><SCENE 3><54%>
+	Is it possible that any villany should be so dear?
+<SPEECH 10><ACT 3><SCENE 3><54%>
+	I wonder at it.
+<SPEECH 11><ACT 3><SCENE 3><54%>
+	Yes, it is apparel.
+<SPEECH 12><ACT 3><SCENE 3><54%>
+	Yes, the fashion is the fashion.
+<SPEECH 13><ACT 3><SCENE 3><55%>
+	No: 'twas the vane on the house.
+<SPEECH 14><ACT 3><SCENE 3><55%>
+	All this I see, and I see that the fashion wears out more apparel than the man. But art not thou thyself giddy with the fashion too, that thou hast shifted out of thy tale into telling me of the fashion?
+<SPEECH 15><ACT 3><SCENE 3><56%>
+	And thought they Margaret was Hero?
+<SPEECH 16><ACT 3><SCENE 3><56%>
+	Masters, masters!
+<SPEECH 17><ACT 3><SCENE 3><56%>
+	Masters,—
+<SPEECH 18><ACT 3><SCENE 3><56%>
+	A commodity in question, I warrant you. Come, we'll obey you.
+<SPEECH 19><ACT 4><SCENE 2><75%>
+	I am a gentleman, sir, and my name is Conrade.
+<SPEECH 20><ACT 4><SCENE 2><75%>
+	Yea, sir, we hope.
+<SPEECH 21><ACT 4><SCENE 2><75%>
+	Marry, sir, we say we are none.
+<SPEECH 22><ACT 4><SCENE 2><77%>
+	Off, coxcomb!
+<SPEECH 23><ACT 4><SCENE 2><77%>
+	Away! you are an ass; you are an ass.

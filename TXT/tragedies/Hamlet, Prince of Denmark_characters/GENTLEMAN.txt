@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 4><SCENE 5><70%>
+	She is importunate, indeed distract:
+	Her mood will needs be pitied.
+<SPEECH 2><ACT 4><SCENE 5><70%>
+	She speaks much of her father; says she hears
+	There's tricks i' the world; and hems, and beats her heart;
+	Spurns enviously at straws; speaks things in doubt,
+	That carry but half sense: her speech is nothing,
+	Yet the unshaped use of it doth move
+	The hearers to collection; they aim at it,
+	And botch the words up fit to their own thoughts;
+	Which, as her winks, and nods, and gestures yield them,
+	Indeed would make one think there might be thought,
+	Though nothing sure, yet much unhappily.
+<SPEECH 3><ACT 4><SCENE 5><72%>
+	Save yourself, my lord;
+	The ocean, overpeering of his list,
+	Eats not the flats with more impetuous haste
+	Than young Laertes, in a riotous head,
+	O'erbears your officers. The rabble call him lord;
+	And, as the world were now but to begin,
+	Antiquity forgot, custom not known,
+	The ratifiers and props of every word,
+	They cry, 'Choose we; Laertes shall be king!'
+	Caps, hands, and tongues, applaud it to the clouds,
+	'Laertes shall be king, Laertes king!'

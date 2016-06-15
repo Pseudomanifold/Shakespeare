@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 4><SCENE 1><66%>
+	O my good lord!
+	I have been your tenant, and your father's tenant,
+	These fourscore years.
+<SPEECH 2><ACT 4><SCENE 1><66%>
+	You cannot see your way.
+<SPEECH 3><ACT 4><SCENE 1><66%>
+	How now! Who's there?
+<SPEECH 4><ACT 4><SCENE 1><66%>
+	'Tis poor mad Tom.
+<SPEECH 5><ACT 4><SCENE 1><66%>
+	Fellow, where goest?
+<SPEECH 6><ACT 4><SCENE 1><66%>
+	Madman and beggar too.
+<SPEECH 7><ACT 4><SCENE 1><66%>
+	Ay, my lord.
+<SPEECH 8><ACT 4><SCENE 1><67%>
+	Alack, sir! he is mad.
+<SPEECH 9><ACT 4><SCENE 1><67%>
+	I'll bring him the best 'parel that I have,
+	Come on 't what will.

@@ -1,0 +1,65 @@
+<SPEECH 1><ACT 4><SCENE 1><70%>
+	Thou art the king of honour:
+	No man so potent breathes upon the ground
+	But I will beard him.
+<SPEECH 2><ACT 4><SCENE 1><72%>
+	Faith, and so we should;
+	Where now remains a sweet reversion:
+	We may boldly spend upon the hope of what
+	Is to come in:
+	A comfort of retirement lives in this.
+<SPEECH 3><ACT 4><SCENE 1><73%>
+	As heart can think: there is not such a word
+	Spoke of in Scotland as this term of fear.
+<SPEECH 4><ACT 4><SCENE 1><74%>
+	That's the worst tidings that I hear of yet.
+<SPEECH 5><ACT 4><SCENE 1><74%>
+	Talk not of dying: I am out of fear
+	Of death or death's hand for this one half year.
+<SPEECH 6><ACT 4><SCENE 3><77%>
+	You give him then advantage.
+<SPEECH 7><ACT 4><SCENE 3><77%>
+	You do not counsel well:
+	You speak it out of fear and cold heart.
+<SPEECH 8><ACT 4><SCENE 3><78%>
+	Yea, or to-night.
+<SPEECH 9><ACT 5><SCENE 2><88%>
+	Defy him by the Lord of Westmoreland.
+<SPEECH 10><ACT 5><SCENE 2><88%>
+	Marry, and shall, and very willingly.
+<SPEECH 11><ACT 5><SCENE 2><88%>
+	Arm, gentlemen! to arms! for I have thrown
+	A brave defiance in King Henry's teeth,
+	And Westmoreland, that was engag'd, did bear it;
+	Which cannot choose but bring him quickly on.
+<SPEECH 12><ACT 5><SCENE 3><90%>
+	Know then, my name is Douglas;
+	And I do haunt thee in the battle thus
+	Because some tell me that thou art a king.
+<SPEECH 13><ACT 5><SCENE 3><90%>
+	The Lord of Stafford dear to-day hath bought
+	Thy likeness; for, instead of thee, King Harry,
+	This sword hath ended him: so shall it thee,
+	Unless thou yield thee as my prisoner.
+<SPEECH 14><ACT 5><SCENE 3><91%>
+	All's done, all's won: here breathless lies the king.
+<SPEECH 15><ACT 5><SCENE 3><91%>
+	Here.
+<SPEECH 16><ACT 5><SCENE 3><91%>
+	A fool go with thy soul, whither it goes!
+	A borrow'd title hast thou bought too dear:
+	Why didst thou tell me that thou wert a king?
+<SPEECH 17><ACT 5><SCENE 3><91%>
+	Now, by my sword, I will kill all his coats;
+	I'll murder all his wardrobe, piece by piece,
+	Until I meet the king.
+<SPEECH 18><ACT 5><SCENE 4><93%>
+	Another king! they grow like Hydra's heads:
+	I am the Douglas, fatal to all those
+	That wear those colours on them: what art thou,
+	That counterfeit'st the person of a king?
+<SPEECH 19><ACT 5><SCENE 4><94%>
+	I fear thou art another counterfeit;
+	And yet, in faith, thou bear'st thee like a king:
+	But mine I am sure thou art, whoe'er thou be,
+	And thus I win thee.

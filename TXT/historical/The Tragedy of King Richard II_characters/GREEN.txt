@@ -1,0 +1,42 @@
+<SPEECH 1><ACT 1><SCENE 4><22%>
+	Well, he is gone; and with him go these thoughts.
+	Now for the rebels which stand out in Ireland;
+	Expedient manage must be made, my liege,
+	Ere further leisure yield them further means
+	For their advantage and your highness' loss.
+<SPEECH 2><ACT 2><SCENE 2><35%>
+	God save your majesty! and well met, gentlemen:
+	I hope the king is not yet shipp'd for Ireland.
+<SPEECH 3><ACT 2><SCENE 2><36%>
+	That he, our hope, might have retir'd his power,
+	And driven into despair an enemy's hope,
+	Who strongly hath set footing in this land:
+	The banish'd Bolingbroke repeals himself,
+	And with uplifted arms is safe arriv'd
+	At Ravenspurgh.
+<SPEECH 4><ACT 2><SCENE 2><36%>
+	Ah! madam, 'tis too true: and that is worse,
+	The Lord Northumberland, his son young Henry Percy,
+	The Lords of Ross, Beaumond, and Willoughby,
+	With all their powerful friends, are fled to him.
+<SPEECH 5><ACT 2><SCENE 2><36%>
+	We have: whereupon the Earl of Worcester
+	Hath broke his staff, resign'd his stewardship,
+	And all the household servants fled with him
+	To Bolingbroke.
+<SPEECH 6><ACT 2><SCENE 2><37%>
+	Here comes the Duke of York.
+<SPEECH 7><ACT 2><SCENE 2><38%>
+	Besides, our nearness to the king in love
+	Is near the hate of those love not the king.
+<SPEECH 8><ACT 2><SCENE 2><39%>
+	Well, I'll for refuge straight to Bristol Castle;
+	The Earl of Wiltshire is already there.
+<SPEECH 9><ACT 2><SCENE 2><39%>
+	Alas, poor duke! the task he undertakes
+	Is numbering sands and drinking oceans dry:
+	Where one on his side fights, thousands will fly.
+	Farewell at once; for once, for all, and ever.
+<SPEECH 10><ACT 3><SCENE 1><48%>
+	My comfort is, that heaven will take our souls
+	And plague injustice with the pains of hell.

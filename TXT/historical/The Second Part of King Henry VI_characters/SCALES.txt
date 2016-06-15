@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 4><SCENE 5><77%>
+	How now! is Jack Cade slain?
+<SPEECH 2><ACT 4><SCENE 5><77%>
+	Such aid as I can spare you shall command;
+	But I am troubled here with them myself;
+	The rebels have assay'd to win the Tower.
+	But get you to Smithfield and gather head,
+	And thither I will send you Matthew Goffe:
+	Fight for your king, your country, and your lives;
+	And so, farewell, for I must hence again.

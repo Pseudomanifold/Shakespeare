@@ -1,0 +1,62 @@
+<SPEECH 1><ACT 2><SCENE 4><33%>
+	Better than I was: hem!
+<SPEECH 2><ACT 2><SCENE 4><33%>
+	You muddy rascal, is that all the comfort you give me?
+<SPEECH 3><ACT 2><SCENE 4><33%>
+	I make them! gluttony and diseases make them; I make them not.
+<SPEECH 4><ACT 2><SCENE 4><34%>
+	Ay, marry; our chains and our jewels.
+<SPEECH 5><ACT 2><SCENE 4><34%>
+	Hang yourself, you muddy conger, hang yourself!
+<SPEECH 6><ACT 2><SCENE 4><34%>
+	Can a weak empty vessel bear such a huge full hogshead? there's a whole merchant's venture of Bourdeaux stuff in him: you have not seen a hulk better stuffed in the hold. Come, I'll be friends with thee, Jack: thou art going to the wars; and whether I shall ever see thee again or no, there is nobody cares.
+<SPEECH 7><ACT 2><SCENE 4><34%>
+	Hang him, swaggering rascal! let him not come hither: it is the foul-mouthedest rogue in England.
+<SPEECH 8><ACT 2><SCENE 4><35%>
+	So you do, hostess.
+<SPEECH 9><ACT 2><SCENE 4><36%>
+	Charge me! I scorn you, scurvy companion. What! you poor, base, rascally, cheating, lack-linen mate! Away, you mouldy rogue, away! I am meat for your master.
+<SPEECH 10><ACT 2><SCENE 4><36%>
+	Away, you cut-purse rascal! you filthy bung, away! By this wine, I'll thrust my knife in your mouldy chaps an you play the saucy cuttle with me. Away, you bottle-ale rascal! you basket-hilt stale juggler, you! Since when, I pray you, sir? God's light! with two points on your shoulder? much!
+<SPEECH 11><ACT 2><SCENE 4><36%>
+	Captain! thou abominable damned cheater, art thou not ashamed to be called captain? An captains were of my mind, they would truncheon you out for taking their names upon you before you have earned them. You a captain, you slave! for what? for tearing a poor whore's ruff in a bawdy-house? He a captain! Hang him, rogue! He lives upon mouldy stewed prunes and dried cakes. A captain! God's light, these villains will make the word captain as odious as the word 'occupy,' which was an excellent good word before it was ill sorted: therefore captains had need look to it.
+<SPEECH 12><ACT 2><SCENE 4><38%>
+	For God's sake, thrust him down stairs! I cannot endure such a fustian rascal.
+<SPEECH 13><ACT 2><SCENE 4><38%>
+	I pray thee, Jack, I pray thee, do not draw.
+<SPEECH 14><ACT 2><SCENE 4><38%>
+	I pray thee, Jack, be quiet; the rascal's gone. Ah! you whoreson little valiant villain, you!
+<SPEECH 15><ACT 2><SCENE 4><39%>
+	Ah, you sweet little rogue, you! Alas, poor ape, how thou sweatest! Come, let me wipe thy face; come on, you whoreson chops. Ah, rogue! i' faith, I love thee. Thou art as valorous as Hector of Troy, worth five of Agamemnon, and ten times better than the Nine Worthies. Ah, villain!
+<SPEECH 16><ACT 2><SCENE 4><39%>
+	Do, an thou darest for thy heart: an thou dost, I'll canvass thee between a pair of sheets.
+<SPEECH 17><ACT 2><SCENE 4><39%>
+	I' faith, and thou followedst him like a church. Thou whoreson little tidy Bartholomew boar-pig, when wilt thou leave fighting o' days, and foining o' nights, and begin to patch up thine old body for heaven?
+<SPEECH 18><ACT 2><SCENE 4><39%>
+	Sirrah, what humour is the prince of?
+<SPEECH 19><ACT 2><SCENE 4><39%>
+	They say, Poins has a good wit.
+<SPEECH 20><ACT 2><SCENE 4><39%>
+	Why does the prince love him so, then?
+<SPEECH 21><ACT 2><SCENE 4><40%>
+	By my troth, I kiss thee with a most constant heart.
+<SPEECH 22><ACT 2><SCENE 4><40%>
+	I love thee better than I love e'er a scurvy young boy of them all.
+<SPEECH 23><ACT 2><SCENE 4><40%>
+	By my troth, thou'lt set me a-weeping an thou sayst so: prove that ever I dress myself handsome till thy return. Well, hearken at the end.
+<SPEECH 24><ACT 2><SCENE 4><41%>
+	How, you fat fool! I scorn you.
+<SPEECH 25><ACT 2><SCENE 4><42%>
+	What says your Grace?
+<SPEECH 26><ACT 2><SCENE 4><43%>
+	I cannot speak; if my heart be not ready to burst,—well, sweet Jack, have a care of thyself.
+<SPEECH 27><ACT 5><SCENE 4><95%>
+	Nut-hook, nut-hook, you lie. Come on; I'll tell thee what, thou damned tripe-visaged rascal, an the child I now go with do miscarry, thou hadst better thou hadst struck thy mother, thou paper-faced villain.
+<SPEECH 28><ACT 5><SCENE 4><95%>
+	I'll tell thee what, thou thin man in a censer, I will have you as soundly swinged for this, you blue-bottle rogue! you filthy famished correctioner! if you be not swinged, I'll forswear half-kirtles.
+<SPEECH 29><ACT 5><SCENE 4><95%>
+	Come, you rogue, come: bring me to a justice.
+<SPEECH 30><ACT 5><SCENE 4><95%>
+	Goodman death! goodman bones!
+<SPEECH 31><ACT 5><SCENE 4><95%>
+	Come, you thin thing; come, you rascal!

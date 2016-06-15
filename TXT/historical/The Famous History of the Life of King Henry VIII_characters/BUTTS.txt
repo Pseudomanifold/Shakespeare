@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 5><SCENE 2><86%>
+	</STAGE DIR> This is a piece of malice. I am glad
+	I came this way so happily: the king
+	Shall understand it presently.
+<SPEECH 2><ACT 5><SCENE 2><87%>
+	I'll show your Grace the strangest sight,—
+<SPEECH 3><ACT 5><SCENE 2><87%>
+	I think your highness saw this many a day.
+<SPEECH 4><ACT 5><SCENE 2><87%>
+	There, my lord,
+	The high promotion of his Grace of Canterbury;
+	Who holds his state at door, 'mongst pursuivants,
+	Pages, and footboys.

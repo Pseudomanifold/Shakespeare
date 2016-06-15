@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 1><SCENE 4><12%>
+	Are not these large enough?
+<SPEECH 2><ACT 1><SCENE 4><12%>
+	It is a man's voice. Gentle Isabella,
+	Turn you the key, and know his business of him:
+	You may, I may not; you are yet unsworn.
+	When you have vow'd, you must not speak with men
+	But in the presence of the prioress:
+	Then, if you speak, you must not show your face,
+	Or, if you show your face, you must not speak.
+	He calls again; I pray you, answer him.

@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 1><SCENE 7><19%>
+	Fear not our care, sir.
+<SPEECH 2><ACT 4><SCENE 7><80%>
+	I do not know what witchcraft's in him, but
+	Your soldiers use him as the grace 'fore meat,
+	Their talk at table, and their thanks at end;
+	And you are darken'd in this action, sir,
+	Even by your own.
+<SPEECH 3><ACT 4><SCENE 7><80%>
+	Yet, I wish, sir,—
+	I mean for your particular,—you had not
+	Join'd in commission with him; but either
+	Had borne the action of yourself, or else
+	To him had left it solely.
+<SPEECH 4><ACT 4><SCENE 7><81%>
+	Sir, I beseech you, think you he'll carry Rome?

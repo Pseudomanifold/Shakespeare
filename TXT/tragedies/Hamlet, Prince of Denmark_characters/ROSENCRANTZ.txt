@@ -1,0 +1,122 @@
+<SPEECH 1><ACT 2><SCENE 2><26%>
+	Both your majesties
+	Might, by the sovereign power you have of us,
+	Put your dread pleasures more into command
+	Than to entreaty.
+<SPEECH 2><ACT 2><SCENE 2><31%>
+	</STAGE DIR> God save you, sir!
+<SPEECH 3><ACT 2><SCENE 2><31%>
+	My most dear lord!
+<SPEECH 4><ACT 2><SCENE 2><31%>
+	As the indifferent children of the earth.
+<SPEECH 5><ACT 2><SCENE 2><31%>
+	Neither, my lord.
+<SPEECH 6><ACT 2><SCENE 2><31%>
+	None, my lord, but that the world's grown honest.
+<SPEECH 7><ACT 2><SCENE 2><32%>
+	Then is the world one.
+<SPEECH 8><ACT 2><SCENE 2><32%>
+	We think not so, my lord.
+<SPEECH 9><ACT 2><SCENE 2><32%>
+	Why, then your ambition makes it one; 'tis too narrow for your mind.
+<SPEECH 10><ACT 2><SCENE 2><32%>
+	Truly, and I hold ambition of so airy and light a quality that it is but a shadow's shadow.
+<SPEECH 11><ACT 2><SCENE 2><32%>
+	We'll wait upon you.
+<SPEECH 12><ACT 2><SCENE 2><32%>
+	To visit you, my lord; no other occasion.
+<SPEECH 13><ACT 2><SCENE 2><33%>
+	To what end, my lord?
+<SPEECH 14><ACT 2><SCENE 2><33%>
+	</STAGE DIR> What say you?
+<SPEECH 15><ACT 2><SCENE 2><33%>
+	My lord, there was no such stuff in my thoughts.
+<SPEECH 16><ACT 2><SCENE 2><33%>
+	To think, my lord; if you delight not in man, what lenten entertainment the players shall receive from you: we coted them on the way; and hither are they coming, to offer you service.
+<SPEECH 17><ACT 2><SCENE 2><34%>
+	Even those you were wont to take delight in, the tragedians of the city.
+<SPEECH 18><ACT 2><SCENE 2><34%>
+	I think their inhibition comes by the means of the late innovation.
+<SPEECH 19><ACT 2><SCENE 2><34%>
+	No, indeed they are not.
+<SPEECH 20><ACT 2><SCENE 2><34%>
+	Nay, their endeavour keeps in the wonted pace: but there is, sir, an aery of children, little eyases, that cry out on the top of question, and are most tyrannically clapped for't: these are now the fashion, and so berattle the common stages,—so they call them,—that many wearing rapiers are afraid of goose-quills, and dare scarce come thither.
+<SPEECH 21><ACT 2><SCENE 2><34%>
+	Faith, there has been much to-do on both sides: and the nation holds it no sin to tarre them to controversy: there was, for a while, no money bid for argument, unless the poet and the player went to cuffs in the question.
+<SPEECH 22><ACT 2><SCENE 2><35%>
+	Ay, that they do, my lord; Hercules and his load too.
+<SPEECH 23><ACT 2><SCENE 2><35%>
+	Happily he's the second time come to them; for they say an old man is twice a child.
+<SPEECH 24><ACT 2><SCENE 2><39%>
+	Good my lord!
+<SPEECH 25><ACT 3><SCENE 1><41%>
+	He does confess he feels himself distracted;
+	But from what cause he will by no means speak.
+<SPEECH 26><ACT 3><SCENE 1><41%>
+	Most like a gentleman.
+<SPEECH 27><ACT 3><SCENE 1><41%>
+	Niggard of question, but of our demands
+	Most free in his reply.
+<SPEECH 28><ACT 3><SCENE 1><41%>
+	Madam, it so fell out that certain players
+	We o'er-raught on the way; of these we told him,
+	And there did seem in him a kind of joy
+	To hear of it: they are about the court,
+	And, as I think, they have already order
+	This night to play before him.
+<SPEECH 29><ACT 3><SCENE 1><41%>
+	We shall, my lord.
+<SPEECH 30><ACT 3><SCENE 2><47%>
+	We will, my lord.
+<SPEECH 31><ACT 3><SCENE 2><48%>
+	Ay, my lord; they stay upon your patience.
+<SPEECH 32><ACT 3><SCENE 2><54%>
+	Then, thus she says: your behaviour hath struck her into amasement and admiration.
+<SPEECH 33><ACT 3><SCENE 2><54%>
+	She desires to speak with you in her closet ere you go to bed.
+<SPEECH 34><ACT 3><SCENE 2><54%>
+	My lord, you once did love me.
+<SPEECH 35><ACT 3><SCENE 2><54%>
+	Good my lord, what is your cause of distemper? you do surely bar the door upon your own liberty, if you deny your griefs to your friend.
+<SPEECH 36><ACT 3><SCENE 2><54%>
+	How can that be when you have the voice of the king himself for your succession in Denmark?
+<SPEECH 37><ACT 3><SCENE 3><56%>
+	The single and peculiar life is bound
+	With all the strength and armour of the mind
+	To keep itself from noyance; but much more
+	That spirit upon whose weal depend and rest
+	The lives of many. The cease of majesty
+	Dies not alone, but, like a gulf doth draw
+	What's near it with it; it is a massy wheel,
+	Fix'd on the summit of the highest mount,
+	To whose huge spokes ten thousand lesser things
+	Are mortis'd and adjoin'd; which, when it falls,
+	Each small annexment, petty consequence,
+	Attends the boisterous ruin. Never alone
+	Did the king sigh, but with a general groan.
+<SPEECH 38><ACT 3><SCENE 3><57%>
+	We will haste us.
+<SPEECH 39><ACT 4><SCENE 2><66%>
+	</STAGE DIR> Hamlet! Lord Hamlet!
+<SPEECH 40><ACT 4><SCENE 2><66%>
+	What have you done, my lord, with the dead body?
+<SPEECH 41><ACT 4><SCENE 2><66%>
+	Tell us where 'tis, that we may take it thence
+	And bear it to the chapel.
+<SPEECH 42><ACT 4><SCENE 2><66%>
+	Believe what?
+<SPEECH 43><ACT 4><SCENE 2><66%>
+	Take you me for a sponge, my lord?
+<SPEECH 44><ACT 4><SCENE 2><66%>
+	I understand you not, my lord.
+<SPEECH 45><ACT 4><SCENE 2><66%>
+	My lord, you must tell us where the body is, and go with us to the king.
+<SPEECH 46><ACT 4><SCENE 3><67%>
+	Where the dead body is bestow'd, my lord,
+	We cannot get from him.
+<SPEECH 47><ACT 4><SCENE 3><67%>
+	Without, my lord; guarded, to know your pleasure.
+<SPEECH 48><ACT 4><SCENE 3><67%>
+	Ho, Guildenstern! bring in my lord.
+<SPEECH 49><ACT 4><SCENE 4><69%>
+	Will 't please you go, my lord?

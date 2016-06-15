@@ -1,0 +1,61 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Who's there?
+<SPEECH 2><ACT 1><SCENE 1><0%>
+	Long live the king!
+<SPEECH 3><ACT 1><SCENE 1><0%>
+	He.
+<SPEECH 4><ACT 1><SCENE 1><0%>
+	'Tis now struck twelve; get thee to bed, Francisco.
+<SPEECH 5><ACT 1><SCENE 1><0%>
+	Have you had quiet guard?
+<SPEECH 6><ACT 1><SCENE 1><1%>
+	Well, good-night.
+	If you do meet Horatio and Marcellus,
+	The rivals of my watch, bid them make hasie.
+<SPEECH 7><ACT 1><SCENE 1><1%>
+	Say,
+	What! is Horatio there?
+<SPEECH 8><ACT 1><SCENE 1><1%>
+	Welcome, Horatio; welcome, good Marcellus.
+<SPEECH 9><ACT 1><SCENE 1><1%>
+	I have seen nothing.
+<SPEECH 10><ACT 1><SCENE 1><1%>
+	Sit down awhile,
+	And let us once again assail your ears,
+	That are so fortified against our story,
+	What we two nights have seen.
+<SPEECH 11><ACT 1><SCENE 1><1%>
+	Last night of all,
+	When yond same star that's westward from the pole
+	Had made his course to illume that part of heaven
+	Where now it burns, Marcellus and myself,
+	The bell then beating one,—
+<SPEECH 12><ACT 1><SCENE 1><1%>
+	In the same figure, like the king that's dead.
+<SPEECH 13><ACT 1><SCENE 1><1%>
+	Looks it not like the king? mark it, Horatio.
+<SPEECH 14><ACT 1><SCENE 1><1%>
+	It would be spoke to.
+<SPEECH 15><ACT 1><SCENE 1><2%>
+	See! it stalks away.
+<SPEECH 16><ACT 1><SCENE 1><2%>
+	How now, Horatio! you tremble and look pale:
+	Is not this something more than fantasy?
+	What think you on 't?
+<SPEECH 17><ACT 1><SCENE 1><3%>
+	I think it be no other but e'en so;
+	Well may it sort that this portentous figure
+	Comes armed through our watch, so like the king
+	That was and is the question of these wars.
+<SPEECH 18><ACT 1><SCENE 1><4%>
+	'Tis here!
+<SPEECH 19><ACT 1><SCENE 1><4%>
+	It was about to speak when the cock crew.
+<SPEECH 20><ACT 1><SCENE 2><10%>
+	We do, my lord.
+<SPEECH 21><ACT 1><SCENE 2><10%>
+	Arm'd, my lord.
+<SPEECH 22><ACT 1><SCENE 2><11%>
+	My lord, from head to foot.
+<SPEECH 23><ACT 1><SCENE 2><11%>
+	Longer, longer.

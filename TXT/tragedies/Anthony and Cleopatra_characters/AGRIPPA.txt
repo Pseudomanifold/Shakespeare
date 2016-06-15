@@ -1,0 +1,91 @@
+<SPEECH 1><ACT 2><SCENE 2><22%>
+	Give me leave, Cæsar.
+<SPEECH 2><ACT 2><SCENE 2><22%>
+	Thou hast a sister by the mother's side,
+	Admir'd Octavia; great Mark Antony
+	Is now a widower.
+<SPEECH 3><ACT 2><SCENE 2><22%>
+	To hold you in perpetual amity,
+	To make you brothers, and to knit your hearts
+	With an unslipping knot, take Antony
+	Octavia to his wife; whose beauty claims
+	No worse a husband than the best of men,
+	Whose virtue and whose general graces speak
+	That which none else can utter. By this marriage,
+	All little jealousies which now seem great,
+	And all great fears which now import their dangers,
+	Would then be nothing; truths would be but tales
+	Where now half tales be truths; her love to both
+	Would each to other and all loves to both
+	Draw after her. Pardon what I have spoke,
+	For 'tis a studied, not a present thought,
+	By duty ruminated.
+<SPEECH 4><ACT 2><SCENE 2><24%>
+	Good Enobarbus!
+<SPEECH 5><ACT 2><SCENE 2><24%>
+	There she appeared indeed, or my reporter devised well for her.
+<SPEECH 6><ACT 2><SCENE 2><24%>
+	O! rare for Antony.
+<SPEECH 7><ACT 2><SCENE 2><25%>
+	Rare Egyptian!
+<SPEECH 8><ACT 2><SCENE 2><25%>
+	Royal wench!
+	She made great Cæsar lay his sword to bed;
+	He plough'd her, and she cropp'd.
+<SPEECH 9><ACT 2><SCENE 2><25%>
+	Let us go.
+	Good Enobarbus, make yourself my guest
+	Whilst you abide here.
+<SPEECH 10><ACT 2><SCENE 4><27%>
+	Sir, Mark Antony
+	Will e'en but kiss Octavia, and we'll follow.
+<SPEECH 11><ACT 2><SCENE 4><27%>
+	Sir, good success!
+<SPEECH 12><ACT 3><SCENE 2><42%>
+	What! are the brothers parted?
+<SPEECH 13><ACT 3><SCENE 2><42%>
+	'Tis a noble Lepidus.
+<SPEECH 14><ACT 3><SCENE 2><42%>
+	Nay, but how dearly he adores Mark Antony!
+<SPEECH 15><ACT 3><SCENE 2><42%>
+	What's Antony? The god of Jupiter.
+<SPEECH 16><ACT 3><SCENE 2><42%>
+	O, Antony! O thou Arabian bird!
+<SPEECH 17><ACT 3><SCENE 2><42%>
+	Indeed, he plied them both with excellent praises.
+<SPEECH 18><ACT 3><SCENE 2><42%>
+	Both he loves.
+<SPEECH 19><ACT 3><SCENE 2><42%>
+	Good fortune, worthy soldier, and farewell.
+<SPEECH 20><ACT 3><SCENE 2><43%>
+	He has a cloud in's face.
+<SPEECH 21><ACT 3><SCENE 2><43%>
+	Why, Enobarbus,
+	When Antony found Julius Cæsar dead
+	He cried almost to roaring; and he wept
+	When at Philippi he found Brutus slain.
+<SPEECH 22><ACT 3><SCENE 6><48%>
+	Who, queasy with his insolence
+	Already, will their good thoughts call from him.
+<SPEECH 23><ACT 3><SCENE 6><48%>
+	Whom does he accuse?
+<SPEECH 24><ACT 3><SCENE 6><48%>
+	Sir, this should be answer'd.
+<SPEECH 25><ACT 3><SCENE 6><50%>
+	Welcome, lady.
+<SPEECH 26><ACT 4><SCENE 6><71%>
+	Cæsar, I shall.
+<SPEECH 27><ACT 4><SCENE 7><72%>
+	Retire, we have engag'd ourselves too far.
+	Cæsar himself has work, and our oppression
+	Exceeds what we expected.
+<SPEECH 28><ACT 5><SCENE 1><86%>
+	And strange it is,
+	That nature must compel us to lament
+	Our most persisted deeds.
+<SPEECH 29><ACT 5><SCENE 1><86%>
+	A rarer spirit never
+	Did steer humanity; but you, gods, will give us
+	Some faults to make us men. Cæsar is touch'd.
+<SPEECH 30><ACT 5><SCENE 1><88%>
+	Dolabella!

@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 3><SCENE 2><53%>
+	Whither away! to save myself by flight:
+	We are like to have the overthrow again.
+<SPEECH 2><ACT 3><SCENE 2><53%>
+	Ay,
+	All the Talbots in the world, to save my life.
+<SPEECH 3><ACT 4><SCENE 1><60%>
+	My gracious sovereign; as I rode from Calais,
+	To haste unto your coronation,
+	A letter was deliver'd to my hands,
+	Writ to your Grace from the Duke of Burgundy.

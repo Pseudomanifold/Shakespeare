@@ -1,0 +1,29 @@
+<SPEECH 1><ACT 1><SCENE 5><15%>
+	The king comes here to-night.
+<SPEECH 2><ACT 1><SCENE 5><15%>
+	So please you, it is true: our thane is coming;
+	One of my fellows had the speed of him,
+	Who, almost dead for breath, had scarcely more
+	Than would make up his message.
+<SPEECH 3><ACT 4><SCENE 2><70%>
+	Bless you, fair dame! I am not to you known,
+	Though in your state of honour I am perfect.
+	I doubt some danger does approach you nearly:
+	If you will take a homely man's advice,
+	Be not found here; hence, with your little ones.
+	To fright you thus, methinks, I am too savage;
+	To do worse to you were fell cruelty,
+	Which is too nigh your person. Heaven preserve you!
+	I dare abide no longer.
+<SPEECH 4><ACT 5><SCENE 5><93%>
+	Gracious my lord,
+	I should report that which I say I saw,
+	But know not how to do it.
+<SPEECH 5><ACT 5><SCENE 5><93%>
+	As I did stand my watch upon the hill,
+	I look'd towards Birnam, and anon, methought,
+	The wood began to move.
+<SPEECH 6><ACT 5><SCENE 5><93%>
+	Let me endure your wrath if't be not so:
+	Within this three mile may you see it coming;
+	I say, a moving grove.

@@ -1,0 +1,50 @@
+<SPEECH 1><ACT 3><SCENE 3><57%>
+	Then Warwick disannuls great John of Gaunt,
+	Which did subdue the greatest part of Spain;
+	And, after John of Gaunt, Henry the Fourth,
+	Whose wisdom was a mirror to the wisest;
+	And, after that wise prince, Henry the Fifth,
+	Who by his prowess conquered all France:
+	From these our Henry lineally descends.
+<SPEECH 2><ACT 3><SCENE 3><57%>
+	Why, Warwick, canst thou speak against thy liege,
+	Whom thou obeyedst thirty and six years,
+	And not bewray thy treason with a blush?
+<SPEECH 3><ACT 3><SCENE 3><57%>
+	Call him my king, by whose injurious doom
+	My elder brother, the Lord Aubrey Vere,
+	Was done to death? and more than so, my father,
+	Even in the downfall of his mellow'd years,
+	When nature brought him to the door of death?
+	No, Warwick, no; while life upholds this arm,
+	This arm upholds the house of Lancaster.
+<SPEECH 4><ACT 3><SCENE 3><59%>
+	I like it well that our fair queen and mistress
+	Smiles at her news, while Warwick frowns at his.
+<SPEECH 5><ACT 4><SCENE 3><71%>
+	What now remains, my lords, for us to do,
+	But march to London with our soldiers?
+<SPEECH 6><ACT 4><SCENE 6><77%>
+	Ay, for if Edward repossess the crown,
+	'Tis like that Richmond with the rest shall down.
+<SPEECH 7><ACT 4><SCENE 8><80%>
+	Let's levy men, and beat him back again.
+<SPEECH 8><ACT 4><SCENE 8><81%>
+	</STAGE DIR> And thus I seal my truth, and bid adieu.
+<SPEECH 9><ACT 5><SCENE 1><84%>
+	Oxford, Oxford, for Lancaster!
+<SPEECH 10><ACT 5><SCENE 2><88%>
+	Away, away, to meet the queen's great power.
+<SPEECH 11><ACT 5><SCENE 4><91%>
+	Women and children of so high a courage,
+	And warriors faint! why, 'twere perpetual shame.
+	O brave young prince! thy famous grandfather
+	Doth live again in thee: long mayst thou live
+	To bear his image and renew his glories!
+<SPEECH 12><ACT 5><SCENE 4><91%>
+	I thought no less: it is his policy
+	To haste thus fast, to find us unprovided.
+<SPEECH 13><ACT 5><SCENE 4><91%>
+	Here pitch our battle; hence we will not budge.
+<SPEECH 14><ACT 5><SCENE 5><92%>
+	For my part, I'll not trouble thee with words.

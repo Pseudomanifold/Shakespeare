@@ -1,0 +1,22 @@
+<SPEECH 1><ACT 2><SCENE 1><16%>
+	No, by my troth, not long; for we cannot lodge and board a dozen or fourteen gentlewomen that live honestly by the prick of their needles, but it will be thought we keep a bawdy-house straight. [<NYM AND PISTOL DRAW.] O WELL-A-DAY LADY! IF HE BE...>
+<SPEECH 2><ACT 2><SCENE 1><16%>
+	Good Corporal Nym, show thy valour and put up your sword.
+<SPEECH 3><ACT 2><SCENE 1><17%>
+	By my troth, he'll yield the crow a pudding one of these days. The king has killed his heart. Good husband, come home presently.
+<SPEECH 4><ACT 2><SCENE 1><18%>
+	As ever you came of women, come in quickly to Sir John. Ah, poor heart! he is so shaked of a burning quotidian tertian, that it is most lamentable to behold. Sweet men, come to him.
+<SPEECH 5><ACT 2><SCENE 3><24%>
+	Prithee, honey-sweet husband, let me bring thee to Staines.
+<SPEECH 6><ACT 2><SCENE 3><24%>
+	Nay, sure, he's not in hell: he's in Arthur's bosom, if ever man went to Arthur's bosom. A' made a finer end and went away an it had been any christom child; a' parted even just between twelve and one, even at the turning o' the tide: for after I saw him fumble with the sheets and play with flowers and smile upon his fingers' ends, I knew there was but one way; for his nose was as sharp as a pen, and a' babbled of green fields. 'How now, Sir John!' quoth I: 'what man! be of good cheer.' So a' cried out 'God, God, God!' three or four times: now I, to comfort him, bid him a' should not think of God, I hoped there was no need to trouble himself with any such thoughts yet. So a' bade me lay more clothes on his feet: I put my hand into the bed and felt them, and they were as cold as any stone; then I felt to his knees, and so upward, and upward, and all was as cold as any stone.
+<SPEECH 7><ACT 2><SCENE 3><25%>
+	Ay, that a' did.
+<SPEECH 8><ACT 2><SCENE 3><25%>
+	Nay, that a' did not.
+<SPEECH 9><ACT 2><SCENE 3><25%>
+	A' could never abide carnation; 'twas a colour he never liked.
+<SPEECH 10><ACT 2><SCENE 3><25%>
+	A' did in some sort, indeed, handle women; but then he was rheumatic, and talked of the whore of Babylon.
+<SPEECH 11><ACT 2><SCENE 3><26%>
+	Farewell; adieu.

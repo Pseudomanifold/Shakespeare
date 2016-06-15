@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 2><SCENE 2><37%>
+	My lord, your son was gone before I came.
+<SPEECH 2><ACT 2><SCENE 2><37%>
+	My lord, I had forgot to tell your lordship:
+	To-day, as I came by, I called there;
+	But I shall grieve you to report the rest.
+<SPEECH 3><ACT 2><SCENE 2><37%>
+	An hour before I came the duchess died.
+<SPEECH 4><ACT 5><SCENE 4><93%>
+	Those were his very words.
+<SPEECH 5><ACT 5><SCENE 4><93%>
+	He did.

@@ -1,0 +1,99 @@
+<SPEECH 1><ACT 2><SCENE 4><35%>
+	God save you, Sir John!
+<SPEECH 2><ACT 2><SCENE 4><36%>
+	I will discharge upon her, Sir John, with two bullets.
+<SPEECH 3><ACT 2><SCENE 4><36%>
+	Then to you, Mistress Dorothy; I will charge you.
+<SPEECH 4><ACT 2><SCENE 4><36%>
+	I know you, Mistress Dorothy.
+<SPEECH 5><ACT 2><SCENE 4><36%>
+	God let me not live. I will murder your ruff for this!
+<SPEECH 6><ACT 2><SCENE 4><37%>
+	Not I; I tell thee what, Corporal Bardolph; I could tear her. I'll be revenged of her.
+<SPEECH 7><ACT 2><SCENE 4><37%>
+	I'll see her damned first; to Pluto's damned lake, by this hand, to the infernal deep, with Erebus and tortures vile also. Hold hook and line, say I. Down, down, dogs! down fates! Have we not Hiren here?
+<SPEECH 8><ACT 2><SCENE 4><37%>
+	These be good humours, indeed! Shall pack-horses,
+	And hollow pamper'd jades of Asia,
+	Which cannot go but thirty miles a day,
+	Compare with Cæsars, and with Cannibals,
+	And Trojan Greeks? nay, rather damn them with
+	King Cerberus; and let the welkin roar.
+	Shall we fall foul for toys?
+<SPEECH 9><ACT 2><SCENE 4><37%>
+	Dio men like dogs! give crowns like pins! Have we not Hiren here?
+<SPEECH 10><ACT 2><SCENE 4><37%>
+	Then feed, and be fat, my fair Calipolis.
+	Come, give's some sack.
+	Si fortuna me tormente, sperato me contento.
+	Fear we broadsides? no, let the fiend give fire:
+	Give me some sack; and, sweetheart, lie thou there.
+	Come we to full points here, and are et ceteras nothing?
+<SPEECH 11><ACT 2><SCENE 4><38%>
+	Sweet knight, I kiss thy neif. What! we have seen the seven stars.
+<SPEECH 12><ACT 2><SCENE 4><38%>
+	'Thrust him down stairs!' know we not Galloway nags?
+<SPEECH 13><ACT 2><SCENE 4><38%>
+	What! shall we have incision? Shall we imbrue?
+	Then death rock me asleep, abridge my doleful days!
+	Why then, let grievous, ghastly, gaping wounds
+	Untwine the Sisters Three! Come, Atropos, I say!
+<SPEECH 14><ACT 5><SCENE 3><93%>
+	Sir John, God save you, sir!
+<SPEECH 15><ACT 5><SCENE 3><93%>
+	Not the ill wind which blows no man to good.
+	Sweet knight, thou art now one of the greatest men in this realm.
+<SPEECH 16><ACT 5><SCENE 3><93%>
+	Puff!
+	Puff in thy teeth, most recreant coward base!
+	Sir John, I am thy Pistol and thy friend,
+	And helter-skelter have I rode to thee,
+	And tidings do I bring and lucky joys
+	And golden times and happy news of price.
+<SPEECH 17><ACT 5><SCENE 3><93%>
+	A foutra for the world and worldlings base!
+	I speak of Africa and golden joys.
+<SPEECH 18><ACT 5><SCENE 3><93%>
+	Shall dunghill curs confront the Helicons?
+	And shall good news be baffled?
+	Then, Pistol, lay thy head in Furies' lap.
+<SPEECH 19><ACT 5><SCENE 3><93%>
+	Why then, lament therefore.
+<SPEECH 20><ACT 5><SCENE 3><93%>
+	Under which king, Bezonian? speak, or die.
+<SPEECH 21><ACT 5><SCENE 3><94%>
+	Harry the Fourth? or Fifth?
+<SPEECH 22><ACT 5><SCENE 3><94%>
+	A foutra for thine office!
+	Sir John, thy tender lambkin now is king;
+	Harry the Fifth's the man. I speak the truth:
+	When Pistol lies, do this; and fig me, like
+	The bragging Spaniard.
+<SPEECH 23><ACT 5><SCENE 3><94%>
+	As nail in door: the things I speak are just.
+<SPEECH 24><ACT 5><SCENE 3><94%>
+	What! I do bring good news.
+<SPEECH 25><ACT 5><SCENE 3><94%>
+	Let vultures vile seize on his lungs also!
+	'Where is the life that late I led?' say they:
+	Why, here it is: welcome these pleasant days!
+<SPEECH 26><ACT 5><SCENE 5><96%>
+	God bless thy lungs, good knight.
+<SPEECH 27><ACT 5><SCENE 5><96%>
+	'Tis semper idem, for absque hoc nihil est:
+	'Tis all in every part.
+<SPEECH 28><ACT 5><SCENE 5><96%>
+	My knight, I will inflame thy noble liver,
+	And make thee rage.
+	Thy Doll, and Helen of thy noble thoughts,
+	Is in base durance and contagious prison;
+	Hal'd thither
+	By most mechanical and dirty hand:
+	Rouse up revenge from ebon den with fell Alecto's snake,
+	For Doll is in: Pistol speaks nought but truth.
+<SPEECH 29><ACT 5><SCENE 5><97%>
+	There roar'd the sea, and trumpetclangor sounds.
+<SPEECH 30><ACT 5><SCENE 5><97%>
+	The heavens thee guard and keep, most royal imp of fame!
+<SPEECH 31><ACT 5><SCENE 5><98%>
+	Si fortuna me tormenta, spero contenta.

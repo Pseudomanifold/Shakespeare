@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 4><SCENE 3><79%>
+	Where should he have this gold? It is some poor fragment, some slender ort of his remainder. The mere want of gold, and the falling-from of his friends, drove him into this melancholy.
+<SPEECH 2><ACT 4><SCENE 3><80%>
+	Is not this he?
+<SPEECH 3><ACT 4><SCENE 3><80%>
+	We cannot live on grass, on berries, water,
+	As beasts, and birds, and fishes.
+<SPEECH 4><ACT 4><SCENE 3><82%>
+	'Tis in the malice of mankind that he thus advises us; not to have us thrive in our mystery.
+<SPEECH 5><ACT 4><SCENE 3><82%>
+	Let us first see peace in Athens; there is no time so miserable but a man may be true.

@@ -1,0 +1,129 @@
+<SPEECH 1><ACT 3><SCENE 1><36%>
+	When Julius Cæsar—whose remembrance yet
+	Lives in men's eyes, and will to ears and tongues
+	Be theme and hearing ever—was in this Britain,
+	And conquer'd it, Cassibelan, thine uncle,—
+	Famous in Cæsar's praises, no whit less
+	Than in his feats deserving it,—for him
+	And his succession, granted Rome a tribute,
+	Yearly three thousand pounds, which by thee lately
+	Is left untender'd.
+<SPEECH 2><ACT 3><SCENE 1><38%>
+	I am sorry, Cymbeline,
+	That I am to pronounce Augustus Cæsar—
+	Cæsar, that hath more kings his servants than
+	Thyself domestic officers—thine enemy.
+	Receive it from me, then: war and confusion
+	In Cæsar's name pronounce I 'gainst thee: look
+	For fury not to be resisted. Thus defied,
+	I thank thee for myself.
+<SPEECH 3><ACT 3><SCENE 1><38%>
+	Let proof speak.
+<SPEECH 4><ACT 3><SCENE 1><39%>
+	So, sir.
+<SPEECH 5><ACT 3><SCENE 5><50%>
+	Thanks, royal sir.
+	My emperor hath wrote, I must from hence;
+	And am right sorry that I must report ye
+	My master's enemy.
+<SPEECH 6><ACT 3><SCENE 5><50%>
+	So, sir: I desire of you
+	A conduct over land to Milford-Haven.
+	Madam, all joy befall your Grace.
+<SPEECH 7><ACT 3><SCENE 5><50%>
+	Your hand, my lord.
+<SPEECH 8><ACT 3><SCENE 5><50%>
+	Sir, the event
+	Is yet to name the winner. Fare you well.
+<SPEECH 9><ACT 4><SCENE 2><70%>
+	But what from Rome?
+<SPEECH 10><ACT 4><SCENE 2><70%>
+	When expect you them?
+<SPEECH 11><ACT 4><SCENE 2><70%>
+	This forwardness
+	Makes our hopes fair. Command our present numbers
+	Be muster'd; bid the captains look to 't. Now, sir,
+	What have you dream'd of late of this war's purpose?
+<SPEECH 12><ACT 4><SCENE 2><70%>
+	Dream often so,
+	And never false. Soft, ho! what trunk is here
+	Without his top? The ruin speaks that sometime
+	It was a worthy building. How! a page!
+	Or dead or sleeping on him? But dead rather,
+	For nature doth abhor to make his bed
+	With the defunct, or sleep upon the dead.
+	Let's see the boy's face.
+<SPEECH 13><ACT 4><SCENE 2><70%>
+	He'll, then, instruct us of this body. Young one,
+	Inform us of thy fortunes, for it seems
+	They crave to be demanded. Who is this
+	Thou mak'st thy bloody pillow? Or who was he
+	That, otherwise than noble nature did,
+	Hath alter'd that good picture? What's thy interest
+	In this sad wrack? How came it? Who is it?
+	What art thou?
+<SPEECH 14><ACT 4><SCENE 2><71%>
+	'Lack, good youth!
+	Thou mov'st no less with thy complaining than
+	Thy master in bleeding. Say his name, good friend.
+<SPEECH 15><ACT 4><SCENE 2><71%>
+	Thy name?
+<SPEECH 16><ACT 4><SCENE 2><71%>
+	Thou dost approve thyself the very same;
+	Thy name well fits thy faith, thy faith thy name.
+	Wilt take thy chance with me? I will not say
+	Thou shalt be so well master'd, but be sure
+	No less belov'd. The Roman emperor's letters,
+	Sent by a consul to me, should not sooner
+	Than thine own worth prefer thee. Go with me.
+<SPEECH 17><ACT 4><SCENE 2><71%>
+	Ay, good youth,
+	And rather father thee than master thee.
+	My friends,
+	The boy hath taught us manly duties; let us
+	Find out the prettiest daisied plot we can,
+	And make him with our pikes and partisans
+	A grave; come, arm him. Boy, he is preferr'd
+	By thee to us, and he shall be interr'd
+	As soldiers can. Be cheerful; wipe thine eyes:
+	Some falls are means the happier to arise.
+<SPEECH 18><ACT 5><SCENE 2><77%>
+	Away, boy, from the troops, and save thyself;
+	For friends kill friends, and the disorder's such
+	As war were hoodwink'd.
+<SPEECH 19><ACT 5><SCENE 2><77%>
+	It is a day turn'd strangely: or betimes
+	Let's re-inforce, or fly.
+<SPEECH 20><ACT 5><SCENE 5><88%>
+	Consider, sir, the chance of war: the day
+	Was yours by accident; had it gone with us,
+	We should not, when the blood was cool, have threaten'd
+	Our prisoners with the sword. But since the gods
+	Will have it thus, that nothing but our lives
+	May be call'd ransom, let it come; sufficeth,
+	A Roman with a Roman's heart can suffer;
+	Augustus lives to think on 't; and so much
+	For my peculiar care. This one thing only
+	I will entreat; my boy, a Briton born,
+	Let him be ransom'd; never master had
+	A page so kind, so duteous, diligent,
+	So tender over his occasions, true,
+	So feat, so nurse-like. Let his virtue join
+	With my request, which I'll make bold your highness
+	Cannot deny; he hath done no Briton harm,
+	Though he have serv'd a Roman. Save him, sir,
+	And spare no blood beside.
+<SPEECH 21><ACT 5><SCENE 5><89%>
+	I do not bid thee beg my life, good lad;
+	And yet I know thou wilt.
+<SPEECH 22><ACT 5><SCENE 5><89%>
+	The boy disdains me,
+	He leaves me, scorns me; briefly die their joys
+	That place them on the truth of girls and boys.
+	Why stands he so perplex'd?
+<SPEECH 23><ACT 5><SCENE 5><98%>
+	Happy be you!
+<SPEECH 24><ACT 5><SCENE 5><99%>
+	Philarmonus!
+<SPEECH 25><ACT 5><SCENE 5><99%>
+	Read, and declare the meaning

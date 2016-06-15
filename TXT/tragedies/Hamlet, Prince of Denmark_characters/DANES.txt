@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 4><SCENE 5><73%>
+	No, let's come in.
+<SPEECH 2><ACT 4><SCENE 5><73%>
+	We will, we will.
+<SPEECH 3><ACT 4><SCENE 5><74%>
+	</STAGE DIR> Let her come in.

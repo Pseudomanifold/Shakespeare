@@ -1,0 +1,239 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	Give us the proudest prisoner of the Goths,
+	That we may hew his limbs, and on a pile
+	Ad manes fratrum sacrifice his flesh,
+	Before this earthy prison of their bones;
+	That so the shadows be not unappeas'd,
+	Nor we disturb'd with prodigies on earth.
+<SPEECH 2><ACT 1><SCENE 1><5%>
+	Away with him! and make a fire straight;
+	And with our swords, upon a pile of wood,
+	Let's hew his limbs till they be clean consum'd.
+<SPEECH 3><ACT 1><SCENE 1><6%>
+	See, lord and father, how we have perform'd
+	Our Roman rites. Alarbus' limbs are lopp'd,
+	And entrails feed the sacrificing fire,
+	Whose smoke, like incense, doth perfume the sky.
+	Remaineth nought but to inter our brethren,
+	And with loud 'larums welcome them to Rome.
+<SPEECH 4><ACT 1><SCENE 1><9%>
+	Proud Saturnine, interrupter of the good
+	That noble-minded Titus means to thee!
+<SPEECH 5><ACT 1><SCENE 1><11%>
+	And that he will, and shall, if Lucius live.
+<SPEECH 6><ACT 1><SCENE 1><12%>
+	My lord, you are unjust; and, more than so,
+	In wrongful quarrel you have slain your son.
+<SPEECH 7><ACT 1><SCENE 1><12%>
+	Dead, if you will; but not to be his wife
+	That is another's lawful promis'd love.
+<SPEECH 8><ACT 1><SCENE 1><14%>
+	But let us give him burial, as becomes;
+	Give Mutius burial with our brethren.
+<SPEECH 9><ACT 1><SCENE 1><15%>
+	Dear father, soul and substance of us all,—
+<SPEECH 10><ACT 1><SCENE 1><16%>
+	There lie thy bones, sweet Mutius, with thy friends,
+	Till we with trophies do adorn thy tomb.
+<SPEECH 11><ACT 1><SCENE 1><19%>
+	We do; and vow to heaven and to his highness,
+	That what we did was mildly, as we might,
+	Tendering our sister's honour and our own.
+<SPEECH 12><ACT 3><SCENE 1><42%>
+	O noble father, you lament in vain:
+	The tribunes hear you not, no man is by;
+	And you recount your sorrows to a stone.
+<SPEECH 13><ACT 3><SCENE 1><42%>
+	My gracious lord, no tribune hears you speak.
+<SPEECH 14><ACT 3><SCENE 1><43%>
+	To rescue my two brothers from their death;
+	For which attempt the judges have pronounc'd
+	My everlasting doom of banishment.
+<SPEECH 15><ACT 3><SCENE 1><43%>
+	Ay me! this object kills me.
+<SPEECH 16><ACT 3><SCENE 1><44%>
+	Speak, gentle sister, who hath martyr'd thee?
+<SPEECH 17><ACT 3><SCENE 1><44%>
+	O! say thou for her, who hath done this deed?
+<SPEECH 18><ACT 3><SCENE 1><46%>
+	Sweet father, cease your tears; for at your grief
+	See how my wretched sister sobs and weeps.
+<SPEECH 19><ACT 3><SCENE 1><46%>
+	Ah! my Lavinia, I will wipe thy cheeks.
+<SPEECH 20><ACT 3><SCENE 1><47%>
+	Stay, father! for that noble hand of thine,
+	That hath thrown down so many enemies,
+	Shall not be sent; my hand will serve the turn:
+	My youth can better spare my blood than you;
+	And therefore mine shall save my brothers' lives.
+<SPEECH 21><ACT 3><SCENE 1><48%>
+	By heaven, it shall not go!
+<SPEECH 22><ACT 3><SCENE 1><48%>
+	Sweet father, if I shall be thought thy son,
+	Let me redeem my brothers both from death.
+<SPEECH 23><ACT 3><SCENE 1><48%>
+	Then I'll go fetch an axe.
+<SPEECH 24><ACT 3><SCENE 1><50%>
+	Ah! that this sight should make so deep a wound,
+	And yet detested life not shrink thereat,
+	That ever death should let life bear his name,
+	Where life hath no more interest but to breathe.
+<SPEECH 25><ACT 3><SCENE 1><52%>
+	Farewell, Andronicus, my noble father;
+	The woefull'st man that ever liv'd in Rome:
+	Farewell, proud Rome; till Lucius come again,
+	He leaves his pledges dearer than his life.
+	Farewell, Lavinia, my noble sister;
+	O! would thou wert as thou tofore hast been;
+	But now nor Lucius nor Lavinia lives
+	But in oblivion and hateful griefs.
+	If Lucius live, he will requite your wrongs,
+	And make proud Saturnine and his empress
+	Beg at the gates like Tarquin and his queen.
+	Now will I to the Goths, and raise a power,
+	To be reveng'd on Rome and Saturnine.
+<SPEECH 26><ACT 5><SCENE 1><77%>
+	Approved warriors, and my faithful friends,
+	I have received letters from great Rome,
+	Which signify what hate they bear their emperor,
+	And how desirous of our sight they are.
+	Therefore, great lords, be, as your titles witness,
+	Imperious and impatient of your wrongs;
+	And wherein Rome hath done you any scath,
+	Let him make treble satisfaction.
+<SPEECH 27><ACT 5><SCENE 1><78%>
+	I humbly thank him, and I thank you all.
+	But who comes here, led by a lusty Goth?
+<SPEECH 28><ACT 5><SCENE 1><79%>
+	O worthy Goth, this is the incarnate devil
+	That robb'd Andronicus of his good hand:
+	This is the pearl that pleas'd your empress' eye,
+	And here's the base fruit of his burning lust.
+	Say, wall-ey'd slave, whither wouldst thou convey
+	This growing image of thy fiend-like face?
+	Why dost not speak? What! deaf? not a word?
+	A halter, soldiers! hang him on this tree,
+	And by his side his fruit of bastardy.
+<SPEECH 29><ACT 5><SCENE 1><79%>
+	Too like the sire for ever being good.
+	First hang the child, that he may see it sprawl;
+	A sight to vex the father's soul withal.
+	Get me a ladder.
+<SPEECH 30><ACT 5><SCENE 1><80%>
+	Say on; and if it please me which thou speak'st,
+	Thy child shall live, and I will see it nourish'd.
+<SPEECH 31><ACT 5><SCENE 1><80%>
+	Tell on thy mind: I say, thy child shall live.
+<SPEECH 32><ACT 5><SCENE 1><80%>
+	Who should I swear by? thou believ'st no god:
+	That granted, how canst thou believe an oath?
+<SPEECH 33><ACT 5><SCENE 1><81%>
+	Even by my god I swear to thee I will.
+<SPEECH 34><ACT 5><SCENE 1><81%>
+	O most insatiate and luxurious woman!
+<SPEECH 35><ACT 5><SCENE 1><81%>
+	O detestable villain! call'st thou that trimming?
+<SPEECH 36><ACT 5><SCENE 1><81%>
+	O barbarous, beastly villains, like thyself!
+<SPEECH 37><ACT 5><SCENE 1><82%>
+	Art thou not sorry for these heinous deeds?
+<SPEECH 38><ACT 5><SCENE 1><83%>
+	Bring down the devil, for he must not die
+	So sweet a death as hanging presently.
+<SPEECH 39><ACT 5><SCENE 1><83%>
+	Sirs, stop his mouth, and let him speak no more.
+<SPEECH 40><ACT 5><SCENE 1><83%>
+	Let him come near.
+	Welcome, Æmilius! what's the news from Rome?
+<SPEECH 41><ACT 5><SCENE 1><84%>
+	Æmilius, let the emperor give his pledges
+	Unto my father and my uncle Marcus,
+	And we will come. March away.
+<SPEECH 42><ACT 5><SCENE 3><92%>
+	Uncle Marcus, since it is my father's mind
+	That I repair to Rome, I am content.
+<SPEECH 43><ACT 5><SCENE 3><92%>
+	Good uncle, take you in this barbarous Moor,
+	This ravenous tiger, this accursed devil;
+	Let him receive no sustenance, fetter him,
+	Till he be brought unto the empress' face,
+	For testimony of her foul proceedings:
+	And see the ambush of our friends be strong;
+	I fear the emperor means no good to us.
+<SPEECH 44><ACT 5><SCENE 3><92%>
+	Away, inhuman dog! unhallow'd slave!
+	Sirs, help our uncle to convey him in.
+	The trumpets show the emperor is at hand.
+<SPEECH 45><ACT 5><SCENE 3><93%>
+	What boots it thee, to call thyself a sun?
+<SPEECH 46><ACT 5><SCENE 3><95%>
+	Can the son's eye behold his father bleed?
+	There's meed for meed, death for a deadly deed!
+<SPEECH 47><ACT 5><SCENE 3><96%>
+	Then, noble auditory, be it known to you,
+	That cursed Chiron and Demetrius
+	Were they that murdered our emperor's brother;
+	And they it was that ravished our sister.
+	For their fell faults our brothers were beheaded,
+	Our father's tears despis'd, and basely cozen'd
+	Of that true hand that fought Rome's quarrel out,
+	And sent her enemies unto the grave:
+	Lastly, myself unkindly banished,
+	The gates shut on me, and turn'd weeping out,
+	To beg relief among Rome's enemies;
+	Who drown'd their enmity in my true tears,
+	And op'd their arms to embrace me as a friend:
+	And I am the turn'd forth, be it known to you,
+	That have preserv'd her welfare in my blood,
+	And from her bosom took the enemy's point,
+	Sheathing the steel in my adventurous body.
+	Alas! you know I am no vaunter, I;
+	My scars can witness, dumb although they are,
+	That my report is just and full of truth.
+	But, soft! methinks I do digress too much,
+	Citing my worthless praise: O! pardon me;
+	For when no friends are by, men praise themselves.
+<SPEECH 48><ACT 5><SCENE 3><98%>
+	Thanks, gentle Romans: may I govern so,
+	To heal Rome's harms, and wipe away her woe!
+	But, gentle people, give me aim awhile,
+	For nature puts me to a heavy task.
+	Stand all aloof; but, uncle, draw you near,
+	To shed obsequious tears upon this trunk.
+	O! take this warm kiss on thy pale cold lips,
+	These sorrowful drops upon thy blood-stain'd face,
+	The last true duties of thy noble son!
+<SPEECH 49><ACT 5><SCENE 3><98%>
+	Come hither, boy; come, come, and learn of us
+	To melt in showers: thy grandsire lov'd thee well:
+	Many a time he danc'd thee on his knee,
+	Sung thee asleep, his loving breast thy pillow;
+	Many a matter hath he told to thee,
+	Meet and agreeing with thine infancy;
+	In that respect, then, like a loving child,
+	Shed yet some small drops from thy tender spring,
+	Because kind nature doth require it so:
+	Friends should associate friends in grief and woe.
+	Bid him farewell; commit him to the grave;
+	Do him that kindness, and take leave of him.
+<SPEECH 50><ACT 5><SCENE 3><99%>
+	Set him breast-deep in earth, and famish him;
+	There let him stand, and rave, and cry for food:
+	If any one relieves or pities him,
+	For the offence he dies. This is our doom:
+	Some stay to see him fasten'd in the earth.
+<SPEECH 51><ACT 5><SCENE 3><99%>
+	Some loving friends convey the emperor hence,
+	And give him burial in his father's grave.
+	My father and Lavinia shall forthwith
+	Be closed in our household's monument.
+	As for that heinous tiger, Tamora,
+	No funeral rite, nor man in mournful weeds,
+	No mournful bell shall ring her burial;
+	But throw her forth to beasts and birds of prey.
+	Her life was beast-like, and devoid of pity;
+	And, being so, shall have like want of pity.
+	See justice done on Aaron, that damn'd Moor,
+	By whom our heavy haps had their beginning:
+	Then, afterwards, to order well the state,
+	That like events may ne'er it ruinate.

@@ -1,0 +1,184 @@
+<SPEECH 1><ACT 2><SCENE 2><32%>
+	No, boy.
+<SPEECH 2><ACT 2><SCENE 2><33%>
+	My pretty cousins, you mistake me much;
+	I do lament the sickness of the king,
+	As loath to lose him, not your father's death;
+	It were lost sorrow to wail one that's lost.
+<SPEECH 3><ACT 2><SCENE 2><33%>
+	Peace, children, peace! the king doth love you well:
+	Incapable and shallow innocents,
+	You cannot guess who caus'd your father's death.
+<SPEECH 4><ACT 2><SCENE 2><33%>
+	Ah! that deceit should steal such gentle shape,
+	And with a virtuous vizard hide deep vice.
+	He is my son, ay, and therein my shame,
+	Yet from my dugs he drew not this deceit.
+<SPEECH 5><ACT 2><SCENE 2><33%>
+	Ay, boy.
+<SPEECH 6><ACT 2><SCENE 2><33%>
+	What means this scene of rude impatience?
+<SPEECH 7><ACT 2><SCENE 2><34%>
+	Ah! so much interest have I in thy sorrow
+	As I had title in thy noble husband.
+	I have bewept a worthy husband's death,
+	And liv'd with looking on his images;
+	But now two mirrors of his princely semblance
+	Are crack'd in pieces by malignant death,
+	And I for comfort have but one false glass,
+	That grieves me when I see my shame in him.
+	Thou art a widow; yet thou art a mother,
+	And hast the comfort of thy children left thee:
+	But death hath snatch'd my husband from mine arms,
+	And pluck'd two crutches from my feeble limbs,
+	Clarence and Edward. O! what cause have I—
+	Thine being but a moiety of my grief—
+	To overgo thy plaints, and drown thy cries!
+<SPEECH 8><ACT 2><SCENE 2><34%>
+	Alas! for both, both mine, Edward and Clarence!
+<SPEECH 9><ACT 2><SCENE 2><34%>
+	What stays had I but they? and they are gone.
+<SPEECH 10><ACT 2><SCENE 2><34%>
+	Was never mother had so dear a loss.
+	Alas! I am the mother of these griefs:
+	Their woes are parcell'd, mine are general.
+	She for an Edward weeps, and so do I;
+	I for a Clarence weep, so doth not she:
+	These babes for Clarence weep, and so do I;
+	I for an Edward weep, so do not they:
+	Alas! you three, on me, threefold distress'd,
+	Pour all your tears; I am your sorrow's nurse,
+	And I will pamper it with lamentation.
+<SPEECH 11><ACT 2><SCENE 2><35%>
+	God bless thee! and put meekness in thy mind,
+	Love, charity, obedience, and true duty.
+<SPEECH 12><ACT 2><SCENE 4><38%>
+	I long with all my heart to see the prince.
+	I hope he is much grown since last I saw him.
+<SPEECH 13><ACT 2><SCENE 4><38%>
+	Why, my young cousin, it is good to grow.
+<SPEECH 14><ACT 2><SCENE 4><38%>
+	Good faith, good faith, the saying did not hold
+	In him that did object the same to thee:
+	He was the wretched'st thing when he was young,
+	So long a-growing, and so leisurely,
+	That, if his rule were true, he should be gracious.
+<SPEECH 15><ACT 2><SCENE 4><39%>
+	I hope he is; but yet let mothers doubt.
+<SPEECH 16><ACT 2><SCENE 4><39%>
+	How, my young York? I prithee, let me hear it.
+<SPEECH 17><ACT 2><SCENE 4><39%>
+	I prithee, pretty York, who told thee this?
+<SPEECH 18><ACT 2><SCENE 4><39%>
+	His nurse! why, she was dead ere thou wast born.
+<SPEECH 19><ACT 2><SCENE 4><39%>
+	What is thy news?
+<SPEECH 20><ACT 2><SCENE 4><39%>
+	Who hath committed them?
+<SPEECH 21><ACT 2><SCENE 4><39%>
+	Accursed and unquiet wrangling days,
+	How many of you have mine eyes beheld!
+	My husband lost his life to get the crown,
+	And often up and down my sons were toss'd,
+	For me to joy and weep their gain and loss:
+	And being seated, and domestic broils
+	Clean over-blown, themselves, the conquerors,
+	Make war upon themselves; brother to brother,
+	Blood to blood, self against self: O! preposterous
+	And frantic outrage, end thy damned spleen;
+	Or let me die, to look on death no more.
+<SPEECH 22><ACT 2><SCENE 4><40%>
+	Stay, I will go with you.
+<SPEECH 23><ACT 4><SCENE 1><63%>
+	Who meets us here? my niece Plantagenet,
+	Led in the hand of her kind aunt of Gloucester?
+	Now, for my life, she's wand'ring to the Tower,
+	On pure heart's love, to greet the tender princes.
+	Daughter, well met.
+<SPEECH 24><ACT 4><SCENE 1><63%>
+	I am their father's mother; I will see them.
+<SPEECH 25><ACT 4><SCENE 1><64%>
+	O ill-dispersing wind of misery!
+	O! my accursed womb, the bed of death,
+	A cockatrice hast thou hatch'd to the world,
+	Whose unavoided eye is murderous!
+<SPEECH 26><ACT 4><SCENE 1><65%>
+	</STAGE DIR> Go thou to Richmond, and good fortune guide thee!
+	</STAGE DIR> Go thou to Richard, and good angels tend thee!
+	</STAGE DIR> Go thou to sanctuary, and good thoughts possess thee!
+	I to my grave, where peace and rest lie with me!
+	Eighty odd years of sorrow have I seen,
+	And each hour's joy wrack'd with a week of teen.
+<SPEECH 27><ACT 4><SCENE 4><71%>
+	So many miseries have craz'd my voice,
+	That my woe-wearied tongue is still and mute.
+	Edward Plantagenet, why art thou dead?
+<SPEECH 28><ACT 4><SCENE 4><72%>
+	Dead life, blind sight, poor mortal living ghost,
+	Woe's scene, world's shame, grave's due by life usurp'd,
+	Brief abstract and record of tedious days,
+	Rest thy unrest on England's lawful earth,
+	Unlawfully made drunk with innocent blood!
+<SPEECH 29><ACT 4><SCENE 4><72%>
+	I had a Richard too, and thou didst kill him;
+	I had a Rutland too, thou holp'st to kill him.
+<SPEECH 30><ACT 4><SCENE 4><72%>
+	O! Harry's wife, triumph not in my woes:
+	God witness with me, I have wept for thine.
+<SPEECH 31><ACT 4><SCENE 4><74%>
+	Why should calamity be full of words?
+<SPEECH 32><ACT 4><SCENE 4><74%>
+	If so, then be not tongue-tied: go with me,
+	And in the breath of bitter words let's smother
+	My damned son, that thy two sweet sons smother'd.
+	The trumpet sounds: be copious in exclaims.
+<SPEECH 33><ACT 4><SCENE 4><74%>
+	O! she that might have intercepted thee,
+	By strangling thee in her accursed womb,
+	From all the slaughters, wretch, that thou hast done!
+<SPEECH 34><ACT 4><SCENE 4><75%>
+	Thou toad, thou toad, where is thy brother Clarence
+	And little Ned Plantagenet, his son?
+<SPEECH 35><ACT 4><SCENE 4><75%>
+	Where is kind Hastings?
+<SPEECH 36><ACT 4><SCENE 4><75%>
+	Art thou my son?
+<SPEECH 37><ACT 4><SCENE 4><75%>
+	Then patiently hear my impatience.
+<SPEECH 38><ACT 4><SCENE 4><75%>
+	O, let me speak!
+<SPEECH 39><ACT 4><SCENE 4><75%>
+	I will be mild and gentle in my words.
+<SPEECH 40><ACT 4><SCENE 4><75%>
+	Art thou so hasty? I have stay'd for thee,
+	God knows, in torment and in agony.
+<SPEECH 41><ACT 4><SCENE 4><75%>
+	No, by the holy rood, thou know'st it well,
+	Thou cam'st on earth to make the earth my hell.
+	A grievous burden was thy birth to me;
+	Tetchy and wayward was thy infancy;
+	Thy school-days frightful, desperate, wild and furious;
+	Thy prime of manhood daring, bold, and venturous;
+	Thy age confirm'd, proud, subtle, sly, and bloody,
+	More mild, but yet more harmful, kind in hatred:
+	What comfortable hour canst thou name
+	That ever grac'd me in thy company?
+<SPEECH 42><ACT 4><SCENE 4><76%>
+	I prithee, hear me speak.
+<SPEECH 43><ACT 4><SCENE 4><76%>
+	Hear me a word;
+	For I shall never speak to thee again.
+<SPEECH 44><ACT 4><SCENE 4><76%>
+	Either thou wilt die by God's just ordinance,
+	Ere from this war thou turn a conqueror;
+	Or I with grief and extreme age shall perish
+	And never look upon thy face again.
+	Therefore take with thee my most grievous curse,
+	Which, in the day of battle, tire thee more
+	Than all the complete armour that thou wear'st!
+	My prayers on the adverse party fight;
+	And there the little souls of Edward's children
+	Whisper the spirits of thine enemies
+	And promise them success and victory.
+	Bloody thou art, bloody will be thy end;
+	Shame serves thy life and doth thy death attend.

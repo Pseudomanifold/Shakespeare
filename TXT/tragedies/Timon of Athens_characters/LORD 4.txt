@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 3><SCENE 6><58%>
+	I have lost my gown.
+<SPEECH 2><ACT 3><SCENE 6><58%>
+	Here lies my gown.
+<SPEECH 3><ACT 3><SCENE 6><59%>
+	One day he gives us diamonds, next day stones.

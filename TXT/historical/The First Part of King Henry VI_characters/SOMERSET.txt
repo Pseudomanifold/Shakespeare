@@ -1,0 +1,91 @@
+<SPEECH 1><ACT 2><SCENE 4><32%>
+	Judge you, my Lord of Warwick, then, between us.
+<SPEECH 2><ACT 2><SCENE 4><32%>
+	And on my side it is so well apparell'd,
+	So clear, so shining, and so evident,
+	That it will glimmer through a blind man's eye.
+<SPEECH 3><ACT 2><SCENE 4><33%>
+	Let him that is no coward nor no flatterer,
+	But dare maintain the party of the truth,
+	Pluck a red rose from off this thorn with me.
+<SPEECH 4><ACT 2><SCENE 4><33%>
+	Good Master Vernon, it is well objected:
+	If I have fewest I subscribe in silence.
+<SPEECH 5><ACT 2><SCENE 4><33%>
+	Prick not your finger as you pluck it off,
+	Lest bleeding you do paint the white rose red,
+	And fall on my side so, against your will.
+<SPEECH 6><ACT 2><SCENE 4><34%>
+	Well, well, come on: who else?
+<SPEECH 7><ACT 2><SCENE 4><34%>
+	Here, in my scabbard; meditating that
+	Shall dye your white rose in a bloody red.
+<SPEECH 8><ACT 2><SCENE 4><34%>
+	No, Plantagenet,
+	'Tis not for fear but anger that thy cheeks
+	Blush for pure shame to counterfeit our roses,
+	And yet thy tongue will not confess thy error.
+<SPEECH 9><ACT 2><SCENE 4><34%>
+	Hath not thy rose a thorn, Plantagenet?
+<SPEECH 10><ACT 2><SCENE 4><34%>
+	Well, I'll find friends to wear my bleeding roses,
+	That shall maintain what I have said is true,
+	Where false Plantagenet dare not be seen.
+<SPEECH 11><ACT 2><SCENE 4><34%>
+	Away, away! good William de la Pole:
+	We grace the yeoman by conversing with him.
+<SPEECH 12><ACT 2><SCENE 4><35%>
+	By Him that made me, I'll maintain my words
+	On any plot of ground in Christendom.
+	Was not thy father, Richard Earl of Cambridge,
+	For treason executed in our late king's days?
+	And, by his treason stand'st not thou attainted,
+	Corrupted, and exempt from ancient gentry?
+	His trespass yet lives guilty in thy blood;
+	And, till thou be restor'd, thou art a yeoman.
+<SPEECH 13><ACT 2><SCENE 4><35%>
+	Ah, thou shalt find us ready for thee still,
+	And know us by these colours for thy foes;
+	For these my friends in spite of thee shall wear.
+<SPEECH 14><ACT 2><SCENE 4><36%>
+	Have with thee, Pole. Farewell, ambitious Richard.
+<SPEECH 15><ACT 3><SCENE 1><43%>
+	My lord, it were your duty to forbear.
+<SPEECH 16><ACT 3><SCENE 1><43%>
+	Methinks my lord should be religious,
+	And know the office that belongs to such.
+<SPEECH 17><ACT 3><SCENE 1><43%>
+	Yes, when his holy state is touch'd so near.
+<SPEECH 18><ACT 3><SCENE 1><47%>
+	</STAGE DIR> Perish, base prince, ignoble Duke of York!
+<SPEECH 19><ACT 4><SCENE 1><62%>
+	And this is mine: sweet Henry, favour him!
+<SPEECH 20><ACT 4><SCENE 1><63%>
+	Your private grudge, my Lord of York, will out,
+	Though ne'er so cunningly you smother it.
+<SPEECH 21><ACT 4><SCENE 1><63%>
+	The quarrel toucheth none but us alone;
+	Betwixt ourselves let us decide it, then.
+<SPEECH 22><ACT 4><SCENE 4><70%>
+	It is too late; I cannot send them now:
+	This expedition was by York and Talbot
+	Too rashly plotted: all our general force
+	Might with a sally of the very town
+	Be buckled with: the over-daring Talbot
+	Hath sullied all his gloss of former honour
+	By this unheedful, desperate, wild adventure:
+	York set him on to fight and die in shame,
+	That, Talbot dead, great York might bear the name.
+<SPEECH 23><ACT 4><SCENE 4><71%>
+	How now, Sir William! whither were you sent?
+<SPEECH 24><ACT 4><SCENE 4><71%>
+	York set him on; York should have sent him aid.
+<SPEECH 25><ACT 4><SCENE 4><71%>
+	York lies; he might have sent and had the horse:
+	I owe him little duty, and less love;
+	And take foul scorn to fawn on him by sending.
+<SPEECH 26><ACT 4><SCENE 4><72%>
+	Come, go; I will dispatch the horsemen straight:
+	Within six hours they will be at his aid.
+<SPEECH 27><ACT 4><SCENE 4><72%>
+	If he be dead, brave Talbot, then adieu!

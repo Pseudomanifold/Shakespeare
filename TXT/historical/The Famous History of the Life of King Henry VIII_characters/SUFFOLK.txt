@@ -1,0 +1,123 @@
+<SPEECH 1><ACT 2><SCENE 2><30%>
+	How is the king employ'd?
+<SPEECH 2><ACT 2><SCENE 2><30%>
+	No; his conscience
+	Has crept too near another lady.
+<SPEECH 3><ACT 2><SCENE 2><30%>
+	Pray God he do! he'll never know himself else.
+<SPEECH 4><ACT 2><SCENE 2><31%>
+	And free us from his slavery.
+<SPEECH 5><ACT 2><SCENE 2><31%>
+	For me, my lords,
+	I love him not, nor fear him; there's my creed.
+	As I am made without him, so I'll stand,
+	If the king please; his curses and his blessings
+	Touch me alike, they're breath I not believe in.
+	I knew him, and I know him; so I leave him
+	To him that made him proud, the pope.
+<SPEECH 6><ACT 2><SCENE 2><31%>
+	How sad he looks! sure, he is much afflicted.
+<SPEECH 7><ACT 2><SCENE 2><32%>
+	</STAGE DIR> Not to speak of;
+	I would not be so sick though for his place:
+	But this cannot continue.
+<SPEECH 8><ACT 2><SCENE 2><32%>
+	</STAGE DIR> I another.
+<SPEECH 9><ACT 3><SCENE 2><53%>
+	Which of the peers
+	Have uncontemn'd gone by him, or at least
+	Strangely neglected? when did he regard
+	The stamp of nobleness in any person,
+	Out of himself?
+<SPEECH 10><ACT 3><SCENE 2><53%>
+	Most strangely.
+<SPEECH 11><ACT 3><SCENE 2><54%>
+	The cardinal's letter to the pope miscarried,
+	And came to the eye o' the king; wherein was read,
+	That the cardinal did entreat his holiness
+	To stay the judgment o' the divorce; for if
+	It did take place, 'I do,' quoth he, 'perceive
+	My king is tangled in affection to
+	A creature of the queen's, Lady Anne Bullen.'
+<SPEECH 12><ACT 3><SCENE 2><54%>
+	Believe it.
+<SPEECH 13><ACT 3><SCENE 2><54%>
+	May you be happy in your wish, my lord!
+	For I profess, you have it.
+<SPEECH 14><ACT 3><SCENE 2><54%>
+	My amen to't!
+<SPEECH 15><ACT 3><SCENE 2><54%>
+	There's order given for her coronation:
+	Marry, this is yet but young, and may be left
+	To some ears unrecounted. But, my lords,
+	She is a gallant creature, and complete
+	In mind and feature: I persuade me, from her
+	Will fall some blessing to this land, which shall
+	In it be memoriz'd.
+<SPEECH 16><ACT 3><SCENE 2><54%>
+	No, no;
+	There be moe wasps that buzz about his nose
+	Will make this sting the sooner. Cardinal Campeius
+	Is stol'n away to Rome; hath ta'en no leave;
+	Has left the cause o' the king unhandled; and
+	Is posted, as the agent of our cardinal,
+	To second all his plot. I do assure you
+	The king cried Ha! at this.
+<SPEECH 17><ACT 3><SCENE 2><55%>
+	He is return'd in his opinions, which
+	Have satisfied the king for his divorce,
+	Together with all famous colleges
+	Almost in Christendom. Shortly, I believe,
+	His second marriage shall be publish'd, and
+	Her coronation. Katharine no more
+	Shall be call'd queen, but princess dowager,
+	And widow to Prince Arthur.
+<SPEECH 18><ACT 3><SCENE 2><55%>
+	He has; and we shall see him
+	For it an archbishop.
+<SPEECH 19><ACT 3><SCENE 2><55%>
+	'Tis so.
+	The cardinal!
+<SPEECH 20><ACT 3><SCENE 2><56%>
+	May be he hears the king
+	Does whet his anger to him.
+<SPEECH 21><ACT 3><SCENE 2><56%>
+	The king, the king!
+<SPEECH 22><ACT 3><SCENE 2><60%>
+	Who dare cross 'em,
+	Bearing the king's will from his mouth expressly?
+<SPEECH 23><ACT 3><SCENE 2><63%>
+	Then, that without the knowledge
+	Either of king or council, when you went
+	Ambassador to the emperor, you made bold
+	To carry into Flanders the great seal.
+<SPEECH 24><ACT 3><SCENE 2><63%>
+	That, out of mere ambition, you have caus'd
+	Your holy hat to be stamp'd on the king's coin.
+<SPEECH 25><ACT 3><SCENE 2><64%>
+	Lord Cardinal, the king's further pleasure is,
+	Because all those things you have done of late,
+	By your power legatine, within this kingdom,
+	Fall into the compass of a præmunire,
+	That therefore such a writ be su'd against you;
+	To forfeit all your goods, lands, tenements,
+	Chattels, and whatsoever, and to be
+	Out of the king's protection. This is my charge.
+<SPEECH 26><ACT 5><SCENE 1><81%>
+	Sir, I did never win of you before.
+<SPEECH 27><ACT 5><SCENE 1><82%>
+	God safely quit her of her burden, and
+	With gentle travail, to the gladding of
+	Your highness with an heir!
+<SPEECH 28><ACT 5><SCENE 1><82%>
+	I wish your highness
+	A quiet night; and my good mistress will
+	Remember in my prayers.
+<SPEECH 29><ACT 5><SCENE 3><89%>
+	Nay, my lord,
+	That cannot be: you are a counsellor,
+	And by that virtue no man dare accuse you.
+<SPEECH 30><ACT 5><SCENE 3><91%>
+	'Tis the right ring, by heaven! I told ye all,
+	When we first put this dangerous stone a-rolling,
+	'Twould fall upon ourselves.

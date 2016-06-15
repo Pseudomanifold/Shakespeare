@@ -1,0 +1,635 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	By my troth, Nerissa, my little body is aweary of this great world.
+<SPEECH 2><ACT 1><SCENE 2><8%>
+	Good sentences and well pronounced.
+<SPEECH 3><ACT 1><SCENE 2><8%>
+	If to do were as easy as to know what were good to do, chapels had been churches, and poor men's cottages princes' palaces. It is a good divine that follows his own instructions: I can easier teach twenty what were good to be done, than be one of the twenty to follow mine own teaching. The brain may devise laws for the blood, but a hot temper leaps o'er a cold decree: such a hare is madness the youth, to skip o'er the meshes of good counsel the cripple. But this reasoning is not in the fashion to choose me a husband. O me, the word 'choose!' I may neither choose whom I would nor refuse whom I dislike; so is the will of a living daughter curbed by the will of a dead father. Is it not hard, Nerissa, that I cannot choose one nor refuse none?
+<SPEECH 4><ACT 1><SCENE 2><9%>
+	I pray thee, over-name them, and as thou namest them, I will describe them; and, according to my description, level at my affection.
+<SPEECH 5><ACT 1><SCENE 2><9%>
+	Ay, that's a colt indeed, for he doth nothing but talk of his horse; and he makes it a great appropriation to his own good parts that he can shoe him himself. I am much afeard my lady his mother played false with a smith.
+<SPEECH 6><ACT 1><SCENE 2><9%>
+	He doth nothing but frown, as who should say, 'An you will not have me, choose.' He hears merry tales, and smiles not: I fear he will prove the weeping philosopher when he grows old, being so full of unmannerly sadness in his youth. I had rather be married to a death's-head with a bone in his mouth than to either of these. God defend me from these two!
+<SPEECH 7><ACT 1><SCENE 2><9%>
+	God made him, and therefore let him pass for a man. In truth, I know it is a sin to be a mocker; but, he! why, he hath a horse better than the Neapolitan's, a better bad habit of frowning than the Count Palatine; he is every man in no man; if a throstle sing, he falls straight a-capering; he will fence with his own shadow: if I should marry him, I should marry twenty husbands. If he would despise me, I would forgive him, for if he love me to madness, I shall never requite him.
+<SPEECH 8><ACT 1><SCENE 2><10%>
+	You know I say nothing to him, for he understands not me, nor I him: he hath neither Latin, French, nor Italian; and you will come into the court and swear that I have a poor pennyworth in the English. He is a proper man's picture, but, alas! who can converse with a dumb-show? How oddly he is suited! I think he bought his doublet in Italy, his round hose in France, his bonnet in Germany, and his behaviour every where.
+<SPEECH 9><ACT 1><SCENE 2><10%>
+	That he hath a neighbourly charity in him, for he borrowed a box of the ear of the Englishman, and swore he would pay him again when he was able: I think the Frenchman became his surety and sealed under for another.
+<SPEECH 10><ACT 1><SCENE 2><10%>
+	Very vilely in the morning, when he is sober, and most vilely in the afternoon, when he is drunk: when he is best, he is a little worse than a man, and when he is worst, he is little better than a beast. An the worst fall that ever fell, I hope I shall make shift to go without him.
+<SPEECH 11><ACT 1><SCENE 2><11%>
+	Therefore, for fear of the worst, I pray thee, set a deep glass of Rhenish wine on the contrary casket, for, if the devil be within and that temptation without, I know he will choose it. I will do anything, Nerissa, ere I will be married to a sponge.
+<SPEECH 12><ACT 1><SCENE 2><11%>
+	If I live to be as old as Sibylla, I will die as chaste as Diana, unless I be obtained by the manner of my father's will. I am glad this parcel of wooers are so reasonable, for there is not one among them but I dote on his very absence, and I pray God grant them a fair departure.
+<SPEECH 13><ACT 1><SCENE 2><12%>
+	Yes, yes: it was Bassanio; as I think, he was so called.
+<SPEECH 14><ACT 1><SCENE 2><12%>
+	I remember him well, and I remember him worthy of thy praise.
+	How now! what news?
+<SPEECH 15><ACT 1><SCENE 2><12%>
+	If I could bid the fifth welcome with so good heart as I can bid the other four farewell, I should be glad of his approach: if he have the condition of a saint and the complexion of a devil, I had rather he should shrive me than wive me. Come, Nerissa. Sirrah, go before.
+	Whiles we shut the gate upon one wooer, another knocks at the door.
+<SPEECH 16><ACT 2><SCENE 1><20%>
+	In terms of choice I am not solely led
+	By nice direction of a maiden's eyes;
+	Besides, the lottery of my destiny
+	Bars me the right of voluntary choosing:
+	But if my father had not scanted me
+	And hedg'd me by his wit, to yield myself
+	His wife who wins me by that means I told you,
+	Yourself, renowned prince, then stood as fair
+	As any comer I have look'd on yet
+	For my affection.
+<SPEECH 17><ACT 2><SCENE 1><20%>
+	You must take your chance;
+	And either not attempt to choose at all,
+	Or swear before you choose, if you choose wrong,
+	Never to speak to lady afterward
+	In way of marriage: therefore be advis'd.
+<SPEECH 18><ACT 2><SCENE 1><21%>
+	First, forward to the temple: after dinner
+	Your hazard shall be made.
+<SPEECH 19><ACT 2><SCENE 7><37%>
+	Go, draw aside the curtains, and discover
+	The several caskets to this noble prince.
+	Now make your choice.
+<SPEECH 20><ACT 2><SCENE 7><37%>
+	The one of them contains my picture, prince:
+	If you choose that, then I am yours withal.
+<SPEECH 21><ACT 2><SCENE 7><39%>
+	There, take it, prince; and if my form lie there,
+	Then I am yours.
+<SPEECH 22><ACT 2><SCENE 7><39%>
+	A gentle riddance. Draw the curtains: go.
+	Let all of his complexion choose me so.
+<SPEECH 23><ACT 2><SCENE 1><42%>
+	Behold, there stands the caskets, noble prince:
+	If you choose that wherein I am contain'd,
+	Straight shall our nuptial rites be solemniz'd;
+	But if you fail, without more speech, my lord,
+	You must be gone from hence immediately.
+<SPEECH 24><ACT 2><SCENE 1><42%>
+	To these injunctions every one doth swear
+	That comes to hazard for my worthless self.
+<SPEECH 25><ACT 2><SCENE 1><44%>
+	Too long a pause for that which you find there.
+<SPEECH 26><ACT 2><SCENE 1><44%>
+	To offend, and judge, are distinct offices,
+	And of opposed natures.
+<SPEECH 27><ACT 2><SCENE 1><44%>
+	Thus hath the candle sing'd the moth.
+	O, these deliberate fools! when they do choose,
+	They have the wisdom by their wit to lose.
+<SPEECH 28><ACT 2><SCENE 1><45%>
+	Come, draw the curtain, Nerissa.
+<SPEECH 29><ACT 2><SCENE 1><45%>
+	Here; what would my lord?
+<SPEECH 30><ACT 2><SCENE 1><45%>
+	No more, I pray thee: I am half afeard
+	Thou wilt say anon he is some kin to thee,
+	Thou spend'st such high-day wit in praising him.
+	Come, come, Nerissa; for I long to see
+	Quick Cupid's post that comes so mannerly.
+<SPEECH 31><ACT 3><SCENE 2><50%>
+	I pray you, tarry: pause a day or two
+	Before you hazard; for, in choosing wrong.
+	I lose your company: therefore, forbear awhile.
+	There's something tells me, but it is not love,
+	I would not lose you; and you know yourself,
+	Hate counsels not in such a quality.
+	But lest you should not understand me well,—
+	And yet a maiden hath no tongue but thought,—
+	I would detain you here some month or two
+	Before you venture for me. I could teach you
+	How to choose right, but then I am forsworn;
+	So will I never be: so may you miss me;
+	But if you do, you'll make me wish a sin,
+	That I had been forsworn. Beshrew your eyes,
+	They have o'erlook'd me and divided me:
+	One half of me is yours, the other half yours,
+	Mine own, I would say; but if mine, then yours,
+	And so all yours. O! these naughty times
+	Put bars between the owners and their rights;
+	And so, though yours, not yours. Prove it so,
+	Let fortune go to hell for it, not I.
+	I speak too long; but 'tis to peise the time,
+	To eke it and to draw it out in length,
+	To stay you from election.
+<SPEECH 32><ACT 3><SCENE 2><51%>
+	Upon the rack, Bassanio! then confess
+	What treason there is mingled with your love.
+<SPEECH 33><ACT 3><SCENE 2><51%>
+	Ay, but I fear you speak upon the rack,
+	Where men enforced do speak anything.
+<SPEECH 34><ACT 3><SCENE 2><51%>
+	Well then, confess, and live.
+<SPEECH 35><ACT 3><SCENE 2><52%>
+	Away then! I am lock'd in one of them:
+	If you do love me, you will find me out.
+	Nerissa and the rest, stand all aloof.
+	Let music sound while he doth make his choice;
+	Then, if he lose, he makes a swan-like end,
+	Fading in music: that the comparison
+	May stand more proper, my eye shall be the stream
+	And watery death-bed for him. He may win;
+	And what is music then? then music is
+	Even as the flourish when true subjects bow
+	To a new-crowned monarch: such it is
+	As are those dulcet sounds in break of day
+	That creep into the dreaming bridegroom's ear,
+	And summon him to marriage. Now he goes,
+	With no less presence, but with much more love,
+	Than young Alcides, when he did redeem
+	The virgin tribute paid by howling Troy
+	To the sea-monster: I stand for sacrifice;
+	The rest aloof are the Dardanian wives,
+	With bleared visages, come forth to view
+	The issue of the exploit. Go, Hercules!
+	Live thou, I live: with much, much more dismay
+	I view the fight than thou that mak'st the fray.
+	Tell me where is fancy bred,
+	Or in the heart or in the head?
+	How begot, how nourished?
+	Reply, reply.
+	It is engender'd in the eyes,
+	With gazing fed; and fancy dies
+	In the cradle where it lies
+	Let us all ring fancy's knell;
+	I'll begin it,—Ding, dong, bell.
+<SPEECH 36><ACT 3><SCENE 2><54%>
+	</STAGE DIR> How all the other passions fleet to air,
+	As doubtful thoughts, and rash-embrac'd despair,
+	And shuddering fear, and green-ey'd jealousy.
+	O love! be moderate; allay thy ecstasy;
+	In measure rain thy joy; scant this excess;
+	I feel too much thy blessing; make it less,
+	For fear I surfeit!
+<SPEECH 37><ACT 3><SCENE 2><55%>
+	You see me, Lord Bassanio, where I stand,
+	Such as I am: though for myself alone
+	I would not be ambitious in my wish,
+	To wish myself much better; yet, for you
+	I would be trebled twenty times myself;
+	A thousand times more fair, ten thousand times
+	More rich;
+	That only to stand high in your account,
+	I might in virtues, beauties, livings, friends,
+	Exceed account: but the full sum of me
+	Is sum of nothing; which, to term in gross,
+	Is an unlesson'd girl, unschool'd, unpractis'd;
+	Happy in this, she is not yet so old
+	But she may learn; happier than this,
+	She is not bred so dull but she can learn;
+	Happiest of all is that her gentle spirit
+	Commits itself to yours to be directed,
+	As from her lord, her governor, her king.
+	Myself and what is mine to you and yours
+	Is now converted: but now I was the lord
+	Of this fair mansion, master of my servants,
+	Queen o'er myself; and even now, but now,
+	This house, these servants, and this same myself
+	Are yours, my lord. I give them with this ring;
+	Which when you part from, lose, or give away,
+	Let it presage the ruin of your love,
+	And be my vantage to exclaim on you.
+<SPEECH 38><ACT 3><SCENE 2><58%>
+	Is this true, Nerissa?
+<SPEECH 39><ACT 3><SCENE 2><58%>
+	So do I, my lord:
+	They are entirely welcome.
+<SPEECH 40><ACT 3><SCENE 2><59%>
+	There are some shrewd contents in yon same paper,
+	That steal the colour from Bassanio's cheek:
+	Some dear friend dead, else nothing in the world
+	Could turn so much the constitution
+	Of any constant man. What, worse and worse!
+	With leave, Bassanio; I am half yourself,
+	And I must freely have the half of anything
+	That this same paper brings you.
+<SPEECH 41><ACT 3><SCENE 2><61%>
+	Is it your dear friend that is thus in trouble?
+<SPEECH 42><ACT 3><SCENE 2><61%>
+	What sum owes he the Jew?
+<SPEECH 43><ACT 3><SCENE 2><61%>
+	What, no more?
+	Pay him six thousand, and deface the bond;
+	Double six thousand, and then treble that,
+	Before a friend of this description
+	Shall lose a hair thorough Bassanio's fault.
+	First go with me to church and call me wife,
+	And then away to Venice to your friend;
+	For never shall you lie by Portia's side
+	With an unquiet soul. You shall have gold
+	To pay the petty debt twenty times over:
+	When it is paid, bring your true friend along.
+	My maid Nerissa and myself meantime,
+	Will live as maids and widows. Come, away!
+	For you shall hence upon your wedding-day.
+	Bid your friends welcome, show a merry cheer;
+	Since you are dear bought, I will love you dear.
+	But let me hear the letter of your friend.
+<SPEECH 44><ACT 3><SCENE 2><62%>
+	O love, dispatch all business, and be gone!
+<SPEECH 45><ACT 3><SCENE 4><64%>
+	I never did repent for doing good,
+	Nor shall not now: for in companions
+	That do converse and waste the time together,
+	Whose souls do bear an equal yoke of love,
+	There must be needs a like proportion
+	Of lineaments, of manners, and of spirit;
+	Which makes me think that this Antonio,
+	Being the bosom lover of my lord,
+	Must needs be like my lord. If it be so,
+	How little is the cost I have bestow'd
+	In purchasing the semblance of my soul
+	From out the state of hellish cruelty!
+	This comes too near the praising of myself;
+	Therefore, no more of it: hear other things.
+	Lorenzo, I commit into your hands
+	The husbandry and manage of my house
+	Until my lord's return: for mine own part,
+	I have toward heaven breath'd a secret vow
+	To live in prayer and contemplation,
+	Only attended by Nerissa here,
+	Until her husband and my lord's return.
+	There is a monastery two miles off,
+	And there will we abide. I do desire you
+	Not to deny this imposition,
+	The which my love and some necessity
+	Now lays upon you.
+<SPEECH 46><ACT 3><SCENE 4><65%>
+	My people do already know my mind,
+	And will acknowledge you and Jessica
+	In place of Lord Bassanio and myself.
+	So fare you well till we shall meet again.
+<SPEECH 47><ACT 3><SCENE 4><65%>
+	I thank you for your wish, and am well pleas'd
+	To wish it back on you: fare you well, Jessica.
+	Now, Balthazar,
+	As I have ever found thee honest-true,
+	So let me find thee still. Take this same letter,
+	And use thou all the endeavour of a man
+	In speed to Padua: see thou render this
+	Into my cousin's hand, Doctor Bellario;
+	And, look, what notes and garments he doth give thee,
+	Bring them, I pray thee, with imagin'd speed
+	Unto the traject, to the common ferry
+	Which trades to Venice. Waste no time in words,
+	But get thee gone: I shall be there before thee.
+<SPEECH 48><ACT 3><SCENE 4><65%>
+	Come on, Nerissa: I have work in hand
+	That you yet know not of: we'll see our husbands
+	Before they think of us.
+<SPEECH 49><ACT 3><SCENE 4><66%>
+	They shall, Nerissa; but in such a habit
+	That they shall think we are accomplished
+	With that we lack. I'll hold thee any wager,
+	When we are both accoutred like young men,
+	I'll prove the prettier fellow of the two,
+	And wear my dagger with the braver grace,
+	And speak between the change of man and boy
+	With a reed voice, and turn two mincing steps
+	Into a manly stride, and speak of frays
+	Like a fine bragging youth, and tell quaint lies,
+	How honourable ladies sought my love,
+	Which I denying, they fell sick and died:
+	I could not do withal; then I'll repent,
+	And wish, for all that, that I had not kill'd them:
+	And twenty of these puny lies I'll tell,
+	That men shall swear I have discontinu'd school
+	Above a twelvemonth. I have within my mind
+	A thousand raw tricks of these bragging Jacks,
+	Which I will practise.
+<SPEECH 50><ACT 3><SCENE 4><66%>
+	Fie, what a question's that,
+	If thou wert near a lewd interpreter!
+	But come: I'll tell thee all my whole device
+	When I am in my coach, which stays for us
+	At the park gate; and therefore haste away,
+	For we must measure twenty miles to-day.
+<SPEECH 51><ACT 4><SCENE 1><76%>
+	I did, my lord.
+<SPEECH 52><ACT 4><SCENE 1><77%>
+	I am informed throughly of the cause.
+	Which is the merchant here, and which the Jew?
+<SPEECH 53><ACT 4><SCENE 1><77%>
+	Is your name Shylock?
+<SPEECH 54><ACT 4><SCENE 1><77%>
+	Of a strange nature is the suit you follow;
+	Yet in such rule that the Venetian law
+	Cannot impugn you as you do proceed.
+	</STAGE DIR> You stand within his danger, do you not?
+<SPEECH 55><ACT 4><SCENE 1><77%>
+	Do you confess the bond?
+<SPEECH 56><ACT 4><SCENE 1><77%>
+	Then must the Jew be merciful.
+<SPEECH 57><ACT 4><SCENE 1><77%>
+	The quality of mercy is not strain'd,
+	It droppeth as the gentle rain from heaven
+	Upon the place beneath: it is twice bless'd;
+	It blesseth him that gives and him that takes:
+	'Tis mightiest in the mightiest; it becomes
+	The throned monarch better than his crown;
+	His sceptre shows the force of temporal power,
+	The attribute to awe and majesty,
+	Wherein doth sit the dread and fear of kings;
+	But mercy is above this sceptred sway,
+	It is enthroned in the hearts of kings,
+	It is an attribute to God himself,
+	And earthly power doth then show likest God's
+	When mercy seasons justice. Therefore, Jew,
+	Though justice be thy plea, consider this,
+	That in the course of justice none of us
+	Should see salvation: we do pray for mercy,
+	And that same prayer doth teach us all to render
+	The deeds of mercy. I have spoke thus much
+	To mitigate the justice of thy plea,
+	Which if thou follow, this strict court of Venice
+	Must needs give sentence 'gainst the merchant there.
+<SPEECH 58><ACT 4><SCENE 1><78%>
+	Is he not able to discharge the money?
+<SPEECH 59><ACT 4><SCENE 1><78%>
+	It must not be. There is no power in Venice
+	Can alter a decree established:
+	'Twill be recorded for a precedent,
+	And many an error by the same example
+	Will rush into the state. It cannot be.
+<SPEECH 60><ACT 4><SCENE 1><79%>
+	I pray you, let me look upon the bond.
+<SPEECH 61><ACT 4><SCENE 1><79%>
+	Shylock, there's thrice thy money offer'd thee.
+<SPEECH 62><ACT 4><SCENE 1><79%>
+	Why, this bond is forfeit;
+	And lawfully by this the Jew may claim
+	A pound of flesh, to be by him cut off
+	Nearest the merchant's heart. Be merciful:
+	Take thrice thy money; bid me tear the bond.
+<SPEECH 63><ACT 4><SCENE 1><79%>
+	Why then, thus it is:
+	You must prepare your bosom for his knife.
+<SPEECH 64><ACT 4><SCENE 1><79%>
+	For, the intent and purpose of the law
+	Hath full relation to the penalty,
+	Which here appeareth due upon the bond.
+<SPEECH 65><ACT 4><SCENE 1><80%>
+	Therefore lay bare your bosom.
+<SPEECH 66><ACT 4><SCENE 1><80%>
+	It is so. Are there balance here to weigh
+	The flesh?
+<SPEECH 67><ACT 4><SCENE 1><80%>
+	Have by some surgeon, Shylock, on your charge,
+	To stop his wounds, lest he do bleed to death.
+<SPEECH 68><ACT 4><SCENE 1><80%>
+	It is not so express'd; but what of that?
+	'Twere good you do so much for charity.
+<SPEECH 69><ACT 4><SCENE 1><80%>
+	You, merchant, have you anything to say?
+<SPEECH 70><ACT 4><SCENE 1><81%>
+	Your wife would give you little thanks for that,
+	If she were by to hear you make the offer.
+<SPEECH 71><ACT 4><SCENE 1><81%>
+	A pound of that same merchant's flesh is thine:
+	The court awards it, and the law doth give it.
+<SPEECH 72><ACT 4><SCENE 1><81%>
+	And you must cut this flesh from off his breast:
+	The law allows it, and the court awards it.
+<SPEECH 73><ACT 4><SCENE 1><81%>
+	Tarry a little: there is something else.
+	This bond doth give thee here no jot of blood;
+	The words expressly are 'a pound of flesh:'
+	Then take thy bond, take thou thy pound of flesh;
+	But, in the cutting it, if thou dost shed
+	One drop of Christian blood, thy lands and goods
+	Are, by the laws of Venice, confiscate
+	Unto the state of Venice.
+<SPEECH 74><ACT 4><SCENE 1><82%>
+	Thyself shalt see the act;
+	For, as thou urgest justice, be assur'd
+	Thou shalt have justice, more than thou desir'st.
+<SPEECH 75><ACT 4><SCENE 1><82%>
+	Soft!
+	The Jew shall have all justice; soft! no haste:—
+	He shall have nothing but the penalty.
+<SPEECH 76><ACT 4><SCENE 1><82%>
+	Therefore prepare thee to cut off the flesh.
+	Shed thou no blood; nor cut thou less, nor more,
+	But just a pound of flesh: if thou tak'st more,
+	Or less, than a just pound, be it but so much
+	As makes it light or heavy in the substance,
+	Or the division of the twentieth part
+	Of one poor scruple, nay, if the scale do turn
+	But in the estimation of a hair,
+	Thou diest and all thy goods are confiscate.
+<SPEECH 77><ACT 4><SCENE 1><83%>
+	Why doth the Jew pause? take thy forfeiture.
+<SPEECH 78><ACT 4><SCENE 1><83%>
+	He hath refus'd it in the open court:
+	He shall have merely justice, and his bond.
+<SPEECH 79><ACT 4><SCENE 1><83%>
+	Thou shalt have nothing but the forfeiture,
+	To be so taken at thy peril, Jew.
+<SPEECH 80><ACT 4><SCENE 1><83%>
+	Tarry, Jew:
+	The law hath yet another hold on you.
+	It is enacted in the laws of Venice,
+	If it be prov'd against an alien
+	That by direct or indirect attempts
+	He seek the life of any citizen,
+	The party 'gainst the which he doth contrive
+	Shall seize one half his goods; the other half
+	Comes to the privy coffer of the state;
+	And the offender's life lies in the mercy
+	Of the duke only, 'gainst all other voice.
+	In which predicament, I say, thou stand'st;
+	For it appears by manifest proceeding,
+	That indirectly and directly too
+	Thou hast contriv'd against the very life
+	Of the defendant; and thou hast incurr'd
+	The danger formerly by me rehears'd.
+	Down therefore and beg mercy of the duke.
+<SPEECH 81><ACT 4><SCENE 1><84%>
+	Ay, for the state; not for Antonio.
+<SPEECH 82><ACT 4><SCENE 1><84%>
+	What mercy can you render him, Antonio?
+<SPEECH 83><ACT 4><SCENE 1><85%>
+	Art thou contented, Jew? what dost thou say?
+<SPEECH 84><ACT 4><SCENE 1><85%>
+	Clerk, draw a deed of gift.
+<SPEECH 85><ACT 4><SCENE 1><85%>
+	I humbly do desire your Grace of pardon:
+	I must away this night toward Padua,
+	And it is meet I presently set forth.
+<SPEECH 86><ACT 4><SCENE 1><86%>
+	He is well paid that is well satisfied;
+	And I, delivering you, am satisfied,
+	And therein do account myself well paid:
+	My mind was never yet more mercenary.
+	I pray you, know me when we meet again:
+	I wish you well, and so I take my leave.
+<SPEECH 87><ACT 4><SCENE 1><86%>
+	You press me far, and therefore I will yield.
+	</STAGE DIR> Give me your gloves, I'll wear them for your sake;
+	</STAGE DIR> And, for your love, I'll take this ring from you.
+	Do not draw back your hand; I'll take no more;
+	And you in love shall not deny me this.
+<SPEECH 88><ACT 4><SCENE 1><86%>
+	I will have nothing else but only this;
+	And now methinks I have a mind to it.
+<SPEECH 89><ACT 4><SCENE 1><86%>
+	I see, sir, you are liberal in offers:
+	You taught me first to beg, and now methinks
+	You teach me how a beggar should be answer'd.
+<SPEECH 90><ACT 4><SCENE 1><87%>
+	That 'scuse serves many men to save their gifts.
+	An if your wife be not a mad-woman,
+	And know how well I have deserv'd the ring,
+	She would not hold out enemy for ever,
+	For giving it to me. Well, peace be with you.
+<SPEECH 91><ACT 4><SCENE 2><87%>
+	Inquire the Jew's house out, give him this deed,
+	And let him sign it. We'll away to-night,
+	And be a day before our husbands home:
+	This deed will be well welcome to Lorenzo.
+<SPEECH 92><ACT 4><SCENE 2><88%>
+	That cannot be:
+	His ring I do accept most thankfully;
+	And so, I pray you, tell him: furthermore,
+	I pray you, show my youth old Shylock's house.
+<SPEECH 93><ACT 4><SCENE 2><88%>
+	Thou mayst, I warrant. We shall have old swearing
+	That they did give the rings away to men;
+	But we'll outface them, and outswear them too.
+	Away! make haste: thou know'st where I will tarry.
+<SPEECH 94><ACT 5><SCENE 1><92%>
+	That light we see is burning in my hall.
+	How far that little candle throws his beams!
+	So shines a good deed in a naughty world.
+<SPEECH 95><ACT 5><SCENE 1><92%>
+	So doth the greater glory dim the less:
+	A substitute shines brightly as a king
+	Until a king be by, and then his state
+	Empties itself, as doth an inland brook
+	Into the main of waters. Music! hark!
+<SPEECH 96><ACT 5><SCENE 1><92%>
+	Nothing is good, I see, without respect:
+	Methinks it sounds much sweeter than by day.
+<SPEECH 97><ACT 5><SCENE 1><92%>
+	The crow doth sing as sweetly as the lark
+	When neither is attended, and I think
+	The nightingale, if she should sing by day,
+	When every goose is cackling, would be thought
+	No better a musician than the wren.
+	How many things by season season'd are
+	To their right praise and true perfection!
+	Peace, ho! the moon sleeps with Endymion,
+	And would not be awak'd!
+<SPEECH 98><ACT 5><SCENE 1><93%>
+	He knows me, as the blind man knows the cuckoo,
+	By the bad voice.
+<SPEECH 99><ACT 5><SCENE 1><93%>
+	We have been praying for our husbands' welfare,
+	Which speed, we hope, the better for our words.
+	Are they return'd?
+<SPEECH 100><ACT 5><SCENE 1><93%>
+	Go in, Nerissa:
+	Give order to my servants that they take
+	No note at all of our being absent hence;
+	Nor you, Lorenzo; Jessica, nor you.
+<SPEECH 101><ACT 5><SCENE 1><93%>
+	This night methinks is but the daylight sick;
+	It looks a little paler: 'tis a day,
+	Such as the day is when the sun is hid.
+<SPEECH 102><ACT 5><SCENE 1><93%>
+	Let me give light, but let me not be light;
+	For a light wife doth make a heavy husband,
+	And never be Bassanio so for me:
+	But God sort all! You are welcome home, my lord.
+<SPEECH 103><ACT 5><SCENE 1><94%>
+	You should in all sense be much bound to him,
+	For, as I hear, he was much bound for you.
+<SPEECH 104><ACT 5><SCENE 1><94%>
+	Sir, you are very welcome to our house:
+	It must appear in other ways than words,
+	Therefore I scant this breathing courtesy.
+<SPEECH 105><ACT 5><SCENE 1><94%>
+	A quarrel, ho, already! what's the matter?
+<SPEECH 106><ACT 5><SCENE 1><95%>
+	You were to blame,—I must be plain with you,—
+	To part so slightly with your wife's first gift;
+	A thing stuck on with oaths upon your finger,
+	And riveted so with faith unto your flesh.
+	I gave my love a ring and made him swear
+	Never to part with it; and here he stands,
+	I dare be sworn for him he would not leave it
+	Nor pluck it from his finger for the wealth
+	That the world masters. Now, in faith, Gratiano,
+	You give your wife too unkind a cause of grief:
+	An 'twere to me, I should be mad at it.
+<SPEECH 107><ACT 5><SCENE 1><95%>
+	What ring gave you, my lord?
+	Not that, I hope, that you receiv'd of me.
+<SPEECH 108><ACT 5><SCENE 1><96%>
+	Even so void is your false heart of truth.
+	By heaven, I will ne'er come in your bed
+	Until I see the ring.
+<SPEECH 109><ACT 5><SCENE 1><96%>
+	If you had known the virtue of the ring,
+	Or half her worthiness that gave the ring,
+	Or your own honour to contain the ring,
+	You would not then have parted with the ring.
+	What man is there so much unreasonable,
+	If you had pleas'd to have defended it
+	With any terms of zeal, wanted the modesty
+	To urge the thing held as a ceremony?
+	Nerissa teaches me what to believe:
+	I'll die for't but some woman had the ring.
+<SPEECH 110><ACT 5><SCENE 1><97%>
+	Let not that doctor e'er come near my house.
+	Since he hath got the jewel that I lov'd,
+	And that which you did swear to keep for me,
+	I will become as liberal as you;
+	I'll not deny him anything I have;
+	No, not my body, nor my husband's bed.
+	Know him I shall, I am well sure of it:
+	Lie not a night from home; watch me like Argus:
+	If you do not, if I be left alone,
+	Now by mine honour, which is yet mine own,
+	I'll have that doctor for my bedfellow.
+<SPEECH 111><ACT 5><SCENE 1><97%>
+	Sir, grieve not you; you are welcome notwithstanding.
+<SPEECH 112><ACT 5><SCENE 1><98%>
+	Mark you but that!
+	In both my eyes he doubly sees himself;
+	In each eye, one: swear by your double self,
+	And there's an oath of credit.
+<SPEECH 113><ACT 5><SCENE 1><98%>
+	Then you shall be his surety. Give him this,
+	And bid him keep it better than the other.
+<SPEECH 114><ACT 5><SCENE 1><98%>
+	I had it of him: pardon me, Bassanio,
+	For, by this ring, the doctor lay with me.
+<SPEECH 115><ACT 5><SCENE 1><98%>
+	Speak not so grossly. You are all amaz'd:
+	Here is a letter; read it at your leisure;
+	It comes from Padus, from Bellario:
+	There you shall find that Portia was the doctor,
+	Nerissa, there, her clerk: Lorenzo here
+	Shall witness I set forth as soon as you
+	And even but now return'd; I have not yet
+	Enter'd my house. Antonio, you are welcome;
+	And I have better news in store for you
+	Than you expect: unseal this letter soon;
+	There you shall find three of your argosies
+	Are richly come to harbour suddenly.
+	You shall not know by what strange accident
+	I chanced on this letter.
+<SPEECH 116><ACT 5><SCENE 1><99%>
+	How now, Lorenzo!
+	My clerk hath some good comforts too for you.
+<SPEECH 117><ACT 5><SCENE 1><100%>
+	It is almost morning,
+	And yet I am sure you are not satisfied
+	Of these events at full. Let us go in;
+	And charge us there upon inter'gatories,
+	And we will answer all things faithfully.

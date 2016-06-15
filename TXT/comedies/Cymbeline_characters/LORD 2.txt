@@ -1,0 +1,53 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+	</STAGE DIR> No faith; not so much as his patience.
+<SPEECH 2><ACT 1><SCENE 2><6%>
+	</STAGE DIR> His steel was in debt; it went o' the backside the town.
+<SPEECH 3><ACT 1><SCENE 2><6%>
+	</STAGE DIR> No; but he fled forward still, toward your face.
+<SPEECH 4><ACT 1><SCENE 2><6%>
+	</STAGE DIR> As many inches as you have oceans. Puppies!
+<SPEECH 5><ACT 1><SCENE 2><7%>
+	</STAGE DIR> So would I till you had measured how long a fool you were upon the ground.
+<SPEECH 6><ACT 1><SCENE 2><7%>
+	</STAGE DIR> If it be a sin to make a true election, she is damned.
+<SPEECH 7><ACT 1><SCENE 2><7%>
+	</STAGE DIR> She shines not upon fools, lest the reflection should hurt her.
+<SPEECH 8><ACT 1><SCENE 2><7%>
+	</STAGE DIR> I wish not so; unless it had been the fall of an ass, which is no great hurt.
+<SPEECH 9><ACT 1><SCENE 2><7%>
+	Well, my lord.
+<SPEECH 10><ACT 2><SCENE 1><22%>
+	</STAGE DIR> If his wit had been like him that broke it, it would have run all out.
+<SPEECH 11><ACT 2><SCENE 1><23%>
+	No, my lord; <STAGE DIR>
+	</STAGE DIR> nor crop the ears of them.
+<SPEECH 12><ACT 2><SCENE 1><23%>
+	</STAGE DIR> To have smelt like a fool.
+<SPEECH 13><ACT 2><SCENE 1><23%>
+	</STAGE DIR> You are cock and capon too; and you crow, cock, with your comb on.
+<SPEECH 14><ACT 2><SCENE 1><23%>
+	It is not fit your lordship should undertake every companion that you give offence to.
+<SPEECH 15><ACT 2><SCENE 1><23%>
+	Ay, it is fit for your lordship only.
+<SPEECH 16><ACT 2><SCENE 1><23%>
+	</STAGE DIR> He's a strange fellow himself, and knows it not.
+<SPEECH 17><ACT 2><SCENE 1><23%>
+	</STAGE DIR> You are a fool, granted; therefore your issues, being foolish, do not derogate.
+<SPEECH 18><ACT 2><SCENE 1><24%>
+	I'll attend your lordship.
+	That such a crafty devil as is his mother
+	Should yield the world this ass! a woman that
+	Bears all down with her brain, and this her son
+	Cannot take two from twenty for his heart
+	And leave eighteen. Alas! poor princess,
+	Thou divine Imogen, what thou endur'st
+	Betwixt a father by thy step-dame govern'd,
+	A mother hourly coining plots, a wooer
+	More hateful than the foul expulsion is
+	Of thy dear husband, than that horrid act
+	Of the divorce he'd make. The heavens hold firm
+	The walls of thy dear honour; keep unshak'd
+	That temple, thy fair mind; that thou mayst stand,
+	To enjoy thy banish'd lord and this great land!
+<SPEECH 19><ACT 2><SCENE 3><27%>
+	Here comes the king.

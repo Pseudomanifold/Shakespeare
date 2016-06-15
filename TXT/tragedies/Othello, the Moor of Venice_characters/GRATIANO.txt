@@ -1,0 +1,45 @@
+<SPEECH 1><ACT 5><SCENE 1><85%>
+	'Tis some mischance; the cry is very direful.
+<SPEECH 2><ACT 5><SCENE 1><86%>
+	Here's one comes in his shirt, with light and weapons.
+<SPEECH 3><ACT 5><SCENE 1><86%>
+	This is Othello's ancient, as I take it.
+<SPEECH 4><ACT 5><SCENE 1><86%>
+	Cassio!
+<SPEECH 5><ACT 5><SCENE 1><87%>
+	I am sorry to find you thus; I have been to seek you.
+<SPEECH 6><ACT 5><SCENE 1><87%>
+	What! of Venice?
+<SPEECH 7><ACT 5><SCENE 1><87%>
+	Know him! ay.
+<SPEECH 8><ACT 5><SCENE 1><87%>
+	I am glad to see you.
+<SPEECH 9><ACT 5><SCENE 1><87%>
+	Roderigo!
+<SPEECH 10><ACT 5><SCENE 2><94%>
+	What is the matter?
+<SPEECH 11><ACT 5><SCENE 2><94%>
+	'Tis a strange truth.
+<SPEECH 12><ACT 5><SCENE 2><95%>
+	Poor Desdemona! I am glad thy father's dead.
+	Thy match was mortal to him, and pure grief
+	Shore his old thread in twain: did he live now,
+	This sight would make him do a desperate turn,
+	Yea, curse his better angel from his side,
+	And fall to reprobation.
+<SPEECH 13><ACT 5><SCENE 2><95%>
+	Fie!
+	Your sword upon a woman?
+<SPEECH 14><ACT 5><SCENE 2><96%>
+	The woman falls: sure, he has kill'd his wife.
+<SPEECH 15><ACT 5><SCENE 2><96%>
+	He's gone; but his wife's kill'd.
+<SPEECH 16><ACT 5><SCENE 2><96%>
+	</STAGE DIR> If thou attempt it, it will cost thee dear:
+	Thou hast no weapon, and perforce must suffer.
+<SPEECH 17><ACT 5><SCENE 2><97%>
+	What is the matter?
+<SPEECH 18><ACT 5><SCENE 2><98%>
+	Torments will ope your lips.
+<SPEECH 19><ACT 5><SCENE 2><99%>
+	All that's spoke is marr'd.

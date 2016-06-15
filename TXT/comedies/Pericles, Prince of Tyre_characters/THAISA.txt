@@ -1,0 +1,167 @@
+<SPEECH 1><ACT 2><SCENE 2><30%>
+	It pleaseth you, my royal father, to express
+	My commendations great, whose merit's less.
+<SPEECH 2><ACT 2><SCENE 2><30%>
+	Which, to preserve mine honour, I'll perform.
+<SPEECH 3><ACT 2><SCENE 2><30%>
+	A knight of Sparta, my renowned father;
+	And the device he bears upon his shield
+	Is a black Ethiop reaching at the sun;
+	The word, Lux tua vita mihi.
+<SPEECH 4><ACT 2><SCENE 2><31%>
+	A prince of Macedon, my royal father;
+	And the device he bears upon his shield
+	Is an arm'd knight that's conquer'd by a lady;
+	The motto thus, in Spanish, Piu por dulzura que por fuerza.
+<SPEECH 5><ACT 2><SCENE 2><31%>
+	The third of Antioch;
+	And his device, a wreath of chivalry;
+	The word, Me pompæ provexit apex.
+<SPEECH 6><ACT 2><SCENE 2><31%>
+	A burning torch that's turned upside down;
+	The word, Quod me alit me extinguit.
+<SPEECH 7><ACT 2><SCENE 2><31%>
+	The fifth, a hand environed with clouds,
+	Holding out gold that's by the touchstone tried;
+	The motto thus, Sic spectanda fides.
+<SPEECH 8><ACT 2><SCENE 2><32%>
+	He seems to be a stranger; but his present is
+	A wither'd branch, that's only green at top;
+	The motto, In hac spe vivo.
+<SPEECH 9><ACT 2><SCENE 3><33%>
+	But you, my knight and guest;
+	To whom this wreath of victory I give,
+	And crown you king of this day's happiness.
+<SPEECH 10><ACT 2><SCENE 3><34%>
+	</STAGE DIR> By Juno, that is queen of marriage,
+	All viands that I eat do seem unsavoury,
+	Wishing him my meat. Sure, he's a gallant gentleman.
+<SPEECH 11><ACT 2><SCENE 3><34%>
+	To me he seems like diamond to glass.
+<SPEECH 12><ACT 2><SCENE 3><35%>
+	What is it
+	To me, my father?
+<SPEECH 13><ACT 2><SCENE 3><35%>
+	Alas! my father, it befits not me
+	Unto a stranger knight to be so bold;
+	He may my proffer take for an offence,
+	Since men take women's gifts for impudence.
+<SPEECH 14><ACT 2><SCENE 3><35%>
+	</STAGE DIR> Now, by the gods, he could not please me better.
+<SPEECH 15><ACT 2><SCENE 3><36%>
+	The king, my father, sir, has drunk to you.
+<SPEECH 16><ACT 2><SCENE 3><36%>
+	Wishing it so much blood unto your life.
+<SPEECH 17><ACT 2><SCENE 3><36%>
+	And further he desires to know of you,
+	Of whence you are, your name and parentage.
+<SPEECH 18><ACT 2><SCENE 3><36%>
+	He thanks your Grace; names himself Pericles,
+	A gentleman of Tyre,
+	Who only by misfortune of the seas
+	Bereft of ships and men, cast on this shore.
+<SPEECH 19><ACT 2><SCENE 5><43%>
+	Why, sir, say if you had,
+	Who takes offence at that would make me glad?
+<SPEECH 20><ACT 2><SCENE 5><44%>
+	Yes, if you love me, sir.
+<SPEECH 21><ACT 2><SCENE 5><44%>
+	Yes, if 't please your majesty.
+<SPEECH 22><ACT 3><SCENE 2><54%>
+	O dear Diana!
+	Where am I? Where's my lord? What world is this?
+<SPEECH 23><ACT 3><SCENE 4><57%>
+	It is my lord's.
+	That I was shipp'd at sea, I well remember,
+	Even on my eaning time; but whether there
+	Deliver'd, by the holy gods,
+	I cannot rightly say. But since King Pericles,
+	My wedded lord, I ne'er shall see again,
+	A vestal livery will I take me to,
+	And never more have joy.
+<SPEECH 24><ACT 3><SCENE 4><57%>
+	My recompense is thanks, that's all;
+	Yet my good will is great, though the gift small.
+	Imagine Pericles arriv'd at Tyre,
+	Welcom'd and settled to his own desire.
+	His woeful queen we leave at Ephesus,
+	Unto Diana there a votaress.
+	Now to Marina bend your mind,
+	Whom our fast-growing scene must find
+	At Tarsus, and by Cleon train'd
+	In music, letters; who hath gain'd
+	Of education all the grace,
+	Which makes her bath the heart and places
+	Of general wonder. But, alack!
+	That monster envy, oft the wrack
+	Of earned praise, Marina's life
+	Seeks to take off by treason's knife.
+	And in this kind hath our Cleon
+	One daughter, and a wench full grown,
+	Even ripe for marriage-rite; this maid
+	Hight Philoten, and it is said
+	For certain in our story, she
+	Would ever with Marina be:
+	Be 't when she weav'd the sleided silk
+	With fingers, long, small, white as milk,
+	Or when she would with sharp neeld wound
+	The cambric, which she made more sound
+	By hurting it; when to the lute
+	She sung, and made the night-bird mute,
+	That still records with moan; or when
+	She would with rich and constant pen
+	Vail to her mistress Dian; still
+	This Philoten contends in skill
+	With absolute Marina: so
+	With the dove of Paphos might the crow
+	Vie feathers white. Marina gets
+	All praises, which are paid as debts,
+	And not as given. This so darks
+	In Philoten all graceful marks,
+	That Cleon's wife, with envy rare,
+	A present murderer does prepare
+	For good Marina, that her daughter
+	Might stand peerless by this slaughter.
+	The sooner her vile thoughts to stead,
+	Lychorida, our nurse, is dead:
+	And cursed Dionyza hath
+	The pregnant instrument of wrath
+	Prest for this blow. The unborn event
+	I do commend to your content:
+	Only I carry winged time
+	Post on the lame feet of my rime;
+	Which never could I so convey,
+	Unless your thoughts went on my way.
+	Dionyza doth appear,
+	With Leonine, a murderer.
+<SPEECH 25><ACT 5><SCENE 3><96%>
+	Voice and favour!
+	You are, you are—O royal Pericles!—
+<SPEECH 26><ACT 5><SCENE 3><97%>
+	O! let me look!
+	If he be none of mine, my sanctity
+	Will to my sense bend no licentious ear,
+	But curb it, spite of seeing. O! my lord,
+	Are you not Pericles? Like him you speak,
+	Like him you are. Did you not name a tempest,
+	A birth, and death?
+<SPEECH 27><ACT 5><SCENE 3><97%>
+	That Thaisa am I, supposed dead
+	And drown'd.
+<SPEECH 28><ACT 5><SCENE 3><97%>
+	Now I know you better.
+	When we with tears parted Pentapolis,
+	The king my father gave you such a ring.
+<SPEECH 29><ACT 5><SCENE 3><98%>
+	Bless'd, and mine own!
+<SPEECH 30><ACT 5><SCENE 3><98%>
+	I know you not.
+<SPEECH 31><ACT 5><SCENE 3><98%>
+	'Twas Helicanus then.
+<SPEECH 32><ACT 5><SCENE 3><98%>
+	Lord Cerimon, my lord; this man,
+	Through whom the gods have shown their power; that can
+	From first to last resolve you.
+<SPEECH 33><ACT 5><SCENE 3><99%>
+	Lord Cerimon hath letters of good credit, sir,
+	My father's dead.

@@ -1,0 +1,172 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	</STAGE DIR> Who's there?
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	I am glad to see your worships well. I thank you for my venison, Master Shallow.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Sir, I thank you.
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	I am glad to see you, good Master Slender.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	It could not be judged, sir.
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	A cur, sir.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	Sir, he is within; and I would I could do a good office between you.
+<SPEECH 8><ACT 1><SCENE 1><4%>
+	Sir, he doth in some sort confess it.
+<SPEECH 9><ACT 1><SCENE 1><4%>
+	Here comes Sir John.
+<SPEECH 10><ACT 1><SCENE 1><5%>
+	We three, to hear it and end it between them.
+<SPEECH 11><ACT 1><SCENE 1><6%>
+	Nay, daughter, carry the wine in; we'll drink within.
+<SPEECH 12><ACT 1><SCENE 1><6%>
+	How now, Mistress Ford!
+<SPEECH 13><ACT 1><SCENE 1><7%>
+	Wife, bid these gentlemen welcome. Come, we have a hot venison pasty to dinner: come, gentlemen, I hope we shall drink down all unkindness.
+<SPEECH 14><ACT 1><SCENE 1><10%>
+	Come, gentle Master Slender, come; we stay for you.
+<SPEECH 15><ACT 1><SCENE 1><10%>
+	By cock and pie, you shall not choose, sir! come, come.
+<SPEECH 16><ACT 1><SCENE 1><10%>
+	Come on, sir.
+<SPEECH 17><ACT 2><SCENE 1><25%>
+	</STAGE DIR> 'The humour of it,' quoth'a! here's a fellow frights humour out of his wits.
+<SPEECH 18><ACT 2><SCENE 1><25%>
+	I never heard such a drawling, affecting rogue.
+<SPEECH 19><ACT 2><SCENE 1><25%>
+	I will not believe such a Cataian, though the priest o' the town commended him for a true man.
+<SPEECH 20><ACT 2><SCENE 1><25%>
+	How now, Meg!
+<SPEECH 21><ACT 2><SCENE 1><26%>
+	How now, Master Ford!
+<SPEECH 22><ACT 2><SCENE 1><26%>
+	Yes; and you heard what the other told me?
+<SPEECH 23><ACT 2><SCENE 1><26%>
+	Hang 'em, slaves! I do not think the knight would offer it: but these that accuse him in his intent towards our wives, are a yoke of his discarded men; very rogues, now they be out of service.
+<SPEECH 24><ACT 2><SCENE 1><26%>
+	Marry, were they.
+<SPEECH 25><ACT 2><SCENE 1><26%>
+	Ay, marry, does he. If he should intend this voyage towards my wife, I would turn her loose to him; and what he gets more of her than sharp words, let it lie on my head.
+<SPEECH 26><ACT 2><SCENE 1><27%>
+	Look, where my ranting host of the Garter comes. There is either liquor in his pate or money in his purse when he looks so merrily.—
+	How now, mine host!
+<SPEECH 27><ACT 2><SCENE 1><28%>
+	I have heard, the Frenchman hath good skill in his rapier.
+<SPEECH 28><ACT 2><SCENE 1><28%>
+	Have with you. I had rather hear them scold than fight.
+<SPEECH 29><ACT 2><SCENE 3><40%>
+	Now, good Master doctor!
+<SPEECH 30><ACT 2><SCENE 3><40%>
+	Master Shallow, you have yourself been a great fighter, though now a man of peace.
+<SPEECH 31><ACT 2><SCENE 3><41%>
+	'Tis true, Master Shallow.
+<SPEECH 32><ACT 2><SCENE 3><41%>
+	Sir Hugh is there, is he?
+<SPEECH 33><ACT 3><SCENE 1><44%>
+	Save you, good Sir Hugh!
+<SPEECH 34><ACT 3><SCENE 1><44%>
+	And youthful still in your doublet and hose! this raw rheumatic day?
+<SPEECH 35><ACT 3><SCENE 1><44%>
+	We are come to you to do a good office, Master parson.
+<SPEECH 36><ACT 3><SCENE 1><44%>
+	Yonder is a most reverend gentleman, who, belike having received wrong by some person, is at most odds with his own gravity and patience that ever you saw.
+<SPEECH 37><ACT 3><SCENE 1><44%>
+	I think you know him; Master Doctor Caius, the renowned French physician.
+<SPEECH 38><ACT 3><SCENE 1><44%>
+	Why?
+<SPEECH 39><ACT 3><SCENE 1><44%>
+	I warrant you, he's the man should fight with him.
+<SPEECH 40><ACT 3><SCENE 1><45%>
+	Nay, good Master parson, keep in your weapon.
+<SPEECH 41><ACT 3><SCENE 2><48%>
+	You have, Master Slender; I stand wholly for you: but my wife, Master doctor, is for you altogether.
+<SPEECH 42><ACT 3><SCENE 2><49%>
+	Not by my consent, I promise you. The gentleman is of no having: he kept company with the wild prince and Pointz; he is of too high a region; he knows too much. No, he shall not knit a knot in his fortunes with the finger of my substance: if he take her, let him take her simply; the wealth I have waits on my consent, and my consent goes not that way.
+<SPEECH 43><ACT 3><SCENE 3><55%>
+	Good Master Ford, be contented: you wrong yourself too much.
+<SPEECH 44><ACT 3><SCENE 3><56%>
+	Nay, follow him, gentlemen; see the issue of his search.
+<SPEECH 45><ACT 3><SCENE 3><57%>
+	Fie, fie, Master Ford! are you not ashamed? What spirit, what devil suggests this imagination? I would not ha' your distemper in this kind for the wealth of Windsor Castle.
+<SPEECH 46><ACT 3><SCENE 3><58%>
+	Let's go in, gentlemen; but, trust me, we'll mock him. I do invite you to-morrow morning to my house to breakfast; after, we'll a-birding together: I have a fine hawk for the bush. Shall it be so?
+<SPEECH 47><ACT 3><SCENE 4><60%>
+	Now, Master Slender: love him, daughter Anne.
+	Why, how now! what does Master Fenton here?
+	You wrong me, sir, thus still to haunt my house:
+	I told you, sir, my daughter is dispos'd of.
+<SPEECH 48><ACT 3><SCENE 4><61%>
+	She is no match for you.
+<SPEECH 49><ACT 3><SCENE 4><61%>
+	No, good Master Fenton.
+	Come, Master Shallow; come, son Slender, in.
+	Knowing my mind, you wrong me, Master Fenton.
+<SPEECH 50><ACT 4><SCENE 2><74%>
+	Why, this passes! Master Ford, you are not to go loose any longer; you must be pinioned.
+<SPEECH 51><ACT 4><SCENE 2><74%>
+	This passes!
+<SPEECH 52><ACT 4><SCENE 2><75%>
+	Here's no man.
+<SPEECH 53><ACT 4><SCENE 2><75%>
+	No, nor nowhere else but in your brain.
+<SPEECH 54><ACT 4><SCENE 2><76%>
+	Let's obey his humour a little further. Come, gentlemen.
+<SPEECH 55><ACT 4><SCENE 4><78%>
+	And did he send you both these letters at an instant?
+<SPEECH 56><ACT 4><SCENE 4><78%>
+	'Tis well, 'tis well; no more.
+	Be not as extreme in submission
+	As in ofrence;
+	But let our plot go forward: let our wives
+	Yet once again, to make us public sport,
+	Appoint a meeting with this old fat fellow,
+	Where we may take him and disgrace him for it.
+<SPEECH 57><ACT 4><SCENE 4><79%>
+	How? to send him word they'll meet him in the Park at midnight? Fie, fie! he'll never come.
+<SPEECH 58><ACT 4><SCENE 4><79%>
+	So think I too.
+<SPEECH 59><ACT 4><SCENE 4><79%>
+	Why, yet there want not many that do fear
+	In deep of night to walk by this Herne's oak.
+	But what of this?
+<SPEECH 60><ACT 4><SCENE 4><79%>
+	Well, let it not be doubted but he'll come,
+	And in this shape when you have brought him thither,
+	What shall be done with him? what is your plot?
+<SPEECH 61><ACT 4><SCENE 4><81%>
+	That silk will I go buy:—<STAGE DIR>
+	</STAGE DIR> and in that time
+	Shall Master Slender steal my Nan away,
+	And marry her at Eton. Go, send to Falstaff straight.
+<SPEECH 62><ACT 5><SCENE 2><89%>
+	Come, come; we'll couch i' the castle-ditch till we see the light of our fairies. Remember, son Slender, my daughter.
+<SPEECH 63><ACT 5><SCENE 2><89%>
+	The night is dark; light and spirits will become it well. Heaven prosper our sport! No man means evil but the devil, and we shall know him by his horns. Let's away; follow me.
+<SPEECH 64><ACT 5><SCENE 5><95%>
+	Nay, do not fly: I think we have watch'd you now:
+	Will none but Herne the hunter serve your turn?
+<SPEECH 65><ACT 5><SCENE 5><97%>
+	Old, cold, withered, and of intolerable entrails?
+<SPEECH 66><ACT 5><SCENE 5><97%>
+	And as poor as Job?
+<SPEECH 67><ACT 5><SCENE 5><97%>
+	Yet be cheerful, knight: thou shalt eat a posset to-night at my house; where I will desire thee to laugh at my wife, that now laughs at thee. Tell her, Master Slender hath married her daughter.
+<SPEECH 68><ACT 5><SCENE 5><98%>
+	Son, how now! how now, son! have you dispatched?
+<SPEECH 69><ACT 5><SCENE 5><98%>
+	Of what, son?
+<SPEECH 70><ACT 5><SCENE 5><98%>
+	Upon my life, then, you took the wrong.
+<SPEECH 71><ACT 5><SCENE 5><98%>
+	Why, this is your own folly. Did not I tell you how you should know my daughter by her garments?
+<SPEECH 72><ACT 5><SCENE 5><98%>
+	O I am vexed at heart: what shall I do?
+<SPEECH 73><ACT 5><SCENE 5><99%>
+	My heart misgives me: here comes Master Fenton.
+	How now, Master Fenton!
+<SPEECH 74><ACT 5><SCENE 5><99%>
+	Now, mistress, how chance you went not with Master Slender?
+<SPEECH 75><ACT 5><SCENE 5><100%>
+	Well, what remedy?—Fenton, heaven give thee joy!
+	What cannot be eschew'd must be embrac'd.

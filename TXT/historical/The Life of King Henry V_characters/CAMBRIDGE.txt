@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 2><SCENE 2><19%>
+	Never was monarch better fear'd and lov'd
+	Than is your majesty: there's not, I think, a subject
+	That sits in heart-grief and uneasiness
+	Under the sweet shade of your government.
+<SPEECH 2><ACT 2><SCENE 2><20%>
+	So may your highness, and yet punish too.
+<SPEECH 3><ACT 2><SCENE 2><20%>
+	I one, my lord:
+	Your highness bade me ask for it to-day.
+<SPEECH 4><ACT 2><SCENE 2><21%>
+	I do confess my fault,
+	And do submit me to your highness' mercy.
+<SPEECH 5><ACT 2><SCENE 2><23%>
+	For me, the gold of France did not seduce,
+	Although I did admit it as a motive
+	The sooner to effect what I intended:
+	But God be thanked for prevention;
+	Which I in sufference heartily will rejoice,
+	Beseeching God and you to pardon me.

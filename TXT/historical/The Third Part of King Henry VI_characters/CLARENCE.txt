@@ -1,0 +1,117 @@
+<SPEECH 1><ACT 3><SCENE 2><47%>
+	</STAGE DIR> He knows the game: how true he keeps the wind!
+<SPEECH 2><ACT 3><SCENE 2><48%>
+	</STAGE DIR> I fear her not, unless she chance to fall.
+<SPEECH 3><ACT 3><SCENE 2><48%>
+	</STAGE DIR> I think he means to beg a child of her.
+<SPEECH 4><ACT 3><SCENE 2><49%>
+	</STAGE DIR> As red as fire! nay, then her wax must melt.
+<SPEECH 5><ACT 3><SCENE 2><50%>
+	</STAGE DIR> He is the bluntest wooer in Christendom.
+<SPEECH 6><ACT 3><SCENE 2><51%>
+	</STAGE DIR> When he was made a shriver, 'twas for shift.
+<SPEECH 7><ACT 3><SCENE 2><51%>
+	To whom, my lord?
+<SPEECH 8><ACT 3><SCENE 2><51%>
+	That's a day longer than a wonder lasts.
+<SPEECH 9><ACT 4><SCENE 1><63%>
+	Alas! you know, 'tis far from hence to France;
+	How could he stay till Warwick made return?
+<SPEECH 10><ACT 4><SCENE 1><63%>
+	I mind to tell him plainly what I think.
+<SPEECH 11><ACT 4><SCENE 1><63%>
+	As well as Lewis of France, or the Earl of Warwick;
+	Which are so weak of courage and in judgment
+	That they'll take no offence at our abuse.
+<SPEECH 12><ACT 4><SCENE 1><64%>
+	Then this is mine opinion: that King Lewis
+	Becomes your enemy for mocking him
+	About the marriage of the Lady Bona.
+<SPEECH 13><ACT 4><SCENE 1><64%>
+	For this one speech Lord Hastings well deserves
+	To have the heir of the Lord Hungerford.
+<SPEECH 14><ACT 4><SCENE 1><64%>
+	Or else you would not have bestow'd the heir
+	Of the Lord Bonville on your new wife's son,
+	And leave your brothers to go speed elsewhere.
+<SPEECH 15><ACT 4><SCENE 1><65%>
+	In choosing for yourself you show'd your judgment,
+	Which being shallow, you shall give me leave
+	To play the broker on mine own behalf;
+	And to that end I shortly mind to leave you.
+<SPEECH 16><ACT 4><SCENE 1><66%>
+	Belike the elder; Clarence will have the younger.
+	Now, brother king, farewell, and sit you fast,
+	For I will hence to Warwick's other daughter;
+	That, though I want a kingdom, yet in marriage
+	I may not prove inferior to yourself.
+	You, that love me and Warwick, follow me.
+<SPEECH 17><ACT 4><SCENE 2><68%>
+	Fear not that, my lord.
+<SPEECH 18><ACT 4><SCENE 6><74%>
+	No, Warwick, thou art worthy of the sway,
+	To whom the heavens, in thy nativity
+	Adjudg'd an olive branch and laurel crown,
+	As likely to be blest in peace, and war;
+	And therefore I yield thee my free consent.
+<SPEECH 19><ACT 4><SCENE 6><75%>
+	That he consents, if Warwick yield consent;
+	For on thy fortune I repose myself.
+<SPEECH 20><ACT 4><SCENE 6><75%>
+	What else? and that succession be determin'd.
+<SPEECH 21><ACT 4><SCENE 6><75%>
+	It shall be done, my sov'reign, with all speed.
+<SPEECH 22><ACT 4><SCENE 8><80%>
+	A little fire is quickly trodden out,
+	Which, being suffer'd, rivers cannot quench.
+<SPEECH 23><ACT 4><SCENE 8><81%>
+	In sign of truth, I kiss your highness' hand.
+<SPEECH 24><ACT 5><SCENE 1><85%>
+	Father of Warwick, know you what this means?
+	Look here, I throw my infamy at thee:
+	I will not ruinate my father's house,
+	Who gave his blood to lime the stones together,
+	And set up Lancaster. Why, trow'st thou, Warwick,
+	That Clarence is so harsh, so blunt, unnatural,
+	To bend the fatal instruments of war
+	Against his brother and his lawful king?
+	Perhaps thou wilt object my holy oath:
+	To keep that oath were more impiety
+	Than Jephthah's, when he sacrific'd his daughter.
+	I am so sorry for my trespass made
+	That, to deserve well at my brother's hands,
+	I here proclaim myself thy mortal foe;
+	With resolution, wheresoe'er I meet thee—
+	As I will meet thee if thou stir abroad—
+	To plague thee for thy foul misleading me.
+	And so, proud-hearted Warwick, I defy thee,
+	And to my brother turn my blushing cheeks.
+	Pardon me, Edward, I will make amends;
+	And, Richard, do not frown upon my faults,
+	For I will henceforth be no more unconstant.
+<SPEECH 25><ACT 5><SCENE 3><89%>
+	A little gale will soon disperse that cloud,
+	And blow it to the source from whence it came:
+	Thy very beams will dry those vapours up,
+	For every cloud engenders not a storm.
+<SPEECH 26><ACT 5><SCENE 5><93%>
+	Untutor'd lad, thou art too malapert.
+<SPEECH 27><ACT 5><SCENE 5><94%>
+	And there's for twitting me with perjury.
+<SPEECH 28><ACT 5><SCENE 5><94%>
+	What? what?
+<SPEECH 29><ACT 5><SCENE 5><95%>
+	By heaven, I will not do thee so much ease.
+<SPEECH 30><ACT 5><SCENE 5><95%>
+	Didst thou not hear me swear I would not do it?
+<SPEECH 31><ACT 5><SCENE 5><95%>
+	To London, all in post; and, as I guess,
+	To make a bloody supper in the Tower.
+<SPEECH 32><ACT 5><SCENE 7><99%>
+	The duty, that I owe unto your majesty,
+	I seal upon the lips of this sweet babe.
+<SPEECH 33><ACT 5><SCENE 7><100%>
+	What will your Grace have done with Margaret?
+	Reignier, her father, to the King of France
+	Hath pawn'd the Sicils and Jerusalem,
+	And hither have they sent it for her ransom.

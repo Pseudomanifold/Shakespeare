@@ -1,0 +1,142 @@
+<SPEECH 1><ACT 1><SCENE 2><21%>
+	Knock, sir! whom should I knock? is there any man has rebused your worship?
+<SPEECH 2><ACT 1><SCENE 2><21%>
+	Knock you here, sir! why, sir, what am I, sir, that I should knock you here, sir?
+<SPEECH 3><ACT 1><SCENE 2><21%>
+	My master is grown quarrelsome. I should knock you first,
+	And then I know after who comes by the worst.
+<SPEECH 4><ACT 1><SCENE 2><21%>
+	Help, masters, help! my master is mad.
+<SPEECH 5><ACT 1><SCENE 2><22%>
+	Nay, 'tis no matter, sir, what he 'leges in Latin. If this be not a lawful cause for me to leave his service, look you, sir, he bid me knock him and rap him soundly, sir: well, was it fit for a servant to use his master so; being, perhaps, for aught I see, two-and-thirty, a pip out?
+	Whom would to God, I had well knock'd at first,
+	Then had not Grumio come by the worst.
+<SPEECH 6><ACT 1><SCENE 2><22%>
+	Knock at the gate! O heavens! Spake you not these words plain, 'Sirrah, knock me here, rap me here, knock me well, and knock me soundly?' And come you now with 'knocking at the gate?'
+<SPEECH 7><ACT 1><SCENE 2><23%>
+	Nay, look you, sir, he tells you flatly what his mind is: why, give him gold enough and marry him to a puppet or an aglet-baby; or an old trot with ne'er a tooth in her head, though she have as many diseases as two-and-fifty horses: why, nothing comes amiss, so money comes withal.
+<SPEECH 8><ACT 1><SCENE 2><24%>
+	I pray you, sir, let him go while the humour lasts. O' my word, an she knew him as well as I do, she would think scolding would do little good upon him. She may, perhaps, call him half a score knaves or so: why, that's nothing: an he begin once, he'll rail in his ropetricks. I'll tell you what, sir, an she stand him but a little, he will throw a figure in her face, and so disfigure her with it that she shall have no more eyes to see withal than a cat. You know him not, sir.
+<SPEECH 9><ACT 1><SCENE 2><25%>
+	Katharine the curst!
+	A title for a maid of all titles the worst.
+<SPEECH 10><ACT 1><SCENE 2><25%>
+	Here's no knavery! See, to beguile the old folks, how the young folks lay their heads together!
+	Master, master, look about you: who goes there, ha?
+<SPEECH 11><ACT 1><SCENE 2><26%>
+	A proper stripling, and an amorous!
+<SPEECH 12><ACT 1><SCENE 2><26%>
+	O! this woodcock, what an ass it is.
+<SPEECH 13><ACT 1><SCENE 2><27%>
+	</STAGE DIR> And that his bags shall prove.
+<SPEECH 14><ACT 1><SCENE 2><27%>
+	Will he woo her? ay, or I'll hang her.
+<SPEECH 15><ACT 1><SCENE 2><28%>
+	</STAGE DIR> For he fears none.
+<SPEECH 16><ACT 1><SCENE 2><28%>
+	</STAGE DIR> I would I were as sure of a good dinner.
+<SPEECH 17><ACT 1><SCENE 2><31%>
+	O excellent motion! Fellows, let's be gone.
+<SPEECH 18><ACT 3><SCENE 2><58%>
+	Ay, sir, they be ready: the oats have eaten the horses.
+<SPEECH 19><ACT 4><SCENE 1><60%>
+	Fie, fie, on all tired jades, on all mad masters, and all foul ways! Was ever man so beaten? was ever man so rayed? was ever man so weary? I am sent before to make a fire, and they are coming after to warm them. Now, were not I a little pot and soon hot, my very lips might freeze to my teeth, my tongue to the roof of my mouth, my heart in my belly, ere I should come by a fire to thaw me; but I, with blowing the fire, shall warm myself; for, considering the weather, a taller man than I will take cold. Holla, ho! Curtis.
+<SPEECH 20><ACT 4><SCENE 1><60%>
+	A piece of ice: if thou doubt it, thou mayst slide from my shoulder to my heel with no greater a run but my head and my neck. A fire, good Curtis.
+<SPEECH 21><ACT 4><SCENE 1><60%>
+	O! ay, Curtis, ay; and therefore fire, fire; cast on no water.
+<SPEECH 22><ACT 4><SCENE 1><60%>
+	She was, good Curtis, before this frost; but, thou knowest, winter tames man, woman, and beast; for it hath tamed my old master, and my new mistress, and myself, fellow Curtis.
+<SPEECH 23><ACT 4><SCENE 1><61%>
+	Am I but three inches? why, thy horn is a foot; and so long am I at the least. But wilt thou make a fire, or shall I complain on thee to our mistress, whose hand,—she being now at hand,—thou shalt soon feel, to thy cold comfort, for being slow in thy hot office?
+<SPEECH 24><ACT 4><SCENE 1><61%>
+	A cold world, Curtis, in every office but thine; and therefore, fire. Do thy duty, and have thy duty, for my master and mistress are almost frozen to death.
+<SPEECH 25><ACT 4><SCENE 1><61%>
+	Why, 'Jack, boy! ho, boy!' and as much news as thou wilt.
+<SPEECH 26><ACT 4><SCENE 1><61%>
+	Why therefore fire: for I have caught extreme cold. Where's the cook? is supper ready, the house trimmed, rushes strewed, cobwebs swept; the serving-men in their new fustian, their white stockings, and every officer his wedding-garment on? Be the Jacks fair within, the Jills fair without, and carpets laid, and everything in order?
+<SPEECH 27><ACT 4><SCENE 1><61%>
+	First, know, my horse is tired; my master and mistress fallen out.
+<SPEECH 28><ACT 4><SCENE 1><61%>
+	Out of their saddles into the dirt; and thereby hangs a tale.
+<SPEECH 29><ACT 4><SCENE 1><62%>
+	Lend thine ear.
+<SPEECH 30><ACT 4><SCENE 1><62%>
+	</STAGE DIR> There.
+<SPEECH 31><ACT 4><SCENE 1><62%>
+	And therefore it is called a sensible tale; and this cuff was but to knock at your ear and beseech listening. Now I begin: Imprimis, we came down a foul hill, my master riding behind my mistress,—
+<SPEECH 32><ACT 4><SCENE 1><62%>
+	What's that to thee?
+<SPEECH 33><ACT 4><SCENE 1><62%>
+	Tell thou the tale: but hadst thou not crossed me thou shouldst have heard how her horse fell, and she under her horse; thou shouldst have heard in how miry a place, how she was bemoiled: how he left her with the horse upon her; how he beat me because her horse stumbled; how she waded through the dirt to pluck him off me: how he swore; how she prayed, that never prayed before; how I cried; how the horses ran away; how her bridle was burst; how I lost my crupper; with many things of worthy memory, which now shall die in oblivion, and thou return unexperienced to thy grave.
+<SPEECH 34><ACT 4><SCENE 1><62%>
+	Ay; and that, thou and the proudest of you all shall find when he comes home. But what talk I of this? Call forth Nathaniel, Joseph, Nicholas, Philip, Walter, Sugarsop, and the rest: let their heads be sleekly combed, their blue coats brushed, and their garters of an indifferent knit: let them curtsy with their left legs, and not presume to touch a hair of my master's horsetail till they kiss their hands. Are they all ready?
+<SPEECH 35><ACT 4><SCENE 1><63%>
+	Call them forth.
+<SPEECH 36><ACT 4><SCENE 1><63%>
+	Why, she hath a face of her own.
+<SPEECH 37><ACT 4><SCENE 1><63%>
+	Thou, it seems, that callest for company to countenance her.
+<SPEECH 38><ACT 4><SCENE 1><63%>
+	Why, she comes to borrow nothing of them.
+<SPEECH 39><ACT 4><SCENE 1><63%>
+	Welcome, you; how now, you; what, you; fellow, you; and thus much for greeting. Now, my spruce companions, is all ready, and all things neat?
+<SPEECH 40><ACT 4><SCENE 1><63%>
+	E'en at hand, alighted by this; and therefore be not,—Cock's passion, silence! I hear my master.
+<SPEECH 41><ACT 4><SCENE 1><64%>
+	Here, sir; as foolish as I was before.
+<SPEECH 42><ACT 4><SCENE 1><64%>
+	Nathaniel's coat, sir, was not fully made,
+	And Gabriel's pumps were all unpink'd i' the heel,
+	There was no link to colour Peter's hat,
+	And Walter's dagger was not come from sheathing,
+	There were none fine but Adam, Ralph, and Gregory;
+	The rest were ragged, old, and beggarly;
+	Yet, as they are, here are they come to meet you.
+<SPEECH 43><ACT 4><SCENE 1><66%>
+	Where is he?
+<SPEECH 44><ACT 4><SCENE 3><72%>
+	No, no, forsooth; I dare not, for my life.
+<SPEECH 45><ACT 4><SCENE 3><73%>
+	What say you to a neat's foot?
+<SPEECH 46><ACT 4><SCENE 3><73%>
+	I fear it is too choleric a meat.
+	How say you to a fat tripe finely broil'd?
+<SPEECH 47><ACT 4><SCENE 3><73%>
+	I cannot tell; I fear 'tis choleric.
+	What say you to a piece of beef and mustard?
+<SPEECH 48><ACT 4><SCENE 3><73%>
+	Ay, but the mustard is too hot a little.
+<SPEECH 49><ACT 4><SCENE 3><73%>
+	Nay, then I will not: you shall have the mustard,
+	Or else you get no beef of Grumio.
+<SPEECH 50><ACT 4><SCENE 3><73%>
+	Why then, the mustard without the beef.
+<SPEECH 51><ACT 4><SCENE 3><77%>
+	I gave him no order; I gave him the stuff.
+<SPEECH 52><ACT 4><SCENE 3><77%>
+	Marry, sir, with needle and thread.
+<SPEECH 53><ACT 4><SCENE 3><77%>
+	Thou hast faced many things.
+<SPEECH 54><ACT 4><SCENE 3><77%>
+	Face not me: thou hast braved many men; brave not me: I will neither be faced nor braved. I say unto thee, I bid thy master cut out the gown; but I did not bid him cut it to pieces: ergo, thou liest.
+<SPEECH 55><ACT 4><SCENE 3><77%>
+	The note lies in's throat if he say I said so.
+<SPEECH 56><ACT 4><SCENE 3><77%>
+	Master, if ever I said loose-bodied gown, sew me in the skirts of it, and beat me to death with a bottom of brown thread. I said, a gown.
+<SPEECH 57><ACT 4><SCENE 3><77%>
+	I confess the cape.
+<SPEECH 58><ACT 4><SCENE 3><77%>
+	I confess two sleeves.
+<SPEECH 59><ACT 4><SCENE 3><77%>
+	Error i' the bill, sir; error i' the bill. I commanded the sleeves should be cut out and sewed up again; and that I'll prove upon thee, though thy little finger be armed in a thimble.
+<SPEECH 60><ACT 4><SCENE 3><78%>
+	I am for thee straight: take thou the bill, give me thy mete-yard, and spare not me.
+<SPEECH 61><ACT 4><SCENE 3><78%>
+	You are i' the right, sir; 'tis for my mistress.
+<SPEECH 62><ACT 4><SCENE 3><78%>
+	Villain, not for thy life! take up my mistress' gown for thy master's use!
+<SPEECH 63><ACT 4><SCENE 3><78%>
+	O, sir, the conceit is deeper than you think for.
+	Take up my mistress' gown to his master's use!
+	O, fie, fie, fie!

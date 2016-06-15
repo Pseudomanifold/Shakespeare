@@ -1,0 +1,34 @@
+<SPEECH 1><ACT 1><SCENE 2><10%>
+	My Lord Protector, 'tis his highness' pleasure
+	You do prepare to ride unto Saint Alban's,
+	Whereas the king and queen do mean to hawk.
+<SPEECH 2><ACT 3><SCENE 1><46%>
+	Great lords, from Ireland am I come amain,
+	To signify that rebels there are up,
+	And put the Englishmen unto the sword.
+	Send succours, lords, and stop the rage betime,
+	Before the wound do grow uncurable;
+	For, being green, there is great hope of help.
+<SPEECH 3><ACT 4><SCENE 4><76%>
+	The rebels are in Southwark; fly, my lord!
+	Jack Cade proclaims himself Lord Mortimer,
+	Descended from the Duke of Clarence' house,
+	And calls your Grace usurper openly,
+	And vows to crown himself in Westminster.
+	His army is a ragged multitude
+	Of hinds and peasants, rude and merciless:
+	Sir Humphrey Stafford and his brother's death
+	Hath given them heart and courage to proceed.
+	All scholars, lawyers, courtiers, gentlemen,
+	They call false caterpillars, and intend their death.
+<SPEECH 4><ACT 4><SCENE 7><79%>
+	My lord, a prize, a prize! here's the Lord Say, which sold the towns in France; he that made us pay one-and-twenty fifteens, and one shilling to the pound, the last subsidy.
+<SPEECH 5><ACT 4><SCENE 1><85%>
+	Please it your Grace to be advertised,
+	The Duke of York is newly come from Ireland;
+	And with a puissant and a mighty power
+	Of Gallowglasses, and stout kerns,
+	Is marching hitherward in proud array;
+	And still proclaimeth, as he comes along,
+	His arms are only to remove from thee
+	The Duke of Somerset, whom he terms a traitor.

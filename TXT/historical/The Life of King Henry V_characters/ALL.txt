@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 5><SCENE 2><99%>
+	Amen!
+<SPEECH 2><ACT 5><SCENE 2><99%>
+	Amen!

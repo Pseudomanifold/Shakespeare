@@ -1,0 +1,31 @@
+<SPEECH 1><ACT 3><SCENE 1><42%>
+	It was, so please your highness.
+<SPEECH 2><ACT 3><SCENE 1><43%>
+	You made it known to us.
+<SPEECH 3><ACT 3><SCENE 1><43%>
+	We are men, my liege.
+<SPEECH 4><ACT 3><SCENE 1><44%>
+	And I another,
+	So weary with disasters, tugg'd with fortune,
+	That I would set my life on any chance,
+	To mend it or be rid on 't.
+<SPEECH 5><ACT 3><SCENE 1><45%>
+	Though our lives—
+<SPEECH 6><ACT 3><SCENE 3><48%>
+	But who did bid thee join with us?
+<SPEECH 7><ACT 3><SCENE 3><49%>
+	Then stand with us.
+	The west yet glimmers with some streaks of day:
+	Now spurs the lated traveller apace
+	To gain the timely inn; and near approaches
+	The subject of our watch.
+<SPEECH 8><ACT 3><SCENE 3><49%>
+	His horses go about.
+<SPEECH 9><ACT 3><SCENE 3><49%>
+	Stand to 't.
+<SPEECH 10><ACT 3><SCENE 3><49%>
+	Let it come down.
+<SPEECH 11><ACT 3><SCENE 3><49%>
+	Was 't not the way?
+<SPEECH 12><ACT 3><SCENE 3><50%>
+	Well, let's away, and say how much is done.

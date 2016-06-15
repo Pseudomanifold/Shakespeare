@@ -1,0 +1,384 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Friends to this ground.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	A piece of him.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Tush, tush! 'twill not appear.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	Well, sit we down,
+	And let us hear Bernardo speak of this.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	Most like: it harrows me with fear and wonder.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	What art thou that usurp'st this time of night,
+	Together with that fair and war-like form
+	In which the majesty of buried Denmark
+	Did sometimes march? by heaven I charge thee, speak!
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	Stay! speak, speak! I charge thee, speak!
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	Before my God, I might not this believe
+	Without the sensible and true avouch
+	Of mine own eyes.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	As thou-art to thyself:
+	Such was the very armour he had on
+	When he the ambitious Norway combated;
+	So frown'd he once, when, in an angry parle,
+	He smote the sledded Polacks on the ice.
+	'Tis strange.
+<SPEECH 10><ACT 1><SCENE 1><2%>
+	In what particular thought to work I know not;
+	But in the gross and scope of my opinion,
+	This bodes some strange eruption to our state.
+<SPEECH 11><ACT 1><SCENE 1><2%>
+	That can I;
+	At least, the whisper goes so. Our last king,
+	Whose image even but now appear'd to us,
+	Was, as you know, by Fortinbras of Norway,
+	Thereto prick'd on by a most emulate pride,
+	Dar'd to the combat; in which our valiant Hamlet—
+	For so this side of our known world esteem'd him—
+	Did slay this Fortinbras; who, by a seal'd compact,
+	Well ratified by law and heraldry,
+	Did forfeit with his life all those his lands
+	Which he stood seiz'd of, to the conqueror;
+	Against the which, a moiety competent
+	Was gaged by our king; which had return'd
+	To the inheritance of Fortinbras,
+	Had he been vanquisher; as, by the same covenant,
+	And carriage of the article design'd,
+	His fell to Hamlet. Now, sir, young Fortinbras,
+	Of unimproved mettle hot and full,
+	Hath in the skirts of Norway here and there
+	Shark'd up a list of lawless resolutes,
+	For food and diet, to some enterprise
+	That hath a stomach in 't; which is no other—
+	As it doth well appear unto our state—
+	But to recover of us, by strong hand
+	And terms compulsative, those foresaid lands
+	So by his father lost. And this, I take it,
+	Is the main motive of our preparations,
+	The source of this our watch and the chief head
+	Of this post-haste and romage in the land.
+<SPEECH 12><ACT 1><SCENE 1><3%>
+	A mote it is to trouble the mind's eye.
+	In the most high and palmy state of Rome,
+	A little ere the mightiest Julius fell,
+	The graves stood tenantless and the sheeted dead
+	Did squeak and gibber in the Roman streets;
+	As stars with trains of fire and dews of blood,
+	Disasters in the sun; and the moist star
+	Upon whose influence Neptune's empire stands
+	Was sick almost to doomsday with eclipse;
+	And even the like precurse of fierce events,
+	As harbingers preceding still the fates
+	And prologue to the omen coming on,
+	Have heaven and earth together demonstrated
+	Unto our climatures and countrymen.
+	But, soft! behold! lo! where it comes again.
+	I'll cross it, though it blast me. Stay, illusion!
+	If thou hast any sound, or use of voice,
+	Speak to me:
+	If there be any good thing to be done,
+	That may to thee do ease and grace to me,
+	Speak to me:
+	If thou art privy to thy country's fate,
+	Which happily foreknowing may avoid,
+	O! speak;
+	Or if thou hast uphoarded in thy life
+	Extorted treasure in the womb of earth,
+	For which, they say, you spirits oft walk in death,
+	Speak of it: stay, and speak! Stop it, Marcellus.
+<SPEECH 13><ACT 1><SCENE 1><4%>
+	Do, if it will not stand.
+<SPEECH 14><ACT 1><SCENE 1><4%>
+	'Tis here!
+<SPEECH 15><ACT 1><SCENE 1><4%>
+	And then it started like a guilty thing
+	Upon a fearful summons. I have heard,
+	The cock, that is the trumpet to the morn,
+	Doth with his lofty and shrill-sounding throat
+	Awake the god of day; and at his warning,
+	Whether in sea or fire, in earth or air,
+	The extravagant and erring spirit hies
+	To his confine; and of the truth herein
+	This present object made probation.
+<SPEECH 16><ACT 1><SCENE 1><4%>
+	So have I heard and do in part believe it.
+	But, look, the morn in russet mantle clad,
+	Walks o'er the dew of yon high eastern hill;
+	Break we our watch up; and by my advice
+	Let us impart what we have seen to-night
+	Unto young Hamlet; for, upon my life,
+	This spirit, dumb to us, will speak to him.
+	Do you consent we shall acquaint him with it,
+	As needful in our loves, fitting our duty?
+<SPEECH 17><ACT 1><SCENE 2><9%>
+	Hail to your lordship!
+<SPEECH 18><ACT 1><SCENE 2><9%>
+	The same, my lord, and your poor servant ever.
+<SPEECH 19><ACT 1><SCENE 2><9%>
+	A truant disposition, good my lord.
+<SPEECH 20><ACT 1><SCENE 2><9%>
+	My lord, I came to see your father's funeral.
+<SPEECH 21><ACT 1><SCENE 2><9%>
+	Indeed, my lord, it follow'd hard upon.
+<SPEECH 22><ACT 1><SCENE 2><9%>
+	O! where, my lord?
+<SPEECH 23><ACT 1><SCENE 2><9%>
+	I saw him once; he was a goodly king.
+<SPEECH 24><ACT 1><SCENE 2><10%>
+	My lord, I think I saw him yesternight.
+<SPEECH 25><ACT 1><SCENE 2><10%>
+	My lord, the king your father.
+<SPEECH 26><ACT 1><SCENE 2><10%>
+	Season your admiration for a while
+	With an attent ear, till I may deliver,
+	Upon the witness of these gentlemen,
+	This marvel to you.
+<SPEECH 27><ACT 1><SCENE 2><10%>
+	Two nights together had these gentlemen,
+	Marcellus and Bernardo, on their watch,
+	In the dead vast and middle of the night,
+	Been thus encounter'd: a figure like your father,
+	Armed at points exactly, cap-a-pe,
+	Appears before them, and with solemn march
+	Goes slow and stately by them: thrice he walk'd
+	By their oppress'd and fear-surprised eyes,
+	Within his truncheon's length; whilst they, distill'd
+	Almost to jelly with the act of fear,
+	Stand dumb and speak not to him. This to me
+	In dreadful secrecy impart they did,
+	And I with them the third night kept the watch;
+	Where, as they had deliver'd, both in time,
+	Form of the thing, each word made true and good,
+	The apparition comes. I knew your father;
+	These hands are not more like.
+<SPEECH 28><ACT 1><SCENE 2><10%>
+	My lord, I did;
+	But answer made it none; yet once methought
+	It lifted up its head and did address
+	Itself to motion, like as it would speak;
+	But even then the morning cock crew loud,
+	And at the sound it shrunk in haste away
+	And vanish'd from our sight.
+<SPEECH 29><ACT 1><SCENE 2><10%>
+	As I do live, my honour'd lord, 'tis true;
+	And we did think it writ down in our duty
+	To let you know of it.
+<SPEECH 30><ACT 1><SCENE 2><11%>
+	O yes! my lord; he wore his beaver up.
+<SPEECH 31><ACT 1><SCENE 2><11%>
+	A countenance more in sorrow than in anger.
+<SPEECH 32><ACT 1><SCENE 2><11%>
+	Nay, very pale.
+<SPEECH 33><ACT 1><SCENE 2><11%>
+	Most constantly.
+<SPEECH 34><ACT 1><SCENE 2><11%>
+	It would have much amaz'd you.
+<SPEECH 35><ACT 1><SCENE 2><11%>
+	While one with moderate haste might tell a hundred.
+<SPEECH 36><ACT 1><SCENE 2><11%>
+	Not when I saw it.
+<SPEECH 37><ACT 1><SCENE 2><11%>
+	It was, as I have seen it in his life,
+	A sable silver'd.
+<SPEECH 38><ACT 1><SCENE 2><11%>
+	I warrant it will.
+<SPEECH 39><ACT 1><SCENE 4><15%>
+	It is a nipping and an eager air.
+<SPEECH 40><ACT 1><SCENE 4><15%>
+	I think it lacks of twelve.
+<SPEECH 41><ACT 1><SCENE 4><15%>
+	Indeed? I heard it not: then it draws near the season
+	Wherein the spirit held his wont to walk.
+	What does this mean, my lord?
+<SPEECH 42><ACT 1><SCENE 4><15%>
+	Is it a custom?
+<SPEECH 43><ACT 1><SCENE 4><16%>
+	Look, my lord, it comes.
+<SPEECH 44><ACT 1><SCENE 4><16%>
+	It beckons you to go away with it,
+	As if it some impartment did desire
+	To you alone.
+<SPEECH 45><ACT 1><SCENE 4><16%>
+	No, by no means.
+<SPEECH 46><ACT 1><SCENE 4><17%>
+	Do not, my lord.
+<SPEECH 47><ACT 1><SCENE 4><17%>
+	What if it tempt you toward the flood, my lord,
+	Or to the dreadful summit of the cliff
+	That beetles o'er his base into the sea,
+	And there assume some other horrible form,
+	Which might deprive your sovereignty of reason
+	And draw you into madness? think of it;
+	The very place puts toys of desperation,
+	Without more motive, into every brain
+	That looks so many fathoms to the sea
+	And hears it roar beneath.
+<SPEECH 48><ACT 1><SCENE 4><17%>
+	Be rul'd; you shall not go.
+<SPEECH 49><ACT 1><SCENE 4><17%>
+	He wares desperate with imagination.
+<SPEECH 50><ACT 1><SCENE 4><17%>
+	Have after. To what issue will this come?
+<SPEECH 51><ACT 1><SCENE 4><17%>
+	Heaven will direct it.
+<SPEECH 52><ACT 1><SCENE 5><20%>
+	</STAGE DIR> My lord! my lord!
+<SPEECH 53><ACT 1><SCENE 5><20%>
+	</STAGE DIR> Heaven secure him!
+<SPEECH 54><ACT 1><SCENE 5><20%>
+	</STAGE DIR> Hillo, ho, ho, my lord!
+<SPEECH 55><ACT 1><SCENE 5><20%>
+	What news, my lord?
+<SPEECH 56><ACT 1><SCENE 5><20%>
+	Good my lord, tell it.
+<SPEECH 57><ACT 1><SCENE 5><20%>
+	Not I, my lord, by heaven!
+<SPEECH 58><ACT 1><SCENE 5><20%>
+	Ay, by heaven, my lord.
+<SPEECH 59><ACT 1><SCENE 5><20%>
+	There needs no ghost, my lord, come from the grave,
+	To tell us this.
+<SPEECH 60><ACT 1><SCENE 5><21%>
+	These are but wild and whirling words, my lord.
+<SPEECH 61><ACT 1><SCENE 5><21%>
+	There's no offence, my lord.
+<SPEECH 62><ACT 1><SCENE 5><21%>
+	What is't, my lord? we will.
+<SPEECH 63><ACT 1><SCENE 5><21%>
+	My lord, we will not.
+<SPEECH 64><ACT 1><SCENE 5><21%>
+	In faith,
+	My lord, not I.
+<SPEECH 65><ACT 1><SCENE 5><21%>
+	Propose the oath, my lord.
+<SPEECH 66><ACT 1><SCENE 5><22%>
+	O day and night, but this is wondrous strange!
+<SPEECH 67><ACT 3><SCENE 2><47%>
+	Here, sweet lord, at your service.
+<SPEECH 68><ACT 3><SCENE 2><47%>
+	O! my dear lord,—
+<SPEECH 69><ACT 3><SCENE 2><48%>
+	Well, my lord:
+	If he steal aught the whilst this play is playing,
+	And 'scape detecting, I will pay the theft.
+<SPEECH 70><ACT 3><SCENE 2><53%>
+	Half a share.
+<SPEECH 71><ACT 3><SCENE 2><53%>
+	You might have rimed.
+<SPEECH 72><ACT 3><SCENE 2><53%>
+	Very well, my lord.
+<SPEECH 73><ACT 3><SCENE 2><53%>
+	I did very well note him.
+<SPEECH 74><ACT 4><SCENE 5><70%>
+	'Twere good she were spoken with, for she may strew
+	Dangerous conjectures in ill-breeding minds.
+<SPEECH 75><ACT 4><SCENE 6><76%>
+	What are they that would speak with me?
+<SPEECH 76><ACT 4><SCENE 6><76%>
+	Let them come in.
+	I do not know from what part of the world
+	I should be greeted, if not from Lord Hamlet.
+<SPEECH 77><ACT 4><SCENE 6><76%>
+	Let him bless thee too.
+<SPEECH 78><ACT 4><SCENE 6><76%>
+	Horatio, when thou shalt have overlooked this, give these fellows some means to the king: they have letters for him. Ere we were two days old at sea, a pirate of very war-like appointment gave us chase. Finding ourselves too slow of sail, we put on a compelled valour; in the grapple I boarded them: on the instant they got clear of our ship, so I alone became their prisoner. They have dealt with me like thieves of mercy, but they knew what they did; I am to do a good turn for them. Let the king have the letters I have sent; and repair thou to me with as much haste as thou wouldst fly death. I have words to speak in thine ear will make thee dumb; yet are they much too light for the bore of the matter. These good fellows will bring thee where I am. Rosencrantz and Guildenstern hold their course for England: of them I have much to tell thee. Farewell.
+	He that thou knowest thine,
+	<HAMLET.>Come, I will give you way for these your letters;
+	And do 't the speedier, that you may direct me
+	To him from whom you brought them.
+<SPEECH 79><ACT 5><SCENE 1><83%>
+	Custom hath made it in him a property of easiness.
+<SPEECH 80><ACT 5><SCENE 1><84%>
+	It might, my lord.
+<SPEECH 81><ACT 5><SCENE 1><84%>
+	Ay, my lord.
+<SPEECH 82><ACT 5><SCENE 1><84%>
+	Not a jot more, my lord.
+<SPEECH 83><ACT 5><SCENE 1><84%>
+	Ay, my lord, and of calf-skins too.
+<SPEECH 84><ACT 5><SCENE 1><86%>
+	What's that, my lord?
+<SPEECH 85><ACT 5><SCENE 1><86%>
+	E'en so.
+<SPEECH 86><ACT 5><SCENE 1><86%>
+	E'en so, my lord.
+<SPEECH 87><ACT 5><SCENE 1><87%>
+	'Twere to consider too curiously, to consider so.
+<SPEECH 88><ACT 5><SCENE 1><88%>
+	Good my lord, be quiet.
+<SPEECH 89><ACT 5><SCENE 2><89%>
+	Remember it, my lord?
+<SPEECH 90><ACT 5><SCENE 2><90%>
+	That is most certain.
+<SPEECH 91><ACT 5><SCENE 2><90%>
+	Is 't possible?
+<SPEECH 92><ACT 5><SCENE 2><90%>
+	I beseech you.
+<SPEECH 93><ACT 5><SCENE 2><90%>
+	Ay, good my lord.
+<SPEECH 94><ACT 5><SCENE 2><90%>
+	How was this seal'd?
+<SPEECH 95><ACT 5><SCENE 2><91%>
+	So Guildenstern and Rosencrantz go to 't.
+<SPEECH 96><ACT 5><SCENE 2><91%>
+	Why, what a king is this!
+<SPEECH 97><ACT 5><SCENE 2><91%>
+	It must be shortly known to him from England
+	What is the issue of the business there.
+<SPEECH 98><ACT 5><SCENE 2><91%>
+	Peace! who comes here?
+<SPEECH 99><ACT 5><SCENE 2><91%>
+	</STAGE DIR> No, my good lord.
+<SPEECH 100><ACT 5><SCENE 2><92%>
+	Is 't not possible to understand in another tongue? You will do 't, sir, really.
+<SPEECH 101><ACT 5><SCENE 2><93%>
+	His purse is empty already; all 's golden words are spent.
+<SPEECH 102><ACT 5><SCENE 2><93%>
+	I knew you must be edified by the margent, ere you had done.
+<SPEECH 103><ACT 5><SCENE 2><94%>
+	This lapwing runs away with the shell on his head.
+<SPEECH 104><ACT 5><SCENE 2><94%>
+	You will lose this wager, my lord.
+<SPEECH 105><ACT 5><SCENE 2><95%>
+	Nay, good my lord,—
+<SPEECH 106><ACT 5><SCENE 2><95%>
+	If your mind dislike any thing, obey it; I will forestal their repair hither, and say you are not fit.
+<SPEECH 107><ACT 5><SCENE 2><97%>
+	They bleed on both sides. How is it, my lord?
+<SPEECH 108><ACT 5><SCENE 2><98%>
+	Never believe it;
+	I am more an antique Roman than a Dane:
+	Here's yet some liquor left.
+<SPEECH 109><ACT 5><SCENE 2><99%>
+	Now cracks a noble heart. Good-night, sweet prince,
+	And flights of angels sing thee to thy rest!
+	Why does the drum come hither?
+<SPEECH 110><ACT 5><SCENE 2><99%>
+	What is it ye would see?
+	If aught of woe or wonder, cease your search.
+<SPEECH 111><ACT 5><SCENE 2><99%>
+	Not from his mouth,
+	Had it the ability of life to thank you:
+	He never gave commandment for their death.
+	But since, so jump upon this bloody question,
+	You from the Polack wars, and you from England,
+	Are here arriv'd, give order that these bodies
+	High on a stage be placed to the view;
+	And let me speak to the yet unknowing world
+	How these things came about: so shall you hear
+	Of carnal, bloody, and unnatural acts,
+	Of accidental judgments, casual slaughters;
+	Of deaths put on by cunning and forc'd cause,
+	And, in this upshot, purposes mistook
+	Fall'n on the inventors' heads; all this can I
+	Truly deliver.
+<SPEECH 112><ACT 5><SCENE 2><100%>
+	Of that I shall have also cause to speak,
+	And from his mouth whose voice will draw on more:
+	But let this same be presently perform'd,
+	Even while men's minds are wild, lest more mischance
+	On plots and errors happen.

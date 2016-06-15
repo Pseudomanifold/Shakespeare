@@ -1,0 +1,390 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	I learn in this letter that Don Pedro of Arragon comes this night to Messina.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	How many gentlemen have you lost in this action?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	A victory is twice itself when the achiever brings home full numbers. I find here that Don Pedro hath bestowed much honour on a young Florentine called Claudio.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	He hath an uncle here in Messina will be very much glad of it.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	Did he break out into tears?
+<SPEECH 6><ACT 1><SCENE 1><1%>
+	A kind overflow of kindness. There are no faces truer than those that are so washed: how much better is it to weep at joy than to joy at weeping!
+<SPEECH 7><ACT 1><SCENE 1><1%>
+	What is he that you ask for, niece?
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	Faith, niece, you tax Signior Benedick too much; but he'll be meet with you, I doubt it not.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	You must not, sir, mistake my niece There is a kind of merry war betwixt Signior Benedick and her: they never meet but there's a skirmish of wit between them.
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	You will never run mad, niece.
+<SPEECH 11><ACT 1><SCENE 1><4%>
+	Never came trouble to my house in the likeness of your Grace, for trouble being gone, comfort should remain; but when you depart from me, sorrow abides and happiness takes his leave.
+<SPEECH 12><ACT 1><SCENE 1><4%>
+	Her mother hath many times told me so.
+<SPEECH 13><ACT 1><SCENE 1><4%>
+	Signior Benedick, no; for then you were a child.
+<SPEECH 14><ACT 1><SCENE 1><5%>
+	If you swear, my lord, you shall not be forsworn. <STAGE DIR>
+	</STAGE DIR> Let me bid you welcome, my lord: being reconciled to the prince your brother, I owe you all duty.
+<SPEECH 15><ACT 1><SCENE 1><6%>
+	Please it your Grace lead on?
+<SPEECH 16><ACT 1><SCENE 2><12%>
+	How now, brother! Where is my cousin, your son? Hath he provided this music?
+<SPEECH 17><ACT 1><SCENE 2><12%>
+	Are they good?
+<SPEECH 18><ACT 1><SCENE 2><12%>
+	Hath the fellow any wit that told you this?
+<SPEECH 19><ACT 1><SCENE 2><12%>
+	No, no; we will hold it as a dream till it appear itself: but I will acquaint my daughter withal, that she may be the better prepared for an answer, if peradventure this be true. Go you, and tell her of it. <STAGE DIR>
+	</STAGE DIR> Cousins, you know what you have to do. O! I cry you mercy, friend; go you with me, and I will use your skill. Good cousin, have a care this busy time.
+<SPEECH 20><ACT 2><SCENE 1><15%>
+	Was not Count John here at supper?
+<SPEECH 21><ACT 2><SCENE 1><16%>
+	Then half Signior Benedick's tongue in Count John's mouth, and half Count John's melancholy in Signior Benedick's face,—
+<SPEECH 22><ACT 2><SCENE 1><16%>
+	By my troth, niece, thou wilt never get thee a husband, if thou be so shrewd of thy tongue.
+<SPEECH 23><ACT 2><SCENE 1><16%>
+	So, by being too curst, God will send you no horns?
+<SPEECH 24><ACT 2><SCENE 1><17%>
+	You may light on a husband that hath no beard.
+<SPEECH 25><ACT 2><SCENE 1><17%>
+	Well then, go you into hell?
+<SPEECH 26><ACT 2><SCENE 1><17%>
+	Well, niece, I hope to see you one day fitted with a husband.
+<SPEECH 27><ACT 2><SCENE 1><18%>
+	Daughter, remember what I told you: if the prince do solicit you in that kind, you know your answer.
+<SPEECH 28><ACT 2><SCENE 1><18%>
+	Cousin, you apprehend passing shrewdly.
+<SPEECH 29><ACT 2><SCENE 1><18%>
+	The revellers are entering, brother: make good room.
+<SPEECH 30><ACT 2><SCENE 1><26%>
+	Count, take of me my daughter, and with her my fortunes: his Grace hath made the match, and all grace say Amen to it!
+<SPEECH 31><ACT 2><SCENE 1><27%>
+	Niece, will you look to those things I told you of?
+<SPEECH 32><ACT 2><SCENE 1><27%>
+	There's little of the melancholy element in her, my lord: she is never sad but when she sleeps; and not ever sad then, for I have heard my daughter say, she hath often dreamed of unhappiness and waked herself with laughing.
+<SPEECH 33><ACT 2><SCENE 1><28%>
+	O! by no means: she mocks all her wooers out of suit.
+<SPEECH 34><ACT 2><SCENE 1><28%>
+	O Lord! my lord, if they were but a week married, they would talk themselves mad.
+<SPEECH 35><ACT 2><SCENE 1><28%>
+	Not till Monday, my dear son, which is hence a just seven-night; and a time too brief too, to have all things answer my mind.
+<SPEECH 36><ACT 2><SCENE 1><28%>
+	My lord, I am for you, though it cost me ten nights' watchings.
+<SPEECH 37><ACT 2><SCENE 3><35%>
+	No, nor I neither; but most wonderful that she should so dote on Signior Benedick, whom she hath in all outward behaviours seemed ever to abhor.
+<SPEECH 38><ACT 2><SCENE 3><35%>
+	By my troth, my lord, I cannot tell what to think of it but that she loves him with an enraged affection: it is past the infinite of thought.
+<SPEECH 39><ACT 2><SCENE 3><35%>
+	O God! counterfeit! There was never counterfeit of passion came so near the life of passion as she discovers it.
+<SPEECH 40><ACT 2><SCENE 3><35%>
+	What effects, my lord? She will sit you; <STAGE DIR>
+	</STAGE DIR> You heard my daughter tell you how.
+<SPEECH 41><ACT 2><SCENE 3><36%>
+	I would have sworn it had, my lord; especially against Benedick.
+<SPEECH 42><ACT 2><SCENE 3><36%>
+	No; and swears she never will: that's her torment.
+<SPEECH 43><ACT 2><SCENE 3><36%>
+	This says she now when she is beginning to write to him; for she'll be up twenty times a night, and there will she sit in her smock till she have writ a sheet of paper: my daughter tells us all.
+<SPEECH 44><ACT 2><SCENE 3><36%>
+	O! when she had writ it, and was reading it over, she found Benedick and Beatrice between the sheet?
+<SPEECH 45><ACT 2><SCENE 3><37%>
+	O! she tore the letter into a thousand halfpence; railed at herself, that she should be so immodest to write to one that she knew would flout her: 'I measure him,' says she, 'by my own spirit; for I should flout him, if he writ to me; yea, though I love him, I should.'
+<SPEECH 46><ACT 2><SCENE 3><37%>
+	She doth indeed; my daughter says so; and the ecstasy hath so much overborne her, that my daughter is sometimes afeard she will do a desperate outrage to herself. It is very true.
+<SPEECH 47><ACT 2><SCENE 3><37%>
+	O! my lord, wisdom and blood combating in so tender a body, we have ten proofs to one that blood hath the victory. I am sorry for her, as I have just cause, being her uncle and her guardian.
+<SPEECH 48><ACT 2><SCENE 3><38%>
+	Were it good, think you?
+<SPEECH 49><ACT 2><SCENE 3><38%>
+	And I take him to be valiant.
+<SPEECH 50><ACT 2><SCENE 3><38%>
+	If he do fear God, a' must necessarily keep peace: if he break the peace, he ought to enter into a quarrel with fear and trembling.
+<SPEECH 51><ACT 2><SCENE 3><39%>
+	Nay, that's impossible: she may wear her heart out first.
+<SPEECH 52><ACT 2><SCENE 3><39%>
+	My lord, will you walk? dinner is ready.
+<SPEECH 53><ACT 3><SCENE 2><46%>
+	So say I: methinks you are sadder.
+<SPEECH 54><ACT 3><SCENE 2><47%>
+	Where is but a humour or a worm?
+<SPEECH 55><ACT 3><SCENE 2><47%>
+	Indeed he looks younger than he did, by the loss of a beard.
+<SPEECH 56><ACT 3><SCENE 5><60%>
+	What would you with me, honest neighbour?
+<SPEECH 57><ACT 3><SCENE 5><60%>
+	Brief, I pray you; for you see it is a busy time with me.
+<SPEECH 58><ACT 3><SCENE 5><60%>
+	What is it, my good friends?
+<SPEECH 59><ACT 3><SCENE 5><61%>
+	Neighbours, you are tedious.
+<SPEECH 60><ACT 3><SCENE 5><61%>
+	All thy tediousness on me! ha?
+<SPEECH 61><ACT 3><SCENE 5><61%>
+	I would fain know what you have to say.
+<SPEECH 62><ACT 3><SCENE 5><61%>
+	Indeed, neighbour, he comes too short of you.
+<SPEECH 63><ACT 3><SCENE 5><62%>
+	I must leave you.
+<SPEECH 64><ACT 3><SCENE 5><62%>
+	Take their examination yourself, and bring it me: I am now in great haste, as may appear unto you.
+<SPEECH 65><ACT 3><SCENE 5><62%>
+	Drink some wine ere you go: fare you well.
+<SPEECH 66><ACT 3><SCENE 5><62%>
+	I'll wait upon them: I am ready.
+<SPEECH 67><ACT 4><SCENE 1><62%>
+	Come, Friar Francis, be brief: only to the plain form of marriage, and you shall recount their particular duties afterwards.
+<SPEECH 68><ACT 4><SCENE 1><63%>
+	To be married to her, friar; you come to marry her.
+<SPEECH 69><ACT 4><SCENE 1><63%>
+	I dare make his answer; none.
+<SPEECH 70><ACT 4><SCENE 1><63%>
+	As freely, son, as God did give her me.
+<SPEECH 71><ACT 4><SCENE 1><64%>
+	What do you mean, my lord?
+<SPEECH 72><ACT 4><SCENE 1><64%>
+	Dear my lord, if you, in your own proof,
+	Have vanquish'd the resistance of her youth,
+	And made defeat of her virginity,—
+<SPEECH 73><ACT 4><SCENE 1><65%>
+	Sweet prince, why speak not you?
+<SPEECH 74><ACT 4><SCENE 1><65%>
+	Are these things spoken, or do I but dream?
+<SPEECH 75><ACT 4><SCENE 1><65%>
+	All this is so; but what of this, my lord?
+<SPEECH 76><ACT 4><SCENE 1><65%>
+	I charge thee do so, as thou art my child.
+<SPEECH 77><ACT 4><SCENE 1><66%>
+	Hath no man's dagger here a point for me?
+<SPEECH 78><ACT 4><SCENE 1><67%>
+	O Fate! take not away thy heavy hand:
+	Death is the fairest cover for her shame
+	That may be wish'd for.
+<SPEECH 79><ACT 4><SCENE 1><67%>
+	Dost thou look up?
+<SPEECH 80><ACT 4><SCENE 1><67%>
+	Wherefore! Why, doth not every earthly thing
+	Cry shame upon her? Could she here deny
+	The story that is printed in her blood?
+	Do not live, Hero; do not ope thine eyes;
+	For, did I think thou wouldst not quickly die,
+	Thought I thy spirits were stronger than thy shames,
+	Myself would, on the rearward of reproaches,
+	Strike at thy life. Griev'd I, I had but one?
+	Chid I for that at frugal nature's frame?
+	O! one too much by thee. Why had I one?
+	Why ever wast thou lovely in mine eyes?
+	Why had I not with charitable hand
+	Took up a beggar's issue at my gates,
+	Who smirched thus, and mir'd with infamy,
+	I might have said, 'No part of it is mine;
+	This shame derives itself from unknown loins?'
+	But mine, and mine I lov'd, and mine I prais'd,
+	And mine that I was proud on, mine so much
+	That I myself was to myself not mine,
+	Valuing of her; why, she—O! she is fallen
+	Into a pit of ink, that the wide sea
+	Hath drops too few to wash her clean again,
+	And salt too little which may season give
+	To her foul-tainted flesh.
+<SPEECH 81><ACT 4><SCENE 1><68%>
+	Confirm'd, confirm'd! O! that is stronger made,
+	Which was before barr'd up with ribs of iron.
+	Would the two princes lie? and Claudio lie,
+	Who lov'd her so, that, speaking of her foulness,
+	Wash'd it with tears? Hence from her! let her die.
+<SPEECH 82><ACT 4><SCENE 1><69%>
+	Friar, it cannot be.
+	Thou seest that all the grace that she hath left
+	Is, that she will not add to her damnation
+	A sin of perjury: she not denies it.
+	Why seek'st thou then to cover with excuse
+	That which appears in proper nakedness?
+<SPEECH 83><ACT 4><SCENE 1><69%>
+	I know not. If they speak but truth of her,
+	These hands shall tear her; if they wrong her honour,
+	The proudest of them shall well hear of it.
+	Time hath not yet so dried this blood of mine.
+	Nor age so eat up my invention,
+	Nor fortune made such havoc of my means,
+	Nor my bad life reft me so much of friends,
+	But they shall find, awak'd in such a kind,
+	Both strength of limb and policy of mind,
+	Ability in means and choice of friends,
+	To quit me of them throughly.
+<SPEECH 84><ACT 4><SCENE 1><70%>
+	What shall become of this? What will this do?
+<SPEECH 85><ACT 4><SCENE 1><71%>
+	Being that I flow in grief,
+	The smallest twine may lead me.
+<SPEECH 86><ACT 5><SCENE 1><78%>
+	I pray thee, cease thy counsel,
+	Which falls into mine ears as profitless
+	As water in a sieve: give not me counsel;
+	Nor let no comforter delight mine ear
+	But such a one whose wrongs do suit with mine:
+	Bring me a father that so lov'd his child,
+	Whose joy of her is overwhelm'd like mine,
+	And bid him speak of patience;
+	Measure his woe the length and breadth of mine,
+	And let it answer every strain for strain,
+	As thus for thus and such a grief for such,
+	In every lineament, branch, shape, and form:
+	If such a one will smile, and stroke his beard;
+	Bid sorrow wag, cry 'hem' when he should groan,
+	Patch grief with proverbs; make misfortune drunk
+	With candle-wasters; bring him yet to me,
+	And I of him will gather patience.
+	But there is no such man; for, brother, men
+	Can counsel and speak comfort to that grief
+	Which they themselves not feel; but, tasting it,
+	Their counsel turns to passion, which before
+	Would give preceptial medicine to rage,
+	Fetter strong madness in a silken thread,
+	Charm ache with air and agony with words.
+	No, no; 'tis all men's office to speak patience
+	To those that wring under the load of sorrow,
+	But no man's virtue nor sufficiency
+	To be so moral when he shall endure
+	The like himself. Therefore give me no counsel:
+	My griefs cry louder than advertisement.
+<SPEECH 87><ACT 5><SCENE 1><79%>
+	I pray thee, peace! I will be flesh and blood;
+	For there was never yet philosopher
+	That could endure the toothache patiently,
+	However they have writ the style of gods
+	And made a push at chance and sufferance.
+<SPEECH 88><ACT 5><SCENE 1><79%>
+	There thou speak'st reason: nay, I will do so.
+	My soul doth tell me Hero is belied;
+	And that shall Claudio know; so shall the prince,
+	And all of them that thus dishonour her.
+<SPEECH 89><ACT 5><SCENE 1><79%>
+	Hear you, my lords,—
+<SPEECH 90><ACT 5><SCENE 1><79%>
+	Some haste, my lord! well, fare you well, my lord:
+	Are you so hasty now?—well, all is one.
+<SPEECH 91><ACT 5><SCENE 1><79%>
+	Marry, thou dost wrong me; thou dissembler, thou.
+	Nay, never lay thy hand upon thy sword;
+	I fear thee not.
+<SPEECH 92><ACT 5><SCENE 1><80%>
+	Tush, tush, man! never fleer and jest at me:
+	I speak not like a dotard nor a fool,
+	As, under privilege of age, to brag
+	What I have done being young, or what would do,
+	Were I not old. Know, Claudio, to thy head,
+	Thou hast so wrong'd mine innocent child and me
+	That I am forc'd to lay my reverence by,
+	And, with grey hairs and bruise of many days,
+	Do challenge thee to trial of a man.
+	I say thou hast belied mine innocent child:
+	Thy slander hath gone through and through her heart,
+	And she lies buried with her ancestors;
+	O! in a tomb where never scandal slept,
+	Save this of hers, fram'd by thy villany!
+<SPEECH 93><ACT 5><SCENE 1><80%>
+	Thine, Claudio; thine, I say.
+<SPEECH 94><ACT 5><SCENE 1><80%>
+	My lord, my lord,
+	I'll prove it on his body, if he dare,
+	Despite his nice fence and his active practice,
+	His May of youth and bloom of lustihood.
+<SPEECH 95><ACT 5><SCENE 1><80%>
+	Canst thou so daff me? Thou hast kill'd my child;
+	If thou kill'st me, boy, thou shalt kill a man.
+<SPEECH 96><ACT 5><SCENE 1><81%>
+	Brother,—
+<SPEECH 97><ACT 5><SCENE 1><81%>
+	Brother Antony,—
+<SPEECH 98><ACT 5><SCENE 1><81%>
+	But, brother Antony,—
+<SPEECH 99><ACT 5><SCENE 1><81%>
+	My lord, my lord—
+<SPEECH 100><ACT 5><SCENE 1><81%>
+	No?
+	Come, brother, away. I will be heard.—
+<SPEECH 101><ACT 5><SCENE 1><87%>
+	Which is the villain? Let me see his eyes,
+	That, when I note another man like him,
+	I may avoid him. Which of these is he?
+<SPEECH 102><ACT 5><SCENE 1><87%>
+	Art thou the slave that with thy breath hast kill'd
+	Mine innocent child?
+<SPEECH 103><ACT 5><SCENE 1><87%>
+	No, not so, villain; thou beliest thyself:
+	Here stand a pair of honourable men;
+	A third is fled, that had a hand in it.
+	I thank you, princes, for my daughter's death
+	Record it with your high and worthy deeds.
+	'Twas bravely done, if you bethink you of it.
+<SPEECH 104><ACT 5><SCENE 1><88%>
+	I cannot bid you bid my daughter live;
+	That were impossible: but, I pray you both,
+	Possess the people in Messina here
+	How innocent she died; and if your love
+	Can labour aught in sad invention,
+	Hang her an epitaph upon her tomb,
+	And sing it to her bones: sing it to-night.
+	To-morrow morning come you to my house,
+	And since you could not be my son-in-law,
+	Be yet my nephew. My brother hath a daughter,
+	Almost the copy of my child that's dead,
+	And she alone is heir to both of us:
+	Give her the right you should have given her cousin,
+	And so dies my revenge.
+<SPEECH 105><ACT 5><SCENE 1><88%>
+	To-morrow then I will expect your coming;
+	To-night I take my leave. This naughty man
+	Shall face to face be brought to Margaret,
+	Who, I believe, was pack'd in all this wrong,
+	Hir'd to it by your brother.
+<SPEECH 106><ACT 5><SCENE 1><89%>
+	I thank thee for thy care and honest pains.
+<SPEECH 107><ACT 5><SCENE 1><89%>
+	There's for thy pains.
+<SPEECH 108><ACT 5><SCENE 1><89%>
+	Go, I discharge thee of thy prisoner, and I thank thee.
+<SPEECH 109><ACT 5><SCENE 1><90%>
+	Until to-morrow morning, lords, farewell.
+<SPEECH 110><ACT 5><SCENE 1><90%>
+	</STAGE DIR> Bring you these fellows on. We'll talk with Margaret,
+	How her acquaintance grew with this lewd fellow.
+<SPEECH 111><ACT 5><SCENE 4><95%>
+	So are the prince and Claudio, who accus'd her
+	Upon the error that you heard debated:
+	But Margaret was in some fault for this,
+	Although against her will, as it appears
+	In the true course of all the question.
+<SPEECH 112><ACT 5><SCENE 4><95%>
+	Well, daughter, and you gentlewomen all,
+	Withdraw into a chamber by yourselves,
+	And when I send for you, come hither mask'd:
+	The prince and Claudio promis'd by this hour
+	To visit me.
+	You know your office, brother;
+	You must be father to your brother's daughter,
+	And give her to young Claudio.
+<SPEECH 113><ACT 5><SCENE 4><96%>
+	That eye my daughter lent her: 'tis most true.
+<SPEECH 114><ACT 5><SCENE 4><96%>
+	The sight whereof I think, you had from me,
+	From Claudio, and the prince. But what's your will?
+<SPEECH 115><ACT 5><SCENE 4><96%>
+	My heart is with your liking.
+<SPEECH 116><ACT 5><SCENE 4><96%>
+	Good morrow, prince; good morrow, Claudio:
+	We here attend you. Are you yet determin'd
+	To-day to marry with my brother's daughter?
+<SPEECH 117><ACT 5><SCENE 4><96%>
+	Call her forth, brother: here's the friar ready.
+<SPEECH 118><ACT 5><SCENE 4><97%>
+	No, that you shall not, till you take her hand
+	Before this friar, and swear to marry her.
+<SPEECH 119><ACT 5><SCENE 4><97%>
+	She died, my lord, but whiles her slander liv'd.
+<SPEECH 120><ACT 5><SCENE 4><98%>
+	Come, cousin, I am sure you love the gentleman.
+<SPEECH 121><ACT 5><SCENE 4><100%>
+	We'll have dancing afterward.

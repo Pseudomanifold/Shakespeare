@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 3><SCENE 2><38%>
+	We know him for no less, though we are but strangers to him. But I can tell you one thing, my lord, and which I hear from common rumours: now Lord Timon's happy hours are done and past, and his estate shrinks from him.
+<SPEECH 2><ACT 3><SCENE 2><41%>
+	Do you observe this, Hostilius?
+<SPEECH 3><ACT 3><SCENE 2><41%>
+	Why this is the world's soul; and just of the same piece
+	Is every flatterer's spirit. Who can call him
+	His friend that dips in the same dish? for, in
+	My knowing, Timon has been this lord's father,
+	And kept his credit with his purse,
+	Supported his estate; nay, Timon's money
+	Has paid his men their wages: he ne'er drinks
+	But Timon's silver treads upon his lip;
+	And yet, O! see the monstrousness of man,
+	When he looks out in an ungrateful shape,
+	He does deny him, in respect of his,
+	What charitable men afford to beggars.
+<SPEECH 4><ACT 3><SCENE 2><41%>
+	For mine own part,
+	I never tasted Timon in my life,
+	Nor came any of his bounties over me,
+	To mark me for his friend; yet, I protest,
+	For his right noble mind, illustrious virtue,
+	And honourable carriage,
+	Had his necessity made use of me,
+	I would have put my wealth into donation,
+	And the best half should have return'd to him,
+	So much I love his heart. But, I perceive,
+	Men must learn now with pity to dispense;
+	For policy sits above conscience.

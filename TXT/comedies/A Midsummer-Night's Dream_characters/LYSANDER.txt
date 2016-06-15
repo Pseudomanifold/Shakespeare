@@ -1,0 +1,226 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+	You have her father's love, Demetrius;
+	Let me have Hermia's: do you marry him.
+<SPEECH 2><ACT 1><SCENE 1><5%>
+	I am, my lord, as well deriv'd as he,
+	As well possess'd; my love is more than his;
+	My fortunes every way as fairly rank'd
+	If not with vantage, as Demetrius';
+	And, which is more than all these boasts can be,
+	I am belov'd of beauteous Hermia.
+	Why should not I then prosecute my right?
+	Demetrius, I'll avouch it to his head,
+	Made love to Nedar's daughter, Helena,
+	And won her soul; and she, sweet lady, dotes,
+	Devoutly dotes, dotes in idolatry,
+	Upon this spotted and inconstant man.
+<SPEECH 3><ACT 1><SCENE 1><6%>
+	How now, my love! Why is your cheek so pale?
+	How chance the roses there do fade so fast?
+<SPEECH 4><ACT 1><SCENE 1><6%>
+	Ay me! for aught that ever I could read,
+	Could ever hear by tale or history,
+	The course of true love never did run smooth;
+	But, either it was different in blood,—
+<SPEECH 5><ACT 1><SCENE 1><7%>
+	Or else misgraffed in respect of years,—
+<SPEECH 6><ACT 1><SCENE 1><7%>
+	Or else it stood upon the choice of friends,—
+<SPEECH 7><ACT 1><SCENE 1><7%>
+	Or, if there were a sympathy in choice,
+	War, death, or sickness did lay siege to it,
+	Making it momentany as a sound,
+	Swift as a shadow, short as any dream,
+	Brief as the lightning in the collied night,
+	That, in a spleen, unfolds both heaven and earth,
+	And ere a man hath power to say, 'Behold!'
+	The jaws of darkness do devour it up:
+	So quick bright things come to confusion.
+<SPEECH 8><ACT 1><SCENE 1><8%>
+	A good persuasion: therefore, hear me, Hermia.
+	I have a widow aunt, a dowager
+	Of great revenue, and she hath no child:
+	From Athens is her house remote seven leagues;
+	And she respects me as her only son.
+	There, gentle Hermia, may I marry thee,
+	And to that place the sharp Athenian law
+	Cannot pursue us. If thou lov'st me then,
+	Steal forth thy father's house to-morrow night,
+	And in the wood, a league without the town,
+	Where I did meet thee once with Helena,
+	To do observance to a morn of May,
+	There will I stay for thee.
+<SPEECH 9><ACT 1><SCENE 1><9%>
+	Keep promise, love. Look, here comes Helena.
+<SPEECH 10><ACT 1><SCENE 1><10%>
+	Helen, to you our minds we will unfold.
+	To-morrow night, when Phœbe doth behold
+	Her silver visage in the wat'ry glass,
+	Decking with liquid pearl the bladed grass,—
+	A time that lovers' flights doth still conceal,—
+	Through Athens' gates have we devis'd to steal.
+<SPEECH 11><ACT 1><SCENE 1><11%>
+	I will, my Hermia.—<STAGE DIR>
+	</STAGE DIR> Helena, adieu:
+	As you on him, Demetrius dote on you!
+<SPEECH 12><ACT 2><SCENE 2><31%>
+	Fair love, you faint with wandering in the wood;
+	And to speak troth, I have forgot our way:
+	We'll rest us, Hermia, if you think it good,
+	And tarry for the comfort of the day.
+<SPEECH 13><ACT 2><SCENE 2><31%>
+	One turf shall serve as pillow for us both;
+	One heart, one bed, two bosoms, and one troth.
+<SPEECH 14><ACT 2><SCENE 2><31%>
+	O! take the sense, sweet, of my innocence,
+	Love takes the meaning in love's conference.
+	I mean that my heart unto yours is knit,
+	So that but one heart we can make of it;
+	Two bosoms interchained with an oath;
+	So then two bosoms and a single troth.
+	Then by your side no bed-room me deny,
+	For, lying so, Hermia, I do not lie.
+<SPEECH 15><ACT 2><SCENE 2><32%>
+	Amen, amen, to that fair prayer, say I;
+	And then end life when I end loyalty!
+	Here is my bed: sleep give thee all his rest!
+<SPEECH 16><ACT 2><SCENE 2><34%>
+	</STAGE DIR> And run through fire I will for thy sweet sake.
+	Transparent Helena! Nature shows art,
+	That through thy bosom makes me see thy heart.
+	Where is Demetrius? O! how fit a word
+	Is that vile name to perish on my sword.
+<SPEECH 17><ACT 2><SCENE 2><34%>
+	Content with Hermia! No: I do repent
+	The tedious minutes I with her have spent.
+	Not Hermia, but Helena I love:
+	Who will not change a raven for a dove?
+	The will of man is by his reason sway'd,
+	And reason says you are the worthier maid.
+	Things growing are not ripe until their season;
+	So I, being young, till now ripe not to reason;
+	And touching now the point of human skill,
+	Reason becomes the marshal to my will,
+	And leads me to your eyes; where I o'erlook
+	Love's stories written in love's richest book.
+<SPEECH 18><ACT 2><SCENE 2><35%>
+	She sees not Hermia. Hermia, sleep thou there;
+	And never mayst thou come Lysander near.
+	For, as a surfeit of the sweetest things
+	The deepest loathing to the stomach brings;
+	Or, as the heresies that men do leave
+	Are hated most of those they did deceive:
+	So thou, my surfeit and my heresy,
+	Of all be hated, but the most of me!
+	And, all my powers, address your love and might
+	To honour Helen, and to be her knight.
+<SPEECH 19><ACT 3><SCENE 2><51%>
+	Why should you think that I should woo in scorn?
+	Scorn and derision never come in tears:
+	Look, when I vow, I weep; and vows so born,
+	In their nativity all truth appears.
+	How can these things in me seem scorn to you,
+	Bearing the badge of faith to prove them true?
+<SPEECH 20><ACT 3><SCENE 2><52%>
+	I had no judgment when to her I swore.
+<SPEECH 21><ACT 3><SCENE 2><52%>
+	Demetrius loves her, and he loves not you.
+<SPEECH 22><ACT 3><SCENE 2><53%>
+	You are unkind, Demetrius; be not so;
+	For you love Hermia; this you know I know:
+	And here, with all good will, with all my heart,
+	In Hermia's love I yield you up my part;
+	And yours of Helena to me bequeath,
+	Whom I do love, and will do to my death.
+<SPEECH 23><ACT 3><SCENE 2><54%>
+	Helen, it is not so.
+<SPEECH 24><ACT 3><SCENE 2><54%>
+	Why should he stay, whom love doth press to go?
+<SPEECH 25><ACT 3><SCENE 2><54%>
+	Lysander's love, that would not let him bide,
+	Fair Helena, who more engilds the night
+	Than all yon fiery oes and eyes of light.
+	Why seek'st thou me? could not this make thee know,
+	The hate I bear thee made me leave thee so?
+<SPEECH 26><ACT 3><SCENE 2><57%>
+	Stay, gentle Helena! hear my excuse:
+	My love, my life, my soul, fair Helena!
+<SPEECH 27><ACT 3><SCENE 2><57%>
+	Thou canst compel no more than she entreat:
+	Thy threats have no more strength than her weak prayers.
+	Helen, I love thee; by my life, I do:
+	I swear by that which I will lose for thee,
+	To prove him false that says I love thee not.
+<SPEECH 28><ACT 3><SCENE 2><58%>
+	If thou say so, withdraw, and prove it too.
+<SPEECH 29><ACT 3><SCENE 2><58%>
+	Away, you Ethiop!
+<SPEECH 30><ACT 3><SCENE 2><58%>
+	</STAGE DIR> Hang off, thou cat, thou burr! vile thing, let loose,
+	Or I will shake thee from me like a serpent.
+<SPEECH 31><ACT 3><SCENE 2><58%>
+	Thy love! out, tawny Tartar, out!
+	Out, loathed medicine! hated poison, hence!
+<SPEECH 32><ACT 3><SCENE 2><58%>
+	Demetrius, I will keep my word with thee.
+<SPEECH 33><ACT 3><SCENE 2><58%>
+	What! should I hurt her, strike her, kill her dead?
+	Although I hate her, I'll not harm her so.
+<SPEECH 34><ACT 3><SCENE 2><59%>
+	Ay, by my life;
+	And never did desire to see thee more.
+	Therefore be out of hope, of question, doubt;
+	Be certain, nothing truer: 'tis no jest,
+	That I do hate thee and love Helena.
+<SPEECH 35><ACT 3><SCENE 2><61%>
+	Be not afraid: she shall not harm thee, Helena.
+<SPEECH 36><ACT 3><SCENE 2><61%>
+	Get you gone, you dwarf;
+	You minimus, of hindering knot-grass made;
+	You bead, you acorn!
+<SPEECH 37><ACT 3><SCENE 2><61%>
+	Now she holds me not;
+	Now follow, if thou dar'st, to try whose right,
+	Or thine or mine, is most in Helena.
+<SPEECH 38><ACT 3><SCENE 2><65%>
+	Where art thou, proud Demetrius? speak thou now.
+<SPEECH 39><ACT 3><SCENE 2><65%>
+	I will be with thee straight.
+<SPEECH 40><ACT 3><SCENE 2><65%>
+	He goes before me and still dares me on:
+	When I come where he calls, then he is gone.
+	The villain is much lighter-heel'd than I:
+	I follow'd fast, but faster he did fly;
+	That fallen am I in dark uneven way,
+	And here will rest me. <STAGE DIR>
+	</STAGE DIR> Come, thou gentle day!
+	For if but once thou show me thy grey light,
+	I'll find Demetrius and revenge this spite.
+<SPEECH 41><ACT 4><SCENE 1><75%>
+	Pardon, my lord.
+<SPEECH 42><ACT 4><SCENE 1><75%>
+	My lord, I shall reply amazedly,
+	Half sleep, half waking: but as yet, I swear,
+	I cannot truly say how I came here;
+	But, as I think,—for truly would I speak,
+	And now I do bethink me, so it is,—
+	I came with Hermia hither: our intent
+	Was to be gone from Athens, where we might,
+	Without the peril of the Athenian law—
+<SPEECH 43><ACT 4><SCENE 1><77%>
+	And he did bid us follow to the temple.
+<SPEECH 44><ACT 5><SCENE 1><82%>
+	More than to us
+	Wait in your royal walks, your board, your bed!
+<SPEECH 45><ACT 5><SCENE 1><86%>
+	He hath rid his prologue like a rough colt; he knows not the stop. A good moral, my lord: it is not enough to speak, but to speak true.
+<SPEECH 46><ACT 5><SCENE 1><92%>
+	This lion is a very fox for his valour.
+<SPEECH 47><ACT 5><SCENE 1><93%>
+	Proceed, Moon.
+<SPEECH 48><ACT 5><SCENE 1><94%>
+	And so the lion vanished.
+<SPEECH 49><ACT 5><SCENE 1><95%>
+	Less than an ace, man, for he is dead; he is nothing.
+<SPEECH 50><ACT 5><SCENE 1><96%>
+	She hath spied him already with those sweet eyes.

@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 4><SCENE 1><70%>
+	My Lord Fitzwater, I do remember well
+	The very time Aumerle and you did talk.
+<SPEECH 2><ACT 4><SCENE 1><70%>
+	As false, by heaven, as heaven itself is true.
+<SPEECH 3><ACT 4><SCENE 1><70%>
+	Dishonourable boy!
+	That he shall lie so heavy on my sword
+	That it shall render vengeance and revenge,
+	Till thou the lie-giver and that lie do lie
+	In earth as quiet as thy father's skull.
+	In proof whereof, there is my honour's pawn:
+	Engage it to the trial if thou dar'st.

@@ -1,0 +1,39 @@
+<SPEECH 1><ACT 1><SCENE 1><15%>
+	And shall, or him we will accompany.
+<SPEECH 2><ACT 1><SCENE 1><15%>
+	He that would vouch it in any place but here.
+<SPEECH 3><ACT 1><SCENE 1><15%>
+	Not I, till Mutius' bones be buried.
+<SPEECH 4><ACT 1><SCENE 1><15%>
+	Father, and in that name doth nature speak,—
+<SPEECH 5><ACT 2><SCENE 3><34%>
+	My sight is very dull, whate'er it bodes.
+<SPEECH 6><ACT 2><SCENE 3><34%>
+	What! art thou fall'n? What subtle hole is this,
+	Whose mouth is cover'd with rude-growing briers,
+	Upon whose leaves are drops of new-shed blood
+	As fresh as morning's dew distill'd on flowers?
+	A very fatal place it seems to me.
+	Speak, brother, hast thou hurt thee with the fall?
+<SPEECH 7><ACT 2><SCENE 3><35%>
+	I am surprised with an uncouth fear;
+	A chilling sweat o'erruns my trembling joints:
+	My heart suspects more than mine eye can see.
+<SPEECH 8><ACT 2><SCENE 3><35%>
+	Aaron is gone; and my compassionate heart
+	Will not permit mine eyes once to behold
+	The thing whereat it trembles by surmise.
+	O! tell me how it is; for ne'er till now
+	Was I a child, to fear I know not what.
+<SPEECH 9><ACT 2><SCENE 3><35%>
+	If it be dark, how dost thou know 'tis he?
+<SPEECH 10><ACT 2><SCENE 3><36%>
+	Reach me thy hand, that I may help thee out;
+	Or, wanting strength to do thee so much good
+	I may be pluck'd into the swallowing womb
+	Of this deep pit, poor Bassianus' grave.
+	I have no strength to pluck thee to the brink.
+<SPEECH 11><ACT 2><SCENE 3><36%>
+	Thy hand once more; I will not loose again,
+	Till thou art here aloft, or I below.
+	Thou canst not come to me: I come to thee.

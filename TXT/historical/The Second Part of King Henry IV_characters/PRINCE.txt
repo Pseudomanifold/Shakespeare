@@ -1,0 +1,185 @@
+<SPEECH 1><ACT 2><SCENE 2><25%>
+	Before God, I am exceeding weary.
+<SPEECH 2><ACT 2><SCENE 2><25%>
+	Faith, it does me, though it discolours the complexion of my greatness to acknowledge it. Doth it not show vilely in me to desire small beer?
+<SPEECH 3><ACT 2><SCENE 2><25%>
+	Belike then my appetite was not princely got; for, by my troth, I do now remember the poor creature, small beer. But, indeed, these humble considerations make me out of love with my greatness. What a disgrace is it to me to remember thy name, or to know thy face to-morrow! or to take note how many pair of silk stockings thou hast; viz. these, and those that were thy peach-coloured ones! or to bear the inventory of thy shirts; as, one for superfluity, and one other for use! But that the tennis-court-keeper knows better than I, for it is a low ebb of linen with thee when thou keepest not racket there; as thou hast not done a great while, because the rest of thy low-countries have made a shift to eat up thy holland: and God knows whether those that bawl out the ruins of thy linen shall inherit his kingdom; but the midwives say the children are not in the fault; whereupon the world increases, and kindreds are mightily strengthened.
+<SPEECH 4><ACT 2><SCENE 2><26%>
+	Shall I tell thee one thing, Poins?
+<SPEECH 5><ACT 2><SCENE 2><26%>
+	It shall serve among wits of no higher breeding than thine.
+<SPEECH 6><ACT 2><SCENE 2><26%>
+	Marry, I tell thee, it is not meet that I should be sad, now my father is sick: albeit I could tell to thee,—as to one it pleases me, for fault of a better, to call my friend,—I could be sad, and sad indeed too.
+<SPEECH 7><ACT 2><SCENE 2><26%>
+	By this hand, thou thinkest me as far in the devil's book as thou and Falstaff for obduracy and persistency: let the end try the man. But I tell thee my heart bleeds inwardly that my father is so sick; and keeping such vile company as thou art hath in reason taken from me all ostentation of sorrow.
+<SPEECH 8><ACT 2><SCENE 2><26%>
+	What wouldst thou think of me if I should weep?
+<SPEECH 9><ACT 2><SCENE 2><26%>
+	It would be every man's thought; and thou art a blessed fellow to think as every man thinks: never a man's thought in the world keeps the road-way better than thine: every man would think me a hypocrite indeed. And what accites your most worshipful thought to think so?
+<SPEECH 10><ACT 2><SCENE 2><27%>
+	And to thee.
+<SPEECH 11><ACT 2><SCENE 2><27%>
+	And the boy that I gave Falstaff: a' had him from me Christian; and look, if the fat villain have not transformed him ape.
+<SPEECH 12><ACT 2><SCENE 2><27%>
+	And yours, most noble Bardolph.
+<SPEECH 13><ACT 2><SCENE 2><27%>
+	Hath not the boy profited?
+<SPEECH 14><ACT 2><SCENE 2><27%>
+	Instruct us, boy; what dream, boy?
+<SPEECH 15><ACT 2><SCENE 2><28%>
+	A crown's worth of good interpretation. There it is, boy.
+<SPEECH 16><ACT 2><SCENE 2><28%>
+	And how doth thy master, Bardolph?
+<SPEECH 17><ACT 2><SCENE 2><28%>
+	I do allow this wen to be as familiar with me as my dog; and he holds his place, for look you how he writes.
+<SPEECH 18><ACT 2><SCENE 2><28%>
+	Nay, they will be kin to us, or they will fetch it from Japhet. But to the letter:
+<SPEECH 19><ACT 2><SCENE 2><28%>
+	Peace!
+<SPEECH 20><ACT 2><SCENE 2><29%>
+	That's to make him eat twenty of his words. But do you use me thus, Ned? must I marry your sister?
+<SPEECH 21><ACT 2><SCENE 2><29%>
+	Well, thus we play the fools with the time, and the spirits of the wise sit in the clouds and mock us. Is your master here in London?
+<SPEECH 22><ACT 2><SCENE 2><29%>
+	Where sups he? doth the old boar feed in the old frank?
+<SPEECH 23><ACT 2><SCENE 2><29%>
+	What company?
+<SPEECH 24><ACT 2><SCENE 2><29%>
+	Sup any women with him?
+<SPEECH 25><ACT 2><SCENE 2><29%>
+	What pagan may that be?
+<SPEECH 26><ACT 2><SCENE 2><29%>
+	Even such kin as the parish heifers are to the town bull. Shall we steal upon them, Ned, at supper?
+<SPEECH 27><ACT 2><SCENE 2><29%>
+	Sirrah, you boy, and Bardolph; no word to your master that I am yet come to town: there's for your silence.
+<SPEECH 28><ACT 2><SCENE 2><30%>
+	Fare ye well; go. <STAGE DIR>
+	</STAGE DIR> This Doll Tearsheet should be some road.
+<SPEECH 29><ACT 2><SCENE 2><30%>
+	How might we see Falstaff bestow himself to-night in his true colours, and not ourselves be seen?
+<SPEECH 30><ACT 2><SCENE 2><30%>
+	From a god to a bull! a heavy descension! it was Jove's case. From a prince to a prentice! a low transformation! that shall be mine; for in every thing the purpose must weigh with the folly. Follow me, Ned.
+<SPEECH 31><ACT 2><SCENE 4><40%>
+	Would not this nave of a wheel have his ears cut off?
+<SPEECH 32><ACT 2><SCENE 4><40%>
+	Look, whether the withered elder hath not his poll clawed like a parrot.
+<SPEECH 33><ACT 2><SCENE 4><40%>
+	Saturn and Venus this year in conjunction! what says the almanack to that?
+<SPEECH 34><ACT 2><SCENE 4><41%>
+	</STAGE DIR> Anon, anon, sir.
+<SPEECH 35><ACT 2><SCENE 4><41%>
+	Why, thou globe of sinful cntinents, what a life dost thou lead!
+<SPEECH 36><ACT 2><SCENE 4><41%>
+	Very true, sir; and I come to draw you out by the ears.
+<SPEECH 37><ACT 2><SCENE 4><41%>
+	You whoreson candle-mine, you, how vilely did you speak of me even now before this honest, virtuous, civil gentlewoman!
+<SPEECH 38><ACT 2><SCENE 4><41%>
+	Yea; and you knew me, as you did when you ran away by Gadshill: you knew I was at your back, and spoke it on purpose to try my patience.
+<SPEECH 39><ACT 2><SCENE 4><41%>
+	I shall drive you then to confess the wilful abuse; and then I know how to handle you.
+<SPEECH 40><ACT 2><SCENE 4><41%>
+	Not to dispraise me, and call me pantler and bread-chipper and I know not what?
+<SPEECH 41><ACT 2><SCENE 4><42%>
+	See now, whether pure fear and entire cowardice doth not make thee wrong this virtuous gentlewoman to close with us? Is she of the wicked? Is thine hostess here of the wicked? Or is thy boy of the wicked? Or honest Bardolph, whose zeal burns in his nose, of the wicked?
+<SPEECH 42><ACT 2><SCENE 4><42%>
+	For the women?
+<SPEECH 43><ACT 2><SCENE 4><42%>
+	You, gentlewoman,—
+<SPEECH 44><ACT 2><SCENE 4><43%>
+	Peto, how now! what news?
+<SPEECH 45><ACT 2><SCENE 4><43%>
+	By heaven, Poins, I feel me much to blame,
+	So idly to profane the precious time,
+	When tempest of commotion, like the south,
+	Borne with black vapour, doth begin to melt
+	And drop upon our bare unarmed heads.
+	Give me my sword and cloak. Falstaff, good night.
+<SPEECH 46><ACT 4><SCENE 5><76%>
+	Who saw the Duke of Clarence?
+<SPEECH 47><ACT 4><SCENE 5><76%>
+	How now! rain within doors, and none abroad!
+	How doth the king?
+<SPEECH 48><ACT 4><SCENE 5><76%>
+	Heard he the good news yet?
+	Tell it him.
+<SPEECH 49><ACT 4><SCENE 5><76%>
+	If he be sick with joy, he will recover without physic.
+<SPEECH 50><ACT 4><SCENE 5><77%>
+	No; I will sit and watch here by the king.
+	Why doth the crown lie there upon his pillow,
+	Being so troublesome a bedfellow?
+	O polish'd perturbation! golden care!
+	That keep'st the ports of slumber open wide
+	To many a watchful night! Sleep with it now!
+	Yet not so sound, and half so deeply sweet
+	As he whose brow with homely biggin bound
+	Snores out the watch of night. O majesty!
+	When thou dost pinch thy bearer, thou dost sit
+	Like a rich armour worn in heat of day,
+	That scalds with safety. By his gates of breath
+	There lies a downy feather which stirs not:
+	Did he suspire, that light and weightless down
+	Perforce must move. My gracious lord! my father!
+	This sleep is sound indeed; this is a sleep
+	That from this golden rigol hath divorc'd
+	So many English kings. Thy due from me
+	Is tears and heavy sorrows of the blood,
+	Which nature, love, and filial tenderness
+	Shall, O dear father! pay thee plenteously:
+	My due from thee is this imperial crown,
+	Which, as immediate from thy place and blood,
+	Derives itself to me. Lo! here it sits,
+	Which heaven shall guard; and put the world's whole strength
+	Into one giant arm, it shall not force
+	This lineal honour from me. This from thee
+	Will I to mine leave, as 'tis left to me.
+<SPEECH 51><ACT 4><SCENE 5><79%>
+	I never thought to hear you speak again.
+<SPEECH 52><ACT 4><SCENE 5><80%>
+	O! pardon me, my liege; but for my tears,
+	The moist impediments unto my speech,
+	I had forestall'd this dear and deep rebuke
+	Ere you with grief had spoke and I had heard
+	The course of it so far. There is your crown;
+	And he that wears the crown immortally
+	Long guard it yours! If I affect it more
+	Than as your honour and as your renown,
+	Let me no more from this obedience rise,—
+	Which my most true and inward duteous spirit
+	Teacheth,—this prostrate and exterior bending.
+	God witness with me, when I here came in,
+	And found no course of breath within your majesty,
+	How cold it struck my heart! if I do feign,
+	O! let me in my present wildness die
+	And never live to show the incredulous world
+	The noble change that I have purposed.
+	Coming to look on you, thinking you dead,
+	And dead almost, my liege, to think you were,
+	I spake unto the crown as having sense,
+	And thus upbraided it: 'The care on thee depending
+	Hath fed upon the body of my father;
+	Therefore, thou best of gold art worst of gold:
+	Other, less fine in carat, is more precious,
+	Preserving life in medicine potable:
+	But thou most fine, most honour'd, most renown'd,
+	Hast eat thy bearer up.' Thus, my most royal liege,
+	Accusing it, I put it on my head,
+	To try with it, as with an enemy
+	That had before my face murder'd my father,
+	The quarrel of a true inheritor.
+	But if it did infect my blood with joy,
+	Or swell my thoughts to any strain of pride;
+	If any rebel or vain spirit of mine
+	Did with the least affection of a welcome
+	Give entertainment to the might of it,
+	Let God for ever keep it from my head,
+	And make me as the poorest vassal is
+	That doth with awe and terror kneel to it!
+<SPEECH 53><ACT 4><SCENE 5><83%>
+	My gracious liege,
+	You won it, wore it, kept it, gave it me;
+	Then plain and right must my possession be:
+	Which I with more than with a common pain
+	'Gainst all the world will rightfully maintain.
+<SPEECH 54><ACT 4><SCENE 5><83%>
+	My Lord of Warwick!

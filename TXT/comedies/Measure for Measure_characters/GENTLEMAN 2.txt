@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 1><SCENE 2><4%>
+	Amen.
+<SPEECH 2><ACT 1><SCENE 2><4%>
+	'Thou shalt not steal?'
+<SPEECH 3><ACT 1><SCENE 2><4%>
+	I never heard any soldier dislike it.
+<SPEECH 4><ACT 1><SCENE 2><4%>
+	No? a dozen times at least.
+<SPEECH 5><ACT 1><SCENE 2><5%>
+	Yes, that thou hast, whether thou art tainted or free.
+<SPEECH 6><ACT 1><SCENE 2><5%>
+	To what, I pray?
+<SPEECH 7><ACT 1><SCENE 2><5%>
+	To three thousand dolours a year.
+<SPEECH 8><ACT 1><SCENE 2><5%>
+	Who's that, I pray thee?
+<SPEECH 9><ACT 1><SCENE 2><6%>
+	Besides, you know, it draws something near to the speech we had to such a purpose.

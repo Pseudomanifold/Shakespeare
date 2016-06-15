@@ -1,0 +1,371 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	Thou basest thing, avoid! hence, from my sight!
+	If after this command thou fraught the court
+	With thy unworthiness, thou diest. Away!
+	Thou'rt poison to my blood.
+<SPEECH 2><ACT 1><SCENE 1><4%>
+	O disloyal thing,
+	That shouldst repair my youth, thou heap'st instead
+	A year's age on me.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	Past grace? obedience?
+<SPEECH 4><ACT 1><SCENE 1><5%>
+	That mightst have had the sole son of my queen!
+<SPEECH 5><ACT 1><SCENE 1><5%>
+	Thou took'st a beggar; wouldst have made my throne
+	A seat for baseness.
+<SPEECH 6><ACT 1><SCENE 1><5%>
+	O thou vile one!
+<SPEECH 7><ACT 1><SCENE 1><5%>
+	What! art thou mad?
+<SPEECH 8><ACT 1><SCENE 1><5%>
+	Thou foolish thing!
+	They were again together; you have done
+	Not after our command. Away with her,
+	And pen her up.
+<SPEECH 9><ACT 1><SCENE 1><5%>
+	Nay, let her languish
+	A drop of blood a day; and, being aged,
+	Die of this folly!
+<SPEECH 10><ACT 2><SCENE 3><27%>
+	Attend you here the door of our stern daughter?
+	Will she not forth?
+<SPEECH 11><ACT 2><SCENE 3><27%>
+	The exile of her minion is too new,
+	She hath not yet forgot him; some more time
+	Must wear the print of his remembrance out,
+	And then she's yours.
+<SPEECH 12><ACT 2><SCENE 3><27%>
+	A worthy fellow,
+	Albeit he comes on angry purpose now;
+	But that's no fault of his: we must receive him
+	According to the honour of his sender;
+	And towards himself, his goodness forespent on us,
+	We must extend our notice. Our dear son,
+	When you have given good morning to your mistress,
+	Attend the queen and us; we shall have need
+	To employ you towards this Roman. Come, our queen.
+<SPEECH 13><ACT 3><SCENE 1><36%>
+	Now say what would Augustus Cæsar with us?
+<SPEECH 14><ACT 3><SCENE 1><37%>
+	Son, let your mother end.
+<SPEECH 15><ACT 3><SCENE 1><38%>
+	You must know,
+	Till the injurious Romans did extort
+	This tribute from us, we were free; Cæsar's ambition—
+	Which swell'd so much that it did almost stretch
+	The sides o' the world—against all colour here
+	Did put the yoke upon 's; which to shake off
+	Becomes a war-like people, whom we reckon
+	Ourselves to be. We do say then to Cæsar
+	Our ancestor was that Mulmutius which
+	Ordain'd our laws, whose use the sword of Cæsar
+	Hath too much mangled; whose repair and franchise
+	Shall, by the power we hold, be our good deed,
+	Though Rome be therefore angry. Mulmutius made our laws,
+	Who was the first of Britain which did put
+	His brows within a golden crown, and call'd
+	Himself a king.
+<SPEECH 16><ACT 3><SCENE 1><38%>
+	Thou art welcome, Caius.
+	Thy Cæsar knighted me; my youth I spent
+	Much under him; of him I gather'd honour;
+	Which he, to seek of me again, perforce,
+	Behoves me keep at utterance. I am perfect
+	That the Pannonians and Dalmatians for
+	Their liberties are now in arms; a precedent
+	Which not to read would show the Britons cold:
+	So Cæsar shall not find them.
+<SPEECH 17><ACT 3><SCENE 1><39%>
+	I know your master's pleasure and he mine:
+	All the remain is 'Welcome!'
+<SPEECH 18><ACT 3><SCENE 5><50%>
+	Thus far; and so farewell.
+<SPEECH 19><ACT 3><SCENE 5><50%>
+	Our subjects, sir,
+	Will not endure his yoke; and for ourself
+	To show less sovereignty than they, must needs
+	Appear unking-like.
+<SPEECH 20><ACT 3><SCENE 5><50%>
+	My lords, you are appointed for that office;
+	The due of honour in no point omit.
+	So, farewell, noble Lucius.
+<SPEECH 21><ACT 3><SCENE 5><50%>
+	Leave not the worthy Lucius, good my lords,
+	Till he have cross'd the Severn. Happiness!
+<SPEECH 22><ACT 3><SCENE 5><50%>
+	Lucius hath wrote already to the emperor
+	How it goes here. It fits us therefore ripely
+	Our chariots and horsemen be in readiness;
+	The powers that he already hath in Gallia
+	Will soon be drawn to head, from whence he moves
+	His war for Britain.
+<SPEECH 23><ACT 3><SCENE 5><51%>
+	Our expectation that it would be thus
+	Hath made us forward. But, my gentle queen,
+	Where is our daughter? She hath not appear'd
+	Before the Roman, nor to us hath tender'd
+	The duty of the day; she looks us like
+	A thing more made of malice than of duty:
+	We have noted it. Call her before us, for
+	We have been too slight in sufferance.
+<SPEECH 24><ACT 3><SCENE 5><51%>
+	Where is she, sir? How
+	Can her contempt be answer'd?
+<SPEECH 25><ACT 3><SCENE 5><51%>
+	Her doors lock'd!
+	Not seen of late! Grant, heavens, that which I fear
+	Prove false!
+<SPEECH 26><ACT 4><SCENE 3><72%>
+	Again; and bring me word how 'tis with her.
+	A fever with the absence of her son,
+	A madness, of which her life's in danger. Heavens!
+	How deeply you at once do touch me. Imogen,
+	The great part of my comfort, gone; my queen
+	Upon a desperate bed, and in a time
+	When fearful wars point at me; her son gone,
+	So needful for this present: it strikes me, past
+	The hope of comfort. But for thee, fellow,
+	Who needs must know of her departure and
+	Dost seem so ignorant, we'll enforce it from thee
+	By a sharp torture.
+<SPEECH 27><ACT 4><SCENE 3><72%>
+	The time is troublesome.
+	</STAGE DIR> We'll slip you for a season; but our jealousy
+	Does yet depend.
+<SPEECH 28><ACT 4><SCENE 3><72%>
+	Now for the counsel of my son and queen!
+	I am amaz'd with matter.
+<SPEECH 29><ACT 4><SCENE 3><73%>
+	I thank you. Let's withdraw;
+	And meet the time as it seeks us. We fear not
+	What can from Italy annoy us, but
+	We grieve at chances here. Away!
+<SPEECH 30><ACT 5><SCENE 5><86%>
+	Stand by my side, you whom the gods have made
+	Preservers of my throne. Woe is my heart
+	That the poor soldier that so richly fought,
+	Whose rags sham'd gilded arms, whose naked breast
+	Stepp'd before targes of proof, cannot be found:
+	He shall be happy that can find him, if
+	Our grace can make him so.
+<SPEECH 31><ACT 5><SCENE 5><86%>
+	No tidings of him?
+<SPEECH 32><ACT 5><SCENE 5><86%>
+	To my grief, I am
+	The heir of his reward; which I will add
+	To you, the liver, heart, and brain of Britain,
+	By whom, I grant, she lives. 'Tis now the time
+	To ask of whence you are: report it.
+<SPEECH 33><ACT 5><SCENE 5><86%>
+	Bow your knees.
+	Arise, my knights o' the battle: I create you
+	Companions to our person, and will fit you
+	With dignities becoming your estates.
+	There's business in these faces. Why so sadly
+	Greet you our victory? you look like Romans,
+	And not o' the court of Britain.
+<SPEECH 34><ACT 5><SCENE 5><86%>
+	Whom worse than a physician
+	Would this report become? But I consider,
+	By medicine life may be prolong'd, yet death
+	Will seize the doctor too. How ended she?
+<SPEECH 35><ACT 5><SCENE 5><87%>
+	Prithee, say.
+<SPEECH 36><ACT 5><SCENE 5><87%>
+	She alone knew this;
+	And, but she spoke it dying, I would not
+	Believe her lips in opening it. Proceed.
+<SPEECH 37><ACT 5><SCENE 5><87%>
+	O most delicate fiend!
+	Who is't can read a woman? Is there more?
+<SPEECH 38><ACT 5><SCENE 5><87%>
+	Heard you all this, her women?
+<SPEECH 39><ACT 5><SCENE 5><88%>
+	Mine eyes
+	Were not in fault, for she was beautiful;
+	Mine ears, that heard her flattery; nor my heart,
+	That thought her like her seeming: it had been vicious
+	To have mistrusted her: yet, O my daughter!
+	That it was folly in me, thou mayst say,
+	And prove it in thy feeling. Heaven mend all!
+	Thou com'st not, Caius, now for tribute; that
+	The Britons have raz'd out, though with the loss
+	Of many a bold one; whose kinsmen have made suit
+	That their good souls may be appeas'd with slaughter
+	Of you their captives, which ourself have granted:
+	So, think of your estate.
+<SPEECH 40><ACT 5><SCENE 5><88%>
+	I have surely seen him;
+	His favour is familiar to me. Boy,
+	Thou hast look'd thyself into my grace,
+	And art mine own. I know not why nor wherefore,
+	To say, 'live, boy:' ne'er thank thy master; live:
+	And ask of Cymbeline what boon thou wilt,
+	Fitting my bounty and thy state, I'll give it;
+	Yea, though thou do demand a prisoner,
+	The noblest ta'en.
+<SPEECH 41><ACT 5><SCENE 5><89%>
+	What wouldst thou, boy?
+	I love thee more and more; think more and more
+	What's best to ask. Know'st him thou look'st on? speak;
+	Wilt have him live? Is he thy kin? thy friend?
+<SPEECH 42><ACT 5><SCENE 5><89%>
+	Wherefore ey'st him so?
+<SPEECH 43><ACT 5><SCENE 5><89%>
+	Ay, with all my heart,
+	And lend my best attention. What's thy name?
+<SPEECH 44><ACT 5><SCENE 5><89%>
+	Thou'rt my good youth, my page;
+	I'll be thy master: walk with me; speak freely.
+<SPEECH 45><ACT 5><SCENE 5><90%>
+	Come, stand thou by our side:
+	Make thy demand aloud.—<STAGE DIR>
+	</STAGE DIR> Sir, step you forth;
+	Give answer to this boy, and do it freely,
+	Or, by our greatness and the grace of it,
+	Which is our honour, bitter torture shall
+	Winnow the truth from falsehood. On, speak to him.
+<SPEECH 46><ACT 5><SCENE 5><90%>
+	That diamond upon your finger, say
+	How came it yours?
+<SPEECH 47><ACT 5><SCENE 5><90%>
+	How! me?
+<SPEECH 48><ACT 5><SCENE 5><90%>
+	All that belongs to this.
+<SPEECH 49><ACT 5><SCENE 5><90%>
+	My daughter! what of her? Renew thy strength;
+	I had rather thou shouldst live while nature will
+	Than die ere I hear more. Strive, man, and speak.
+<SPEECH 50><ACT 5><SCENE 5><91%>
+	I stand on fire.
+	Come to the matter.
+<SPEECH 51><ACT 5><SCENE 5><91%>
+	Nay, nay, to the purpose.
+<SPEECH 52><ACT 5><SCENE 5><93%>
+	Does the world go round?
+<SPEECH 53><ACT 5><SCENE 5><93%>
+	If this be so, the gods do mean to strike me
+	To death with mortal joy.
+<SPEECH 54><ACT 5><SCENE 5><93%>
+	The tune of Imogen!
+<SPEECH 55><ACT 5><SCENE 5><93%>
+	New matter still?
+<SPEECH 56><ACT 5><SCENE 5><93%>
+	What's this, Cornelius?
+<SPEECH 57><ACT 5><SCENE 5><94%>
+	How now, my flesh, my child!
+	What, mak'st thou me a dullard in this act?
+	Wilt thou not speak to me?
+<SPEECH 58><ACT 5><SCENE 5><94%>
+	My tears that fall
+	Prove holy water on thee! Imogen,
+	Thy mother's dead.
+<SPEECH 59><ACT 5><SCENE 5><94%>
+	O, she was naught; and long of her it was
+	That we meet here so strangely; but her son
+	Is gone, we know not how, nor where.
+<SPEECH 60><ACT 5><SCENE 5><94%>
+	Marry, the gods forfend!
+	I would not thy good deeds should from my lips
+	Pluck a hard sentence: Prithee, valiant youth,
+	Deny 't again.
+<SPEECH 61><ACT 5><SCENE 5><94%>
+	He was a prince.
+<SPEECH 62><ACT 5><SCENE 5><95%>
+	I am sorry for thee:
+	By thine own tongue thou art condemn'd, and must
+	Endure our law. Thou'rt dead.
+<SPEECH 63><ACT 5><SCENE 5><95%>
+	Bind the offender,
+	And take him from our presence.
+<SPEECH 64><ACT 5><SCENE 5><95%>
+	Why, old soldier,
+	Wilt thou undo the worth thou art unpaid for,
+	By tasting of our wrath? How of descent
+	As good as we?
+<SPEECH 65><ACT 5><SCENE 5><95%>
+	And thou shalt die for 't.
+<SPEECH 66><ACT 5><SCENE 5><95%>
+	What of him? he is
+	A banish'd traitor.
+<SPEECH 67><ACT 5><SCENE 5><95%>
+	Take him hence:
+	The whole world shall not save him.
+<SPEECH 68><ACT 5><SCENE 5><95%>
+	Nursing of my sons!
+<SPEECH 69><ACT 5><SCENE 5><96%>
+	How! my issue!
+<SPEECH 70><ACT 5><SCENE 5><96%>
+	Thou weep'st, and speak'st.
+	The service that you three have done is more
+	Unlike than this thou tell'st. I lost my children:
+	If these be they, I know not how to wish
+	A pair of worthier sons.
+<SPEECH 71><ACT 5><SCENE 5><96%>
+	Guiderius had
+	Upon his neck a mole, a sanguine star;
+	It was a mark of wonder.
+<SPEECH 72><ACT 5><SCENE 5><97%>
+	O! what, am I
+	A mother to the birth of three? Ne'er mother
+	Rejoic'd deliverance more. Blest pray you be,
+	That, after this strange starting from your orbs,
+	You may reign in them now. O Imogen!
+	Thou hast lost by this a kingdom.
+<SPEECH 73><ACT 5><SCENE 5><97%>
+	Did you e'er meet?
+<SPEECH 74><ACT 5><SCENE 5><97%>
+	O rare instinct!
+	When shall I hear all through? This fierce abridgment
+	Hath to it circumstantial branches, which
+	Distinction should be rich in. Where? how liv'd you?
+	And when came you to serve our Roman captive?
+	How parted with your brothers? how first met them?
+	Why fied you from the court, and whither? These,
+	And your three motives to the battle, with
+	I know not how much more, should be demanded,
+	And all the other by-dependances,
+	From chance to chance, but nor the time nor place
+	Will serve our long inter'gatories. See,
+	Posthumus anchors upon Imogen,
+	And she, like harmless lightning, throws her eye
+	On him, her brothers, me, her master, hitting
+	Each object with a joy: the counterchange
+	Is severally in all. Let's quit this ground,
+	And smoke the temple with our sacrifices.
+	</STAGE DIR> Thou art my brother; so we'll hold thee ever.
+<SPEECH 75><ACT 5><SCENE 5><98%>
+	All o'erjoy'd
+	Save these in bonds; let them be joyful too,
+	For they shall taste our comfort.
+<SPEECH 76><ACT 5><SCENE 5><98%>
+	The forlorn soldier, that so nobly fought
+	He would have well becom'd this place and grac'd
+	The thankings of a king.
+<SPEECH 77><ACT 5><SCENE 5><98%>
+	Nobly doom'd:
+	We'll learn our freeness of a son-in-law;
+	Pardon's the word to all.
+<SPEECH 78><ACT 5><SCENE 5><99%>
+	This hath some seeming.
+<SPEECH 79><ACT 5><SCENE 5><99%>
+	Well;
+	My peace we will begin. And, Caius Lucius,
+	Although the victor, we submit to Cæsar,
+	And to the Roman empire; promising
+	To pay our wonted tribute, from the which
+	We were dissuaded by our wicked queen;
+	Whom heavens—in justice both on her and hers—
+	Have laid most heavy hand.
+<SPEECH 80><ACT 5><SCENE 5><100%>
+	Laud we the gods;
+	And let our crooked smokes climb to their nostrils
+	From our bless'd altars. Publish we this peace
+	To all our subjects. Set we forward: let
+	A Roman and a British ensign wave
+	Friendly together; so through Lud's town march:
+	And in the temple of great Jupiter
+	Our peace we'll ratify; seal it with feasts.
+	Set on there. Never was a war did cease,
+	Ere bloody hands were wash'd, with such a peace.

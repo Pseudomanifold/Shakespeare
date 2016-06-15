@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 3><SCENE 1><47%>
+	Here is a thing too young for such a place,
+	Who, if it had conceit, would die, as I
+	Am like to do: take in your arms this piece
+	Of your dead queen.
+<SPEECH 2><ACT 3><SCENE 1><47%>
+	Patience, good sir; do not assist the storm.
+	Here's all that is left living of your queen,
+	A little daughter: for the sake of it,
+	Be manly, and take comfort.
+<SPEECH 3><ACT 3><SCENE 1><47%>
+	Patience, good sir,
+	Even for this charge.
+<SPEECH 4><ACT 3><SCENE 1><49%>
+	Here she lies, sir.

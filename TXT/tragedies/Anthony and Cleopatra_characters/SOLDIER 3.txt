@@ -1,0 +1,23 @@
+<SPEECH 1><ACT 4><SCENE 3><68%>
+	And you. Good night, good night.
+<SPEECH 2><ACT 4><SCENE 3><68%>
+	'Tis a brave army,
+	And full of purpose.
+<SPEECH 3><ACT 4><SCENE 3><68%>
+	Under the earth.
+<SPEECH 4><ACT 4><SCENE 3><68%>
+	No.
+<SPEECH 5><ACT 4><SCENE 3><68%>
+	Do you hear, masters? do you hear?
+<SPEECH 6><ACT 4><SCENE 1><74%>
+	What man is this?
+<SPEECH 7><ACT 4><SCENE 1><74%>
+	Peace!
+	Hark further.
+<SPEECH 8><ACT 4><SCENE 1><75%>
+	Let's do so. But he sleeps.
+<SPEECH 9><ACT 4><SCENE 1><75%>
+	Awake, sir, awake! speak to us.
+<SPEECH 10><ACT 4><SCENE 1><75%>
+	Come on, then;
+	He may recover yet.

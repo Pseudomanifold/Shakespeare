@@ -1,0 +1,91 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	Rebellious subjects, enemies to peace,
+	Profaners of this neighbour-stained steel,—
+	Will they not hear? What ho! you men, you beasts,
+	That quench the fire of your pernicious rage
+	With purple fountains issuing from your veins,
+	On pain of torture, from those bloody hands
+	Throw your mis-temper'd weapons to the ground,
+	And hear the sentence of your moved prince.
+	Three civil brawls, bred of an airy word,
+	By thee, old Capulet, and Montague,
+	Have thrice disturb'd the quiet of our streets,
+	And made Verona's ancient citizens
+	Cast by their grave beseeming ornaments,
+	To wield old partisans, in hands as old,
+	Canker'd with peace, to part your canker'd hate.
+	If ever you disturb our streets again
+	Your lives shall pay the forfeit of the peace.
+	For this time, all the rest depart away:
+	You, Capulet, shall go along with me;
+	And, Montague, come you this afternoon
+	To know our further pleasure in this case,
+	To old Free-town, our common judgment-place.
+	Once more, on pain of death, all men depart.
+<SPEECH 2><ACT 3><SCENE 1><51%>
+	Where are the vile beginners of this fray?
+<SPEECH 3><ACT 3><SCENE 1><51%>
+	Benvolio, who began this bloody fray?
+<SPEECH 4><ACT 3><SCENE 1><52%>
+	Romeo slew him, he slew Mercutio;
+	Who now the price of his dear blood doth owe?
+<SPEECH 5><ACT 3><SCENE 1><52%>
+	And for that offence
+	Immediately we do exile him hence:
+	I have an interest in your hate's proceeding,
+	My blood for your rude brawls doth lie a-bleeding;
+	But I'll amerce you with so strong a fine
+	That you shall all repent the loss of mine.
+	I will be deaf to pleading and excuses;
+	Nor tears nor prayers shall purchase out abuses;
+	Therefore use none; let Romeo hence in haste,
+	Else, when he's found, that hour is his last.
+	Bear hence this body and attend our will:
+	Mercy but murders, pardoning those that kill.
+<SPEECH 6><ACT 5><SCENE 3><96%>
+	What misadventure is so early up,
+	That calls our person from our morning's rest?
+<SPEECH 7><ACT 5><SCENE 3><96%>
+	What fear is this which startles in our ears?
+<SPEECH 8><ACT 5><SCENE 3><97%>
+	Search, seek, and know how this foul murder comes.
+<SPEECH 9><ACT 5><SCENE 3><97%>
+	Come, Montague: for thou art early up,
+	To see thy son and heir more early down.
+<SPEECH 10><ACT 5><SCENE 3><97%>
+	Look, and thou shalt see.
+<SPEECH 11><ACT 5><SCENE 3><97%>
+	Seal up the mouth of outrage for a while,
+	Till we can clear these ambiguities,
+	And know their spring, their head, their true descent;
+	And then will I be general of your woes,
+	And lead you even to death: meantime forbear,
+	And let mischance be slave to patience.
+	Bring forth the parties of suspicion.
+<SPEECH 12><ACT 5><SCENE 3><97%>
+	Then say at once what thou dost know in this.
+<SPEECH 13><ACT 5><SCENE 3><99%>
+	We still have known thee for a holy man.
+	Where's Romeo's man? what can he say in this?
+<SPEECH 14><ACT 5><SCENE 3><99%>
+	Give me the letter; I will look on it.
+	Where is the county's page that rais'd the watch?
+	Sirrah, what made your master in this place?
+<SPEECH 15><ACT 5><SCENE 3><99%>
+	This letter doth make good the friar's words,
+	Their course of love, the tidings of her death:
+	And here he writes that he did buy a poison
+	Of a poor 'pothecary, and therewithal
+	Came to this vault to die, and lie with Juliet.
+	Where be these enemies?—Capulet! Montague!
+	See what a scourge is laid upon your hate,
+	That heaven finds means to kill your joys with love;
+	And I, for winking at your discords too,
+	Have lost a brace of kinsmen: all are punish'd.
+<SPEECH 16><ACT 5><SCENE 3><100%>
+	A glooming peace this morning with it brings;
+	The sun, for sorrow, will not show his head:
+	Go hence, to have more talk of these sad things:
+	Some shall be pardon'd, and some punished:
+	For never was a story of more woe
+	Than this of Juliet and her Romeo.

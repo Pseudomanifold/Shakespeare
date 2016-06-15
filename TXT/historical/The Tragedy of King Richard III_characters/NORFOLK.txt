@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 5><SCENE 3><88%>
+	Here, most gracious liege.
+<SPEECH 2><ACT 5><SCENE 3><88%>
+	We must both give and take, my loving lord.
+<SPEECH 3><ACT 5><SCENE 3><88%>
+	Six or seven thousand is their utmost power.
+<SPEECH 4><ACT 5><SCENE 3><90%>
+	I go, my lord.
+<SPEECH 5><ACT 5><SCENE 3><90%>
+	I warrant you, my lord.
+<SPEECH 6><ACT 5><SCENE 3><97%>
+	Arm, arm, my lord! the foe vaunts in the field.
+<SPEECH 7><ACT 5><SCENE 3><97%>
+	A good direction, war-like sovereign.
+	This found I on my tent this morning.
+<SPEECH 8><ACT 5><SCENE 3><98%>
+	My lord, the enemy is pass'd the marsh:
+	After the battle let George Stanley die.

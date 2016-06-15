@@ -1,0 +1,288 @@
+<SPEECH 1><ACT 3><SCENE 1><32%>
+	Good Signior Angelo, you must excuse us all;
+	My wife is shrewish when I keep not hours;
+	Say that I linger'd with you at your shop
+	To see the making of her carkanet,
+	And that to-morrow you will bring it home.
+	But here's a villain, that would face me down
+	He met me on the mart, and that I beat him,
+	And charg'd him with a thousand marks in gold,
+	And that I did deny my wife and house.
+	Thou drunkard, thou, what didst thou mean by this?
+<SPEECH 2><ACT 3><SCENE 1><33%>
+	I think thou art an ass.
+<SPEECH 3><ACT 3><SCENE 1><33%>
+	You are sad, Signior Balthazar: pray God, our cheer
+	May answer my good will and your good welcome here.
+<SPEECH 4><ACT 3><SCENE 1><33%>
+	O, Signior Balthazar, either at flesh or fish,
+	A table-full of welcome makes scarce one dainty dish.
+<SPEECH 5><ACT 3><SCENE 1><34%>
+	And welcome more common, for that's nothing but words.
+<SPEECH 6><ACT 3><SCENE 1><34%>
+	Ay, to a niggardly host and more sparing guest:
+	But though my cates be mean, take them in good part;
+	Better cheer may you have, but not with better heart.
+	But soft! my door is lock'd. Go bid them let us in.
+<SPEECH 7><ACT 3><SCENE 1><35%>
+	Who talks within there? ho! open the door.
+<SPEECH 8><ACT 3><SCENE 1><35%>
+	Wherefore? for my dinner: I have not din'd to-day.
+<SPEECH 9><ACT 3><SCENE 1><35%>
+	What art thou that keep'st me out from the house I owe?
+<SPEECH 10><ACT 3><SCENE 1><36%>
+	Do you hear, you minion? you'll let us in, I trow?
+<SPEECH 11><ACT 3><SCENE 1><36%>
+	Thou baggage, let me in.
+<SPEECH 12><ACT 3><SCENE 1><37%>
+	You'll cry for this, minion, if I beat the door down.
+<SPEECH 13><ACT 3><SCENE 1><37%>
+	Are you there, wife? you might have come before.
+<SPEECH 14><ACT 3><SCENE 1><38%>
+	There is something in the wind, that we cannot get in.
+<SPEECH 15><ACT 3><SCENE 1><38%>
+	Go fetch me something: I'll break ope the gate.
+<SPEECH 16><ACT 3><SCENE 1><39%>
+	Well, I'll break in. Go borrow me a crow.
+<SPEECH 17><ACT 3><SCENE 1><39%>
+	Go get thee gone: fetch me an iron crow.
+<SPEECH 18><ACT 3><SCENE 1><40%>
+	You have prevail'd: I will depart in quiet,
+	And, in despite of mirth, mean to be merry.
+	I know a wench of excellent discourse,
+	Pretty and witty, wild and yet, too, gentle:
+	There will we dine: this woman that I mean,
+	My wife,—but, I protest, without desert,—
+	Hath oftentimes upbraided me withal:
+	To her will we to dinner. <STAGE DIR>
+	</STAGE DIR> Get you home,
+	And fetch the chain; by this I know 'tis made:
+	Bring it, I pray you, to the Porpentine;
+	For there's the house: that chain will I bestow,
+	Be it for nothing but to spite my wife,
+	Upon mine hostess there. Good sir, make haste.
+	Since mine own doors refuse to entertain me,
+	I'll knock elsewhere, to see if they'll disdain me.
+<SPEECH 19><ACT 3><SCENE 1><41%>
+	Do so. This jest shall cost me some expense.
+<SPEECH 20><ACT 4><SCENE 1><52%>
+	While I go to the goldsmith's house, go thou
+	And buy a rope's end, that I will bestow
+	Among my wife and her confederates,
+	For locking me out of my doors by day.
+	But soft! I see the goldsmith. Get thee gone;
+	Buy thou a rope, and bring it home to me.
+<SPEECH 21><ACT 4><SCENE 1><52%>
+	A man is well holp up that trusts to you:
+	I promised your presence and the chain;
+	But neither chain nor goldsmith came to me.
+	Belike you thought our love would last too long,
+	If it were chain'd together, and therefore came not.
+<SPEECH 22><ACT 4><SCENE 1><53%>
+	I am not furnish'd with the present money;
+	Besides, I have some business in the town.
+	Good signior, take the stranger to my house,
+	And with you take the chain, and bid my wife
+	Disburse the sum on the receipt thereof:
+	Perchance I will be there as soon as you.
+<SPEECH 23><ACT 4><SCENE 1><53%>
+	No; bear it with you, lest I come not time enough.
+<SPEECH 24><ACT 4><SCENE 1><53%>
+	An if I have not, sir, I hope you have,
+	Or else you may return without your money.
+<SPEECH 25><ACT 4><SCENE 1><54%>
+	Good Lord! you use this dalliance to excuse
+	Your breach of promise to the Porpentine.
+	I should have child you for not bringing it,
+	But, like a shrew, you first begin to brawl.
+<SPEECH 26><ACT 4><SCENE 1><54%>
+	Why, give it to my wife and fetch your money.
+<SPEECH 27><ACT 4><SCENE 1><54%>
+	Fie! now you run this humour out of breath.
+	Come, where's the chain? I pray you, let me see it.
+<SPEECH 28><ACT 4><SCENE 1><54%>
+	I answer you! what should I answer you?
+<SPEECH 29><ACT 4><SCENE 1><55%>
+	I owe you none till I receive the chain.
+<SPEECH 30><ACT 4><SCENE 1><55%>
+	You gave me none: you wrong me much to say so.
+<SPEECH 31><ACT 4><SCENE 1><55%>
+	Consent to pay thee that I never had!
+	Arrest me, foolish fellow, if thou dar'st.
+<SPEECH 32><ACT 4><SCENE 1><55%>
+	I do obey thee till I give thee bail.
+	But, sirrah, you shall buy this sport as dear
+	As all the metal in your shop will answer.
+<SPEECH 33><ACT 4><SCENE 1><56%>
+	How now! a madman! Why, thou peevish sheep,
+	What ship of Epidamnum stays for me?
+<SPEECH 34><ACT 4><SCENE 1><56%>
+	Thou drunken slave, I sent thee for a rope;
+	And told thee to what purpose, and what end.
+<SPEECH 35><ACT 4><SCENE 1><57%>
+	I will debate this matter at more leisure,
+	And teach your ears to list me with more heed.
+	To Adriana, villain, hie thee straight;
+	Give her this key, and tell her, in the desk
+	That's cover'd o'er with Turkish tapestry,
+	There is a purse of ducats: let her send it.
+	Tell her I am arrested in the street,
+	And that shall bail me. Hie thee, slave, be gone!
+	On, officer, to prison till it come.
+<SPEECH 36><ACT 4><SCENE 4><67%>
+	Fear me not, man; I will not break away:
+	I'll give thee, ere I leave thee, so much money,
+	To warrant thee, as I am 'rested for.
+	My wife is in a wayward mood to-day,
+	And will not lightly trust the messenger.
+	That I should be attach'd in Ephesus,
+	I tell you, 'twill sound harshly in her ears.
+	Here comes my man: I think he brings the money.
+	How now, sir! have you that I sent you for?
+<SPEECH 37><ACT 4><SCENE 4><68%>
+	But where's the money?
+<SPEECH 38><ACT 4><SCENE 4><68%>
+	Five hundred ducats, villain, for a rope?
+<SPEECH 39><ACT 4><SCENE 4><68%>
+	To what end did I bid thee hie thee home?
+<SPEECH 40><ACT 4><SCENE 4><68%>
+	And to that end, sir, I will welcome you.
+<SPEECH 41><ACT 4><SCENE 4><68%>
+	Thou whoreson, senseless villain!
+<SPEECH 42><ACT 4><SCENE 4><68%>
+	Thou art sensible in nothing but blows, and so is an ass.
+<SPEECH 43><ACT 4><SCENE 4><69%>
+	Come, go along; my wife is coming yonder.
+<SPEECH 44><ACT 4><SCENE 4><69%>
+	Wilt thou still talk?
+<SPEECH 45><ACT 4><SCENE 4><70%>
+	There is my hand, and let it feel your ear.
+<SPEECH 46><ACT 4><SCENE 4><70%>
+	Peace, doting wizard, peace! I am not mad.
+<SPEECH 47><ACT 4><SCENE 4><70%>
+	You minion, you, are these your customers?
+	Did this companion with the saffron face
+	Revel and feast it at my house to-day,
+	Whilst upon me the guilty doors were shut
+	And I denied to enter in my house?
+<SPEECH 48><ACT 4><SCENE 4><71%>
+	Din'd at home! Thou villain, what say'st thou?
+<SPEECH 49><ACT 4><SCENE 4><71%>
+	Were not my doors lock'd up and I shut out?
+<SPEECH 50><ACT 4><SCENE 4><71%>
+	And did not she herself revile me there?
+<SPEECH 51><ACT 4><SCENE 4><71%>
+	Did not her kitchen-maid rail, taunt, and scorn me?
+<SPEECH 52><ACT 4><SCENE 4><71%>
+	And did not I in rage depart from thence?
+<SPEECH 53><ACT 4><SCENE 4><72%>
+	Thou hast suborn'd the goldsmith to arrest me.
+<SPEECH 54><ACT 4><SCENE 4><72%>
+	Went'st not thou to her for a purse of ducats?
+<SPEECH 55><ACT 4><SCENE 4><72%>
+	Say, wherefore didst thou lock me forth to-day?
+	And why dost thou deny the bag of gold?
+<SPEECH 56><ACT 4><SCENE 4><73%>
+	Dissembling harlot! thou art false in all;
+	And art confederate with a damned pack
+	To make a loathsome abject scorn of me;
+	But with these nails I'll pluck out those false eyes
+	That would behold in me this shameful sport.
+<SPEECH 57><ACT 4><SCENE 4><73%>
+	What, will you murder me? Thou gaoler, thou,
+	I am thy prisoner: wilt thou suffer them
+	To make a rescue?
+<SPEECH 58><ACT 4><SCENE 4><74%>
+	O most unhappy strumpet!
+<SPEECH 59><ACT 4><SCENE 4><74%>
+	Out on thee, villain! wherefore dost thou mad me?
+<SPEECH 60><ACT 5><SCENE 1><87%>
+	Justice, most gracious duke! O! grant me justice,
+	Even for the service that long since I did thee,
+	When I bestrid thee in the wars and took
+	Deep scars to save thy life; even for the blood
+	That then I lost for thee, now grant me justice.
+<SPEECH 61><ACT 5><SCENE 1><88%>
+	Justice, sweet prince, against that woman there!
+	She whom thou gav'st to me to be my wife,
+	That hath abused and dishonour'd me,
+	Even in the strength and height of injury!
+	Beyond imagination is the wrong
+	That she this day hath shameless thrown on me.
+<SPEECH 62><ACT 5><SCENE 1><88%>
+	This day, great duke, she shut the doors upon me,
+	While she with harlots feasted in my house.
+<SPEECH 63><ACT 5><SCENE 1><88%>
+	My liege, I am advised what I say:
+	Neither disturb'd with the effect of wine,
+	Nor heady-rash, provok'd with raging ire,
+	Albeit my wrongs might make one wiser mad.
+	This woman lock'd me out this day from dinner:
+	That goldsmith there, were he not pack'd with her,
+	Could witness it, for he was with me then;
+	Who parted with me to go fetch a chain,
+	Promising to bring it to the Porpentine,
+	Where Balthazar and I did dine together.
+	Our dinner done, and he not coming thither,
+	I went to seek him: in the street I met him,
+	And in his company that gentleman.
+	There did this perjur'd goldsmith swear me down
+	That I this day of him receiv'd the chain,
+	Which, God he knows, I saw not; for the which
+	He did arrest me with an officer.
+	I did obey, and sent my peasant home
+	For certain ducats: he with none return'd.
+	Then fairly I bespoke the officer
+	To go in person with me to my house.
+	By the way we met
+	My wife, her sister, and a rabble more
+	Of vile confederates: along with them
+	They brought one Pinch, a hungry lean-fac'd villain,
+	A mere anatomy, a mountebank,
+	A threadbare juggler, and a fortune-teller,
+	A needy, hollow-ey'd, sharp-looking wretch,
+	A living-dead man. This pernicious slave,
+	Forsooth, took on him as a conjurer,
+	And, gazing in mine eyes, feeling my pulse,
+	And with no face, as 'twere, out-facing me,
+	Cries out, I was possess'd. Then, altogether
+	They fell upon me, bound me, bore me thence,
+	And in a dark and dankish vault at home
+	There left me and my man, both bound together;
+	Till, gnawing with my teeth my bonds in sunder,
+	I gain'd my freedom, and immediately
+	Ran hither to your Grace; whom I beseech
+	To give me ample satisfaction
+	For these deep shames and great indignities.
+<SPEECH 64><ACT 5><SCENE 1><91%>
+	I never came within these abbey walls;
+	Nor ever didst thou draw thy sword on me;
+	I never saw the chain, so help me heaven!
+	And this is false you burden me withal.
+<SPEECH 65><ACT 5><SCENE 1><92%>
+	'Tis true, my liege; this ring I had of her.
+<SPEECH 66><ACT 5><SCENE 1><93%>
+	I never saw you in my life till now.
+<SPEECH 67><ACT 5><SCENE 1><93%>
+	Neither.
+<SPEECH 68><ACT 5><SCENE 1><94%>
+	I never saw my father in my life.
+<SPEECH 69><ACT 5><SCENE 1><94%>
+	The duke and all that know me in the city
+	Can witness with me that it is not so:
+	I ne'er saw Syracusa in my life.
+<SPEECH 70><ACT 5><SCENE 1><96%>
+	I came from Corinth, my most gracious lord,—
+<SPEECH 71><ACT 5><SCENE 1><96%>
+	Brought to this town by that most famous warrior,
+	Duke Menaphon, your most renowned uncle.
+<SPEECH 72><ACT 5><SCENE 1><97%>
+	No; I say nay to that.
+<SPEECH 73><ACT 5><SCENE 1><97%>
+	And you, sir, for this chain arrested me.
+<SPEECH 74><ACT 5><SCENE 1><98%>
+	These ducats pawn I for my father here.
+<SPEECH 75><ACT 5><SCENE 1><98%>
+	There, take it; and much thanks for my good cheer.
+<SPEECH 76><ACT 5><SCENE 1><99%>
+	Dromio, what stuff of mine hast thou embark'd?

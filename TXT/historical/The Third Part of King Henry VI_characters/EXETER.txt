@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	But when the duke is slain they'll quickly fly.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	For shame! come down: he made thee Duke of York.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Thy father was a traitor to the crown.
+<SPEECH 4><ACT 1><SCENE 1><6%>
+	No; for he could not so resign his crown
+	But that the next heir should succeed and reign.
+<SPEECH 5><ACT 1><SCENE 1><6%>
+	His is the right, and therefore pardon me.
+<SPEECH 6><ACT 1><SCENE 1><6%>
+	My conscience tells me he is lawful king.
+<SPEECH 7><ACT 1><SCENE 1><7%>
+	They seek revenge and therefore will not yield.
+<SPEECH 8><ACT 1><SCENE 1><8%>
+	Accurs'd be he that seeks to make them foes!
+<SPEECH 9><ACT 1><SCENE 1><8%>
+	Here comes the queen, whose looks bewray her anger:
+	I'll steal away.
+<SPEECH 10><ACT 1><SCENE 1><10%>
+	And I, I hope, shall reconcile them all.
+<SPEECH 11><ACT 2><SCENE 5><39%>
+	Away! for vengeance comes along with them.
+	Nay, stay not to expostulate; make speed,
+	Or else come after: I'll away before.
+<SPEECH 12><ACT 4><SCENE 8><81%>
+	The doubt is that he will seduce the rest.
+<SPEECH 13><ACT 4><SCENE 8><82%>
+	Hark, hark, my lord! what shouts are these?

@@ -1,0 +1,27 @@
+<SPEECH 1><ACT 4><SCENE 4><72%>
+	I think he's gone to hunt, my lord, at Windsor.
+<SPEECH 2><ACT 4><SCENE 4><72%>
+	I do not know, my lord.
+<SPEECH 3><ACT 4><SCENE 4><72%>
+	No, my good lord; he is in presence here.
+<SPEECH 4><ACT 4><SCENE 4><75%>
+	Comfort, your majesty!
+<SPEECH 5><ACT 4><SCENE 4><76%>
+	The people fear me; for they do observe
+	Unfather'd heirs and loathly births of nature:
+	The seasons change their manners, as the year
+	Had found some months asleep and leap'd them over.
+<SPEECH 6><ACT 4><SCENE 4><76%>
+	This apoplexy will certain be his end.
+<SPEECH 7><ACT 4><SCENE 5><76%>
+	Exceeding ill.
+<SPEECH 8><ACT 4><SCENE 5><76%>
+	He alter'd much upon the hearing it.
+<SPEECH 9><ACT 4><SCENE 5><78%>
+	He came not through the chamber where we stay'd.
+<SPEECH 10><ACT 5><SCENE 2><87%>
+	Good morrow, cousin.
+<SPEECH 11><ACT 5><SCENE 2><87%>
+	O! good my lord, you have lost a friend indeed;
+	And I dare swear you borrow not that face
+	Of seeming sorrow; it is sure your own.

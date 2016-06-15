@@ -1,0 +1,44 @@
+<SPEECH 1><ACT 3><SCENE 4><39%>
+	Un peu, madame.
+<SPEECH 2><ACT 3><SCENE 4><39%>
+	La main? elle est appellée, de hand.
+<SPEECH 3><ACT 3><SCENE 4><39%>
+	Les doigts? ma foy, je oublie les doigts; mais je me souviendray. Les doigts? je pense qu'ils sont appellés de fingres; ouy, de fingres.
+<SPEECH 4><ACT 3><SCENE 4><39%>
+	Lesongles? nous les appellons, de nails.
+<SPEECH 5><ACT 3><SCENE 4><40%>
+	C'est bien dict, madame; il est fort bon Anglois.
+<SPEECH 6><ACT 3><SCENE 4><40%>
+	De arm, madame.
+<SPEECH 7><ACT 3><SCENE 4><40%>
+	De elbow.
+<SPEECH 8><ACT 3><SCENE 4><40%>
+	Il est trop difficile, madame, comme je pense.
+<SPEECH 9><ACT 3><SCENE 4><40%>
+	De elbow, madame.
+<SPEECH 10><ACT 3><SCENE 4><40%>
+	De nick, madame.
+<SPEECH 11><ACT 3><SCENE 4><40%>
+	De chin.
+<SPEECH 12><ACT 3><SCENE 4><40%>
+	Ouy. Sauf vostre honneur, en vérité vous prononcez les mots aussi droict que les natifs d'Angleterre.
+<SPEECH 13><ACT 3><SCENE 4><40%>
+	N'avez vous déjà oublié ce que je vous ay enseignée?
+<SPEECH 14><ACT 3><SCENE 4><40%>
+	De nails, madame.
+<SPEECH 15><ACT 3><SCENE 4><40%>
+	Sauf vostre honneur, d'elbow.
+<SPEECH 16><ACT 3><SCENE 4><40%>
+	De foot, madame; et de coun.
+<SPEECH 17><ACT 3><SCENE 4><41%>
+	Excellent, madame!
+<SPEECH 18><ACT 5><SCENE 2><91%>
+	Ouy, vrayment, sauf vostre grace, ainsi dit-il.
+<SPEECH 19><ACT 5><SCENE 2><92%>
+	Ouy, dat de tongues of de mans is be full of deceits: dat is de princess.
+<SPEECH 20><ACT 5><SCENE 2><96%>
+	Dat it is not be de fashion pour les ladies of France,—I cannot tell what is baiser in English.
+<SPEECH 21><ACT 5><SCENE 2><96%>
+	Your majesty entendre bettre que moy.
+<SPEECH 22><ACT 5><SCENE 2><96%>
+	Ouy, vrayment.

@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 3><SCENE 2><46%>
+	Ay, madam, but returns again to-night.
+<SPEECH 2><ACT 3><SCENE 2><46%>
+	Madam, I will.
+<SPEECH 3><ACT 5><SCENE 3><88%>
+	There is ten thousand—
+<SPEECH 4><ACT 5><SCENE 3><88%>
+	Soldiers, sir.
+<SPEECH 5><ACT 5><SCENE 3><88%>
+	The English force, so please you.

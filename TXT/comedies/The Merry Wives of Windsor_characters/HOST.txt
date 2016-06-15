@@ -1,0 +1,94 @@
+<SPEECH 1><ACT 1><SCENE 3><11%>
+	What says my bully-rook? Speak scholarly and wisely.
+<SPEECH 2><ACT 1><SCENE 3><11%>
+	Discard, bully Hercules; cashier: let them wag; trot, trot.
+<SPEECH 3><ACT 1><SCENE 3><11%>
+	Thou'rt an emperor, Cæsar, Keisar, and Pheezar. I will entertain Bardolph; he shall draw, he shall tap: said I well, bully Hector?
+<SPEECH 4><ACT 1><SCENE 3><11%>
+	I have spoke; let him follow. <STAGE DIR>
+	</STAGE DIR> Let me see thee forth and lime: I am at a word; follow.
+<SPEECH 5><ACT 2><SCENE 1><27%>
+	How now, bully-rook! thou'rt a gentleman. Cavaliero-justice, I say!
+<SPEECH 6><ACT 2><SCENE 1><27%>
+	Tell him, cavaliero-justice; tell him, bully-rook.
+<SPEECH 7><ACT 2><SCENE 1><27%>
+	What sayest thou, my bully-rook?
+<SPEECH 8><ACT 2><SCENE 1><27%>
+	Hast thou no suit against my knight, my guest-cavalier?
+<SPEECH 9><ACT 2><SCENE 1><28%>
+	My hand, bully: thou shalt have egress and regress; said I well? and thy name shall be Brook. It is a merry knight. Will you go, mynheers?
+<SPEECH 10><ACT 2><SCENE 1><28%>
+	Here, boys, here, here! shall we wag?
+<SPEECH 11><ACT 2><SCENE 3><40%>
+	Bless thee, bully doctor!
+<SPEECH 12><ACT 2><SCENE 3><40%>
+	To see thee fight, to see thee foin, to see thee traverse; to see thee here, to see thee there; to see thee pass thy punto, thy stock, thy reverse, thy distance, thy montant. Is he dead, my Ethiopian? is he dead, my Francisco? ha, bully! What says my Æsculapius? my Galen? my heart of elder? ha! is he dead, bully stale? is he dead?
+<SPEECH 13><ACT 2><SCENE 3><40%>
+	Thou art a Castilian King Urinal! Hector of Greece, my boy!
+<SPEECH 14><ACT 2><SCENE 3><41%>
+	Pardon, guest-justice.—A word, Monsieur Mockwater.
+<SPEECH 15><ACT 2><SCENE 3><41%>
+	Mock-water, in our English tongue, is valour, bully.
+<SPEECH 16><ACT 2><SCENE 3><41%>
+	He will clapper-claw thee tightly, bully.
+<SPEECH 17><ACT 2><SCENE 3><41%>
+	That is, he will make thee amends.
+<SPEECH 18><ACT 2><SCENE 3><41%>
+	And I will provoke him to't, or let him wag.
+<SPEECH 19><ACT 2><SCENE 3><41%>
+	And moreover, bully,—But first, Master guest, and Master Page, and eke Cavaliero Slender, go you through the town to Frogmore.
+<SPEECH 20><ACT 2><SCENE 3><41%>
+	He is there: see what humour he is in; and I will bring the doctor about by the fields. Will it do well?
+<SPEECH 21><ACT 2><SCENE 3><42%>
+	Let him die. Sheathe thy impatience; throw cold water on thy choler: go about the fields with me through Frogmore: I will bring thee where Mistress Anne Page is, at a farmhouse a-feasting; and thou shalt woo her. Cried I aim? said I well?
+<SPEECH 22><ACT 2><SCENE 3><42%>
+	For the which I will be thy adversary toward Anne Page: said I well?
+<SPEECH 23><ACT 2><SCENE 3><42%>
+	Let us wag, then.
+<SPEECH 24><ACT 3><SCENE 1><45%>
+	Disarm them, and let them question: let them keep their limbs whole and hack our English.
+<SPEECH 25><ACT 3><SCENE 1><45%>
+	Peace, I say, Gallia and Guallia; French and Welsh, soul-curer and body-curer!
+<SPEECH 26><ACT 3><SCENE 1><45%>
+	Peace, I say! hear mine host of the Garter. Am I politic? am I subtle? am I a Machiavel? Shall I lose my doctor? no; he gives me the potions and the motions. Shall I lose my parson, my priest, my Sir Hugh? no; he gives me the proverbs and the no-verbs. Give me thy hand, terrestrial; so;—give me thy hand celestial; so. Boys of art, I have deceived you both; I have directed you to wrong places: your hearts are mighty, your skins are whole, and let burnt sack be the issue. Come, lay their swords to pawn. Follow me, lads of peace; follow, follow, follow.
+<SPEECH 27><ACT 3><SCENE 2><49%>
+	What say you to young Master Fenton? he capers, he dances, he has eyes of youth, he writes verses, he speaks holiday, he smells April and May: he will carry't, he will carry't; 'tis in his buttons; he will carry't.
+<SPEECH 28><ACT 3><SCENE 2><49%>
+	Farewell, my hearts: I will to my honest knight Falstaff, and drink canary with him.
+<SPEECH 29><ACT 4><SCENE 3><78%>
+	What duke should that be comes so secretly? I hear not of him in the court. Let me speak with the gentlemen; they speak English?
+<SPEECH 30><ACT 4><SCENE 3><78%>
+	They shall have my horses, but I'll make them pay; I'll sauce them: they have had my house a week at command; I have turned away my other guests: they must come off; I'll sauce them. Come.
+<SPEECH 31><ACT 4><SCENE 5><81%>
+	What wouldst thou have, boor? what, thick-skin? speak, breathe, discuss; brief, short, quick, snap.
+<SPEECH 32><ACT 4><SCENE 5><81%>
+	There's his chamber, his house, his castle, his standing-bed and truckle-bed: 'tis painted about with the story of the Prodigal, fresh and new. Go knock and call: he'll speak like an Anthropophaginian unto thee: knock, I say.
+<SPEECH 33><ACT 4><SCENE 5><82%>
+	Ha! a fat woman! the knight may be robbed: I'll call. Bully knight! Bully Sir John! speak from thy lungs military: art thou there? it is thine host, thine Ephesian, calls.
+<SPEECH 34><ACT 4><SCENE 5><82%>
+	Here's a Bohemian-Tartar tarries the coming down of thy fat woman. Let her descend, bully; let her descend; my chambers are honourable: fie! privacy? fie!
+<SPEECH 35><ACT 4><SCENE 5><83%>
+	Ay, come; quick.
+<SPEECH 36><ACT 4><SCENE 5><83%>
+	Conceal them, or thou diest.
+<SPEECH 37><ACT 4><SCENE 5><83%>
+	Thou art clerkly, thou art clerkly, Sir John. Was there a wise woman with thee?
+<SPEECH 38><ACT 4><SCENE 5><83%>
+	Where be my horses? speak well of them, varletto.
+<SPEECH 39><ACT 4><SCENE 5><83%>
+	They are gone but to meet the duke, villain. Do not say they be fled: Germans are honest men.
+<SPEECH 40><ACT 4><SCENE 5><84%>
+	What is the matter, sir?
+<SPEECH 41><ACT 4><SCENE 5><84%>
+	Here, Master doctor, in perplexity and doubtful dilemma.
+<SPEECH 42><ACT 4><SCENE 5><84%>
+	Hue and cry, villain! go. Assist me, knight; I am undone. Fly, run, hue and cry, villain! I am undone!
+<SPEECH 43><ACT 4><SCENE 6><86%>
+	Master Fenton, talk not to me: my mind is heavy; I will give over all.
+<SPEECH 44><ACT 4><SCENE 6><86%>
+	I will hear you, Master Fenton; and I will, at the least, keep your counsel.
+<SPEECH 45><ACT 4><SCENE 6><87%>
+	Which means she to deceive, father or mother?
+<SPEECH 46><ACT 4><SCENE 6><87%>
+	Well, husband your device; I'll to the vicar.
+	Bring you the maid, you shall not lack a priest.

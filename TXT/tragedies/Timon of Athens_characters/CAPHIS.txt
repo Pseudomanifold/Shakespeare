@@ -1,0 +1,35 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+	Here, sir; what is your pleasure?
+<SPEECH 2><ACT 2><SCENE 1><25%>
+	I go, sir.
+<SPEECH 3><ACT 2><SCENE 1><25%>
+	I will, sir.
+<SPEECH 4><ACT 2><SCENE 2><26%>
+	Good even, Varro. What!
+	You come for money?
+<SPEECH 5><ACT 2><SCENE 2><26%>
+	It is: and yours too, Isidore?
+<SPEECH 6><ACT 2><SCENE 2><26%>
+	Would we were all discharg'd!
+<SPEECH 7><ACT 2><SCENE 2><26%>
+	Here comes the lord!
+<SPEECH 8><ACT 2><SCENE 2><26%>
+	My lord, here is a note of certain dues.
+<SPEECH 9><ACT 2><SCENE 2><26%>
+	Of Athens here, my lord.
+<SPEECH 10><ACT 2><SCENE 2><26%>
+	Please it your lordship, he hath put me off
+	To the succession of new days this month:
+	My master is awak'd by great occasion
+	To call upon his own; and humbly prays you
+	That with your other noble parts you'll suit
+	In giving him his right.
+<SPEECH 11><ACT 2><SCENE 2><26%>
+	Nay, good my lord,—
+<SPEECH 12><ACT 2><SCENE 2><27%>
+	If you did know, my lord, my master's wants,—
+<SPEECH 13><ACT 2><SCENE 2><27%>
+	Stay, stay; here comes the fool with
+	Apemantus: let's ha' some sport with 'em.
+<SPEECH 14><ACT 2><SCENE 2><28%>
+	Where's the fool now?

@@ -1,0 +1,43 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Four days will quickly steep themselves in night;
+	Four nights will quickly dream away the time;
+	And then the moon, like to a silver bow
+	New-bent in heaven, shall behold the night
+	Of our solemnities.
+<SPEECH 2><ACT 4><SCENE 1><73%>
+	I was with Hercules and Cadmus once,
+	When in a wood of Crete they bay'd the bear
+	With hounds of Sparta: never did I hear
+	Such gallant chiding; for, besides the groves,
+	The skies, the fountains, every region near
+	Seem'd all one mutual cry. I never heard
+	So musical a discord, such sweet thunder.
+<SPEECH 3><ACT 5><SCENE 1><81%>
+	'Tis strange, my Theseus, that these lovers speak of.
+<SPEECH 4><ACT 5><SCENE 1><82%>
+	But all the story of the night told over,
+	And all their minds transfigur'd so together,
+	More witnesseth than fancy's images,
+	And grows to something of great constancy,
+	But, howsoever, strange and admirable.
+<SPEECH 5><ACT 5><SCENE 1><85%>
+	I love not to see wretchedness o'ercharg'd,
+	And duty in his service perishing.
+<SPEECH 6><ACT 5><SCENE 1><85%>
+	He says they can do nothing in this kind.
+<SPEECH 7><ACT 5><SCENE 1><87%>
+	Indeed he hath played on his prologue like a child on a recorder; a sound, but not in government.
+<SPEECH 8><ACT 5><SCENE 1><91%>
+	This is the silliest stuff that ever I heard.
+<SPEECH 9><ACT 5><SCENE 1><91%>
+	It must be your imagination then, and not theirs.
+<SPEECH 10><ACT 5><SCENE 1><93%>
+	I am aweary of this moon: would he would change!
+<SPEECH 11><ACT 5><SCENE 1><94%>
+	Well shone, Moon. Truly, the moon shines with a good grace.
+<SPEECH 12><ACT 5><SCENE 1><94%>
+	Beshrew my heart, but I pity the man.
+<SPEECH 13><ACT 5><SCENE 1><95%>
+	How chance Moonshine is gone before Thisbe comes back and finds her lover?
+<SPEECH 14><ACT 5><SCENE 1><95%>
+	Methinks she should not use a long one for such a Pyramus: I hope she will be brief.

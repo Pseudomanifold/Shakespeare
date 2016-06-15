@@ -1,0 +1,74 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+	In peace and honour live Lord Titus long;
+	My noble lord and father, live in fame!
+	Lo! at this tomb my tributary tears
+	I render for my brethren's obsequies;
+	And at thy feet I kneel, with tears of joy
+	Shed on the earth for thy return to Rome.
+	O! bless me here with thy victorious hand,
+	Whose fortunes Rome's best citizens applaud.
+<SPEECH 2><ACT 1><SCENE 1><11%>
+	Not I, my lord; sith true nobility
+	Warrants these words in princely courtesy.
+<SPEECH 3><ACT 2><SCENE 2><26%>
+	I say, no;
+	I have been broad awake two hours and more.
+<SPEECH 4><ACT 2><SCENE 3><29%>
+	Under your patience, gentle empress,
+	'Tis thought you have a goodly gift in horning;
+	And to be doubted that your Moor and you
+	Are singled forth to try experiments.
+	Jove shield your husband from his hounds to-day!
+	'Tis pity they should take him for a stag.
+<SPEECH 5><ACT 2><SCENE 3><29%>
+	And, being intercepted in your sport,
+	Great reason that my noble lord be rated
+	For sauciness. I pray you, let us hence,
+	And let her joy her raven-colour'd love;
+	This valley fits the purpose passing well.
+<SPEECH 6><ACT 2><SCENE 3><30%>
+	Ay, for these slips have made him noted long:
+	Good king, to be so mightily abus'd!
+<SPEECH 7><ACT 2><SCENE 3><31%>
+	Ay, come, Semiramis, nay, barbarous Tamora;
+	For no name fits thy nature but thy own.
+<SPEECH 8><ACT 2><SCENE 3><31%>
+	O Tamora! thou bear'st a woman's face,—
+<SPEECH 9><ACT 2><SCENE 3><32%>
+	Sweet lords, entreat her hear me but a word.
+<SPEECH 10><ACT 2><SCENE 3><32%>
+	When did the tiger's young ones teach the dam?
+	O! do not learn her wrath; she taught it thee;
+	The milk thou suck'dst from her did turn to marble;
+	Even at thy teat thou hadst thy tyranny.
+	Yet every mother breeds not sons alike:
+	</STAGE DIR> Do thou entreat her show a woman pity.
+<SPEECH 11><ACT 2><SCENE 3><32%>
+	'Tis true! the raven doth not hatch a lark:
+	Yet have I heard, O! could I find it now,
+	The lion mov'd with pity did endure
+	To have his princely paws par'd all away.
+	Some say that ravens foster forlorn children,
+	The whilst their own birds famish in their nests:
+	O! be to me, though thy hard heart say no,
+	Nothing so kind, but something pitiful.
+<SPEECH 12><ACT 2><SCENE 3><32%>
+	O, let me teach thee! for my father's sake,
+	That gave thee life when well he might have slain thee,
+	Be not obdurate, open thy deaf ears.
+<SPEECH 13><ACT 2><SCENE 3><33%>
+	O Tamora! be call'd a gentle queen,
+	And with thine own hands kill me in this place;
+	For 'tis not life that I have begg'd so long;
+	Poor I was slain when Bassianus died.
+<SPEECH 14><ACT 2><SCENE 3><33%>
+	'Tis present death I beg; and one thing more
+	That womanhood denies my tongue to tell.
+	O! keep me from their worse than killing lust,
+	And tumble me into some loathsome pit,
+	Where never man's eye may behold my body:
+	Do this, and be a charitable murderer.
+<SPEECH 15><ACT 2><SCENE 3><33%>
+	No grace! no womanhood! Ah, beastly creature,
+	The blot and enemy to our general name.
+	Confusion fall—

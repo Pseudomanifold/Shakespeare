@@ -1,0 +1,24 @@
+<SPEECH 1><ACT 2><SCENE 2><25%>
+	As well as one so great and so forlorn
+	May hold together. On her frights and griefs,—
+	Which never tender lady hath borne greater,—
+	She is something before her time deliver'd.
+<SPEECH 2><ACT 2><SCENE 2><25%>
+	A daughter; and a goodly babe,
+	Lusty and like to live: the queen receives
+	Much comfort in't; says, 'My poor prisoner,
+	I am innocent as you.'
+<SPEECH 3><ACT 2><SCENE 2><25%>
+	Most worthy madam,
+	Your honour and your goodness is so evident
+	That your free undertaking cannot miss
+	A thriving issue: there is no lady living
+	So meet for this great errand. Please your ladyship
+	To visit the next room, I'll presently
+	Acquaint the queen of your most noble offer,
+	Who but to-day hammer'd of this design,
+	But durst not tempt a minister of honour,
+	Lest she should be denied.
+<SPEECH 4><ACT 2><SCENE 2><26%>
+	Now be you blest for it!
+	I'll to the queen. Please you, come something nearer.

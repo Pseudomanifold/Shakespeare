@@ -1,0 +1,23 @@
+<SPEECH 1><ACT 3><SCENE 1><44%>
+	I'll stay above the hill, so both may shoot.
+<SPEECH 2><ACT 3><SCENE 1><44%>
+	Here comes a man; let's stay till he be past.
+<SPEECH 3><ACT 3><SCENE 1><44%>
+	Why linger we? let us lay hands upon him.
+<SPEECH 4><ACT 3><SCENE 1><45%>
+	Say, what art thou, that talk'st of kings and queens?
+<SPEECH 5><ACT 3><SCENE 1><45%>
+	Ay, but thou talk'st as if thou wert a king.
+<SPEECH 6><ACT 3><SCENE 1><45%>
+	But, if thou be a king, where is thy crown?
+<SPEECH 7><ACT 3><SCENE 1><46%>
+	Well, if you be a king crown'd with content,
+	Your crown content and you must be contented
+	To go along with us; for, as we think,
+	You are the king King Edward hath depos'd;
+	And we his subjects, sworn in all allegiance,
+	Will apprehend you as his enemy.
+<SPEECH 8><ACT 3><SCENE 1><46%>
+	No, never such an oath; nor will not now.
+<SPEECH 9><ACT 3><SCENE 1><46%>
+	Here in this country, where we now remain.

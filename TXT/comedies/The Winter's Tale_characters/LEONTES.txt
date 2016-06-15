@@ -1,0 +1,814 @@
+<SPEECH 1><ACT 1><SCENE 2><2%>
+	Stay your thanks awhile,
+	And pay them when you part.
+<SPEECH 2><ACT 1><SCENE 2><2%>
+	We are tougher, brother,
+	Than you can put us to't.
+<SPEECH 3><ACT 1><SCENE 2><2%>
+	One seven-night longer.
+<SPEECH 4><ACT 1><SCENE 2><3%>
+	We'll part the time between's then; and in that
+	I'll no gainsaying.
+<SPEECH 5><ACT 1><SCENE 2><3%>
+	Tongue-tied, our queen? speak you.
+<SPEECH 6><ACT 1><SCENE 2><3%>
+	Well said, Hermione.
+<SPEECH 7><ACT 1><SCENE 2><5%>
+	Is he won yet?
+<SPEECH 8><ACT 1><SCENE 2><5%>
+	At my request he would not.
+	Hermione, my dearest, thou never spok'st
+	To better purpose.
+<SPEECH 9><ACT 1><SCENE 2><5%>
+	Never, but once.
+<SPEECH 10><ACT 1><SCENE 2><5%>
+	Why, that was when
+	Three crabbed months had sour'd themselves to death,
+	Ere I could make thee open thy white hand
+	And clap thyself my love: then didst thou utter,
+	'I am yours for ever.'
+<SPEECH 11><ACT 1><SCENE 2><6%>
+	</STAGE DIR> Too hot, too hot!
+	To mingle friendship far is mingling bloods.
+	I have tremor cordis on me: my heart dances;
+	But not for joy; not joy. This entertainment
+	May a free face put on, derive a liberty
+	From heartiness, from bounty, fertile bosom,
+	And well become the agent:'t may I grant:
+	But to be paddling palms and pinching fingers,
+	As now they are, and making practis'd smiles,
+	As in a looking-glass; and then to sigh, as 'twere
+	The mort o' the deer; O! that is entertainment
+	My bosom likes not, nor my brows. Mamillius,
+	Art thou my boy?
+<SPEECH 12><ACT 1><SCENE 2><6%>
+	I' fecks?
+	Why, that's my bawcock. What! hast smutch'd thy nose?
+	They say it is a copy out of mine. Come, captain,
+	We must be neat; not neat, but cleanly, captain:
+	And yet the steer, the heifer, and the calf,
+	Are all call'd neat. Still virginalling
+	Upon his palm! How now, you wanton calf!
+	Art thou my calf?
+<SPEECH 13><ACT 1><SCENE 2><6%>
+	Thou want'st a rough pash and the shoots that I have,
+	To be full like me: yet they say we are
+	Almost as like as eggs; women say so,
+	That will say anything: but were they false
+	As o'er-dy'd blacks, as wind, as waters, false
+	As dice are to be wish'd by one that fixes
+	No bourn 'twixt his and mine, yet were it true
+	To say this boy were like me. Come, sir page,
+	Look on me with your wolkin eye: sweet villain!
+	Most dear'st! my collop! Can thy dam?—may't be?—
+	Affection! thy intention stabs the centre:
+	Thou dost make possible things not so held,
+	Communicat'st with dreams;—how can this be?—
+	With what's unreal thou co-active art,
+	And fellow'st nothing: then, 'tis very credent
+	Thou mayst co-join with something; and thou dost,
+	And that beyond commission, and I find it,
+	And that to the infection of my brains
+	And hardening of my brows.
+<SPEECH 14><ACT 1><SCENE 2><7%>
+	No, in good earnest.
+	How sometimes nature will betray its folly,
+	Its tenderness, and make itself a pastime
+	To harder bosoms! Looking on the lines
+	Of my boy's face, methoughts I did recoil
+	Twenty-three years, and saw myself unbreech'd,
+	In my green velvet coat, my dagger muzzled,
+	Lest it should bite its master, and so prove,
+	As ornaments oft do, too dangerous:
+	How like, methought, I then was to this kernel,
+	This squash, this gentleman. Mine honest friend,
+	Will you take eggs for money?
+<SPEECH 15><ACT 1><SCENE 2><7%>
+	You will? why, happy man be his dole! My brother,
+	Are you so fond of your young prince as we
+	Do seem to be of ours?
+<SPEECH 16><ACT 1><SCENE 2><8%>
+	So stands this squire
+	Offic'd with me. We two will walk, my lord,
+	And leave you to your graver steps. Hermione,
+	How thou lov'st us, show in our brother's welcome:
+	Let what is dear in Sicily be cheap:
+	Next to thyself and my young rover, he's
+	Apparent to my heart.
+<SPEECH 17><ACT 1><SCENE 2><8%>
+	To your own bents dispose you: you'll be found,
+	Be you beneath the sky.—<STAGE DIR>
+	</STAGE DIR> I am angling now,
+	Though you perceive me not how I give line.
+	Go to, go to!
+	How she holds up the neb, the bill to him!
+	And arms her with the boldness of a wife
+	To her allowing husband!
+	Gone already!
+	Inch-thick, knee-deep, o'er head and ears a fork'd one!
+	Go play, boy, play; thy mother plays, and I
+	Play too, but so disgrac'd a part, whose issue
+	Will hiss me to my grave: contempt and clamour
+	Will be my knell. Go play, boy, play. There have been,
+	Or I am much deceiv'd, cuckolds ere now;
+	And many a man there is even at this present,
+	Now, while I speak this, holds his wife by the arm,
+	That little thinks she has been sluic'd in's absence,
+	And his pond fish'd by his next neighbour, by
+	Sir Smile, his neighbour: nay, there's comfort in't,
+	Whiles other men have gates, and those gates open'd,
+	As mine, against their will. Should all despair
+	That have revolted wives the tenth of mankind
+	Would hang themselves. Physic for't there is none;
+	It is a bawdy planet, that will strike
+	Where 'tis predominant; and 'tis powerful, think it,
+	From east, west, north, and south: be it concluded,
+	No barricado for a belly: know't;
+	It will let in and out the enemy
+	With bag and baggage. Many a thousand on's
+	Have the disease, and feel't not. How now, boy!
+<SPEECH 18><ACT 1><SCENE 2><9%>
+	Why, that's some comfort.
+	What! Camillo there?
+<SPEECH 19><ACT 1><SCENE 2><9%>
+	Go play, Mamillius; thou'rt an honest man.
+	Camillo, this great sir will yet stay longer.
+<SPEECH 20><ACT 1><SCENE 2><9%>
+	Didst note it?
+<SPEECH 21><ACT 1><SCENE 2><9%>
+	Didst perceive it?
+	</STAGE DIR> They're here with me already, whispering, rounding
+	'Sicilia is a so-forth.' 'Tis far gone,
+	When I shall gust it last. How came't, Camillo,
+	That he did stay?
+<SPEECH 22><ACT 1><SCENE 2><9%>
+	At the queen's, be't: 'good' should be pertinent;
+	But so it is, it is not. Was this taken
+	By any understanding pate but thine?
+	For thy conceit is soaking; will draw in
+	More than the common blocks: not noted, is't,
+	But of the finer natures? by some severals
+	Of head-piece extraordinary? lower messes
+	Perchance are to this business purblind? say.
+<SPEECH 23><ACT 1><SCENE 2><10%>
+	Ha!
+<SPEECH 24><ACT 1><SCENE 2><10%>
+	Ay, but why?
+<SPEECH 25><ACT 1><SCENE 2><10%>
+	Satisfy!
+	The entreaties of your mistress! satisfy!
+	Let that suffice. I have trusted thee, Camillo,
+	With all the nearest things to my heart, as well
+	My chamber-councils, wherein, priest-like, thou
+	Hast cleans'd my bosom: I from thee departed
+	Thy penitent reform'd; but we have been
+	Deceiv'd in thy integrity, deceiv'd
+	In that which seems so.
+<SPEECH 26><ACT 1><SCENE 2><10%>
+	To bide upon 't, thou art not honest; or,
+	If thou inclin'st that way, thou art a coward,
+	Which hoxes honesty behind, restraining
+	From course requir'd; or else thou must be counted
+	A servant grafted in my serious trust,
+	And therein negligent; or else a fool
+	That seest a game play'd home, the rich stake drawn,
+	And tak'st it all for jest.
+<SPEECH 27><ACT 1><SCENE 2><11%>
+	Ha' not you seen, Camillo,—
+	But that's past doubt; you have, or your eyeglass
+	Is thicker than a cuckold's horn,—or heard,—
+	For to a vision so apparent rumour
+	Cannot be mute,—or thought,—for cogitation
+	Resides not in that man that does not think,—
+	My wife is slippery? If thou wilt confess,—
+	Or else be impudently negative,
+	To have nor eyes, nor ears, nor thought,—then say
+	My wife's a hobby-horse; deserves a name
+	As rank as any flax-wench that puts to
+	Before her troth-plight: say't and justify't.
+<SPEECH 28><ACT 1><SCENE 2><11%>
+	Is whispering nothing?
+	Is leaning cheek to cheek? is meeting noses?
+	Kissing with inside lip? stopping the career
+	Of laughter with a sigh?—a note infallible
+	Of breaking honesty,—horsing foot on foot?
+	Skulking in corners? wishing clocks more swift?
+	Hours, minutes? noon, midnight? and all eyes
+	Blind with the pin and web but theirs, theirs only,
+	That would unseen be wicked? is this nothing?
+	Why, then the world and all that's in't is nothing;
+	The covering sky is nothing; Bohemia nothing;
+	My wife is nothing; nor nothing have these nothings,
+	If this be nothing.
+<SPEECH 29><ACT 1><SCENE 2><12%>
+	Say it be, 'tis true.
+<SPEECH 30><ACT 1><SCENE 2><12%>
+	It is; you lie, you lie:
+	I say thou liest, Camillo, and I hate thee;
+	Pronounce thee a gross lout, a mindless slave,
+	Or else a hovering temporizer, that
+	Canst with thine eyes at once see good and evil,
+	Inclining to them both: were my wife's liver
+	Infected as her life, she would not live
+	The running of one glass.
+<SPEECH 31><ACT 1><SCENE 2><12%>
+	Why, he that wears her like her medal, hanging
+	About his neck, Bohemia: who, if I
+	Had servants true about me, that bare eyes
+	To see alike mine honour as their profits,
+	Their own particular thrifts, they would do that
+	Which should undo more doing: ay, and thou,
+	His cup-bearer,—whom I from meaner form
+	Have bench'd and rear'd to worship, who mayst see
+	Plainly, as heaven sees earth, and earth sees heaven,
+	How I am galled,—mightst bespice a cup,
+	To give mine enemy a lasting wink;
+	Which draught to me were cordial.
+<SPEECH 32><ACT 1><SCENE 2><13%>
+	Make that thy question, and go rot!
+	Dost think I am so muddy, so unsettled,
+	To appoint myself in this vexation; sully
+	The purity and whiteness of my sheets,
+	Which to preserve is sleep; which being spotted
+	Is goads, thorns, nettles, tails of wasps?
+	Give scandal to the blood o' the prince my son,
+	Who I do think is mine, and love as mine,
+	Without ripe moving to't? Would I do this?
+	Could man so blench?
+<SPEECH 33><ACT 1><SCENE 2><13%>
+	Thou dost advise me
+	Even so as I mine own course have set down:
+	I'll give no blemish to her honour, none.
+<SPEECH 34><ACT 1><SCENE 2><13%>
+	This is all:
+	Do't, and thou hast the one half of my heart;
+	Do't not, thou split'st thine own.
+<SPEECH 35><ACT 1><SCENE 2><13%>
+	I will seem friendly, as thou hast advis'd me.
+<SPEECH 36><ACT 2><SCENE 1><18%>
+	Was he met there? his train? Camillo with him?
+<SPEECH 37><ACT 2><SCENE 1><18%>
+	How blest am I
+	In my just censure, in my true opinion!
+	Alack, for lesser knowledge! How accurs'd
+	In being so blest! There may be in the cup
+	A spider steep'd, and one may drink, depart,
+	And yet partake no venom, for his knowledge
+	Is not infected; but if one present
+	The abhorr'd ingredient to his eye, make known
+	How he hath drunk, he cracks his gorge, his sides,
+	With violent hefts. I have drunk, and seen the spider.
+	Camillo was his help in this, his pandar:
+	There is a plot against my life, my crown;
+	All's true that is mistrusted: that false villain
+	Whom I employ'd was pre-employ'd by him:
+	He has discover'd my design, and I
+	Remain a pinch'd thing; yea, a very trick
+	For them to play at will. How came the posterns
+	So easily open?
+<SPEECH 38><ACT 2><SCENE 1><19%>
+	I know't too well.
+	</STAGE DIR> Give me the boy: I am glad you did not nurse him:
+	Though he does bear some signs of me, yet you
+	Have too much blood in him.
+<SPEECH 39><ACT 2><SCENE 1><19%>
+	Bear the boy hence; he shall not come about her;
+	Away with him!—<STAGE DIR>
+	</STAGE DIR> and let her sport herself
+	With that she's big with; for 'tis Polixenes
+	Has made thee swell thus.
+<SPEECH 40><ACT 2><SCENE 1><19%>
+	You, my lords,
+	Look on her, mark her well; be but about
+	To say, 'she is a goodly lady,' and
+	The justice of your hearts will thereto add
+	''Tis pity she's not honest, honourable:'
+	Praise her but for this her without-door form,—
+	Which, on my faith deserves high speech,—and straight
+	The shrug, the hum or ha, these petty brands
+	That calumny doth use,—O, I am out!—
+	That mercy does, for calumny will sear
+	Virtue itself: these shrugs, these hums and ha's,
+	When you have said 'she's goodly,' come between,
+	Ere you can say 'she's honest.' But be't known,
+	From him that has most cause to grieve it should be,
+	She's an adulteress.
+<SPEECH 41><ACT 2><SCENE 1><20%>
+	You have mistook, my lady,
+	Polixenes for Leontes. O thou thing!
+	Which I'll not call a creature of thy place,
+	Lest barbarism, making me the precedent,
+	Should a like language use to all degrees,
+	And mannerly distinguishment leave out
+	Betwixt the prince and beggar: I have said
+	She's an adulteress; I have said with whom:
+	More, she's a traitor, and Camillo is
+	A federary with her, and one that knows
+	What she should shame to know herself
+	But with her most vile principal, that she's
+	A bed-swerver, even as bad as those
+	That vulgars give bold'st titles; ay, and privy
+	To this their late escape.
+<SPEECH 42><ACT 2><SCENE 1><20%>
+	No; if I mistake
+	In those foundations which I build upon,
+	The centre is not big enough to bear
+	A schoolboy's top. Away with her to prison!
+	He who shall speak for her is afar off guilty
+	But that he speaks.
+<SPEECH 43><ACT 2><SCENE 1><21%>
+	</STAGE DIR> Shall I be heard?
+<SPEECH 44><ACT 2><SCENE 1><21%>
+	Go, do our bidding: hence!
+<SPEECH 45><ACT 2><SCENE 1><22%>
+	Hold your peaces!
+<SPEECH 46><ACT 2><SCENE 1><22%>
+	Cease! no more.
+	You smell this business with a sense as cold
+	As is a dead man's nose; but I do see't and feel't,
+	As you feel doing thus, and see withal
+	The instruments that feel.
+<SPEECH 47><ACT 2><SCENE 1><22%>
+	What! lack I credit?
+<SPEECH 48><ACT 2><SCENE 1><23%>
+	Why, what need we
+	Commune with you of this, but rather follow
+	Our forceful instigation? Our prerogative
+	Calls not your counsels, but our natural goodness
+	Imparts this; which if you,—or stupified
+	Or seeming so in skill,—cannot or will not
+	Relish a truth like us, inform yourselves
+	We need no more of your advice: the matter,
+	The loss, the gain, the ordering on't, is all
+	Properly ours.
+<SPEECH 49><ACT 2><SCENE 1><23%>
+	How could that be?
+	Either thou art most ignorant by age,
+	Or thou wert born a fool. Camillo's flight,
+	Added to their familiarity,
+	Which was as gross as ever touch'd conjecture,
+	That lack'd sight only, nought for approbation
+	But only seeing, all other circumstances
+	Made up to the deed, doth push on this proceeding:
+	Yet, for a greater confirmation,—
+	For in an act of this importance 'twere
+	Most piteous to be wild,—I have dispatch'd in post
+	To sacred Delphos, to Apollo's temple,
+	Cleomenes and Dion, whom you know
+	Of stuff'd sufficiency. Now, from the oracle
+	They will bring all; whose spiritual counsel had,
+	Shall stop or spur me. Have I done well?
+<SPEECH 50><ACT 2><SCENE 1><23%>
+	Though I am satisfied and need no more
+	Than what I know, yet shall the oracle
+	Give rest to the minds of others, such as he
+	Whose ignorant credulity will not
+	Come up to the truth. So have we thought it good
+	From our free person she should be confin'd,
+	Lest that the treachery of the two fled hence
+	Be left her to perform. Come, follow us:
+	We are to speak in public; for this business
+	Will raise us all.
+<SPEECH 51><ACT 2><SCENE 3><26%>
+	Nor night, nor day, no rest; it is but weakness
+	To bear the matter thus; mere weakness. If
+	The cause were not in being,—part o' the cause,
+	She the adultress; for the harlot king
+	Is quite beyond mine arm, out of the blank
+	And level of my brain, plot-proof; but she
+	I can hook to me: say, that she were gone,
+	Given to the fire, a moiety of my rest
+	Might come to me again. Who's there?
+<SPEECH 52><ACT 2><SCENE 3><26%>
+	How does the boy?
+<SPEECH 53><ACT 2><SCENE 3><27%>
+	To see his nobleness!
+	Conceiving the dishonour of his mother,
+	He straight declin'd, droop'd, took it deeply,
+	Fasten'd and fix'd the shame on't in himself,
+	Threw off his spirit, his appetite, his sleep,
+	And downright languish'd. Leave me solely: go,
+	See how he fares. <STAGE DIR>
+	</STAGE DIR>—Fie, fie! no thought of him;
+	The very thought of my revenges that way
+	Recoil upon me: in himself too mighty,
+	And in his parties, his alliance; let him be
+	Until a time may serve: for present vengeance,
+	Take it on her. Camillo and Polixenes
+	Laugh at me; make their pastime at my sorrow:
+	They should not laugh, if I could reach them, nor
+	Shall she within my power.
+<SPEECH 54><ACT 2><SCENE 3><28%>
+	What noise there, ho?
+<SPEECH 55><ACT 2><SCENE 3><28%>
+	How!
+	Away with that audacious lady! Antigonus,
+	I charg'd thee that she should not come about me:
+	I knew she would.
+<SPEECH 56><ACT 2><SCENE 3><28%>
+	What! canst not rule her?
+<SPEECH 57><ACT 2><SCENE 3><28%>
+	Good queen!
+<SPEECH 58><ACT 2><SCENE 3><28%>
+	Force her hence.
+<SPEECH 59><ACT 2><SCENE 3><28%>
+	Out!
+	A mankind witch! Hence with her, out o' door:
+	A most intelligencing bawd!
+<SPEECH 60><ACT 2><SCENE 3><29%>
+	Traitors!
+	Will you not push her out? Give her the bastard.
+	</STAGE DIR> Thou dotard! thou art woman-tir'd, unroosted
+	By thy dame Partlet here. Take up the bastard;
+	Take't up, I say; give't to thy crone.
+<SPEECH 61><ACT 2><SCENE 3><29%>
+	He dreads his wife.
+<SPEECH 62><ACT 2><SCENE 3><29%>
+	A nest of traitors!
+<SPEECH 63><ACT 2><SCENE 3><29%>
+	A callat
+	Of boundless tongue, who late hath beat her husband
+	And now baits me! This brat is none of mine;
+	It is the issue of Polixenes:
+	Hence with it; and, together with the dam
+	Commit them to the fire!
+<SPEECH 64><ACT 2><SCENE 3><30%>
+	A gross hag!
+	And, lozel, thou art worthy to be hang'd,
+	That wilt not stay her tongue.
+<SPEECH 65><ACT 2><SCENE 3><30%>
+	Once more, take her hence.
+<SPEECH 66><ACT 2><SCENE 3><30%>
+	I'll ha' thee burn'd.
+<SPEECH 67><ACT 2><SCENE 3><30%>
+	On your allegiance,
+	Out of the chamber with her! Were I a tyrant,
+	Where were her life? she durst not call me so
+	If she did know me one. Away with her!
+<SPEECH 68><ACT 2><SCENE 3><31%>
+	Thou, traitor, hast set on thy wife to this.
+	My child! away with't!—even thou, that hast
+	A heart so tender o'er it, take it hence
+	And see it instantly consum'd with fire:
+	Even thou and none but thou. Take it up straight:
+	Within this hour bring me word 'tis done,—
+	And by good testimony,—or I'll seize thy life,
+	With what thou else call'st thine. If thou refuse
+	And wilt encounter with my wrath, say so;
+	The bastard brains with these my proper hands
+	Shall I dash out. Go, take it to the fire;
+	For thou sett'st on thy wife.
+<SPEECH 69><ACT 2><SCENE 3><31%>
+	You are liars all.
+<SPEECH 70><ACT 2><SCENE 3><31%>
+	I am a feather for each wind that blows.
+	Shall I live on to see this bastard kneel
+	And call me father? Better burn it now
+	Than curse it then. But, be it; let it live:
+	It shall not neither.—<STAGE DIR>
+	</STAGE DIR> You, sir, come you hither;
+	You that have been so tenderly officious
+	With Lady Margery, your midwife there,
+	To save this bastard's life,—for 'tis a bastard,
+	So sure as thy beard's grey,—what will you adventure
+	To save this brat's life?
+<SPEECH 71><ACT 2><SCENE 3><32%>
+	It shall be possible. Swear by this sword
+	Thou wilt perform my bidding.
+<SPEECH 72><ACT 2><SCENE 3><32%>
+	Mark and perform it,—seest thou!—for the fail
+	Of any point in't shall not only be
+	Death to thyself, but to thy lewd-tongu'd wife,
+	Whom for this time we pardon. We enjoin thee,
+	As thou art liegeman to us, that thou carry
+	This female bastard hence; and that thou bear it
+	To some remote and desart place quite out
+	Of our dominions; and that there thou leave it,
+	Without more mercy, to its own protection,
+	And favour of the climate. As by strange fortune
+	It came to us, I do in justice charge thee,
+	On thy soul's peril and thy body's torture,
+	That thou commend it strangely to some place,
+	Where chance may nurse or end it. Take it up.
+<SPEECH 73><ACT 2><SCENE 3><33%>
+	No; I'll not rear
+	Another's issue.
+<SPEECH 74><ACT 2><SCENE 3><33%>
+	Twenty-three days
+	They have been absent: 'tis good speed; foretells
+	The great Apollo suddenly will have
+	The truth of this appear. Prepare you, lords;
+	Summon a session, that we may arraign
+	Our most disloyal lady; for, as she hath
+	Been publicly accus'd, so shall she have
+	A just and open trial. While she lives
+	My heart will be a burden to me. Leave me,
+	And think upon my bidding.
+<SPEECH 75><ACT 3><SCENE 2><34%>
+	This sessions, to our great grief we pronounce,
+	Even pushes 'gainst our heart: the party tried
+	The daughter of a king, our wife, and one
+	Of us too much belov'd. Let us be clear'd
+	Of being tyrannous, since we so openly
+	Proceed in justice, which shall have due course,
+	Even to the guilt or the purgation.
+	Produce the prisoner.
+<SPEECH 76><ACT 3><SCENE 2><34%>
+	Read the indictment.
+<SPEECH 77><ACT 3><SCENE 2><36%>
+	I ne'er heard yet
+	That any of these bolder vices wanted
+	Less impudence to gainsay what they did
+	Than to perform it first.
+<SPEECH 78><ACT 3><SCENE 2><36%>
+	You will not own it.
+<SPEECH 79><ACT 3><SCENE 2><36%>
+	You knew of his departure, as you know
+	What you have underta'en to do in's absence.
+<SPEECH 80><ACT 3><SCENE 2><37%>
+	Your actions are my dreams:
+	You had a bastard by Polixenes,
+	And I but dream'd it. As you were past all shame,—
+	Those of your fact are so,—so past all truth:
+	Which to deny concerns more than avails; for as
+	Thy brat hath been cast out, like to itself,
+	No father owning it,—which is, indeed,
+	More criminal in thee than it,—so thou
+	Shalt feel our justice, in whose easiest passage
+	Look for no less than death.
+<SPEECH 81><ACT 3><SCENE 2><38%>
+	Break up the seals, and read.
+<SPEECH 82><ACT 3><SCENE 2><38%>
+	Hast thou read truth?
+<SPEECH 83><ACT 3><SCENE 2><38%>
+	There is no truth at all i' the oracle:
+	The sessions shall proceed: this is mere falsehood.
+<SPEECH 84><ACT 3><SCENE 2><39%>
+	What is the business?
+<SPEECH 85><ACT 3><SCENE 2><39%>
+	How! gone!
+<SPEECH 86><ACT 3><SCENE 2><39%>
+	Apollo's angry; and the heavens themselves
+	Do strike at my injustice.
+	How now, there!
+<SPEECH 87><ACT 3><SCENE 2><39%>
+	Take her hence:
+	Her heart is but o'ercharg'd; she will recover:
+	I have too much believ'd mine own suspicion:
+	Beseech you, tenderly apply to her
+	Some remedies for life.—
+	Apollo, pardon
+	My great profaneness 'gainst thine oracle!
+	I'll reconcile me to Polixenes,
+	New woo my queen, recall the good Camillo,
+	Whom I proclaim a man of truth, of mercy;
+	For, being transported by my jealousies
+	To bloody thoughts and to revenge, I chose
+	Camillo for the minister to poison
+	My friend Polixenes: which had been done,
+	But that the good mind of Camillo tardied
+	My swift command; though I with death and with
+	Reward did threaten and encourage him,
+	Not doing it, and being done: he, most humane
+	And fill'd with honour, to my kingly guest
+	Unclasp'd my practice, quit his fortunes here,
+	Which you knew great, and to the certain hazard
+	Of all incertainties himself commended,
+	No richer than his honour: how he glisters
+	Thorough my rust! and how his piety
+	Does my deeds make the blacker!
+<SPEECH 88><ACT 3><SCENE 2><41%>
+	Go on, go on;
+	Thou canst not speak too much: I have deserv'd
+	All tongues to talk their bitterest.
+<SPEECH 89><ACT 3><SCENE 2><41%>
+	Thou didst speak but well,
+	When most the truth, which I receive much better
+	Than to be pitied of thee. Prithee, bring me
+	To the dead bodies of my queen and son:
+	One grave shall be for both: upon them shall
+	The causes of their death appear, unto
+	Our shame perpetual. Once a day I'll visit
+	The chapel where they lie, and tears shed there
+	Shall be my recreation: so long as nature
+	Will bear up with this exercise, so long
+	I daily vow to use it. Come and lead me
+	Unto these sorrows.
+<SPEECH 90><ACT 5><SCENE 1><81%>
+	Whilst I remember
+	Her and her virtues, I cannot forget
+	My blemishes in them, and so still think of
+	The wrong I did myself; which was so much,
+	That heirless it hath made my kingdom, and
+	Destroy'd the sweet'st companion that e'er man
+	Bred his hopes out of.
+<SPEECH 91><ACT 5><SCENE 1><82%>
+	I think so. Kill'd!
+	She I kill'd! I did so; but thou strik'st me
+	Sorely to say I did: it is as bitter
+	Upon thy tongue as in my thought. Now, good now
+	Say so but seldom.
+<SPEECH 92><ACT 5><SCENE 1><83%>
+	Good Paulina,
+	Who hast the memory of Hermione,
+	I know, in honour; O! that ever I
+	Had squar'd me to thy counsel! then, even now,
+	I might have look'd upon my queen's full eyes,
+	Have taken treasure from her lips,—
+<SPEECH 93><ACT 5><SCENE 1><83%>
+	Thou speak'st truth.
+	No more such wives; therefore, no wife: one worse,
+	And better us'd, would make her sainted spirit
+	Again possess her corpse and on this stage,—
+	Where we're offenders now,—appear soul-vex'd,
+	And begin, 'Why to me?'
+<SPEECH 94><ACT 5><SCENE 1><83%>
+	She had; and would incense me
+	To murder her I married.
+<SPEECH 95><ACT 5><SCENE 1><83%>
+	Stars, stars!
+	And all eyes else dead coals. Fear thou no wife;
+	I'll have no wife, Paulina.
+<SPEECH 96><ACT 5><SCENE 1><83%>
+	Never, Paulina: so be bless'd my spirit!
+<SPEECH 97><ACT 5><SCENE 1><84%>
+	My true Paulina,
+	We shall not marry till thou bidd'st us.
+<SPEECH 98><ACT 5><SCENE 1><84%>
+	What with him? he comes not
+	Like to his father's greatness; his approach,
+	So out of circumstance and sudden, tells us
+	'Tis not a visitation fram'd, but forc'd
+	By need and accident. What train?
+<SPEECH 99><ACT 5><SCENE 1><84%>
+	His princess, say you, with him?
+<SPEECH 100><ACT 5><SCENE 1><85%>
+	Go, Cleomenes;
+	Yourself, assisted with your honour'd friends,
+	Bring them to our embracement. Still 'tis strange,
+	He thus should steal upon us.
+<SPEECH 101><ACT 5><SCENE 1><85%>
+	Prithee, no more: cease! thou know'st
+	He dies to me again when talk'd of: sure,
+	When I shall see this gentleman, thy speeches
+	Will bring me to consider that which may
+	Unfurnish me of reason. They are come.
+	Your mother was most true to wedlock, prince;
+	For she did print your royal father off,
+	Conceiving you. Were I but twenty-one,
+	Your father's image is so hit in you,
+	His very air, that I should call you brother,
+	As I did him; and speak of something wildly
+	By us perform'd before. Most dearly welcome!
+	And you, fair princess,—goddess! O, alas!
+	I lost a couple, that 'twixt heaven and earth
+	Might thus have stood begetting wonder as
+	You, gracious couple, do: and then I lost—
+	All mine own folly—the society,
+	Amity too, of your brave father, whom,
+	Though bearing misery, I desire my life
+	Once more to look on him.
+<SPEECH 102><ACT 5><SCENE 1><86%>
+	O, my brother!—
+	Good gentleman,—the wrongs I have done thee stir
+	Afresh within me, and these thy offices
+	So rarely kind, are as interpreters
+	Of my behind-hand slackness! Welcome hither,
+	As is the spring to the earth. And hath he too
+	Expos'd this paragon to the fearful usage—
+	At least ungentle—of the dreadful Neptune,
+	To greet a man not worth her pains, much less
+	The adventure of her person?
+<SPEECH 103><ACT 5><SCENE 1><86%>
+	Where the war-like Smalus,
+	That noble honour'd lord, is fear'd and lov'd?
+<SPEECH 104><ACT 5><SCENE 1><87%>
+	The blessed gods
+	Purge all infection from our air whilst you
+	Do climate here! You have a holy father,
+	A graceful gentleman; against whose person,
+	So sacred as it is, I have done sin:
+	For which the heavens, taking angry note,
+	Have left me issueless; and your father's bless'd—
+	As he from heaven merits it—with you,
+	Worthy his goodness. What might I have been,
+	Might I a son and daughter now have look'd on,
+	Such goodly things as you!
+<SPEECH 105><ACT 5><SCENE 1><87%>
+	Where's Bohemia? speak.
+<SPEECH 106><ACT 5><SCENE 1><88%>
+	Who? Camillo?
+<SPEECH 107><ACT 5><SCENE 1><88%>
+	You are married?
+<SPEECH 108><ACT 5><SCENE 1><88%>
+	My lord,
+	Is this the daughter of a king?
+<SPEECH 109><ACT 5><SCENE 1><88%>
+	That 'once,' I see, by your good father's speed,
+	Will come on very slowly. I am sorry,
+	Most sorry, you have broken from his liking
+	Where you were tied in duty; and as sorry
+	Your choice is not so rich in worth as beauty,
+	That you might well enjoy her.
+<SPEECH 110><ACT 5><SCENE 1><88%>
+	Would he do so, I'd beg your precious mistress,
+	Which he counts but a trifle.
+<SPEECH 111><ACT 5><SCENE 1><89%>
+	I thought of her,
+	Even in these looks I made. <STAGE DIR>
+	</STAGE DIR> But your petition
+	Is yet unanswer'd. I will to your father:
+	Your honour not o'erthrown by your desires,
+	I am friend to them and you; upon which errand
+	I now go toward him. Therefore follow me,
+	And mark what way I make: come, good my lord.
+<SPEECH 112><ACT 5><SCENE 3><95%>
+	O grave and good Paulina, the great comfort
+	That I have had of thee!
+<SPEECH 113><ACT 5><SCENE 3><95%>
+	O Paulina!
+	We honour you with trouble: but we came
+	To see the statue of our queen: your gallery
+	Have we pass'd through, not without much content
+	In many singularities, but we saw not
+	That which my daughter came to look upon,
+	The statue of her mother.
+<SPEECH 114><ACT 5><SCENE 3><96%>
+	Her natural posture!
+	Chide me, dear stone, that I may say, indeed
+	Thou art Hermione; or rather, thou art she
+	In thy not chiding, for she was as tender
+	As infancy and grace. But yet, Paulina,
+	Hermione was not so much wrinkled; nothing
+	So aged as this seems.
+<SPEECH 115><ACT 5><SCENE 3><96%>
+	As now she might have done,
+	So much to my good comfort, as it is
+	Now piercing to my soul. O! thus she stood,
+	Even with such life of majesty,—warm life,
+	As now it coldly stands,—when first I woo'd her.
+	I am asham'd: does not the stone rebuke me
+	For being more stone than it? O, royal piece!
+	There's magic in thy majesty, which has
+	My evils conjur'd to remembrance, and
+	From thy admiring daughter took the spirits,
+	Standing like stone with thee.
+<SPEECH 116><ACT 5><SCENE 3><97%>
+	Do not draw the curtain.
+<SPEECH 117><ACT 5><SCENE 3><97%>
+	Let be, let be!
+	Would I were dead, but that, methinks, already—
+	What was he that did make it? See, my lord,
+	Would you not deem it breath'd, and that those veins
+	Did verily bear blood?
+<SPEECH 118><ACT 5><SCENE 3><97%>
+	The fixure of her eye has motion in't,
+	As we are mock'd with art.
+<SPEECH 119><ACT 5><SCENE 3><97%>
+	O sweet Paulina!
+	Make me to think so twenty years together:
+	No settled senses of the world can match
+	The pleasure of that madness. Let't alone.
+<SPEECH 120><ACT 5><SCENE 3><97%>
+	Do, Paulina;
+	For this affliction has a taste as sweet
+	As any cordial comfort. Still, methinks,
+	There is an air comes from her: what fine chisel
+	Could ever yet cut breath? Let no man mock me,
+	For I will kiss her.
+<SPEECH 121><ACT 5><SCENE 3><98%>
+	No, not these twenty years.
+<SPEECH 122><ACT 5><SCENE 3><98%>
+	What you can make her do,
+	I am content to look on: what to speak,
+	I am content to hear; for 'tis as easy
+	To make her speak as move.
+<SPEECH 123><ACT 5><SCENE 3><98%>
+	Proceed:
+	No foot shall stir.
+<SPEECH 124><ACT 5><SCENE 3><98%>
+	</STAGE DIR> O! she's warm.
+	If this be magic, let it be an art
+	Lawful as eating.
+<SPEECH 125><ACT 5><SCENE 3><99%>
+	O! peace, Paulina.
+	Thou shouldst a husband take by my consent,
+	As I by thine a wife: this is a match,
+	And made between's by vows. Thou hast found mine;
+	But how, is to be question'd; for I saw her,
+	As I thought dead, and have in vain said many
+	A prayer upon her grave. I'll not seek far,—
+	For him, I partly know his mind,—to find thee
+	An honourable husband. Come, Camillo,
+	And take her by the hand; whose worth and honesty
+	Is richly noted, and here justified
+	By us, a pair of kings. Let's from this place.
+	What! look upon my brother: both your pardons,
+	That e'er I put between your holy looks
+	My ill suspicion. This' your son-in-law,
+	And son unto the king,—whom heavens directing,
+	Is troth-plight to your daughter. Good Paulina,
+	Lead us from hence, where we may leisurely
+	Each one demand and answer to his part
+	Perform'd in this wide gap of time since first
+	We were dissever'd: hastily lead away.

@@ -1,0 +1,145 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Tush! Never tell me; I take it much unkindly
+	That thou, Iago, who hast had my purse
+	As if the strings were thine, shouldst know of this.
+<SPEECH 2><ACT 1><SCENE 1><0%>
+	Thou told'st me thou didst hold him in thy hate.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	By heaven, I rather would have been his hangman.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	I would not follow him then.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	What a full fortune does the thick-lips owe,
+	If he can carry 't thus!
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Here is her father's house; I'll call aloud.
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	What, ho! Brabantio! Signior Brabantio, ho!
+<SPEECH 8><ACT 1><SCENE 1><3%>
+	Signior, is all your family within?
+<SPEECH 9><ACT 1><SCENE 1><3%>
+	Most reverend signior, do you know my voice?
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	My name is Roderigo.
+<SPEECH 11><ACT 1><SCENE 1><3%>
+	Sir, sir, sir!
+<SPEECH 12><ACT 1><SCENE 1><3%>
+	Patience, good sir.
+<SPEECH 13><ACT 1><SCENE 1><3%>
+	Most grave Brabantio,
+	In simple and pure soul I come to you.
+<SPEECH 14><ACT 1><SCENE 1><4%>
+	Sir, I will answer any thing. But, I beseech you,
+	If 't be your pleasure and most wise consent,—
+	As partly, I find, it is,—that your fair daughter,
+	At this odd-even and dull-watch o' the night,
+	Transported with no worse nor better guard
+	But with a knave of common hire, a gondolier,
+	To the gross clasps of a lascivious Moor,—
+	If this be known to you, and your allowance,
+	We then have done you bold and saucy wrongs;
+	But if you know not this, my manners tell me
+	We have your wrong rebuke. Do not believe,
+	That, from the sense of all civility,
+	I thus would play and trifle with your reverence:
+	Your daughter, if you have not given her leave,
+	I say again, hath made a gross revolt;
+	Tying her duty, beauty, wit and fortunes
+	In an extravagant and wheeling stranger
+	Of here and every where. Straight satisfy yourself:
+	If she be in her chamber or your house,
+	Let loose on me the justice of the state
+	For thus deluding you.
+<SPEECH 15><ACT 1><SCENE 1><5%>
+	Truly, I think they are.
+<SPEECH 16><ACT 1><SCENE 1><5%>
+	Yes, sir, I have indeed.
+<SPEECH 17><ACT 1><SCENE 1><6%>
+	I think I can discover him, if you please
+	To get good guard and go along with me.
+<SPEECH 18><ACT 1><SCENE 2><8%>
+	Signior, it is the Moor.
+<SPEECH 19><ACT 1><SCENE 3><18%>
+	Iago!
+<SPEECH 20><ACT 1><SCENE 3><18%>
+	What will I do, think'st thou?
+<SPEECH 21><ACT 1><SCENE 3><18%>
+	I will incontinently drown myself.
+<SPEECH 22><ACT 1><SCENE 3><18%>
+	It is silliness to live when to live is torment; and then have we a prescription to die when death is our physician.
+<SPEECH 23><ACT 1><SCENE 3><18%>
+	What should I do? I confess it is my shame to be so fond; but it is not in my virtue to amend it.
+<SPEECH 24><ACT 1><SCENE 3><19%>
+	It cannot be.
+<SPEECH 25><ACT 1><SCENE 3><20%>
+	Wilt thou be fast to my hopes, if I depend on the issue?
+<SPEECH 26><ACT 1><SCENE 3><20%>
+	Where shall we meet i' the morning?
+<SPEECH 27><ACT 1><SCENE 3><20%>
+	I'll be with thee betimes.
+<SPEECH 28><ACT 1><SCENE 3><20%>
+	What say you?
+<SPEECH 29><ACT 1><SCENE 3><20%>
+	I am changed. I'll sell all my land.
+<SPEECH 30><ACT 2><SCENE 1><28%>
+	With him! why, 'tis not possible.
+<SPEECH 31><ACT 2><SCENE 1><29%>
+	I cannot believe that in her; she is full of most blessed condition.
+<SPEECH 32><ACT 2><SCENE 1><29%>
+	Yes, that I did; but that was but courtesy.
+<SPEECH 33><ACT 2><SCENE 1><29%>
+	Well.
+<SPEECH 34><ACT 2><SCENE 1><30%>
+	I will do this, if I can bring it to any opportunity.
+<SPEECH 35><ACT 2><SCENE 1><30%>
+	Adieu.
+<SPEECH 36><ACT 2><SCENE 3><35%>
+	Beat me!
+<SPEECH 37><ACT 2><SCENE 3><41%>
+	I do follow here in the chase, not like a hound that hunts, but one that fills up the cry. My money is almost spent; I have been to-night exceedingly well cudgelled; and I think the issue will be, I shall have so much experience for my pains; and so, with no money at all and a little more wit, return again to Venice.
+<SPEECH 38><ACT 4><SCENE 2><79%>
+	I do not find that thou dealest justly with me.
+<SPEECH 39><ACT 4><SCENE 2><79%>
+	Every day thou daffest me with some device, Iago; and rather, as it seems to me now, keepest from me all conveniency, than suppliest me with the least advantage of hope. I will indeed no longer endure it, nor am I yet persuaded to put up in peace what already I have foolishly suffered.
+<SPEECH 40><ACT 4><SCENE 2><79%>
+	Faith, I have heard too much, for your words and performances are no kin together.
+<SPEECH 41><ACT 4><SCENE 2><79%>
+	With nought but truth. I have wasted myself out of my means. The jewels you have had from me to deliver to Desdemona would half have corrupted a votarist; you have told me she has received them, and returned me expectations and comforts of sudden respect and acquaintance, but I find none.
+<SPEECH 42><ACT 4><SCENE 2><79%>
+	Very well! go to! I cannot go to, man; nor 'tis not very well: by this hand, I say, it is very scurvy, and begin to find myself fobbed in it.
+<SPEECH 43><ACT 4><SCENE 2><79%>
+	I tell you 'tis not very well. I will make myself known to Desdemona; if she will return me my jewels, I will give over my suit and repent my unlawful solicitation; if not, assure yourself I will seek satisfaction of you.
+<SPEECH 44><ACT 4><SCENE 2><79%>
+	Ay, and said nothing, but what I protest intendment of doing.
+<SPEECH 45><ACT 4><SCENE 2><80%>
+	It hath not appeared.
+<SPEECH 46><ACT 4><SCENE 2><80%>
+	Well, what is it? is it within reason and compass?
+<SPEECH 47><ACT 4><SCENE 2><80%>
+	Is that true? why, then Othello and Desdemona return again to Venice.
+<SPEECH 48><ACT 4><SCENE 2><80%>
+	How do you mean, removing of him?
+<SPEECH 49><ACT 4><SCENE 2><80%>
+	And that you would have me do?
+<SPEECH 50><ACT 4><SCENE 2><81%>
+	I will hear further reason for this.
+<SPEECH 51><ACT 5><SCENE 1><84%>
+	Be near at hand; I may miscarry in 't.
+<SPEECH 52><ACT 5><SCENE 1><84%>
+	I have no great devotion to the deed;
+	And yet he has given me satisfying reasons:
+	'Tis but a man gone: forth, my sword; he dies.
+<SPEECH 53><ACT 5><SCENE 1><85%>
+	I know his gait; 'tis he. Villain, thou diest!
+<SPEECH 54><ACT 5><SCENE 1><85%>
+	O! I am slain.
+<SPEECH 55><ACT 5><SCENE 1><85%>
+	O! villain that I am!
+<SPEECH 56><ACT 5><SCENE 1><86%>
+	O wretched villain!
+<SPEECH 57><ACT 5><SCENE 1><86%>
+	Nobody come? then shall I bleed to death.
+<SPEECH 58><ACT 5><SCENE 1><86%>
+	O! help me here.
+<SPEECH 59><ACT 5><SCENE 1><86%>
+	O damn'd Iago! O inhuman dog!

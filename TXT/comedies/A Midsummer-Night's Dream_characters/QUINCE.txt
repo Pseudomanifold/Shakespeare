@@ -1,0 +1,77 @@
+<SPEECH 1><ACT 1><SCENE 2><12%>
+	Is all our company here?
+<SPEECH 2><ACT 1><SCENE 2><12%>
+	Here is the scroll of every man's name, which is thought fit, through all Athens, to play in our interlude before the duke and the duchess on his wedding-day at night.
+<SPEECH 3><ACT 1><SCENE 2><13%>
+	Marry, our play is, The most lamentable comedy, and most cruel death of Pyramus and Thisby.
+<SPEECH 4><ACT 1><SCENE 2><13%>
+	Answer as I call you. Nick Bottom, the weaver.
+<SPEECH 5><ACT 1><SCENE 2><13%>
+	You, Nick Bottom, are set down for Pyramus.
+<SPEECH 6><ACT 1><SCENE 2><13%>
+	A lover, that kills himself most gallantly for love.
+<SPEECH 7><ACT 1><SCENE 2><14%>
+	Francis Flute, the bellows-mender.
+<SPEECH 8><ACT 1><SCENE 2><14%>
+	You must take Thisby on you.
+<SPEECH 9><ACT 1><SCENE 2><14%>
+	It is the lady that Pyramus must love.
+<SPEECH 10><ACT 1><SCENE 2><14%>
+	That's all one: you shall play it in a mask, and you may speak as small as you will.
+<SPEECH 11><ACT 1><SCENE 2><14%>
+	No, no; you must play Pyramus; and Flute, you Thisby.
+<SPEECH 12><ACT 1><SCENE 2><14%>
+	Robin Starveling, the tailor.
+<SPEECH 13><ACT 1><SCENE 2><14%>
+	Robin Starveling, you must play Thisby's mother. Tom Snout, the tinker.
+<SPEECH 14><ACT 1><SCENE 2><15%>
+	You, Pyramus's father; myself, Thisby's father; Snug, the joiner, you the lion's part: and, I hope, here is a play fitted.
+<SPEECH 15><ACT 1><SCENE 2><15%>
+	You may do it extempore, for it is nothing but roaring.
+<SPEECH 16><ACT 1><SCENE 2><15%>
+	An you should do it too terribly, you would fright the duchess and the ladies, that they would shriek; and that were enough to hang us all.
+<SPEECH 17><ACT 1><SCENE 2><15%>
+	You can play no part but Pyramus; for Pyramus is a sweet-faced man; a proper man, as one shall see in a summer's day; a most lovely, gentleman-like man; therefore, you must needs play Pyramus.
+<SPEECH 18><ACT 1><SCENE 2><16%>
+	Why, what you will.
+<SPEECH 19><ACT 1><SCENE 2><16%>
+	Some of your French crowns have no hair at all, and then you will play bare-faced. But masters, here are your parts; and I am to entreat you, request you, and desire you, to con them by to-morrow night, and meet me in the palace wood, a mile without the town, by moonlight: there will we rehearse; for if we meet in the city, we shall be dogged with company, and our devices known. In the meantime I will draw a bill of properties, such as our play wants. I pray you, fail me not.
+<SPEECH 20><ACT 1><SCENE 2><17%>
+	At the duke's oak we meet.
+<SPEECH 21><ACT 3><SCENE 1><37%>
+	Pat, pat; and here's a marvellous convenient place for our rehearsal. This green plot shall be our stage, this hawthorn-brake our tiring-house; and we will do it in action as we will do it before the duke.
+<SPEECH 22><ACT 3><SCENE 1><37%>
+	What sayst thou, bully Bottom?
+<SPEECH 23><ACT 3><SCENE 1><37%>
+	Well, we will have such a prologue, and it shall be written in eight and six.
+<SPEECH 24><ACT 3><SCENE 1><38%>
+	Well, it shall be so. But there is two hard things, that is, to bring the moonlight into a chamber; for, you know, Pyramus and Thisby meet by moonlight.
+<SPEECH 25><ACT 3><SCENE 1><39%>
+	Yes, it doth shine that night.
+<SPEECH 26><ACT 3><SCENE 1><39%>
+	Ay; or else one must come in with a bush of thorns and a lanthorn, and say he comes to disfigure, or to present, the person of Moonshine. Then, there is another thing: we must have a wall in the great chamber; for Pyramus and Thisby, says the story, did talk through the chink of a wall.
+<SPEECH 27><ACT 3><SCENE 1><40%>
+	If that may be, than all is well. Come, sit down, every mother's son, and rehearse your parts. Pyramus, you begin: when you have spoken your speech, enter into that brake; and so every one according to his cue.
+<SPEECH 28><ACT 3><SCENE 1><40%>
+	Speak, Pyramus.—Thisby, stand forth.
+<SPEECH 29><ACT 3><SCENE 1><40%>
+	Odorous, odorous.
+<SPEECH 30><ACT 3><SCENE 1><40%>
+	Ay, marry, must you; for you must understand, he goes but to see a noise that he heard, and is to come again.
+<SPEECH 31><ACT 3><SCENE 1><41%>
+	'Ninus' tomb,' man. Why, you must not speak that yet; that you answer to Pyramus: you speak all your part at once, cues and all. Pyramus, enter: your cue is past; it is 'never tire.'
+<SPEECH 32><ACT 3><SCENE 1><41%>
+	O monstrous! O strange! we are haunted.
+	Pray, masters! fly, masters!—Help!
+<SPEECH 33><ACT 3><SCENE 1><42%>
+	Bless thee, Bottom! bless thee! thou art translated.
+<SPEECH 34><ACT 4><SCENE 2><79%>
+	Have you sent to Bottom's house? is he come home yet?
+<SPEECH 35><ACT 4><SCENE 2><79%>
+	It is not possible: you have not a man in all Athens able to discharge Pyramus but he.
+<SPEECH 36><ACT 4><SCENE 2><79%>
+	Yea, and the best person too; and he is a very paramour for a sweet voice.
+<SPEECH 37><ACT 4><SCENE 2><80%>
+	Bottom! O most courageous day! O most happy hour!
+<SPEECH 38><ACT 4><SCENE 2><80%>
+	Let us hear, sweet Bottom.

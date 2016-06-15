@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 1><SCENE 4><15%>
+	I'll go watch.
+<SPEECH 2><ACT 1><SCENE 4><16%>
+	Out, alas! here comes my master.
+<SPEECH 3><ACT 1><SCENE 4><17%>
+	Here, sir.
+<SPEECH 4><ACT 1><SCENE 4><17%>
+	'Tis ready, sir, here in the porch.
+<SPEECH 5><ACT 2><SCENE 3><39%>
+	Sir?
+<SPEECH 6><ACT 2><SCENE 3><39%>
+	'Tis past the hour, sir, that Sir Hugh promised to meet.
+<SPEECH 7><ACT 2><SCENE 3><39%>
+	He is wise, sir; he knew your worship would kill him, if he came.
+<SPEECH 8><ACT 2><SCENE 3><39%>
+	Alas, sir! I cannot fence.
+<SPEECH 9><ACT 2><SCENE 3><39%>
+	Forbear; here's company.

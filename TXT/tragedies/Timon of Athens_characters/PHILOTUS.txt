@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 3><SCENE 4><44%>
+	Good day at once.
+<SPEECH 2><ACT 3><SCENE 4><44%>
+	Labouring for nine.
+<SPEECH 3><ACT 3><SCENE 4><44%>
+	Is not my lord seen yet?
+<SPEECH 4><ACT 3><SCENE 4><44%>
+	I wonder on 't; he was wont to shine at seven.
+<SPEECH 5><ACT 3><SCENE 4><45%>
+	I am of your fear for that.
+<SPEECH 6><ACT 3><SCENE 4><48%>
+	All our bills.

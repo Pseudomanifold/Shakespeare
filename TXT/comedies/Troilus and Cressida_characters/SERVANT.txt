@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 3><SCENE 1><41%>
+	Ay, sir, when he goes before me.
+<SPEECH 2><ACT 3><SCENE 1><41%>
+	Sir, I do depend upon the Lord.
+<SPEECH 3><ACT 3><SCENE 1><41%>
+	The Lord be praised!
+<SPEECH 4><ACT 3><SCENE 1><41%>
+	Faith, sir, superficially.
+<SPEECH 5><ACT 3><SCENE 1><41%>
+	I hope I shall know your honour better.
+<SPEECH 6><ACT 3><SCENE 1><41%>
+	You are in the state of grace.
+<SPEECH 7><ACT 3><SCENE 1><41%>
+	I do but partly know, sir: it is music in parts.
+<SPEECH 8><ACT 3><SCENE 1><41%>
+	Wholly, sir.
+<SPEECH 9><ACT 3><SCENE 1><41%>
+	To the hearers, sir.
+<SPEECH 10><ACT 3><SCENE 1><41%>
+	At mine, sir, and theirs that love music.
+<SPEECH 11><ACT 3><SCENE 1><41%>
+	Who shall I command, sir?
+<SPEECH 12><ACT 3><SCENE 1><41%>
+	That's to't, indeed, sir. Marry, sir, at the request of Paris my lord, who is there in person; with him the mortal Venus, the heartblood of beauty, love's invisible soul.
+<SPEECH 13><ACT 3><SCENE 1><42%>
+	No, sir, Helen: could you not find out that by her attributes?
+<SPEECH 14><ACT 3><SCENE 1><42%>
+	Sodden business: there's a stewed phrase, indeed.
+<SPEECH 15><ACT 5><SCENE 5><93%>
+	I go, my lord.

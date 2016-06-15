@@ -1,0 +1,151 @@
+<SPEECH 1><ACT 4><SCENE 2><50%>
+	</STAGE DIR> If the springe hold, the cock's mine.
+<SPEECH 2><ACT 4><SCENE 2><51%>
+	O! that ever I was born!
+<SPEECH 3><ACT 4><SCENE 2><51%>
+	O! help me, help me! pluck but off these rags, and then death, death!
+<SPEECH 4><ACT 4><SCENE 2><51%>
+	O, sir! the loathsomeness of them offends me more than the stripes I have received, which are mighty ones and millions.
+<SPEECH 5><ACT 4><SCENE 2><51%>
+	I am robbed, sir, and beaten; my money and apparel ta'en from me, and these detestable things put upon me.
+<SPEECH 6><ACT 4><SCENE 2><51%>
+	A footman, sweet sir, a footman.
+<SPEECH 7><ACT 4><SCENE 2><52%>
+	O! good sir, tenderly, O!
+<SPEECH 8><ACT 4><SCENE 2><52%>
+	O! good sir; softly, good sir! I fear, sir, my shoulder-blade is out.
+<SPEECH 9><ACT 4><SCENE 2><52%>
+	Softly, dear sir; <STAGE DIR>
+	</STAGE DIR> good sir, softly. You ha' done me a charitable office.
+<SPEECH 10><ACT 4><SCENE 2><52%>
+	No, good sweet sir: no, I beseech you, sir. I have a kinsman not past three-quarters of a mile hence, unto whom I was going: I shall there have money, or anything I want: offer me no money, I pray you! that kills my heart.
+<SPEECH 11><ACT 4><SCENE 2><52%>
+	A fellow, sir, that I have known to go about with trol-my-dames: I knew him once a servant of the prince. I cannot tell, good sir, for which of his virtues it was, but he was certainly whipped out of the court.
+<SPEECH 12><ACT 4><SCENE 2><52%>
+	Vices, I would say, sir. I know this man well: he hath been since an ape-bearer; then a process-server, a bailiff; then he compassed a motion of the Prodigal Son, and married a tinker's wife within a mile where my land and living lies; and having flown over many knavish professions, he settled only in rogue: some call him Autolycus.
+<SPEECH 13><ACT 4><SCENE 2><53%>
+	Very true, sir; he, sir, he: that's the rogue that put me into this apparel.
+<SPEECH 14><ACT 4><SCENE 2><53%>
+	I must confess to you, sir, I am no fighter: I am false of heart that way, and that he knew, I warrant him.
+<SPEECH 15><ACT 4><SCENE 2><53%>
+	Sweet sir, much better than I was: I can stand and walk. I will even take my leave of you, and pace softly towards my kinsman's.
+<SPEECH 16><ACT 4><SCENE 2><53%>
+	No, good-faced sir; no, sweet sir.
+<SPEECH 17><ACT 4><SCENE 2><53%>
+	Prosper you, sweet sir!—<STAGE DIR>
+	</STAGE DIR> Your purse is not hot enough to purchase your spice. I'll be with you at your sheep-shearing too. If I make not this cheat bring out another, and the shearers prove sheep, let me be unrolled, and my name put in the book of virtue.
+	Jog on, jog on, the footpath way,
+	And merrily hent the stile-a:
+	A merry heart goes all the day,
+	Your sad tares in a mile-a.
+<SPEECH 18><ACT 4><SCENE 3><61%>
+	And indeed, sir, there are cozeners abroad; therefore it behoves men to be wary.
+<SPEECH 19><ACT 4><SCENE 3><62%>
+	I hope so, sir; for I have about me many parcels of charge.
+<SPEECH 20><ACT 4><SCENE 3><62%>
+	Here's one to a very doleful tune, how a usurer's wife was brought to bed of twenty money-bags at a burden; and how she longed to eat adders' heads and toads carbonadoed.
+<SPEECH 21><ACT 4><SCENE 3><62%>
+	Very true, and but a month old.
+<SPEECH 22><ACT 4><SCENE 3><62%>
+	Here's the midwife's name to't, one Mistress Taleporter, and five or six honest wives' that were present. Why should I carry lies abroad?
+<SPEECH 23><ACT 4><SCENE 3><62%>
+	Here's another ballad of a fish that appeared upon the coast on Wednesday the fourscore of April, forty thousand fathom above water, and sung this ballad against the hard hearts of maids: it was thought she was a woman and was turned into a cold fish for she would not exchange flesh with one that loved her. The ballad is very pitiful and as true.
+<SPEECH 24><ACT 4><SCENE 3><62%>
+	Five justices' hands at it, and witnesses more than my pack will hold.
+<SPEECH 25><ACT 4><SCENE 3><62%>
+	This is a merry ballad, but a very pretty one.
+<SPEECH 26><ACT 4><SCENE 3><63%>
+	Why, this is a passing merry one, and goes to the tune of 'Two maids wooing a man:' there's scarce a maid westward but she sings it: 'tis in request, I can tell you.
+<SPEECH 27><ACT 4><SCENE 3><63%>
+	I can bear my part; you must know 'tis my occupation: have at it with you.
+<SPEECH 28><ACT 4><SCENE 3><63%>
+	Get you hence, for I must go,
+	Where it fits not you to know.
+<SPEECH 29><ACT 4><SCENE 3><63%>
+	Neither.
+<SPEECH 30><ACT 4><SCENE 3><63%>
+	Neither.
+<SPEECH 31><ACT 4><SCENE 3><63%>
+	And you shall pay well for 'em.
+	Will you buy any tape,
+	Or lace for your cape,
+	My dainty duck, my dear-a?
+	Any silk, any thread,
+	Any toys for your head,
+	Of the new'st and fin'st, fin'st wear-a?
+	Come to the pedlar;
+	Money's a meddler,
+	That doth utter all men's ware-a.
+<SPEECH 32><ACT 4><SCENE 3><73%>
+	Ha, ha! what a fool Honesty is! and Trust, his sworn brother, a very simple gentleman! I have sold all my trumpery: not a counterfeit stone, not a riband, glass, pomander, brooch, table-book, ballad, knife, tape, glove, shoe-tie, bracelet, horn-ring, to keep my pack from fasting: they throng who should buy first, as if my trinkets had been hallowed and brought a benediction to the buyer: by which means I saw whose purse was best in picture; and what I saw, to my good use I remembered. My clown,—who wants but something to be a reasonable man,—grew so in love with the wenches' song that he would not stir his pettitoes till he had both tune and words; which so drew the rest of the herd to me that all their other senses stuck in ears: you might have pinched a placket, it was senseless; 'twas nothing to geld a codpiece of a purse; I would have filed keys off that hung in chains: no hearing, no feeling, but my sir's song, and admiring the nothing of it; so that, in this time of lethargy I picked and cut most of their festival purses; and had not the old man come in with a whoo-bub against his daughter and the king's son, and scared my choughs from the chaff, I had not left a purse alive in the whole army.
+<SPEECH 33><ACT 4><SCENE 3><74%>
+	</STAGE DIR> If they have overheard me now, why, hanging.
+<SPEECH 34><ACT 4><SCENE 3><74%>
+	I am a poor fellow, sir.
+<SPEECH 35><ACT 4><SCENE 3><74%>
+	I am a poor fellow, sir.—<STAGE DIR>
+	</STAGE DIR> I know ye well enough.
+<SPEECH 36><ACT 4><SCENE 3><74%>
+	Are you in earnest, sir? <STAGE DIR>
+	</STAGE DIR> I smell the trick on't.
+<SPEECH 37><ACT 4><SCENE 3><74%>
+	Indeed, I have had earnest; but I cannot with conscience take it.
+<SPEECH 38><ACT 4><SCENE 3><75%>
+	Adieu, sir.
+<SPEECH 39><ACT 4><SCENE 3><75%>
+	I understand the business; I hear it. To have an open ear, a quick eye, and a nimble hand, is necessary for a cut-purse: a good nose is requisite also, to smell out work for the other senses. I see this is the time that the unjust man doth thrive. What an exchange had this been without boot! what a boot is here with this exchange! Sure, the gods do this year connive at us, and we may do anything extempore. The prince himself is about a piece of iniquity; stealing away from his father with his clog at his heels. If I thought it were a piece of honesty to acquaint the king withal, I would not do't: I hold it the more knavery to conceal it, and therein am I constant to my profession. Aside, aside: here is more matter for a hot brain. Every lane's end, every shop, church, session, hanging, yields a careful man work.
+<SPEECH 40><ACT 4><SCENE 3><77%>
+	</STAGE DIR> Very wisely, puppies!
+<SPEECH 41><ACT 4><SCENE 3><77%>
+	</STAGE DIR> I know not what impediment this complaint may be to the flight of my master.
+<SPEECH 42><ACT 4><SCENE 3><77%>
+	</STAGE DIR> Though I am not naturally honest, I am so sometimes by chance: let me pocket up my pedlar's excrement. <span class="stage>[Takes off his false beard.] How now, rustics! whither are you bound?
+<SPEECH 43><ACT 4><SCENE 3><77%>
+	Your affairs there, what, with whom, the condition of that fardel, the place of your dwelling, your names, your ages, of what having, breeding, and anything that is fitting to be known, discover.
+<SPEECH 44><ACT 4><SCENE 3><77%>
+	A lie; you are rough and hairy. Let me have no lying; it becomes none but tradesmen, and they often give us soldiers the lie; but we pay them for it with stamped coin, not stabbing steel; therefore they do not give us the lie.
+<SPEECH 45><ACT 4><SCENE 3><77%>
+	Whether it like me or no, I am a courtier. Seest thou not the air of the court in these enfoldings? hath not my gait in it the measure of the court? receives not thy nose court-odour from me? reflect I not on thy baseness court-contempt? Think'st thou, for that I insinuate, or toaze from thee thy business, I am therefore no courtier? I am courtier, cap-a-pe, and one that will either push on or pluck back thy business there: whereupon I command thee to open thy affair.
+<SPEECH 46><ACT 4><SCENE 3><78%>
+	What advocate hast thou to him?
+<SPEECH 47><ACT 4><SCENE 3><78%>
+	How bless'd are we that are not simple men!
+	Yet nature might have made me as these are,
+	Therefore I'll not disdain.
+<SPEECH 48><ACT 4><SCENE 3><78%>
+	The fardel there? what's i' the fardel?
+	Wherefore that box?
+<SPEECH 49><ACT 4><SCENE 3><78%>
+	Age, thou hast lost thy labour.
+<SPEECH 50><ACT 4><SCENE 3><78%>
+	The king is not at the palace; he is gone aboard a new ship to purge melancholy and air himself: for, if thou be'st capable of things serious, thou must know the king is full of grief.
+<SPEECH 51><ACT 4><SCENE 3><79%>
+	If that shepherd be not now in hand-fast, let him fly: the curses he shall have, the torture he shall feel, will break the back of man, the heart of monster.
+<SPEECH 52><ACT 4><SCENE 3><79%>
+	Not he alone shall suffer what wit can make heavy and vengeance bitter; but those that are germane to him, though removed fifty times, shall all come under the hangman: which though it be great pity, yet it is necessary. An old sheep-whistling rogue, a ram-tender, to offer to have his daughter come into grace! Some say he shall be stoned; but that death is too soft for him, say I: draw our throne into a sheep cote! all deaths are too few, the sharpest too easy.
+<SPEECH 53><ACT 4><SCENE 3><79%>
+	He has a son, who shall be flayed alive; then 'nointed over with honey, set on the head of a wasp's nest; then stand till he be three quarters and a dram dead; then recovered again with aqua-vitæ or some other hot infusion; then, raw as he is, and in the hottest day prognostication proclaims, shall he be set against a brick-wall, the sun looking with a southward eye upon him, where he is to behold him with flies blown to death. But what talk we of these traitorly rascals, whose miseries are to be smiled at, their offences being so capital? Tell me,—for you seem to be honest plain men,—what you have to the king: being something gently considered, I'll bring you where he is aboard, tender your persons to his presence, whisper him in your behalfs; and if it be in man besides the king to effect your suits, here is a man shall do it.
+<SPEECH 54><ACT 4><SCENE 3><80%>
+	After I have done what I promised?
+<SPEECH 55><ACT 4><SCENE 3><80%>
+	Well, give me the moiety. Are you a party in this business?
+<SPEECH 56><ACT 4><SCENE 3><80%>
+	O! that's the case of the shepherd's son: hang him, he'll be made an example.
+<SPEECH 57><ACT 4><SCENE 3><80%>
+	I will trust you. Walk before toward the sea-side; go on the right hand, I will but look upon the hedge and follow you.
+<SPEECH 58><ACT 4><SCENE 3><81%>
+	If I had a mind to be honest I see Fortune would not suffer me: she drops booties in my mouth. I am courted now with a double occasion, gold, and a means to do the prince my master good; which who knows how that may turn back to my advancement? I will bring these two moles, these blind ones, aboard him: if he think it fit to shore them again, and that the complaint they have to the king concerns him nothing, let him call me rogue for being so far officious; for I am proof against that title and what shame else belongs to't. To him will I present them: there may be matter in it.
+<SPEECH 59><ACT 5><SCENE 2><89%>
+	Beseech you, sir, were you present at this relation?
+<SPEECH 60><ACT 5><SCENE 2><89%>
+	I would most gladly know the issue of it.
+<SPEECH 61><ACT 5><SCENE 2><93%>
+	Now, had I not the dash of my former life in me, would preferment drop on my head. I brought the old man and his son aboard the prince; told him I heard them talk of a fardel and I know not what; but he at that time, overfond of the shepherd's daughter,—so he then took her to be,—who began to be much sea-sick, and himself little better, extremity of weather continuing, this mystery remained undiscovered. But 'tis all one to me; for had I been the finder out of this secret, it would not have relished among my other discredits. Here come those I have done good to against my will, and already appearing in the blossoms of their fortune.
+<SPEECH 62><ACT 5><SCENE 2><93%>
+	I know you are now, sir, a gentleman born.
+<SPEECH 63><ACT 5><SCENE 2><94%>
+	I humbly beseech you, sir, to pardon me all the faults I have committed to your worship, and to give me your good report to the prince my master.
+<SPEECH 64><ACT 5><SCENE 2><94%>
+	Ay, an it like your good worship.
+<SPEECH 65><ACT 5><SCENE 2><94%>
+	I will prove so, sir, to my power.

@@ -1,0 +1,538 @@
+<SPEECH 1><ACT 1><SCENE 2><4%>
+	Thou art so fat-witted, with drinking of old sack, and unbuttoning thee after supper, and sleeping upon benches after noon, that thou hast forgotten to demand that truly which thou wouldst truly know. What a devil hast thou to do with the time of the day? unless hours were cups of sack, and minutes capons, and clocks the tongues of bawds, and dials the signs of leaping-houses, and the blessed sun himself a fair hot wench in flame-colour'd taffeta, I see no reason why thou shouldst be so superfluous to demand the time of the day.
+<SPEECH 2><ACT 1><SCENE 2><4%>
+	What! none?
+<SPEECH 3><ACT 1><SCENE 2><4%>
+	Well, how then? come, roundly, roundly.
+<SPEECH 4><ACT 1><SCENE 2><5%>
+	Thou sayest well, and it holds well too; for the fortune of us that are the moon's men doth ebb and flow like the sea, being governed as the sea is, by the moon. As for proof now: a purse of gold most resolutely snatched on Monday night and most dissolutely spent on Tuesday morning; got with swearing 'Lay by;' and spent with crying 'Bring in:' now in as low an ebb as the foot of the ladder, and by and by in as high a flow as the ridge of the gallows.
+<SPEECH 5><ACT 1><SCENE 2><5%>
+	As the honey of Hybla, my old lad of the castle. And is not a buff jerkin a most sweet robe of durance?
+<SPEECH 6><ACT 1><SCENE 2><5%>
+	Why, what a pox have I to do with my hostess of the tavern?
+<SPEECH 7><ACT 1><SCENE 2><5%>
+	Did I ever call for thee to pay thy part?
+<SPEECH 8><ACT 1><SCENE 2><5%>
+	Yea, and elsewhere, so far as my coin would stretch; and where it would not, I have used my credit.
+<SPEECH 9><ACT 1><SCENE 2><6%>
+	No; thou shalt.
+<SPEECH 10><ACT 1><SCENE 2><6%>
+	Thou judgest false already; I mean, thou shalt have the hanging of the thieves and so become a rare hangman.
+<SPEECH 11><ACT 1><SCENE 2><6%>
+	For obtaining of suits?
+<SPEECH 12><ACT 1><SCENE 2><6%>
+	Or an old lion, or a lover's lute.
+<SPEECH 13><ACT 1><SCENE 2><6%>
+	What sayest thou to a hare, or the melancholy of Moor-ditch?
+<SPEECH 14><ACT 1><SCENE 2><6%>
+	Thou didst well; for wisdom cries out in the streets, and no man regards it.
+<SPEECH 15><ACT 1><SCENE 2><7%>
+	Where shall we take a purse to-morrow, Jack?
+<SPEECH 16><ACT 1><SCENE 2><7%>
+	I see a good amendment of life in thee; from praying to purse-taking.
+<SPEECH 17><ACT 1><SCENE 2><7%>
+	Good morrow, Ned.
+<SPEECH 18><ACT 1><SCENE 2><7%>
+	Sir John stands to his word, the devil shall have his bargain; for he was never yet a breaker of proverbs: he will give the devil his due.
+<SPEECH 19><ACT 1><SCENE 2><8%>
+	Else he had been damned for cozening the devil.
+<SPEECH 20><ACT 1><SCENE 2><8%>
+	Who, I rob? I a thief? not I, by my faith.
+<SPEECH 21><ACT 1><SCENE 2><8%>
+	Well, then, once in my days I'll be a madcap.
+<SPEECH 22><ACT 1><SCENE 2><8%>
+	Well, come what will, I'll tarry at home.
+<SPEECH 23><ACT 1><SCENE 2><8%>
+	I care not.
+<SPEECH 24><ACT 1><SCENE 2><9%>
+	Farewell, thou latter spring! Farewell, All-hallown summer!
+<SPEECH 25><ACT 1><SCENE 2><9%>
+	But how shall we part with them in setting forth?
+<SPEECH 26><ACT 1><SCENE 2><9%>
+	Yea, but 'tis like that they will know us by our horses, by our habits, and by every other appointment, to be ourselves.
+<SPEECH 27><ACT 1><SCENE 2><9%>
+	Yea, but I doubt they will be too hard for us.
+<SPEECH 28><ACT 1><SCENE 2><10%>
+	Well, I'll go with thee: provide us all things necessary and meet me to-morrow night in Eastcheap; there I'll sup. Farewell.
+<SPEECH 29><ACT 1><SCENE 2><10%>
+	I know you all, and will awhile uphold
+	The unyok'd humour of your idleness:
+	Yet herein will I imitate the sun,
+	Who doth permit the base contagious clouds
+	To smother up his beauty from the world,
+	That when he please again to be himself,
+	Being wanted, he may be more wonder'd at,
+	By breaking through the foul and ugly mists
+	Of vapours that did seem to strangle him.
+	If all the year were playing holidays,
+	To sport would be as tedious as to work;
+	But when they seldom come, they wish'd for come,
+	And nothing pleaseth but rare accidents.
+	So, when this loose behaviour I throw off,
+	And pay the debt I never promised,
+	By how much better than my word I am
+	By so much shall I falsify men's hopes;
+	And like bright metal on a sullen ground,
+	My reformation, glittering o'er my fault,
+	Shall show more goodly and attract more eyes
+	Than that which hath no foil to set it off.
+	I'll so offend to make offence a skill;
+	Redeeming time when men think least I will.
+<SPEECH 30><ACT 2><SCENE 2><23%>
+	Stand close.
+<SPEECH 31><ACT 2><SCENE 2><23%>
+	Peace, ye fat-kidneyed rascal! What a brawling dost thou keep!
+<SPEECH 32><ACT 2><SCENE 2><23%>
+	He is walked up to the top of the hill: I'll go seek him.
+<SPEECH 33><ACT 2><SCENE 2><24%>
+	</STAGE DIR> Peace, ye fatguts! lie down: lay thine ear close to the ground, and list if thou canst hear the tread of travellers.
+<SPEECH 34><ACT 2><SCENE 2><25%>
+	Thou liest: thou art not colted; thou art uncolted.
+<SPEECH 35><ACT 2><SCENE 2><25%>
+	Out, you rogue! shall I be your ostler?
+<SPEECH 36><ACT 2><SCENE 2><25%>
+	Sirs, you four shall front them in the narrow lane; Ned Poins and I will walk lower: if they 'scape from your encounter then they light on us.
+<SPEECH 37><ACT 2><SCENE 2><25%>
+	What! a coward, Sir John Paunch?
+<SPEECH 38><ACT 2><SCENE 2><25%>
+	Well, we leave that to the proof.
+<SPEECH 39><ACT 2><SCENE 2><26%>
+	</STAGE DIR> Ned, where are our disguises?
+<SPEECH 40><ACT 2><SCENE 2><26%>
+	The thieves have bound the true men. Now could thou and I rob the thieves and go merrily to London, it would be argument for a week, laughter for a month, and a good jest for ever.
+<SPEECH 41><ACT 2><SCENE 2><27%>
+	Your money!
+<SPEECH 42><ACT 2><SCENE 2><27%>
+	Got with much ease. Now merrily to horse:
+	The thieves are scatter'd and possess'd with fear
+	So strongly that they dare not meet each other;
+	Each takes his fellow for an officer.
+	Away, good Ned. Falstaff sweats to death
+	And lards the lean earth as he walks along:
+	Were't not for laughing I should pity him.
+<SPEECH 43><ACT 2><SCENE 4><31%>
+	Ned, prithee, come out of that fat room, and lend me thy hand to laugh a little.
+<SPEECH 44><ACT 2><SCENE 4><31%>
+	With three or four loggerheads amongst three or four score hogsheads. I have sounded the very base string of humility. Sirrah, I am sworn brother to a leash of drawers, and can call them all by their christen names, as Tom, Dick, and Francis. They take it already upon their salvation, that though I be but Prince of Wales, yet I am the king of courtesy; and tell me flatly I am no proud Jack, like Falstaff, but a Corinthian, a lad of mettle, a good boy,—by the Lord, so they call me,—and when I am king of England, I shall command all the good lads in Eastcheap. They call drinking deep, dyeing scarlet; and when you breathe in your watering, they cry 'hem!' and bid you play it off. To conclude, I am so good a proficient in one quarter of an hour, that I can drink with any tinker in his own language during my life. I tell thee, Ned, thou hast lost much honour that thou wert not with me in this action. But, sweet Ned,—to sweeten which name of Ned, I give thee this pennyworth of sugar, clapped even now into my hand by an underskinker, one that never spake other English in his life than—'Eight shillings and sixpence,' and—'You are welcome,' with this shrill addition,—'Anon, anon, sir! Score a pint of bastard in the Half-moon,' or so. But, Ned, to drive away the time till Falstaff come, I prithee do thou stand in some by-room, while I question my puny drawer to what end he gave me the sugar; and do thou never leave calling 'Francis!' that his tale to me may be nothing but 'Anon.' Step aside, and I'll show thee a precedent.
+<SPEECH 45><ACT 2><SCENE 4><32%>
+	Thou art perfect.
+<SPEECH 46><ACT 2><SCENE 4><32%>
+	Come hither, Francis.
+<SPEECH 47><ACT 2><SCENE 4><32%>
+	How long hast thou to serve, Francis?
+<SPEECH 48><ACT 2><SCENE 4><33%>
+	Five years! by'r lady a long lease for the clinking of pewter. But, Francis, darest thou be so valiant as to play the coward with thy indenture and show it a fair pair of heels and run from it?
+<SPEECH 49><ACT 2><SCENE 4><33%>
+	How old art thou, Francis?
+<SPEECH 50><ACT 2><SCENE 4><33%>
+	Nay, but hark you, Francis. For the sugar thou gavest me, 'twas a pennyworth, was't not?
+<SPEECH 51><ACT 2><SCENE 4><33%>
+	I will give thee for it a thousand pound: ask me when thou wilt and thou shalt have it.
+<SPEECH 52><ACT 2><SCENE 4><33%>
+	Anon, Francis? No, Francis; but to-morrow, Francis; or, Francis, o' Thursday; or, indeed, Francis, when thou wilt. But, Francis!
+<SPEECH 53><ACT 2><SCENE 4><33%>
+	Wilt thou rob this leathern-jerkin, crystal-button, knot-pated, agate-ring, pukestocking, caddis-garter, smooth-tongue, Spanish-pouch,—
+<SPEECH 54><ACT 2><SCENE 4><33%>
+	Why then, your brown bastard is your only drink; for, look you, Francis, your white canvas doublet will sully. In Barbary, sir, it cannot come to so much.
+<SPEECH 55><ACT 2><SCENE 4><34%>
+	Away, you rogue! Dost thou not hear them call?
+<SPEECH 56><ACT 2><SCENE 4><34%>
+	Let them alone awhile, and then open the door. <STAGE DIR>
+	</STAGE DIR> Poins!
+<SPEECH 57><ACT 2><SCENE 4><34%>
+	Sirrah, Falstaff and the rest of the thieves are at the door: shall we be merry?
+<SPEECH 58><ACT 2><SCENE 4><34%>
+	I am now of all humours that have show'd themselves humours since the old days of goodman Adam to the pupil age of this present twelve o'clock at midnight. <STAGE DIR>
+	</STAGE DIR> What's o'clock, Francis?
+<SPEECH 59><ACT 2><SCENE 4><34%>
+	That ever this fellow should have fewer words than a parrot, and yet the son of a woman! His industry is up-stairs and down-stairs; his eloquence the parcel of a reckoning. I am not yet of Percy's mind, the Hotspur of the North; he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife, 'Fie upon this quiet life! I want work.' 'O my sweet Harry,' says she, 'how many hast thou killed to-day?' 'Give my roan horse a drench,' says he, and answers, 'Some fourteen,' an hour after, 'a trifle, a trifle.' I prithee call in Falstaff: I'll play Percy, and that damned brawn shall play Dame Mortimer his wife. 'Rivo!' says the drunkard. Call in ribs, call in tallow.
+<SPEECH 60><ACT 2><SCENE 4><35%>
+	Didst thou never see Titan kiss a dish of butter—pitiful-hearted Titan, that melted at the sweet tale of the sun? if thou didst then behold that compound.
+<SPEECH 61><ACT 2><SCENE 4><36%>
+	How now, wool-sack! what mutter you?
+<SPEECH 62><ACT 2><SCENE 4><36%>
+	Why, you whoreson round man, what's the matter?
+<SPEECH 63><ACT 2><SCENE 4><36%>
+	O villain! thy lips are scarce wiped since thou drunkest last.
+<SPEECH 64><ACT 2><SCENE 4><36%>
+	What's the matter?
+<SPEECH 65><ACT 2><SCENE 4><37%>
+	Where is it, Jack? where is it?
+<SPEECH 66><ACT 2><SCENE 4><37%>
+	What, a hundred, man?
+<SPEECH 67><ACT 2><SCENE 4><37%>
+	Speak, sirs; how was it?
+<SPEECH 68><ACT 2><SCENE 4><37%>
+	What, fought ye with them all?
+<SPEECH 69><ACT 2><SCENE 4><37%>
+	Pray God you have not murdered some of them.
+<SPEECH 70><ACT 2><SCENE 4><38%>
+	What, four? thou saidst but two even now.
+<SPEECH 71><ACT 2><SCENE 4><38%>
+	Seven? why, there were but four even now.
+<SPEECH 72><ACT 2><SCENE 4><38%>
+	Prithee, let him alone; we shall have more anon.
+<SPEECH 73><ACT 2><SCENE 4><38%>
+	Ay, and mark thee too, Jack.
+<SPEECH 74><ACT 2><SCENE 4><38%>
+	So, two more already.
+<SPEECH 75><ACT 2><SCENE 4><38%>
+	O monstrous! eleven buckram men grown out of two.
+<SPEECH 76><ACT 2><SCENE 4><38%>
+	These lies are like the father that begets them; gross as a mountain, open, palpable. Why, thou clay-brained guts, thou knotty-pated fool, thou whoreson, obscene, greasy tallowketch,—
+<SPEECH 77><ACT 2><SCENE 4><39%>
+	Why, how couldst thou know these men in Kendal-green, when it was so dark thou couldst not see thy hand? come, tell us your reason: what sayest thou to this?
+<SPEECH 78><ACT 2><SCENE 4><39%>
+	I'll be no longer guilty of this sin: this sanguine coward, this bed-presser, this horseback-breaker, this huge hill of flesh;—
+<SPEECH 79><ACT 2><SCENE 4><39%>
+	Well, breathe awhile, and then to it again; and when thou hast tired thyself in base comparisons, hear me speak but this.
+<SPEECH 80><ACT 2><SCENE 4><39%>
+	We two saw you four set on four and you bound them, and were masters of their wealth. Mark now, how a plain tale shall put you down. Then did we two set on you four, and, with a word, out-faced you from your prize, and have it; yea, and can show it you here in the house. And, Falstaff, you carried your guts away as nimbly, with as quick dexterity, and roared for mercy, and still ran and roared, as ever I heard bull-calf. What a slave art thou, to hack thy sword as thou hast done, and then say it was in fight! What trick, what device, what starting-hole canst thou now find out to hide thee from this open and apparent shame?
+<SPEECH 81><ACT 2><SCENE 4><40%>
+	Content; and the argument shall be thy running away.
+<SPEECH 82><ACT 2><SCENE 4><40%>
+	How now, my lady the hostess! what sayest thou to me?
+<SPEECH 83><ACT 2><SCENE 4><41%>
+	Give him as much as will make him a royal man, and send him back again to my mother.
+<SPEECH 84><ACT 2><SCENE 4><41%>
+	Prithee, do, Jack.
+<SPEECH 85><ACT 2><SCENE 4><41%>
+	Now, sirs: by'r lady, you fought fair; so did you, Peto; so did you, Bardolph: you are lions too, you ran away upon instinct, you will not touch the true prince; no, fie!
+<SPEECH 86><ACT 2><SCENE 4><41%>
+	Faith, tell me now in earnest, how came Falstaff's sword so hacked?
+<SPEECH 87><ACT 2><SCENE 4><41%>
+	O villain! thou stolest a cup of sack eighteen years ago, and wert taken with the manner, and ever since thou hast blushed extempore. Thou hadst fire and sword on thy side, and yet thou rannest away. What instinct hadst thou for it?
+<SPEECH 88><ACT 2><SCENE 4><42%>
+	I do.
+<SPEECH 89><ACT 2><SCENE 4><42%>
+	Hot livers and cold purses.
+<SPEECH 90><ACT 2><SCENE 4><42%>
+	No, if rightly taken, halter.—
+	Here comes lean Jack, here comes bare-bone.—How now, my sweet creature of bombast! How long is't ago, Jack, since thou sawest thine own knee?
+<SPEECH 91><ACT 2><SCENE 4><42%>
+	He that rides at high speed and with his pistol kills a sparrow flying.
+<SPEECH 92><ACT 2><SCENE 4><42%>
+	So did he never the sparrow.
+<SPEECH 93><ACT 2><SCENE 4><42%>
+	Why, what a rascal art thou then to praise him so for running!
+<SPEECH 94><ACT 2><SCENE 4><43%>
+	Yes, Jack, upon instinct.
+<SPEECH 95><ACT 2><SCENE 4><43%>
+	Why then, it is like, if there come a hot June and this civil buffeting hold, we shall buy maidenheads as they buy hob-nails, by the hundreds.
+<SPEECH 96><ACT 2><SCENE 4><43%>
+	Not a whit, i' faith; I lack some of thy instinct.
+<SPEECH 97><ACT 2><SCENE 4><43%>
+	Do thou stand for my father, and examine me upon the particulars of my life.
+<SPEECH 98><ACT 2><SCENE 4><43%>
+	Thy state is taken for a joint-stool, thy golden sceptre for a leaden dagger, and thy precious rich crown for a pitiful bald crown!
+<SPEECH 99><ACT 2><SCENE 4><44%>
+	Well, here is my leg.
+<SPEECH 100><ACT 2><SCENE 4><45%>
+	What manner of man, an it like your majesty?
+<SPEECH 101><ACT 2><SCENE 4><45%>
+	Dost thou speak like a king? Do thou stand for me, and I'll play my father.
+<SPEECH 102><ACT 2><SCENE 4><45%>
+	Well, here I am set.
+<SPEECH 103><ACT 2><SCENE 4><45%>
+	Now, Harry! whence come you?
+<SPEECH 104><ACT 2><SCENE 4><45%>
+	The complaints I hear of thee are grievous.
+<SPEECH 105><ACT 2><SCENE 4><46%>
+	Swearest thou, ungracious boy? henceforth ne'er look on me. Thou art violently carried away from grace: there is a devil haunts thee in the likeness of a fat old man; a tun of man is thy companion. Why dost thou converse with that trunk of humours, that bolting-hutch of beastliness, that swoln parcel of dropsies, that huge bombard of sack, that stuffed cloak-bag of guts, that roasted Manningtree ox with the pudding in his belly, that reverend vice, that grey iniquity, that father ruffian, that vanity in years? Wherein is he good but to taste sack and drink it? wherein neat and cleanly but to carve a capon and eat it? wherein cunning but in craft? wherein crafty but in villany? wherein villanous but in all things? wherein worthy but in nothing?
+<SPEECH 106><ACT 2><SCENE 4><46%>
+	That villanous abominable misleader of youth, Falstaff, that old white-bearded Satan.
+<SPEECH 107><ACT 2><SCENE 4><46%>
+	I know thou dost.
+<SPEECH 108><ACT 2><SCENE 4><47%>
+	I do, I will.
+<SPEECH 109><ACT 2><SCENE 4><47%>
+	Heigh, heigh! the devil rides upon a fiddle-stick: what's the matter?
+<SPEECH 110><ACT 2><SCENE 4><47%>
+	And thou a natural coward without instinct.
+<SPEECH 111><ACT 2><SCENE 4><48%>
+	Go, hide thee behind the arras: the rest walk up above. Now, my masters, for a true face and good conscience.
+<SPEECH 112><ACT 2><SCENE 4><48%>
+	Call in the sheriff.
+	Now, master sheriff, what's your will with me?
+<SPEECH 113><ACT 2><SCENE 4><48%>
+	What men?
+<SPEECH 114><ACT 2><SCENE 4><48%>
+	The man, I do assure you, is not here,
+	For I myself at this time have employ'd him.
+	And, sheriff, I will engage my word to thee,
+	That I will, by to-morrow dinner-time,
+	Send him to answer thee, or any man,
+	For anything he shall be charg'd withal:
+	And so let me entreat you leave the house.
+<SPEECH 115><ACT 2><SCENE 4><48%>
+	It may be so: if he have robb'd these men,
+	He shall be answerable; and so farewell.
+<SPEECH 116><ACT 2><SCENE 4><48%>
+	I think it is good morrow, is it not?
+<SPEECH 117><ACT 2><SCENE 4><48%>
+	This oily rascal is known as well as Paul's.
+	Go, call him forth.
+<SPEECH 118><ACT 2><SCENE 4><49%>
+	Hark, how hard he fetches breath.
+	Search his pockets. <STAGE DIR>
+	</STAGE DIR> What hast thou found?
+<SPEECH 119><ACT 2><SCENE 4><49%>
+	Let's see what they be: read them.
+	<PETO.> 
+<SPEECH 120><ACT 2><SCENE 4><49%>
+	O monstrous! but one half-pennyworth of bread to this intolerable deal of sack! What there is else, keep close; we'll read it at more advantage. There let him sleep till day. I'll to the court in the morning. We must all to the wars, and thy place shall be honourable. I'll procure this fat rogue a charge of foot; and, I know, his death will be a march of twelve-score. The money shall be paid back again with advantage. Be with me betimes in the morning; and so good morrow, Peto.
+<SPEECH 121><ACT 3><SCENE 2><58%>
+	So please your majesty, I would I could
+	Quit all offences with as clear excuse
+	As well as I am doubtless I can purge
+	Myself of many I am charg'd withal:
+	Yet such extenuation let me beg,
+	As, in reproof of many tales devis'd,
+	Which oft the ear of greatness needs must hear,
+	By smiling pick-thanks and base newsmongers,
+	I may, for some things true, wherein my youth
+	Hath faulty wander'd and irregular,
+	Find pardon on my true submission.
+<SPEECH 122><ACT 3><SCENE 2><60%>
+	I shall hereafter, my thrice gracious lord,
+	Be more myself.
+<SPEECH 123><ACT 3><SCENE 2><62%>
+	Do not think so; you shall not find it so:
+	And God forgive them, that so much have sway'd
+	Your majesty's good thoughts away from me!
+	I will redeem all this on Percy's head,
+	And in the closing of some glorious day
+	Be bold to tell you that I am your son;
+	When I will wear a garment all of blood
+	And stain my favours in a bloody mask,
+	Which, wash'd away, shall scour my shame with it:
+	And that shall be the day, whene'er it lights,
+	That this same child of honour and renown,
+	This gallant Hotspur, this all-praised knight,
+	And your unthought of Harry chance to meet.
+	For every honour sitting on his helm,—
+	Would they were multitudes, and on my head
+	My shames redoubled!—for the time will come
+	That I shall make this northern youth exchange
+	His glorious deeds for my indignities.
+	Percy is but my factor, good my lord,
+	To engross up glorious deeds on my behalf;
+	And I will call him to so strict account
+	That he shall render every glory up,
+	Yea, even the slightest worship of his time,
+	Or I will tear the reckoning from his heart.
+	This, in the name of God, I promise here:
+	The which, if he be pleas'd I shall perform,
+	I do beseech your majesty may salve
+	The long-grown wounds of my intemperance:
+	If not, the end of life cancels all bands,
+	And I will die a hundred thousand deaths
+	Ere break the smallest parcel of this vow.
+<SPEECH 124><ACT 3><SCENE 3><66%>
+	What sayest thou, Mistress Quickly?
+	How does thy husband? I love him well, he is an honest man.
+<SPEECH 125><ACT 3><SCENE 3><66%>
+	What sayest thou, Jack?
+<SPEECH 126><ACT 3><SCENE 3><67%>
+	What didst thou lose, Jack?
+<SPEECH 127><ACT 3><SCENE 3><67%>
+	A trifle; some eight-penny matter.
+<SPEECH 128><ACT 3><SCENE 3><67%>
+	What! he did not?
+<SPEECH 129><ACT 3><SCENE 3><67%>
+	An otter, Sir John! why, an otter?
+<SPEECH 130><ACT 3><SCENE 3><68%>
+	Thou sayest true, hostess; and he slanders thee most grossly.
+<SPEECH 131><ACT 3><SCENE 3><68%>
+	Sirrah! do I owe you a thousand pound?
+<SPEECH 132><ACT 3><SCENE 3><68%>
+	I say 'tis copper: darest thou be as good as thy word now?
+<SPEECH 133><ACT 3><SCENE 3><68%>
+	And why not as the lion?
+<SPEECH 134><ACT 3><SCENE 3><68%>
+	O! if it should, how would thy guts fall about thy knees. But, sirrah, there's no room for faith, truth, or honesty in this bosom of thine; it is all filled up with guts and midriff. Charge an honest woman with picking thy pocket! Why, thou whoreson, impudent, embossed rascal, if there were any thing in thy pocket but tavern reckonings, memorandums of bawdy-houses, and one poor pennyworth of sugar-candy to make thee long-winded; if thy pocket were enriched with any other injuries but these, I am a villain. And yet you will stand to it, you will not pocket up wrong. Art thou not ashamed?
+<SPEECH 135><ACT 3><SCENE 3><69%>
+	It appears so by the story.
+<SPEECH 136><ACT 3><SCENE 3><69%>
+	O! my sweet beef, I must still be good angel to thee: the money is paid back again.
+<SPEECH 137><ACT 3><SCENE 3><69%>
+	I am good friends with my father and may do anything.
+<SPEECH 138><ACT 3><SCENE 3><69%>
+	I have procured thee, Jack, a charge of foot.
+<SPEECH 139><ACT 3><SCENE 3><69%>
+	Bardolph!
+<SPEECH 140><ACT 3><SCENE 3><70%>
+	Go bear this letter to Lord John of Lancaster,
+	To my brother John; this to my Lord of Westmoreland.
+	Go, Poins, to horse, to horse! for thou and I
+	Have thirty miles to ride ere dinner-time.
+	Jack, meet me to-morrow in the Temple-hall
+	At two o'clock in the afternoon:
+	There shalt thou know thy charge, and there receive
+	Money and order for their furniture.
+	The land is burning; Percy stands on high;
+	And either we or they must lower lie.
+<SPEECH 141><ACT 4><SCENE 2><76%>
+	How now, blown Jack! how now, quilt!
+<SPEECH 142><ACT 4><SCENE 2><76%>
+	I think to steal cream indeed, for thy theft hath already made thee butter. But tell me, Jack, whose fellows are these that come after?
+<SPEECH 143><ACT 4><SCENE 2><77%>
+	I did never see such pitiful rascals.
+<SPEECH 144><ACT 4><SCENE 2><77%>
+	No, I'll be sworn; unless you call three fingers on the ribs bare. But sirrah, make haste: Percy is already in the field.
+<SPEECH 145><ACT 5><SCENE 1><82%>
+	The southern wind
+	Doth play the trumpet to his purposes,
+	And by his hollow whistling in the leaves
+	Foretells a tempest and a blustering day.
+<SPEECH 146><ACT 5><SCENE 1><83%>
+	Peace, chewet, peace!
+<SPEECH 147><ACT 5><SCENE 1><85%>
+	In both our armies there is many a soul
+	Shall pay full dearly for this encounter,
+	If once they join in trial. Tell your nephew,
+	The Prince of Wales doth join with all the world
+	In praise of Henry Percy: by my hopes,
+	This present enterprise set off his head,
+	I do not think a braver gentleman,
+	More active-valiant or more valiant-young,
+	More daring or more bold, is now alive
+	To grace this latter age with noble deeds.
+	For my part, I may speak it to my shame,
+	I have a truant been to chivalry;
+	And so I hear he doth account me too;
+	Yet this before my father's majesty—
+	I am content that he shall take the odds
+	Of his great name and estimation,
+	And will, to save the blood on either side,
+	Try fortune with him in a single fight.
+<SPEECH 148><ACT 5><SCENE 1><86%>
+	It will not be accepted, on my life.
+	The Douglas and the Hotspur both together
+	Are confident against the world in arms.
+<SPEECH 149><ACT 5><SCENE 1><86%>
+	Nothing but a colossus can do thee that friendship. Say thy prayers, and farewell.
+<SPEECH 150><ACT 5><SCENE 1><86%>
+	Why, thou owest God a death.
+<SPEECH 151><ACT 5><SCENE 3><91%>
+	What! stand'st thou idle here? lend me thy sword:
+	Many a nobleman lies stark and stiff
+	Under the hoofs of vaunting enemies,
+	Whose deaths are unreveng'd: prithee, lend me thy sword.
+<SPEECH 152><ACT 5><SCENE 3><92%>
+	He is, indeed; and living to kill thee.
+	I prithee, lend me thy sword.
+<SPEECH 153><ACT 5><SCENE 3><92%>
+	Give it me. What! is it in the case?
+<SPEECH 154><ACT 5><SCENE 3><92%>
+	What! is't a time to jest and dally now?
+<SPEECH 155><ACT 5><SCENE 4><93%>
+	I beseech your majesty, make up,
+	Lest your retirement do amaze your friends.
+<SPEECH 156><ACT 5><SCENE 4><93%>
+	Lead me, my lord? I do not need your help:
+	And God forbid a shallow scratch should drive
+	The Prince of Wales from such a field as this,
+	Where stain'd nobility lies trodden on,
+	And rebels' arms triumph in massacres!
+<SPEECH 157><ACT 5><SCENE 4><93%>
+	By God, thou hast deceiv'd me, Lancaster;
+	I did not think thee lord of such a spirit:
+	Before, I lov'd thee as a brother, John;
+	But now, I do respect thee as my soul.
+<SPEECH 158><ACT 5><SCENE 4><93%>
+	O! this boy
+	Lends mettle to us all.
+<SPEECH 159><ACT 5><SCENE 4><94%>
+	Hold up thy head, vile Scot, or thou art like
+	Never to hold it up again! the spirits
+	Of valiant Shirley, Stafford, Blunt, are in my arms:
+	It is the Prince of Wales that threatens thee,
+	Who never promiseth but he means to pay.
+	Cheerly, my lord: how fares your Grace?
+	Sir Nicholas Gawsey hath for succour sent,
+	And so hath Clifton: I'll to Clifton straight.
+<SPEECH 160><ACT 5><SCENE 4><94%>
+	O God! they did me too much injury
+	That ever said I hearken'd for your death.
+	If it were so, I might have let alone
+	The insulting hand of Douglas over you;
+	Which would have been as speedy in your end
+	As all the poisonous potions in the world,
+	And sav'd the treacherous labour of your son.
+<SPEECH 161><ACT 5><SCENE 4><95%>
+	Thou speak'st as if I would deny my name.
+<SPEECH 162><ACT 5><SCENE 4><95%>
+	Why, then, I see
+	A very valiant rebel of that name.
+	I am the Prince of Wales; and think not, Percy,
+	To share with me in glory any more:
+	Two stars keep not their motion in one sphere;
+	Nor can one England brook a double reign,
+	Of Harry Percy and the Prince of Wales.
+<SPEECH 163><ACT 5><SCENE 4><95%>
+	I'll make it greater ere I part from thee;
+	And all the budding honours on thy crest
+	I'll crop, to make a garland for my head.
+<SPEECH 164><ACT 5><SCENE 4><96%>
+	For worms, brave Percy. Fare thee well, great heart!
+	Ill-weav'd ambition, how much art thou shrunk!
+	When that this body did contain a spirit,
+	A kingdom for it was too small a bound;
+	But now, two paces of the vilest earth
+	Is room enough: this earth, that bears thee dead,
+	Bears not alive so stout a gentleman.
+	If thou wert sensible of courtesy,
+	I should not make so dear a show of zeal:
+	But let my favours hide thy mangled face,
+	And, even in thy behalf, I'll thank myself
+	For doing these fair rites of tenderness.
+	Adieu, and take thy praise with thee to heaven!
+	Thy ignomy sleep with thee in the grave,
+	But not remember'd in thy epitaph!
+	What! old acquaintance! could not all this flesh
+	Keep in a little life? Poor Jack, farewell!
+	I could have better spar'd a better man.
+	O! I should have a heavy miss of thee
+	If I were much in love with vanity.
+	Death hath not struck so fat a deer to-day,
+	Though many dearer, in this bloody fray.
+	Embowell'd will I see thee by and by:
+	Till then in blood by noble Percy lie.
+<SPEECH 165><ACT 5><SCENE 4><97%>
+	Come, brother John; full bravely hast thou flesh'd
+	Thy maiden sword.
+<SPEECH 166><ACT 5><SCENE 4><97%>
+	I did; I saw him dead,
+	Breathless and bleeding on the ground.
+	Art thou alive? or is it fantasy
+	That plays upon our eyesight? I prithee, speak;
+	We will not trust our eyes without our ears:
+	Thou art not what thou seem'st.
+<SPEECH 167><ACT 5><SCENE 4><98%>
+	Why, Percy I killed myself, and saw thee dead.
+<SPEECH 168><ACT 5><SCENE 4><98%>
+	This is the strangest fellow, brother John.
+	Come, bring your luggage nobly on your back:
+	For my part, if a lie may do thee grace,
+	I'll gild it with the happiest terms I have.
+	The trumpet sounds retreat; the day is ours.
+	Come, brother, let us to the highest of the field,
+	To see what friends are living, who are dead.
+<SPEECH 169><ACT 5><SCENE 5><99%>
+	The noble Scot, Lord Douglas, when he saw
+	The fortune of the day quite turn'd from him,
+	The noble Percy slain, and all his men
+	Upon the foot of fear, fled with the rest;
+	And falling from a hill he was so bruis'd
+	That the pursuers took him. At my tent
+	The Douglas is, and I beseech your Grace
+	I may dispose of him.
+<SPEECH 170><ACT 5><SCENE 5><99%>
+	Then, brother John of Lancaster, to you
+	This honourable bounty shall belong.
+	Go to the Douglas, and deliver him
+	Up to his pleasure, ransomless, and free:
+	His valour shown upon our crests to-day
+	Hath taught us how to cherish such high deeds,
+	Even in the bosom of our adversaries.

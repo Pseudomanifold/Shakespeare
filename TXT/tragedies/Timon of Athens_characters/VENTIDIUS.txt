@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 1><SCENE 2><13%>
+	Most honour'd Timon,
+	It hath pleas'd the gods to remember my father's age,
+	And call him to long peace.
+	He is gone happy, and has left me rich:
+	Then, as in grateful virtue I am bound
+	To your free heart, I do return those talents,
+	Doubled with thanks and service, from whose help
+	I deriv'd liberty.
+<SPEECH 2><ACT 1><SCENE 2><13%>
+	A noble spirit.

@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 4><SCENE 3><68%>
+	I am a knight, sir; and my name is Colevile of the dale.
+<SPEECH 2><ACT 4><SCENE 3><68%>
+	Are not you Sir John Falstaff?
+<SPEECH 3><ACT 4><SCENE 3><68%>
+	I think you are Sir John Falstaff, and in that thought yield me.
+<SPEECH 4><ACT 4><SCENE 3><70%>
+	It is, my lord.
+<SPEECH 5><ACT 4><SCENE 3><70%>
+	I am, my lord, but as my betters are
+	That led me hither: had they been rul'd by me
+	You should have won them dearer than you have.

@@ -1,0 +1,38 @@
+<SPEECH 1><ACT 4><SCENE 5><69%>
+	What fellow's this?
+<SPEECH 2><ACT 4><SCENE 5><69%>
+	What have you to do here, fellow? Pray you, avoid the house.
+<SPEECH 3><ACT 4><SCENE 5><69%>
+	What are you?
+<SPEECH 4><ACT 4><SCENE 5><69%>
+	A marvellous poor one.
+<SPEECH 5><ACT 4><SCENE 5><69%>
+	Pray you, poor gentleman, take up some other station; here's no place for you; pray you, avoid: come.
+<SPEECH 6><ACT 4><SCENE 5><69%>
+	What, you will not? Prithee, tell my master what a strange guest he has here.
+<SPEECH 7><ACT 4><SCENE 5><69%>
+	Where dwell'st thou?
+<SPEECH 8><ACT 4><SCENE 5><70%>
+	'Under the canopy!'
+<SPEECH 9><ACT 4><SCENE 5><70%>
+	Where's that?
+<SPEECH 10><ACT 4><SCENE 5><70%>
+	'I' the city of kites and crows!' What an ass it is! Then thou dwell'st with daws too?
+<SPEECH 11><ACT 4><SCENE 5><70%>
+	How sir! Do you meddle with my master?
+<SPEECH 12><ACT 4><SCENE 5><73%>
+	O slaves! I can tell you news; news, you rascals.
+<SPEECH 13><ACT 4><SCENE 5><73%>
+	I would not be a Roman, of all nations; I had as lief be a condemned man.
+<SPEECH 14><ACT 4><SCENE 5><73%>
+	Why, here's he that was wont to thwack our general, Caius Marcius.
+<SPEECH 15><ACT 4><SCENE 5><74%>
+	I do not say, 'thwack our general;' but he was always good enough for him.
+<SPEECH 16><ACT 4><SCENE 5><74%>
+	Why, he is so made on here within, as if he were son and heir to Mars; set at upper end o' the table; no question asked him by any of the senators, but they stand bald before him. Our general himself makes a mistress of him; sanctifies himself with 's hand, and turns up the white o' the eye to his discourse. But the bottom of the news is, our general is out i' the middle, and but one half of what he was yesterday, for the other has half, by the entreaty and grant of the whole table. He'll go, he says, and sowle the porter of Rome gates by the ears: he will mow down all before him, and leave his passage polled.
+<SPEECH 17><ACT 4><SCENE 5><74%>
+	Do 't! he will do 't for—look you, sir—he has as many friends as enemies; which friends, sir—as it were—durst not—look you, sir—show themselves—as we term it—his friends, whilst he's in directitude.
+<SPEECH 18><ACT 4><SCENE 5><74%>
+	To-morrow; to-day; presently. You shall have the drum struck up this afternoon; 'tis, as it were, a parcel of their feast, and to be executed ere they wipe their lips.
+<SPEECH 19><ACT 4><SCENE 5><75%>
+	Reason: because they then less need one another. The wars for my money. I hope to see Romans as cheap as Volscians. They are rising, they are rising.

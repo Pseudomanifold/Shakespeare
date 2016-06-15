@@ -1,0 +1,79 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+	Marcius, 'tis true that you have lately told us;
+	The Volsces are in arms.
+<SPEECH 2><ACT 1><SCENE 1><7%>
+	Then, worthy Marcius,
+	Attend upon Cominius to these wars.
+<SPEECH 3><ACT 1><SCENE 1><7%>
+	Your company to the Capitol; where I know
+	Our greatest friends attend us.
+<SPEECH 4><ACT 1><SCENE 1><7%>
+	</STAGE DIR> Hence! to your homes! be gone.
+<SPEECH 5><ACT 1><SCENE 2><8%>
+	So, your opinion is, Aufidius,
+	That they of Rome are enter'd in our counsels,
+	And know how we proceed.
+<SPEECH 6><ACT 1><SCENE 2><9%>
+	Our army's in the field:
+	We never yet made doubt but Rome was ready
+	To answer us.
+<SPEECH 7><ACT 1><SCENE 2><9%>
+	Farewell.
+<SPEECH 8><ACT 1><SCENE 4><13%>
+	No, nor a man that fears you less than he,
+	That's lesser than a little. Hark, our drums
+	Are bringing forth our youth: we'll break our walls,
+	Rather than they shall pound us up: our gates,
+	Which yet seem shut, we have but pinn'd with rushes;
+	They'll open of themselves. Hark you, far off!
+	There is Aufidius: list, what work he makes
+	Amongst your cloven army.
+<SPEECH 9><ACT 2><SCENE 2><33%>
+	Speak, good Cominius:
+	Leave nothing out for length, and make us think
+	Rather our state's defective for requital,
+	Than we to stretch it out. <STAGE DIR>
+	</STAGE DIR> Masters o' the people,
+	We do request your kindest ears, and, after,
+	Your loving motion toward the common body,
+	To yield what passes here.
+<SPEECH 10><ACT 2><SCENE 2><34%>
+	Sit, Coriolanus; never shame to hear
+	What you have nobly done.
+<SPEECH 11><ACT 2><SCENE 2><35%>
+	He cannot but with measure fit the honours
+	Which we devise him.
+<SPEECH 12><ACT 2><SCENE 2><35%>
+	Call Coriolanus.
+<SPEECH 13><ACT 3><SCENE 1><45%>
+	Tribunes, give way; he shall to the market-place.
+<SPEECH 14><ACT 3><SCENE 1><46%>
+	Not in this heat, sir, now.
+<SPEECH 15><ACT 3><SCENE 1><46%>
+	No more words, we beseech you.
+<SPEECH 16><ACT 3><SCENE 1><50%>
+	To unbuild the city and to lay all flat.
+<SPEECH 17><ACT 3><SCENE 1><51%>
+	The gods forbid!
+	I prithee, noble friend, home to thy house;
+	Leave us to cure this cause.
+<SPEECH 18><ACT 3><SCENE 1><54%>
+	Noble tribunes,
+	It is the humane way: the other course
+	Will prove too bloody, and the end of it
+	Unknown to the beginning.
+<SPEECH 19><ACT 3><SCENE 1><54%>
+	Pray you, let's to him.
+<SPEECH 20><ACT 3><SCENE 2><55%>
+	There's no remedy;
+	Unless, by not so doing, our good city
+	Cleave in the midst, and perish.
+<SPEECH 21><ACT 3><SCENE 3><59%>
+	Amen, amen.
+<SPEECH 22><ACT 5><SCENE 4><95%>
+	Behold our patroness, the life of Rome!
+	Call all your tribes together, praise the gods,
+	And make triumphant fires; strew flowers before them:
+	Unshout the noise that banish'd Marcius;
+	Repeal him with the welcome of his mother;
+	Cry, 'Welcome, ladies, welcome!'

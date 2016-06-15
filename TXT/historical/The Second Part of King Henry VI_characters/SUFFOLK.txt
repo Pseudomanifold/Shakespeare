@@ -1,0 +1,359 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	As by your high imperial majesty
+	I had in charge at my depart for France,
+	As procurator to your excellence,
+	To marry Princess Margaret for your Grace;
+	So, in the famous ancient city, Tours,
+	In presence of the Kings of France and Sicil,
+	The Dukes of Orleans, Calaber, Britaine, and Alençon,
+	Seven earls, twelve barons, and twenty reverend bishops,
+	I have perform'd my task, and was espous'd:
+	And humbly now upon my bended knee,
+	In sight of England and her lordly peers,
+	Deliver up my title in the queen
+	To your most gracious hands, that are the substance
+	Of that great shadow I did represent;
+	The happiest gift that ever marquess gave,
+	The fairest queen that ever king receiv'd.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	My Lord Protector, so it please your Grace,
+	Here are the articles of contracted peace
+	Between our sovereign and the French King Charles,
+	For eighteen months concluded by consent.
+<SPEECH 3><ACT 1><SCENE 3><12%>
+	How now, fellow! wouldst anything with me?
+<SPEECH 4><ACT 1><SCENE 3><12%>
+	Thy wife too! that is some wrong indeed. What's yours? What's here? Against the Duke of Suffolk, for enclosing the commons of Melford! How now, sir knave!
+<SPEECH 5><ACT 1><SCENE 3><12%>
+	Who is there?
+	Take this fellow in, and send for his master with a pursuivant presently. We'll hear more of your matter before the king.
+<SPEECH 6><ACT 1><SCENE 3><13%>
+	Madam, be patient; as I was cause
+	Your highness came to England, so will I
+	In England work your Grace's full content.
+<SPEECH 7><ACT 1><SCENE 3><14%>
+	And he of these that can do most of all
+	Cannot do more in England than the Nevils:
+	Salisbury and Warwick are no simple peers.
+<SPEECH 8><ACT 1><SCENE 3><14%>
+	Madam, myself have lim'd a bush for her,
+	And plac'd a quire of such enticing birds
+	That she will light to listen to the lays,
+	And never mount to trouble you again.
+	So, let her rest: and, madam, list to me;
+	For I am bold to counsel you in this.
+	Although we fancy not the cardinal,
+	Yet must we join with him and with the lords
+	Till we have brought Duke Humphrey in disgrace.
+	As for the Duke of York, this late complaint
+	Will make but little for his benefit:
+	So, one by one, we'll weed them all at last,
+	And you yourself shall steer the happy helm.
+<SPEECH 9><ACT 1><SCENE 3><15%>
+	Resign it then and leave thine insolence.
+	Since thou wertking,—as who is king but thou?—
+	The commonwealth hath daily run to wrack;
+	The Dauphin hath prevail'd beyond the seas;
+	And all the peers and nobles of the realm
+	Have been as bondmen to thy sovereignty.
+<SPEECH 10><ACT 1><SCENE 3><16%>
+	Before we make election, give me leave
+	To show some reason, of no little force,
+	That York is most unmeet of any man.
+<SPEECH 11><ACT 1><SCENE 3><17%>
+	Peace, headstrong Warwick!
+<SPEECH 12><ACT 1><SCENE 3><17%>
+	Because here is a man accus'd of treason:
+	Pray God the Duke of York excuse himself!
+<SPEECH 13><ACT 1><SCENE 3><17%>
+	Please it your majesty, this is the man
+	That doth accuse his master of high treason.
+	His words were these: that Richard, Duke of York,
+	Was rightful heir unto the English crown,
+	And that your majesty was a usurper.
+<SPEECH 14><ACT 2><SCENE 1><22%>
+	No marvel, an it like your majesty,
+	My Lord Protector's hawks do tower so well;
+	They know their master loves to be aloft,
+	And bears his thoughts above his falcon's pitch.
+<SPEECH 15><ACT 2><SCENE 1><22%>
+	No malice, sir; no more than well becomes
+	So good a quarrel and so bad a peer.
+<SPEECH 16><ACT 2><SCENE 1><22%>
+	Why, as you, my lord,
+	An't like your lordly lord-protectorship.
+<SPEECH 17><ACT 2><SCENE 1><24%>
+	Come to the king, and tell him what miracle.
+<SPEECH 18><ACT 2><SCENE 1><24%>
+	What woman is this?
+<SPEECH 19><ACT 2><SCENE 1><25%>
+	How cam'st thou so?
+<SPEECH 20><ACT 2><SCENE 1><25%>
+	And yet, I think, jet did he never see.
+<SPEECH 21><ACT 2><SCENE 1><27%>
+	True; made the lame to leap and fly away.
+<SPEECH 22><ACT 2><SCENE 3><32%>
+	Thus droops this lofty pine and hangs his sprays;
+	Thus Eleanor's pride dies in her youngest days.
+<SPEECH 23><ACT 3><SCENE 1><39%>
+	Well hath your highness seen into this duke;
+	And had I first been put to speak my mind,
+	I think I should have told your Grace's tale.
+	The duchess, by his subornation,
+	Upon my life, began her devilish practices:
+	Or if he were not privy to those faults,
+	Yet, by reputing of his high descent,
+	As, next the king he was successive heir,
+	And such high vaunts of his nobility,
+	Did instigate the bedlam brain-sick duchess,
+	By wicked means to frame our sovereign's fall.
+	Smooth runs the water where the brook is deep,
+	And in his simple show he harbours treason.
+	The fox barks not when he would steal the lamb:
+	No, no, my sov'reign; Gloucester is a man
+	Unsounded yet, and full of deep deceit.
+<SPEECH 24><ACT 3><SCENE 1><41%>
+	Nay, Gloucester, know that thou art come too soon,
+	Unless thou wert more loyal than thou art:
+	I do arrest thee of high treason here.
+<SPEECH 25><ACT 3><SCENE 1><42%>
+	My lord, these faults are easy, quickly answer'd:
+	But mightier crimes are laid unto your charge,
+	Whereof you cannot easily purge yourself.
+	I do arrest you in his highness' name;
+	And here commit you to my Lord Cardinal
+	To keep until your further time of trial.
+<SPEECH 26><ACT 3><SCENE 1><43%>
+	Hath he not twit our sovereign lady here
+	With ignominious words, though clerkly couch'd,
+	As if she had suborned some to swear
+	False allegations to o'erthrow his state?
+<SPEECH 27><ACT 3><SCENE 1><45%>
+	But in my mind that were no policy:
+	The king will labour still to save his life;
+	The commons haply rise to save his life;
+	And yet we have but trivial argument,
+	More than mistrust, that shows him worthy death.
+<SPEECH 28><ACT 3><SCENE 1><45%>
+	Ah! York, no man alive so fain as I.
+<SPEECH 29><ACT 3><SCENE 1><45%>
+	Madam, 'tis true: and were't not madness, then,
+	To make the fox surveyor of the fold?
+	Who, being accus'd a crafty murderer,
+	His guilt should be but idly posted over
+	Because his purpose is not executed.
+	No; let him die, in that he is a fox,
+	By nature prov'd an enemy to the flock,
+	Before his chaps be stain'd with crimson blood,
+	As Humphrey, prov'd by reasons, to my liege.
+	And do not stand on quillets how to slay him:
+	Be it by gins, by snares, by subtilty,
+	Sleeping or waking, 'tis no matter how,
+	So he be dead; for that is good deceit
+	Which mates him first that first intends deceit.
+<SPEECH 30><ACT 3><SCENE 1><46%>
+	Not resolute, except so much were done,
+	For things are often spoke and seldom meant;
+	But, that my heart accordeth with my tongue,
+	Seeing the deed is meritorious,
+	And to preserve my sovereign from his foe,
+	Say but the word and I will be his priest.
+<SPEECH 31><ACT 3><SCENE 1><46%>
+	Here is my hand, the deed is worthy doing.
+<SPEECH 32><ACT 3><SCENE 1><47%>
+	Why, our authority is his consent,
+	And what we do establish he confirms:
+	Then, noble York, take thou this task in hand.
+<SPEECH 33><ACT 3><SCENE 1><47%>
+	A charge, Lord York, that I will see perform'd.
+	But now return we to the false Duke Humphrey.
+<SPEECH 34><ACT 3><SCENE 1><48%>
+	I'll see it truly done, my Lord of York.
+<SPEECH 35><ACT 3><SCENE 2><49%>
+	Now, sirs, have you dispatch'd this thing?
+<SPEECH 36><ACT 3><SCENE 2><50%>
+	Why, that's well said. Go, get you to my house;
+	I will reward you for this venturous deed.
+	The king and all the peers are here at hand.
+	Have you laid fair the bed? is all things well,
+	According as I gave directions?
+<SPEECH 37><ACT 3><SCENE 2><50%>
+	Away! be gone.
+<SPEECH 38><ACT 3><SCENE 2><50%>
+	I'll call him presently, my noble lord.
+<SPEECH 39><ACT 3><SCENE 2><50%>
+	Dead in his bed, my lord; Gloucester is dead.
+<SPEECH 40><ACT 3><SCENE 2><51%>
+	He doth revive again. Madam, be patient.
+<SPEECH 41><ACT 3><SCENE 2><51%>
+	Comfort, my sovereign! grocious Henry, comfort!
+<SPEECH 42><ACT 3><SCENE 2><54%>
+	A dreadful oath, sworn with a solemn tongue!
+	What instance gives Lord Warwick for his vow?
+<SPEECH 43><ACT 3><SCENE 2><55%>
+	Why, Warwick, who should do the duke to death?
+	Myself and Beaufort had him in protection;
+	And we, I hope, sir, are no murderers.
+<SPEECH 44><ACT 3><SCENE 2><55%>
+	I wear no knife to slaughter sleeping men;
+	But here's a vengeful sword, rusted with ease,
+	That shall be scoured in his rancorous heart
+	That slanders me with murder's crimson badge.
+	Say, if thou dar'st, proud Lord of Warwickshire,
+	That I am faulty in Duke Humphrey's death.
+<SPEECH 45><ACT 3><SCENE 2><56%>
+	Blunt-witted lord, ignoble in demeanour!
+	If ever lady wrong'd her lord so much,
+	Thy mother took into her blameful bed
+	Some stern untutor'd churl, and noble stock
+	Was graft with crab-tree slip; whose fruit thou art,
+	And never of the Nevils' noble race.
+<SPEECH 46><ACT 3><SCENE 2><56%>
+	Thou shalt be waking while I shed thy blood,
+	If from this presence thou dar'st go with me.
+<SPEECH 47><ACT 3><SCENE 2><57%>
+	The traitorous Warwick, with the men of Bury,
+	Set all upon me, mighty sovereign.
+<SPEECH 48><ACT 3><SCENE 2><58%>
+	'Tis like the commons, rude unpolish'd hinds,
+	Could send such message to their sovereign;
+	But you, my lord, were glad to be employ'd,
+	To show how quaint an orator you are:
+	But all the honour Salisbury hath won
+	Is that he was the lord ambassador,
+	Sent from a sort of tinkers to the king.
+<SPEECH 49><ACT 3><SCENE 2><59%>
+	Cease, gentle queen, these execrations,
+	And let thy Suffolk take his heavy leave.
+<SPEECH 50><ACT 3><SCENE 2><59%>
+	A plague upon them! Wherefore should I curse them?
+	Would curses kill, as doth the mandrake's groan,
+	I would invent as bitter-searching terms,
+	As curst, as harsh and horrible to hear,
+	Deliver'd strongly through my fixed teeth,
+	With full as many signs of deadly hate,
+	As lean-fac'd Envy in her loathsome cave.
+	My tongue should stumble in mine earnest words;
+	Mine eyes should sparkle like the beaten flint;
+	My hair be fix'd on end, as one distract;
+	Ay, every joint should seem to curse and ban:
+	And even now my burden'd heart would break
+	Should I not curse them. Poison be their drink!
+	Gall, worse than gall, the daintiest that they taste!
+	Their sweetest shade a grove of cypress trees!
+	Their chiefest prospect murdering basilisks!
+	Their softest touch as smart as lizard's stings!
+	Their music frightful as the serpent's hiss,
+	And boding screech-owls make the concert full!
+	All the foul terrors in dark-seated hell—
+<SPEECH 51><ACT 3><SCENE 2><60%>
+	You bade me ban, and will you bid me leave?
+	Now, by the ground that I am banish'd from,
+	Well could I curse away a winter's night,
+	Though standing naked on a mountain top,
+	Where biting cold would never let grass grow,
+	And think it but a minute spent in sport.
+<SPEECH 52><ACT 3><SCENE 2><60%>
+	Thus is poor Suffolk ten times banished,
+	Once by the king, and three times thrice by thee.
+	'Tis not the land I care for, wert thou thence;
+	A wilderness is populous enough,
+	So Suffolk had thy heavenly company:
+	For where thou art, there is the world itself,
+	With every several pleasure in the world,
+	And where thou art not, desolation.
+	I can no more: live thou to joy thy life;
+	Myself to joy in nought but that thou liv'st.
+<SPEECH 53><ACT 3><SCENE 2><61%>
+	If I depart from thee I cannot live;
+	And in thy sight to die, what were it else
+	But like a pleasant slumber in thy lap?
+	Here could I breathe my soul into the air,
+	As mild and gentle as the cradle babe,
+	Dying with mother's dug between its lips;
+	Where, from thy sight, I should be raging mad,
+	And cry out for thee to close up mine eyes,
+	To have thee with thy lips to stop my mouth:
+	So shouldst thou either turn my flying soul,
+	Or I should breathe it so into thy body,
+	And then it liv'd in sweet Elysium.
+	To die by thee, were but to die in jest;
+	From thee to die were torture more than death.
+	O! let me stay, befall what may befall!
+<SPEECH 54><ACT 3><SCENE 2><62%>
+	I go.
+<SPEECH 55><ACT 3><SCENE 2><62%>
+	A jewel, lock'd into the woefull'st cask
+	That ever did contain a thing of worth.
+	Even as a splitted bark, so sunder we:
+	This way fall I to death.
+<SPEECH 56><ACT 4><SCENE 1><64%>
+	Look on my George; I am a gentleman:
+	Rate me at what thou wilt, thou shalt be paid.
+<SPEECH 57><ACT 4><SCENE 1><65%>
+	Thy name affrights me, in whose sound is death.
+	A cunning man did calculate my birth,
+	And told me that by Water I should die:
+	Yet let not this make thee be bloody-minded;
+	Thy name is—Gaultier, being rightly sounded.
+<SPEECH 58><ACT 4><SCENE 1><65%>
+	Stay, Whitmore; for thy prisoner is a prince,
+	The Duke of Suffolk, William de la Pole.
+<SPEECH 59><ACT 4><SCENE 1><65%>
+	Ay, but these rags are no part of the duke:
+	Jove sometimes went disguis'd, and why not I?
+<SPEECH 60><ACT 4><SCENE 1><65%>
+	Obscure and lowly swain, King Henry's blood,
+	The honourable blood of Lancaster,
+	Must not be shed by such a jaded groom.
+	Hast thou not kiss'd thy hand and held my stirrup?
+	Bare-headed plodded by my foot-cloth mule,
+	And thought thee happy when I shook my head?
+	How often hast thou waited at my cup,
+	Fed from my trencher, kneel'd down at the board,
+	When I have feasted with Queen Margaret?
+	Remember it and let it make thee crest-fall'n;
+	Ay, and allay this thy abortive pride.
+	How in our voiding lobby hast thou stood
+	And duly waited for my coming forth?
+	This hand of mine hath writ in thy behalf,
+	And therefore shall it charm thy riotous tongue.
+<SPEECH 61><ACT 4><SCENE 1><66%>
+	Base slave, thy words are blunt, and so art thou.
+<SPEECH 62><ACT 4><SCENE 1><66%>
+	Thou dar'st not for thy own.
+<SPEECH 63><ACT 4><SCENE 1><66%>
+	Pole!
+<SPEECH 64><ACT 4><SCENE 1><67%>
+	O! that I were a god, to shoot forth thunder
+	Upon these paltry, servile, abject drudges.
+	Small things make base men proud: this villain here,
+	Being captain of a pinnace, threatens more
+	Than Bargulus the strong Illyrian pirate.
+	Drones suck not eagles' blood, but rob beehives.
+	It is impossible that I should die
+	By such a lowly vassal as thyself.
+	Thy words move rage, and not remorse in me:
+	I go of message from the queen to France;
+	I charge thee, waft me safely cross the Channel.
+<SPEECH 65><ACT 4><SCENE 1><67%>
+	Gelidus timor occupat artus: 'tis thee I fear.
+<SPEECH 66><ACT 4><SCENE 1><67%>
+	Suffolk's imperial tongue is stern and rough,
+	Us'd to command, untaught to plead for favour.
+	Far be it we should honour such as these
+	With humble suit: no, rather let my head
+	Stoop to the block than these knees bow to any
+	Save to the God of heaven, and to my king;
+	And sooner dance upon a bloody pole
+	Than stand uncover'd to the vulgar groom.
+	True nobility is exempt from fear:
+	More can I bear than you dare execute.
+<SPEECH 67><ACT 4><SCENE 1><67%>
+	Come, soldiers, show what cruelty ye can,
+	That this my death may never be forgot.
+	Great men oft die by vile bezonians.
+	A Roman sworder and banditto slave
+	Murder'd sweet Tully; Brutus' bastard hand
+	Stabb'd Julius Cæsar; savage islanders
+	Pompey the Great; and Suffolk dies by pirates.

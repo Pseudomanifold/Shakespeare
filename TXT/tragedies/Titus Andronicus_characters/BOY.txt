@@ -1,0 +1,57 @@
+<SPEECH 1><ACT 3><SCENE 2><54%>
+	Good grandsire, leave these bitter deep laments:
+	Make my aunt merry with some pleasing tale.
+<SPEECH 2><ACT 4><SCENE 1><56%>
+	Help, grandsire, help! my aunt Lavinia
+	Follows me everywhere, I know not why:
+	Good uncle Marcus, see how swift she comes:
+	Alas! sweet aunt, I know not what you mean.
+<SPEECH 3><ACT 4><SCENE 1><56%>
+	Ay, when my father was in Rome, she did.
+<SPEECH 4><ACT 4><SCENE 1><56%>
+	My lord, I know not, I, nor can I guess,
+	Unless some fit or frenzy do possess her;
+	For I have heard my grandsire say full oft,
+	Extremity of griefs would make men mad;
+	And I have read that Hecuba of Troy
+	Ran mad through sorrow; that made me to fear,
+	Although, my lord, I know my noble aunt
+	Loves me as dear as e'er my mother did,
+	And would not, but in fury, fright my youth;
+	Which made me down to throw my books and fly,
+	Causeless, perhaps. But pardon me, sweet aunt;
+	And, madam, if my uncle Marcus go,
+	I will most willingly attend your ladyship.
+<SPEECH 5><ACT 4><SCENE 1><57%>
+	Grandsire, 'tis Ovid's Metamorphoses;
+	My mother gave it me.
+<SPEECH 6><ACT 4><SCENE 1><60%>
+	I say, my lord, that if I were a man,
+	Their mother's bed-chamber should not be safe
+	For these bad bondmen to the yoke of Rome.
+<SPEECH 7><ACT 4><SCENE 1><60%>
+	And, uncle, so will I, an if I live.
+<SPEECH 8><ACT 4><SCENE 1><60%>
+	Ay, with my dagger in their bosoms, grandsire.
+<SPEECH 9><ACT 4><SCENE 2><61%>
+	My lords, with all the humbleness I may,
+	I greet your honours from Andronicus;
+	</STAGE DIR> And pray the Roman gods, confound you both!
+<SPEECH 10><ACT 4><SCENE 2><61%>
+	</STAGE DIR> That you are both decipher'd, that's the news,
+	For villains mark'd with rape. <STAGE DIR>
+	</STAGE DIR> May it please you,
+	My grandsire, well advis'd, hath sent by me
+	The goodliest weapons of his armoury,
+	To gratify your honourable youth,
+	The hope of Rome, for so he bade me say;
+	And so I do, and with his gifts present
+	Your lordships, that whenever you have need,
+	You may be armed and appointed well.
+	And so I leave you both: <STAGE DIR>
+	</STAGE DIR> like bloody villains.
+<SPEECH 11><ACT 5><SCENE 3><99%>
+	O grandsire, grandsire! even with all my heart
+	Would I were dead, so you did live again.
+	O Lord! I cannot speak to him for weeping;
+	My tears will choke me if I ope my mouth.

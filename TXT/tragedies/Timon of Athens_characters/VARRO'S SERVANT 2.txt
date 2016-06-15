@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 3><SCENE 4><46%>
+	By your leave, sir.
+<SPEECH 2><ACT 3><SCENE 4><47%>
+	No matter what; he's poor, and that's revenge enough. Who can speak broader than he that has no house to put his head in? such may rail against great buildings.
+<SPEECH 3><ACT 3><SCENE 4><48%>
+	My lord,—

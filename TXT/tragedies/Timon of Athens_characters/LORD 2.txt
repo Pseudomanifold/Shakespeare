@@ -1,0 +1,62 @@
+<SPEECH 1><ACT 1><SCENE 1><11%>
+	Thou art going to Lord Timon's feast?
+<SPEECH 2><ACT 1><SCENE 1><11%>
+	Fare thee well, fare thee well.
+<SPEECH 3><ACT 1><SCENE 1><12%>
+	Why, Apemantus?
+<SPEECH 4><ACT 1><SCENE 1><12%>
+	Away, unpeaceable dog! or I'll spurn thee hence.
+<SPEECH 5><ACT 1><SCENE 1><12%>
+	He pours it out; Plutus, the god of gold,
+	Is but his steward: no meed but he repays
+	Sevenfold above itself; no gift to him
+	But breeds the giver a return exceeding
+	All use of quittance.
+<SPEECH 6><ACT 1><SCENE 1><12%>
+	Long may he live in fortunes!
+	Shall we in?
+<SPEECH 7><ACT 1><SCENE 2><15%>
+	Let it flow this way, my good lord.
+<SPEECH 8><ACT 1><SCENE 2><17%>
+	Joy had the like conception in our eyes,
+	And, at that instant, like a babe, sprung up.
+<SPEECH 9><ACT 1><SCENE 2><20%>
+	Our horses!
+<SPEECH 10><ACT 1><SCENE 2><22%>
+	With more than common thanks I will receive it.
+<SPEECH 11><ACT 1><SCENE 2><22%>
+	So infinitely endear'd,—
+<SPEECH 12><ACT 3><SCENE 6><54%>
+	I also wish it you. I think this honourable lord did but try us this other day.
+<SPEECH 13><ACT 3><SCENE 6><54%>
+	It should not be, by the persuasion of his new feasting.
+<SPEECH 14><ACT 3><SCENE 6><54%>
+	In like manner was I in debt to my importunate business, but he would not hear my excuse. I am sorry, when he sent to borrow of me, that my provision was out.
+<SPEECH 15><ACT 3><SCENE 6><54%>
+	Every man here's so. What would he have borrowed you?
+<SPEECH 16><ACT 3><SCENE 6><55%>
+	A thousand pieces!
+<SPEECH 17><ACT 3><SCENE 6><55%>
+	The swallow follows not summer more willing than we your lordship.
+<SPEECH 18><ACT 3><SCENE 6><55%>
+	My noble lord,—
+<SPEECH 19><ACT 3><SCENE 6><55%>
+	My most honourable lord, I am e'en sick of shame, that when your lordship this other day sent to me I was so unfortunate a beggar.
+<SPEECH 20><ACT 3><SCENE 6><55%>
+	If you had sent but two hours before,—
+<SPEECH 21><ACT 3><SCENE 6><56%>
+	All covered dishes!
+<SPEECH 22><ACT 3><SCENE 6><56%>
+	Alcibiades banished!
+<SPEECH 23><ACT 3><SCENE 6><56%>
+	I pray you, upon what?
+<SPEECH 24><ACT 3><SCENE 6><56%>
+	This is the old man still.
+<SPEECH 25><ACT 3><SCENE 6><56%>
+	It does; but time will—and so—
+<SPEECH 26><ACT 3><SCENE 6><58%>
+	Know you the quality of Lord Timon's fury?
+<SPEECH 27><ACT 3><SCENE 6><58%>
+	Here 'tis.
+<SPEECH 28><ACT 3><SCENE 6><59%>
+	Lord Timon's mad.

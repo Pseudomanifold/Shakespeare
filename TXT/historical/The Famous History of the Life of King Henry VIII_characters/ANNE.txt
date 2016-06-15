@@ -1,0 +1,76 @@
+<SPEECH 1><ACT 1><SCENE 4><20%>
+	Was he mad, sir?
+<SPEECH 2><ACT 1><SCENE 4><20%>
+	You are a merry gamester,
+	My Lord Sands.
+<SPEECH 3><ACT 1><SCENE 4><21%>
+	You cannot show me.
+<SPEECH 4><ACT 2><SCENE 3><35%>
+	Not for that neither: here's the pang that pinches:
+	His highness having liv'd so long with her, and she
+	So good a lady that no tongue could ever
+	Pronounce dishonour of her; by my life,
+	She never knew harm-doing; O! now, after
+	So many courses of the sun enthron'd,
+	Still growing in a majesty and pomp, the which
+	To leave a thousand-fold more bitter than
+	'Tis sweet at first to acquire, after this process
+	To give her the avaunt! it is a pity
+	Would move a monster.
+<SPEECH 5><ACT 2><SCENE 3><35%>
+	O! God's will; much better
+	She ne'er had known pomp: though 't be temporal,
+	Yet, if that quarrel, Fortune, do divorce
+	It from the bearer, 'tis a sufferance panging
+	As soul and body's severing.
+<SPEECH 6><ACT 2><SCENE 3><35%>
+	So much the more
+	Must pity drop upon her. Verily,
+	I swear, 'tis better to be lowly born,
+	And range with humble livers in content,
+	Than to be perk'd up in a glist'ring grief
+	And wear a golden sorrow.
+<SPEECH 7><ACT 2><SCENE 3><35%>
+	By my troth and maidenhead
+	I would not be a queen.
+<SPEECH 8><ACT 2><SCENE 3><36%>
+	Nay, good troth.
+<SPEECH 9><ACT 2><SCENE 3><36%>
+	No, not for all the riches under heaven.
+<SPEECH 10><ACT 2><SCENE 3><36%>
+	No, in truth.
+<SPEECH 11><ACT 2><SCENE 3><36%>
+	How you do talk!
+	I swear again, I would not be a queen
+	For all the world.
+<SPEECH 12><ACT 2><SCENE 3><36%>
+	My good lord,
+	Not your demand; it values not your asking:
+	Our mistress' sorrows we were pitying.
+<SPEECH 13><ACT 2><SCENE 3><36%>
+	Now, I pray God, amen!
+<SPEECH 14><ACT 2><SCENE 3><37%>
+	I do not know
+	What kind of my obedience I should tender;
+	More than my all is nothing, nor my prayers
+	Are not words duly hallow'd, nor my wishes
+	More worth than empty vanities; yet prayers and wishes
+	Are all I can return. Beseech your lordship,
+	Vouchsafe to speak my thanks and my obedience,
+	As from a blushing handmaid, to his highness,
+	Whose health and royalty I pray for.
+<SPEECH 15><ACT 2><SCENE 3><37%>
+	My honour'd lord.
+<SPEECH 16><ACT 2><SCENE 3><37%>
+	This is strange to me.
+<SPEECH 17><ACT 2><SCENE 3><38%>
+	Come, you are pleasant.
+<SPEECH 18><ACT 2><SCENE 3><38%>
+	Good lady,
+	Make yourself mirth with your particular fancy,
+	And leave me out on't. Would I had no being,
+	If this salute my blood a jot: it faints me,
+	To think what follows.
+	The queen is comfortless, and we forgetful
+	In our long absence. Pray, do not deliver
+	What here you've heard to her.

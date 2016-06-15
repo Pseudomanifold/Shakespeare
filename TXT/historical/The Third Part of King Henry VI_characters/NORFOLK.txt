@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Such hope have all the line of John of Gaunt!
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	We'll all assist you; he that flies shall die.
+<SPEECH 3><ACT 1><SCENE 1><8%>
+	And I to Norfolk with my followers.

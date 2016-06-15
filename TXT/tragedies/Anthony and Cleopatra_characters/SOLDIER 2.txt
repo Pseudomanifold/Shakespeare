@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 4><SCENE 3><67%>
+	It will determine one way; fare you well.
+	Heard you of nothing strange about the streets?
+<SPEECH 2><ACT 4><SCENE 3><67%>
+	Belike, 'tis but a rumour. Good night to you.
+<SPEECH 3><ACT 4><SCENE 3><67%>
+	Soldiers, have careful watch.
+<SPEECH 4><ACT 4><SCENE 3><68%>
+	Hark!
+<SPEECH 5><ACT 4><SCENE 3><68%>
+	'Tis the god Hercules, whom Antony lov'd,
+	Now leaves him.
+<SPEECH 6><ACT 4><SCENE 3><68%>
+	How now, masters!
+<SPEECH 7><ACT 4><SCENE 1><74%>
+	This last day was
+	A shrewd one to 's.
+<SPEECH 8><ACT 4><SCENE 1><74%>
+	Stand close and list him.
+<SPEECH 9><ACT 4><SCENE 1><75%>
+	Let's speak to him.
+<SPEECH 10><ACT 4><SCENE 1><75%>
+	Go we to him.
+<SPEECH 11><ACT 4><SCENE 1><75%>
+	Hear you, sir?

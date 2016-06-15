@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 3><SCENE 2><34%>
+	It is his highness' pleasure that the queen
+	Appear in person here in court. Silence!
+<SPEECH 2><ACT 3><SCENE 2><34%>
+	Hermione, queen to the worthy Leontes, King of Sicilia, thou art here accused and arraigned of high treason, in committing adultery with Polixenes, King of Bohemia, and conspiring with Camillo to take away the life of our sovereign lord the king, thy royal husband: the pretence whereof being by circumstances partly laid open, thou, Hermione, contrary to the faith and allegiance of a true subject, didst counsel and aid them, for their better safety, to fly away by night.
+<SPEECH 3><ACT 3><SCENE 2><38%>
+	You here shall swear upon this sword of justice,
+	That you, Cleomenes and Dion, have
+	Been both at Delphos, and from thence have brought
+	This seal'd-up oracle, by the hand deliver'd
+	Of great Apollo's priest, and that since then
+	You have not dar'd to break the holy seal,
+	Nor read the secrets in't.
+<SPEECH 4><ACT 3><SCENE 2><38%>
+	Hermione is chaste; Polixenes blameless; Camillo a true subject; Leontes a jealous tyrant; his innocent babe truly begotten; and the king shall live without an heir if that which is lost be not found!
+<SPEECH 5><ACT 3><SCENE 2><38%>
+	Ay, my lord; even so
+	As it is here set down.

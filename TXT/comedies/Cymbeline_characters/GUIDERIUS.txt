@@ -1,0 +1,225 @@
+<SPEECH 1><ACT 3><SCENE 3><41%>
+	Hail, heaven!
+<SPEECH 2><ACT 3><SCENE 3><42%>
+	Out of your proof you speak; we, poor unfledg'd,
+	Have never wing'd from view o' the nest, nor know not
+	What air's from home. Haply this life is best,
+	If quiet life be best; sweeter to you
+	That have a sharper known, well corresponding
+	With your stiff age; but unto us it is
+	A cell of ignorance, travelling a-bed,
+	A prison for a debtor, that not dares
+	To stride a limit.
+<SPEECH 3><ACT 3><SCENE 3><43%>
+	Uncertain favour!
+<SPEECH 4><ACT 3><SCENE 6><56%>
+	I am throughly weary.
+<SPEECH 5><ACT 3><SCENE 6><56%>
+	There is cold meat i' the cave; we'll browse on that,
+	Whilst what we have kill'd be cook'd.
+<SPEECH 6><ACT 3><SCENE 6><56%>
+	What's the matter, sir?
+<SPEECH 7><ACT 3><SCENE 6><56%>
+	Money, youth?
+<SPEECH 8><ACT 3><SCENE 6><57%>
+	Were you a woman, youth,
+	I should woo hard but be your groom. In honesty,
+	I bid for you, as I do buy.
+<SPEECH 9><ACT 3><SCENE 6><57%>
+	Would I could free 't!
+<SPEECH 10><ACT 3><SCENE 6><58%>
+	Pray, draw near.
+<SPEECH 11><ACT 4><SCENE 2><59%>
+	Go you to hunting; I'll abide with him.
+<SPEECH 12><ACT 4><SCENE 2><60%>
+	I love thee; I have spoke it;
+	How much the quantity, the weight as much,
+	As I do love my father.
+<SPEECH 13><ACT 4><SCENE 2><60%>
+	I could not stir him;
+	He said he was gentle, but unfortunate;
+	Dishonestly afflicted, but yet honest.
+<SPEECH 14><ACT 4><SCENE 2><61%>
+	But his neat cookery! he cut our roots
+	In characters,
+	And sauc'd our broths as Juno had been sick
+	And he her dieter.
+<SPEECH 15><ACT 4><SCENE 2><61%>
+	I do note
+	That grief and patience rooted in him, both
+	Mingle their spurs together.
+<SPEECH 16><ACT 4><SCENE 2><61%>
+	He is but one. You and my brother search
+	What companies are near; pray you, away;
+	Let me alone with him.
+<SPEECH 17><ACT 4><SCENE 2><62%>
+	A thing
+	More slavish did I ne'er than answering
+	A 'slave' without a knock.
+<SPEECH 18><ACT 4><SCENE 2><62%>
+	To who? to thee? What art thou? Have not I
+	An arm as big as thine? a heart as big?
+	Thy words, I grant, are bigger, for I wear not
+	My dagger in my mouth. Say what thou art,
+	Why I should yield to thee?
+<SPEECH 19><ACT 4><SCENE 2><62%>
+	No, nor thy tailor, rascal,
+	Who is thy grandfather: he made those clothes,
+	Which, as it seems, make thee.
+<SPEECH 20><ACT 4><SCENE 2><62%>
+	Hence then, and thank
+	The man that gave them thee. Thou art some fool;
+	I am loath to beat thee.
+<SPEECH 21><ACT 4><SCENE 2><62%>
+	What's thy name?
+<SPEECH 22><ACT 4><SCENE 2><62%>
+	Cloten, thou double villain, be thy name,
+	I cannot tremble at it; were it Toad, or Adder, Spider,
+	'Twould move me sooner.
+<SPEECH 23><ACT 4><SCENE 2><62%>
+	I'm sorry for 't, not seeming
+	So worthy as thy birth.
+<SPEECH 24><ACT 4><SCENE 2><62%>
+	Those that I reverence those I fear, the wise;
+	At fools I laugh, not fear them.
+<SPEECH 25><ACT 4><SCENE 2><63%>
+	This Cloten was a fool, an empty purse,
+	There was no money in 't. Not Hercules
+	Could have knock'd out his brains, for he had none;
+	Yet I not doing this, the fool had borne
+	My head as I do his.
+<SPEECH 26><ACT 4><SCENE 2><63%>
+	I am perfect what: cut off one Cloten's head,
+	Son to the queen, after his own report;
+	Who call'd me traitor, mountaineer, and swore,
+	With his own single hand he'd take us in,
+	Displace our heads where—thank the gods!—they grow,
+	And set them on Lud's town.
+<SPEECH 27><ACT 4><SCENE 2><63%>
+	Why, worthy father, what have we to lose,
+	But that he swore to take, our lives? The law
+	Protects not us; then why should we be tender
+	To let an arrogant piece of flesh threat us,
+	Play judge and executioner all himself,
+	For we do fear the law? What company
+	Discover you abroad?
+<SPEECH 28><ACT 4><SCENE 2><64%>
+	With his own sword,
+	Which he did wave against my throat, I have ta'en
+	His head from him; I'll throw 't into the creek
+	Behind our rock, and let it to the sea,
+	And tell the fishes he's the queen's son, Cloten:
+	That's all I reck.
+<SPEECH 29><ACT 4><SCENE 2><65%>
+	Where's my brother?
+	I have sent Cloten's clotpoll down the stream,
+	In embassy to his mother; his body's hostage
+	For his return.
+<SPEECH 30><ACT 4><SCENE 2><65%>
+	Is he at home?
+<SPEECH 31><ACT 4><SCENE 2><65%>
+	What does he mean? since death of my dear'st mother
+	It did not speak before. All solemn things
+	Should answer solemn accidents. The matter?
+	Triumphs for nothing and lamenting toys
+	Is jollity for apes and grief for boys.
+	Is Cadwal mad?
+<SPEECH 32><ACT 4><SCENE 2><66%>
+	O, sweetest, fairest lily!
+	My brother wears thee not the one half so well
+	As when thou grew'st thyself.
+<SPEECH 33><ACT 4><SCENE 2><66%>
+	Where?
+<SPEECH 34><ACT 4><SCENE 2><66%>
+	Why, he but sleeps:
+	If he be gone, he'll make his grave a bed;
+	With female fairies will his tomb be haunted,
+	And worms will not come to thee.
+<SPEECH 35><ACT 4><SCENE 2><66%>
+	Prithee, have done,
+	And do not play in wench-like words with that
+	Which is so serious. Let us bury him,
+	And not protract with admiration what
+	Is now due debt. To the grave!
+<SPEECH 36><ACT 4><SCENE 2><67%>
+	By good Euriphile, our mother.
+<SPEECH 37><ACT 4><SCENE 2><67%>
+	Cadwal,
+	I cannot sing; I'll weep, and word it with thee;
+	For notes of sorrow out of tune are worse
+	Than priests and fanes that lie.
+<SPEECH 38><ACT 4><SCENE 2><67%>
+	Pray you, fetch him hither.
+	Thersites' body is as good as Ajax'
+	When neither are alive.
+<SPEECH 39><ACT 4><SCENE 2><67%>
+	Nay, Cadwal, we must lay his head to the east;
+	My father hath a reason for 't.
+<SPEECH 40><ACT 4><SCENE 2><67%>
+	Come on then, and remove him.
+<SPEECH 41><ACT 4><SCENE 2><67%>
+	Fear no more the heat o' the sun,
+	Nor the furious winter's rages;
+	Thou thy worldly task hast done,
+	Home art gone, and ta'en thy wages;
+	Golden lads and girls all must,
+	As chimney-sweepers, come to dust.
+<SPEECH 42><ACT 4><SCENE 2><68%>
+	Fear no more the lightning-flash,
+<SPEECH 43><ACT 4><SCENE 2><68%>
+	Fear not slander, censure rash;
+<SPEECH 44><ACT 4><SCENE 2><68%>
+	No exorciser harm thee!
+<SPEECH 45><ACT 4><SCENE 2><68%>
+	Ghost unlaid forbear thee!
+<SPEECH 46><ACT 4><SCENE 2><68%>
+	We have done our obsequies. Come, lay him down.
+<SPEECH 47><ACT 4><SCENE 4><73%>
+	The noise is round about us.
+<SPEECH 48><ACT 4><SCENE 4><73%>
+	Nay, what hope
+	Have we in hiding us? this way, the Romans
+	Must or for Britons slay us, or receive us
+	For barbarous and unnatural revolts
+	During their use, and slay us after.
+<SPEECH 49><ACT 4><SCENE 4><73%>
+	This is, sir, a doubt
+	In such a time nothing becoming you,
+	Nor satisfying us.
+<SPEECH 50><ACT 4><SCENE 4><74%>
+	Than be so
+	Better to cease to be. Pray, sir, to the army:
+	I and my brother are not known; yourself,
+	So out of thought, and thereto so o'ergrown,
+	Cannot be question'd.
+<SPEECH 51><ACT 4><SCENE 4><74%>
+	By heavens! I'll go:
+	If you will bless me, sir, and give me leave,
+	I'll take the better care; but if you will not,
+	The hazard therefore due fall on me by
+	The hands of Romans.
+<SPEECH 52><ACT 5><SCENE 2><76%>
+	Stand, stand, and fight!
+<SPEECH 53><ACT 5><SCENE 5><89%>
+	The same dead thing alive.
+<SPEECH 54><ACT 5><SCENE 5><89%>
+	But we saw him dead.
+<SPEECH 55><ACT 5><SCENE 5><93%>
+	This is, sure, Fidele.
+<SPEECH 56><ACT 5><SCENE 5><94%>
+	Let me end the story:
+	I slew him there.
+<SPEECH 57><ACT 5><SCENE 5><94%>
+	I have spoke it, and I did it.
+<SPEECH 58><ACT 5><SCENE 5><94%>
+	A most incivil one. The wrongs he did me
+	Were nothing prince-like; for he did provoke me
+	With language that would make me spurn the sea
+	If it could so roar to me. I cut off 's head;
+	And am right glad he is not standing here
+	To tell this tale of mine.
+<SPEECH 59><ACT 5><SCENE 5><95%>
+	And our good his.
+<SPEECH 60><ACT 5><SCENE 5><97%>
+	And at first meeting lov'd;
+	Continu'd so, until we thought he died.

@@ -1,0 +1,84 @@
+<SPEECH 1><ACT 1><SCENE 3><14%>
+	I came yonder from a great supper: the prince, your brother, is royally entertained by Leonato; and I can give you intelligence of an intended marriage.
+<SPEECH 2><ACT 1><SCENE 3><14%>
+	Marry, it is your brother's right hand.
+<SPEECH 3><ACT 1><SCENE 3><15%>
+	Even he.
+<SPEECH 4><ACT 1><SCENE 3><15%>
+	Marry, on Hero, the daughter and heir of Leonato.
+<SPEECH 5><ACT 1><SCENE 3><15%>
+	Being entertained for a perfumer, as I was smoking a musty room, comes me the prince and Claudio, hand in hand, in sad conference: I whipt me behind the arras, and there heard it agreed upon that the prince should woo Hero for himself, and having obtained her, give her to Count Claudio.
+<SPEECH 6><ACT 1><SCENE 3><15%>
+	To the death, my lord.
+<SPEECH 7><ACT 1><SCENE 3><15%>
+	We'll wait upon your lordship.
+<SPEECH 8><ACT 2><SCENE 1><21%>
+	And that is Claudio: I know him by his bearing.
+<SPEECH 9><ACT 2><SCENE 1><21%>
+	So did I too; and he swore he would marry her to-night.
+<SPEECH 10><ACT 2><SCENE 2><29%>
+	Yea, my lord; but I can cross it.
+<SPEECH 11><ACT 2><SCENE 2><29%>
+	Not honestly, my lord; but so covertly that no dishonesty shall appear in me.
+<SPEECH 12><ACT 2><SCENE 2><30%>
+	I think I told your lordship, a year since, how much I am in the favour of Margaret, the waiting-gentlewoman to Hero.
+<SPEECH 13><ACT 2><SCENE 2><30%>
+	I can, at any unseasonable instant of the night, appoint her to look out at her lady's chamber-window.
+<SPEECH 14><ACT 2><SCENE 2><30%>
+	The poison of that lies in you to temper. Go you to the prince your brother; spare not to tell him, that he hath wronged his honour in marrying the renowned Claudio,—whose estimation do you mightily hold up,—to a contaminated stale, such a one as Hero.
+<SPEECH 15><ACT 2><SCENE 2><30%>
+	Proof enough to misuse the prince, to vex Claudio, to undo Hero, and kill Leonato.
+	Look you for any other issue?
+<SPEECH 16><ACT 2><SCENE 2><30%>
+	Go, then; find me a meet hour to draw Don Pedro and the Count Claudio alone: tell them that you know that Hero loves me; intend a kind of zeal both to the prince and Claudio, as—in love of your brother's honour, who hath made this match, and his friend's reputation, who is thus like to be cozened with the semblance of a maid,—that you have discovered thus. They will scarcely believe this without trial: offer them instances, which shall bear no less likelihood than to see me at her chamber-window, hear me call Margaret Hero; hear Margaret term me Claudio; and bring them to see this the very night before the intended wedding: for in the meantime I will so fashion the matter that Hero shall be absent; and there shall appear such seeming truth of Hero's disloyalty, that jealousy shall be called assurance, and all the preparation overthrown.
+<SPEECH 17><ACT 2><SCENE 2><31%>
+	Be you constant in the accusation, and my cunning shall not shame me.
+<SPEECH 18><ACT 3><SCENE 3><54%>
+	What, Conrade!
+<SPEECH 19><ACT 3><SCENE 3><54%>
+	Conrade, I say!
+<SPEECH 20><ACT 3><SCENE 3><54%>
+	Mass, and my elbow itched; I thought there would a scab follow.
+<SPEECH 21><ACT 3><SCENE 3><54%>
+	Stand thee close then under this penthouse, for it drizzles rain, and I will, like a true drunkard, utter all to thee.
+<SPEECH 22><ACT 3><SCENE 3><54%>
+	Therefore know, I have earned of Don John a thousand ducats.
+<SPEECH 23><ACT 3><SCENE 3><54%>
+	Thou shouldst rather ask if it were possible any villany should be so rich; for when rich villains have need of poor ones, poor ones may make what price they will.
+<SPEECH 24><ACT 3><SCENE 3><54%>
+	That shows thou art unconfirmed. Thou knowest that the fashion of a doublet, or a hat, or a cloak, is nothing to a man.
+<SPEECH 25><ACT 3><SCENE 3><54%>
+	I mean, the fashion.
+<SPEECH 26><ACT 3><SCENE 3><54%>
+	Tush! I may as well say the fool's the fool. But seest thou not what a deformed thief this fashion is?
+<SPEECH 27><ACT 3><SCENE 3><55%>
+	Didst thou not hear somebody?
+<SPEECH 28><ACT 3><SCENE 3><55%>
+	Seest thou not, I say, what a deformed thief this fashion is? how giddily he turns about all the hot bloods between fourteen and five-and-thirty? sometime fashioning them like Pharaoh's soldiers in the reechy painting; sometime like god Bel's priests in the old church-window; sometime like the shaven Hercules in the smirched worm-eaten tapestry, where his cod-piece seems as massy as his club?
+<SPEECH 29><ACT 3><SCENE 3><55%>
+	Not so, neither; but know, that I have to-night wooed Margaret, the Lady Hero's gentlewoman, by the name of Hero: she leans me out at her mistress' chamber-window, bids me a thousand times good night,—I tell this tale vilely:—I should first tell thee how the prince, Claudio, and my master, planted and placed and possessed by my master Don John, saw afar off in the orchard this amiable encounter.
+<SPEECH 30><ACT 3><SCENE 3><56%>
+	Two of them did, the prince and Claudio; but the devil my master, knew she was Margaret; and partly by his oaths, which first possessed them, partly by the dark night, which did deceive them, but chiefly by my villany, which did confirm any slander that Don John had made, away went Claudio enraged; swore he would meet her, as he was appointed, next morning at the temple, and there, before the whole congregation, shame her with what he saw o'er night, and send her home again without a husband.
+<SPEECH 31><ACT 3><SCENE 3><56%>
+	We are like to prove a goodly commodity, being taken up of these men's bills.
+<SPEECH 32><ACT 4><SCENE 2><75%>
+	Borachio.
+<SPEECH 33><ACT 4><SCENE 2><75%>
+	Yea, sir, we hope.
+<SPEECH 34><ACT 4><SCENE 2><75%>
+	Sir, I say to you we are none.
+<SPEECH 35><ACT 4><SCENE 2><76%>
+	Master constable,—
+<SPEECH 36><ACT 5><SCENE 1><86%>
+	Sweet prince, let me go no further to mine answer: do you hear me, and let this count kill me. I have deceived even your very eyes: what your wisdoms could not discover, these shallow fools have brought to light; who, in the night overheard me confessing to this man how Don John your brother incensed me to slander the Lady Hero; how you were brought into the orchard and saw me court Margaret in Hero's garments; how you disgraced her, when you should marry her. My villany they have upon record; which I had rather seal with my death than repeat over to my shame. The lady is dead upon mine and my master's false accusation; and, briefly, I desire nothing but the reward of a villain.
+<SPEECH 37><ACT 5><SCENE 1><87%>
+	Yea; and paid me richly for the practice of it.
+<SPEECH 38><ACT 5><SCENE 1><87%>
+	If you would know your wronger, look on me.
+<SPEECH 39><ACT 5><SCENE 1><87%>
+	Yea, even I alone.
+<SPEECH 40><ACT 5><SCENE 1><88%>
+	No, by my soul she was not;
+	Nor knew not what she did when she spoke to me;
+	But always hath been just and virtuous
+	In anything that I do know by her.

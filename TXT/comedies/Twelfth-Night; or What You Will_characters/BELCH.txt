@@ -1,0 +1,311 @@
+<SPEECH 1><ACT 1><SCENE 3><4%>
+	What a plague means my niece, to take the death of her brother thus? I am sure care's an enemy to life.
+<SPEECH 2><ACT 1><SCENE 3><5%>
+	Why, let her except before excepted.
+<SPEECH 3><ACT 1><SCENE 3><5%>
+	Confine! I'll confine myself no finer than I am. These clothes are good enough to drink in, and so be these boots too: an they be not, let them hang themselves in their own straps.
+<SPEECH 4><ACT 1><SCENE 3><5%>
+	Who? Sir Andrew Aguecheek?
+<SPEECH 5><ACT 1><SCENE 3><5%>
+	He's as tall a man as any's in Illyria.
+<SPEECH 6><ACT 1><SCENE 3><5%>
+	Why, he has three thousand ducats a year.
+<SPEECH 7><ACT 1><SCENE 3><5%>
+	Fie, that you'll say so! he plays o' the viol-de-gamboys, and speaks three or four languages word for word without book, and hath all the good gifts of nature.
+<SPEECH 8><ACT 1><SCENE 3><6%>
+	By this hand, they are scoundrels and substractors that say so of him. Who are they?
+<SPEECH 9><ACT 1><SCENE 3><6%>
+	With drinking healths to my niece. I'll drink to her as long as there is a passage in my throat and drink in Illyria. He's a coward and a coystril, that will not drink to my niece till his brains turn o' the toe like a parish-top. What, wench! Castiliano vulgo! for here comes Sir Andrew Agueface.
+<SPEECH 10><ACT 1><SCENE 3><6%>
+	Sweet Sir Andrew!
+<SPEECH 11><ACT 1><SCENE 3><6%>
+	Accost, Sir Andrew, accost.
+<SPEECH 12><ACT 1><SCENE 3><6%>
+	My niece's chambermaid.
+<SPEECH 13><ACT 1><SCENE 3><6%>
+	You mistake, knight: 'accost' is, front her, board her, woo her, assail her.
+<SPEECH 14><ACT 1><SCENE 3><7%>
+	An thou let her part so, Sir Andrew, would thou mightst never draw sword again!
+<SPEECH 15><ACT 1><SCENE 3><7%>
+	O knight! thou lackest a cup of canary: when did I see thee so put down?
+<SPEECH 16><ACT 1><SCENE 3><8%>
+	No question.
+<SPEECH 17><ACT 1><SCENE 3><8%>
+	Pourquoi, my dear knight?
+<SPEECH 18><ACT 1><SCENE 3><8%>
+	Then hadst thou had an excellent head of hair.
+<SPEECH 19><ACT 1><SCENE 3><8%>
+	Past question; for thou seest it will not curl by nature.
+<SPEECH 20><ACT 1><SCENE 3><8%>
+	Excellent; it hangs like flax on a distaff, and I hope to see a housewife take thee between her legs, and spin it off.
+<SPEECH 21><ACT 1><SCENE 3><8%>
+	She'll none o' the count; she'll not match above her degree, neither in estate, years, nor wit; I have heard her swear it. Tut, there's life in't, man.
+<SPEECH 22><ACT 1><SCENE 3><9%>
+	Art thou good at these kickchawses, knight?
+<SPEECH 23><ACT 1><SCENE 3><9%>
+	What is thy excellence in a galliard, knight?
+<SPEECH 24><ACT 1><SCENE 3><9%>
+	And I can cut the mutton to't.
+<SPEECH 25><ACT 1><SCENE 3><9%>
+	Wherefore are these things hid? wherefore have these gifts a curtain before 'em? are they like to take dust, like Mistress Mall's picture? why dost thou not go to church in a galliard, and come home in a coranto? My very walk should be a jig: I would not so much as make water but in a sink-a-pace. What dost thou mean? is it a world to hide virtues in? I did think, by the excellent constitution of thy leg, it was formed under the star of a galliard.
+<SPEECH 26><ACT 1><SCENE 3><9%>
+	What shall we do else? were we not born under Taurus?
+<SPEECH 27><ACT 1><SCENE 3><10%>
+	No, sir, it is legs and thighs. Let me see thee caper. Ha! higher: ha, ha! excellent!
+<SPEECH 28><ACT 1><SCENE 5><16%>
+	A gentleman.
+<SPEECH 29><ACT 1><SCENE 5><16%>
+	'Tis a gentleman here,—a plague o' these pickle herring! How now, sot!
+<SPEECH 30><ACT 1><SCENE 5><16%>
+	Lechery! I defy lechery! There's one at the gate.
+<SPEECH 31><ACT 1><SCENE 5><16%>
+	Let him be the devil, an he will, I care not: give me faith, say I. Well, it's all one.
+<SPEECH 32><ACT 2><SCENE 3><27%>
+	Approach, Sir Andrew: not to be a-bed after midnight is to be up betimes; and diluculo surgere, thou knowest,—
+<SPEECH 33><ACT 2><SCENE 3><27%>
+	A false conclusion: I hate it as an unfilled can. To be up after midnight and to go to bed then, is early; so that to go to bed after midnight is to go to bed betimes. Does not our life consist of the four elements?
+<SPEECH 34><ACT 2><SCENE 3><28%>
+	Thou art a scholar; let us therefore eat and drink. Marian, I say! a stoup of wine!
+<SPEECH 35><ACT 2><SCENE 3><28%>
+	Welcome, ass. Now let's have a catch.
+<SPEECH 36><ACT 2><SCENE 3><28%>
+	Come on; there is sixpence for you: let's have a song.
+<SPEECH 37><ACT 2><SCENE 3><29%>
+	A love-song, a love-song.
+<SPEECH 38><ACT 2><SCENE 3><29%>
+	Good, good.
+<SPEECH 39><ACT 2><SCENE 3><29%>
+	A contagious breath.
+<SPEECH 40><ACT 2><SCENE 3><29%>
+	To hear by the nose, it is dulcet in contagion. But shall we make the welkin dance indeed? Shall we rouse the night-owl in a catch that will draw three souls out of one weaver? shall we do that?
+<SPEECH 41><ACT 2><SCENE 3><30%>
+	My lady's a Cataian; we are politicians; Malvolio's a Peg-a-Ramsey, and 'Three merry men be we.' Am not I consanguineous? am I not of her blood? Tillyvally, lady!
+	There dwelt a man in Babylon, lady, lady!
+<SPEECH 42><ACT 2><SCENE 3><30%>
+	O! the twelfth day of December,—
+<SPEECH 43><ACT 2><SCENE 3><31%>
+	We did keep time, sir, in our catches. Sneck up!
+<SPEECH 44><ACT 2><SCENE 3><31%>
+	Farewell, dear heart, since I must needs be gone.
+<SPEECH 45><ACT 2><SCENE 3><31%>
+	But I will never die.
+<SPEECH 46><ACT 2><SCENE 3><31%>
+	Shall I bid him go?
+<SPEECH 47><ACT 2><SCENE 3><31%>
+	Shall I bid him go, and spare not?
+<SPEECH 48><ACT 2><SCENE 3><31%>
+	'Out o' time!' Sir, ye lie. Art any more than a steward? Dost thou think, because thou art virtuous, there shall be no more cakes and ale?
+<SPEECH 49><ACT 2><SCENE 3><32%>
+	Thou'rt i' the right. Go, sir, rub your chain with crumbs. A stoup of wine, Maria!
+<SPEECH 50><ACT 2><SCENE 3><32%>
+	Do't, knight: I'll write thee a challenge; or I'll deliver thy indignation to him by word of mouth.
+<SPEECH 51><ACT 2><SCENE 3><32%>
+	Possess us, possess us; tell us something of him.
+<SPEECH 52><ACT 2><SCENE 3><33%>
+	What, for being a puritan? thy exquisite reason, dear knight?
+<SPEECH 53><ACT 2><SCENE 3><33%>
+	What wilt thou do?
+<SPEECH 54><ACT 2><SCENE 3><33%>
+	Excellent! I smell a device.
+<SPEECH 55><ACT 2><SCENE 3><33%>
+	He shall think, by the letters that thou wilt drop, that they come from my niece, and that she is in love with him.
+<SPEECH 56><ACT 2><SCENE 3><34%>
+	Good night, Penthesilea.
+<SPEECH 57><ACT 2><SCENE 3><34%>
+	She's a beagle, true-bred, and one that adores me: what o' that?
+<SPEECH 58><ACT 2><SCENE 3><34%>
+	Let's to bed, knight. Thou hadst need send for more money.
+<SPEECH 59><ACT 2><SCENE 3><34%>
+	Send for money, knight: if thou hast her not i' the end, call me cut.
+<SPEECH 60><ACT 2><SCENE 3><34%>
+	Come, come: I'll go burn some sack; 'tis too late to go to bed now. Come, knight; come, knight.
+<SPEECH 61><ACT 2><SCENE 5><39%>
+	Come thy ways, Signior Fabian.
+<SPEECH 62><ACT 2><SCENE 5><39%>
+	Wouldst thou not be glad to have the niggardly rascally sheep-biter come by some notable shame?
+<SPEECH 63><ACT 2><SCENE 5><40%>
+	To anger him we'll have the bear again; and we will fool him black and blue; shall we not, Sir Andrew?
+<SPEECH 64><ACT 2><SCENE 5><40%>
+	Here comes the little villain.
+	How now, my metal of India!
+<SPEECH 65><ACT 2><SCENE 5><40%>
+	Here's an over-weening rogue!
+<SPEECH 66><ACT 2><SCENE 5><41%>
+	Peace! I say.
+<SPEECH 67><ACT 2><SCENE 5><41%>
+	Ah, rogue!
+<SPEECH 68><ACT 2><SCENE 5><41%>
+	Peace! peace!
+<SPEECH 69><ACT 2><SCENE 5><41%>
+	O! for a stone-bow, to hit him in the eye!
+<SPEECH 70><ACT 2><SCENE 5><41%>
+	Fire and brimstone!
+<SPEECH 71><ACT 2><SCENE 5><41%>
+	Bolts and shackles!
+<SPEECH 72><ACT 2><SCENE 5><42%>
+	Shall this fellow live?
+<SPEECH 73><ACT 2><SCENE 5><42%>
+	And does not Toby take you a blow o' the lips then?
+<SPEECH 74><ACT 2><SCENE 5><42%>
+	What, what?
+<SPEECH 75><ACT 2><SCENE 5><42%>
+	Out, scab!
+<SPEECH 76><ACT 2><SCENE 5><42%>
+	O, peace! and the spirit of humours intimate reading aloud to him!
+<SPEECH 77><ACT 2><SCENE 5><43%>
+	Marry, hang thee, brock!
+<SPEECH 78><ACT 2><SCENE 5><43%>
+	Excellent wench, say I.
+<SPEECH 79><ACT 2><SCENE 5><43%>
+	And with what wing the staniel checks at it!
+<SPEECH 80><ACT 2><SCENE 5><44%>
+	O! ay, make up that: he is now at a cold scent.
+<SPEECH 81><ACT 2><SCENE 5><44%>
+	Ay, or I'll cudgel him, and make him cry, O!
+<SPEECH 82><ACT 2><SCENE 5><46%>
+	I could marry this wench for this device.
+<SPEECH 83><ACT 2><SCENE 5><46%>
+	And ask no other dowry with her but such another jest.
+<SPEECH 84><ACT 2><SCENE 5><46%>
+	Wilt thou set thy foot o' my neck?
+<SPEECH 85><ACT 2><SCENE 5><46%>
+	Shall I play my freedom at tray-trip, and become thy bond-slave?
+<SPEECH 86><ACT 2><SCENE 5><46%>
+	Why, thou hast put him in such a dream, that when the image of it leaves him he must run mad.
+<SPEECH 87><ACT 2><SCENE 5><46%>
+	Like aqua-vitæ with a midwife.
+<SPEECH 88><ACT 2><SCENE 5><47%>
+	To the gates of Tartar, thou most excellent devil of wit!
+<SPEECH 89><ACT 3><SCENE 1><50%>
+	Save you, gentleman.
+<SPEECH 90><ACT 3><SCENE 1><50%>
+	Will you encounter the house? my niece is desirous you should enter, if your trade be to her.
+<SPEECH 91><ACT 3><SCENE 1><50%>
+	Taste your legs, sir: put them to motion.
+<SPEECH 92><ACT 3><SCENE 1><50%>
+	I mean, to go, sir, to enter.
+<SPEECH 93><ACT 3><SCENE 2><54%>
+	Thy reason, dear venom; give thy reason.
+<SPEECH 94><ACT 3><SCENE 2><54%>
+	Did she see thee the while, old boy? tell me that.
+<SPEECH 95><ACT 3><SCENE 2><54%>
+	And they have been grand-jurymen since before Noah was a sailor.
+<SPEECH 96><ACT 3><SCENE 2><55%>
+	Why, then, build me thy fortunes upon the basis of valour: challenge me the count's youth to fight with him; hurt him in eleven places: my niece shall take note of it; and assure thyself, there is no love-broker in the world can more prevail in man's commendation with woman than report of valour.
+<SPEECH 97><ACT 3><SCENE 2><55%>
+	Go, write it in a martial hand; be curst and brief; it is no matter how witty, so it be eloquent, and full of invention: taunt him with the licence of ink: if thou thou'st him some thrice, it shall not be amiss; and as many lies as will lie in thy sheet of paper, although the sheet were big enough for the bed of Ware in England, set 'em down: go, about it. Let there be gall enough in thy ink, though thou write with a goose-pen, no matter: about it.
+<SPEECH 98><ACT 3><SCENE 2><56%>
+	We'll call thee at the cubiculo: go.
+<SPEECH 99><ACT 3><SCENE 2><56%>
+	I have been dear to him, lad, some two thousand strong, or so.
+<SPEECH 100><ACT 3><SCENE 2><56%>
+	Never trust me, then; and by all means stir on the youth to an answer. I think oxen and wainropes cannot hale them together. For Andrew, if he were opened, and you find so much blood in his liver as will clog the foot of a flea, I'll eat the rest of the anatomy.
+<SPEECH 101><ACT 3><SCENE 2><56%>
+	Look, where the youngest wren of nine comes.
+<SPEECH 102><ACT 3><SCENE 2><56%>
+	And cross-gartered?
+<SPEECH 103><ACT 3><SCENE 2><57%>
+	Come, bring us, bring us where he is.
+<SPEECH 104><ACT 3><SCENE 4><62%>
+	Which way is he, in the name of sanctity? If all the devils in hell be drawn in little, and Legion himself possess'd him, yet I'll speak to him.
+<SPEECH 105><ACT 3><SCENE 4><63%>
+	Go to, go to: peace! peace! we must deal gently with him; let me alone. How do you, Malvolio? how is't with you? What, man! defy the devil: consider, he's an enemy to mankind.
+<SPEECH 106><ACT 3><SCENE 4><63%>
+	Prithee, hold thy peace; this is not the way: do you not see you move him? let me alone with him.
+<SPEECH 107><ACT 3><SCENE 4><63%>
+	Why, how now, my bawcock! how dost thou, chuck?
+<SPEECH 108><ACT 3><SCENE 4><63%>
+	Ay, Biddy, come with me. What, man! 'tis not for gravity to play at cherry-pit with Satan: hang him, foul collier!
+<SPEECH 109><ACT 3><SCENE 4><64%>
+	Is't possible?
+<SPEECH 110><ACT 3><SCENE 4><64%>
+	His very genius hath taken the infection of the device, man.
+<SPEECH 111><ACT 3><SCENE 4><64%>
+	Come, we'll have him in a dark room, and bound. My niece is already in the belief that he's mad: we may carry it thus, for our pleasure and his penance, till our very pastime, tired out of breath, prompt us to have mercy on him; at which time we will bring the device to the bar, and crown thee for a finder of madmen. But see, but see.
+<SPEECH 112><ACT 3><SCENE 4><64%>
+	Give me. Youth, whatsoever thou art, thou art but a scurvy fellow.
+<SPEECH 113><ACT 3><SCENE 4><65%>
+	Wonder not, nor admire not in thy mind, why I do call thee so, for I will show thee no reason for't,
+<SPEECH 114><ACT 3><SCENE 4><65%>
+	Thou comest to the Lady Olivia, and in my sight she uses thee kindly: but thou liest in thy throat; that is not the matter I challenge thee for.
+<SPEECH 115><ACT 3><SCENE 4><65%>
+	I will waylay thee going home; where, if it be thy chance to kill me,—
+<SPEECH 116><ACT 3><SCENE 4><65%>
+	Thou killest me like a rogue and a villain.
+<SPEECH 117><ACT 3><SCENE 4><65%>
+	Fare thee well; and God have mercy upon one of our souls! He may have mercy upon mine, but my hope is better; and so look to thyself. Thy friend, as thou usest him, and thy sworn enemy,
+	<ANDREW AGUECHEEK.>If this letter move him not, his legs cannot.
+	I'll give't him.
+<SPEECH 118><ACT 3><SCENE 4><65%>
+	Go, Sir Andrew; scout me for him at the corner of the orchard like a bum-baily: so soon as ever thou seest him, draw; and, as thou drawest, swear horrible; for it comes to pass oft that a terrible oath, with a swaggering accent sharply twanged off, gives manhood more approbation than ever proof itself would have earned him. Away!
+<SPEECH 119><ACT 3><SCENE 4><66%>
+	Now will not I deliver his letter: for the behaviour of the young gentleman gives him out to be of good capacity and breeding; his employment between his lord and my niece confirms no less: therefore this letter, being so excellently ignorant, will breed no terror in the youth: he will find it comes from a clodpole. But, sir, I will deliver his challenge by word of mouth; set upon Aguecheek a notable report of valour; and drive the gentleman,—as I know his youth will aptly receive it,—into a most hideous opinion of his rage, skill, fury, and impetuosity. This will so fright them both that they will kill one another by the look, like cockatrices.
+<SPEECH 120><ACT 3><SCENE 4><66%>
+	I will meditate the while upon some horrid message for a challenge.
+<SPEECH 121><ACT 3><SCENE 4><67%>
+	Gentleman, God save thee.
+<SPEECH 122><ACT 3><SCENE 4><67%>
+	That defence thou hast, betake thee to't: of what nature the wrongs are thou hast done him, I know not; but thy intercepter, full of despite, bloody as the hunter, attends thee at the orchard-end. Dismount thy tuck, be yare in thy preparation, for thy assailant is quick, skilful, and deadly.
+<SPEECH 123><ACT 3><SCENE 4><68%>
+	You'll find it otherwise, I assure you: therefore, if you hold your life at any price, betake you to your guard; for your opposite hath in him what youth, strength, skill, and wrath, can furnish man withal.
+<SPEECH 124><ACT 3><SCENE 4><68%>
+	He is knight dubbed with unhatched rapier, and on carpet consideration; but he is a devil in private brawl: souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of death and sepulchre. Hob, nob, is his word: give't or take't.
+<SPEECH 125><ACT 3><SCENE 4><68%>
+	Sir, no; his indignation derives itself out of a very competent injury: therefore get you on and give him his desire. Back you shall not to the house, unless you undertake that with me which with as much safety you might answer him: therefore, on, or strip your sword stark naked; for meddle you must, that's certain, or forswear to wear iron about you.
+<SPEECH 126><ACT 3><SCENE 4><69%>
+	I will do so. Signior Fabian, stay you by this gentleman till my return.
+<SPEECH 127><ACT 3><SCENE 4><70%>
+	Why, man, he's a very devil; I have not seen such a firago. I had a pass with him, rapier, scabbard and all, and he gives me the stuck in with such a mortal motion that it is inevitable; and on the answer, he pays you as surely as your feet hit the ground they step on. They say he has been fencer to the Sophy.
+<SPEECH 128><ACT 3><SCENE 4><70%>
+	Ay, but he will not now be pacified: Fabian can scarce hold him yonder.
+<SPEECH 129><ACT 3><SCENE 4><70%>
+	I'll make the motion. Stand here; make a good show on't: this shall end without the perdition of souls.—<STAGE DIR>
+	</STAGE DIR> Marry, I'll ride your horse as well as I ride you.
+	</STAGE DIR> I have his horse to take up the quarrel. I have persuaded him the youth's a devil.
+<SPEECH 130><ACT 3><SCENE 4><71%>
+	There's no remedy, sir: he will fight with you for his oath's sake. Marry, he hath better bethought him of his quarrel, and he finds that now scarce to be worth talking of: therefore draw for the supportance of his vow: he protests he will not hurt you.
+<SPEECH 131><ACT 3><SCENE 4><71%>
+	Come, Sir Andrew, there's no remedy: the gentleman will, for his honour's sake, have one bout with you; he cannot by the duello avoid it: but he has promised me, as he is a gentleman and a soldier, he will not hurt you. Come on; to't.
+<SPEECH 132><ACT 3><SCENE 4><71%>
+	You, sir! why, what are you?
+<SPEECH 133><ACT 3><SCENE 4><72%>
+	Nay, if you be an undertaker, I am for you.
+<SPEECH 134><ACT 3><SCENE 4><72%>
+	I'll be with you anon.
+<SPEECH 135><ACT 3><SCENE 4><74%>
+	Come hither, knight; come hither,
+	Fabian: we'll whisper o'er a couplet or two of most sage saws.
+<SPEECH 136><ACT 3><SCENE 4><74%>
+	A very dishonest paltry boy, and more a coward than a hare. His dishonesty appears in leaving his friend here in necessity, and denying him; and for his cowardship, ask Fabian.
+<SPEECH 137><ACT 3><SCENE 4><75%>
+	Do; cuff him soundly, but never draw thy sword.
+<SPEECH 138><ACT 3><SCENE 4><75%>
+	I dare lay any money 'twill be nothing yet.
+<SPEECH 139><ACT 4><SCENE 1><76%>
+	Hold, sir, or I'll throw your dagger o'er the house.
+<SPEECH 140><ACT 4><SCENE 1><76%>
+	</STAGE DIR> Come on, sir: hold.
+<SPEECH 141><ACT 4><SCENE 1><76%>
+	Come, sir, I will not let you go. Come, my young soldier, put up your iron: you are well fleshed; come on.
+<SPEECH 142><ACT 4><SCENE 1><77%>
+	What, what! Nay then, I must have an ounce or two of this malapert blood from you.
+<SPEECH 143><ACT 4><SCENE 1><77%>
+	Madam!
+<SPEECH 144><ACT 4><SCENE 2><78%>
+	God bless thee, Master parson.
+<SPEECH 145><ACT 4><SCENE 2><79%>
+	To him, Sir Topas.
+<SPEECH 146><ACT 4><SCENE 2><79%>
+	The knave counterfeits well; a good knave.
+<SPEECH 147><ACT 4><SCENE 2><79%>
+	Well said, Master Parson.
+<SPEECH 148><ACT 4><SCENE 2><80%>
+	My most exquisite Sir Topas!
+<SPEECH 149><ACT 4><SCENE 2><80%>
+	To him in thine own voice, and bring me word how thou findest him: I would we were well rid of this knavery. If he may be conveniently delivered, I would he were; for I am now so far in offence with my niece that I cannot pursue with any safety this sport to the upshot. Come by and by to my chamber.
+<SPEECH 150><ACT 5><SCENE 1><92%>
+	That's all one: he has hurt me, and there's the end on't. Sot, didst see Dick surgeon, sot?
+<SPEECH 151><ACT 5><SCENE 1><92%>
+	Then he's a rogue, and a passy-measures pavin. I hate a drunken rogue.
+<SPEECH 152><ACT 5><SCENE 1><92%>
+	Will you help? an ass-head and a coxcomb and a knave, a thin-faced knave, a gull!

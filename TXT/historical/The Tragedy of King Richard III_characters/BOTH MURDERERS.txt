@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 1><SCENE 4><25%>
+	To, to, to—
+<SPEECH 2><ACT 1><SCENE 4><25%>
+	Ay, ay.
+<SPEECH 3><ACT 1><SCENE 4><27%>
+	Ay, so we will.

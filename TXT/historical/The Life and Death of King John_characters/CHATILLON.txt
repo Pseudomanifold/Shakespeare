@@ -1,0 +1,46 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Thus, after greeting, speaks the King of France,
+	In my behaviour, to the majesty,
+	The borrow'd majesty of England here.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Philip of France, in right and true behalf
+	Of thy deceased brother Geffrey's son,
+	Arthur Plantagenet, lays most lawful claim
+	To this fair island and the territories,
+	To Ireland, Poictiers, Anjou, Touraine, Maine;
+	Desiring thee to lay aside the sword
+	Which sways usurpingly these several titles,
+	And put the same into young Arthur's hand,
+	Thy nephew and right royal sovereign.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	The proud control of fierce and bloody war,
+	To enforce these rights so forcibly withheld.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	Then take my king's defiance from my mouth,
+	The furthest limit of my embassy.
+<SPEECH 5><ACT 2><SCENE 1><13%>
+	Then turn your forces from this paltry siege
+	And stir them up against a mightier task.
+	England, impatient of your just demands,
+	Hath put himself in arms: the adverse winds,
+	Whose leisure I have stay'd, have given him time
+	To land his legions all as soon as I;
+	His marches are expedient to this town,
+	His forces strong, his soldiers confident.
+	With him along is come the mother-queen,
+	An Ate, stirring him to blood and strife;
+	With her her niece, the Lady Blanch of Spain;
+	With them a bastard of the king's deceas'd;
+	And all the unsettled humours of the land,
+	Rash, inconsiderate, fiery voluntaries,
+	With ladies' faces and fierce dragons' spleens,
+	Have sold their fortunes at their native homes,
+	Bearing their birthrights proudly on their backs,
+	To make a hazard of new fortunes here.
+	In brief, a braver choice of dauntless spirits
+	Than now the English bottoms have waft o'er
+	Did never float upon the swelling tide,
+	To do offence and scathe in Christendom.
+	The interruption of their churlish drums
+	Cuts off more circumstance: they are at hand,
+	To parley or to fight; therefore prepare.

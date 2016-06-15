@@ -1,0 +1,241 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+	If my shirt were bloody, them to shift it. Have I hurt him?
+<SPEECH 2><ACT 1><SCENE 2><6%>
+	The villain would not stand me.
+<SPEECH 3><ACT 1><SCENE 2><7%>
+	I would they had not come between us.
+<SPEECH 4><ACT 1><SCENE 2><7%>
+	And that she should love this fellow and refuse me!
+<SPEECH 5><ACT 1><SCENE 2><7%>
+	Come, I'll to my chamber. Would there had been some hurt done!
+<SPEECH 6><ACT 1><SCENE 2><7%>
+	You'll go with us?
+<SPEECH 7><ACT 1><SCENE 2><7%>
+	Nay, come, let's go together.
+<SPEECH 8><ACT 2><SCENE 1><22%>
+	Was there ever man had such luck! when I kissed the jack, upon an up-cast to be hit away! I had a hundred pound on 't; and then a whoreson jackanapes must take me up for swearing, as if I borrowed mine oaths of him and might not spend them at my pleasure.
+<SPEECH 9><ACT 2><SCENE 1><22%>
+	When a gentleman is disposed to swear, it is not for any standers-by to curtail his oaths, ha?
+<SPEECH 10><ACT 2><SCENE 1><23%>
+	Whoreson dog! I give him satisfaction!
+	Would he had been one of my rank!
+<SPEECH 11><ACT 2><SCENE 1><23%>
+	I am not vexed more at any thing in the earth. A pox on 't! I had rather not be so noble as I am. They dare not fight with me because of the queen my mother. Every Jack-slave hath his bellyful of fighting, and I must go up and down like a cock that nobody can match.
+<SPEECH 12><ACT 2><SCENE 1><23%>
+	Sayest thou?
+<SPEECH 13><ACT 2><SCENE 1><23%>
+	No, I know that; but it is fit I should commit offence to my inferiors.
+<SPEECH 14><ACT 2><SCENE 1><23%>
+	Why, so I say.
+<SPEECH 15><ACT 2><SCENE 1><23%>
+	A stranger, and I not know on 't!
+<SPEECH 16><ACT 2><SCENE 1><23%>
+	Leonatus! a banished rascal; and he's another, whatsoever he be. Who told you of this stranger?
+<SPEECH 17><ACT 2><SCENE 1><23%>
+	Is it fit I went to look upon him? Is there no derogation in 't?
+<SPEECH 18><ACT 2><SCENE 1><23%>
+	Not easily, I think.
+<SPEECH 19><ACT 2><SCENE 1><24%>
+	Come, I'll go see this Italian. What I have lost to-day at bowls I'll win to-night of him. Come, go.
+<SPEECH 20><ACT 2><SCENE 3><26%>
+	It would make any man cold to lose.
+<SPEECH 21><ACT 2><SCENE 3><26%>
+	Winning will put any man into courage.
+	If I could get this foolish Imogen, I should have gold enough. It's almost morning, is 't not?
+<SPEECH 22><ACT 2><SCENE 3><26%>
+	I would this music would come. I am advised to give her music o' mornings; they say it will penetrate.
+	Come on; tune. If you can penetrate her with your fingering, so; we'll try with tongue too: if none will do, let her remain; but I'll never give o'er. First, a very excellent good-conceited thing; after, a wonderful sweet air, with admirable rich words to it: and then let her consider.
+	Hark! hark! the lark at heaven's gate sings,
+	And Phœbus 'gins arise,
+	His steeds to water at those springs
+	On chalic'd flowers that lies,
+	And winking Mary-buds begin
+	To ope their golden eyes:
+	With every thing that pretty is,
+	My lady sweet, arise.
+	Arise, arise!
+	So, get you gone. If this penetrate, I will consider your music the better; if it do not, it is a vice in her ears, which horse-hairs and calves'-guts, nor the voice of unpaved eunuch to boot, can never amend.
+<SPEECH 23><ACT 2><SCENE 3><27%>
+	I am glad I was up so late, for that's the reason I was up so early; he cannot choose but take this service I have done fatherly.
+	Good morrow to your majesty and to my gracious mother.
+<SPEECH 24><ACT 2><SCENE 3><27%>
+	I have assail'd her with musics, but she vouchsafes no notice.
+<SPEECH 25><ACT 2><SCENE 3><27%>
+	Senseless! not so.
+<SPEECH 26><ACT 2><SCENE 3><28%>
+	If she be up, I'll speak with her; if not,
+	Let her lie still, and dream. By your leave, ho!
+	I know her women are about her. What
+	If I do line one of their hands? 'Tis gold
+	Which buys admittance; oft it doth; yea, and makes
+	Diana's rangers false themselves, yield up
+	Their deer to the stand o' the stealer; and 'tis gold
+	Which makes the true man kill'd and saves the thief;
+	Nay, sometime hangs both thief and true man. What
+	Can it not do and undo? I will make
+	One of her women lawyer to me, for
+	I yet not understand the case myself.
+	By your leave.
+<SPEECH 27><ACT 2><SCENE 3><28%>
+	A gentleman.
+<SPEECH 28><ACT 2><SCENE 3><28%>
+	Yes, and a gentlewoman's son.
+<SPEECH 29><ACT 2><SCENE 3><28%>
+	Your lady's person: is she ready?
+<SPEECH 30><ACT 2><SCENE 3><28%>
+	There's gold for you; sell me your good report.
+<SPEECH 31><ACT 2><SCENE 3><28%>
+	Good morrow, fairest; sister, your sweet hand.
+<SPEECH 32><ACT 2><SCENE 3><29%>
+	Still, I swear I love you.
+<SPEECH 33><ACT 2><SCENE 3><29%>
+	This is no answer.
+<SPEECH 34><ACT 2><SCENE 3><29%>
+	To leave you in your madness, 'twere my sin:
+	I will not.
+<SPEECH 35><ACT 2><SCENE 3><29%>
+	Do you call me fool?
+<SPEECH 36><ACT 2><SCENE 3><29%>
+	You sin against
+	Obedience, which you owe your father. For
+	The contract you pretend with that base wretch,
+	One bred of alms and foster'd with cold dishes,
+	With scraps o' the court, it is no contract, none;
+	And though it be allow'd in meaner parties—
+	Yet who than he more mean?—to knit their souls—
+	On whom there is no more dependancy
+	But brats and beggary—in self-figur'd knot;
+	Yet you are curb'd from that enlargement by
+	The consequence o' the crown, and must not soil
+	The precious note of it with a base slave,
+	A hilding for a livery, a squire's cloth,
+	A pantler, not so eminent.
+<SPEECH 37><ACT 2><SCENE 3><30%>
+	The south-fog rot him!
+<SPEECH 38><ACT 2><SCENE 3><30%>
+	'His garment!' Now, the devil—
+<SPEECH 39><ACT 2><SCENE 3><30%>
+	'His garment!'
+<SPEECH 40><ACT 2><SCENE 3><30%>
+	You have abus'd me:
+	'His meanest garment!'
+<SPEECH 41><ACT 2><SCENE 3><30%>
+	I will inform your father.
+<SPEECH 42><ACT 2><SCENE 3><30%>
+	I'll be reveng'd.
+	'His meanest garment!' Well.
+<SPEECH 43><ACT 3><SCENE 1><37%>
+	There be many Cæsars
+	Ere such another Julius. Britain is
+	A world by itself, and we will nothing pay
+	For wearing our own noses.
+<SPEECH 44><ACT 3><SCENE 1><37%>
+	Come, there's no more tribute to be paid. Our kingdom is stronger than it was at that time; and, as I said, there is no moe such Cæsars; other of them may have crooked noses, but to owe such straight arms, none.
+<SPEECH 45><ACT 3><SCENE 1><37%>
+	We have yet many among us can gripe as hard as Cassibelan; I do not say I am one, but I have a hand. Why tribute? why should we pay tribute? If Cæsar can hide the sun from us with a blanket, or put the moon in his pocket, we will pay him tribute for light; else, sir, no more tribute, pray you now.
+<SPEECH 46><ACT 3><SCENE 1><38%>
+	His majesty bids you welcome. Make pastime with us a day or two, or longer; if you seek us afterwards in other terms, you shall find us in our salt-water girdle; if you beat us out of it, it is yours; if you fall in the adventure, our crows shall fare the better for you; and there's an end.
+<SPEECH 47><ACT 3><SCENE 5><50%>
+	Receive it friendly; but from this time forth
+	I wear it as your enemy.
+<SPEECH 48><ACT 3><SCENE 5><50%>
+	'Tis all the better;
+	Your valiant Britons have their wishes in it.
+<SPEECH 49><ACT 3><SCENE 5><51%>
+	That man of hers, Pisanio, her old servant,
+	I have not seen these two days.
+<SPEECH 50><ACT 3><SCENE 5><52%>
+	'Tis certain she is fled.
+	Go in and cheer the king; he rages, none
+	Dare come about him.
+<SPEECH 51><ACT 3><SCENE 5><52%>
+	I love and hate her; for she's fair and royal,
+	And that she hath all courtly parts more exquisite
+	Than lady, ladies, woman; from every one
+	The best she hath, and she, of all compounded,
+	Outsells them all. I love her therefore; but
+	Disdaining me and throwing favours on
+	The low Posthumus slanders so her judgment
+	That what's else rare is chok'd, and in that point
+	I will conclude to hate her, nay, indeed,
+	To be reveng'd upon her. For, when fools
+	Shall—
+	Who is here? What! are you packing, sirrah?
+	Come hither. Ah! you precious pandar. Villain,
+	Where is thy lady? In a word; or else
+	Thou art straightway with the fiends.
+<SPEECH 52><ACT 3><SCENE 5><52%>
+	Where is thy lady? or, by Jupiter
+	I will not ask again. Close villain,
+	I'll have this secret from thy heart, or rip
+	Thy heart to find it. Is she with Posthumus?
+	From whose so many weights of baseness cannot
+	A dram of worth be drawn.
+<SPEECH 53><ACT 3><SCENE 5><53%>
+	Where is she, sir? Come nearer,
+	No further halting; satisfy me home
+	What is become of her?
+<SPEECH 54><ACT 3><SCENE 5><53%>
+	All-worthy villain!
+	Discover where thy mistress is at once.
+	At the next word; no more of 'worthy lord!'
+	Speak, or thy silence on the instant is
+	Thy condemnation and thy death.
+<SPEECH 55><ACT 3><SCENE 5><53%>
+	Let's see 't. I will pursue her
+	Even to Augustus' throne.
+<SPEECH 56><ACT 3><SCENE 5><53%>
+	Hum!
+<SPEECH 57><ACT 3><SCENE 5><53%>
+	Sirrah, is this letter true?
+<SPEECH 58><ACT 3><SCENE 5><53%>
+	It is Posthumus' hand; I know 't. Sirrah, if thou wouldst not be a villain, but do me true service, undergo those employments wherein I should have cause to use thee with a serious industry, that is, what villany soe'er I bid thee do, to perform it directly and truly, I would think thee an honest man; thou shouldst neither want my means for thy relief nor my voice for thy preferment.
+<SPEECH 59><ACT 3><SCENE 5><53%>
+	Wilt thou serve me? For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine. Wilt thou serve me?
+<SPEECH 60><ACT 3><SCENE 5><53%>
+	Give me thy hand; here's my purse. Hast any of thy late master's garments in thy possession?
+<SPEECH 61><ACT 3><SCENE 5><54%>
+	The first service thou dost me, fetch that suit hither: let it be thy first service; go.
+<SPEECH 62><ACT 3><SCENE 5><54%>
+	Meet thee at Milford-Haven!—I forgot to ask him one thing; I'll remember 't anon,—even there, thou villain Posthumus, will I kill thee. I would these garments were come. She said upon a time,—the bitterness of it I now belch from my heart,—that she held the very garment of Posthumus in more respect than my noble and natural person, together with the adornment of my qualities. With that suit upon my back will I ravish her: first kill him, and in her eyes; there shall she see my valour, which will then be a torment to her contempt. He on the ground, my speech of insultment ended on his dead body, and when my lust hath dined,—which, as I say, to vex her, I will execute in the clothes that she so praised,—to the court I'll knock her back, foot her home again. She hath despised me rejoicingly, and I'll be merry in my revenge.
+	Be those the garments?
+<SPEECH 63><ACT 3><SCENE 5><54%>
+	How long is 't since she went to Milford-Haven?
+<SPEECH 64><ACT 3><SCENE 5><54%>
+	Bring this apparel to my chamber; that is the second thing that I have commanded thee: the third is, that thou wilt be a voluntary mute to my design. Be but duteous, and true preferment shall tender itself to thee. My revenge is now at Milford; would I had wings to follow it!
+	Come, and be true.
+<SPEECH 65><ACT 4><SCENE 1><58%>
+	I am near to the place where they should meet, if Pisanio have mapped it truly. How fit his garments serve me! Why should his mistress, who was made by him that made the tailor, not be fit too? the rather,—saving reverence of the word,—for 'tis said a woman's fitness comes by fits. Therein I must play the workman. I dare speak it to myself,—for it is not vain-glory, for a man and his glass to confer in his own chamber,—I mean, the lines of my body are as well drawn as his; no less young, more strong, not beneath him in fortunes, beyond him in the advantage of the time, above him in birth, alike conversant in general services, and more remarkable in single oppositions; yet this imperceiverant thing loves him in my despite. What mortality is! Posthumus, thy head, which now is growing upon thy shoulders, shall within this hour be off, thy mistress enforced, thy garments cut to pieces before thy face; and all this done, spurn her home to her father, who may haply be a little angry for my so rough usage, but my mother, having power of his testiness, shall turn all into my commendations. My horse is tied up safe; out, sword, and to a sore purpose! Fortune, put them into my hand! This is the very description of their meeting-place; and the fellow dares not deceive me.
+<SPEECH 66><ACT 4><SCENE 2><61%>
+	I cannot find those runagates; that villain
+	Hath mock'd me. I am faint.
+<SPEECH 67><ACT 4><SCENE 2><61%>
+	Soft! What are you
+	That fly me thus? some villain mountainers?
+	I have heard of such. What slave art thou?
+<SPEECH 68><ACT 4><SCENE 2><62%>
+	Thou art a robber,
+	A law-breaker, a villain. Yield thee, thief.
+<SPEECH 69><ACT 4><SCENE 2><62%>
+	Thou villain base,
+	Know'st me not by my clothes?
+<SPEECH 70><ACT 4><SCENE 2><62%>
+	Thou precious varlet,
+	My tailor made them not.
+<SPEECH 71><ACT 4><SCENE 2><62%>
+	Thou injurious thief,
+	Hear but my name, and tremble.
+<SPEECH 72><ACT 4><SCENE 2><62%>
+	Cloten, thou villain.
+<SPEECH 73><ACT 4><SCENE 2><62%>
+	To thy further fear,
+	Nay, to thy mere confusion, thou shalt know
+	I am son to the queen.
+<SPEECH 74><ACT 4><SCENE 2><62%>
+	Art not afeard?
+<SPEECH 75><ACT 4><SCENE 2><62%>
+	Die the death:
+	When I have slain thee with my proper hand,
+	I'll follow those that even now fled hence,
+	And on the gates of Lud's town set your heads:
+	Yield, rustic mountaineer.

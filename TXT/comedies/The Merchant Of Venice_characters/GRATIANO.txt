@@ -1,0 +1,223 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	You look not well, Signior Antonio;
+	You have too much respect upon the world:
+	They lose it that do buy it with much care:
+	Believe me, you are marvellously chang'd.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	Let me play the fool:
+	With mirth and laughter let old wrinkles come,
+	And let my liver rather heat with wine
+	Than my heart cool with mortifying groans.
+	Why should a man, whose blood is warm within,
+	Sit like his grandsire cut in alabaster?
+	Sleep when he wakes, and creep into the jaundice
+	By being peevish? I tell thee what, Antonio—
+	I love thee, and it is my love that speaks—
+	There are a sort of men whose visages
+	Do cream and mantle like a standing pond,
+	And do a wilful stillness entertain,
+	With purpose to be dress'd in an opinion
+	Of wisdom, gravity, profound conceit;
+	As who should say, 'I am Sir Oracle,
+	And when I ope my lips let no dog bark!'
+	O, my Antonio, I do know of these,
+	That therefore only are reputed wise
+	For saying nothing; when, I am very sure,
+	If they should speak, would almost damn those ears
+	Which, hearing them, would call their brothers fools.
+	I'll tell thee more of this another time:
+	But fish not, with this melancholy bait,
+	For this fool-gudgeon, this opinion.
+	Come, good Lorenzo. Fare ye well awhile:
+	I'll end my exhortation after dinner.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	Well, keep me company but two years moe,
+	Thou shalt not know the sound of thine own tongue.
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	Thanks, i' faith; for silence is only commendable
+	In a neat's tongue dried and a maid not vendible.
+<SPEECH 5><ACT 2><SCENE 2><28%>
+	Where is your master?
+<SPEECH 6><ACT 2><SCENE 2><28%>
+	Signior Bassanio!—
+<SPEECH 7><ACT 2><SCENE 2><28%>
+	I have a suit to you.
+<SPEECH 8><ACT 2><SCENE 2><28%>
+	You must not deny me: I must go with you to Belmont.
+<SPEECH 9><ACT 2><SCENE 2><28%>
+	Signior Bassanio, hear me:
+	If I do not put on a sober habit,
+	Talk with respect, and swear but now and then,
+	Wear prayer-books in my pocket, look demurely,
+	Nay more, while grace is saying, hood mine eyes
+	Thus with my hat, and sigh, and say 'amen;'
+	Use all the observance of civility,
+	Like one well studied in a sad ostent
+	To please his grandam, never trust me more.
+<SPEECH 10><ACT 2><SCENE 2><29%>
+	Nay, but I bar to-night; you shall not gauge me
+	By what we do to-night.
+<SPEECH 11><ACT 2><SCENE 2><29%>
+	And I must to Lorenzo and the rest;
+	But we will visit you at supper-time.
+<SPEECH 12><ACT 2><SCENE 4><30%>
+	We have not made good preparation.
+<SPEECH 13><ACT 2><SCENE 4><30%>
+	Love news, in faith.
+<SPEECH 14><ACT 2><SCENE 4><31%>
+	Was not that letter from fair Jessica?
+<SPEECH 15><ACT 2><SCENE 6><34%>
+	This is the penthouse under which Lorenzo
+	Desir'd us to make stand.
+<SPEECH 16><ACT 2><SCENE 6><34%>
+	And it is marvel he out-dwells his hour,
+	For lovers ever run before the clock.
+<SPEECH 17><ACT 2><SCENE 6><34%>
+	That ever holds: who riseth from a feast
+	With that keen appetite that he sits down?
+	Where is the horse that doth untread again
+	His tedious measures with the unbated fire
+	That he did pace them first? All things that are,
+	Are with more spirit chased than enjoy'd.
+	How like a younker or a prodigal
+	The scarfed bark puts from her native bay,
+	Hugg'd and embraced by the strumpet wind!
+	How like the prodigal doth she return,
+	With over-weather'd ribs and ragged sails,
+	Lean, rent, and beggar'd by the strumpet wind!
+<SPEECH 18><ACT 2><SCENE 6><36%>
+	Now, by my hood, a Gentile, and no Jew.
+<SPEECH 19><ACT 2><SCENE 6><36%>
+	Signior Antonio!
+<SPEECH 20><ACT 2><SCENE 6><36%>
+	I am glad on't: I desire no more delight
+	Than to be under sail and gone to-night.
+<SPEECH 21><ACT 3><SCENE 2><57%>
+	My Lord Bassanio and my gentle lady,
+	I wish you all the joy that you can wish;
+	For I am sure you can wish none from me:
+	And when your honours mean to solemnize
+	The bargain of your faith, I do beseech you,
+	Even at that time I may be married too.
+<SPEECH 22><ACT 3><SCENE 2><57%>
+	I thank your lordship, you have got me one.
+	My eyes, my lord, can look as swift as yours:
+	You saw the mistress, I beheld the maid;
+	You lov'd, I lov'd for intermission.
+	No more pertains to me, my lord, than you.
+	Your fortune stood upon the caskets there,
+	And so did mine too, as the matter falls;
+	For wooing here until I sweat again,
+	And swearing till my very roof was dry
+	With oaths of love, at last, if promise last,
+	I got a promise of this fair one here
+	To have her love, provided that your fortune
+	Achiev'd her mistress.
+<SPEECH 23><ACT 3><SCENE 2><58%>
+	Yes, faith, my lord.
+<SPEECH 24><ACT 3><SCENE 2><58%>
+	We'll play with them the first boy for a thousand ducats.
+<SPEECH 25><ACT 3><SCENE 2><58%>
+	No; we shall ne'er win at that sport, and stake down.
+	But who comes here? Lorenzo and his infidel?
+	What! and my old Venetian friend, Salanio?
+<SPEECH 26><ACT 3><SCENE 2><59%>
+	Nerissa, cheer yon stranger; bid her welcome.
+	Your hand, Salanio. What's the news from Venice?
+	How doth that royal merchant, good Antonio?
+	I know he will be glad of our success;
+	We are the Jasons, we have won the fleece.
+<SPEECH 27><ACT 4><SCENE 1><75%>
+	Not on thy sole, but on thy soul, harsh Jew,
+	Thou mak'st thy knife keen; but no metal can,
+	No, not the hangman's axe, bear half the keenness
+	Of thy sharp envy. Can no prayers pierce thee?
+<SPEECH 28><ACT 4><SCENE 1><75%>
+	O, be thou damn'd, inexecrable dog!
+	And for thy life let justice be accus'd.
+	Thou almost mak'st me waver in my faith
+	To hold opinion with Pythagoras,
+	That souls of animals infuse themselves
+	Into the trunks of men: thy currish spirit
+	Govern'd a wolf, who, hang'd for human slaughter,
+	Even from the gallows did his fell soul fleet,
+	And whilst thou lay'st in thy unhallow'd dam,
+	Infus'd itself in thee; for thy desires
+	Are wolfish, bloody, starv'd, and ravenous.
+<SPEECH 29><ACT 4><SCENE 1><81%>
+	I have a wife, whom, I protest, I love:
+	I would she were in heaven, so she could
+	Entreat some power to change this currish Jew.
+<SPEECH 30><ACT 4><SCENE 1><82%>
+	O upright judge! Mark, Jew: O learned judge!
+<SPEECH 31><ACT 4><SCENE 1><82%>
+	O learned judge! Mark, Jew: a learned judge!
+<SPEECH 32><ACT 4><SCENE 1><82%>
+	O Jew! an upright judge, a learned judge!
+<SPEECH 33><ACT 4><SCENE 1><83%>
+	A second Daniel, a Daniel, Jew!
+	Now, infidel, I have thee on the hip.
+<SPEECH 34><ACT 4><SCENE 1><83%>
+	A Daniel, still say I; a second Daniel!
+	I thank thee, Jew, for teaching me that word.
+<SPEECH 35><ACT 4><SCENE 1><84%>
+	Beg that thou mayst have leave to hang thyself:
+	And yet, thy wealth being forfeit to the state,
+	Thou hast not left the value of a cord;
+	Therefore thou must be hang'd at the state's charge.
+<SPEECH 36><ACT 4><SCENE 1><84%>
+	A halter gratis; nothing else, for God's sake!
+<SPEECH 37><ACT 4><SCENE 1><85%>
+	In christening thou shalt have two godfathers;
+	Had I been judge, thou shouldst have had ten more,
+	To bring thee to the gallows, not the font.
+<SPEECH 38><ACT 4><SCENE 2><88%>
+	Fair sir, you are well o'erta'en.
+	My Lord Bassanio upon more advice
+	Hath sent you here this ring, and doth entreat
+	Your company at dinner.
+<SPEECH 39><ACT 4><SCENE 2><88%>
+	That will I do.
+<SPEECH 40><ACT 5><SCENE 1><94%>
+	</STAGE DIR> By yonder moon I swear you do me wrong;
+	In faith, I gave it to the judge's clerk:
+	Would he were gelt that had it, for my part,
+	Since you do take it, love, so much at heart.
+<SPEECH 41><ACT 5><SCENE 1><94%>
+	About a hoop of gold, a paltry ring
+	That she did give me, whose poesy was
+	For all the world like cutlers' poetry
+	Upon a knife, 'Love me, and leave me not.'
+<SPEECH 42><ACT 5><SCENE 1><94%>
+	He will, an if he live to be a man.
+<SPEECH 43><ACT 5><SCENE 1><95%>
+	Now, by this hand, I gave it to a youth,
+	A kind of boy, a little scrubbed boy,
+	No higher than thyself, the judge's clerk.
+	A prating boy, that begg'd it as a fee:
+	I could not for my heart deny it him.
+<SPEECH 44><ACT 5><SCENE 1><95%>
+	My Lord Bassanio gave his ring away
+	Unto the judge that begg'd it, and indeed
+	Deserv'd it too; and then the boy, his clerk,
+	That took some pains in writing, he begg'd mine;
+	And neither man nor master would take aught
+	But the two rings.
+<SPEECH 45><ACT 5><SCENE 1><97%>
+	Well, do you so: let me not take him, then;
+	For if I do, I'll mar the young clerk's pen.
+<SPEECH 46><ACT 5><SCENE 1><98%>
+	Why, this is like the mending of highways
+	In summer, where the ways are fair enough.
+	What! are we cuckolds ere we have deserv'd it?
+<SPEECH 47><ACT 5><SCENE 1><99%>
+	Were you the clerk that is to make me cuckold?
+<SPEECH 48><ACT 5><SCENE 1><100%>
+	Let it be so: the first inter'gatory
+	That my Nerissa shall be sworn on is,
+	Whe'r till the next night she had rather stay,
+	Or go to bed now, being two hours to day:
+	But were the day come, I should wish it dark,
+	That I were couching with the doctor's clerk.
+	Well, while I live I'll fear no other thing
+	So sore as keeping safe Nerissa's ring.

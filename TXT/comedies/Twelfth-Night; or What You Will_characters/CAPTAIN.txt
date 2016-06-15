@@ -1,0 +1,42 @@
+<SPEECH 1><ACT 1><SCENE 2><2%>
+	This is Illyria, lady.
+<SPEECH 2><ACT 1><SCENE 2><2%>
+	It is perchance that you yourself were sav'd.
+<SPEECH 3><ACT 1><SCENE 2><2%>
+	True, madam: and, to comfort you with chance,
+	Assure yourself, after our ship did split,
+	When you and those poor number sav'd with you
+	Hung on our driving boat, I saw your brother,
+	Most provident in peril, bind himself,—
+	Courage and hope both teaching him the practice,—
+	To a strong mast that liv'd upon the sea;
+	Where, like Arion on the dolphin's back,
+	I saw him hold acquaintance with the waves
+	So long as I could see.
+<SPEECH 4><ACT 1><SCENE 2><3%>
+	Ay, madam, well; for I was bred and born
+	Not three hours' travel from this very place.
+<SPEECH 5><ACT 1><SCENE 2><3%>
+	A noble duke, in nature as in name.
+<SPEECH 6><ACT 1><SCENE 2><3%>
+	Orsino.
+<SPEECH 7><ACT 1><SCENE 2><3%>
+	And so is now, or was so very late;
+	For but a month ago I went from hence,
+	And then 'twas fresh in murmur,—as, you know,
+	What great ones do the less will prattle of,—
+	That he did seek the love of fair Olivia.
+<SPEECH 8><ACT 1><SCENE 2><3%>
+	A virtuous maid, the daughter of a count
+	That died some twelvemonth since; then leaving her
+	In the protection of his son, her brother,
+	Who shortly also died: for whose dear love,
+	They say she hath abjur'd the company
+	And sight of men.
+<SPEECH 9><ACT 1><SCENE 2><4%>
+	That were hard to compass,
+	Because she will admit no kind of suit,
+	No, not the duke's.
+<SPEECH 10><ACT 1><SCENE 2><4%>
+	Be you his eunuch, and your mute I'll be:
+	When my tongue blabs, then let mine eyes not see.

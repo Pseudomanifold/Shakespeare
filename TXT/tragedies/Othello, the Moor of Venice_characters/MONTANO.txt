@@ -1,0 +1,82 @@
+<SPEECH 1><ACT 2><SCENE 1><21%>
+	What from the cape can you discern at sea?
+<SPEECH 2><ACT 2><SCENE 1><21%>
+	Methinks the wind hath spoke aloud at land;
+	A fuller blast ne'er shook our battlements;
+	If it hath ruffian'd so upon the sea,
+	What ribs of oak, when mountains melt on them,
+	Can hold the mortise? what shall we hear of this?
+<SPEECH 3><ACT 2><SCENE 1><21%>
+	If that the Turkish fleet
+	Be not enshelter'd and embay'd, they are drown'd;
+	It is impossible they bear it out.
+<SPEECH 4><ACT 2><SCENE 1><22%>
+	How! is this true?
+<SPEECH 5><ACT 2><SCENE 1><22%>
+	I am glad on 't; 'tis a worthy governor.
+<SPEECH 6><ACT 2><SCENE 1><22%>
+	Pray heaven he be;
+	For I have serv'd him, and the man commands
+	Like a full soldier. Let's to the sea-side, ho!
+	As well to see the vessel that's come in
+	As to throw out our eyes for brave Othello,
+	Even till we make the main and the aerial blue
+	An indistinct regard.
+<SPEECH 7><ACT 2><SCENE 1><22%>
+	Is he well shipp'd?
+<SPEECH 8><ACT 2><SCENE 1><23%>
+	But, good lieutenant, is your general wiv'd?
+<SPEECH 9><ACT 2><SCENE 1><23%>
+	What is she?
+<SPEECH 10><ACT 2><SCENE 3><33%>
+	Good faith, a little one; not past a pint, as I am a soldier.
+<SPEECH 11><ACT 2><SCENE 3><33%>
+	I am for it, lieutenant; and I'll do you justice.
+<SPEECH 12><ACT 2><SCENE 3><34%>
+	To the platform, masters; come, let's set the watch.
+<SPEECH 13><ACT 2><SCENE 3><34%>
+	But is he often thus?
+<SPEECH 14><ACT 2><SCENE 3><35%>
+	It were well
+	The general were put in mind of it.
+	Perhaps he sees it not; or his good nature
+	Prizes the virtue that appears in Cassio,
+	And looks not on his evils. Is not this true?
+<SPEECH 15><ACT 2><SCENE 3><35%>
+	And 'tis great pity that the noble Moor
+	Should hazard such a place as his own second
+	With one of an ingraft infirmity;
+	It were an honest action to say
+	So to the Moor.
+<SPEECH 16><ACT 2><SCENE 3><35%>
+	What's the matter, lieutenant?
+<SPEECH 17><ACT 2><SCENE 3><35%>
+	</STAGE DIR> Nay, good lieutenant;
+	I pray you, sir, hold your hand.
+<SPEECH 18><ACT 2><SCENE 3><35%>
+	Come, come; you're drunk.
+<SPEECH 19><ACT 2><SCENE 3><36%>
+	'Zounds! I bleed still; I am hurt to the death.
+<SPEECH 20><ACT 2><SCENE 3><37%>
+	Worthy Othello, I am hurt to danger;
+	Your officer, Iago, can inform you,
+	While I spare speech, which something now offends me,
+	Of all that I do know; nor know I aught
+	By me that's said or done amiss this night,
+	Unless self-charity be sometimes a vice,
+	And to defend ourselves it be a sin
+	When violence assails us.
+<SPEECH 21><ACT 2><SCENE 3><37%>
+	If partially affin'd, or leagu'd in office,
+	Thou dost deliver more or less than truth,
+	Thou art no soldier.
+<SPEECH 22><ACT 5><SCENE 2><94%>
+	What is the matter? How now, general!
+<SPEECH 23><ACT 5><SCENE 2><94%>
+	O monstrous act!
+<SPEECH 24><ACT 5><SCENE 2><96%>
+	'Tis a notorious villain. Take you this weapon,
+	Which I have here recover'd from the Moor.
+	Come, guard the door without; let him not pass,
+	But kill him rather. I'll after that same villain,
+	For 'tis a damned slave.

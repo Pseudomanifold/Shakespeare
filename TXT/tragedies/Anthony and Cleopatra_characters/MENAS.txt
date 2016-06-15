@@ -1,0 +1,92 @@
+<SPEECH 1><ACT 2><SCENE 1><17%>
+	Cæsar and Lepidus
+	Are in the field; a mighty strength they carry.
+<SPEECH 2><ACT 2><SCENE 1><17%>
+	From Silvius, sir.
+<SPEECH 3><ACT 2><SCENE 1><18%>
+	I cannot hope
+	Cæsar and Antony shall well greet together;
+	His wife that's dead did trespasses to Cæsar,
+	His brother warr'd upon him, although I think
+	Not mov'd by Antony.
+<SPEECH 4><ACT 2><SCENE 6><34%>
+	Thy father, Pompey, would ne'er have made this treaty. You and I have known, sir.
+<SPEECH 5><ACT 2><SCENE 6><34%>
+	We have, sir.
+<SPEECH 6><ACT 2><SCENE 6><34%>
+	And you by land.
+<SPEECH 7><ACT 2><SCENE 6><35%>
+	Nor what I have done by water.
+<SPEECH 8><ACT 2><SCENE 6><35%>
+	And you by land.
+<SPEECH 9><ACT 2><SCENE 6><35%>
+	All men's faces are true, whatsoe'er their hands are.
+<SPEECH 10><ACT 2><SCENE 6><35%>
+	No slander; they steal hearts.
+<SPEECH 11><ACT 2><SCENE 6><35%>
+	For my part, I am sorry it is turned to a drinking. Pompey doth this day laugh away his fortune.
+<SPEECH 12><ACT 2><SCENE 6><35%>
+	You have said, sir. We looked not for Mark Antony here: pray you, is he married to Cleopatra?
+<SPEECH 13><ACT 2><SCENE 6><35%>
+	True, sir; she was the wife of Caius Marcellus.
+<SPEECH 14><ACT 2><SCENE 6><35%>
+	Pray ye, sir?
+<SPEECH 15><ACT 2><SCENE 6><35%>
+	Then is Cæsar and he for ever knit together.
+<SPEECH 16><ACT 2><SCENE 6><35%>
+	I think the policy of that purpose made more in the marriage than the love of the parties.
+<SPEECH 17><ACT 2><SCENE 6><35%>
+	Who would not have his wife so?
+<SPEECH 18><ACT 2><SCENE 6><36%>
+	And thus it may be. Come, sir, will you aboard? I have a health for you.
+<SPEECH 19><ACT 2><SCENE 6><36%>
+	Come; let 's away.
+<SPEECH 20><ACT 2><SCENE 7><37%>
+	Pompey, a word.
+<SPEECH 21><ACT 2><SCENE 7><37%>
+	Forsake thy seat, I do beseech thee, captain,
+	And bear me speak a word.
+<SPEECH 22><ACT 2><SCENE 7><38%>
+	If for the sake of merit thou wilt hear me,
+	Rise from thy stool.
+<SPEECH 23><ACT 2><SCENE 7><38%>
+	I have ever held my cap off to thy fortunes.
+<SPEECH 24><ACT 2><SCENE 7><38%>
+	Wilt thou be lord of all the world?
+<SPEECH 25><ACT 2><SCENE 7><38%>
+	Wilt thou be lord of the whole world? That 's twice.
+<SPEECH 26><ACT 2><SCENE 7><38%>
+	But entertain it,
+	And though thou think me poor, I am the man
+	Will give thee all the world.
+<SPEECH 27><ACT 2><SCENE 7><38%>
+	No, Pompey, I have kept me from the cup.
+	Thou art, if thou dar'st be, the earthly Jove:
+	Whate'er the ocean pales, or sky inclips,
+	Is thine, if thou wilt ha 't.
+<SPEECH 28><ACT 2><SCENE 7><38%>
+	These three world-sharers, these competitors,
+	Are in thy vessel: let me cut the cable;
+	And, when we are put off, fall to their throats:
+	All there is thine.
+<SPEECH 29><ACT 2><SCENE 7><38%>
+	</STAGE DIR> For this,
+	I'll never follow thy pall'd fortunes more.
+	Who seeks, and will not take when once 'tis offer'd,
+	Shall never find it more.
+<SPEECH 30><ACT 2><SCENE 7><39%>
+	Enobarbus, welcome!
+<SPEECH 31><ACT 2><SCENE 7><39%>
+	Why?
+<SPEECH 32><ACT 2><SCENE 7><39%>
+	The third part then is drunk; would it were all,
+	That it might go on wheels!
+<SPEECH 33><ACT 2><SCENE 7><39%>
+	Come.
+<SPEECH 34><ACT 2><SCENE 7><40%>
+	No, to my cabin.
+	These drums! these trumpets, flutes! what!
+	Let Neptune hear we bid a loud farewell
+	To these great fellows: sound and be hang'd! sound out!
+<SPEECH 35><ACT 2><SCENE 7><40%>
+	Hoo! noble captain! come.

@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 5><SCENE 4><93%>
+	Not I, my lord, unless I did bleed too.
+<SPEECH 2><ACT 5><SCENE 4><93%>
+	We breathe too long: come, cousin Westmoreland,
+	Our duty this way lies: for God's sake, come.
+<SPEECH 3><ACT 5><SCENE 4><97%>
+	But, soft! whom have we here?
+	Did you not tell me this fat man was dead?
+<SPEECH 4><ACT 5><SCENE 4><98%>
+	This is the strangest tale that e'er I heard.
+<SPEECH 5><ACT 5><SCENE 5><100%>
+	I thank your Grace for this high courtesy,
+	Which I shall give away immediately.

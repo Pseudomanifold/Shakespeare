@@ -1,0 +1,73 @@
+<SPEECH 1><ACT 4><SCENE 8><82%>
+	What say ye, countrymen? will ye relent,
+	And yield to mercy, whilst 'tis offer'd you,
+	Or let a rebel lead you to your deaths?
+	Who loves the king, and will embrace his pardon,
+	Fling up his cap, and say 'God save his majesty!'
+	Who hateth him, and honours not his father,
+	Henry the Fifth, that made all France to quake,
+	Shake he his weapon at us, and pass by.
+<SPEECH 2><ACT 4><SCENE 8><83%>
+	Is Cade the son of Henry the Fifth,
+	That thus you do exclaim you'll go with him?
+	Will he conduct you through the heart of France,
+	And make the meanest of you earls and dukes?
+	Alas! he hath no home, no place to fly to;
+	Nor knows he how to live but by the spoil,
+	Unless by robbing of your friends and us.
+	Were't not a shame, that whilst you live at jar,
+	The fearful French, whom you late vanquished,
+	Should make a start o'er seas and vanquish you?
+	Methinks already in this civil broil
+	I see them lording it in London streets,
+	Crying Villiago! unto all they meet.
+	Better ten thousand base-born Cades miscarry,
+	Than you should stoop unto a Frenchman's mercy.
+	To France, to France! and get what you have lost;
+	Spare England, for it is your native coast.
+	Henry hath money, you are strong and manly;
+	God on our side, doubt not of victory.
+<SPEECH 3><ACT 4><SCENE 1><85%>
+	He's fled, my lord, and all his powers do yield;
+	And humbly thus, with halters on their necks,
+	Expect your highness' doom, of life, or death.
+<SPEECH 4><ACT 5><SCENE 1><93%>
+	</STAGE DIR> Health and all happiness to my lord the king!
+<SPEECH 5><ACT 5><SCENE 1><93%>
+	This is my king, York, I do not mistake;
+	But thou mistak'st me much to think I do.
+	To Bedlam with him! is the man grown mad?
+<SPEECH 6><ACT 5><SCENE 1><93%>
+	He is a traitor; let him to the Tower,
+	And chop away that factious pate of his.
+<SPEECH 7><ACT 5><SCENE 1><93%>
+	Why, what a brood of traitors have we here!
+<SPEECH 8><ACT 5><SCENE 1><94%>
+	Are these thy bears? we'll bait thy bears to death,
+	And manacle the bear-ward in their chains,
+	If thou dar'st bring them to the baiting-place.
+<SPEECH 9><ACT 5><SCENE 1><94%>
+	Hence, heap of wrath, foul indigested lump,
+	As crooked in thy manners as thy shape!
+<SPEECH 10><ACT 5><SCENE 1><94%>
+	Take heed, lest by your heat you burn yourselves.
+<SPEECH 11><ACT 5><SCENE 1><95%>
+	The first I warrant thee, if dreams prove true.
+<SPEECH 12><ACT 5><SCENE 1><95%>
+	I am resolv'd to bear a greater storm
+	Than any thou canst conjure up to-day;
+	And that I'll write upon thy burgonet,
+	Might I but know thee by thy household badge.
+<SPEECH 13><ACT 5><SCENE 1><95%>
+	And from thy burgonet I'll rend thy bear,
+	And tread it underfoot with all contempt,
+	Despite the bear-ward that protects the bear.
+<SPEECH 14><ACT 5><SCENE 2><96%>
+	What seest thou in me, York? why dost thou pause?
+<SPEECH 15><ACT 5><SCENE 2><97%>
+	Nor should thy prowess want praise and esteem,
+	But that 'tis shown ignobly and in treason.
+<SPEECH 16><ACT 5><SCENE 2><97%>
+	My soul and body on the action both!
+<SPEECH 17><ACT 5><SCENE 2><97%>
+	La fin couronne les œuvres.

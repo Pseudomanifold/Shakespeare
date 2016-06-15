@@ -1,0 +1,95 @@
+<SPEECH 1><ACT 1><SCENE 1><9%>
+	The dinner is on the table; my father desires your worships' company.
+<SPEECH 2><ACT 1><SCENE 1><9%>
+	Will't please your worship to come in, sir?
+<SPEECH 3><ACT 1><SCENE 1><9%>
+	The dinner attends you, sir.
+<SPEECH 4><ACT 1><SCENE 1><9%>
+	I may not go in without your worship: they will not sit till you come.
+<SPEECH 5><ACT 1><SCENE 1><9%>
+	I pray you, sir, walk in.
+<SPEECH 6><ACT 1><SCENE 1><10%>
+	I think there are, sir; I heard them talked of.
+<SPEECH 7><ACT 1><SCENE 1><10%>
+	Ay, indeed, sir.
+<SPEECH 8><ACT 1><SCENE 1><10%>
+	Not I, sir; pray you, keep on.
+<SPEECH 9><ACT 1><SCENE 1><10%>
+	I pray you, sir.
+<SPEECH 10><ACT 3><SCENE 4><58%>
+	Alas! how then?
+<SPEECH 11><ACT 3><SCENE 4><58%>
+	May be he tells you true.
+<SPEECH 12><ACT 3><SCENE 4><59%>
+	Gentle Master Fenton,
+	Yet seek my father's love; still seek it, sir:
+	If opportunity and humblest suit
+	Cannot attain it, why, then,—hark you hither.
+<SPEECH 13><ACT 3><SCENE 4><59%>
+	I come to him. <STAGE DIR>
+	</STAGE DIR> This is my father's choice.
+	O, what a world of vile ill-favour'd faults
+	Looks handsome in three hundred pounds a year!
+<SPEECH 14><ACT 3><SCENE 4><60%>
+	Good Master Shallow, let him woo for himself.
+<SPEECH 15><ACT 3><SCENE 4><60%>
+	Now, Master Slender.
+<SPEECH 16><ACT 3><SCENE 4><60%>
+	What is your will?
+<SPEECH 17><ACT 3><SCENE 4><60%>
+	I mean, Master Slender, what would you with me?
+<SPEECH 18><ACT 3><SCENE 4><61%>
+	Good mother, do not marry me to yond fool.
+<SPEECH 19><ACT 3><SCENE 4><61%>
+	Alas! I had rather be set quick i' the earth,
+	And bowl'd to death with turnips.
+<SPEECH 20><ACT 5><SCENE 5><92%>
+	Fairies, black, grey, green, and white,
+	You moonshine revellers, and shades of night,
+	You orphan heirs of fixed destiny,
+	Attend your office and your quality.
+	Crier Hobgoblin, make the fairy oyes.
+<SPEECH 21><ACT 5><SCENE 5><93%>
+	About, about!
+	Search Windsor castle, elves, within and out:
+	Strew good luck, ouphs, on every sacred room,
+	That it may stand till the perpetual doom,
+	In state as wholesome as in state 'tis fit,
+	Worthy the owner, and the owner it.
+	The several chairs of order look you scour
+	With juice of balm and every precious flower:
+	Each fair instalment, coat, and several crest,
+	With loyal blazon, ever more be blest!
+	And nightly, meadow-fairies, look you sing,
+	Like to the Garter's compass, in a ring:
+	The expressure that it bears, green let it be,
+	More fertile-fresh than all the field to see;
+	And, Honi soit qui mal y pense write
+	In emerald tufts, flowers purple, blue, and white;
+	Like sapphire, pearl, and rich embroidery,
+	Buckled below fair knighthood's bending knee:
+	Fairies use flowers for their charactery.
+	Away! disperse! But, till 'tis one o'clock,
+	Our dance of custom round about the oak
+	Of Herne the hunter, let us not forget.
+<SPEECH 22><ACT 5><SCENE 5><94%>
+	With trial-fire touch me his finger-end:
+	If he be chaste, the flame will back descend
+	And turn him to no pain; but if he start,
+	It is the flesh of a corrupted heart.
+<SPEECH 23><ACT 5><SCENE 5><94%>
+	Corrupt, corrupt, and tainted in desire!
+	About him, fairies, sing a scornful rime;
+	And, as you trip, still pinch him to your time.
+	Fie on sinful fantasy!
+	Fie on lust and luxury!
+	Lust is but a bloody fire,
+	Kindled with unchaste desire,
+	Fed in heart, whose flames aspire,
+	As thoughts do blow them higher and higher.
+	Pinch him, fairies, mutually;
+	Pinch him for his villany;
+	Pinch him, and burn him, and turn him about,
+	Till candles and star-light and moonshine be out.
+<SPEECH 24><ACT 5><SCENE 5><99%>
+	Pardon, good father! good my mother, pardon!

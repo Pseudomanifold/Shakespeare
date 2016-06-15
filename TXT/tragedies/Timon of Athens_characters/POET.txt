@@ -1,0 +1,127 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Good day, sir.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	I have not seen you long. How goes the world?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Ay, that's well known;
+	But what particular rarity? what strange,
+	Which manifold record not matches? See,
+	Magic of bounty! all these spirits thy power
+	Hath conjur'd to attend. I know the merchant.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	When we for recompense have prais'd the vile,
+	It stains the glory in that happy verse
+	Which aptly sings the good.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	A thing slipp'd idly from me.
+	Our poesy is as a gum, which oozes
+	From whence 'tis nourish'd: the fire i' the flint
+	Shows not till it be struck; our gentle flame
+	Provokes itself, and, like the current flies
+	Each bound it chafes. What have you there?
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Upon the heels of my presentment, sir.
+	Let's see your piece.
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	So 'tis: this comes off well and excellent.
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	Admirable! How this grace
+	Speaks his own standing! what a mental power
+	This eye shoots forth! how big imagination
+	Moves in this lip! to the dumbness of the gesture
+	One might interpret.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	I'll say of it,
+	It tutors nature: artificial strife
+	Lives in these touches, livelier than life.
+<SPEECH 10><ACT 1><SCENE 1><2%>
+	The senators of Athens: happy man!
+<SPEECH 11><ACT 1><SCENE 1><2%>
+	You see this confluence, this great flood of visitors.
+	I have, in this rough work, shap'd out a man,
+	Whom this beneath world doth embrace and hug
+	With amplest entertainment: my free drift
+	Halts not particularly, but moves itself
+	In a wide sea of wax: no levell'd malice
+	Infects one comma in the course I hold;
+	But flies an eagle flight, bold and forth on,
+	Leaving no tract behind.
+<SPEECH 12><ACT 1><SCENE 1><3%>
+	I will unbolt to you.
+	You see how all conditions, how all minds—
+	As well of glib and slippery creatures as
+	Of grave and austere quality—tender down
+	Their services to Lord Timon: his large fortune,
+	Upon his good and gracious nature hanging,
+	Subdues and properties to his love and tendance
+	All sorts of hearts; yea, from the glass-fac'd flatterer
+	To Apemantus, that few things loves better
+	Than to abhor himself: even he drops down
+	The knee before him and returns in peace
+	Most rich in Timon's nod.
+<SPEECH 13><ACT 1><SCENE 1><3%>
+	Sir, I have upon a high and pleasant hill
+	Feign'd Fortune to be thron'd: the base o' the mount
+	Is rank'd with all deserts, all kind of natures,
+	That labour on the bosom of this sphere
+	To propagate their states: amongst them all,
+	Whose eyes are on this sovereign lady fix'd,
+	One do I personate of Lord Timon's frame,
+	Whom Fortune with her ivory hand wafts to her;
+	Whose present grace to present slaves and servants
+	Translates his rivals.
+<SPEECH 14><ACT 1><SCENE 1><4%>
+	Nay, sir, but hear me on.
+	All those which were his fellows but of late,
+	Some better than his value, on the moment
+	Follow his strides, his lobbies fill with tendance,
+	Rain sacrificial whisperings in his ear,
+	Make sacred even his stirrup, and through him
+	Drink the free air.
+<SPEECH 15><ACT 1><SCENE 1><4%>
+	When Fortune in her shift and change of mood
+	Spurns down her late belov'd, all his dependants
+	Which labour'd after him to the mountain's top
+	Even on their knees and hands, let him slip down,
+	Not one accompanying his declining foot.
+<SPEECH 16><ACT 1><SCENE 1><7%>
+	Vouchsafe my labour, and long live your lordship!
+<SPEECH 17><ACT 1><SCENE 1><10%>
+	How now, philosopher!
+<SPEECH 18><ACT 1><SCENE 1><10%>
+	Art not one?
+<SPEECH 19><ACT 1><SCENE 1><10%>
+	Then I lie not.
+<SPEECH 20><ACT 1><SCENE 1><10%>
+	Yes.
+<SPEECH 21><ACT 1><SCENE 1><10%>
+	That's not feigned; he is so.
+<SPEECH 22><ACT 5><SCENE 1><85%>
+	What's to be thought of him? Does the rumour hold for true that he is so full of gold?
+<SPEECH 23><ACT 5><SCENE 1><85%>
+	Then this breaking of his has been but a try for his friends.
+<SPEECH 24><ACT 5><SCENE 1><86%>
+	What have you now to present unto him?
+<SPEECH 25><ACT 5><SCENE 1><86%>
+	I must serve him so too; tell him of an intent that's coming towards him.
+<SPEECH 26><ACT 5><SCENE 1><87%>
+	I am thinking what I shall say I have provided for him: it must be a personating of himself; a satire against the softness of prosperity, with a discovery of the infinite flatteries that follow youth and opulency.
+<SPEECH 27><ACT 5><SCENE 1><87%>
+	Nay, let's seek him:
+	Then do we sin against our own estate,
+	When we may profit meet, and come too late.
+<SPEECH 28><ACT 5><SCENE 1><87%>
+	Hail, worthy Timon!
+<SPEECH 29><ACT 5><SCENE 1><87%>
+	Sir,
+	Having often of your open bounty tasted,
+	Hearing you were retir'd, your friends fall'n off,
+	Whose thankless natures—O abhorred spirits!
+	Not all the whips of heaven are large enough—
+	What! to you,
+	Whose star-like nobleness gave life and influence
+	To their whole being! I am rapt, and cannot cover
+	The monstrous bulk of this ingratitude
+	With any size of words.
+<SPEECH 30><ACT 5><SCENE 1><89%>
+	Nor I.

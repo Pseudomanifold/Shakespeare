@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 4><SCENE 6><77%>
+	You are sent for to the senate:
+	A fearful army, led by Caius Marcius,
+	Associated with Aufidius, rages
+	Upon our territories; and have already
+	O'erborne their way, consum'd with fire, and took
+	What lay before them.
+<SPEECH 2><ACT 5><SCENE 4><94%>
+	Good news, good news! the ladies have prevail'd,
+	The Volscians are dislodg'd, and Marcius gone.
+	A merrier day did never yet greet Rome,
+	No, not the expulsion of the Tarquins.
+<SPEECH 3><ACT 5><SCENE 4><94%>
+	As certain as I know the sun is fire:
+	Where have you lurk'd that you make doubt of it?
+	Ne'er through an arch so hurried the blown tide,
+	As the recomforted through the gates. Why, hark you!
+	The trumpets, sackbuts, psalteries, and fifes,
+	Tabors, and cymbals, and the shouting Romans,
+	Make the sun dance. Hark you!
+<SPEECH 4><ACT 5><SCENE 4><95%>
+	Sir, we have all
+	Great cause to give great thanks.
+<SPEECH 5><ACT 5><SCENE 4><95%>
+	Almost at point to enter.

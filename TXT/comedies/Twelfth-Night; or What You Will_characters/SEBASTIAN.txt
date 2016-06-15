@@ -1,0 +1,127 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+	By your patience, no. My stars shine darkly over me; the malignancy of my fate might, perhaps, distemper yours; therefore I shall crave of you your leave that I may bear my evils alone. It were a bad recompense for your love to lay any of them on you.
+<SPEECH 2><ACT 2><SCENE 1><24%>
+	No, sooth, sir: my determinate voyage is mere extravagancy. But I perceive in you so excellent a touch of modesty that you will not extort from me what I am willing to keep in; therefore, it charges me in manners the rather to express myself. You must know of me then, Antonio, my name is Sebastian, which I called Roderigo. My father was that Sebastian of Messaline, whom I know you have heard of. He left behind him myself and a sister, both born in an hour: if the heavens had been pleased, would we had so ended! but you, sir, altered that; for some hour before you took me from the breach of the sea was my sister drowned.
+<SPEECH 3><ACT 2><SCENE 1><25%>
+	A lady, sir, though it was said she much resembled me, was yet of many accounted beautiful: but, though I could not with such estimable wonder overfar believe that, yet thus far I will boldly publish her: she bore a mind that envy could not but call fair. She is drowned already, sir, with salt water, though I seem to drown her remembrance again with more.
+<SPEECH 4><ACT 2><SCENE 1><25%>
+	O good Antonio! forgive me your trouble!
+<SPEECH 5><ACT 2><SCENE 1><25%>
+	If you will not undo what you have done, that is, kill him whom you have recovered, desire it not. Fare ye well at once: my bosom is full of kindness; and I am yet so near the manners of my mother, that upon the least occasion more mine eyes will tell tales of me. I am bound to the Count Orsino's court: farewell.
+<SPEECH 6><ACT 3><SCENE 3><57%>
+	I would not by my will have troubled you;
+	But since you make your pleasure of your pains,
+	I will no further chide you.
+<SPEECH 7><ACT 3><SCENE 3><57%>
+	My kind Antonio,
+	I can no other answer make but thanks,
+	And thanks, and ever thanks; for oft good turns
+	Are shuffled off with such uncurrent pay:
+	But, were my worth, as is my conscience, firm,
+	You should find better dealing. What's to do?
+	Shall we go see the reliques of this town?
+<SPEECH 8><ACT 3><SCENE 3><58%>
+	I am not weary, and 'tis long to night:
+	I pray you, let us satisfy our eyes
+	With the memorials and the things of fame
+	That do renown this city.
+<SPEECH 9><ACT 3><SCENE 3><58%>
+	Belike you slew great number of his people?
+<SPEECH 10><ACT 3><SCENE 3><58%>
+	Do not then walk too open.
+<SPEECH 11><ACT 3><SCENE 3><59%>
+	Why I your purse?
+<SPEECH 12><ACT 3><SCENE 3><59%>
+	I'll be your purse-bearer and leave you for an hour.
+<SPEECH 13><ACT 3><SCENE 3><59%>
+	I do remember.
+<SPEECH 14><ACT 4><SCENE 1><75%>
+	Go to, go to; thou art a foolish fellow:
+	Let me be clear of thee.
+<SPEECH 15><ACT 4><SCENE 1><75%>
+	I prithee, vent thy folly somewhere else:
+	Thou know'st not me.
+<SPEECH 16><ACT 4><SCENE 1><75%>
+	I prithee, foolish Greek, depart from me:
+	There's money for thee: if you tarry longer
+	I shall give worse payment.
+<SPEECH 17><ACT 4><SCENE 1><76%>
+	Why, there's for thee, and there, and there, and there!
+	Are all the people mad?
+<SPEECH 18><ACT 4><SCENE 1><76%>
+	Let go thy hand.
+<SPEECH 19><ACT 4><SCENE 1><77%>
+	I will be free from thee. <STAGE DIR>
+	</STAGE DIR> What wouldst thou now?
+	If thou dar'st tempt me further, draw thy sword.
+<SPEECH 20><ACT 4><SCENE 1><77%>
+	What relish is in this? how runs the stream?
+	Or I am mad, or else this is a dream:
+	Let fancy still my sense in Lethe steep;
+	If it be thus to dream, still let me sleep!
+<SPEECH 21><ACT 4><SCENE 1><78%>
+	Madam, I will.
+<SPEECH 22><ACT 4><SCENE 3><83%>
+	This is the air; that is the glorious sun; This pearl she gave me, I do feel't and see't;
+	And though 'tis wonder that enwraps me thus,
+	Yet 'tis not madness. Where's Antonio then?
+	I could not find him at the Elephant;
+	Yet there he was, and there I found this credit,
+	That he did range the town to seek me out.
+	His counsel now might do me golden service;
+	For though my soul disputes well with my sense
+	That this may be some error, but no madness,
+	Yet doth this accident and flood of fortune
+	So far exceed all instance, all discourse,
+	That I am ready to distrust mine eyes,
+	And wrangle with my reason that persuades me
+	To any other trust but that I am mad
+	Or else the lady's mad: yet, if 'twere so,
+	She could not sway her house, command her followers,
+	Take and give back affairs and their dispatch
+	With such a smooth, discreet, and stable bearing
+	As I perceive she does. There's something in't
+	That is deceivable. But here the lady comes.
+<SPEECH 23><ACT 4><SCENE 3><84%>
+	I'll follow this good man, and go with you;
+	And, having sworn truth, ever will be true.
+<SPEECH 24><ACT 5><SCENE 1><92%>
+	I am sorry, madam, I have hurt your kinsman;
+	But, had it been the brother of my blood,
+	I must have done no less with wit and safety.
+	You throw a strange regard upon me, and by that
+	I do perceive it hath offended you:
+	Pardon me, sweet one, even for the vows
+	We made each other but so late ago.
+<SPEECH 25><ACT 5><SCENE 1><93%>
+	Antonio! O my dear Antonio!
+	How have the hours rack'd and tortur'd me
+	Since I have lost thee!
+<SPEECH 26><ACT 5><SCENE 1><93%>
+	Fear'st thou that, Antonio?
+<SPEECH 27><ACT 5><SCENE 1><93%>
+	Do I stand there? I never had a brother;
+	Nor can there be that deity in my nature,
+	Of here and every where. I had a sister,
+	Whom the blind waves and surges have devour'd.
+	Of charity, what kin are you to me?
+	What countryman? what name? what parentage?
+<SPEECH 28><ACT 5><SCENE 1><93%>
+	A spirit I am indeed;
+	But am in that dimension grossly clad
+	Which from the womb I did participate.
+	Were you a woman, as the rest goes even,
+	I should my tears let fall upon your cheek,
+	And say, 'Thrice welcome, drowned Viola!'
+<SPEECH 29><ACT 5><SCENE 1><94%>
+	And so had mine.
+<SPEECH 30><ACT 5><SCENE 1><94%>
+	O! that record is lively in my soul.
+	He finished indeed his mortal act
+	That day that made my sister thirteen years.
+<SPEECH 31><ACT 5><SCENE 1><94%>
+	</STAGE DIR> So comes it, lady, you have been mistook:
+	But nature to her bias drew in that.
+	You would have been contracted to a maid;
+	Nor are you therein, by my life, deceiv'd,
+	You are betroth'd both to a maid and man.

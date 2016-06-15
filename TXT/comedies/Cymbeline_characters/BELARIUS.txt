@@ -1,0 +1,396 @@
+<SPEECH 1><ACT 3><SCENE 3><41%>
+	A goodly day not to keep house, with such
+	Whose roof's as low as ours! Stoop, boys; this gate
+	Instructs you how to adore the heavens, and bows you
+	To a morning's holy office; the gates of monarchs
+	Are arch'd so high that giants may jet through
+	And keep their impious turbans on, without
+	Good morrow to the sun. Hail, thou fair heaven!
+	We house i' the rock, yet use thee not so hardly
+	As prouder livers do.
+<SPEECH 2><ACT 3><SCENE 3><41%>
+	Now for our mountain sport. Up to yond hill;
+	Your legs are young; I'll tread these flats. Consider,
+	When you above perceive me like a crow,
+	That it is place which lessens and sets off;
+	And you may then revolve what tales I have told you
+	Of courts, of princes, of the tricks in war;
+	This service is not service, so being done,
+	But being so allow'd; to apprehend thus
+	Draws us a profit from all things we see,
+	And often, to our comfort, shall we find
+	The sharded beetle in a safer hold
+	Than is the full wing'd eagle. O! this life
+	Is nobler than attending for a check,
+	Richer than doing nothing for a bribe,
+	Prouder than rustling in unpaid-for silk;
+	Such gain the cap of him that makes 'em fine,
+	Yet keeps his book uncross'd; no life to ours.
+<SPEECH 3><ACT 3><SCENE 3><42%>
+	How you speak!
+	Did you but know the city's usuries
+	And felt them knowingly; the art o' the court,
+	As hard to leave as keep, whose top to climb
+	Is certain falling, or so slippery that
+	The fear's as bad as falling; the toil of the war,
+	A pain that only seems to seek out danger
+	I' the name of fame and honour; which dies i' the search,
+	And hath as oft a slanderous epitaph
+	As record of fair act; nay, many times,
+	Doth ill deserve by doing well; what's worse,
+	Must curtsy at the censure: O boys! this story
+	The world may read in me; my body's mark'd
+	With Roman swords, and my report was once
+	First with the best of note; Cymbeline lov'd me,
+	And when a soldier was the theme, my name
+	Was not far off; then was I as a tree
+	Whose boughs did bend with fruit, but, in one night,
+	A storm or robbery, call it what you will,
+	Shook down my mellow hangings, nay, my leaves,
+	And left me bare to weather.
+<SPEECH 4><ACT 3><SCENE 3><43%>
+	My fault being nothing,—as I have told you oft,—
+	But that two villains, whose false oaths prevail'd
+	Before my perfect honour, swore to Cymbeline
+	I was confederate with the Romans; so
+	Follow'd my banishment, and this twenty years
+	This rock and these demesnes have been my world,
+	Where I have liv'd at honest freedom, paid
+	More pious debts to heaven than in all
+	The fore-end of my time. But, up to the mountains!
+	This is not hunter's language. He that strikes
+	The venison first shall be the lord o' the feast;
+	To him the other two shall minister;
+	And we will fear no poison which attends
+	In place of greater state. I'll meet you in the valleys.
+	How hard it is to hide the sparks of nature!
+	These boys know little they are sons to the king;
+	Nor Cymbeline dreams that they are alive.
+	They think they are mine; and, though train'd up thus meanly
+	I' the cave wherein they bow, their thoughts do hit
+	The roofs of palaces, and nature prompts them
+	In simple and low things to prince it much
+	Beyond the trick of others. This Polydore,
+	The heir of Cymbeline and Britain, who
+	The king his father call'd Guiderius,—Jove!
+	When on my three-foot stool I sit and tell
+	The war-like feats I have done, his spirits fly out
+	Into my story: say, 'Thus mine enemy fell,
+	And thus I set my foot on 's neck;' even then
+	The princely blood flows in his cheek, he sweats,
+	Strains his young nerves, and puts himself in posture
+	That acts my words. The younger brother, Cadwal,—
+	Once Arviragus,—in as like a figure,
+	Strikes life into my speech and shows much more
+	His own conceiving. Hark! the game is rous'd.
+	O Cymbeline! heaven and my conscience knows
+	Thou didst unjustly banish me; whereon,
+	At three and two years old, I stole these babes,
+	Thinking to bar thee of succession, as
+	Thou reft'st me of my lands. Euriphile,
+	Thou wast their nurse; they took thee for their mother,
+	And every day do honour to her grave:
+	Myself, Belarius, that am Morgan call'd,
+	They take for natural father. The game is up.
+<SPEECH 5><ACT 3><SCENE 6><56%>
+	You, Polydore, have prov'd best woodman, and
+	Are master of the feast; Cadwal and I
+	Will play the cook and servant, 'tis our match;
+	The sweat of industry would dry and die
+	But for the end it works to. Come; our stomachs
+	Will make what's homely savoury; weariness
+	Can snore upon the flint when resty sloth
+	Finds the down pillow hard. Now, peace be here,
+	Poor house, that keep'st thyself!
+<SPEECH 6><ACT 3><SCENE 6><56%>
+	</STAGE DIR> Stay; come not in;
+	But that it eats our victuals, I should think
+	Here were a fairy.
+<SPEECH 7><ACT 3><SCENE 6><56%>
+	By Jupiter, an angel! or, if not,
+	An earthly paragon! Behold divineness
+	No elder than a boy!
+<SPEECH 8><ACT 3><SCENE 6><57%>
+	Whither bound?
+<SPEECH 9><ACT 3><SCENE 6><57%>
+	What's your name?
+<SPEECH 10><ACT 3><SCENE 6><57%>
+	Prithee, fair youth,
+	Think us no churis, nor measure our good minds
+	By this rude place we live in. Well encounter'd!
+	'Tis almost night; you shall have better cheer
+	Ere you depart, and thanks to stay and eat it.
+	Boys, bid him welcome.
+<SPEECH 11><ACT 3><SCENE 6><57%>
+	He wrings at some distress.
+<SPEECH 12><ACT 3><SCENE 6><57%>
+	Hark, boys
+<SPEECH 13><ACT 3><SCENE 6><57%>
+	It shall be so.
+	Boys, we'll go dress our hunt. Fair youth, come in:
+	Discourse is heavy, fasting; when we have supp'd,
+	We'll mannerly demand thee of thy story,
+	So far as thou wilt speak it.
+<SPEECH 14><ACT 4><SCENE 2><59%>
+	</STAGE DIR> You are not well; remain here in the cave;
+	We'll come to you after hunting.
+<SPEECH 15><ACT 4><SCENE 2><60%>
+	What! how! how!
+<SPEECH 16><ACT 4><SCENE 2><60%>
+	</STAGE DIR> O noble strain!
+	O worthiness of nature! breed of greatness!
+	Cowards father cowards, and base things sire base:
+	Nature hath meal and bran, contempt and grace.
+	I'm not their father; yet who this should be,
+	Doth miracle itself, lov'd before me.
+	'Tis the ninth hour o' the morn.
+<SPEECH 17><ACT 4><SCENE 2><61%>
+	To the field, to the field!
+	</STAGE DIR> We'll leave you for this time; go in and rest.
+<SPEECH 18><ACT 4><SCENE 2><61%>
+	Pray, be not sick,
+	For you must be our housewife.
+<SPEECH 19><ACT 4><SCENE 2><61%>
+	And shalt be ever.
+	This youth, howe'er distress'd, appears he hath had
+	Good ancestors.
+<SPEECH 20><ACT 4><SCENE 2><61%>
+	It is great morning. Come, away!—Who's there?
+<SPEECH 21><ACT 4><SCENE 2><61%>
+	'Those runagates!'
+	Means he not us? I partly know him; 'tis
+	Cloten, the son o' the queen. I fear some ambush.
+	I saw him not these many years, and yet
+	I know 'tis he. We are held as outlaws: hence!
+<SPEECH 22><ACT 4><SCENE 2><62%>
+	No companies abroad.
+<SPEECH 23><ACT 4><SCENE 2><63%>
+	I cannot tell; long is it since I saw him,
+	But time hath nothing blurr'd those lines of favour
+	Which then he wore; the snatches in his voice,
+	And burst of speaking, were as his. I am absolute
+	'Twas very Cloten.
+<SPEECH 24><ACT 4><SCENE 2><63%>
+	Being scarce made up,
+	I mean, to man, he had not apprehension
+	Of roaring terrors; for defect of judgment
+	Is oft the cease of fear. But see, thy brother.
+<SPEECH 25><ACT 4><SCENE 2><63%>
+	What hast thou done?
+<SPEECH 26><ACT 4><SCENE 2><63%>
+	We are all undone.
+<SPEECH 27><ACT 4><SCENE 2><63%>
+	No single soul
+	Can we set eye on; but in all safe reason
+	He must have some attendants. Though his humour
+	Was nothing but mutation, ay, and that
+	From one bad thing to worse; not frenzy, not
+	Absolute madness could so far have rav'd
+	To bring him here alone. Although, perhaps,
+	It may be heard at court that such as we
+	Cave here, hunt here, are outlaws, and in time
+	May make some stronger head; the which he hearing,—
+	As it is like him,—might break out, and swear
+	He'd fetch us in; yet is 't not probable
+	To come alone, either he so undertaking,
+	Or they so suffering; then, on good ground we fear,
+	If we do fear this body hath a tail
+	More perilous than the head.
+<SPEECH 28><ACT 4><SCENE 2><64%>
+	I had no mind
+	To hunt this day; the boy Fidele's sickness
+	Did make my way long forth.
+<SPEECH 29><ACT 4><SCENE 2><64%>
+	I fear 'twill be reveng'd.
+	Would, Polydore, thou hadst not done 't! though valour
+	Becomes thee well enough.
+<SPEECH 30><ACT 4><SCENE 2><64%>
+	Well, 'tis done.—
+	We'll hunt no more to-day, nor seek for danger
+	Where there's no profit. I prithee, to our rock;
+	You and Fidele play the cooks; I'll stay
+	Till hasty Polydore return, and bring him
+	To dinner presently.
+<SPEECH 31><ACT 4><SCENE 2><65%>
+	O thou goddess!
+	Thou divine Nature, how thyself thou blazon'st
+	In these two princely boys. They are as gentle
+	As zephyrs, blowing below the violet,
+	Not wagging his sweet head; and yet as rough,
+	Their royal blood enchaf'd, as the rud'st wind,
+	That by the top doth take the mountain pine,
+	And make him stoop to the vale. 'Tis wonder
+	That an invisible instinct should frame them
+	To royalty unlearn'd, honour untaught,
+	Civility not seen from other, valour
+	That wildly grows in them, but yields a crop
+	As if it had been sow'd! Yet still it's strange
+	What Cloten's being here to us portends,
+	Or what his death will bring us.
+<SPEECH 32><ACT 4><SCENE 2><65%>
+	My ingenious instrument!
+	Hark! Polydore, it sounds; but what occasion
+	Hath Cadwal now to give it motion? Hark!
+<SPEECH 33><ACT 4><SCENE 2><65%>
+	He went hence even now.
+<SPEECH 34><ACT 4><SCENE 2><65%>
+	Look! here he comes,
+	And brings the dire occasion in his arms
+	Of what we blame him for.
+<SPEECH 35><ACT 4><SCENE 2><66%>
+	O melancholy!
+	Who ever yet could sound thy bottom? find
+	The ooze, to show what coast thy sluggish crare
+	Might easiliest harbour in? Thou blessed thing!
+	Jove knows what man thou mightst have made; but I,
+	Thou diedst, a most rare boy, of melancholy.
+	How found you him?
+<SPEECH 36><ACT 4><SCENE 2><67%>
+	Great griefs, I see, medicine the less, for Cloten
+	Is quite forgot. He was a queen's son, boys,
+	And though he came our enemy, remember
+	He was paid for that; though mean and mighty rotting
+	Together, have one dust, yet reverence—
+	That angel of the world—doth make distinction
+	Of place 'tween high and low. Our foe was princely,
+	And though you took his life, as being our foe,
+	Yet bury him as a prince.
+<SPEECH 37><ACT 4><SCENE 2><68%>
+	Here's a few flowers, but 'bout mid-night, more;
+	The herbs that have on them cold dew o' the night
+	Are strewings fitt'st for graves. Upon their faces
+	You were as flowers, now wither'd; even so
+	These herblets shall, which we upon you strew.
+	Come on, away; apart upon our knees.
+	The ground that gave them first has them again;
+	Their pleasures here are past, so is their pain.
+<SPEECH 38><ACT 4><SCENE 4><73%>
+	Let us from it.
+<SPEECH 39><ACT 4><SCENE 4><73%>
+	Sons,
+	We'll higher to the mountains; there secure us.
+	To the king's party there's no going; newness
+	Of Cloten's death,—we being not known, not muster'd
+	Among the bands,—may drive us to a render
+	Where we have liv'd, and so extort from 's that
+	Which we have done, whose answer would be death
+	Drawn on with torture.
+<SPEECH 40><ACT 4><SCENE 4><74%>
+	O! I am known
+	Of many in the army; many years,
+	Though Cloten then but young, you see, not wore him
+	From my remembrance. And, besides, the king
+	Hath not deserv'd my service nor your loves
+	Who find in my exile the want of breeding,
+	The certainty of this hard life; aye hopeless
+	To have the courtesy your cradle promis'd,
+	But to be still hot summer's tanlings and
+	The shrinking slaves of winter.
+<SPEECH 41><ACT 4><SCENE 4><74%>
+	No reason I, since of your lives you set
+	So slight a valuation, should reserve
+	My crack'd one to more care. Have with you, boys!
+	If in your country wars you chance to die,
+	That is my bed too, lads, and there I'll lie:
+	Lead, lead.—<STAGE DIR>
+	</STAGE DIR> The time seems long; their blood thinks scorn,
+	Till it fly out and show them princes born.
+<SPEECH 42><ACT 5><SCENE 2><76%>
+	Stand, stand! We have the advantage of the ground.
+	The lane is guarded; nothing routs us but
+	The villany of our fears.
+<SPEECH 43><ACT 5><SCENE 5><86%>
+	I never saw
+	Such noble fury in so poor a thing;
+	Such precious deeds in one that promis'd nought
+	But beggary and poor looks.
+<SPEECH 44><ACT 5><SCENE 5><86%>
+	Sir,
+	In Cambria are we born, and gentlemen:
+	Further to boast were neither true nor modest,
+	Unless I add, we are honest.
+<SPEECH 45><ACT 5><SCENE 5><89%>
+	Is not this boy reviv'd from death?
+<SPEECH 46><ACT 5><SCENE 5><89%>
+	Peace, peace! see further; he eyes us not; forbear;
+	Creatures may be alike; were 't he, I am sure
+	He would have spoke to us.
+<SPEECH 47><ACT 5><SCENE 5><89%>
+	Be silent; let's see further.
+<SPEECH 48><ACT 5><SCENE 5><93%>
+	My boys,
+	There was our error.
+<SPEECH 49><ACT 5><SCENE 5><94%>
+	</STAGE DIR> Though you did love this youth, I blame ye not;
+	You had a motive for 't.
+<SPEECH 50><ACT 5><SCENE 5><95%>
+	Stay, sir king:
+	This man is better than the man he slew,
+	As well descended as thyself; and hath
+	More of thee merited than a band of Clotens
+	Had ever scar for. <STAGE DIR>
+	</STAGE DIR> Let his arms alone;
+	They were not born for bondage.
+<SPEECH 51><ACT 5><SCENE 5><95%>
+	We will die all three:
+	But I will prove that two on 's are as good
+	As I have given out him. My sons, I must
+	For mine own part unfold a dangerous speech,
+	Though, haply, well for you.
+<SPEECH 52><ACT 5><SCENE 5><95%>
+	Have at it, then, by leave.
+	Thou hadst, great king, a subject who was call'd
+	Belarius.
+<SPEECH 53><ACT 5><SCENE 5><95%>
+	He it is that hath
+	Assum'd this age: indeed, a banish'd man;
+	I know not how a traitor.
+<SPEECH 54><ACT 5><SCENE 5><95%>
+	Not too hot:
+	First pay me for the nursing of thy sons;
+	And let it be confiscate all so soon
+	As I have receiv'd it.
+<SPEECH 55><ACT 5><SCENE 5><95%>
+	I am too blunt and saucy; here's my knee:
+	Ere I arise I will prefer my sons;
+	Then spare not the old father. Mighty sir,
+	These two young gentlemen, that call me father,
+	And think they are my sons, are none of mine;
+	They are the issue of your loins, my liege,
+	And blood of your begetting.
+<SPEECH 56><ACT 5><SCENE 5><96%>
+	So sure as you your father's. I, old Morgan,
+	Am that Belarius whom you sometime banish'd:
+	Your pleasure was my mere offence, my punishment
+	Itself, and all my treason; that I suffer'd
+	Was all the harm I did. These gentle princes—
+	For such and so they are—these twenty years
+	Have I train'd up; those arts they have as I
+	Could put into them; my breeding was, sir, as
+	Your highness knows. Their nurse, Euriphile,
+	Whom for the theft I wedded, stole these children
+	Upon my banishment: I mov'd her to 't,
+	Having receiv'd the punishment before,
+	For that which I did then; beaten for loyalty
+	Excited me to treason. Their dear loss,
+	The more of you 'twas felt the more it shap'd
+	Unto my end of stealing them. But, gracious sir,
+	Here are your sons again; and I must lose
+	Two of the sweet'st companions in the world.
+	The benediction of these covering heavens
+	Fall on their heads like dew! for they are worthy
+	To inlay heaven with stars.
+<SPEECH 57><ACT 5><SCENE 5><96%>
+	Be pleas'd awhile.
+	This gentleman, whom I call Polydore,
+	Most worthy prince, as yours, is true Guiderius;
+	This gentleman, my Cadwal, Arviragus,
+	Your younger princely son; he, sir, was lapp'd
+	In a most curious mantle, wrought by the hand
+	Of his queen mother, which, for more probation,
+	I can with ease produce.
+<SPEECH 58><ACT 5><SCENE 5><97%>
+	This is he,
+	Who hath upon him still that natural stamp.
+	It was wise nature's end in the donation,
+	To be his evidence now.

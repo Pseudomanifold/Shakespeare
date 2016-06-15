@@ -1,0 +1,52 @@
+<SPEECH 1><ACT 2><SCENE 1><12%>
+	Upon thy cheek lay I this zealous kiss,
+	As seal to this indenture of my love,
+	That to my home I will no more return
+	Till Angiers, and the right thou hast in France,
+	Together with that pale, that white-fac'd shore,
+	Whose foot spurns back the ocean's roaring tides
+	And coops from other lands her islanders,
+	Even till that England, hedg'd in with the main,
+	That water-walled bulwark, still secure
+	And confident from foreign purposes,
+	Even till that utmost corner of the west
+	Salute thee for her king: till then, fair boy,
+	Will I not think of home, but follow arms.
+<SPEECH 2><ACT 2><SCENE 1><12%>
+	The peace of heaven is theirs that lift their swords
+	In such a just and charitable war.
+<SPEECH 3><ACT 2><SCENE 1><14%>
+	By how much unexpected, by so much
+	We must awake endeavour for defence,
+	For courage mounteth with occasion:
+	Let them be welcome then, we are prepar'd.
+<SPEECH 4><ACT 2><SCENE 1><16%>
+	Peace!
+<SPEECH 5><ACT 2><SCENE 1><16%>
+	What the devil art thou?
+<SPEECH 6><ACT 2><SCENE 1><17%>
+	What cracker is this same that deafs our ears
+	With this abundance of superfluous breath?
+	King,—Lewis, determine what we shall do straight.
+<SPEECH 7><ACT 2><SCENE 1><22%>
+	Peace! no more.
+<SPEECH 8><ACT 2><SCENE 1><27%>
+	I from the north.
+<SPEECH 9><ACT 2><SCENE 1><31%>
+	And your lips too; for I am well assur'd
+	That I did so when I was first assur'd.
+<SPEECH 10><ACT 3><SCENE 1><38%>
+	Lady Constance, peace!
+<SPEECH 11><ACT 3><SCENE 1><39%>
+	O! that a man should speak those words to me.
+<SPEECH 12><ACT 3><SCENE 1><39%>
+	Thou dar'st not say so, villain, for thy life.
+<SPEECH 13><ACT 3><SCENE 1><41%>
+	King Philip, listen to the cardinal.
+<SPEECH 14><ACT 3><SCENE 1><41%>
+	Well, ruffian, I must pocket up these wrongs,
+	Because—
+<SPEECH 15><ACT 3><SCENE 1><42%>
+	Do so, King Philip: hang no more in doubt.
+<SPEECH 16><ACT 3><SCENE 1><45%>
+	Rebellion, flat rebellion!

@@ -1,0 +1,44 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+	Soothsayer!
+<SPEECH 2><ACT 1><SCENE 2><3%>
+	Show him your hand.
+<SPEECH 3><ACT 1><SCENE 2><3%>
+	Vex not his prescience; be attentive.
+<SPEECH 4><ACT 1><SCENE 2><3%>
+	Nay, hear him.
+<SPEECH 5><ACT 1><SCENE 2><4%>
+	You think none but your sheets are privy to your wishes.
+<SPEECH 6><ACT 1><SCENE 2><4%>
+	We'll know all our fortunes.
+<SPEECH 7><ACT 1><SCENE 2><5%>
+	Lo, now! if it lay in their hands to make me acuckold, they would make themselves whores, but they'd do't!
+<SPEECH 8><ACT 1><SCENE 2><5%>
+	Here, at your service. My lord approaches.
+<SPEECH 9><ACT 1><SCENE 5><15%>
+	Sovereign of Egypt, hail!
+<SPEECH 10><ACT 1><SCENE 5><15%>
+	Last thing he did, dear queen,
+	He kiss'd, the last of many doubled kisses,
+	This orient pearl. His speech sticks in my heart.
+<SPEECH 11><ACT 1><SCENE 5><15%>
+	'Good friend,' quoth he,
+	'Say, the firm Roman to great Egypt sends
+	This treasure of an oyster; at whose foot,
+	To mend the petty present, I will piece
+	Her opulent throne with kingdoms; all the east,
+	Say thou, shall call her mistress.' So he nodded,
+	And soberly did mount an arm-gaunt steed,
+	Who neigh'd so high that what I would have spoke
+	Was beastly dumb'd by him.
+<SPEECH 12><ACT 1><SCENE 5><16%>
+	Like to the time o' the year between the extremes
+	Of hot and cold; he was nor sad nor merry.
+<SPEECH 13><ACT 1><SCENE 5><16%>
+	Ay, madam, twenty several messengers.
+	Why do you send so thick?
+<SPEECH 14><ACT 3><SCENE 3><44%>
+	Half afeard to come.
+<SPEECH 15><ACT 3><SCENE 3><44%>
+	Good majesty,
+	Herod of Jewry dare not look upon you
+	But when you are well pleas'd.

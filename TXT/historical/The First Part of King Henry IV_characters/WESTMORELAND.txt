@@ -1,0 +1,46 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	My liege, this haste was hot in question,
+	And many limits of the charge set down
+	But yesternight; when all athwart there came
+	A post from Wales loaden with heavy news;
+	Whose worst was, that the noble Mortimer,
+	Leading the men of Herefordshire to fight
+	Against the irregular and wild Glendower,
+	Was by the rude hands of that Welshman taken,
+	And a thousand of his people butchered;
+	Upon whose dead corpse' there was such misuse,
+	Such beastly shameless transformation
+	By those Welshwomen done, as may not be
+	Without much shame re-told or spoken of.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	This match'd with other like, my gracious lord;
+	For more uneven and unwelcome news
+	Came from the north and thus it did import:
+	On Holy-rood day, the gallant Hotspur there,
+	Young Harry Percy and brave Archibald,
+	That ever-valiant and approved Scot,
+	At Holmedon met,
+	Where they did spend a sad and bloody hour;
+	As by discharge of their artillery,
+	And shape of likelihood, the news was told;
+	For he that brought them, in the very heat
+	And pride of their contention did take horse,
+	Uncertain of the issue any way.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	In faith,
+	It is a conquest for a prince to boast of.
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	This is his uncle's teaching, this is Worcester,
+	Malevolent to you in all aspects;
+	Which makes him prune himself, and bristle up
+	The crest of youth against your dignity.
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	I will, my hege.
+<SPEECH 6><ACT 4><SCENE 2><76%>
+	Faith, Sir John, 'tis more than time that I were there, and you too; but my powers are there already. The king, I can tell you, looks for us all: we must away all night.
+<SPEECH 7><ACT 4><SCENE 2><77%>
+	Ay, but, Sir John, methinks they are exceeding poor and bare; too beggarly.
+<SPEECH 8><ACT 4><SCENE 2><77%>
+	He is, Sir John: I fear we shall stay too long.
+<SPEECH 9><ACT 5><SCENE 4><93%>
+	Come, my lord, I'll lead you to your tent.

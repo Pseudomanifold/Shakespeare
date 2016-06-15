@@ -1,0 +1,31 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Hence! home, you idle creatures, get you home:
+	Is this a holiday? What! know you not,
+	Being mechanical, you ought not walk
+	Upon a labouring day without the sign
+	Of your profession? Speak, what trade art thou?
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Thou art a cobbler, art thou?
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	But wherefore art not in thy shop to-day?
+	Why dost thou lead these men about the streets?
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	Go, go, good countrymen, and, for this fault
+	Assemble all the poor men of your sort;
+	Draw them to Tiber banks, and weep your tears
+	Into the channel, till the lowest stream
+	Do kiss the most exalted shores of all.
+	See whe'r their basest metal be not mov'd;
+	They vanish tongue-tied in their guiltiness.
+	Go you down that way towards the Capitol;
+	This way will I. Disrobe the images
+	If you do find them deck'd with ceremonies.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	It is no matter; let no images
+	Be hung with Cæsar's trophies. I'll about
+	And drive away the vulgar from the streets:
+	So do you too where you perceive them thick.
+	These growing feathers pluck'd from Cæsar's wing
+	Will make him fly an ordinary pitch,
+	Who else would soar above the view of men
+	And keep us all in servile fearfulness.

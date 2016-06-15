@@ -1,0 +1,412 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+	Bring in the banquet quickly; wine enough
+	Cleopatra's health to drink.
+<SPEECH 2><ACT 1><SCENE 2><4%>
+	Mine, and most of our fortunes, to-night, shall be,—drunk to bed.
+<SPEECH 3><ACT 1><SCENE 2><5%>
+	Hush! here comes Antony.
+<SPEECH 4><ACT 1><SCENE 2><5%>
+	No, lady.
+<SPEECH 5><ACT 1><SCENE 2><5%>
+	Madam!
+<SPEECH 6><ACT 1><SCENE 2><6%>
+	What's your pleasure, sir?
+<SPEECH 7><ACT 1><SCENE 2><6%>
+	Why, then, we kill all our women. We see how mortal an unkindness is to them; if they suffer our departure, death's the word.
+<SPEECH 8><ACT 1><SCENE 2><7%>
+	Under a compelling occasion let women die; it were pity to cast them away for nothing; though between them and a great cause they should be esteemed nothing. Cleopatra, catching but the least noise of this, dies instantly; I have seen her die twenty times upon far poorer moment. I do think there is mettle in death which commits some loving act upon her, she hath such a celerity in dying.
+<SPEECH 9><ACT 1><SCENE 2><7%>
+	Alack! sir, no; her passions are made of nothing but the finest part of pure love. We cannot call her winds and waters sighs and tears; they are greater storms and tempests than almanacs can report: this cannot be cunning in her; if it be, she makes a shower of rain as well as Jove.
+<SPEECH 10><ACT 1><SCENE 2><7%>
+	O, sir! you had then left unseen a wonderful piece of work which not to have been blessed withal would have discredited your travel.
+<SPEECH 11><ACT 1><SCENE 2><7%>
+	Sir?
+<SPEECH 12><ACT 1><SCENE 2><7%>
+	Fulvia!
+<SPEECH 13><ACT 1><SCENE 2><7%>
+	Why, sir, give the gods a thankful sacrifice. When it pleaseth their de ties to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein, that when old robes are worn out, there are members to make new. If there were no more women but Fulvia, then had you indeed a cut, and the case to be lamented: this grief is crowned with consolation; your old smock brings forth a new petticoat; and indeed the tears live in an onion that should water this sorrow.
+<SPEECH 14><ACT 1><SCENE 2><8%>
+	And the business you have broached here cannot be without you; especially that of Cleopatra's, which wholly depends on your abode.
+<SPEECH 15><ACT 1><SCENE 2><8%>
+	I shall do it.
+<SPEECH 16><ACT 2><SCENE 2><18%>
+	I shall entreat him
+	To answer like himself: if Cæsar move him,
+	Let Antony look over Cæsar's head,
+	And speak as loud as Mars. By Jupiter,
+	Were I the wearer of Antonius' beard,
+	I would not shave 't to-day.
+<SPEECH 17><ACT 2><SCENE 2><19%>
+	Every time
+	Serves for the matter that is then born in 't.
+<SPEECH 18><ACT 2><SCENE 2><19%>
+	Not if the small come first.
+<SPEECH 19><ACT 2><SCENE 2><19%>
+	And yonder, Cæsar.
+<SPEECH 20><ACT 2><SCENE 2><20%>
+	Would we had all such wives, that the men might go to wars with the women!
+<SPEECH 21><ACT 2><SCENE 2><21%>
+	Or, if you borrow one another's love for the instant, you may, when you hear no more words of Pompey, return it again: you shall have time to wrangle in when you have nothing else to do.
+<SPEECH 22><ACT 2><SCENE 2><22%>
+	That truth should be silent I had almost forgot.
+<SPEECH 23><ACT 2><SCENE 2><22%>
+	Go to, then; your considerate stone.
+<SPEECH 24><ACT 2><SCENE 2><23%>
+	Half the heart of Cæsar, worthy Mecænas! My honourable friend, Agrippa!
+<SPEECH 25><ACT 2><SCENE 2><24%>
+	Ay, sir; we did sleep day out of countenance, and made the night light with drinking.
+<SPEECH 26><ACT 2><SCENE 2><24%>
+	This was but as a fly by an eagle; we had much more monstrous matter of feast, which worthily deserved noting.
+<SPEECH 27><ACT 2><SCENE 2><24%>
+	When she first met Mark Antony she pursed up his heart, upon the river of Cydnus.
+<SPEECH 28><ACT 2><SCENE 2><24%>
+	I will tell you.
+	The barge she sat in, like a burnish'd throne,
+	Burn'd on the water; the poop was beaten gold,
+	Purple the sails, and so perfumed, that
+	The winds were love-sick with them, the oars were silver,
+	Which to the tune of flutes kept stroke, and made
+	The water which they beat to follow faster,
+	As amorous of their strokes. For her own person,
+	It beggar'd all description; she did lie
+	In her pavilion,—cloth-of-gold of tissue,—
+	O'er-picturing that Venus where we see
+	The fancy outwork nature; on each side her
+	Stood pretty-dimpled boys, like smiling Cupids,
+	With divers-colour'd fans, whose wind did seem
+	To glow the delicate cheeks which they did cool,
+	And what they undid did.
+<SPEECH 29><ACT 2><SCENE 2><24%>
+	Her gentlewomen, like the Nereides,
+	So many mermaids, tended her i' the eyes,
+	And made their bends adornings; at the helm
+	A seeming mermaid steers; the silken tackle
+	Swell with the touches of those flower-soft hands,
+	That yarely frame the office. From the barge
+	A strange invisible perfume hits the sense
+	Of the adjacent wharfs. The city cast
+	Her people out upon her, and Antony,
+	Enthron'd i' the market-place, did sit alone,
+	Whistling to the air; which, but for vacancy,
+	Had gone to gaze on Cleopatra too
+	And made a gap in nature.
+<SPEECH 30><ACT 2><SCENE 2><25%>
+	Upon her landing, Antony sent to her,
+	Invited her to supper; she replied
+	It should be better he became her guest,
+	Which she entreated. Our courteous Antony,
+	Whom ne'er the word of 'No' woman heard speak,
+	Being barber'd ten times o'er, goes to the feast,
+	And, for his ordinary pays his heart
+	For what his eyes eat only.
+<SPEECH 31><ACT 2><SCENE 2><25%>
+	I saw her once
+	Hop forty paces through the public street;
+	And having lost her breath, she spoke, and panted
+	That she did make defect perfection,
+	And, breathless, power breathe forth.
+<SPEECH 32><ACT 2><SCENE 2><25%>
+	Never; he will not:
+	Age cannot wither her, nor custom stale
+	Her infinite variety; other women cloy
+	The appetites they feed, but she makes hungry
+	Where most she satisfies; for vilest things
+	Become themselves in her, that the holy priests
+	Bless her when she is riggish.
+<SPEECH 33><ACT 2><SCENE 2><26%>
+	Humbly, sir, I thank you.
+<SPEECH 34><ACT 2><SCENE 6><34%>
+	No more of that: he did so.
+<SPEECH 35><ACT 2><SCENE 6><34%>
+	A certain queen to Cæsar in a mattress.
+<SPEECH 36><ACT 2><SCENE 6><34%>
+	Well;
+	And well am like to do; for I perceive
+	Four feasts are toward.
+<SPEECH 37><ACT 2><SCENE 6><34%>
+	Sir,
+	I never lov'd you much, but I ha' prais'd ye
+	When you have well deserv'd ten times as much
+	As I have said you did.
+<SPEECH 38><ACT 2><SCENE 6><34%>
+	At sea, I think.
+<SPEECH 39><ACT 2><SCENE 6><34%>
+	You have done well by water.
+<SPEECH 40><ACT 2><SCENE 6><34%>
+	I will praise any man that will praise me; though it cannot be denied what I have done by land.
+<SPEECH 41><ACT 2><SCENE 6><35%>
+	Yes, something you can deny for your own safety; you have been a great thief by sea.
+<SPEECH 42><ACT 2><SCENE 6><35%>
+	There I deny my land service. But give me your hand, Menas; if our eyes had authority, here they might take two thieves kissing.
+<SPEECH 43><ACT 2><SCENE 6><35%>
+	But there is never a fair woman has a true face.
+<SPEECH 44><ACT 2><SCENE 6><35%>
+	We came hither to fight with you.
+<SPEECH 45><ACT 2><SCENE 6><35%>
+	If he do, sure, he cannot weep it back again.
+<SPEECH 46><ACT 2><SCENE 6><35%>
+	Cæsar's sister is called Octavia.
+<SPEECH 47><ACT 2><SCENE 6><35%>
+	But she is now the wife of Marcus Antonius.
+<SPEECH 48><ACT 2><SCENE 6><35%>
+	'Tis true.
+<SPEECH 49><ACT 2><SCENE 6><35%>
+	If I were bound to divine of this unity, I would not prophesy so.
+<SPEECH 50><ACT 2><SCENE 6><35%>
+	I think so too; but you shall find the band that seems to tie their friendship together will be the very strangler of their amity. Octavia is of a holy, cold, and still conversation.
+<SPEECH 51><ACT 2><SCENE 6><35%>
+	Not he that himself is not so; which is Mark Antony. He will to his Egyptian dish again; then, shall the sighs of Octavia blow the fire up in Cæsar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance. Antony will use his affection where it is; he married but his occasion here.
+<SPEECH 52><ACT 2><SCENE 6><36%>
+	I shall take it, sir: we have used our throats in Egypt.
+<SPEECH 53><ACT 2><SCENE 7><37%>
+	Not till you have slept; I fear me you'll be in till then.
+<SPEECH 54><ACT 2><SCENE 7><39%>
+	Here's to thee, Menas!
+<SPEECH 55><ACT 2><SCENE 7><39%>
+	There's a strong fellow, Menas.
+<SPEECH 56><ACT 2><SCENE 7><39%>
+	A' bears the third part of the world, man; see'st not?
+<SPEECH 57><ACT 2><SCENE 7><39%>
+	Drink thou; increase the reels.
+<SPEECH 58><ACT 2><SCENE 7><39%>
+	</STAGE DIR> Ha! my brave emperor;
+	Shall we dance now the Egyptian Bacchanals,
+	And celebrate our drink?
+<SPEECH 59><ACT 2><SCENE 7><39%>
+	All take hands.
+	Make battery to our ears with the loud music;
+	The while I'll place you; then the boy shall sing,
+	The holding every man shall bear as loud
+	As his strong sides can volley.
+	Come, thou monarch of the vine,
+	Plumpy Bacchus, with pink eyne!
+	In thy fats our cares be drown'd,
+	With thy grapes our hairs be crown'd:
+	Cup us, till the world go round,
+	Cup us, till the world go round!
+<SPEECH 60><ACT 2><SCENE 7><40%>
+	Take heed you fall not.
+	Menas, I'll not on shore.
+<SPEECH 61><ACT 2><SCENE 7><40%>
+	Hoo! says a'. There's my cap.
+<SPEECH 62><ACT 3><SCENE 2><42%>
+	They have dispatch'd with Pompey; he is gone;
+	The other three are sealing. Octavia weeps
+	To part from Rome; Cæsar is sad; and Lepidus,
+	Since Pompey's feast, as Menas says, is troubled
+	With the green sickness.
+<SPEECH 63><ACT 3><SCENE 2><42%>
+	A very fine one. O! how he loves Cæsar.
+<SPEECH 64><ACT 3><SCENE 2><42%>
+	Cæsar? Why, he's the Jupiter of men.
+<SPEECH 65><ACT 3><SCENE 2><42%>
+	Spake you of Cæsar? How! the non-pareil!
+<SPEECH 66><ACT 3><SCENE 2><42%>
+	Would you praise Cæsar, say, 'Cæsar,' go no further.
+<SPEECH 67><ACT 3><SCENE 2><42%>
+	But he loves Cæsar best; yet he loves Antony.
+	Hoo! hearts, tongues, figures, scribes, bards, poets, cannot
+	Think, speak, cast, write, sing, number; hoo!
+	His love to Antony. But as for Cæsar,
+	Kneel down, kneel down, and wonder.
+<SPEECH 68><ACT 3><SCENE 2><42%>
+	They are his shards, and he their beetle.
+	</STAGE DIR> So;
+	This is to horse. Adieu, noble Agrippa.
+<SPEECH 69><ACT 3><SCENE 2><43%>
+	</STAGE DIR> Will Cæsar weep?
+<SPEECH 70><ACT 3><SCENE 2><43%>
+	He were the worse for that were he a horse;
+	So is he, being a man.
+<SPEECH 71><ACT 3><SCENE 2><43%>
+	That year, indeed, he was troubled with a rheum;
+	What willingly he did confound he wail'd,
+	Believe 't, till I wept too.
+<SPEECH 72><ACT 3><SCENE 5><47%>
+	How now, friend Eros!
+<SPEECH 73><ACT 3><SCENE 5><47%>
+	What, man?
+<SPEECH 74><ACT 3><SCENE 5><47%>
+	This is old: what is the success?
+<SPEECH 75><ACT 3><SCENE 5><47%>
+	Then, world, thou hast a pair of chaps, no more;
+	And throw between them all the food thou hast,
+	They'll grind the one the other. Where's Antony?
+<SPEECH 76><ACT 3><SCENE 5><47%>
+	Our great navy's rigg'd.
+<SPEECH 77><ACT 3><SCENE 5><47%>
+	'Twill be naught;
+	But let it be. Bring me to Antony.
+<SPEECH 78><ACT 3><SCENE 7><51%>
+	But why, why, why?
+<SPEECH 79><ACT 3><SCENE 7><51%>
+	Well, is it, is it?
+<SPEECH 80><ACT 3><SCENE 7><51%>
+	</STAGE DIR> Well, I could reply:
+	If we should serve with horse and mares together,
+	The horse were merely lost; the mares would bear
+	A soldier and his horse.
+<SPEECH 81><ACT 3><SCENE 7><51%>
+	Your presence needs must puzzle Antony;
+	Take from his heart, take from his brain, from 's time,
+	What should not then be spar'd. He is already
+	Traduc'd for levity, and 'tis said in Rome
+	That Photinus a eunuch and your maids
+	Manage this war.
+<SPEECH 82><ACT 3><SCENE 7><51%>
+	Nay, I have done.
+	Here comes the emperor.
+<SPEECH 83><ACT 3><SCENE 7><52%>
+	So hath my lord dar'd him to single fight.
+<SPEECH 84><ACT 3><SCENE 7><52%>
+	Your ships are not well mann'd;
+	Your mariners are muleters, reapers, people
+	Ingross'd by swift impress; in Cæsar's fleet
+	Are those that often have gainst Pompey fought:
+	Their ships are yare; yours, heavy. No disgrace
+	Shall fall you for refusing him at sea,
+	Being prepar'd for land.
+<SPEECH 85><ACT 3><SCENE 7><52%>
+	Most worthy sir, you therein throw away
+	The absolute soldiership you have by land;
+	Distract your army, which doth most consist
+	Of war-mark'd footmen; leave unexecuted
+	Your own renowned knowledge; quite forego
+	The way which promises assurance; and
+	Give up yourself merely to chance and hazard
+	From firm security.
+<SPEECH 86><ACT 3><SCENE 8><54%>
+	Naught, naught, all naught! I can behold no longer.
+	The Antoniad, the Egyptian admiral,
+	With all their sixty, fly, and turn the rudder;
+	To see 't mine eyes are blasted.
+<SPEECH 87><ACT 3><SCENE 8><54%>
+	What's thy passion?
+<SPEECH 88><ACT 3><SCENE 8><54%>
+	How appears the fight?
+<SPEECH 89><ACT 3><SCENE 8><54%>
+	That I beheld:
+	Mine eyes did sicken at the sight, and could not
+	Endure a further view.
+<SPEECH 90><ACT 3><SCENE 8><55%>
+	Alack, alack!
+<SPEECH 91><ACT 3><SCENE 8><55%>
+	Ay, are you thereabouts?
+	Why, then, good night, indeed.
+<SPEECH 92><ACT 3><SCENE 8><55%>
+	I'll yet follow
+	The wounded chance of Antony, though my reason
+	Sits in the wind against me.
+<SPEECH 93><ACT 3><SCENE XI.— ><59%>
+	Think, and die.
+<SPEECH 94><ACT 3><SCENE XI.— ><59%>
+	Antony only, that would make his will
+	Lord of his reason. What though you fled
+	From that great face of war, whose several ranges
+	Frighted each other, why should he follow?
+	The itch of his affection should not then
+	Have nick'd his captainship; at such a point,
+	When half to half the world oppos'd, he being
+	The mered question. 'Twas a shame no less
+	Than was his loss, to course your flying flags,
+	And leave his navy gazing.
+<SPEECH 95><ACT 3><SCENE XI.— ><59%>
+	</STAGE DIR> Yes, like enough, high-battled Cæsar will
+	Unstate his happiness, and be stag'd to the show
+	Against a sworder! I see men's judgments are
+	A parcel of their fortunes, and things outward
+	Do draw the inward quality after them,
+	To suffer all alike. That he should dream,
+	Knowing all measures, the full Cæsar will
+	Answer his emptiness! Cæsar, thou hast subdu'd
+	His judgment too.
+<SPEECH 96><ACT 3><SCENE XI.— ><60%>
+	</STAGE DIR> Mine honesty and I begin to square.
+	The loyalty well held to fools does make
+	Our faith mere folly; yet he that can endure
+	To follow with allegiance a fall'n lord,
+	Does conquer him that did his master conquer,
+	And earns a place i' the story.
+<SPEECH 97><ACT 3><SCENE XI.— ><60%>
+	He needs as many, sir, as Cæsar has,
+	Or needs not us. If Cæsar please, our master
+	Will leap to be his friend; for us, you know
+	Whose he is we are, and that is Cæsar's.
+<SPEECH 98><ACT 3><SCENE XI.— ><61%>
+	</STAGE DIR> To be sure of that,
+	I will ask Antony. Sir, sir, thou'rt so leaky,
+	That we must leave thee to thy sinking, for
+	Thy dearest quit thee.
+<SPEECH 99><ACT 3><SCENE XI.— ><61%>
+	</STAGE DIR> You will be whipp'd.
+<SPEECH 100><ACT 3><SCENE XI.— ><62%>
+	</STAGE DIR> 'Tis better playing with a lion's whelp
+	Than with an old one dying.
+<SPEECH 101><ACT 3><SCENE XI.— ><65%>
+	Now he'll outstare the lightning. To be furious
+	Is to be frighted out of fear, and in that mood
+	The dove will peck the estridge; and I see still,
+	A diminution in our captain's brain
+	Restores his heart. When valour preys on reason
+	It eats the sword it fights with. I will seek
+	Some way to leave him.
+<SPEECH 102><ACT 4><SCENE 2><66%>
+	No.
+<SPEECH 103><ACT 4><SCENE 2><66%>
+	He thinks, being twenty times of better fortune,
+	He is twenty men to one.
+<SPEECH 104><ACT 4><SCENE 2><66%>
+	I'll strike, and cry, 'Take all.'
+<SPEECH 105><ACT 4><SCENE 2><66%>
+	</STAGE DIR> 'Tis one of those odd tricks which sorrow shoots
+	Out of the mind.
+<SPEECH 106><ACT 4><SCENE 2><66%>
+	</STAGE DIR> To make his followers weep.
+<SPEECH 107><ACT 4><SCENE 2><67%>
+	What mean you, sir,
+	To give them this discomfort? Look, they weep;
+	And I, an ass, am onion-ey'd: for shame,
+	Transform us not to women.
+<SPEECH 108><ACT 4><SCENE 6><71%>
+	Alexas did revolt, and went to Jewry on
+	Affairs of Antony; there did persuade
+	Great Herod to incline himself to Cæsar,
+	And leave his master Antony: for this pains
+	Cæsar hath hang'd him. Canidius and the rest
+	That fell away have entertainment, but
+	No honourable trust. I have done ill,
+	Of which I do accuse myself so sorely
+	That I will joy no more.
+<SPEECH 109><ACT 4><SCENE 6><71%>
+	I give it you.
+<SPEECH 110><ACT 4><SCENE 6><72%>
+	I am alone the villain of the earth,
+	And feel I am so most. O Antony!
+	Thou mine of bounty, how wouldst thou have paid
+	My better service, when my turpitude
+	Thou dost so crown with gold! This blows my heart:
+	If swift thought break it not, a swifter mean
+	Shall outstrike thought; but thought will do 't, I feel.
+	I fight against thee! No: I will go seek
+	Some ditch, wherein to die; the foul'st best fits
+	My latter part of life.
+<SPEECH 111><ACT 4><SCENE 1><74%>
+	O! bear me witness, night,—
+<SPEECH 112><ACT 4><SCENE 1><74%>
+	Be witness to me, O thou blessed moon,
+	When men revolted shall upon record
+	Bear hateful memory, poor Enobarbus did
+	Before thy face repent!
+<SPEECH 113><ACT 4><SCENE 1><74%>
+	O sovereign mistress of true melancholy,
+	The poisonous damp of night disponge upon me,
+	That life, a very rebel to my will,
+	May hang no longer on me; throw my heart
+	Against the flint and hardness of my fault,
+	Which, being dried with grief, will break to powder,
+	And finish all foul thoughts. O Antony!
+	Nobler than my revolt is infamous,
+	Forgive me in thine own particular;
+	But let the world rank me in register
+	A master-leaver and a fugitive.
+	O Antony! O Antony!

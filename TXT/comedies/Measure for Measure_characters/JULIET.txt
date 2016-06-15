@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 2><SCENE 3><33%>
+	I do, and bear the shame most patiently.
+<SPEECH 2><ACT 2><SCENE 3><33%>
+	I'll gladly learn.
+<SPEECH 3><ACT 2><SCENE 3><33%>
+	Yes, as I love the woman that wrong'd him.
+<SPEECH 4><ACT 2><SCENE 3><34%>
+	Mutually.
+<SPEECH 5><ACT 2><SCENE 3><34%>
+	I do confess it, and repent it, father.
+<SPEECH 6><ACT 2><SCENE 3><34%>
+	I do repent me, as it is an evil,
+	And take the shame with joy.
+<SPEECH 7><ACT 2><SCENE 3><34%>
+	Must die to-morrow! O injurious love,
+	That respites me a life, whose very comfort
+	Is still a dying horror!

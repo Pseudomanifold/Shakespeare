@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 3><SCENE 5><53%>
+	Come; let's return again, and suffice ourselves with the report of it. Well, Diana, take heed of this French earl: the honour of a maid is her name, and no legacy is so rich as honesty.
+<SPEECH 2><ACT 3><SCENE 5><53%>
+	I know that knave; hang him! one Parolles: a filthy officer he is in those suggestions for the young earl. Beware of them, Diana; their promises, enticements, oaths, tokens, and all these engines of lust, are not the things they go under: many a maid hath been seduced by them; and the misery is, example, that so terrible shows in the wrack of maidenhood, cannot for all that dissuade succession, but that they are limed with the twigs that threaten them. I hope I need not to advise you further; but I hope your own grace will keep you where you are, though there were no further danger known but the modesty which is so lost.
+<SPEECH 3><ACT 3><SCENE 5><55%>
+	The gods forbid else!
+<SPEECH 4><ACT 3><SCENE 5><55%>
+	He's shrewdly vexed at something.
+	Look, he has spied us.
+<SPEECH 5><ACT 3><SCENE 5><55%>
+	And your courtesy, for a ring-carrier!

@@ -1,0 +1,738 @@
+<SPEECH 1><ACT 1><SCENE 2><21%>
+	Verona, for awhile I take my leave,
+	To see my friends in Padua; but, of all
+	My best beloved and approved friend,
+	Hortensio; and I trow this is his house.
+	Here, sirrah Grumio; knock, I say.
+<SPEECH 2><ACT 1><SCENE 2><21%>
+	Villain, I say, knock me here soundly.
+<SPEECH 3><ACT 1><SCENE 2><21%>
+	Villain, I say, knock me at this gate;
+	And rap me well, or I'll knock your knave's pate.
+<SPEECH 4><ACT 1><SCENE 2><21%>
+	Will it not be?
+	Faith, sirrah, an you'll not knock, I'll ring it;
+	I'll try how you can sol, fa, and sing it.
+<SPEECH 5><ACT 1><SCENE 2><21%>
+	Now, knock when I bid you, sirrah villain!
+<SPEECH 6><ACT 1><SCENE 2><21%>
+	Signior Hortensio, come you to part the fray?
+	Con tutto il cuore ben trovato, may I say.
+<SPEECH 7><ACT 1><SCENE 2><22%>
+	A senseless villain! Good Hortensio,
+	I bade the rascal knock upon your gate,
+	And could not get him for my heart to do it.
+<SPEECH 8><ACT 1><SCENE 2><22%>
+	Sirrah, be gone, or talk not, I advise you.
+<SPEECH 9><ACT 1><SCENE 2><22%>
+	Such wind as scatters young men through the world
+	To seek their fortunes further than at home,
+	Where small experience grows. But in a few,
+	Signior Hortensio, thus it stands with me:
+	Antonio, my father, is deceas'd,
+	And I have thrust myself into this maze,
+	Haply to wive and thrive as best I may.
+	Crowns in my purse I have and goods at home,
+	And so am come abroad to see the world.
+<SPEECH 10><ACT 1><SCENE 2><23%>
+	Signior Hortensio, 'twixt such friends as we,
+	Few words suffice; and therefore, if thou know
+	One rich enough to be Petruchio's wife,
+	As wealth is burden of my wooing dance,
+	Be she as foul as was Florentius' love,
+	As old as Sibyl, and as curst and shrewd
+	As Socrates' Xanthippe, or a worse,
+	She moves me not, or not removes, at least,
+	Affection's edge in me, were she as rough
+	As are the swelling Adriatic seas:
+	I come to wive it wealthily in Padua;
+	If wealthily, then happily in Padua.
+<SPEECH 11><ACT 1><SCENE 2><24%>
+	Hortensio, peace! thou know'st not gold's effect:
+	Tell me her father's name, and 'tis enough;
+	For I will board her, though she chide as loud
+	As thunder when the clouds in autumn crack.
+<SPEECH 12><ACT 1><SCENE 2><24%>
+	I know her father, though I know not her;
+	And he knew my deceased father well.
+	I will not sleep, Hortensio, till I see her;
+	And therefore let me be thus bold with you,
+	To give you over at this first encounter,
+	Unless you will accompany me thither.
+<SPEECH 13><ACT 1><SCENE 2><26%>
+	Peace, sirrah!
+<SPEECH 14><ACT 1><SCENE 2><27%>
+	I know she is an irksome, brawling scold:
+	If that be all, masters, I hear no harm.
+<SPEECH 15><ACT 1><SCENE 2><27%>
+	Born in Verona, old Antonio's son:
+	My father dead, my fortune lives for me;
+	And I do hope good days and long to see.
+<SPEECH 16><ACT 1><SCENE 2><27%>
+	Will I live?
+<SPEECH 17><ACT 1><SCENE 2><28%>
+	Why came I hither but to that intent?
+	Think you a little din can daunt mine ears?
+	Have I not in my time heard lions roar?
+	Have I not heard the sea, puff'd up with winds,
+	Rage like an angry boar chafed with sweat?
+	Have I not heard great ordnance in the field,
+	And heaven's artillery thunder in the skies?
+	Have I not in a pitched battle heard
+	Loud 'larums, neighing steeds, and trumpets' clang?
+	And do you tell me of a woman's tongue,
+	That gives not half so great a blow to hear
+	As will a chestnut in a farmer's fire?
+	Tush, tush! fear boys with bugs.
+<SPEECH 18><ACT 1><SCENE 2><29%>
+	Not her that chides, sir, at any hand, I pray.
+<SPEECH 19><ACT 1><SCENE 2><30%>
+	Hortensio, to what end are all these words?
+<SPEECH 20><ACT 1><SCENE 2><30%>
+	Sir, sir, the first's for me; let her go by.
+<SPEECH 21><ACT 1><SCENE 2><30%>
+	Sir, understand you this of me in sooth:
+	The youngest daughter, whom you hearken for,
+	Her father keeps from all access of suitors,
+	And will not promise her to any man
+	Until the elder sister first be wed;
+	The younger then is free, and not before.
+<SPEECH 22><ACT 2><SCENE 1><33%>
+	And you, good sir. Pray, have you not a daughter
+	Call'd Katharina, fair and virtuous?
+<SPEECH 23><ACT 2><SCENE 1><33%>
+	You wrong me, Signior Gremio: give me leave.
+	I am a gentleman of Verona, sir,
+	That, hearing of her beauty and her wit,
+	Her affability and bashful modesty,
+	Her wondrous qualities and mild behaviour,
+	Am bold to show myself a forward guest
+	Within your house, to make mine eye the witness
+	Of that report which I so oft have heard.
+	And, for an entrance to my entertainment,
+	I do present you with a man of mine,
+	Cunning in music and the mathematics,
+	To instruct her fully in those sciences,
+	Whereof I know she is not ignorant.
+	Accept of him, or else you do me wrong:
+	His name is Licio, born in Mantua.
+<SPEECH 24><ACT 2><SCENE 1><33%>
+	I see you do not mean to part with her,
+	Or else you like not of my company.
+<SPEECH 25><ACT 2><SCENE 1><34%>
+	Petruchio is my name; Antonio's son;
+	A man well known throughout all Italy.
+<SPEECH 26><ACT 2><SCENE 1><34%>
+	O, pardon me, Signior Gremio; I would fain be doing.
+<SPEECH 27><ACT 2><SCENE 1><35%>
+	Signior Baptista, my business asketh haste,
+	And every day I cannot come to woo.
+	You knew my father well, and in him me,
+	Left solely heir to all his lands and goods,
+	Which I have better'd rather than decreas'd:
+	Then tell me, if I get your daughter's love,
+	What dowry shall I have with her to wife?
+<SPEECH 28><ACT 2><SCENE 1><36%>
+	And, for that dowry, I'll assure her of
+	Her widowhood, be it that she survive me,
+	In all my lands and leases whatsoever.
+	Let specialties be therefore drawn between us,
+	That covenants may be kept on either hand.
+<SPEECH 29><ACT 2><SCENE 1><36%>
+	Why, that is nothing; for I tell you, father,
+	I am as peremptory as she proud-minded;
+	And where two raging fires meet together
+	They do consume the thing that feeds their fury:
+	Though little fire grows great with little wind,
+	Yet extreme gusts will blow out fire and all;
+	So I to her, and so she yields to me;
+	For I am rough and woo not like a babe.
+<SPEECH 30><ACT 2><SCENE 1><36%>
+	Ay, to the proof; as mountains are for winds,
+	That shake not, though they blow perpetually.
+<SPEECH 31><ACT 2><SCENE 1><37%>
+	Now, by the world, it is a lusty wench!
+	I love her ten times more than e'er I did:
+	O! how I long to have some chat with her!
+<SPEECH 32><ACT 2><SCENE 1><37%>
+	I pray you do; I will attend her here,
+	And woo her with some spirit when she comes.
+	Say that she rail; why then I'll tell her plain
+	She sings as sweetly as a nightingale:
+	Say that she frown; I'll say she looks as clear
+	As morning roses newly wash'd with dew:
+	Say she be mute and will not speak a word;
+	Then I'll commend her volubility,
+	And say she uttereth piercing eloquence:
+	If she do bid me pack; I'll give her thanks,
+	As though she bid me stay by her a week:
+	If she deny to wed; I'll crave the day
+	When I shall ask the banns, and when be married.
+	But here she comes; and now, Petruchio, speak.
+	Good morrow, Kate; for that's your name, I hear.
+<SPEECH 33><ACT 2><SCENE 1><38%>
+	You lie, in faith; for you are call'd plain Kate,
+	And bonny Kate, and sometimes Kate the curst;
+	But, Kate, the prettiest Kate in Christendom;
+	Kate of Kate-Hall, my super-dainty Kate,
+	For dainties are all cates: and therefore, Kate,
+	Take this of me, Kate of my consolation;
+	Hearing thy mildness prais'd in every town,
+	Thy virtues spoke of, and thy beauty sounded,—
+	Yet not so deeply as to thee belongs,—
+	Myself am mov'd to woo thee for my wife.
+<SPEECH 34><ACT 2><SCENE 1><39%>
+	Why, what's a moveable?
+<SPEECH 35><ACT 2><SCENE 1><39%>
+	Thou hast hit it: come, sit on me.
+<SPEECH 36><ACT 2><SCENE 1><39%>
+	Women are made to bear, and so are you.
+<SPEECH 37><ACT 2><SCENE 1><39%>
+	Alas! good Kate, I will not burden thee;
+	For, knowing thee to be but young and light,—
+<SPEECH 38><ACT 2><SCENE 1><39%>
+	Should be! should buz!
+<SPEECH 39><ACT 2><SCENE 1><39%>
+	O slow-wing'd turtle! shall a buzzard take thee?
+<SPEECH 40><ACT 2><SCENE 1><39%>
+	Come, come, you wasp; i' faith you are too angry.
+<SPEECH 41><ACT 2><SCENE 1><39%>
+	My remedy is, then, to pluck it out.
+<SPEECH 42><ACT 2><SCENE 1><39%>
+	Who knows not where a wasp does wear his sting?
+	In his tail.
+<SPEECH 43><ACT 2><SCENE 1><39%>
+	Whose tongue?
+<SPEECH 44><ACT 2><SCENE 1><39%>
+	What! with my tongue in your tail? nay, come again.
+	Good Kate, I am a gentleman.
+<SPEECH 45><ACT 2><SCENE 1><40%>
+	I swear I'll cuff you if you strike again.
+<SPEECH 46><ACT 2><SCENE 1><40%>
+	A herald, Kate? O! put me in thy books.
+<SPEECH 47><ACT 2><SCENE 1><40%>
+	A combless cock, so Kate will be my hen.
+<SPEECH 48><ACT 2><SCENE 1><40%>
+	Nay, come, Kate, come; you must not look so sour.
+<SPEECH 49><ACT 2><SCENE 1><40%>
+	Why, here's no crab, and therefore look not sour.
+<SPEECH 50><ACT 2><SCENE 1><40%>
+	Then show it me.
+<SPEECH 51><ACT 2><SCENE 1><40%>
+	What, you mean my face?
+<SPEECH 52><ACT 2><SCENE 1><40%>
+	Now, by Saint George, I am too young for you.
+<SPEECH 53><ACT 2><SCENE 1><40%>
+	'Tis with cares.
+<SPEECH 54><ACT 2><SCENE 1><40%>
+	Nay, hear you, Kate: in sooth, you 'scape not so.
+<SPEECH 55><ACT 2><SCENE 1><40%>
+	No, not a whit: I find you passing gentle.
+	'Twas told me you were rough and coy and sullen,
+	And now I find report a very liar;
+	For thou art pleasant, gamesome, passing courteous,
+	But slow in speech, yet sweet as spring-time flowers:
+	Thou canst not frown, thou canst not look askance,
+	Nor bite the lip, as angry wenches will;
+	Nor hast thou pleasure to be cross in talk;
+	But thou with mildness entertain'st thy wooers,
+	With gentle conference, soft and affable.
+	Why does the world report that Kate doth limp?
+	O slanderous world! Kate, like the hazel-twig,
+	Is straight and slender, and as brown in hue
+	As hazel nuts, and sweeter than the kernels.
+	O! let me see thee walk: thou dost not halt.
+<SPEECH 56><ACT 2><SCENE 1><41%>
+	Did ever Dian so become a grove
+	As Kate this chamber with her princely gait?
+	O! be thou Dian, and let her be Kate,
+	And then let Kate be chaste, and Dian sportful!
+<SPEECH 57><ACT 2><SCENE 1><41%>
+	It is extempore, from my mother-wit.
+<SPEECH 58><ACT 2><SCENE 1><41%>
+	Am I not wise?
+<SPEECH 59><ACT 2><SCENE 1><41%>
+	Marry, so I mean, sweet Katharine, in thy bed:
+	And therefore, setting all this chat aside,
+	Thus in plain terms: your father hath consented
+	That you shall be my wife; your dowry 'greed on;
+	And will you, nill you, I will marry you.
+	Now, Kate, I am a husband for your turn;
+	For, by this light, whereby I see thy beauty,—
+	Thy beauty that doth make me like thee well,—
+	Thou must be married to no man but me:
+	For I am he am born to tame you, Kate;
+	And bring you from a wild Kate to a Kate
+	Conformable as other household Kates.
+	Here comes your father: never make denial;
+	I must and will have Katharine to my wife.
+<SPEECH 60><ACT 2><SCENE 1><42%>
+	How but well, sir? how but well?
+	It were impossible I should speed amiss.
+<SPEECH 61><ACT 2><SCENE 1><42%>
+	Father, 'tis thus: yourself and all the world,
+	That talk'd of her, have talk'd amiss of her:
+	If she be curst, it is for policy,
+	For she's not froward, but modest as the dove;
+	She is not hot, but temperate as the morn;
+	For patience she will prove a second Grissel,
+	And Roman Lucrece for her chastity;
+	And to conclude, we have 'greed so well together,
+	That upon Sunday is the wedding-day.
+<SPEECH 62><ACT 2><SCENE 1><42%>
+	Be patient, gentlemen; I choose her for myself:
+	If she and I be pleas'd, what's that to you?
+	'Tis bargain'd 'twixt us twain, being alone,
+	That she shall still be curst in company.
+	I tell you, 'tis incredible to believe
+	How much she loves me: O! the kindest Kate.
+	She hung about my neck, and kiss on kiss
+	She vied so fast, protesting oath on oath,
+	That in a twink she won me to her love.
+	O! you are novices: 'tis a world to see,
+	How tame, when men and women are alone,
+	A meacock wretch can make the curstest shrew.
+	Give me thy hand, Kate: I will unto Venice
+	To buy apparel 'gainst the wedding-day.
+	Provide the feast, father, and bid the guests;
+	I will be sure my Katharine shall be fine.
+<SPEECH 63><ACT 2><SCENE 1><43%>
+	Father, and wife, and gentlemen, adieu.
+	I will to Venice; Sunday comes apace:
+	We will have rings, and things, and fine array;
+	And, kiss me, Kate, we will be married o' Sunday.
+<SPEECH 64><ACT 3><SCENE 2><53%>
+	Come, where be these gallants? who is at home?
+<SPEECH 65><ACT 3><SCENE 2><53%>
+	And yet I come not well.
+<SPEECH 66><ACT 3><SCENE 2><53%>
+	Were it better, I should rush in thus.
+	But where is Kate? where is my lovely bride?
+	How does my father? Gentles, methinks you frown:
+	And wherefore gaze this goodly company,
+	As if they saw some wondrous monument,
+	Some comet, or unusual prodigy?
+<SPEECH 67><ACT 3><SCENE 2><54%>
+	Tedious it were to tell, and harsh to hear:
+	Sufficeth, I am come to keep my word,
+	Though in some part enforced to digress;
+	Which, at more leisure, I will so excuse
+	As you shall well be satisfied withal.
+	But where is Kate? I stay too long from her:
+	The morning wears, 'tis time we were at church.
+<SPEECH 68><ACT 3><SCENE 2><54%>
+	Not I, believe me: thus I'll visit her.
+<SPEECH 69><ACT 3><SCENE 2><54%>
+	Good sooth, even thus; therefore ha' done with words:
+	To me she's married, not unto my clothes.
+	Could I repair what she will wear in me
+	As I can change these poor accoutrements,
+	'Twere well for Kate and better for myself.
+	But what a fool am I to chat with you
+	When I should bid good morrow to my bride,
+	And seal the title with a lovely kiss!
+<SPEECH 70><ACT 3><SCENE 2><57%>
+	Gentlemen and friends, I thank you for your pains:
+	I know you think to dine with me to-day,
+	And have prepar'd great store of wedding cheer;
+	But so it is, my haste doth call me hence,
+	And therefore here I mean to take my leave.
+<SPEECH 71><ACT 3><SCENE 2><57%>
+	I must away to-day, before night come.
+	Make it no wonder: if you knew my business,
+	You would entreat me rather go than stay.
+	And, honest company, I thank you all,
+	That have beheld me give away myself
+	To this most patient, sweet, and virtuous wife.
+	Dine with my father, drink a health to me,
+	For I must hence; and farewell to you all.
+<SPEECH 72><ACT 3><SCENE 2><57%>
+	It may not be.
+<SPEECH 73><ACT 3><SCENE 2><58%>
+	It cannot be.
+<SPEECH 74><ACT 3><SCENE 2><58%>
+	I am content.
+<SPEECH 75><ACT 3><SCENE 2><58%>
+	I am content you shall entreat me stay,
+	But yet not stay, entreat me how you can.
+<SPEECH 76><ACT 3><SCENE 2><58%>
+	Grumio, my horse!
+<SPEECH 77><ACT 3><SCENE 2><58%>
+	O Kate! content thee: prithee, be not angry.
+<SPEECH 78><ACT 3><SCENE 2><58%>
+	They shall go forward, Kate, at thy command.
+	Obey the bride, you that attend on her;
+	Go to the feast, revel and domineer,
+	Carouse full measure to her maidenhead,
+	Be mad and merry, or go hang yourselves:
+	But for my bonny Kate, she must with me.
+	Nay, look not big, nor stamp, nor stare, nor fret;
+	I will be master of what is mine own.
+	She is my goods, my chattels; she is my house,
+	My household stuff, my field, my barn,
+	My horse, my ox, my ass, my anything;
+	And here she stands, touch her whoever dare;
+	I'll bring mine action on the proudest he
+	That stops my way in Padua. Grumio,
+	Draw forth thy weapon, we're beset with thieves;
+	Rescue thy mistress, if thou be a man.
+	Fear not, sweet wench; they shall not touch thee, Kate:
+	I'll buckler thee against a million.
+<SPEECH 79><ACT 4><SCENE 1><63%>
+	Where be these knaves? What! no man at door
+	To hold my stirrup nor to take my horse?
+	Where is Nathaniel, Gregory, Philip?—
+<SPEECH 80><ACT 4><SCENE 1><64%>
+	Here, sir! here, sir! here, sir! here, sir!
+	You logger-headed and unpolish'd grooms!
+	What, no attendance? no regard? no duty?
+	Where is the foolish knave I sent before?
+<SPEECH 81><ACT 4><SCENE 1><64%>
+	You peasant swain! you whoreson malt-horse drudge!
+	Did I not bid thee meet me in the park,
+	And bring along these rascal knaves with thee?
+<SPEECH 82><ACT 4><SCENE 1><64%>
+	Go, rascals, go, and fetch my supper in.
+	Where is the life that late I led?
+	Where are those—? Sit down, Kate, and welcome.
+	Soud, soud, soud, soud!
+	Why, when, I say?—Nay, good sweet Kate, be merry.—
+	Off with my boots, you rogues! you villains! When?
+	It was the friar of orders grey,
+	As he forth walked on his way:
+	Out, you rogue! you pluck my foot awry:
+	Take that, and mend the plucking off the other.
+	Be merry, Kate. Some water, here; what, ho!
+	Where's my spaniel Troilus? Sirrah, get you hence
+	And bid my cousin Ferdinand come hither:
+	One, Kate, that you must kiss, and be acquainted with.
+	Where are my slippers? Shall I have some water?
+	Come, Kate, and wash, and welcome heartily.—
+	You whoreson villain! will you let it fall?
+<SPEECH 83><ACT 4><SCENE 1><65%>
+	A whoreson, beetle-headed, flap-ear'd knave!
+	Come, Kate, sit down; I know you have a stomach.
+	Will you give thanks, sweet Kate, or else shall I?—
+	What's this? mutton?
+<SPEECH 84><ACT 4><SCENE 1><65%>
+	Who brought it?
+<SPEECH 85><ACT 4><SCENE 1><65%>
+	'Tis burnt; and so is all the meat.
+	What dogs are these! Where is the rascal cook?
+	How durst you, villains, bring it from the dresser,
+	And serve it thus to me that love it not?
+	There, take it to you, trenchers, cups, and all.
+	You heedless joltheads and unmanner'd slaves!
+	What! do you grumble? I'll be with you straight.
+<SPEECH 86><ACT 4><SCENE 1><66%>
+	I tell thee, Kate, 'twas burnt and dried away;
+	And I expressly am forbid to touch it,
+	For it engenders choler, planteth anger;
+	And better 'twere that both of us did fast,
+	Since, of ourselves, ourselves are choleric,
+	Than feed it with such over-roasted flesh.
+	Be patient; to-morrow't shall be mended,
+	And for this night we'll fast for company:
+	Come, I will bring thee to thy bridal chamber.
+<SPEECH 87><ACT 4><SCENE 1><66%>
+	Thus have I politicly begun my reign,
+	And 'tis my hope to end successfully.
+	My falcon now is sharp and passing empty,
+	And till she stoop she must not be full-gorg'd,
+	For then she never looks upon her lure.
+	Another way I have to man my haggard,
+	To make her come and know her keeper's call;
+	That is, to watch her, as we watch these kites
+	That bate and beat and will not be obedient.
+	She eat no meat to-day, nor none shall eat;
+	Last night she slept not, nor to-night she shall not:
+	As with the meat, some undeserved fault
+	I'll find about the making of the bed;
+	And here I'll fling the pillow, there the bolster,
+	This way the coverlet, another way the sheets:
+	Ay, and amid this hurly I intend
+	That all is done in reverend care of her;
+	And in conclusion she shall watch all night:
+	And if she chance to nod I'll rail and brawl,
+	And with the clamour keep her still awake.
+	This is a way to kill a wife with kindness;
+	And thus I'll curb her mad and headstrong humour.
+	He that knows better how to tame a shrew,
+	Now let him speak: 'tis charity to show.
+<SPEECH 88><ACT 4><SCENE 3><73%>
+	How fares my Kate? What, sweeting, all amort?
+<SPEECH 89><ACT 4><SCENE 3><73%>
+	Pluck up thy spirits; look cheerfully upon me.
+	Here, love; thou seest how diligent I am,
+	To dress thy meat myself and bring it thee:
+	I am sure, sweet Kate, this kindness merits thanks.
+	What! not a word? Nay then, thou lov'st it not,
+	And all my pains is sorted to no proof.
+	Here, take away this dish.
+<SPEECH 90><ACT 4><SCENE 3><74%>
+	The poorest service is repaid with thanks,
+	And so shall mine, before you touch the meat.
+<SPEECH 91><ACT 4><SCENE 3><74%>
+	</STAGE DIR> Eat it up all, Hortensio, if thou lov'st me.
+	Much good do it unto thy gentle heart!
+	Kate, eat apace: and now, my honey love,
+	Will we return unto thy father's house,
+	And revel it as bravely as the best,
+	With silken coats and caps and golden rings,
+	With ruffs and cuffs and farthingales and things;
+	With scarfs and fans and double change of bravery,
+	With amber bracelets, beads and all this knavery.
+	What! hast thou din'd? The tailor stays thy leisure,
+	To deck thy body with his ruffling treasure.
+	Come, tailor, let us see these ornaments;
+	Lay forth the gown.—
+	What news with you, sir?
+<SPEECH 92><ACT 4><SCENE 3><75%>
+	Why, this was moulded on a porringer;
+	A velvet dish: fie, fie! 'tis lewd and filthy:
+	Why, 'tis a cockle or a walnut-shell,
+	A knack, a toy, a trick, a baby's cap:
+	Away with it! come, let me have a bigger.
+<SPEECH 93><ACT 4><SCENE 3><75%>
+	When you are gentle, you shall have one too;
+	And not till then.
+<SPEECH 94><ACT 4><SCENE 3><75%>
+	Why, thou sayst true; it is a paltry cap,
+	A custard-coffin, a bauble, a silken pie.
+	I love thee well in that thou lik'st it not.
+<SPEECH 95><ACT 4><SCENE 3><75%>
+	Thy gown? why, ay: come, tailor, let us see't.
+	O mercy, God! what masquing stuff is here?
+	What's this? a sleeve? 'tis like a demi-cannon:
+	What! up and down, carv'd like an apple-tart?
+	Here's snip and nip and cut and slish and slash,
+	Like to a censer in a barber's shop.
+	Why, what, i' devil's name, tailor, call'st thou this?
+<SPEECH 96><ACT 4><SCENE 3><76%>
+	Marry, and did: but if you be remember'd,
+	I did not bid you mar it to the time.
+	Go, hop me over every kennel home,
+	For you shall hop without my custom, sir.
+	I'll none of it: hence! make your best of it.
+<SPEECH 97><ACT 4><SCENE 3><76%>
+	Why, true; he means to make a puppet of thee.
+<SPEECH 98><ACT 4><SCENE 3><76%>
+	O monstrous arrogance! Thou liest, thou thread,
+	Thou thimble,
+	Thou yard, three-quarters, half-yard, quarter, nail!
+	Thou flea, thou nit, thou winter-cricket thou!
+	Brav'd in mine own house with a skein of thread!
+	Away! thou rag, thou quantity, thou remnant,
+	Or I shall so be-mete thee with thy yard
+	As thou shalt think on prating whilst thou liv'st!
+	I tell thee, I, that thou hast marr'd her gown.
+<SPEECH 99><ACT 4><SCENE 3><77%>
+	Read it.
+<SPEECH 100><ACT 4><SCENE 3><77%>
+	Proceed.
+<SPEECH 101><ACT 4><SCENE 3><77%>
+	Ay, there's the villany.
+<SPEECH 102><ACT 4><SCENE 3><78%>
+	Well, sir, in brief, the gown is not for me.
+<SPEECH 103><ACT 4><SCENE 3><78%>
+	Go, take it up unto thy master's use.
+<SPEECH 104><ACT 4><SCENE 3><78%>
+	Why, sir, what's your conceit in that?
+<SPEECH 105><ACT 4><SCENE 3><78%>
+	</STAGE DIR> Hortensio, say thou wilt see the tailor paid.
+	</STAGE DIR> Go take it hence; be gone, and say no more.
+<SPEECH 106><ACT 4><SCENE 3><78%>
+	Well, come, my Kate; we will unto your father's,
+	Even in these honest mean habiliments.
+	Our purses shall be proud, our garments poor:
+	For 'tis the mind that makes the body rich;
+	And as the sun breaks through the darkest clouds,
+	So honour peereth in the meanest habit.
+	What is the jay more precious than the lark
+	Because his feathers are more beautiful?
+	Or is the adder better than the eel
+	Because his painted skin contents the eye?
+	O, no, good Kate; neither art thou the worse
+	For this poor furniture and mean array.
+	If thou account'st it shame, lay it on me;
+	And therefore frolic: we will hence forthwith,
+	To feast and sport us at thy father's house.
+	Go, call my men, and let us straight to him;
+	And bring our horses unto Long-lane end;
+	There will we mount, and thither walk on foot.
+	Let's see; I think 'tis now some seven o'clock,
+	And well we may come there by dinner-time.
+<SPEECH 107><ACT 4><SCENE 3><79%>
+	It shall be seven ere I go to horse.
+	Look, what I speak, or do, or think to do,
+	You are still crossing it. Sirs, let't alone:
+	I will not go to-day; and ere I do,
+	It shall be what o'clock I say it is.
+<SPEECH 108><ACT 4><SCENE 5><83%>
+	Come on, i' God's name; once more toward our father's.
+	Good Lord, how bright and goodly shines the moon!
+<SPEECH 109><ACT 4><SCENE 5><83%>
+	I say it is the moon that shines so bright.
+<SPEECH 110><ACT 4><SCENE 5><84%>
+	Now, by my mother's son, and that's myself,
+	It shall be moon, or star, or what I list,
+	Or ere I journey to your father's house.
+	Go one and fetch our horses back again.
+	Evermore cross'd and cross'd; nothing but cross'd!
+<SPEECH 111><ACT 4><SCENE 5><84%>
+	I say it is the moon.
+<SPEECH 112><ACT 4><SCENE 5><84%>
+	Nay, then you lie; it is the blessed sun.
+<SPEECH 113><ACT 4><SCENE 5><84%>
+	Well, forward, forward! thus the bowl should run,
+	And not unluckily against the bias.
+	But soft! what company is coming here?
+	</STAGE DIR> Good morrow, gentle mistress: where away?
+	Tell me, sweet Kate, and tell me truly too,
+	Hast thou beheld a fresher gentlewoman?
+	Such war of white and red within her cheeks!
+	What stars do spangle heaven with such beauty,
+	As those two eyes become that heavenly face?
+	Fair lovely maid, once more good day to thee.
+	Sweet Kate, embrace her for her beauty's sake.
+<SPEECH 114><ACT 4><SCENE 5><85%>
+	Why, how now, Kate! I hope thou art not mad:
+	This is a man, old, wrinkled, faded, wither'd,
+	And not a maiden, as thou sayst he is.
+<SPEECH 115><ACT 4><SCENE 5><85%>
+	Do, good old grandsire; and withal make known
+	Which way thou travellest: if along with us,
+	We shall be joyful of thy company.
+<SPEECH 116><ACT 4><SCENE 5><85%>
+	What is his name?
+<SPEECH 117><ACT 4><SCENE 5><86%>
+	Happily met; the happier for thy son.
+	And now by law, as well as reverend age,
+	I may entitle thee my loving father:
+	The sister to my wife, this gentlewoman,
+	Thy son by this hath married. Wonder not,
+	Nor be not griev'd: she is of good esteem,
+	Her dowry wealthy, and of worthy birth;
+	Beside, so qualified as may beseem
+	The spouse of any noble gentleman.
+	Let me embrace with old Vincentio;
+	And wander we to see thy honest son,
+	Who will of thy arrival be full joyous.
+<SPEECH 118><ACT 4><SCENE 5><86%>
+	Come, go along, and see the truth hereof;
+	For our first merriment hath made thee jealous.
+<SPEECH 119><ACT 5><SCENE 1><87%>
+	Sir, here's the door, this is Lucentio's house:
+	My father's bears more toward the marketplace;
+	Thither must I, and here I leave you, sir.
+<SPEECH 120><ACT 5><SCENE 1><87%>
+	Nay, I told you your son was well beloved in Padua. Do you hear, sir? To leave frivolous circumstances, I pray you, tell Signior Lucentio that his father is come from Pisa, and is here at the door to speak with him.
+<SPEECH 121><ACT 5><SCENE 1><88%>
+	</STAGE DIR> Why, how now, gentleman! why, this is flat knavery, to take upon you another man's name.
+<SPEECH 122><ACT 5><SCENE 1><89%>
+	Prithee, Kate, let's stand aside, and see the end of this controversy.
+<SPEECH 123><ACT 5><SCENE 1><92%>
+	First kiss me, Kate, and we will.
+<SPEECH 124><ACT 5><SCENE 1><92%>
+	What! art thou ashamed of me?
+<SPEECH 125><ACT 5><SCENE 1><92%>
+	Why, then let's home again. Come, sirrah, let's away.
+<SPEECH 126><ACT 5><SCENE 1><92%>
+	Is not this well? Come, my sweet Kate:
+	Better once than never, for never too late.
+<SPEECH 127><ACT 5><SCENE 2><93%>
+	Nothing but sit and sit, and eat and eat!
+<SPEECH 128><ACT 5><SCENE 2><93%>
+	Padua affords nothing but what is kind.
+<SPEECH 129><ACT 5><SCENE 2><93%>
+	Now, for my life, Hortensio fears his widow.
+<SPEECH 130><ACT 5><SCENE 2><93%>
+	You are very sensible, and yet you miss my sense:
+	I mean, Hortensio is afeard of you.
+<SPEECH 131><ACT 5><SCENE 2><93%>
+	Roundly replied.
+<SPEECH 132><ACT 5><SCENE 2><93%>
+	Conceives by me! How likes Hortensio that?
+<SPEECH 133><ACT 5><SCENE 2><93%>
+	Very well mended. Kiss him for that, good widow.
+<SPEECH 134><ACT 5><SCENE 2><94%>
+	To her, Kate!
+<SPEECH 135><ACT 5><SCENE 2><94%>
+	A hundred marks, my Kate does put her down.
+<SPEECH 136><ACT 5><SCENE 2><94%>
+	Spoke like an officer: ha' to thee, lad.
+<SPEECH 137><ACT 5><SCENE 2><94%>
+	Nay, that you shall not; since you have begun,
+	Have at you for a bitter jest or two.
+<SPEECH 138><ACT 5><SCENE 2><94%>
+	She hath prevented me. Here, Signior Tranio;
+	This bird you aim'd at, though you hit her not:
+	Therefore a health to all that shot and miss'd.
+<SPEECH 139><ACT 5><SCENE 2><95%>
+	A good swift simile, but something currish.
+<SPEECH 140><ACT 5><SCENE 2><95%>
+	A' has a little gall'd me, I confess;
+	And, as the jest did glance away from me,
+	'Tis ten to one it maim'd you two outright.
+<SPEECH 141><ACT 5><SCENE 2><95%>
+	Well, I say no: and therefore, for assurance,
+	Let's each one send unto his wife;
+	And he whose wife is most obedient
+	To come at first when he doth send for her,
+	Shall win the wager which we will propose.
+<SPEECH 142><ACT 5><SCENE 2><95%>
+	Twenty crowns!
+	I'll venture so much of my hawk or hound,
+	But twenty times so much upon my wife.
+<SPEECH 143><ACT 5><SCENE 2><95%>
+	A match! 'tis done.
+<SPEECH 144><ACT 5><SCENE 2><96%>
+	How! she is busy, and she cannot come!
+	Is that an answer?
+<SPEECH 145><ACT 5><SCENE 2><96%>
+	I hope, better.
+<SPEECH 146><ACT 5><SCENE 2><96%>
+	O ho! entreat her!
+	Nay, then she must needs come.
+<SPEECH 147><ACT 5><SCENE 2><96%>
+	Worse and worse; she will not come! O vile,
+	Intolerable, not to be endur'd!
+	Sirrah Grumio, go to your mistress; say,
+	I command her come to me.
+<SPEECH 148><ACT 5><SCENE 2><96%>
+	What?
+<SPEECH 149><ACT 5><SCENE 2><96%>
+	The fouler fortune mine, and there an end.
+<SPEECH 150><ACT 5><SCENE 2><97%>
+	Where is your sister, and Hortensio's wife?
+<SPEECH 151><ACT 5><SCENE 2><97%>
+	Go, fetch them hither: if they deny to come,
+	Swinge me them soundly forth unto their husbands.
+	Away, I say, and bring them hither straight.
+<SPEECH 152><ACT 5><SCENE 2><97%>
+	Marry, peace it bodes, and love, and quiet life,
+	An awful rule and right supremacy;
+	And, to be short, what not that's sweet and happy.
+<SPEECH 153><ACT 5><SCENE 2><97%>
+	Nay, I will win my wager better yet,
+	And show more sign of her obedience,
+	Her new-built virtue and obedience.
+	See where she comes, and brings your froward wives
+	As prisoners to her womanly persuasion.
+	Katharine, that cap of yours becomes you not:
+	Off with that bauble, throw it under foot.
+<SPEECH 154><ACT 5><SCENE 2><98%>
+	Katharine, I charge thee, tell these headstrong women
+	What duty they do owe their lords and husbands.
+<SPEECH 155><ACT 5><SCENE 2><98%>
+	Come on, I say; and first begin with her.
+<SPEECH 156><ACT 5><SCENE 2><98%>
+	I say she shall: and first begin with her.
+<SPEECH 157><ACT 5><SCENE 2><99%>
+	Why, there's a wench! Come on, and kiss me, Kate.
+<SPEECH 158><ACT 5><SCENE 2><100%>
+	Come, Kate, we'll to bed.
+	We three are married, but you two are sped.
+	'Twas I won the wager, <STAGE DIR>
+	</STAGE DIR> though you hit the white;
+	And, being a winner, God give you good night!

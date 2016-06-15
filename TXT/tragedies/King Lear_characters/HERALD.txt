@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 5><SCENE 3><93%>
+	If any man of quality or degree within the lists of the army will maintain upon Edmund, supposed Earl of Gloucester, that he is a manifold traitor, let him appear at the third sound of the trumpet. He is bold in his defence.
+<SPEECH 2><ACT 5><SCENE 3><93%>
+	Again!
+<SPEECH 3><ACT 5><SCENE 3><93%>
+	Again!
+<SPEECH 4><ACT 5><SCENE 3><93%>
+	What are you?
+	Your name? your quality? and why you answer
+	This present summons?

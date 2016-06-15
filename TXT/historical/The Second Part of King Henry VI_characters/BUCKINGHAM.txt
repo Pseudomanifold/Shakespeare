@@ -1,0 +1,97 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+	Why should he then protect our sovereign,
+	He being of age to govern of himself?
+	Cousin of Somerset, join you with me,
+	And all together, with the Duke of Suffolk,
+	We'll quickly hoise Duke Humphrey from his seat.
+<SPEECH 2><ACT 1><SCENE 1><6%>
+	Or thou, or I, Somerset, will be protector,
+	Despite Duke Humphrey or the cardinal.
+<SPEECH 3><ACT 1><SCENE 3><15%>
+	All in this presence are thy betters, Warwick.
+<SPEECH 4><ACT 1><SCENE 3><15%>
+	Thy cruelty in execution
+	Upon offenders hath exceeded law,
+	And left thee to the mercy of the law.
+<SPEECH 5><ACT 1><SCENE 3><16%>
+	Lord Cardinal, I will follow Eleanor,
+	And listen after Humphrey, how he proceeds:
+	She's tickled now; her fume can need no spurs,
+	She'll gallop far enough to her destruction.
+<SPEECH 6><ACT 1><SCENE 4><20%>
+	True, madam, none at all. What call you this?
+	Away with them! let them be clapp'd up close
+	And kept asunder. You, madam, shall with us:
+	Stafford, take her to thee.—
+	We'll see your trinkets here all forthcoming.
+	All, away!
+<SPEECH 7><ACT 1><SCENE 4><21%>
+	Your Grace shall give me leave, my Lord of York,
+	To be the post, in hope of his reward.
+<SPEECH 8><ACT 2><SCENE 1><27%>
+	Such as my heart doth tremble to unfold.
+	A sort of naughty persons, lewdly bent,
+	Under the countenance and confederacy
+	Of Lady Eleanor, the protector's wife,
+	The ringleader and head of all this rout,
+	Have practis'd dangerously against your state,
+	Dealing with witches and with conjurers:
+	Whom we have apprehended in the fact;
+	Raising up wicked spirits from under-ground,
+	Demanding of King Henry's life and death,
+	And other of your highness' privy council,
+	As more at large your Grace shall understand.
+<SPEECH 9><ACT 3><SCENE 1><40%>
+	Tut! these are petty faults to faults unknown,
+	Which time will bring to light in smooth Duke Humphrey.
+<SPEECH 10><ACT 3><SCENE 1><43%>
+	He'll wrest the sense and hold us here all day.
+	Lord Cardinal, he is your prisoner.
+<SPEECH 11><ACT 4><SCENE 4><75%>
+	What answer makes your Grace to the rebels' supplication?
+<SPEECH 12><ACT 4><SCENE 4><76%>
+	My gracious lord, retire to Killingworth,
+	Until a power be rais'd to put them down.
+<SPEECH 13><ACT 4><SCENE 4><76%>
+	Then linger not, my lord; away! take horse.
+<SPEECH 14><ACT 4><SCENE 4><77%>
+	Trust nobody, for fear you be betray'd.
+<SPEECH 15><ACT 4><SCENE 8><82%>
+	Ay, here they be that dare and will disturb thee.
+	Know, Cade, we come ambassadors from the king
+	Unto the commons whom thou hast misled;
+	And here pronounce free pardon to them all
+	That will forsake thee and go home in peace.
+<SPEECH 16><ACT 4><SCENE 8><84%>
+	What, is he fled? go some, and follow him;
+	And he that brings his head unto the king
+	Shall have a thousand crowns for his reward.
+	Follow me, soldiers: we'll devise a mean
+	To reconcile you all unto the king.
+<SPEECH 17><ACT 4><SCENE 1><85%>
+	Health, and glad tidings, to your majesty!
+<SPEECH 18><ACT 4><SCENE 1><86%>
+	I will, my lord; and doubt not so to deal
+	As all things shall redound unto your good.
+<SPEECH 19><ACT 5><SCENE 1><89%>
+	York, if thou meanest well, I greet thee well.
+<SPEECH 20><ACT 5><SCENE 1><89%>
+	A messenger from Henry, our dread hege,
+	To know the reason of these arms in peace;
+	Or why thou,—being a subject as I am,—
+	Against thy oath and true allegiance sworn,
+	Shouldst raise so great a power without his leave,
+	Or dare to bring thy force so near the court.
+<SPEECH 21><ACT 5><SCENE 1><90%>
+	That is too much presumption on thy part:
+	But if thy arms be to no other end,
+	The king hath yielded unto thy demand:
+	The Duke of Somerset is in the Tower.
+<SPEECH 22><ACT 5><SCENE 1><90%>
+	Upon mine honour, he is a prisoner.
+<SPEECH 23><ACT 5><SCENE 1><91%>
+	York, I commend this kind submission:
+	We twain will go into his highness' tent.
+<SPEECH 24><ACT 5><SCENE 1><91%>
+	So please it you, my lord, 'twere not amiss
+	He were created knight for his good service.

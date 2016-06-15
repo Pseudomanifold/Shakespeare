@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 1><SCENE 3><11%>
+	My ladies both, good day to you.
+<SPEECH 2><ACT 1><SCENE 3><11%>
+	How do you both? you are manifest housekeepers. What are you sewing here? A fine spot, in good faith. How does your little son?
+<SPEECH 3><ACT 1><SCENE 3><11%>
+	O' my word, the father's son; I'll swear 'tis a very pretty boy. O' my troth, I looked upon him o' Wednesday half an hour together: he has such a confirmed countenance. I saw him run after a gilded butterfly; and when he caught it, he let it go again; and after it again; and over and over he comes, and up again; catched it again: or whether his fall enraged him, or how 'twas, he did so set his teeth and tear it; O! I warrant, how he mammocked it!
+<SPEECH 4><ACT 1><SCENE 3><11%>
+	Indeed, la, 'tis a noble child.
+<SPEECH 5><ACT 1><SCENE 3><12%>
+	Come, lay aside your stitchery; I must have you play the idle huswife with me this afternoon.
+<SPEECH 6><ACT 1><SCENE 3><12%>
+	Not out of doors!
+<SPEECH 7><ACT 1><SCENE 3><12%>
+	You would be another Penelope; yet, they say, all the yarn she spun in Ulysses' absence did but fill Ithaca full of moths. Come; I would your cambric were sensible as your finger, that you might leave pricking it for pity. Come, you shall go with us.
+<SPEECH 8><ACT 1><SCENE 3><12%>
+	In truth, la, go with me; and I'll tell you excellent news of your husband.
+<SPEECH 9><ACT 1><SCENE 3><12%>
+	Verily, I do not jest with you; there came news from him last night.
+<SPEECH 10><ACT 1><SCENE 3><12%>
+	In earnest, it's true; I heard a senator speak it. Thus it is: The Volsces have an army forth; against whom Cominius the general is gone, with one part of our Roman power: your lord and Titus Lartius are set down before their city Corioli; they nothing doubt prevailing and to make it brief wars. This is true, on mine honour; and so, I pray, go with us.
+<SPEECH 11><ACT 1><SCENE 3><12%>
+	In troth, I think she would. Fare you well then. Come, good sweet lady. Prithee, Virgilia, turn thy solemness out o' door, and go along with us.
+<SPEECH 12><ACT 1><SCENE 3><13%>
+	Well then, farewell.
+<SPEECH 13><ACT 2><SCENE 1><27%>
+	In troth there's wondrous things spoke of him.

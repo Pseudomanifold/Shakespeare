@@ -1,0 +1,131 @@
+<SPEECH 1><ACT 1><SCENE 3><11%>
+	'Tis not unknown to you, madam, I am a poor fellow.
+<SPEECH 2><ACT 1><SCENE 3><11%>
+	No, madam, 'tis not so well that I am poor, though many of the rich are damned. But, if I may have your ladyship's good will to go to the world, Isbel the woman and I will do as we may.
+<SPEECH 3><ACT 1><SCENE 3><12%>
+	I do beg your good will in this case.
+<SPEECH 4><ACT 1><SCENE 3><12%>
+	In Isbel's case and mine own. Service is no heritage; and I think I shall never have the blessing of God till I have issue o' my body, for they say barnes are blessings.
+<SPEECH 5><ACT 1><SCENE 3><12%>
+	My poor body, madam, requires it: I am driven on by the flesh; and he must needs go that the devil drives.
+<SPEECH 6><ACT 1><SCENE 3><12%>
+	Faith, madam, I have other holy reasons, such as they are.
+<SPEECH 7><ACT 1><SCENE 3><12%>
+	I have been, madam, a wicked creature, as you and all flesh and blood are; and, indeed, I do marry that I may repent.
+<SPEECH 8><ACT 1><SCENE 3><12%>
+	I am out o' friends, madam; and I hope to have friends for my wife's sake.
+<SPEECH 9><ACT 1><SCENE 3><12%>
+	You're shallow, madam, in great friends; for the knaves come to do that for me which I am aweary of. He that ears my land spares my team, and gives me leave to in the crop: if I be his cuckold, he's my drudge. He that comforts my wife is the cherisher of my flesh and blood; he that cherishes my flesh and blood loves my flesh and blood; he that loves my flesh and blood is my friend: ergo, he that kisses my wife is my friend. If men could be contented to be what they are, there were no fear in marriage; for young Charbon the puritan, and old Poysam the papist, howsome'er their hearts are severed in religion, their heads are both one; they may joul horns together like any deer i' the herd.
+<SPEECH 10><ACT 1><SCENE 3><13%>
+	A prophet I, madam; and I speak the truth the next way:
+	For I the ballad will repeat,
+	Which men full true shall find;
+	Your marriage comes by destiny,
+	Your cuckoo sings by kind.
+<SPEECH 11><ACT 1><SCENE 3><13%>
+	Was this fair face the cause, quoth she,
+	Why the Grecians sacked Troy?
+	Fond done, done fond,
+	Was this King Priam's joy?
+	With that she sighed as she stood,
+	With that she sighed as she stood,
+	And gave this sentence then;
+	Among nine bad if one be good,
+	Among nine bad if one be good,
+	There's yet one good in ten.
+<SPEECH 12><ACT 1><SCENE 3><13%>
+	One good woman in ten, madam; which is a purifying o' the song. Would God would serve the world so all the year! we'd find no fault with the tithe-woman if I were the parson. One in ten, quoth a'! An we might have a good woman born but for every blazing star, or at an earthquake,'twould mend the lottery well: a man may draw his heart out ere a' pluck one.
+<SPEECH 13><ACT 1><SCENE 3><14%>
+	That man should be at woman's command, and yet no hurt done! Though honesty be no puritan, yet it will do no hurt; it will wear the surplice of humility over the black gown of a big heart. I am going, forsooth: the business is for Helen to come hither.
+<SPEECH 14><ACT 2><SCENE 2><27%>
+	I will show myself highly fed and lowly taught. I know my business is but to the court.
+<SPEECH 15><ACT 2><SCENE 2><27%>
+	Truly, madam, if God have lent a man any manners, he may easily put it off at court: he that cannot make a leg, put off's cap, kiss his hand, and say nothing, has neither leg, hands, lip, nor cap; and indeed such a fellow, to say precisely, were not for the court. But, for me, I have an answer will serve all men.
+<SPEECH 16><ACT 2><SCENE 2><27%>
+	It is like a barber's chair that fits all buttocks; the pin-buttock, the quatch-buttock, the brawn-buttock, or any buttock.
+<SPEECH 17><ACT 2><SCENE 2><28%>
+	As fit as ten groats is for the hand of an attorney, as your French crown for your taffeta punk, as Tib's rush for Tom's forefinger, as a pancake for Shrove-Tuesday, a morris for Mayday, as the nail to his hole, the cuckold to his horn, as a scolding quean to a wrangling knave, as the nun's lip to the friar's mouth; nay, as the pudding to his skin.
+<SPEECH 18><ACT 2><SCENE 2><28%>
+	From below your duke to beneath your constable, it will fit any question.
+<SPEECH 19><ACT 2><SCENE 2><28%>
+	But a trifle neither, in good faith, if the learned should speak truth of it. Here it is, and all that belongs to't: ask me if I am a courtier; it shall do you no harm to learn.
+<SPEECH 20><ACT 2><SCENE 2><28%>
+	O Lord, sir! there's a simple putting off. More, more, a hundred of them.
+<SPEECH 21><ACT 2><SCENE 2><28%>
+	O Lord, sir! Thick, thick, spare not me.
+<SPEECH 22><ACT 2><SCENE 2><28%>
+	O Lord, sir! Nay, put me to't, I warrant you.
+<SPEECH 23><ACT 2><SCENE 2><28%>
+	O Lord, sir! Spare not me.
+<SPEECH 24><ACT 2><SCENE 2><29%>
+	I ne'er had worse luck in my life in my 'O Lord, sir!' I see things may serve long, but not serve ever.
+<SPEECH 25><ACT 2><SCENE 2><29%>
+	O Lord, sir! why, there't serves well again.
+<SPEECH 26><ACT 2><SCENE 2><29%>
+	Not much commendation to them.
+<SPEECH 27><ACT 2><SCENE 2><29%>
+	Most fruitfully: I am there before my legs.
+<SPEECH 28><ACT 2><SCENE 4><39%>
+	She is not well; but yet she has her health; she's very merry; but yet she is not well: but thanks be given, she's very well, and wants nothing i' the world; but yet she is not well.
+<SPEECH 29><ACT 2><SCENE 4><40%>
+	Truly, she's very well indeed, but for two things.
+<SPEECH 30><ACT 2><SCENE 4><40%>
+	One, that she's not in heaven, whither
+	God send her quickly! the other, that she's in earth, from whence God send her quickly!
+<SPEECH 31><ACT 2><SCENE 4><40%>
+	So that you had her wrinkles, and I her money, I would she did as you say.
+<SPEECH 32><ACT 2><SCENE 4><40%>
+	Marry, you are the wiser man; for many a man's tongue shakes out his master's undoing. To say nothing, to do nothing, to know nothing, and to have nothing, is to be a great part of your title; which is within a very little of nothing.
+<SPEECH 33><ACT 2><SCENE 4><40%>
+	You should have said, sir, before a knave thou'rt a knave; that is, before me thou'rt a knave: this had been truth, sir.
+<SPEECH 34><ACT 2><SCENE 4><40%>
+	Did you find me in yourself, sir? or were you taught to find me? The search, sir, was profitable; and much fool may you find in you, even to the world's pleasure and the increase of laughter.
+<SPEECH 35><ACT 3><SCENE 2><46%>
+	By my troth, I take my young lord to be a very melancholy man.
+<SPEECH 36><ACT 3><SCENE 2><46%>
+	Why, he will look upon his boot and sing; mend the ruff and sing; ask questions and sing; pick his teeth and sing. I know a man that had this trick of melancholy sold a goodly manor for a song.
+<SPEECH 37><ACT 3><SCENE 2><46%>
+	I have no mind to Isbel since I was at court. Our old ling and our Isbels o' the country are nothing like your old ling and your Isbels o' the court: the brains of my Cupid's knocked out, and I begin to love, as an old man loves money, with no stomach.
+<SPEECH 38><ACT 3><SCENE 2><46%>
+	E'en that you have there.
+<SPEECH 39><ACT 3><SCENE 2><47%>
+	O madam! yonder is heavy news within between two soldiers and my young lady.
+<SPEECH 40><ACT 3><SCENE 2><47%>
+	Nay, there is some comfort in the news, some comfort; your son will not be killed so soon as I thought he would.
+<SPEECH 41><ACT 3><SCENE 2><47%>
+	So say I, madam, if he run away, as I hear he does: the danger is in standing to't; that's the loss of men, though it be the getting of children. Here they come will tell you more; for my part, I only hear your son was run away.
+<SPEECH 42><ACT 4><SCENE 5><81%>
+	Indeed, sir, she was the sweet-marjoram of the salad, or, rather the herb of grace.
+<SPEECH 43><ACT 4><SCENE 5><81%>
+	I am no great Nebuchadnezzar, sir; I have not much skill in grass.
+<SPEECH 44><ACT 4><SCENE 5><82%>
+	A fool, sir, at a woman's service, and a knave at a man's.
+<SPEECH 45><ACT 4><SCENE 5><82%>
+	I would cozen the man of his wife, and do his service.
+<SPEECH 46><ACT 4><SCENE 5><82%>
+	And I would give his wife my bauble, sir, to do her service.
+<SPEECH 47><ACT 4><SCENE 5><82%>
+	At your service.
+<SPEECH 48><ACT 4><SCENE 5><82%>
+	Why, sir, if I cannot serve you, I can serve as great a prince as you are.
+<SPEECH 49><ACT 4><SCENE 5><82%>
+	Faith, sir, a' has an English name; but his phisnomy is more hotter in France than there.
+<SPEECH 50><ACT 4><SCENE 5><82%>
+	The black prince, sir; alias, the prince of darkness; alias, the devil.
+<SPEECH 51><ACT 4><SCENE 5><82%>
+	I am a woodland fellow, sir, that always loved a great fire; and the master I speak of, ever keeps a good fire. But, sure, he is the prince of the world; let his nobility remain in's court. I am for the house with the narrow gate, which I take to be too little for pomp to enter: some that humble themselves may; but the many will be too chill and tender, and they'll be for the flowery way that leads to the broad gate and the great fire.
+<SPEECH 52><ACT 4><SCENE 5><83%>
+	If I put any tricks upon 'em, sir, they shall be jade's tricks, which are their own right by the law of nature.
+<SPEECH 53><ACT 4><SCENE 5><84%>
+	O madam! yonder's my lord your son with a patch of velvet on's face: whether there be a scar under it or no, the velvet knows; but 'tis a goodly patch of velvet. His left cheek is a cheek of two pile and a half, but his right cheek is worn bare.
+<SPEECH 54><ACT 4><SCENE 5><84%>
+	But it is your carbonadoed face.
+<SPEECH 55><ACT 4><SCENE 5><84%>
+	Faith, there's a dozen of 'em, with delicate fine hats and most courteous feathers, which bow the head and nod at every man.
+<SPEECH 56><ACT 5><SCENE 2><86%>
+	Truly, Fortune's displeasure is but sluttish if it smell so strongly as thou speakest of: I will henceforth eat no fish of Fortune's buttering. Prithee, allow the wind.
+<SPEECH 57><ACT 5><SCENE 2><86%>
+	Indeed, sir, if your metaphor stink, I will stop my nose; or against any man's metaphor. Prithee, get thee further.
+<SPEECH 58><ACT 5><SCENE 2><86%>
+	Foh! prithee, stand away: a paper from Fortune's close-stool to give to a nobleman! Look, here he comes himself.
+	Here is a purr of Fortune's, sir, or of Fortune's cat—but not a musk-cat—that has fallen into the unclean fishpond of her displeasure, and, as he says, is muddied withal. Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave. I do pity his distress in my similes of comfort, and leave him to your lordship.

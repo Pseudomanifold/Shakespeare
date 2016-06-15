@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 3><SCENE 7><58%>
+	This is the tenour of the emperor's writ:
+	That since the common men are now in action
+	'Gainst the Pannonians and Dalmatians,
+	And that the legions now in Gallia are
+	Full weak to undertake our wars against
+	The fall'n-off Britons, that we do incite
+	The gentry to this business. He creates
+	Lucius pro-consul; and to you the tribunes,
+	For this immediate levy, he commends
+	His absolute commission. Long live Cæsar!
+<SPEECH 2><ACT 3><SCENE 7><58%>
+	With those legions
+	Which I have spoke of, whereunto your levy
+	Must be supplyant; the words of your commission
+	Will tie you to the numbers and the time
+	Of their dispatch.

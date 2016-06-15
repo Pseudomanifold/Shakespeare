@@ -1,0 +1,218 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Good morrow, and well met. How have you done,
+	Since last we saw in France?
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	An untimely ague
+	Stay'd me a prisoner in my chamber, when
+	Those suns of glory, those two lights of men,
+	Met in the vale of Andren.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	All the whole time
+	I was my chamber's prisoner.
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	O! you go far.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	Who did guide,
+	I mean, who set the body and the limbs
+	Of this great sport together, as you guess?
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	I pray you, who, my lord?
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	The devil speed him! no man's pie is freed
+	From his ambitious finger. What had he
+	To do in these fierce vanities? I wonder
+	That such a keech can with his very bulk
+	Take up the rays o' the beneficial sun,
+	And keep it from the earth.
+<SPEECH 8><ACT 1><SCENE 1><4%>
+	Why the devil,
+	Upon this French going-out, took he upon him,
+	Without the privity o' the king, to appoint
+	Who should attend on him? He makes up the file
+	Of all the gentry; for the most part such
+	To whom as great a charge as little honour
+	He meant to lay upon: and his own letter,—
+	The honourable board of council out,—
+	Must fetch him in he papers.
+<SPEECH 9><ACT 1><SCENE 1><4%>
+	O! many
+	Have broke their backs with laying manors on 'em
+	For this great journey. What did this vanity
+	But minister communication of
+	A most poor issue?
+<SPEECH 10><ACT 1><SCENE 1><4%>
+	Every man,
+	After the hideous storm that follow'd, was
+	A thing inspir'd; and, not consulting, broke
+	Into a general prophecy: That this tempest,
+	Dashing the garment of this peace, aboded
+	The sudden breach on't.
+<SPEECH 11><ACT 1><SCENE 1><4%>
+	Why, all this business
+	Our reverend cardinal carried.
+<SPEECH 12><ACT 1><SCENE 1><5%>
+	This butcher's cur is venom-mouth'd, and I
+	Have not the power to muzzle him; therefore best
+	Not wake him in his slumber. A beggar's book
+	Outworths a noble's blood.
+<SPEECH 13><ACT 1><SCENE 1><6%>
+	I read in's looks
+	Matter against me; and his eye revil'd
+	Me, as his abject object: at this instant
+	He bores me with some trick: he's gone to the king;
+	I'll follow, and out-stare him.
+<SPEECH 14><ACT 1><SCENE 1><6%>
+	I'll to the king;
+	And from a mouth of honour quite cry down
+	This Ipswich fellow's insolence, or proclaim
+	There's difference in no persons.
+<SPEECH 15><ACT 1><SCENE 1><6%>
+	Sir,
+	I am thankful to you, and I'll go along
+	By your prescription: but this top-proud fellow
+	Whom from the flow of gall I name not, but
+	From sincere motions,—by intelligence,
+	And proofs as clear as founts in July, when
+	We see each grain of gravel,—I do know
+	To be corrupt and treasonous.
+<SPEECH 16><ACT 1><SCENE 1><7%>
+	To the king I'll say't; and make my vouch as strong
+	As shore of rock. Attend. This holy fox,
+	Or wolf, or both,—for he is equal ravenous
+	As he is subtle, and as prone to mischief
+	As able to perform 't, his mind and place
+	Infecting one another, yea, reciprocally,
+	Only to show his pomp as well in France
+	As here at home, suggests the king our master
+	To this last costly treaty, the interview,
+	That swallow'd so much treasure, and like a glass
+	Did break i' the rinsing.
+<SPEECH 17><ACT 1><SCENE 1><7%>
+	Praygive me favour, sir. This cunning cardinal
+	The articles o' the combination drew
+	As himself pleas'd; and they were ratified
+	As he cried, 'Thus let be,' to as much end
+	As give a crutch to the dead. But our count-cardinal
+	Has done this, and 'tis well; for worthy Wolsey,
+	Who cannot err, he did it. Now this follows,—
+	Which, as I take it, is a kind of puppy
+	To the old dam, treason, Charles the emperor,
+	Under pretence to see the queen his aunt,—
+	For 'twas indeed his colour, but he came
+	To whisper Wolsey,—here makes visitation:
+	His fears were, that the interview betwixt
+	England and France might, through their amity,
+	Breed him some prejudice; for from this league
+	Peep'd harms that menac'd him. He privily
+	Deals with our cardinal, and, as I trow,
+	Which I do well; for, I am sure the emperor
+	Paid ere he promis'd; whereby his suit was granted
+	Ere it was ask'd; but when the way was made,
+	And pav'd with gold, the emperor thus desir'd:
+	That he would please to alter the king's course,
+	And break the foresaid peace. Let the king know—
+	As soon he shall by me—that thus the cardinal
+	Does buy and sell his honour as he pleases,
+	And for his own advantage.
+<SPEECH 18><ACT 1><SCENE 1><8%>
+	No, not a syllable:
+	I do pronounce him in that very shape
+	He shall appear in proof.
+<SPEECH 19><ACT 1><SCENE 1><8%>
+	Lo you, my lord,
+	The net has fall'n upon me! I shall perish
+	Under device and practice.
+<SPEECH 20><ACT 1><SCENE 1><8%>
+	It will help me nothing
+	To plead mine innocence, for that dye is on me
+	Which makes my whit'st part black. The will of heaven
+	Be done in this and all things! I obey.
+	O! my Lord Abergavenny, fare you well!
+<SPEECH 21><ACT 1><SCENE 1><9%>
+	So, so;
+	These are the limbs o' the plot: no more, I hope.
+<SPEECH 22><ACT 1><SCENE 1><9%>
+	O! Nicholas Hopkins?
+<SPEECH 23><ACT 1><SCENE 1><9%>
+	My surveyor is false; the o'er-great cardinal
+	Hath show'd him gold. My life is spann'd already:
+	I am the shadow of poor Buckingham,
+	Whose figure even this instant cloud puts on,
+	By dark'ning my clear sun. My lord, farewell.
+<SPEECH 24><ACT 2><SCENE 1><25%>
+	All good people,
+	You that thus far have come to pity me,
+	Hear what I say, and then go home and lose me.
+	I have this day receiv'd a traitor's judgment,
+	And by that name must die: yet, heaven bear witness,
+	And if I have a conscience, let it sink me,
+	Even as the axe falls, if I be not faithful!
+	The law I bear no malice for my death,
+	'T has done upon the premises but justice;
+	But those that sought it I could wish more Christians:
+	Be what they will, I heartily forgive 'em.
+	Yet let 'em look they glory not in mischief,
+	Nor build their evils on the graves of great men;
+	For then my guiltless blood must cry against 'em.
+	For further life in this world I ne'er hope,
+	Nor will I sue, although the king have mercies
+	More than I dare make faults. You few that lov'd me,
+	And dare be bold to weep for Buckingham,
+	His noble friends and fellows, whom to leave
+	Is only bitter to him, only dying,
+	Go with me, like good angels, to my end;
+	And, as the long divorce of steel falls on me,
+	Make of your prayers one sweet sacrifice,
+	And lift my soul to heaven. Lead on, o' God's name.
+<SPEECH 25><ACT 2><SCENE 1><26%>
+	Sir Thomas Lovell, I as free forgive you
+	As I would be forgiven: I forgive all.
+	There cannot be those numberless offences
+	'Gainst me that I cannot take peace with: no black envy
+	Shall mark my grave. Commend me to his Grace;
+	And, if he speak of Buckingham, pray, tell him
+	You met him half in heaven. My vows and prayers
+	Yet are the king's; and, till my soul forsake,
+	Shall cry for blessings on him: may he live
+	Longer than I have time to tell his years!
+	Ever belov'd and loving may his rule be!
+	And when old time shall lead him to his end,
+	Goodness and he fill up one monument!
+<SPEECH 26><ACT 2><SCENE 1><27%>
+	Nay, Sir Nicholas,
+	Let it alone; my state now will but mock me.
+	When I came hither, I was Lord High Constable,
+	And Duke of Buckingham; now, poor Edward Bohun:
+	Yet I am richer than my base accusers,
+	That never knew what truth meant: I now seal it;
+	And with that blood will make them one day groan for't.
+	My noble father, Henry of Buckingham,
+	Who first rais'd head against usurping Richard,
+	Flying for succour to his servant Banister,
+	Being distress'd, was by that wretch betray'd,
+	And without trial fell: God's peace be with him!
+	Henry the Seventh succeeding, truly pitying
+	My father's loss, like a most royal prince,
+	Restor'd me to my honours, and, out of ruins,
+	Made my name once more noble. Now his son,
+	Henry the Eighth, life, honour, name, and all
+	That made me happy, at one stroke has taken
+	For ever from the world. I had my trial,
+	And, must needs say, a noble one; which makes me
+	A little happier than my wretched father:
+	Yet thus far we are one in fortunes; both
+	Fell by our servants, by those men welov'd most:
+	A most unnatural and faithless service!
+	Heaven has an end in all; yet, you that hear me,
+	This from a dying man receive as certain:
+	Where you are liberal of your loves and counsels
+	Be sure you be not loose; for those you make friends
+	And give your hearts to, when they once perceive
+	The least rub in your fortunes, fall away
+	Like water from ye, never found again
+	But where they mean to sink ye. All good people,
+	Pray for me! I must now forsake ye: the last hour
+	Of my long weary life is come upon me.
+	Farewell:
+	And when you would say something that is sad,
+	Speak how I fell. I have done; and God forgive me!

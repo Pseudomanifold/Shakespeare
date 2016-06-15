@@ -1,0 +1,254 @@
+<SPEECH 1><ACT 2><SCENE 5><32%>
+	More, more, I prithee, more.
+<SPEECH 2><ACT 2><SCENE 5><32%>
+	I thank it. More! I prithee, more. I can suck melancholy out of a song as a weasel sucks eggs. More! I prithee, more.
+<SPEECH 3><ACT 2><SCENE 5><32%>
+	I do not desire you to please me; I do desire you to sing. Come, more; another stanzo: call you them stanzos?
+<SPEECH 4><ACT 2><SCENE 5><32%>
+	Nay, I care not for their names; they owe me nothing. Will you sing?
+<SPEECH 5><ACT 2><SCENE 5><33%>
+	Well then, if ever I thank any man, I'll thank you: but that they call compliment is like the encounter of two dog-apes, and when a man thanks me heartily, methinks I have given him a penny and he renders me the beggarly thanks. Come, sing; and you that will not, hold your tongues.
+<SPEECH 6><ACT 2><SCENE 5><33%>
+	And I have been all this day to avoid him. He is too disputable for my company: I think of as many matters as he, but I give heaven thanks, and make no boast of them. Come, warble; come.
+<SPEECH 7><ACT 2><SCENE 5><33%>
+	I'll give you a verse to this note, that I made yesterday in despite of my invention.
+<SPEECH 8><ACT 2><SCENE 5><33%>
+	Thus it goes:
+	If it do come to pass
+	That any man turn ass,
+	Leaving his wealth and ease,
+	A stubborn will to please,
+	Ducdame, ducdame, ducdame:
+	Here shall he see
+	Gross fools as he,
+	An if he will come to me.
+<SPEECH 9><ACT 2><SCENE 5><34%>
+	'Tis a Greek invocation to call fools into a circle. I'll go sleep if I can; if I cannot, I'll rail against all the first-born of Egypt.
+<SPEECH 10><ACT 2><SCENE 7><35%>
+	A fool, a fool! I met a fool i' the forest,
+	A motley fool; a miserable world!
+	As I do live by food, I met a fool;
+	Who laid him down and bask'd him in the sun,
+	And rail'd on Lady Fortune in good terms,
+	In good set terms, and yet a motley fool.
+	'Good morrow, fool,' quoth I. 'No, sir,' quoth he,
+	'Call me not fool till heaven hath sent me fortune.'
+	And then he drew a dial from his poke,
+	And, looking on it with lack-lustre eye,
+	Says very wisely, 'It is ten o'clock;
+	Thus may we see,' quoth he, 'how the world wags:
+	'Tis but an hour ago since it was nine,
+	And after one hour more 'twill be eleven;
+	And so, from hour to hour we ripe and ripe,
+	And then from hour to hour we rot and rot,
+	And thereby hangs a tale.' When I did hear
+	The motley fool thus moral on the time,
+	My lungs began to crow like chanticleer,
+	That fools should be so deep-contemplative,
+	And I did laugh sans intermission
+	An hour by his dial. O noble fool!
+	A worthy fool! Motley's the only wear.
+<SPEECH 11><ACT 2><SCENE 7><36%>
+	O worthy fool! One that hath been a courtier,
+	And says, if ladies be but young and fair,
+	They have the gift to know it; and in his brain,—
+	Which is as dry as the remainder biscuit
+	After a voyage,—he hath strange places cramm'd
+	With observation, the which he vents
+	In mangled forms. O that I were a fool!
+	I am ambitious for a motley coat.
+<SPEECH 12><ACT 2><SCENE 7><36%>
+	It is my only suit;
+	Provided that you weed your better judgments
+	Of all opinion that grows rank in them
+	That I am wise. I must have liberty
+	Withal, as large a charter as the wind,
+	To blow on whom I please; for so fools have:
+	And they that are most galled with my folly,
+	They most must laugh. And why, sir, must they so?
+	The 'why' is plain as way to parish church:
+	He that a fool doth very wisely hit
+	Doth very foolishly, although he smart,
+	Not to seem senseless of the bob; if not,
+	The wise man's folly is anatomiz'd
+	Even by the squandering glances of the fool.
+	Invest me in my motley; give me leave
+	To speak my mind, and I will through and through
+	Cleanse the foul body of th' infected world,
+	If they will patiently receive my medicine.
+<SPEECH 13><ACT 2><SCENE 7><37%>
+	What, for a counter, would I do, but good?
+<SPEECH 14><ACT 2><SCENE 7><37%>
+	Why, who cries out on pride,
+	That can therein tax any private party?
+	Doth it not flow as hugely as the sea,
+	Till that the weary very means do ebb?
+	What woman in the city do I name,
+	When that I say the city-woman bears
+	The cost of princes on unworthy shoulders?
+	Who can come in and say that I mean her,
+	When such a one as she such is her neighbour?
+	Or what is he of basest function,
+	That says his bravery is not on my cost,—
+	Thinking that I mean him,—but therein suits
+	His folly to the mettle of my speech?
+	There then; how then? what then? Let me see wherein
+	My tongue hath wrong'd him: if it do him right,
+	Then he hath wrong'd himself; if he be free,
+	Why then, my taxing like a wild goose flies,
+	Unclaim'd of any man. But who comes here?
+<SPEECH 15><ACT 2><SCENE 7><38%>
+	Why, I have eat none yet.
+<SPEECH 16><ACT 2><SCENE 7><38%>
+	Of what kind should this cock come of?
+<SPEECH 17><ACT 2><SCENE 7><38%>
+	An you will not be answered with reason,
+	I must die.
+<SPEECH 18><ACT 2><SCENE 7><40%>
+	All the world's a stage,
+	And all the men and women merely players:
+	They have their exits and their entrances;
+	And one man in his time plays many parts,
+	His acts being seven ages. At first the infant,
+	Mewling and puking in the nurse's arms.
+	And then the whining school-boy, with his satchel,
+	And shining morning face, creeping like snail
+	Unwillingly to school. And then the lover,
+	Sighing like furnace, with a woful ballad
+	Made to his mistress' eyebrow. Then a soldier,
+	Full of strange oaths, and bearded like the pard,
+	Jealous in honour, sudden and quick in quarrel,
+	Seeking the bubble reputation
+	Even in the cannon's mouth. And then the justice,
+	In fair round belly with good capon lin'd,
+	With eyes severe, and beard of formal cut,
+	Full of wise saws and modern instances;
+	And so he plays his part. The sixth age shifts
+	Into the lean and slipper'd pantaloon,
+	With spectacles on nose and pouch on side,
+	His youthful hose well sav'd, a world too wide
+	For his shrunk shank; and his big manly voice,
+	Turning again toward childish treble, pipes
+	And whistles in his sound. Last scene of all,
+	That ends this strange eventful history,
+	Is second childishness and mere oblivion,
+	Sans teeth, sans eyes, sans taste, sans everything.
+<SPEECH 19><ACT 3><SCENE 2><51%>
+	I thank you for your company; but, good faith, I had as lief have been myself alone.
+<SPEECH 20><ACT 3><SCENE 2><51%>
+	God be wi' you: let's meet as little as we can.
+<SPEECH 21><ACT 3><SCENE 2><51%>
+	I pray you, mar no more trees with writing love-songs in their barks.
+<SPEECH 22><ACT 3><SCENE 2><51%>
+	Rosalind is your love's name?
+<SPEECH 23><ACT 3><SCENE 2><51%>
+	I do not like her name.
+<SPEECH 24><ACT 3><SCENE 2><51%>
+	What stature is she of?
+<SPEECH 25><ACT 3><SCENE 2><52%>
+	You are full of pretty answers. Have you not been acquainted with goldsmiths' wives, and conn'd them out of rings?
+<SPEECH 26><ACT 3><SCENE 2><52%>
+	You have a nimble wit: I think 'twas made of Atalanta's heels. Will you sit down with me? and we two will rail against our mistress the world, and all our misery.
+<SPEECH 27><ACT 3><SCENE 2><52%>
+	The worst fault you have is to be in love.
+<SPEECH 28><ACT 3><SCENE 2><52%>
+	By my troth, I was seeking for a fool when I found you.
+<SPEECH 29><ACT 3><SCENE 2><52%>
+	There I shall see mine own figure.
+<SPEECH 30><ACT 3><SCENE 2><52%>
+	I'll tarry no longer with you. Farewell, good Signior Love.
+<SPEECH 31><ACT 3><SCENE 3><57%>
+	</STAGE DIR> O knowledge ill-inhabited, worse than Jove in a thatch'd house!
+<SPEECH 32><ACT 3><SCENE 3><58%>
+	</STAGE DIR> A material fool.
+<SPEECH 33><ACT 3><SCENE 3><59%>
+	</STAGE DIR> I would fain see this meeting.
+<SPEECH 34><ACT 3><SCENE 3><60%>
+	</STAGE DIR> Proceed, proceed: I'll give her.
+<SPEECH 35><ACT 3><SCENE 3><60%>
+	Will you be married, motley?
+<SPEECH 36><ACT 3><SCENE 3><60%>
+	And will you, being a man of your breeding, be married under a bush, like a beggar? Get you to church, and have a good priest that can tell you what marriage is: this fellow will but join you together as they join wainscot; then one of you will prove a shrunk panel, and like green timber, warp, warp.
+<SPEECH 37><ACT 3><SCENE 3><60%>
+	Go thou with me, and let me counsel thee.
+<SPEECH 38><ACT 4><SCENE 1><68%>
+	I prithee, pretty youth, let me be better acquainted with thee.
+<SPEECH 39><ACT 4><SCENE 1><68%>
+	I am so; I do love it better than laughing.
+<SPEECH 40><ACT 4><SCENE 1><68%>
+	Why, 'tis good to be sad and say nothing.
+<SPEECH 41><ACT 4><SCENE 1><69%>
+	I have neither the scholar's melancholy, which is emulation; nor the musician's, which is fantastical; nor the courtier's, which is proud; nor the soldier's, which is ambitious; nor the lawyer's, which is politic; nor the lady's, which is nice; nor the lover's, which is all these: but it is a melancholy of mine own, compounded of many simples, extracted from many objects, and indeed the sundry contemplation of my travels, which, by often rumination, wraps me in a most humorous sadness.
+<SPEECH 42><ACT 4><SCENE 1><69%>
+	Yes, I have gained my experience.
+<SPEECH 43><ACT 4><SCENE 1><69%>
+	Nay then, God be wi' you, an you talk in blank verse.
+<SPEECH 44><ACT 4><SCENE 2><76%>
+	Which is he that killed the deer?
+<SPEECH 45><ACT 4><SCENE 2><76%>
+	Let's present him to the duke, like a
+	Roman conqueror; and it would do well to set the deer's horns upon his head for a branch of victory. Have you no song, forester, for this purpose?
+<SPEECH 46><ACT 4><SCENE 2><76%>
+	Sing it: 'tis no matter how it be in tune so it make noise enough.
+	What shall he have that kill'd the deer?
+	His leather skin and horns to wear.
+	Then sing him home
+	Take thou no scorn to wear the horn;
+	It was a crest ere thou wast born:
+	Thy father's father wore it,
+	And thy father bore it:
+	The horn, the horn, the lusty horn
+	Is not a thing to laugh to scorn
+<SPEECH 47><ACT 5><SCENE 4><93%>
+	There is, sure, another flood toward, and these couples are coming to the ark. Here comes a pair of very strange beasts, which in all tongues are called fools.
+<SPEECH 48><ACT 5><SCENE 4><93%>
+	Good my lord, bid him welcome. This is the motley-minded gentleman that I have so often met in the forest: he hath been a courtier, he swears.
+<SPEECH 49><ACT 5><SCENE 4><93%>
+	And how was that ta'en up?
+<SPEECH 50><ACT 5><SCENE 4><93%>
+	How seventh cause? Good my lord, like this fellow.
+<SPEECH 51><ACT 5><SCENE 4><94%>
+	But, for the seventh cause; how did you find the quarrel on the seventh cause?
+<SPEECH 52><ACT 5><SCENE 4><95%>
+	And how oft did you say his beard was not well cut?
+<SPEECH 53><ACT 5><SCENE 4><95%>
+	Can you nominate in order now the degrees of the lie?
+<SPEECH 54><ACT 5><SCENE 4><95%>
+	Is not this a rare fellow, my lord? he's as good at any thing, and yet a fool.
+<SPEECH 55><ACT 5><SCENE 4><97%>
+	Let me have audience for a word or two:
+	I am the second son of old Sir Rowland,
+	That bring these tidings to this fair assembly.
+	Duke Frederick, hearing how that every day
+	Men of great worth resorted to this forest,
+	Address'd a mighty power, which were on foot
+	In his own conduct, purposely to take
+	His brother here and put him to the sword:
+	And to the skirts of this wild wood he came,
+	Where, meeting with an old religious man,
+	After some question with him, was converted
+	Both from his enterprise and from the world;
+	His crown bequeathing to his banish'd brother,
+	And all their lands restor'd to them again
+	That were with him exil'd. This to be true,
+	I do engage my life.
+<SPEECH 56><ACT 5><SCENE 4><98%>
+	Sir, by your patience. If I heard you rightly,
+	The duke hath put on a religious life,
+	And thrown into neglect the pompous court?
+<SPEECH 57><ACT 5><SCENE 4><98%>
+	He hath.
+<SPEECH 58><ACT 5><SCENE 4><98%>
+	To him will I: out of these convertites
+	There is much matter to be heard and learn'd.
+	</STAGE DIR> You to your former honour I bequeath;
+	Your patience and your virtue well deserve it:
+	</STAGE DIR> You to a love that your true faith doth merit:
+	</STAGE DIR> You to your land, and love, and great allies:
+	</STAGE DIR> You to a long and well-deserved bed:
+	</STAGE DIR> And you to wrangling; for thy loving voyage
+	Is but for two months victual'd. So, to your pleasures:
+	I am for other than for dancing measures.
+<SPEECH 59><ACT 5><SCENE 4><99%>
+	To see no pastime, I: what you would have
+	I'll stay to know at your abandon'd cave.

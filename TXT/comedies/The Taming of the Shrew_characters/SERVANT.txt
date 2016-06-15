@@ -1,0 +1,16 @@
+<SPEECH 1><SCENE 1><3%>
+	An it please your honour,
+	Players that offer service to your lordship.
+<SPEECH 2><SCENE 2><11%>
+	Your honour's players, hearing your amendment,
+	Are come to play a pleasant comedy;
+	For so your doctors hold it very meet,
+	Seeing too much sadness hath congeal'd your blood,
+	And melancholy is the nurse of frenzy:
+	Therefore they thought it good you hear a play,
+	And frame your mind to mirth and merriment,
+	Which bars a thousand harms and lengthens life.
+<SPEECH 3><ACT 3><SCENE 1><50%>
+	Mistress, your father prays you leave your books,
+	And help to dress your sister's chamber up:
+	You know to-morrow is the wedding-day.

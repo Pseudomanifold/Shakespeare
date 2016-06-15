@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 2><SCENE 4><38%>
+	'Twas very strange.
+<SPEECH 2><ACT 2><SCENE 4><38%>
+	'Tis very true.

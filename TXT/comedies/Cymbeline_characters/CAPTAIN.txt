@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 4><SCENE 2><69%>
+	To them the legions garrison'd in Gallia,
+	After your will, have cross'd the sea, attending
+	You here at Milford-Haven with your ships:
+	They are in readiness.
+<SPEECH 2><ACT 4><SCENE 2><70%>
+	The senate hath stirr'd up the confiners
+	And gentlemen of Italy, most willing spirits,
+	That promise noble service; and they come
+	Under the conduct of bold Iachimo,
+	Sienna's brother.
+<SPEECH 3><ACT 4><SCENE 2><70%>
+	With the next benefit o' the wind.
+<SPEECH 4><ACT 4><SCENE 2><70%>
+	He's alive, my lord.

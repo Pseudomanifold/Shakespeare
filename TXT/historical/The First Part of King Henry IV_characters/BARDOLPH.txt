@@ -1,0 +1,36 @@
+<SPEECH 1><ACT 2><SCENE 2><25%>
+	What news?
+<SPEECH 2><ACT 2><SCENE 4><41%>
+	Faith, I ran when I saw others run.
+<SPEECH 3><ACT 2><SCENE 4><41%>
+	Yea, and to tickle our noses with spear-grass to make them bleed, and then to beslubber our garments with it and swear it was the blood of true men. I did that I did not this seven year before; I blushed to hear his monstrous devices.
+<SPEECH 4><ACT 2><SCENE 4><41%>
+	</STAGE DIR> My lord, do you see these meteors? do you behold these exhalations?
+<SPEECH 5><ACT 2><SCENE 4><42%>
+	What think you they portend?
+<SPEECH 6><ACT 2><SCENE 4><42%>
+	Choler, my lord, if rightly taken.
+<SPEECH 7><ACT 2><SCENE 4><47%>
+	O! my lord, my lord, the sheriff with a most monstrous watch is at the door.
+<SPEECH 8><ACT 3><SCENE 3><64%>
+	Sir John, you are so fretful, you cannot live long.
+<SPEECH 9><ACT 3><SCENE 3><64%>
+	Why, you are so fat, Sir John, that you must needs be out of all compass, out of all reasonable compass, Sir John.
+<SPEECH 10><ACT 3><SCENE 3><64%>
+	Why, Sir John, my face does you no harm.
+<SPEECH 11><ACT 3><SCENE 3><65%>
+	'Sblood, I would my face were in your belly.
+<SPEECH 12><ACT 3><SCENE 3><66%>
+	Yea, two and two, Newgate fashion.
+<SPEECH 13><ACT 3><SCENE 3><68%>
+	Indeed, Sir John, you said so.
+<SPEECH 14><ACT 3><SCENE 3><69%>
+	Do, my lord.
+<SPEECH 15><ACT 3><SCENE 3><69%>
+	My lord?
+<SPEECH 16><ACT 4><SCENE 2><75%>
+	Will you give me money, captain?
+<SPEECH 17><ACT 4><SCENE 2><75%>
+	This bottle makes an angel.
+<SPEECH 18><ACT 4><SCENE 2><75%>
+	I will, captain: farewell.

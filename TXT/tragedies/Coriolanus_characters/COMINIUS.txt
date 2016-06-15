@@ -1,0 +1,338 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+	You have fought together.
+<SPEECH 2><ACT 1><SCENE 1><7%>
+	It is your former promise.
+<SPEECH 3><ACT 1><SCENE 1><7%>
+	Noble Marcius!
+<SPEECH 4><ACT 1><SCENE 6><16%>
+	Breathe you, my friends: well fought; we are come off
+	Like Romans, neither foolish in our stands,
+	Nor cowardly in retire: believe me, sirs,
+	We shall be charg'd again. Whiles we have struck,
+	By interims and conveying gusts we have heard
+	The charges of our friends. Ye Roman gods!
+	Lead their successes as we wish our own,
+	That both our powers, with smiling fronts encountering,
+	May give you thankful sacrifice.
+	Thy news?
+<SPEECH 5><ACT 1><SCENE 6><17%>
+	Though thou speak'st truth,
+	Methinks thou speak'st not well. How long is't since?
+<SPEECH 6><ACT 1><SCENE 6><17%>
+	'Tis not a mile; briefly we heard their drums:
+	How couldst thou in a mile confound an hour,
+	And bring thy news so late?
+<SPEECH 7><ACT 1><SCENE 6><17%>
+	Who's yonder,
+	That does appear as he were flay'd? O gods!
+	He has the stamp of Marcius; and I have
+	Before-time seen him thus.
+<SPEECH 8><ACT 1><SCENE 6><17%>
+	The shepherd knows not thunder from a tabor,
+	More than I know the sound of Marcius' tongue
+	From every meaner man.
+<SPEECH 9><ACT 1><SCENE 6><17%>
+	Ay, if you come not in the blood of others,
+	But mantled in your own.
+<SPEECH 10><ACT 1><SCENE 6><17%>
+	Flower of warriors.
+	How is't with Titus Lartius?
+<SPEECH 11><ACT 1><SCENE 6><17%>
+	Where is that slave
+	Which told me they had beat you to your trenches?
+	Where is he? Call him hither.
+<SPEECH 12><ACT 1><SCENE 6><18%>
+	But how prevail'd you?
+<SPEECH 13><ACT 1><SCENE 6><18%>
+	Marcius, we have at disadvantage fought,
+	And did retire to win our purpose.
+<SPEECH 14><ACT 1><SCENE 6><18%>
+	As I guess, Marcius,
+	Their bands i' the vaward are the Antiates,
+	Of their best trust; o'er them Aufidius,
+	Their very heart of hope.
+<SPEECH 15><ACT 1><SCENE 6><18%>
+	Though I could wish
+	You were conducted to a gentle bath,
+	And balms applied to you, yet dare I never
+	Deny your asking: take your choice of those
+	That best can aid your action.
+<SPEECH 16><ACT 1><SCENE 6><19%>
+	March on, my fellows:
+	Make good this ostentation, and you shall
+	Divide in all with us.
+<SPEECH 17><ACT 1><SCENE 1><20%>
+	If I should tell thee o'er this thy day's work,
+	Thou'lt not believe thy deeds: but I'll report it
+	Where senators shall mingle tears with smiles,
+	Where great patricians shall attend and shrug,
+	I' the end, admire; where ladies shall be frighted,
+	And, gladly quak'd, hear more; where the dull Tribunes,
+	That, with the fusty plebeians, hate thine honours,
+	Shall say, against their hearts,
+	'We thank the gods our Rome hath such a soldier!'
+	Yet cam'st thou to a morsel of this feast,
+	Having fully din'd before.
+<SPEECH 18><ACT 1><SCENE 1><21%>
+	You shall not be
+	The grave of your deserving; Rome must know
+	The value of her own: 'twere a concealment
+	Worse than a theft, no less than a traducement,
+	To hide your doings; and to silence that,
+	Which, to the spire and top of praises vouch'd,
+	Would seem but modest. Therefore, I beseech you,—
+	In sign of what you are, not to reward
+	What you have done,—before our army hear me.
+<SPEECH 19><ACT 1><SCENE 1><21%>
+	Should they not.
+	Well might they fester 'gainst ingratitude,
+	And tent themselves with death. Of all the horses,
+	Whereof we have ta'en good, and good store, of all
+	The treasure, in this field achiev'd and city,
+	We render you the tenth; to be ta'en forth,
+	Before the common distribution,
+	At your only choice.
+<SPEECH 20><ACT 1><SCENE 1><21%>
+	Too modest are you;
+	More cruel to your good report than grateful
+	To us that give you truly. By your patience,
+	If 'gainst yourself you be incens'd, we'll put you,
+	Like one that means his proper harm, in manacles,
+	Then reason safely with you. Therefore, be it known,
+	As to us, to all the world, that Caius Marcius
+	Wears this war's garland; in token of the which,
+	My noble steed, known to the camp, I give him,
+	With all his trim belonging; and from this time,
+	For what he did before Corioli, call him,
+	With all the applause and clamour of the host,
+	<CAIUS MARCIUS CORIOLANUS! BEAR>The addition nobly ever!
+<SPEECH 21><ACT 1><SCENE 1><22%>
+	So, to our tent;
+	Where, ere we do repose us, we will write
+	To Rome of our success. You, Titus Lartius,
+	Must to Corioli back: send us to Rome
+	The best, with whom we may articulate,
+	For their own good and ours.
+<SPEECH 22><ACT 1><SCENE 1><22%>
+	Take it; 'tis yours. What is't?
+<SPEECH 23><ACT 1><SCENE 1><22%>
+	O! well begg'd!
+	Were he the butcher of my son, he should
+	Be free as is the wind. Deliver him, Titus.
+<SPEECH 24><ACT 1><SCENE 1><23%>
+	Go we to our tent:
+	The blood upon your visage dries; 'tis time
+	It should be look'd to: come.
+<SPEECH 25><ACT 2><SCENE 1><28%>
+	Look, sir, your mother!
+<SPEECH 26><ACT 2><SCENE 1><29%>
+	Ever right.
+<SPEECH 27><ACT 2><SCENE 1><29%>
+	On, to the Capitol!
+<SPEECH 28><ACT 2><SCENE 2><34%>
+	I shall lack voice: the deeds of Coriolanus
+	Should not be utter'd feebly. It is held
+	That valour is the chiefest virtue, and
+	Most dignifies the haver: if it be,
+	The man I speak of cannot in the world
+	Be singly counterpois'd. At sixteen years,
+	When Tarquin made a head for Rome, he fought
+	Beyond the mark of others; our then dictator,
+	Whom with all praise I point at, saw him fight,
+	When with his Amazonian chin he drove
+	The bristled lips before him. He bestrid
+	An o'er-press'd Roman, and i' the consul's view
+	Slew three opposers: Tarquin's self he met,
+	And struck him on his knee: in that day's feats,
+	When he might act the woman in the scene,
+	He prov'd best man i' the field, and for his meed
+	Was brow-bound with the oak. His pupil age
+	Man-enter'd thus, he waxed like a sea,
+	And in the brunt of seventeen battles since
+	He lurch'd all swords of the garland. For this last,
+	Before and in Corioli, let me say,
+	I cannot speak him home: he stopp'd the fliers,
+	And by his rare example made the coward
+	Turn terror into sport: as weeds before
+	A vessel under sail, so men obey'd,
+	And fell below his stem: his sword, death's stamp,
+	Where it did mark, it took; from face to foot
+	He was a thing of blood, whose every motion
+	Was tim'd with dying cries: alone he enter'd
+	The mortal gate of the city, which he painted
+	With shunless destiny; aidless came off,
+	And with a sudden re-enforcement struck
+	Corioli like a planet. Now all's his:
+	When by and by the din of war 'gan pierce
+	His ready sense; then straight his doubled spirit
+	Re-quicken'd what in flesh was fatigate,
+	And to the battle came he; where he did
+	Run reeking o'er the lives of men, as if
+	'Twere a perpetual spoil; and till we call'd
+	Both field and city ours, he never stood
+	To ease his breast with panting.
+<SPEECH 29><ACT 2><SCENE 2><35%>
+	Our spoils he kick'd at,
+	And look'd upon things precious as they were
+	The common muck o' the world: he covets less
+	Than misery itself would give; rewards
+	His deeds with doing them, and is content
+	To spend the time to end it.
+<SPEECH 30><ACT 3><SCENE 1><44%>
+	They are worn, lord consul, so,
+	That we shall hardly in our ages see
+	Their banners wave again.
+<SPEECH 31><ACT 3><SCENE 1><45%>
+	Hath he not pass'd the noble and the common?
+<SPEECH 32><ACT 3><SCENE 1><46%>
+	The people are abus'd; set on. This paltering
+	Becomes not Rome, nor has Coriolanus
+	Deserv'd this so dishonour'd rub, laid falsely
+	I' the plain way of his merit.
+<SPEECH 33><ACT 3><SCENE 1><47%>
+	'Twas from the canon.
+<SPEECH 34><ACT 3><SCENE 1><47%>
+	Well, on to the market-place.
+<SPEECH 35><ACT 3><SCENE 1><49%>
+	Aged sir, hands off.
+<SPEECH 36><ACT 3><SCENE 1><50%>
+	That is the way to lay the city flat;
+	To bring the roof to the foundation,
+	And bury all, which yet distinctly ranges,
+	In heaps and piles of ruin.
+<SPEECH 37><ACT 3><SCENE 1><51%>
+	Come, sir, along with us.
+<SPEECH 38><ACT 3><SCENE 1><51%>
+	But now 'tis odds beyond arithmetic;
+	And manhood is call'd foolery when it stands
+	Against a falling fabric. Will you hence,
+	Before the tag return? whose rage doth rend
+	Like interrupted waters and o'erbear
+	What they are us'd to bear.
+<SPEECH 39><ACT 3><SCENE 1><51%>
+	Nay, come away.
+<SPEECH 40><ACT 3><SCENE 2><57%>
+	I have been i' the market-place; and, sir, 'tis fit
+	You make strong party, or defend yourself
+	By calmness or by absence: all's in anger.
+<SPEECH 41><ACT 3><SCENE 2><57%>
+	I think 'twill serve if he
+	Can thereto frame his spirit.
+<SPEECH 42><ACT 3><SCENE 2><57%>
+	Come, come, we'll prompt you.
+<SPEECH 43><ACT 3><SCENE 2><58%>
+	Away! the tribunes do attend you: arm yourself
+	To answer mildly; for they are prepar'd
+	With accusations, as I hear, more strong
+	Than are upon you yet.
+<SPEECH 44><ACT 3><SCENE 3><60%>
+	Well, well; no more.
+<SPEECH 45><ACT 3><SCENE 3><61%>
+	Know, I pray you,—
+<SPEECH 46><ACT 3><SCENE 3><61%>
+	Hear me, my masters, and my common friends,—
+<SPEECH 47><ACT 3><SCENE 3><61%>
+	Let me speak:
+	I have been consul, and can show for Rome
+	Her enemies' marks upon me. I do love
+	My country's good with a respect more tender,
+	More holy, and profound, than mine own life,
+	My dear wife's estimate, her womb's increase,
+	And treasure of my loins; then if I would
+	Speak that—
+<SPEECH 48><ACT 4><SCENE 1><64%>
+	I'll follow thee a month, devise with thee
+	Where thou shalt rest, that thou mayst hear of us,
+	And we of thee: so, if the time thrust forth
+	A cause for thy repeal, we shall not send
+	O'er the vast world to seek a single man,
+	And lose advantage, which doth ever cool
+	I' the absence of the needer.
+<SPEECH 49><ACT 4><SCENE 6><78%>
+	O! you have made good work!
+<SPEECH 50><ACT 4><SCENE 6><78%>
+	You have holp to ravish your own daughters; and
+	To melt the city leads upon your pates.
+	To see your wives dishonour'd to your noses,—
+<SPEECH 51><ACT 4><SCENE 6><78%>
+	Your temples burned in their cement, and
+	Your franchises, whereon you stood, confin'd
+	Into an auger's bore.
+<SPEECH 52><ACT 4><SCENE 6><78%>
+	If!
+	He is their god: he leads them like a thing
+	Made by some other deity than Nature,
+	That shapes man better; and they follow him,
+	Against us brats, with no less confidence
+	Than boys pursuing summer butterflies,
+	Or butchers killing flies.
+<SPEECH 53><ACT 4><SCENE 6><78%>
+	He will shake
+	Your Rome about your ears.
+<SPEECH 54><ACT 4><SCENE 6><78%>
+	Ay; and you'll look pale
+	Before you find it other. All the regions
+	Do smilingly revolt; and who resist
+	Are mock'd for valiant ignorance,
+	And perish constant fools. Who is't can blame him?
+	Your enemies, and his, find something in him.
+<SPEECH 55><ACT 4><SCENE 6><78%>
+	Who shall ask it?
+	The tribunes cannot do't for shame; the people
+	Deserve such pity of him as the wolf
+	Does of the shepherds: for his best friends, if they
+	Should say, 'Be good to Rome,' they charg'd him even
+	As those should do that had deserv'd his hate,
+	And therein show'd like enemies.
+<SPEECH 56><ACT 4><SCENE 6><79%>
+	You have brought
+	A trembling upon Rome, such as was never
+	So incapable of help.
+<SPEECH 57><ACT 4><SCENE 6><79%>
+	But I fear
+	They'll roar him in again. Tullus Aufidius,
+	The second name of men, obeys his points
+	As if he were his officer: desperation
+	Is all the policy, strength, and defence,
+	That Rome can make against them.
+<SPEECH 58><ACT 4><SCENE 6><80%>
+	You're goodly things, you voices!
+<SPEECH 59><ACT 4><SCENE 6><80%>
+	O! ay; what else?
+<SPEECH 60><ACT 5><SCENE 1><82%>
+	He would not seem to know me.
+<SPEECH 61><ACT 5><SCENE 1><82%>
+	Yet one time he did call me by my name.
+	I urg'd our old acquaintance, and the drops
+	That we have bled together. Coriolanus
+	He would not answer to; forbad all names;
+	He was a kind of nothing, titleless,
+	Till he had forg'd himself a name o' the fire
+	Of burning Rome.
+<SPEECH 62><ACT 5><SCENE 1><82%>
+	I minded him how royal 'twas to pardon
+	When it was less expected: he replied,
+	It was a bare petition of a state
+	To one whom they had punish'd.
+<SPEECH 63><ACT 5><SCENE 1><82%>
+	I offer'd to awaken his regard
+	For's private friends: his answer to me was,
+	He could not stay to pick them in a pile
+	Of noisome musty chaff: he said 'twas folly,
+	For one poor grain or two, to leave unburnt,
+	And still to nose the offence.
+<SPEECH 64><ACT 5><SCENE 1><83%>
+	He'll never hear him.
+<SPEECH 65><ACT 5><SCENE 1><83%>
+	I tell you he does sit in gold, his eye
+	Red as 'twould burn Rome, and his injury
+	The gaoler to his pity. I kneel'd before him;
+	'Twas very faintly he said 'Rise;' dismiss'd me
+	Thus, with his speechless hand: what he would do
+	He sent in writing after me; what he would not,
+	Bound with an oath to yield to his conditions:
+	So that all hope is vain
+	Unless his noble mother and his wife,
+	Who, as I hear, mean to solicit him
+	For mercy to his country. Therefore let's hence,
+	And with our fair entreaties haste them on.

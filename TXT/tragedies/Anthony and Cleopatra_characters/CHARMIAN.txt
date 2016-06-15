@@ -1,0 +1,150 @@
+<SPEECH 1><ACT 1><SCENE 2><2%>
+	Lord Alexas, sweet Alexas, most any thing Alexas, almost most absolute Alexas, where's the soothsayer that you praised so to the queen? O! that I knew this husband, which, you say, must charge his horns with garlands.
+<SPEECH 2><ACT 1><SCENE 2><3%>
+	Is this the man? Is't you, sir, that know things?
+<SPEECH 3><ACT 1><SCENE 2><3%>
+	Good sir, give me good fortune.
+<SPEECH 4><ACT 1><SCENE 2><3%>
+	Pray then, foresee me one.
+<SPEECH 5><ACT 1><SCENE 2><3%>
+	He means in flesh.
+<SPEECH 6><ACT 1><SCENE 2><3%>
+	Wrinkles forbid!
+<SPEECH 7><ACT 1><SCENE 2><3%>
+	Hush!
+<SPEECH 8><ACT 1><SCENE 2><3%>
+	I had rather heat my liver with drinking.
+<SPEECH 9><ACT 1><SCENE 2><3%>
+	Good now, some excellent fortune! Let me be married to three kings in a forenoon, and widow them all; let me have a child at fifty, to whom Herod of Jewry may do homage; find me to marry me with Octavius Cæsar, and companion me with my mistress.
+<SPEECH 10><ACT 1><SCENE 2><3%>
+	O excellent! I love long life better than figs.
+<SPEECH 11><ACT 1><SCENE 2><3%>
+	Then, belike, my children shall have no names; prithee, how many boys and wenches must I have?
+<SPEECH 12><ACT 1><SCENE 2><4%>
+	Out, fool! I forgive thee for a witch.
+<SPEECH 13><ACT 1><SCENE 2><4%>
+	Nay, come, tell Iras hers.
+<SPEECH 14><ACT 1><SCENE 2><4%>
+	E'en as the overflowing Nilus presageth famine.
+<SPEECH 15><ACT 1><SCENE 2><4%>
+	Nay, if an oily palm be not a fruitful prognostication, I cannot scratch mine ear.
+	Prithee, tell her but a worky-day fortune.
+<SPEECH 16><ACT 1><SCENE 2><4%>
+	Well, if you were but an inch of fortune better than I, where would you choose it?
+<SPEECH 17><ACT 1><SCENE 2><4%>
+	Our worser thoughts heaven mend! Alexas,—come, his fortune, his fortune. O! let him marry a woman that cannot go, sweet Isis, I beseech thee; and let her die too, and give him a worse; and let worse follow worse, till the worst of all follow him laughing to his grave, fifty-fold a cuckold! Good Isis, hear me this prayer, though thou deny me a matter of more weight; good Isis, I beseech thee!
+<SPEECH 18><ACT 1><SCENE 2><4%>
+	Amen.
+<SPEECH 19><ACT 1><SCENE 2><5%>
+	Not he; the queen.
+<SPEECH 20><ACT 1><SCENE 2><5%>
+	No, madam.
+<SPEECH 21><ACT 1><SCENE 3><8%>
+	I did not see him since.
+<SPEECH 22><ACT 1><SCENE 3><9%>
+	Madam, methinks, if you did love him dearly,
+	You do not hold the method to enforce
+	The like from him.
+<SPEECH 23><ACT 1><SCENE 3><9%>
+	In each thing give him way, cross him in nothing.
+<SPEECH 24><ACT 1><SCENE 3><9%>
+	Tempt him not so too far; I wish, forbear:
+	In time we hate that which we often fear.
+	But here comes Antony.
+<SPEECH 25><ACT 1><SCENE 5><14%>
+	Madam!
+<SPEECH 26><ACT 1><SCENE 5><14%>
+	Why, madam?
+<SPEECH 27><ACT 1><SCENE 5><14%>
+	You think of him too much.
+<SPEECH 28><ACT 1><SCENE 5><14%>
+	Madam, I trust, not so.
+<SPEECH 29><ACT 1><SCENE 5><16%>
+	O! that brave Cæsar.
+<SPEECH 30><ACT 1><SCENE 5><16%>
+	The valiant Cæsar!
+<SPEECH 31><ACT 1><SCENE 5><16%>
+	By your most gracious pardon,
+	I sing but after you.
+<SPEECH 32><ACT 2><SCENE 5><28%>
+	My arm is sore; best play with Mardian.
+<SPEECH 33><ACT 2><SCENE 5><28%>
+	'Twas merry when
+	You wager'd on your angling; when your diver
+	Did hang a salt-fish on his hook, which he
+	With fervency drew up.
+<SPEECH 34><ACT 2><SCENE 5><30%>
+	Good madam, keep yourself within yourself;
+	The man is innocent.
+<SPEECH 35><ACT 2><SCENE 5><30%>
+	He is afeard to come.
+<SPEECH 36><ACT 2><SCENE 5><31%>
+	Good your highness, patience.
+<SPEECH 37><ACT 2><SCENE 5><31%>
+	Many times, madam.
+<SPEECH 38><ACT 3><SCENE 3><44%>
+	Like her! O Isis! 'tis impossible.
+<SPEECH 39><ACT 3><SCENE 3><45%>
+	Three in Egypt
+	Cannot make better note.
+<SPEECH 40><ACT 3><SCENE 3><45%>
+	Excellent.
+<SPEECH 41><ACT 3><SCENE 3><45%>
+	A proper man.
+<SPEECH 42><ACT 3><SCENE 3><45%>
+	Nothing, madam.
+<SPEECH 43><ACT 3><SCENE 3><45%>
+	Hath he seen majesty? Isis else defend,
+	And serving you so long!
+<SPEECH 44><ACT 3><SCENE 3><46%>
+	I warrant you, madam.
+<SPEECH 45><ACT 3><SCENE 1><56%>
+	Do! Why, what else?
+<SPEECH 46><ACT 3><SCENE 1><56%>
+	Madam!
+<SPEECH 47><ACT 4><SCENE 4><70%>
+	Please you, retire to your chamber.
+<SPEECH 48><ACT 4><SCENE XI.— ><77%>
+	To the monument!
+	There lock yourself, and send him word you are dead.
+	The soul and body rive not more in parting
+	Than greatness going off.
+<SPEECH 49><ACT 4><SCENE XIII.— ><82%>
+	Be comforted, dear madam.
+<SPEECH 50><ACT 4><SCENE XIII.— ><85%>
+	O, quietness, lady!
+<SPEECH 51><ACT 4><SCENE XIII.— ><85%>
+	Lady!
+<SPEECH 52><ACT 4><SCENE XIII.— ><85%>
+	O madam, madam, madam!
+<SPEECH 53><ACT 4><SCENE XIII.— ><85%>
+	Peace, peace, Iras!
+<SPEECH 54><ACT 5><SCENE 2><89%>
+	O Cleopatra! thou art taken, queen.
+<SPEECH 55><ACT 5><SCENE 2><94%>
+	Madam, I will.
+<SPEECH 56><ACT 5><SCENE 2><94%>
+	Behold, sir.
+<SPEECH 57><ACT 5><SCENE 2><98%>
+	Dissolve, thick cloud, and rain; that I may say,
+	The gods themselves do weep.
+<SPEECH 58><ACT 5><SCENE 2><98%>
+	O eastern star!
+<SPEECH 59><ACT 5><SCENE 2><98%>
+	O, break! O, break!
+<SPEECH 60><ACT 5><SCENE 2><98%>
+	In this vile world? So, fare thee well.
+	Now boast thee, death, in thy possession lies
+	A lass unparallel'd. Downy windows, close;
+	And golden Phœbus never be beheld
+	Of eyes again so royal! Your crown's awry;
+	I'll mend it, and then play.
+<SPEECH 61><ACT 5><SCENE 2><98%>
+	Speak softly, wake her not.
+<SPEECH 62><ACT 5><SCENE 2><98%>
+	Too slow a messenger.
+	O! come apace, dispatch; I partly feel thee.
+<SPEECH 63><ACT 5><SCENE 2><99%>
+	It is well done, and fitting for a princess
+	Descended of so many royal kings.
+	Ah! soldier.

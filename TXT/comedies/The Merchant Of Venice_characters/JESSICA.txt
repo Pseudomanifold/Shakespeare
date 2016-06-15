@@ -1,0 +1,105 @@
+<SPEECH 1><ACT 2><SCENE 3><29%>
+	I am sorry thou wilt leave my father so:
+	Our house is hell, and thou, a merry devil,
+	Didst rob it of some taste of tediousness.
+	But fare thee well; there is a ducat for thee:
+	And, Launcelot, soon at supper shalt thou see
+	Lorenzo, who is thy new master's guest:
+	Give him this letter; do it secretly;
+	And so farewell: I would not have my father
+	See me in talk with thee.
+<SPEECH 2><ACT 2><SCENE 3><29%>
+	Farewell, good Launcelot.
+	Alack, what heinous sin is it in me
+	To be asham'd to be my father's child!
+	But though I am a daughter to his blood,
+	I am not to his manners. O Lorenzo!
+	If thou keep promise, I shall end this strife,
+	Become a Christian, and thy loving wife.
+<SPEECH 3><ACT 2><SCENE 5><32%>
+	Call you? What is your will?
+<SPEECH 4><ACT 2><SCENE 5><33%>
+	His words were, 'Farewell, mistress;' nothing else.
+<SPEECH 5><ACT 2><SCENE 5><33%>
+	Farewell; and if my fortune be not crost,
+	I have a father, you a daughter, lost.
+<SPEECH 6><ACT 2><SCENE 6><35%>
+	Who are you? Tell me, for more certainty,
+	Albeit I'll swear that I do know your tongue.
+<SPEECH 7><ACT 2><SCENE 6><35%>
+	Lorenzo, certain; and my love indeed,
+	For whom love I so much? And now who knows
+	But you, Lorenzo, whether I am yours?
+<SPEECH 8><ACT 2><SCENE 6><35%>
+	Here, catch this casket; it is worth the pains.
+	I am glad 'tis night, you do not look on me,
+	For I am much asham'd of my exchange;
+	But love is blind, and lovers cannot see
+	The pretty follies that themselves commit;
+	For if they could, Cupid himself would blush
+	To see me thus transformed to a boy.
+<SPEECH 9><ACT 2><SCENE 6><35%>
+	What! must I hold a candle to my shames?
+	They in themselves, good sooth, are too-too light.
+	Why, 'tis an office of discovery, love,
+	And I should be obscur'd.
+<SPEECH 10><ACT 2><SCENE 6><36%>
+	I will make fast the doors, and gild myself
+	With some more ducats, and be with you straight.
+<SPEECH 11><ACT 3><SCENE 2><60%>
+	When I was with him, I have heard him swear
+	To Tubal and to Chus, his countrymen,
+	That he would rather have Antonio's flesh
+	Than twenty times the value of the sum
+	That he did owe him; and I know, my lord,
+	If law, authority, and power deny not,
+	It will go hard with poor Antonio.
+<SPEECH 12><ACT 3><SCENE 4><65%>
+	I wish your ladyship all heart's content.
+<SPEECH 13><ACT 3><SCENE 5><67%>
+	And what hope is that, I pray thee?
+<SPEECH 14><ACT 3><SCENE 5><67%>
+	That were a kind of bastard hope, indeed: so the sins of my mother should be visited upon me.
+<SPEECH 15><ACT 3><SCENE 5><67%>
+	I shall be saved by my husband; he hath made me a Christian.
+<SPEECH 16><ACT 3><SCENE 5><68%>
+	I'll tell my husband, Launcelot, what you say: here he comes.
+<SPEECH 17><ACT 3><SCENE 5><68%>
+	Nay, you need not fear us, Lorenzo: Launcelot and I are out. He tells me flatly, there is no mercy for me in heaven, because I am a Jew's daughter: and he says you are no good member of the commonwealth, for, in converting Jews to Christians, you raise the price of pork.
+<SPEECH 18><ACT 3><SCENE 5><69%>
+	Past all expressing. It is very meet,
+	The Lord Bassanio live an upright life,
+	For, having such a blessing in his lady,
+	He finds the joys of heaven here on earth;
+	And if on earth he do not mean it, then
+	In reason he should never come to heaven.
+	Why, if two gods should play some heavenly match,
+	And on the wager lay two earthly women,
+	And Portia one, there must be something else
+	Pawn'd with the other, for the poor rude world
+	Hath not her fellow.
+<SPEECH 19><ACT 3><SCENE 5><70%>
+	Nay, but ask my opinion too of that.
+<SPEECH 20><ACT 3><SCENE 5><70%>
+	Nay, let me praise you while I have a stomach.
+<SPEECH 21><ACT 3><SCENE 5><70%>
+	Well, I'll set you forth.
+<SPEECH 22><ACT 5><SCENE 1><89%>
+	In such a night
+	Did Thisbe fearfully o'ertrip the dew,
+	And saw the lion's shadow ere himself,
+	And ran dismay'd away.
+<SPEECH 23><ACT 5><SCENE 1><89%>
+	In such a night
+	Medea gather'd the enchanted herbs
+	That did renew old Æson.
+<SPEECH 24><ACT 5><SCENE 1><89%>
+	In such a night
+	Did young Lorenzo swear he lov'd her well,
+	Stealing her soul with many vows of faith,
+	And ne'er a true one.
+<SPEECH 25><ACT 5><SCENE 1><89%>
+	I would out-night you, did no body come;
+	But, hark! I hear the footing of a man.
+<SPEECH 26><ACT 5><SCENE 1><91%>
+	I am never merry when I hear sweet music.

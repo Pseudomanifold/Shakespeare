@@ -1,0 +1,61 @@
+<SPEECH 1><SCENE 1><0%>
+	I'll pheeze you, in faith.
+<SPEECH 2><SCENE 1><0%>
+	Y'are a baggage: the Slys are no rogues; look in the chronicles; we came in with Richard Conqueror. Therefore, paucas pallabris; let the world slide. Sessa!
+<SPEECH 3><SCENE 1><1%>
+	No, not a denier. Go by, Jeronimy, go to thy cold bed, and warm thee.
+<SPEECH 4><SCENE 1><1%>
+	Third, or fourth, or fifth borough, I'll answer him by law. I'll not budge an inch, boy: let him come, and kindly.
+<SPEECH 5><SCENE 2><6%>
+	For God's sake! a pot of small ale.
+<SPEECH 6><SCENE 2><6%>
+	I am Christophero Sly; call not me honour, nor lordship: I ne'er drank sack in my life; and if you give me any conserves, give me conserves of beef. Ne'er ask me what raiment I'll wear, for I have no more doublets than backs, no more stockings than legs, nor no more shoes than feet: nay, sometime more feet than shoes, or such shoes as my toes look through the overleather.
+<SPEECH 7><SCENE 2><6%>
+	What! would you make me mad? Am not I Christopher Sly, old Sly's son, of Burtonheath; by birth a pedlar, by education a cardmaker, by transmutation a bear-herd, and now by present profession a tinker? Ask Marian Hacket, the fat ale-wife of Wincot, if she know me not: if she say I am not fourteen pence on the score for sheer ale, score me up for the lyingest knave in Christendom. What! I am not bestraught: here's—
+<SPEECH 8><SCENE 2><8%>
+	Am I a lord? and have I such a lady?
+	Or do I dream? or have I dream'd till now?
+	I do not sleep; I see, I hear, I speak;
+	I smell sweet savours, and I feel soft things:
+	Upon my life, I am a lord indeed;
+	And not a tinker, nor Christophero Sly.
+	Well, bring our lady hither to our sight;
+	And once again, a pot o' the smallest ale.
+<SPEECH 9><SCENE 2><9%>
+	These fifteen years! by my fay, a goodly nap.
+	But did I never speak of all that time?
+<SPEECH 10><SCENE 2><9%>
+	Ay, the woman's maid of the house.
+<SPEECH 11><SCENE 2><9%>
+	Now, Lord be thanked for my good amends!
+<SPEECH 12><SCENE 2><9%>
+	I thank thee; thou shalt not lose by it.
+<SPEECH 13><SCENE 2><10%>
+	Marry, I fare well, for here is cheer enough.
+	Where is my wife?
+<SPEECH 14><SCENE 2><10%>
+	Are you my wife, and will not call me husband?
+	My men should call me lord: I am your goodman.
+<SPEECH 15><SCENE 2><10%>
+	I know it well. What must I call her?
+<SPEECH 16><SCENE 2><10%>
+	Al'ce madam, or Joan madam?
+<SPEECH 17><SCENE 2><10%>
+	Madam wife, they say that I have dream'd
+	And slept above some fifteen year or more.
+<SPEECH 18><SCENE 2><10%>
+	'Tis much. Servants, leave me and her alone.
+	Madam, undress you, and come now to bed.
+<SPEECH 19><SCENE 2><10%>
+	Ay, it stands so, that I may hardly tarry so long; but I would be loath to fall into my dreams again: I will therefore tarry, in spite of the flesh and the blood.
+<SPEECH 20><SCENE 2><11%>
+	Marry, I will; let them play it. Is not a commonty a Christmas gambold or a tumbling-trick?
+<SPEECH 21><SCENE 2><11%>
+	What! household stuff?
+<SPEECH 22><SCENE 2><11%>
+	Well, we'll see't. Come, madam wife, sit by my side,
+	And let the world slip: we shall ne'er be younger.
+<SPEECH 23><ACT 1><SCENE 1><20%>
+	Yes, by Saint Anne, I do. A good matter, surely: comes there any more of it?
+<SPEECH 24><ACT 1><SCENE 1><20%>
+	'Tis a very excellent piece of work, madam lady: would 'twere done!

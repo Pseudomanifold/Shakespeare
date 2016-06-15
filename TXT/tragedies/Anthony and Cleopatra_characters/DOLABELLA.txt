@@ -1,0 +1,71 @@
+<SPEECH 1><ACT 3><SCENE X.— ><57%>
+	Cæsar, 'tis his schoolmaster:
+	An argument that he is pluck'd, when hither
+	He sends so poor a pinion of his wing,
+	Which had superfluous kings for messengers
+	Not many moons gone by.
+<SPEECH 2><ACT 5><SCENE 1><85%>
+	Cæsar, I shall.
+<SPEECH 3><ACT 5><SCENE 2><90%>
+	Proculeius,
+	What thou hast done thy master Cæsar knows,
+	And he hath sent for thee; as for the queen,
+	I'll take her to my guard.
+<SPEECH 4><ACT 5><SCENE 2><90%>
+	Most noble empress, you have heard of me?
+<SPEECH 5><ACT 5><SCENE 2><90%>
+	Assuredly you know me.
+<SPEECH 6><ACT 5><SCENE 2><90%>
+	I understand not, madam.
+<SPEECH 7><ACT 5><SCENE 2><91%>
+	If it might please ye,—
+<SPEECH 8><ACT 5><SCENE 2><91%>
+	Most sovereign creature,—
+<SPEECH 9><ACT 5><SCENE 2><91%>
+	Cleopatra,—
+<SPEECH 10><ACT 5><SCENE 2><91%>
+	Gentle madam, no.
+<SPEECH 11><ACT 5><SCENE 2><91%>
+	Hear me, good madam.
+	Your loss is as yourself, great; and you bear it
+	As answering to the weight: would I might never
+	O'ertake pursu'd success, but I do feel,
+	By the rebound of yours, a grief that smites
+	My very heart at root.
+<SPEECH 12><ACT 5><SCENE 2><91%>
+	I am loath to tell you what I would you knew.
+<SPEECH 13><ACT 5><SCENE 2><91%>
+	Though he be honourable,—
+<SPEECH 14><ACT 5><SCENE 2><92%>
+	Madam, he will; I know 't.
+<SPEECH 15><ACT 5><SCENE 2><92%>
+	It is the emperor, madam.
+<SPEECH 16><ACT 5><SCENE 2><94%>
+	Where is the queen?
+<SPEECH 17><ACT 5><SCENE 2><94%>
+	Madam, as thereto sworn by your command,
+	Which my love makes religion to obey,
+	I tell you this: Cæsar through Syria
+	Intends his journey; and within three days
+	You with your children will be send before.
+	Make your best use of this; I have perform'd
+	Your pleasure and my promise.
+<SPEECH 18><ACT 5><SCENE 2><95%>
+	I your servant.
+	Adieu, good queen; I must attend on Cæsar.
+<SPEECH 19><ACT 5><SCENE 2><99%>
+	How goes it here?
+<SPEECH 20><ACT 5><SCENE 2><99%>
+	Cæsar, thy thoughts
+	Touch their effects in this; thyself art coming
+	To see perform'd the dreaded act which thou
+	So sought'st to hinder.
+<SPEECH 21><ACT 5><SCENE 2><99%>
+	O! sir, you are too sure an augurer;
+	That you did fear is done.
+<SPEECH 22><ACT 5><SCENE 2><99%>
+	Who was last with them?
+<SPEECH 23><ACT 5><SCENE 2><99%>
+	Here, on her breast,
+	There is a vent of blood, and something blown;
+	The like is on her arm.

@@ -1,0 +1,326 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	Save you, fair queen!
+<SPEECH 2><ACT 1><SCENE 1><4%>
+	No.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	Are you meditating on virginity?
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	Keep him out.
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	There is none: man, sitting down before you, will undermine you and blow you up.
+<SPEECH 6><ACT 1><SCENE 1><4%>
+	Virginity being blown down, man will quicklier be blown up: marry in blowing him down again, with the breach yourselves made, you lose your city. It is not politic in the commonwealth of nature to preserve virginity. Loss of virginity is rational increase, and there was never virgin got till virginity was first lost. That you were made of is metal to make virgins. Virginity, by being once lost, may be ten times found: by being ever kept, it is ever lost.'Tis too cold a companion: away with't!
+<SPEECH 7><ACT 1><SCENE 1><5%>
+	There's little can be said in't; 'tis against the rule of nature. To speak on the part of virginity is to accuse your mothers, which is most infallible disobedience. He that hangs himself is a virgin: virginity murders itself, and should be buried in highways, out of all sanctified limit, as a desperate offendress against nature. Virginity breeds mites, much like a cheese, consumes itself to the very paring, and so dies with feeding his own stomach. Besides, virginity is peevish, proud, idle, made of self-love, which is the most inhibited sin in the canon. Keep it not; you cannot choose but lose by't! Out with't! within the year it will make itself two, which is a goodly increase, and the principal itself not much the worse. Away with't!
+<SPEECH 8><ACT 1><SCENE 1><5%>
+	Let me see: marry, ill, to like him that ne'er it likes. 'Tis a commodity that will lose the gloss with lying; the longer kept, the less worth: off with't, while 'tis vendible; answer the time of request. Virginity, like an old courtier, wears her cap out of fashion; richly suited, but unsuitable: just like the brooch and the toothpick, which wear not now. Your date is better in your pie and your porridge than in your cheek: and your virginity, your old virginity, is like one of our French withered pears; it looks ill, it eats drily; marry, 'tis a withered pear; it was formerly better; marry, yet 'tis a withered pear. Will you anything with it?
+<SPEECH 9><ACT 1><SCENE 1><6%>
+	What one, i' faith?
+<SPEECH 10><ACT 1><SCENE 1><6%>
+	What's pity?
+<SPEECH 11><ACT 1><SCENE 1><7%>
+	Little Helen, farewell: if I can remember thee, I will think of thee at court.
+<SPEECH 12><ACT 1><SCENE 1><7%>
+	Under Mars, I.
+<SPEECH 13><ACT 1><SCENE 1><7%>
+	Why under Mars?
+<SPEECH 14><ACT 1><SCENE 1><7%>
+	When he was predominant.
+<SPEECH 15><ACT 1><SCENE 1><7%>
+	Why think you so?
+<SPEECH 16><ACT 1><SCENE 1><7%>
+	That's for advantage.
+<SPEECH 17><ACT 1><SCENE 1><7%>
+	I am so full of businesses I cannot answer thee acutely. I will return perfect courtier; in the which, my instruction shall serve to naturalize thee, so thou wilt be capable of a courtier's counsel, and understand what advice shall thrust upon thee; else thou diest in thine unthankfulness, and thine ignorance makes thee away: farewell. When thou hast leisure, say thy prayers; when thou hast none, remember thy friends. Get thee a good husband, and use him as he uses thee: so, farewell.
+<SPEECH 18><ACT 2><SCENE 1><20%>
+	'Tis not his fault, the spark.
+<SPEECH 19><ACT 2><SCENE 1><20%>
+	Most admirable: I have seen those wars.
+<SPEECH 20><ACT 2><SCENE 1><20%>
+	An thy mind stand to't, boy, steal away bravely.
+<SPEECH 21><ACT 2><SCENE 1><21%>
+	Commit it, count.
+<SPEECH 22><ACT 2><SCENE 1><21%>
+	Noble heroes, my sword and yours are kin. Good sparks and lustrous, a word, good metals: you shall find in the regiment of the Spinii, one Captain Spurio, with his cicatrice, an emblem of war, here on his sinister cheek: it was this very sword entrenched it: say to him, I live, and observe his reports for me
+<SPEECH 23><ACT 2><SCENE 1><21%>
+	Mars dote on you for his novices! What will ye do?
+<SPEECH 24><ACT 2><SCENE 1><21%>
+	Use a more spacious ceremony to the noble lords; you have restrained yourself within the list of too cold an adieu: be more expressive to them; for they wear themselves in the cap of the time, there do muster true gait, eat, speak, and move under the influence of the most received star; and though the devil lead the measure, such are to be followed. After them, and take a more dilated farewell.
+<SPEECH 25><ACT 2><SCENE 1><22%>
+	Worthy fellows; and like to prove most sinewy swordmen.
+<SPEECH 26><ACT 2><SCENE 3><29%>
+	Why, 'tis the rarest argument of wonder that hath shot out in our latter times.
+<SPEECH 27><ACT 2><SCENE 3><30%>
+	So I say.
+<SPEECH 28><ACT 2><SCENE 3><30%>
+	So I say.
+<SPEECH 29><ACT 2><SCENE 3><30%>
+	Right; so I say.
+<SPEECH 30><ACT 2><SCENE 3><30%>
+	Why, there 'tis; so say I too.
+<SPEECH 31><ACT 2><SCENE 3><30%>
+	Right; as 'twere, a man assured of a—
+<SPEECH 32><ACT 2><SCENE 3><30%>
+	Just, you say well: so would I have said.
+<SPEECH 33><ACT 2><SCENE 3><30%>
+	It is, indeed: if you will have it in showing, you shall read it in—what do you call there—
+<SPEECH 34><ACT 2><SCENE 3><30%>
+	That's it I would have said; the very same.
+<SPEECH 35><ACT 2><SCENE 3><30%>
+	Nay, 'tis strange, 'tis very strange, that is the brief and the tedious of it; and he is of a most facinorous spirit, that will not acknowledge it to be the—
+<SPEECH 36><ACT 2><SCENE 3><30%>
+	Ay, so I say.
+<SPEECH 37><ACT 2><SCENE 3><30%>
+	I would have said it; you say well. Here comes the king.
+<SPEECH 38><ACT 2><SCENE 3><31%>
+	Mort du vinaigre! Is not this Helen?
+<SPEECH 39><ACT 2><SCENE 3><35%>
+	Your pleasure, sir?
+<SPEECH 40><ACT 2><SCENE 3><36%>
+	Recantation! My lord! my master!
+<SPEECH 41><ACT 2><SCENE 3><36%>
+	A most harsh one, and not to be understood without bloody succeeding. My master!
+<SPEECH 42><ACT 2><SCENE 3><36%>
+	To any count; to all counts; to what is man.
+<SPEECH 43><ACT 2><SCENE 3><36%>
+	You are too old, sir; let it satisfy you, you are too old.
+<SPEECH 44><ACT 2><SCENE 3><36%>
+	What I dare too well do, I dare not do.
+<SPEECH 45><ACT 2><SCENE 3><36%>
+	Hadst thou not the privilege of antiquity upon thee,—
+<SPEECH 46><ACT 2><SCENE 3><36%>
+	My lord, you give me most egregious indignity.
+<SPEECH 47><ACT 2><SCENE 3><37%>
+	I have not, my lord, deserved it.
+<SPEECH 48><ACT 2><SCENE 3><37%>
+	Well, I shall be wiser.
+<SPEECH 49><ACT 2><SCENE 3><37%>
+	My lord, you do me most insupportable vexation.
+<SPEECH 50><ACT 2><SCENE 3><37%>
+	Well, thou hast a son shall take this disgrace off me; scurvy, old, filthy, scurvy lord! Well, I must be patient; there is no fettering of authority. I'll beat him, by my life, if I can meet him with any convenience, an he were double and double a lord. I'll have no more pity of his age than I would have of—I'll beat him, an if I could but meet him again!
+<SPEECH 51><ACT 2><SCENE 3><37%>
+	I most unfeignedly beseech your lordship to make some reservation of your wrongs: he is my good lord: whom I serve above is my master.
+<SPEECH 52><ACT 2><SCENE 3><38%>
+	Ay, sir.
+<SPEECH 53><ACT 2><SCENE 3><38%>
+	This is hard and undeserved measure, my lord.
+<SPEECH 54><ACT 2><SCENE 3><38%>
+	Good, very good; it is so then: good, very good. Let it be concealed awhile.
+<SPEECH 55><ACT 2><SCENE 3><38%>
+	What is the matter, sweet heart?
+<SPEECH 56><ACT 2><SCENE 3><38%>
+	What, what, sweet heart?
+<SPEECH 57><ACT 2><SCENE 3><38%>
+	France is a dog-hole, and it no more merits
+	The tread of a man's foot. To the wars!
+<SPEECH 58><ACT 2><SCENE 3><39%>
+	Ay, that would be known. To the wars, my boy! to the wars!
+	He wears his honour in a box, unseen,
+	That hugs his kicky-wicky here at home,
+	Spending his manly marrow in her arms,
+	Which should sustain the bound and high curvet
+	Of Mars's fiery steed. To other regions!
+	France is a stable; we that dwell in't jades;
+	Therefore, to the war!
+<SPEECH 59><ACT 2><SCENE 3><39%>
+	Will this capriccio hold in thee? art sure?
+<SPEECH 60><ACT 2><SCENE 3><39%>
+	Why, these balls bound; there's noise in it. 'Tis hard:
+	A young man married is a man that's marr'd:
+	Therefore away, and leave her bravely; go:
+	The king has done you wrong: but, hush! 'tis so.
+<SPEECH 61><ACT 2><SCENE 4><40%>
+	Bless you, my fortunate lady!
+<SPEECH 62><ACT 2><SCENE 4><40%>
+	You had my prayers to lead them on; and to keep them on, have them still. O! my knave, how does my old lady?
+<SPEECH 63><ACT 2><SCENE 4><40%>
+	Why, I say nothing.
+<SPEECH 64><ACT 2><SCENE 4><40%>
+	Away! thou'rt a knave.
+<SPEECH 65><ACT 2><SCENE 4><40%>
+	Go to, thou art a witty fool; I have found thee.
+<SPEECH 66><ACT 2><SCENE 4><41%>
+	A good knave, i' faith, and well fed.
+	Madam, my lord will go away to-night;
+	A very serious business calls on him.
+	The great prerogative and rite of love,
+	Which, as your due, time claims, he does acknowledge,
+	But puts it off to a compell'd restraint;
+	Whose want, and whose delay, is strew'd with sweets,
+	Which they distil now in the curbed time,
+	To make the coming hour o'erflow with joy,
+	And pleasure drown the brim.
+<SPEECH 67><ACT 2><SCENE 4><41%>
+	That you will take your instant leave o' the king,
+	And make this haste as your own good proceeding,
+	Strengthen'd with what apology you think
+	May make it probable need.
+<SPEECH 68><ACT 2><SCENE 4><41%>
+	That, having this obtain'd, you presently
+	Attend his further pleasure.
+<SPEECH 69><ACT 2><SCENE 4><41%>
+	I shall report it so.
+<SPEECH 70><ACT 2><SCENE 5><42%>
+	</STAGE DIR> These things shall be done, sir.
+<SPEECH 71><ACT 2><SCENE 5><42%>
+	Sir?
+<SPEECH 72><ACT 2><SCENE 5><42%>
+	She is.
+<SPEECH 73><ACT 2><SCENE 5><42%>
+	As you'll have her.
+<SPEECH 74><ACT 2><SCENE 5><42%>
+	I know not how I have deserved to run into my lord's displeasure.
+<SPEECH 75><ACT 2><SCENE 5><43%>
+	An idle lord, I swear.
+<SPEECH 76><ACT 2><SCENE 5><43%>
+	Why, do you not know him?
+<SPEECH 77><ACT 2><SCENE 5><45%>
+	Bravely, coragio!
+<SPEECH 78><ACT 3><SCENE 5><55%>
+	Lose our drum! well.
+<SPEECH 79><ACT 3><SCENE 6><57%>
+	'But a drum!' Is't 'but a drum?' A drum so lost! There was excellent command, to charge in with our horse upon our own wings, and to rend our own soldiers!
+<SPEECH 80><ACT 3><SCENE 6><58%>
+	It might have been recovered.
+<SPEECH 81><ACT 3><SCENE 6><58%>
+	It is to be recovered. But that the merit of service is seldom attributed to the true and exact performer, I would have that drum or another, or hic jacet.
+<SPEECH 82><ACT 3><SCENE 6><58%>
+	By the hand of a soldier, I will undertake it.
+<SPEECH 83><ACT 3><SCENE 6><58%>
+	I'll about it this evening: and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation, and by midnight look to hear further from me.
+<SPEECH 84><ACT 3><SCENE 6><59%>
+	I know not what the success will be, my lord; but the attempt I vow.
+<SPEECH 85><ACT 3><SCENE 6><59%>
+	I love not many words.
+<SPEECH 86><ACT 4><SCENE 1><63%>
+	Ten o'clock: within these three hours 'twill be time enough to go home. What shall I say I have done? It must be a very plausive invention that carries it. They begin to smoke me, and disgraces have of late knocked too often at my door. I find my tongue is too foolhardy; but my heart hath the fear of Mars before it and of his creatures, not daring the reports of my tongue.
+<SPEECH 87><ACT 4><SCENE 1><63%>
+	What the devil should move me to undertake the recovery of this drum, being not ignorant of the impossibility, and knowing I had no such purpose? I must give myself some hurts and say I got them in exploit. Yet slight ones will not carry it: they will say, 'Came you off with so little?' and great ones I dare not give. Wherefore, what's the instance? Tongue, I must put you into a butter-woman's mouth, and buy myself another of Bajazet's mute, if you prattle me into these perils.
+<SPEECH 88><ACT 4><SCENE 1><63%>
+	I would the cutting of my garments would serve the turn or the breaking of my Spanish sword.
+<SPEECH 89><ACT 4><SCENE 1><63%>
+	Or the baring of my beard, and to say it was in stratagem.
+<SPEECH 90><ACT 4><SCENE 1><63%>
+	Or to drown my clothes, and say I was stripped.
+<SPEECH 91><ACT 4><SCENE 1><64%>
+	Though I swore I leaped from the window of the citadel—
+<SPEECH 92><ACT 4><SCENE 1><64%>
+	Thirty fathom.
+<SPEECH 93><ACT 4><SCENE 1><64%>
+	I would I had any drum of the enemy's:
+	I would swear I recovered it.
+<SPEECH 94><ACT 4><SCENE 1><64%>
+	A drum now of the enemy's!
+<SPEECH 95><ACT 4><SCENE 1><64%>
+	O! ransom, ransom! Do not hide mine eyes.
+<SPEECH 96><ACT 4><SCENE 1><64%>
+	I know you are the Muskos' regiment;
+	And I shall lose my life for want of language.
+	If there be here German, or Dane, low Dutch,
+	Italian, or French, let him speak to me:
+	I will discover that which shall undo
+	The Florentine.
+<SPEECH 97><ACT 4><SCENE 1><64%>
+	O!
+<SPEECH 98><ACT 4><SCENE 1><65%>
+	O! let me live,
+	And all the secrets of our camp I'll show,
+	Their force, their purposes; nay, I'll speak that
+	Which you will wonder at.
+<SPEECH 99><ACT 4><SCENE 1><65%>
+	If I do not, damn me.
+<SPEECH 100><ACT 4><SCENE 3><72%>
+	I will confess what I know without constraint: if ye pinch me like a pasty, I can say no more.
+<SPEECH 101><ACT 4><SCENE 3><72%>
+	And truly, as I hope to live.
+<SPEECH 102><ACT 4><SCENE 3><72%>
+	Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live.
+<SPEECH 103><ACT 4><SCENE 3><73%>
+	Do: I'll take the sacrament on't, how and which way you will.
+<SPEECH 104><ACT 4><SCENE 3><73%>
+	Five or six thousand horse, I said,—I will say true,—or thereabouts, set down, for I'll speak truth.
+<SPEECH 105><ACT 4><SCENE 3><73%>
+	Poor rogues, I pray you, say.
+<SPEECH 106><ACT 4><SCENE 3><73%>
+	I humbly thank you, sir. A truth's a truth; the rogues are marvellous poor.
+<SPEECH 107><ACT 4><SCENE 3><73%>
+	By my troth, sir, if I were to live this present hour, I will tell true. Let me see: Spurio, a hundred and fifty; Sebastian, so many; Corambus, so many; Jaques, so many; Guiltian, Cosmo, Lodowick, and Gratii, two hundred fifty each; mine own company, Chitopher, Vaumond, Bentii, two hundred fifty each: so that the muster-file, rotten and sound, upon my life, amounts not to fifteen thousand poll; half of the which dare not shake the snow from off their cassocks, lest they shake themselves to pieces.
+<SPEECH 108><ACT 4><SCENE 3><74%>
+	I beseech you, let me answer to the particular of the inter'gatories: demand them singly.
+<SPEECH 109><ACT 4><SCENE 3><74%>
+	I know him: a' was a botcher's 'prentice in Paris, from whence he was whipped for getting the shrieve's fool with child; a dumb innocent, that could not say him nay.
+<SPEECH 110><ACT 4><SCENE 3><74%>
+	Upon my knowledge he is, and lousy.
+<SPEECH 111><ACT 4><SCENE 3><75%>
+	The duke knows him for no other but a poor officer of mine, and writ to me this other day to turn him out o' the band: I think I have his letter in my pocket.
+<SPEECH 112><ACT 4><SCENE 3><75%>
+	In good sadness, I do not know: either it is there, or it is upon a file with the duke's other letters in my tent.
+<SPEECH 113><ACT 4><SCENE 3><75%>
+	I do not know if it be it or no.
+<SPEECH 114><ACT 4><SCENE 3><75%>
+	That is not the duke's letter, sir; that is an advertisement to a proper maid in Florence, one Diana, to take heed of the allurement of one Count Rousillon, a foolish idle boy, but for all that very ruttish. I pray you, sir, put it up again.
+<SPEECH 115><ACT 4><SCENE 3><75%>
+	My meaning in't, I protest, was very honest in the behalf of the maid; for I knew the young count to be a dangerous and lascivious boy, who is a whale to virginity, and devours up all the fry it finds.
+<SPEECH 116><ACT 4><SCENE 3><76%>
+<SPEECH 117><ACT 4><SCENE 3><76%>
+	My life, sir, in any case! not that I am afraid to die; but that, my offences being many, I would repent out the remainder of nature. Let me live, sir, in a dungeon, i' the stocks, or anywhere, so I may live.
+<SPEECH 118><ACT 4><SCENE 3><76%>
+	He will steal, sir, an egg out of a cloister; for rapes and ravishments he parallels Nessus; he professes not keeping of oaths; in breaking 'em he is stronger than Hercules; he will lie, sir, with such volubility, that you would think truth were a fool; drunkenness is his best virtue, for he will be swine-drunk, and in his sleep he does little harm, save to his bed-clothes about him; but they know his conditions, and lay him in straw. I have but little more to say, sir, of his honesty: he has everything that an honest man should not have; what an honest man should have, he has nothing.
+<SPEECH 119><ACT 4><SCENE 3><77%>
+	Faith, sir, he has led the drum before the English tragedians,—to belie him I will not,—and more of his soldiership I know not; except, in that country, he had the honour to be the officer at a place there called Mile-end, to instruct for the doubling of files: I would do the man what honour I can, but of this I am not certain.
+<SPEECH 120><ACT 4><SCENE 3><77%>
+	Sir, for a cardecu he will sell the fee-simple of his salvation, the inheritance of it; and cut the entail from all remainders, and a perpetual succession for it perpetually.
+<SPEECH 121><ACT 4><SCENE 3><77%>
+	E'en a crow o' the same nest; not altogether so great as the first in goodness, but greater a great deal in evil. He excels his brother for a coward, yet his brother is reputed one of the best that is. In a retreat he out-runs any lackey; marry, in coming on he has the cramp.
+<SPEECH 122><ACT 4><SCENE 3><78%>
+	Ay, and the captain of his horse, Count Rousillon.
+<SPEECH 123><ACT 4><SCENE 3><78%>
+	</STAGE DIR> I'll no more drumming; a plague of all drums! Only to seem to deserve well, and to beguile the supposition of that lascivious young boy the count, have I run into this danger. Yet who would have suspected an ambush where I was taken?
+<SPEECH 124><ACT 4><SCENE 3><78%>
+	O Lord, sir, let me live, or let me see my death!
+<SPEECH 125><ACT 4><SCENE 3><79%>
+	Who cannot be crushed with a plot?
+<SPEECH 126><ACT 4><SCENE 3><79%>
+	Yet am I thankful: if my heart were great
+	'Twould burst at this. Captain I'll be no more;
+	But I will eat and drink, and sleep as soft
+	As captain shall: simply the thing I am
+	Shall make me live. Who knows himself a braggart,
+	Let him fear this; for it will come to pass
+	That every braggart shall be found an ass.
+	Rust, sword! cool, blushes! and Parolles, live
+	Safest in shame! being fool'd, by foolery thrive!
+	There's place and means for every man alive.
+	I'll after them.
+<SPEECH 127><ACT 5><SCENE 2><86%>
+	Good Monsieur Lavache, give my Lord Lafeu this letter. I have ere now, sir, been better known to you, when I have held familiarity with fresher clothes; but I am now, sir, muddied in Fortune's mood, and smell somewhat strong of her strong displeasure.
+<SPEECH 128><ACT 5><SCENE 2><86%>
+	Nay, you need not to stop your nose, sir: I spake but by a metaphor.
+<SPEECH 129><ACT 5><SCENE 2><86%>
+	Pray you, sir, deliver me this paper.
+<SPEECH 130><ACT 5><SCENE 2><87%>
+	My lord, I am a man whom Fortune hath cruelly scratched.
+<SPEECH 131><ACT 5><SCENE 2><87%>
+	I beseech your honour to hear me one single word.
+<SPEECH 132><ACT 5><SCENE 2><87%>
+	My name, my good lord, is Parolles.
+<SPEECH 133><ACT 5><SCENE 2><87%>
+	O, my good lord! you were the first that found me.
+<SPEECH 134><ACT 5><SCENE 2><87%>
+	It lies in you, my lord, to bring me in some grace, for you did bring me out.
+<SPEECH 135><ACT 5><SCENE 2><88%>
+	I praise God for you.
+<SPEECH 136><ACT 5><SCENE 3><96%>
+	So please your majesty, my master hath been an honourable gentleman: tricks he hath had in him, which gentlemen have.
+<SPEECH 137><ACT 5><SCENE 3><96%>
+	Faith, sir, he did love her; but how?
+<SPEECH 138><ACT 5><SCENE 3><96%>
+	He did love her, sir, as a gentleman loves a woman.
+<SPEECH 139><ACT 5><SCENE 3><97%>
+	He loved her, sir, and loved her not.
+<SPEECH 140><ACT 5><SCENE 3><97%>
+	I am a poor man, and at your majesty's command.
+<SPEECH 141><ACT 5><SCENE 3><97%>
+	Faith, I know more than I'll speak.
+<SPEECH 142><ACT 5><SCENE 3><97%>
+	Yes, so please your majesty. I did go between them, as I said; but more than that, he loved her, for, indeed, he was mad for her, and talked of Satan, and of limbo, and of Furies, and I know not what: yet I was in that credit with them at that time, that I knew of their going to bed, and of other motions, as promising her marriage, and things which would derive me ill will to speak of: therefore I will not speak what I know.

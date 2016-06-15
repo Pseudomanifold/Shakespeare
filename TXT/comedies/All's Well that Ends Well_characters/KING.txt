@@ -1,0 +1,460 @@
+<SPEECH 1><ACT 1><SCENE 2><8%>
+	The Florentines and Senoys are by the ears;
+	Have fought with equal fortune, and continue
+	A braving war.
+<SPEECH 2><ACT 1><SCENE 2><8%>
+	Nay, 'tis most credible: we here receive it
+	A certainty, vouch'd from our cousin Austria,
+	With caution that the Florentine will move us
+	For speedy aid; wherein our dearest friend
+	Prejudicates the business, and would seem
+	To have us make denial.
+<SPEECH 3><ACT 1><SCENE 2><9%>
+	He hath arm'd our answer,
+	And Florence is denied before he comes:
+	Yet, for our gentlemen that mean to see
+	The Tuscan service, freely have they leave
+	To stand on either part.
+<SPEECH 4><ACT 1><SCENE 2><9%>
+	What's he comes here?
+<SPEECH 5><ACT 1><SCENE 2><9%>
+	Youth, thou bear'st thy father's face;
+	Frank nature, rather curious than in haste,
+	Hath well compos'd thee. Thy father's moral parts
+	Mayst thou inherit too! Welcome to Paris.
+<SPEECH 6><ACT 1><SCENE 2><9%>
+	I would I had that corporal soundness now,
+	As when thy father and myself in friendship
+	First tried our soldiership! He did look far
+	Into the service of the time and was
+	Discipled of the bravest: he lasted long;
+	But on us both did haggish age steal on,
+	And wore us out of act. It much repairs me
+	To talk of your good father. In his youth
+	He had the wit which I can well observe
+	To-day in our young lords; but they may jest
+	Till their own scorn return to them unnoted
+	Ere they can hide their levity in honour.
+	So like a courtier, contempt nor bitterness
+	Were in his pride or sharpness; if they were,
+	His equal had awak'd them; and his honour,
+	Clock to itself, knew the true minute when
+	Exception bid him speak, and at this time
+	His tongue obey'd his hand: who were below him
+	He us'd as creatures of another place,
+	And bow'd his eminent top to their low ranks,
+	Making them proud of his humility,
+	In their poor praise he humbled. Such a man
+	Might be a copy to these younger times,
+	Which, follow'd well, would demonstrate them now
+	But goers backward.
+<SPEECH 7><ACT 1><SCENE 2><10%>
+	Would I were with him! He would always say,—
+	Methinks I hear him now: his plausive words
+	He scatter'd not in ears, but grafted them,
+	To grow there and to bear. 'Let me not live,'—
+	Thus his good melancholy oft began,
+	On the catastrophe and heel of pastime,
+	When it was out,—'Let me not live,' quoth he,
+	'After my flame lacks oil, to be the snuff
+	Of younger spirits, whose apprehensive senses
+	All but new things disdain; whose judgments are
+	Mere fathers of their garments; whose constancies
+	Expire before their fashions.' This he wish'd:
+	I, after him, do after him wish too,
+	Since I nor wax nor honey can bring home,
+	I quickly were dissolved from my hive,
+	To give some labourers room.
+<SPEECH 8><ACT 1><SCENE 2><10%>
+	I fill a place, I know't. How long is't, count,
+	Since the physician at your father's died?
+	He was much fam'd.
+<SPEECH 9><ACT 1><SCENE 2><11%>
+	If he were living, I would try him yet:
+	Lend me an arm: the rest have worn me out
+	With several applications: nature and sickness
+	Debate it at their leisure. Welcome, count;
+	My son's no dearer.
+<SPEECH 10><ACT 2><SCENE 1><19%>
+	Farewell, young lords: these war-like principles
+	Do not throw from you: and you, my lords, farewell:
+	Share the advice betwixt you; if both gain, all
+	The gift doth stretch itself as 'tis receiv'd,
+	And is enough for both.
+<SPEECH 11><ACT 2><SCENE 1><20%>
+	No, no, it cannot be; and yet my heart
+	Will not confess he owes the malady
+	That doth my life besiege. Farewell, young lords;
+	Whether I live or die, be you the sons
+	Of worthy Frenchmen: let higher Italy—
+	Those bated that inherit but the fall
+	Of the last monarchy—see that you come
+	Not to woo honour, but to wed it; when
+	The bravest questant shrinks, find what you seek
+	That fame may cry you loud: I say, farewell.
+<SPEECH 12><ACT 2><SCENE 1><20%>
+	Those girls of Italy, take heed of them:
+	They say, our French lack language to deny
+	If they demand: beware of being captives,
+	Before you serve.
+<SPEECH 13><ACT 2><SCENE 1><20%>
+	Farewell. Come hither to me.
+<SPEECH 14><ACT 2><SCENE 1><22%>
+	I'll fee thee to stand up.
+<SPEECH 15><ACT 2><SCENE 1><22%>
+	I would I had; so I had broke thy pate,
+	And ask'd thee mercy for't.
+<SPEECH 16><ACT 2><SCENE 1><22%>
+	No.
+<SPEECH 17><ACT 2><SCENE 1><22%>
+	What 'her' is this?
+<SPEECH 18><ACT 2><SCENE 1><23%>
+	Now, good Lafeu,
+	Bring in the admiration, that we with thee
+	May spend our wonder too, or take off thine
+	By wond'ring how thou took'st it.
+<SPEECH 19><ACT 2><SCENE 1><23%>
+	Thus he his special nothing ever prologues.
+<SPEECH 20><ACT 2><SCENE 1><23%>
+	This haste hath wings indeed.
+<SPEECH 21><ACT 2><SCENE 1><23%>
+	Now, fair one, does your business follow us?
+<SPEECH 22><ACT 2><SCENE 1><23%>
+	I knew him.
+<SPEECH 23><ACT 2><SCENE 1><24%>
+	We thank you, maiden;
+	But may not be so credulous of cure,
+	When our most learned doctors leave us, and
+	The congregated college have concluded
+	That labouring art can never ransom nature
+	From her inaidable estate; I say we must not
+	So stain our judgment, or corrupt our hope,
+	To prostitute our past-cure malady
+	To empirics, or to dissever so
+	Our great self and our credit, to esteem
+	A senseless help when help past sense we deem.
+<SPEECH 24><ACT 2><SCENE 1><24%>
+	I cannot give thee less, to be call'd grateful.
+	Thou thought'st to help me, and such thanks I give
+	As one near death to those that wish him live;
+	But what at full I know, thou know'st no part,
+	I knowing all my peril, thou no art.
+<SPEECH 25><ACT 2><SCENE 1><25%>
+	I must not hear thee: fare thee well, kind maid.
+	Thy pains, not us'd, must by thyself be paid:
+	Proffers not took reap thanks for their reward.
+<SPEECH 26><ACT 2><SCENE 1><25%>
+	Art thou so confident? Within what space
+	Hop'st thou my cure?
+<SPEECH 27><ACT 2><SCENE 1><25%>
+	Upon thy certainty and confidence
+	What dar'st thou venture?
+<SPEECH 28><ACT 2><SCENE 1><26%>
+	Methinks in thee some blessed spirit doth speak,
+	His powerful sound within an organ weak;
+	And what impossibility would slay
+	In common sense, sense saves another way.
+	Thy life is dear; for all that life can rate
+	Worth name of life in thee hath estimate;
+	Youth, beauty, wisdom, courage, virtue, all
+	That happiness and prime can happy call:
+	Thou this to hazard needs must intimate
+	Skill infinite or monstrous desperate.
+	Sweet practiser, thy physic I will try,
+	That ministers thine own death if I die.
+<SPEECH 29><ACT 2><SCENE 1><26%>
+	Make thy demand.
+<SPEECH 30><ACT 2><SCENE 1><26%>
+	Ay, by my sceptre, and my hopes of heaven.
+<SPEECH 31><ACT 2><SCENE 1><26%>
+	Here is my hand; the premises observ'd,
+	Thy will by my performance shall be serv'd:
+	So make the choice of thy own time, for I,
+	Thy resolv'd patient, on thee still rely.
+	More should I question thee, and more I must,
+	Though more to know could not be more to trust,
+	From whence thou cam'st, how tended on; but rest
+	Unquestion'd welcome and undoubted blest.
+	Give me some help here, ho! If thou proceed
+	As high as word, my deed shall match thy deed.
+<SPEECH 32><ACT 2><SCENE 3><31%>
+	Go, call before me all the lords in court.
+	Sit, my preserver, by thy patient's side:
+	And with this healthful hand, whose banish'd sense
+	Thou hast repeal'd, a second time receive
+	The confirmation of my promised gift,
+	Which but attends thy naming.
+	Fair maid, send forth thine eye: this youthful parcel
+	Of noble bachelors stand at my bestowing,
+	O'er whom both sov'reign power and father's voice
+	I have to use: thy frank election make;
+	Thou hast power to choose, and they none to forsake.
+<SPEECH 33><ACT 2><SCENE 3><31%>
+	Peruse them well:
+	Not one of those but had a noble father.
+<SPEECH 34><ACT 2><SCENE 3><32%>
+	Make choice; and see,
+	Who shuns thy love, shuns all his love in me.
+<SPEECH 35><ACT 2><SCENE 3><33%>
+	Why then, young Bertram, take her; she's thy wife.
+<SPEECH 36><ACT 2><SCENE 3><33%>
+	Know'st thou not, Bertram,
+	What she has done for me?
+<SPEECH 37><ACT 2><SCENE 3><33%>
+	Thou know'st she has rais'd me from my sickly bed.
+<SPEECH 38><ACT 2><SCENE 3><33%>
+	'Tis only title thou disdain'st in her, the which
+	I can build up. Strange is it that our bloods,
+	Of colour, weight, and heat, pour'd all together,
+	Would quite confound distinction, yet stand off
+	In differences so mighty. If she be
+	All that is virtuous, save what thou dislik'st,
+	A poor physician's daughter, thou dislik'st
+	Of virtue for the name; but do not so:
+	From lowest place when virtuous things proceed,
+	The place is dignified by the doer's deed:
+	Where great additions swell's, and virtue none,
+	It is a dropsied honour. Good alone
+	Is good without a name: vileness is so:
+	The property by what it is should go,
+	Not by the title. She is young, wise, fair;
+	In these to nature she's immediate heir,
+	And these breed honour: that is honour's scorn
+	Which challenges itself as honour's born,
+	And is not like the sire: honours thrive
+	When rather from our acts we them derive
+	Than our foregoers. The mere word's a slave,
+	Debosh'd on every tomb, on every grave
+	A lying trophy, and as oft is dumb
+	Where dust and damn'd oblivion is the tomb
+	Of honour'd bones indeed. What should be said?
+	If thou canst like this creature as a maid,
+	I can create the rest: virtue and she
+	Is her own dower; honour and wealth from me.
+<SPEECH 39><ACT 2><SCENE 3><34%>
+	Thou wrong'st thyself if thou shouldst strive to choose.
+<SPEECH 40><ACT 2><SCENE 3><34%>
+	My honour's at the stake, which to defeat
+	I must produce my power. Here, take her hand,
+	Proud scornful boy, unworthy this good gift,
+	That dost in vile misprision shackle up
+	My love and her desert; thou canst not dream
+	We, poising us in her defective scale,
+	Shall weigh thee to the beam; that wilt not know,
+	It is in us to plant thine honour where
+	We please to have it grow. Check thy contempt:
+	Obey our will, which travails in thy good:
+	Believe not thy disdain, but presently
+	Do thine own fortunes that obedient right
+	Which both thy duty owes and our power claims;
+	Or I will throw thee from my care for ever
+	Into the staggers and the careless lapse
+	Of youth and ignorance; both my revenge and hate
+	Loosing upon thee, in the name of justice,
+	Without all terms of pity. Speak; thine answer.
+<SPEECH 41><ACT 2><SCENE 3><35%>
+	Take her by the hand,
+	And tell her she is thine: to whom I promise
+	A counterpoise, if not to thy estate
+	A balance more replete.
+<SPEECH 42><ACT 2><SCENE 3><35%>
+	Good fortune and the favour of the king
+	Smile upon this contract; whose ceremony
+	Shall seem expedient on the now-born brief,
+	And be perform'd to-night: the solemn feast
+	Shall more attend upon the coming space,
+	Expecting absent friends. As thou lov'st her,
+	Thy love's to me religious; else, does err.
+<SPEECH 43><ACT 5><SCENE 3><88%>
+	We lost a jewel of her, and our esteem
+	Was made much poorer by it: but your son,
+	As mad in folly, lack'd the sense to know
+	Her estimation home.
+<SPEECH 44><ACT 5><SCENE 3><88%>
+	My honour'd lady,
+	I have forgiven and forgotten all,
+	Though my revenges were high bent upon him,
+	And watch'd the time to shoot.
+<SPEECH 45><ACT 5><SCENE 3><88%>
+	Praising what is lost
+	Makes the remembrance dear. Well, call him hither;
+	We are reconcil'd, and the first view shall kill
+	All repetition. Let him not ask our pardon:
+	The nature of his great offence is dead,
+	And deeper than oblivion we do bury
+	The incensing relics of it: let him approach,
+	A stranger, no offender; and inform him
+	So 'tis our will he should.
+<SPEECH 46><ACT 5><SCENE 3><89%>
+	What says he to your daughter? have you spoke?
+<SPEECH 47><ACT 5><SCENE 3><89%>
+	Then shall we have a match. I have letters sent me,
+	That set him high in fame.
+<SPEECH 48><ACT 5><SCENE 3><89%>
+	I am not a day of season,
+	For thou mayst see a sunshine and a hail
+	In me at once; but to the brightest beams
+	Distracted clouds give way: so stand thou forth;
+	The time is fair again.
+<SPEECH 49><ACT 5><SCENE 3><89%>
+	All is whole;
+	Not one word more of the consumed time.
+	Let's take the instant by the forward top,
+	For we are old, and on our quick'st decrees
+	The inaudible and noiseless foot of time
+	Steals ere we can effect them. You remember
+	The daughter of this lord?
+<SPEECH 50><ACT 5><SCENE 3><90%>
+	Well excus'd:
+	That thou didst love her, strikes some scores away
+	From the great compt. But love that comes too late,
+	Like a remorseful pardon slowly carried,
+	To the great sender turns a sour offence,
+	Crying, 'That's good that's gone.' Our rasher faults
+	Make trivial price of serious things we have,
+	Not knowing them until we know their grave:
+	Oft our displeasures, to ourselves unjust,
+	Destroy our friends and after weep their dust:
+	Our own love waking cries to see what's done,
+	While shameful hate sleeps out the afternoon.
+	Be this sweet Helen's knell, and now forget her.
+	Send forth your amorous token for fair Maudlin:
+	The main consents are had; and here we'll stay
+	To see our widower's second marriage-day.
+<SPEECH 51><ACT 5><SCENE 3><91%>
+	Now, pray you, let me see it; for mine eye,
+	While I was speaking, oft was fasten'd to't.—
+	This ring was mine; and, when I gave it Helen,
+	I bade her, if her fortunes ever stood
+	Necessitied to help, that by this token
+	I would relieve her. Had you that craft to reave her
+	Of what should stead her most?
+<SPEECH 52><ACT 5><SCENE 3><91%>
+	Plutus himself,
+	That knows the tinct and multiplying medicine,
+	Hath not in nature's mystery more science
+	Than I have in this ring: 'twas mine, 'twas Helen's,
+	Whoever gave it you. Then, if you know
+	That you are well acquainted with yourself,
+	Confess 'twas hers, and by what rough enforcement
+	You got it from her. She call'd the saints to surety,
+	That she would never put it from her finger
+	Unless she gave it to yourself in bed,
+	Where you have never come, or sent it us
+	Upon her great disaster.
+<SPEECH 53><ACT 5><SCENE 3><92%>
+	Thou speak'st it falsely, as I love mine honour;
+	And mak'st conjectural fears to come into me
+	Which I would fain shut out. If it should prove
+	That thou art so inhuman,—'twill not prove so;—
+	And yet I know not: thou didst hate her deadly,
+	And she is dead; which nothing, but to close
+	Her eyes myself, could win me to believe,
+	More than to see this ring. Take him away.
+	My fore-past proofs, howe'er the matter fall,
+	Shall tax my fears of little vanity,
+	Having vainly fear'd too little. Away with him!
+	We'll sift this matter further.
+<SPEECH 54><ACT 5><SCENE 3><92%>
+	I am wrapp'd in dismal thinkings.
+<SPEECH 55><ACT 5><SCENE 3><93%>
+	"Upon his many protestations to marry me when his wife was dead, I blush to say it, he won me. Now is the Count Rousillon a widower: his vows are forfeited to me, and my honour's paid to him. He stole from Florence, taking no leave, and I follow him to his country for justice. Grant it me, O king! in you it best lies; otherwise a seducer flourishes, and a poor maid is undone. DIANA CAPILET."
+<SPEECH 56><ACT 5><SCENE 3><93%>
+	The heavens have thought well on thee, Lafeu,
+	To bring forth this discovery. Seek these suitors:
+	Go speedily and bring again the count.
+	I am afeard the life of Helen, lady,
+	Was foully snatch'd.
+<SPEECH 57><ACT 5><SCENE 3><93%>
+	I wonder, sir, sith wives are monsters to you,
+	And that you fly them as you swear them lordship,
+	Yet you desire to marry.
+	What woman's that?
+<SPEECH 58><ACT 5><SCENE 3><94%>
+	Come hither, county; do you know these women?
+<SPEECH 59><ACT 5><SCENE 3><94%>
+	Sir, for my thoughts, you have them ill to friend,
+	Till your deeds gain them: fairer prove your honour,
+	Than in my thought it lies.
+<SPEECH 60><ACT 5><SCENE 3><94%>
+	What sayst thou to her?
+<SPEECH 61><ACT 5><SCENE 3><95%>
+	Methought you said
+	You saw one here in court could witness it.
+<SPEECH 62><ACT 5><SCENE 3><95%>
+	Find him, and bring him hither.
+<SPEECH 63><ACT 5><SCENE 3><95%>
+	She hath that ring of yours.
+<SPEECH 64><ACT 5><SCENE 3><96%>
+	What ring was yours, I pray you?
+<SPEECH 65><ACT 5><SCENE 3><96%>
+	Know you this ring? this ring was his of late.
+<SPEECH 66><ACT 5><SCENE 3><96%>
+	The story then goes false you threw it him
+	Out of a casement.
+<SPEECH 67><ACT 5><SCENE 3><96%>
+	You boggle shrewdly, every feather starts you.
+	Is this the man you speak of?
+<SPEECH 68><ACT 5><SCENE 3><96%>
+	Tell me, sirrah, but tell me true, I charge you,
+	Not fearing the displeasure of your master,—
+	Which, on your just proceeding I'll keep off,—
+	By him and by this woman here what know you?
+<SPEECH 69><ACT 5><SCENE 3><96%>
+	Come, come, to the purpose: did he love this woman?
+<SPEECH 70><ACT 5><SCENE 3><96%>
+	How, I pray you?
+<SPEECH 71><ACT 5><SCENE 3><97%>
+	How is that?
+<SPEECH 72><ACT 5><SCENE 3><97%>
+	As thou art a knave, and no knave.
+	What an equivocal companion is this!
+<SPEECH 73><ACT 5><SCENE 3><97%>
+	But wilt thou not speak all thou knowest?
+<SPEECH 74><ACT 5><SCENE 3><97%>
+	Thou hast spoken all already, unless thou canst say they are married: but thou art too fine in thy evidence; therefore stand aside. This ring, you say, was yours?
+<SPEECH 75><ACT 5><SCENE 3><97%>
+	Where did you buy it? or who gave it you?
+<SPEECH 76><ACT 5><SCENE 3><97%>
+	Who lent it you?
+<SPEECH 77><ACT 5><SCENE 3><97%>
+	Where did you find it, then?
+<SPEECH 78><ACT 5><SCENE 3><97%>
+	If it were yours by none of all these ways,
+	How could you give it him?
+<SPEECH 79><ACT 5><SCENE 3><98%>
+	This ring was mine: I gave it his first wife.
+<SPEECH 80><ACT 5><SCENE 3><98%>
+	Take her away; I do not like her now.
+	To prison with her; and away with him.
+	Unless thou tell'st me where thou hadst this ring
+	Thou diest within this hour.
+<SPEECH 81><ACT 5><SCENE 3><98%>
+	Take her away.
+<SPEECH 82><ACT 5><SCENE 3><98%>
+	I think thee now some common customer.
+<SPEECH 83><ACT 5><SCENE 3><98%>
+	Wherefore hast thou accus'd him all this while?
+<SPEECH 84><ACT 5><SCENE 3><98%>
+	She does abuse our ears: to prison with her!
+<SPEECH 85><ACT 5><SCENE 3><99%>
+	Is there no exorcist
+	Beguiles the truer office of mine eyes?
+	Is't real that I see?
+<SPEECH 86><ACT 5><SCENE 3><99%>
+	Let us from point to point this story know,
+	To make the even truth in pleasure flow.
+	</STAGE DIR> If thou be'st yet a fresh uncropped flower,
+	Choose thou thy husband, and I'll pay thy dower;
+	For I can guess that by thy honest aid
+	Thou keptst a wife herself, thyself a maid.
+	Of that, and all the progress, more and less,
+	Resolvedly more leisure shall express:
+	All yet seems well; and if it end so meet,
+	The bitter past, more welcome is the sweet.
+	Spoken by the <KING.>The king's a beggar, now the play is done:
+	All is well ended if this suit be won
+	That you express content; which we will pay,
+	With strife to please you, day exceeding day:
+	Ours be your patience then, and yours our parts;
+	Your gentle hands lend us, and take our hearts.

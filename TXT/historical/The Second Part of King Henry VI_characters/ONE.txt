@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+	A miracle! a miracle!
+<SPEECH 2><ACT 2><SCENE 1><24%>
+	Forsooth, a blind man at Saint Alban's shrine,
+	Within this half hour hath receiv'd his sight;
+	A man that ne'er saw in his life before.

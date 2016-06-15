@@ -1,0 +1,112 @@
+<SPEECH 1><ACT 2><SCENE 4><27%>
+	My most redoubted father,
+	It is most meet we arm us 'gainst the foe;
+	For peace itself should not so dull a kingdom,—
+	Though war nor no known quarrel were in question,—
+	But that defences, musters, preparations,
+	Should be maintain'd, assembled, and collected,
+	As were a war in expectation.
+	Therefore, I say 'tis meet we all go forth
+	To view the sick and feeble parts of France:
+	And let us do it with no show of fear;
+	No, with no more than if we heard that England
+	Were busied with a Whitsun morris-dance:
+	For, my good liege, she is so idly king'd,
+	Her sceptre so fantastically borne
+	By a vain, giddy, shallow, humorous youth,
+	That fear attends her not.
+<SPEECH 2><ACT 2><SCENE 4><27%>
+	Well, 'tis not so, my lord high constable;
+	But though we think it so, it is no matter:
+	In cases of defence 'tis best to weigh
+	The enemy more mighty than he seems:
+	So the proportions of defence are fill'd;
+	Which of a weak and niggardly projection
+	Doth like a miser spoil his coat with scanting
+	A little cloth.
+<SPEECH 3><ACT 2><SCENE 4><28%>
+	Turn head, and stop pursuit; for coward dogs
+	Most spend their mouths when what they seem to threaten
+	Runs far before them. Good my sovereign,
+	Take up the English short, and let them know
+	Of what a monarchy you are the head:
+	Self-love, my liege, is not so vile a sin
+	As self-neglecting.
+<SPEECH 4><ACT 2><SCENE 4><30%>
+	For the Dauphin,
+	I stand here for him: what to him from England?
+<SPEECH 5><ACT 2><SCENE 4><30%>
+	Say, if my father render fair return,
+	It is against my will; for I desire
+	Nothing but odds with England: to that end,
+	As matching to his youth and vanity,
+	I did present him with the Paris balls.
+<SPEECH 6><ACT 3><SCENE 5><41%>
+	O Dieu vivant! shall a few sprays of us,
+	The emptying of our fathers' luxury,
+	Our scions, put in wild and savage stock,
+	Spirt up so suddenly into the clouds,
+	And overlook their grafters?
+<SPEECH 7><ACT 3><SCENE 5><42%>
+	By faith and honour,
+	Our madams mock at us, and plainly say
+	Our mettle is bred out; and they will give
+	Their bodies to the lust of English youth
+	To new-store France with bastard warriors.
+<SPEECH 8><ACT 3><SCENE 5><43%>
+	Not so, I do beseech your majesty.
+<SPEECH 9><ACT 3><SCENE 7><48%>
+	My Lord of Orleans, and my lord high constable, you talk of horse and armour—
+<SPEECH 10><ACT 3><SCENE 7><49%>
+	What a long night is this! I will not change my horse with any that treads but on four pasterns. Ça, ha! He bounds from the earth as if his entrails were hairs: le cheval volant, the Pegasus, qui a les narines de feu! When I bestride him, I soar, I am a hawk: he trots the air; the earth sings when he touches it; the basest horn of his hoof is more musical than the pipe of Hermes.
+<SPEECH 11><ACT 3><SCENE 7><49%>
+	And of the heat of the ginger. It is a beast for Perseus: he is pure air and fire; and the dull elements of earth and water never appear in him but only in patient stillness while his rider mounts him: he is indeed a horse; and all other jades you may call beasts.
+<SPEECH 12><ACT 3><SCENE 7><49%>
+	It is the prince of palfreys; his neigh is like the bidding of a monarch and his countenance enforces homage.
+<SPEECH 13><ACT 3><SCENE 7><49%>
+	Nay, the man hath no wit that cannot, from the rising of the lark to the lodging of the lamb, vary deserved praise on my palfrey: it is a theme as fluent as the sea; turn the sands into eloquent tongues, and my horse is argument for them all. 'Tis a subject for a sovereign to reason on, and for a sovereign's sovereign to ride on; and for the world—familiar to us, and unknown—to lay apart their particular functions and wonder at him. I once writ a sonnet in his praise and began thus: 'Wonder of nature!'—
+<SPEECH 14><ACT 3><SCENE 7><49%>
+	Then did they imitate that which I composed to my courser; for my horse is my mistress.
+<SPEECH 15><ACT 3><SCENE 7><50%>
+	Me well; which is the prescript praise and perfection of a good and particular mistress.
+<SPEECH 16><ACT 3><SCENE 7><50%>
+	So perhaps did yours.
+<SPEECH 17><ACT 3><SCENE 7><50%>
+	O! then belike she was old and gentle; and you rode, like a kern of Ireland, your French hose off and in your straight strossers.
+<SPEECH 18><ACT 3><SCENE 7><50%>
+	Be warned by me, then: they that ride so, and ride not warily, fall into foul bogs. I had rather have my horse to my mistress.
+<SPEECH 19><ACT 3><SCENE 7><50%>
+	I tell thee, constable, my mistress wears his own hair.
+<SPEECH 20><ACT 3><SCENE 7><50%>
+	Le chien est retourné à son propre vomissement, et la truie lavée au bourbier: thou makest use of any thing.
+<SPEECH 21><ACT 3><SCENE 7><50%>
+	Some of them will fall to-morrow, I hope.
+<SPEECH 22><ACT 3><SCENE 7><50%>
+	That may be, for you bear a many superfluously, and 'twere more honour some were away.
+<SPEECH 23><ACT 3><SCENE 7><50%>
+	Would I were able to load him with his desert! Will it never be day? I will trot to-morrow a mile, and my way shall be paved with English faces.
+<SPEECH 24><ACT 3><SCENE 7><51%>
+	'Tis midnight: I'll go arm myself.
+<SPEECH 25><ACT 4><SCENE 2><64%>
+	Montez à cheval! My horse! varlet! lacquais! ha!
+<SPEECH 26><ACT 4><SCENE 2><64%>
+	Via! les eaux et la terre!
+<SPEECH 27><ACT 4><SCENE 2><64%>
+	Ciel! cousin Orleans.
+	Now, my lord constable!
+<SPEECH 28><ACT 4><SCENE 2><64%>
+	Mount them, and make incision in their hides,
+	That their hot blood may spin in English eyes,
+	And dout them with superfluous courage: ha!
+<SPEECH 29><ACT 4><SCENE 2><65%>
+	Shall we go send them dinners and fresh suits,
+	And give their fasting horses provender,
+	And after fight with them?
+<SPEECH 30><ACT 4><SCENE 5><72%>
+	Mort de ma vie! all is confounded, all!
+	Reproach and everlasting shame
+	Sit mocking in our plumes. O meschante fortune!
+	Do not run away.
+<SPEECH 31><ACT 4><SCENE 5><72%>
+	O perdurable shame! let's stab ourselves.
+	Be these the wretches that we play'd at dice for?

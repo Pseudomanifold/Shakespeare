@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 2><SCENE 1><28%>
+	Know, Rome, that all alone Marcius did fight
+	Within Corioli gates: where he hath won,
+	With fame, a name to Caius Marcius; these
+	In honour follows Coriolanus.
+	Welcome to Rome, renowned Coriolanus!
+<SPEECH 2><ACT 2><SCENE 1><29%>
+	Give way there, and go on!

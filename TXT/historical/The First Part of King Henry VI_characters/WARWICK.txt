@@ -1,0 +1,95 @@
+<SPEECH 1><ACT 2><SCENE 4><32%>
+	Between two hawks, which flies the higher pitch;
+	Between two dogs, which hath the deeper mouth;
+	Between two blades, which bears the better temper;
+	Between two horses, which doth bear him best;
+	Between two girls, which hath the merriest eye;
+	I have perhaps, some shallow spirit of judgment;
+	But in these nice sharp quillets of the law,
+	Good faith, I am no wiser than a daw.
+<SPEECH 2><ACT 2><SCENE 4><33%>
+	I love no colours, and, without all colour
+	Of base insinuating flattery
+	I pluck this white rose with Plantagenet.
+<SPEECH 3><ACT 2><SCENE 4><35%>
+	Now, by God's will, thou wrong'st him, Somerset:
+	His grandfather was Lionel, Duke of Clarence,
+	Third son to the third Edward, King of England.
+	Spring crestless yeomen from so deep a root?
+<SPEECH 4><ACT 2><SCENE 4><36%>
+	This blot that they object against your house
+	Shall be wip'd out in the next parliament,
+	Call'd for the truce of Winchester and Gloucester;
+	And if thou be not then created York,
+	I will not live to be accounted Warwick.
+	Meantime in signal of my love to thee,
+	Against proud Somerset and William Pole,
+	Will I upon thy party wear this rose.
+	And here I prophesy: this brawl to-day,
+	Grown to this faction in the Temple garden,
+	Shall send between the red rose and the white
+	A thousand souls to death and deadly night.
+<SPEECH 5><ACT 3><SCENE 1><43%>
+	Roam thither then.
+<SPEECH 6><ACT 3><SCENE 1><43%>
+	Ay, see the bishop be not overborne.
+<SPEECH 7><ACT 3><SCENE 1><43%>
+	Methinks his lordship should be humbler;
+	It fitteth not a prelate so to plead.
+<SPEECH 8><ACT 3><SCENE 1><43%>
+	State holy, or unhallow'd, what of that?
+	Is not his Grace protector to the king?
+<SPEECH 9><ACT 3><SCENE 1><43%>
+	An uproar, I dare warrant,
+	Begun through malice of the bishop's men.
+<SPEECH 10><ACT 3><SCENE 1><45%>
+	Yield, my Lord Protector; yield, Winchester;
+	Except you mean with obstinate repulse
+	To slay your sov'reign and destroy the realm.
+	You see what mischief and what murder too
+	Hath been enacted through your enmity:
+	Then be at peace, except ye thirst for blood.
+<SPEECH 11><ACT 3><SCENE 1><45%>
+	Behold, my Lord of Winchester, the duke
+	Hath banish'd moody discontented fury,
+	As by his smoothed brows it doth appear:
+	Why look you still so stern and tragical?
+<SPEECH 12><ACT 3><SCENE 1><46%>
+	Sweet king! the bishop hath a kindly gird.
+	For shame, my Lord of Winchester, relent!
+	What! shall a child instruct you what to do?
+<SPEECH 13><ACT 3><SCENE 1><46%>
+	Accept this scroll, most gracious sovereign,
+	Which in the right of Richard Plantagenet
+	We do exhibit to your majesty.
+<SPEECH 14><ACT 3><SCENE 1><47%>
+	Let Richard be restored to his blood;
+	So shall his father's wrongs be recompens'd.
+<SPEECH 15><ACT 4><SCENE 1><65%>
+	My Lord of York, I promise you, the king Prettily, methought, did play the orator.
+<SPEECH 16><ACT 4><SCENE 1><66%>
+	Tush! that was but his fancy, blame him not;
+	I dare presume, sweet prince, he thought no harm.
+<SPEECH 17><ACT 5><SCENE 4><91%>
+	Graceless! wilt thou deny thy parentage?
+<SPEECH 18><ACT 5><SCENE 4><92%>
+	And hark ye, sirs; because she is a maid,
+	Spare for no fagots, let there be enow:
+	Place barrels of pitch upon the fatal stake,
+	That so her torture may be shortened.
+<SPEECH 19><ACT 5><SCENE 4><93%>
+	The greatest miracle that e'er ye wrought!
+	Is all your strict preciseness come to this?
+<SPEECH 20><ACT 5><SCENE 4><93%>
+	Well, go to; we will have no bastards live;
+	Especially since Charles must father it.
+<SPEECH 21><ACT 5><SCENE 4><93%>
+	A married man: that's most intolerable.
+<SPEECH 22><ACT 5><SCENE 4><93%>
+	It's sign she hath been liberal and free.
+<SPEECH 23><ACT 5><SCENE 4><94%>
+	Be patient, York: if we conclude a peace,
+	It shall be with such strict and severe covenants
+	As little shall the Frenchmen gain thereby.
+<SPEECH 24><ACT 5><SCENE 4><96%>
+	How sayst thou, Charles? shall our condition stand?

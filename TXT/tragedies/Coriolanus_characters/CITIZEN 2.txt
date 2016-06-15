@@ -1,0 +1,40 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	One word, good citizens.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Would you proceed especially against Caius Marcius?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Consider you what services he has done for his country?
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	Nay, but speak not maliciously.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	What he cannot help in his nature, you account a vice in him. You must in no way say he is covetous.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Worthy Menenius Agrippa; one that hath always loved the people.
+<SPEECH 7><ACT 2><SCENE 3><36%>
+	We may, sir, if we will.
+<SPEECH 8><ACT 2><SCENE 3><37%>
+	Think you so? Which way do you judge my wit would fly?
+<SPEECH 9><ACT 2><SCENE 3><37%>
+	Why that way?
+<SPEECH 10><ACT 2><SCENE 3><37%>
+	You are never without your tricks. you may, you may.
+<SPEECH 11><ACT 2><SCENE 3><38%>
+	Your own desert!
+<SPEECH 12><ACT 2><SCENE 3><39%>
+	You shall ha 't, worthy sir.
+<SPEECH 13><ACT 2><SCENE 3><39%>
+	An 'twere to give again,—but 'tis no matter.
+<SPEECH 14><ACT 2><SCENE 3><41%>
+	Amen, sir. To my poor unworthy notice,
+	He mock'd us when he begg'd our voices.
+<SPEECH 15><ACT 2><SCENE 3><41%>
+	Not one amongst us, save yourself, but says
+	He used us scornfully: he should have show'd us
+	His marks of merit, wounds receiv'd for's country.
+<SPEECH 16><ACT 2><SCENE 3><42%>
+	And will deny him:
+	I'll have five hundred voices of that sound.
+<SPEECH 17><ACT 4><SCENE 6><79%>
+	And so did I.
+<SPEECH 18><ACT 4><SCENE 6><80%>
+	So did we all. But come, let's home.

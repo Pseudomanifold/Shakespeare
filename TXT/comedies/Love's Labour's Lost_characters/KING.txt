@@ -1,0 +1,390 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Let fame, that all hunt after in their lives,
+	Live register'd upon our brazen tombs,
+	And then grace us in the disgrace of death;
+	When, spite of cormorant devouring Time,
+	The endeavour of this present breath may buy
+	That honour which shall bate his scythe's keen edge,
+	And make us heirs of all eternity.
+	Therefore, brave conquerors,—for so you are,
+	That war against your own affections
+	And the huge army of the world's desires,—
+	Our late edict shall strongly stand in force:
+	Navarre shall be the wonder of the world;
+	Our court shall be a little academe,
+	Still and contemplative in living art.
+	You three, Berowne, Dumaine, and Longaville,
+	Have sworn for three years' term to live with me,
+	My fellow-scholars, and to keep those statutes
+	That are recorded in this schedule here:
+	Your oaths are pass'd; and now subscribe your names,
+	That his own hand may strike his honour down
+	That violates the smallest branch herein.
+	If you are arm'd to do, as sworn to do,
+	Subscribe to your deep oaths, and keep it too.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	Your oath is pass'd to pass away from these.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Why, that to know which else we should not know.
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	Ay, that is study's god-like recompense.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	These be the stops that hinder study quite,
+	And train our intellects to vain delight.
+<SPEECH 6><ACT 1><SCENE 1><4%>
+	How well he's read, to reason against reading!
+<SPEECH 7><ACT 1><SCENE 1><4%>
+	Berowne is like an envious sneaping frost
+	That bites the first-born infants of the spring.
+<SPEECH 8><ACT 1><SCENE 1><4%>
+	Well, sit you out: go home, Berowne: adieu!
+<SPEECH 9><ACT 1><SCENE 1><4%>
+	How well this yielding rescues thee from shame!
+<SPEECH 10><ACT 1><SCENE 1><5%>
+	What say you, lords? why, this was quite forgot.
+<SPEECH 11><ACT 1><SCENE 1><5%>
+	We must of force dispense with this decree;
+	She must lie here on mere necessity.
+<SPEECH 12><ACT 1><SCENE 1><6%>
+	Ay, that there is. Our court, you know, is haunted
+	With a refined traveller of Spain;
+	A man in all the world's new fashion planted,
+	That hath a mint of phrases in his brain;
+	One whom the music of his own vain tongue
+	Doth ravish like enchanting harmony;
+	A man of complements, whom right and wrong
+	Have chose as umpire of their mutiny:
+	This child of fancy, that Armado hight,
+	For interim to our studies shall relate
+	In high-born words the worth of many a knight
+	From tawny Spain lost in the world's debate.
+	How you delight, my lords, I know not, I;
+	But, I protest, I love to hear him lie,
+	And I will use him for my minstrelsy.
+<SPEECH 13><ACT 1><SCENE 1><7%>
+	A letter from the magnificent Armado.
+<SPEECH 14><ACT 1><SCENE 1><8%>
+	Will you hear this letter with attention?
+<SPEECH 15><ACT 1><SCENE 1><8%>
+	Great deputy, the welkin's vicegerent, and sole dominator of Navarre, my soul's earth's God, and body's fostering patron,
+<SPEECH 16><ACT 1><SCENE 1><8%>
+	So it is,—
+<SPEECH 17><ACT 1><SCENE 1><8%>
+	Peace!
+<SPEECH 18><ACT 1><SCENE 1><8%>
+	No words!
+<SPEECH 19><ACT 1><SCENE 1><8%>
+	So it is, besieged with sable-coloured melancholy, I did commend the black-oppressing humour to the most wholesome physic of thy health-giving air; and, as I am a gentleman, betook myself to walk. The time when? About the sixth hour; when beasts most graze, birds best peck, and men sit down to that nourishment which is called supper: so much for the time when. Now for the ground which; which, I mean, I walked upon: it is ycleped thy park. Then for the place where; where, I mean, I did encounter that most obscene and preposterous event, that draweth from my snow-white pen the ebon-coloured ink, which here thou viewest, beholdest, surveyest, or seest. But to the place where, it standeth north-north-east and by east from the west corner of thy curious-knotted garden: there did I see that low-spirited swain, that base minnow of thy mirth,—
+<SPEECH 20><ACT 1><SCENE 1><9%>
+	that unlettered small-knowing soul,—
+<SPEECH 21><ACT 1><SCENE 1><9%>
+	that shallow vessel,—
+<SPEECH 22><ACT 1><SCENE 1><9%>
+	which, as I remember, hight Costard,—
+<SPEECH 23><ACT 1><SCENE 1><9%>
+	sorted and consorted, contrary to thy established proclaimed edict and continent canon, with—with,—O! with but with this I passion to say wherewith,—
+<SPEECH 24><ACT 1><SCENE 1><9%>
+	with a child of our grandmother Eve, a female; or, for thy more sweet understanding, a woman. Him, I,—as my everesteemed duty pricks me on,—have sent to thee, to receive the meed of punishment, by thy sweet Grace's officer, Antony Dull; a man of good repute, carriage, bearing, and estimation.
+<SPEECH 25><ACT 1><SCENE 1><9%>
+	For Jaquenetta,—so is the weaker vessel called which I apprehended with the aforesaid swain,—I keep her as a vessel of thy law's fury; and shall, at the least of thy sweet notice, bring her to trial. Thine, in all compliments of devoted and heart-burning heat of duty,
+<SPEECH 26><ACT 1><SCENE 1><10%>
+	Ay, the best for the worst. But, sirrah, what say you to this?
+<SPEECH 27><ACT 1><SCENE 1><10%>
+	Did you hear the proclamation?
+<SPEECH 28><ACT 1><SCENE 1><10%>
+	It was proclaimed a year's imprisonment to be taken with a wench.
+<SPEECH 29><ACT 1><SCENE 1><10%>
+	Well, it was proclaimed 'damosel.'
+<SPEECH 30><ACT 1><SCENE 1><10%>
+	It is so varied too; for it was proclaimed 'virgin.'
+<SPEECH 31><ACT 1><SCENE 1><10%>
+	This maid will not serve your turn, sir.
+<SPEECH 32><ACT 1><SCENE 1><10%>
+	Sir, I will pronounce your sentence: you shall fast a week with bran and water.
+<SPEECH 33><ACT 1><SCENE 1><10%>
+	And Don Armado shall be your keeper.
+	My Lord Berowne, see him deliver'd o'er:
+	And go we, lords, to put in practice that
+	Which each to other hath so strongly sworn.
+<SPEECH 34><ACT 2><SCENE 1><20%>
+	Fair princess, welcome to the court of Navarre.
+<SPEECH 35><ACT 2><SCENE 1><20%>
+	You shall be welcome, madam, to my court.
+<SPEECH 36><ACT 2><SCENE 1><20%>
+	Hear me, dear lady; I have sworn an oath.
+<SPEECH 37><ACT 2><SCENE 1><20%>
+	Not for the world, fair madam, by my will.
+<SPEECH 38><ACT 2><SCENE 1><20%>
+	Your ladyship is ignorant what it is.
+<SPEECH 39><ACT 2><SCENE 1><21%>
+	Madam, I will, if suddenly I may.
+<SPEECH 40><ACT 2><SCENE 1><21%>
+	Madam, your father here doth intimate
+	The payment of a hundred thousand crowns;
+	Being but the one half of an entire sum
+	Disbursed by my father in his wars.
+	But say that he, or we,—as neither have,—
+	Receiv'd that sum, yet there remains unpaid
+	A hundred thousand more; in surety of the which,
+	One part of Aquitaine is bound to us,
+	Although not valu'd to the money's worth.
+	If then the king your father will restore
+	But that one half which is unsatisfied,
+	We will give up our right in Aquitaine,
+	And hold fair friendship with his majesty.
+	But that it seems, he little purposeth,
+	For here he doth demand to have repaid
+	A hundred thousand crowns; and not demands,
+	On payment of a hundred thousand crowns,
+	To have his title live in Aquitaine;
+	Which we much rather had depart withal,
+	And have the money by our father lent,
+	Than Aquitaine, so gelded as it is.
+	Dear princess, were not his requests so far
+	From reason's yielding, your fair self should make
+	A yielding 'gainst some reason in my breast,
+	And go well satisfied to France again.
+<SPEECH 41><ACT 2><SCENE 1><22%>
+	I do protest I never heard of it;
+	And if you prove it, I'll repay it back
+	Or yield up Aquitaine.
+<SPEECH 42><ACT 2><SCENE 1><23%>
+	Satisfy me so.
+<SPEECH 43><ACT 2><SCENE 1><23%>
+	It shall suffice me: at which interview
+	All liberal reason I will yield unto.
+	Meantime, receive such welcome at my hand
+	As honour, without breach of honour, may
+	Make tender of to thy true worthiness.
+	You may not come, fair princess, in my gates;
+	But here without you shall be so receiv'd,
+	As you shall deem yourself lodg'd in my heart,
+	Though so denied fair harbour in my house.
+	Your own good thoughts excuse me, and farewell:
+	To-morrow shall we visit you again.
+<SPEECH 44><ACT 2><SCENE 1><23%>
+	Thy own wish wish I thee in every place!
+<SPEECH 45><ACT 4><SCENE 3><47%>
+	Ah me!
+<SPEECH 46><ACT 4><SCENE 3><47%>
+	So sweet a kiss the golden sun gives not
+	To those fresh morning drops upon the rose,
+	As thy eye-beams, when their fresh rays have smote
+	The night of dew that on my cheeks down flows:
+	Nor shines the silver moon one half so bright
+	Through the transparent bosom of the deep,
+	As doth thy face through tears of mine give light,
+	Thou shin'st in every tear that I do weep.
+	No drop but as a coach doth carry thee;
+	So ridest thou triumphing in my woe.
+	Do but behold the tears that swell in me,
+	And they thy glory through my grief will show
+	But do not love thyself, then thou wilt keep
+	My tears for glasses, and still make me weep.
+	O queen of queens! how far thou dost excel,
+	No thought can think, nor tongue of mortal tell
+	How shall she know my griefs? I'll drop the paper:
+	Sweet leaves, shade folly. Who is he comes here?
+	What, Longaville! and reading! listen, ear.
+<SPEECH 47><ACT 4><SCENE 3><48%>
+	In love, I hope: sweet fellowship in shame!
+<SPEECH 48><ACT 4><SCENE 3><50%>
+	And I mine too, good Lord!
+<SPEECH 49><ACT 4><SCENE 3><51%>
+	</STAGE DIR> Come, sir, you blush: as his your case is such;
+	You chide at him, offending twice as much:
+	You do not love Maria; Longaville
+	Did never sonnet for her sake compile,
+	Nor never lay his wreathed arms athwart
+	His loving bosom to keep down his heart.
+	I have been closely shrouded in this bush,
+	And mark'd you both, and for you both did blush.
+	I heard your guilty rimes, observ'd your fashion,
+	Saw sighs reek from you, noted well your passion:
+	Ay me! says one; O Jove! the other cries;
+	One, her hairs were gold, crystal the other's eyes:
+	</STAGE DIR> You would for paradise break faith and troth;
+	</STAGE DIR> And Jove, for your love, would infringe an oath.
+	What will Berowne say, when that he shall hear
+	A faith infringed, which such zeal did swear?
+	How will he scorn! how will he spend his wit!
+	How will he triumph, leap and laugh at it!
+	For all the wealth that ever I did see,
+	I would not have him know so much by me.
+<SPEECH 50><ACT 4><SCENE 3><52%>
+	Too bitter is thy jest.
+	Are we betray'd thus to thy over-view?
+<SPEECH 51><ACT 4><SCENE 3><53%>
+	Soft! Whither away so fast? true man or a thief that gallops so?
+<SPEECH 52><ACT 4><SCENE 3><53%>
+	What present hast thou there?
+<SPEECH 53><ACT 4><SCENE 3><53%>
+	What makes treason here?
+<SPEECH 54><ACT 4><SCENE 3><53%>
+	If it mar nothing neither,
+	The treason and you go in peace away together.
+<SPEECH 55><ACT 4><SCENE 3><53%>
+	Berowne, read it over—
+	There hadst thou it?
+<SPEECH 56><ACT 4><SCENE 3><53%>
+	Where hadst thou it?
+<SPEECH 57><ACT 4><SCENE 3><53%>
+	How now! what is in you? why dost thou tear it?
+<SPEECH 58><ACT 4><SCENE 3><54%>
+	What?
+<SPEECH 59><ACT 4><SCENE 3><54%>
+	Hence, sirs; away!
+<SPEECH 60><ACT 4><SCENE 3><54%>
+	What! did these rent lines show some love of thine?
+<SPEECH 61><ACT 4><SCENE 3><55%>
+	What zeal, what fury hath inspir'd thee now?
+	My love, her mistress, is a gracious moon;
+	She, an attending star, scarce seen a light.
+<SPEECH 62><ACT 4><SCENE 3><55%>
+	By heaven, thy love is black as ebony.
+<SPEECH 63><ACT 4><SCENE 3><56%>
+	O paradox! Black is the badge of hell,
+	The hue of dungeons and the scowl of night;
+	And beauty's crest becomes the heavens well.
+<SPEECH 64><ACT 4><SCENE 3><56%>
+	And Ethiops of their sweet complexion crack.
+<SPEECH 65><ACT 4><SCENE 3><56%>
+	'Twere good yours did; for, sir, to tell you plain,
+	I'll find a fairer face not wash'd to-day.
+<SPEECH 66><ACT 4><SCENE 3><56%>
+	No devil will fright thee then so much as she.
+<SPEECH 67><ACT 4><SCENE 3><57%>
+	But what of this? Are we not all in love?
+<SPEECH 68><ACT 4><SCENE 3><57%>
+	Then leave this chat; and good Berowne, now prove
+	Our loving lawful, and our faith not torn.
+<SPEECH 69><ACT 4><SCENE 3><59%>
+	Saint Cupid, then! and, soldiers, to the field!
+<SPEECH 70><ACT 4><SCENE 3><60%>
+	And win them too: therefore let us devise
+	Some entertainment for them in their tents.
+<SPEECH 71><ACT 4><SCENE 3><60%>
+	Away, away! no time shall be omitted,
+	That will betime, and may by us be fitted.
+<SPEECH 72><ACT 5><SCENE 2><73%>
+	Say to her, we have measur'd many miles,
+	To tread a measure with her on this grass.
+<SPEECH 73><ACT 5><SCENE 2><73%>
+	Blessed are clouds, to do as such clouds do!
+	Vouchsafe, bright moon, and these thy stars, to shine,
+	Those clouds remov'd, upon our wat'ry eyne.
+<SPEECH 74><ACT 5><SCENE 2><73%>
+	Then, in our measure but vouchsafe one change.
+	Thou bid'st me beg; this begging is not strange.
+<SPEECH 75><ACT 5><SCENE 2><74%>
+	Will you not dance? How come you thus estrang'd?
+<SPEECH 76><ACT 5><SCENE 2><74%>
+	Yet still she is the moon, and I the man.
+	The music plays; vouchsafe some motion to it.
+<SPEECH 77><ACT 5><SCENE 2><74%>
+	But your legs should do it.
+<SPEECH 78><ACT 5><SCENE 2><74%>
+	Why take we hands then?
+<SPEECH 79><ACT 5><SCENE 2><74%>
+	More measure of this measure: be not nice.
+<SPEECH 80><ACT 5><SCENE 2><74%>
+	Prize you yourselves? what buys your company?
+<SPEECH 81><ACT 5><SCENE 2><74%>
+	That can never be.
+<SPEECH 82><ACT 5><SCENE 2><74%>
+	If you deny to dance, let's hold more chat.
+<SPEECH 83><ACT 5><SCENE 2><74%>
+	I am best pleas'd with that.
+<SPEECH 84><ACT 5><SCENE 2><76%>
+	Farewell, mad wenches: you have simple wits.
+<SPEECH 85><ACT 5><SCENE 2><78%>
+	Fair sir, God save you! Where is the princess?
+<SPEECH 86><ACT 5><SCENE 2><78%>
+	That she vouchsafe me audience for one word.
+<SPEECH 87><ACT 5><SCENE 2><79%>
+	A blister on his sweet tongue, with my heart,
+	That put Armado's page out of his part!
+<SPEECH 88><ACT 5><SCENE 2><79%>
+	All hail, sweet madam, and fair time of day!
+<SPEECH 89><ACT 5><SCENE 2><79%>
+	Construe my speeches better, if you may.
+<SPEECH 90><ACT 5><SCENE 2><79%>
+	We came to visit you, and purpose now
+	To lead you to our court: vouchsafe it then.
+<SPEECH 91><ACT 5><SCENE 2><79%>
+	Rebuke me not for that which you provoke:
+	The virtue of your eye must break my oath.
+<SPEECH 92><ACT 5><SCENE 2><80%>
+	O! you have liv'd in desolation here,
+	Unseen, unvisited, much to our shame.
+<SPEECH 93><ACT 5><SCENE 2><80%>
+	How, madam! Russians?
+<SPEECH 94><ACT 5><SCENE 2><81%>
+	We are descried: they'll mock us now downright.
+<SPEECH 95><ACT 5><SCENE 2><82%>
+	Teach us, sweet madam, for our rude transgression
+	Some fair excuse.
+<SPEECH 96><ACT 5><SCENE 2><83%>
+	Madam, I was.
+<SPEECH 97><ACT 5><SCENE 2><83%>
+	I was, fair madam.
+<SPEECH 98><ACT 5><SCENE 2><83%>
+	That more than all the world I did respect her.
+<SPEECH 99><ACT 5><SCENE 2><83%>
+	Upon mine honour, no.
+<SPEECH 100><ACT 5><SCENE 2><83%>
+	Despise me, when I break this oath of mine.
+<SPEECH 101><ACT 5><SCENE 2><83%>
+	What mean you, madam? by my life, my troth,
+	I never swore this lady such an oath.
+<SPEECH 102><ACT 5><SCENE 2><83%>
+	My faith and this the princess I did give:
+	I knew her by this jewel on her sleeve.
+<SPEECH 103><ACT 5><SCENE 2><85%>
+	Berowne, they will shame us; let them not approach.
+<SPEECH 104><ACT 5><SCENE 2><85%>
+	I say they shall not come.
+<SPEECH 105><ACT 5><SCENE 2><86%>
+	Here is like to be a good presence of Worthies. He presents Hector of Troy; the swain, Pompey the Great; the parish curate, Alexander; Armado's page, Hercules; the pedant, Judas Maccabæus:
+	And if these four Worthies in their first show thrive,
+	These four will change habits and present the other five.
+<SPEECH 106><ACT 5><SCENE 2><87%>
+	You are deceived, 'tis not so.
+<SPEECH 107><ACT 5><SCENE 2><87%>
+	The ship is under sail, and here she comes amain.
+<SPEECH 108><ACT 5><SCENE 2><90%>
+	Hector was but a Troyan in respect of this.
+<SPEECH 109><ACT 5><SCENE 2><90%>
+	I think Hector was not so clean-timbered.
+<SPEECH 110><ACT 5><SCENE 2><93%>
+	How fares your majesty?
+<SPEECH 111><ACT 5><SCENE 2><93%>
+	Madam, not so: I do beseech you, stay.
+<SPEECH 112><ACT 5><SCENE 2><94%>
+	The extreme part of time extremely forms
+	All causes to the purpose of his speed,
+	And often, at his very loose, decides
+	That which long process could not arbitrate:
+	And though the mourning brow of progeny
+	Forbid the smiling courtesy of love
+	The holy suit which fain it would convince;
+	Yet, since love's argument was first on foot,
+	Let not the cloud of sorrow justle it
+	From what it purpos'd; since, to wail friends lost
+	Is not by much so wholesome-profitable
+	As to rejoice at friends but newly found.
+<SPEECH 113><ACT 5><SCENE 2><95%>
+	Now, at the latest minute of the hour,
+	Grant us your loves.
+<SPEECH 114><ACT 5><SCENE 2><96%>
+	If this, or more than this, I would deny,
+	To flatter up these powers of mine with rest,
+	The sudden hand of death close up mine eye!
+	Hence ever then my heart is in thy breast.
+<SPEECH 115><ACT 5><SCENE 2><98%>
+	No, madam; we will bring you on your way.
+<SPEECH 116><ACT 5><SCENE 2><98%>
+	Come, sir, it wants a twelvemonth and a day,
+	And then 'twill end.
+<SPEECH 117><ACT 5><SCENE 2><99%>
+	Call them forth quickly; we will do so.

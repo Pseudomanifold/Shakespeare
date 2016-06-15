@@ -1,0 +1,67 @@
+<SPEECH 1><ACT 2><SCENE 2><33%>
+	Your Grace must needs deserve all strangers' loves,
+	You are so noble. To your highness' hand
+	I tender my commission, by whose virtue,—
+	The court of Rome commanding,—you, my Lord
+	Cardinal of York, are join'd with me, their servant,
+	In the impartial judging of this business.
+<SPEECH 2><ACT 2><SCENE 2><34%>
+	My Lord of York, was not one Doctor Pace
+	In this man's place before him?
+<SPEECH 3><ACT 2><SCENE 2><34%>
+	Was he not held a learned man?
+<SPEECH 4><ACT 2><SCENE 2><34%>
+	Believe me, there's an ill opinion spread then
+	Even of yourself, Lord Cardinal.
+<SPEECH 5><ACT 2><SCENE 2><34%>
+	They will not stick to say, you envied him,
+	And fearing he would rise, he was so virtuous,
+	Kept him a foreign man still; which so griev'd him
+	That he ran mad and died.
+<SPEECH 6><ACT 2><SCENE 4><41%>
+	His Grace
+	Hath spoken well and justly: therefore, madam,
+	It's fit this royal session do proceed,
+	And that, without delay, their arguments
+	Be now produc'd and heard.
+<SPEECH 7><ACT 2><SCENE 4><43%>
+	The queen is obstinate,
+	Stubborn to justice, apt to accuse it, and
+	Disdainful to be tried by't: 'tis not well.
+	She's going away.
+<SPEECH 8><ACT 2><SCENE 4><46%>
+	So please your highness,
+	The queen being absent, 'tis a needful fitness
+	That we adjourn this court till further day:
+	Mean while must be an earnest motion
+	Made to the queen, to call back her appeal
+	She intends unto his holiness.
+<SPEECH 9><ACT 3><SCENE 1><49%>
+	Most honour'd madam,
+	My Lord of York, out of his noble nature,
+	Zeal and obedience he still bore your Grace,
+	Forgetting, like a good man, your late censure
+	Both of his truth and him,—which was too far,—
+	Offers, as I do, in sign of peace,
+	His service and his counsel.
+<SPEECH 10><ACT 3><SCENE 1><50%>
+	I would your Grace
+	Would leave your griefs, and take my counsel.
+<SPEECH 11><ACT 3><SCENE 1><50%>
+	Put your main cause into the king's protection;
+	He's loving and most gracious: 'twill be much
+	Both for your honour better and your cause;
+	For if the trial of the law o'ertake ye,
+	You'll part away disgrac'd.
+<SPEECH 12><ACT 3><SCENE 1><50%>
+	Your rage mistakes us.
+<SPEECH 13><ACT 3><SCENE 1><51%>
+	Your fears are worse.
+<SPEECH 14><ACT 3><SCENE 1><52%>
+	Madam, you'll find it so. You wrong your virtues
+	With these weak women's fears: a noble spirit,
+	As yours was put into you, ever casts
+	Such doubts, as false coin, from it. The king loves you;
+	Beware you lose it not: for us, if you please
+	To trust us in your business, we are ready
+	To use our utmost studies in your service.

@@ -1,0 +1,50 @@
+<SPEECH 1><ACT 5><SCENE 3><91%>
+	</STAGE DIR> Let me sit heavy on thy soul to-morrow!
+	Think how thou stab'dst me in my prime of youth
+	At Tewksbury: despair, therefore, and die!
+	Be cheerful, Richmond; for the wronged souls
+	Of butcher'd princes fight in thy behalf:
+	King Henry's issue, Richmond, comforts thee.
+<SPEECH 2><ACT 5><SCENE 3><92%>
+	</STAGE DIR> When I was mortal, my anointed body
+	By thee was punched full of deadly holes:
+	Think on the Tower and me; despair and die!
+	Henry the Sixth bids thee despair and die.
+	</STAGE DIR> Virtuous and holy, be thou conqueror!
+	Harry, that prophesied thou shouldst be the king,
+	Doth comfort thee in thy sleep: live thou and flourish!
+<SPEECH 3><ACT 5><SCENE 3><92%>
+	</STAGE DIR> Let me sit heavy on thy soul to-morrow!
+	I, that was wash'd to death with fulsome wine,
+	Poor Clarence, by thy guile betray'd to death!
+	To-morrow in the battle think on me,
+	And fall thy edgeless sword: despair, and die!
+	</STAGE DIR> Thou offspring of the house of Lancaster,
+	The wronged heirs of York do pray for thee:
+	Good angels guard thy battle! live, and flourish!
+<SPEECH 4><ACT 5><SCENE 3><92%>
+	</STAGE DIR> Bloody and guilty, guiltily awake;
+	And in a bloody battle end thy days!
+	Think on Lord Hastings, so despair, and die!—
+	</STAGE DIR> Quiet, untroubled soul, awake, awake!
+	Arm, fight, and conquer, for fair England's sake!
+<SPEECH 5><ACT 5><SCENE 3><93%>
+	</STAGE DIR> Richard, thy wife, that wretched Anne thy wife,
+	That never slept a quiet hour with thee,
+	Now fills thy sleep with perturbations:
+	To-morrow in the battle think on me,
+	And fall thy edgeless sword: despair, and die!
+	</STAGE DIR> Thou quiet soul, sleep thou a quiet sleep;
+	Dream of success and happy victory!
+	Thy adversary's wife doth pray for thee.
+<SPEECH 6><ACT 5><SCENE 3><93%>
+	</STAGE DIR> The first was I that help'd thee to the crown;
+	The last was I that felt thy tyranny.
+	O! in the battle think on Buckingham,
+	And die in terror of thy guiltiness!
+	Dream on, dream on, of bloody deeds and death:
+	Fainting, despair; despairing, yield thy breath!
+	</STAGE DIR> I died for hope ere I could lend thee aid:
+	But cheer thy heart, and be thou not dismay'd:
+	God and good angels fight on Richmond's side;
+	And Richard falls in height of all his pride.

@@ -1,0 +1,202 @@
+<SPEECH 1><ACT 1><SCENE 4><19%>
+	Let me hire him too: here's my coxcomb.
+<SPEECH 2><ACT 1><SCENE 4><19%>
+	Sirrah, you were best take my coxcomb.
+<SPEECH 3><ACT 1><SCENE 4><19%>
+	Why? for taking one's part that's out of favour. Nay, an thou canst not smile as the wind sits, thou'lt catch cold shortly: there, take my coxcomb. Why, this fellow has banished two on 's daughters, and did the third a blessing against his will: if thou follow him thou must needs wear my coxcomb. How now, nuncle! Would I had two coxcombs and two daughters!
+<SPEECH 4><ACT 1><SCENE 4><19%>
+	If I gave them all my living, I'd keep my coxcombs myself. There's mine; beg another of thy daughters.
+<SPEECH 5><ACT 1><SCENE 4><19%>
+	Truth's a dog must to kennel; he must be whipped out when Lady the brach may stand by the fire and stink.
+<SPEECH 6><ACT 1><SCENE 4><19%>
+	</STAGE DIR> Sirrah, I'll teach' thee a speech.
+<SPEECH 7><ACT 1><SCENE 4><19%>
+	Mark it, nuncle:—
+	Have more than thou showest,
+	Speak less than thou knowest,
+	Lend less than thou owest,
+	Ride more than thou goest,
+	Learn more than thou trowest,
+	Set less than thou throwest;
+	Leave thy drink and thy whore,
+	And keep in-a-door,
+	And thou shalt have more
+	Than two tens to a score.
+<SPEECH 8><ACT 1><SCENE 4><19%>
+	Then 'tis like the breath of an unfee'd lawyer, you gave me nothing for 't. Can you make no use of nothing, nuncle?
+<SPEECH 9><ACT 1><SCENE 4><20%>
+	</STAGE DIR> Prithee, tell him, so much the rent of his land comes to: he will not believe a fool.
+<SPEECH 10><ACT 1><SCENE 4><20%>
+	Dost thou know the difference, my boy, between a bitter fool and a sweet fool?
+<SPEECH 11><ACT 1><SCENE 4><20%>
+	That lord that counsell'd thee
+	To give away thy land,
+	Come place him here by me,
+	Do thou for him stand:
+	The sweet and bitter fool
+	Will presently appear;
+	The one in motley here,
+	The other found out there.
+<SPEECH 12><ACT 1><SCENE 4><20%>
+	All thy other titles thou hast given away; that thou wast born with.
+<SPEECH 13><ACT 1><SCENE 4><20%>
+	No, faith, lords and great men will not let me; if I had a monopoly out, they would have part on 't, and ladies too: they will not let me have all fool to myself; they'll be snatching. Nuncle, give me an egg, and I'll give thee two crowns.
+<SPEECH 14><ACT 1><SCENE 4><20%>
+	Why, after I have cut the egg i' the middle and eat up the meat, the two crowns of the egg. When thou clovest thy crown i' the middle, and gavest away both parts, thou borest thine ass on thy back o'er the dirt: thou hadst little wit in thy bald crown when thou gavest thy golden one away. If I speak like myself in this, let him be whipped that first finds it so.
+	Fools had ne'er less grace in a year;
+	For wise men are grown foppish,
+	And know not how their wits to wear,
+	Their manners are so apish.
+<SPEECH 15><ACT 1><SCENE 4><21%>
+	I have used it, nuncle, ever since thou madest thy daughters thy mothers; for when thou gavest them the rod and puttest down thine own breeches,
+	Then they for sudden joy did weep,
+	And I for sorrow sung,
+	That such a king should play bo-peep,
+	And go the fools among.
+	Prithee, nuncle, keep a schoolmaster that can teach thy fool to lie: I would fain learn to lie.
+<SPEECH 16><ACT 1><SCENE 4><21%>
+	I marvel what kin thou and thy daughters are: they'll have me whipped for speaking true, thou'lt have me whipped for lying; and sometimes I am whipped for holding my peace. I had rather be any kind o' thing than a fool; and yet I would not be thee, nuncle; thou hast pared thy wit o' both sides, and left nothing i' the middle: here comes one o' the parings.
+<SPEECH 17><ACT 1><SCENE 4><21%>
+	Thou wast a pretty fellow when thou hadst no need to care for her frowning; now thou art an O without a figure. I am better than thou art now; I am a fool, thou art nothing. <STAGE DIR>
+	</STAGE DIR> Yes, forsooth, I will hold my tongue; so your face bids me, though you say nothing.
+	Mum, mum;
+	He that keeps nor crust nor crumb,
+	Weary of all, shall want some.
+	That's a shealed peascod.
+<SPEECH 18><ACT 1><SCENE 4><22%>
+	For you trow, nuncle,
+	The hedge-sparrow fed the cuckoo so long,
+	That it had it head bit off by it young.
+	So out went the candle, and we were left darkling.
+<SPEECH 19><ACT 1><SCENE 4><22%>
+	May not an ass know when the cart draws the horse? Whoop, Jug! I love thee.
+<SPEECH 20><ACT 1><SCENE 4><22%>
+	Lear's shadow.
+<SPEECH 21><ACT 1><SCENE 4><22%>
+	Which they will make an obedient father.
+<SPEECH 22><ACT 1><SCENE 4><25%>
+	Nuncle Lear, nuncle Lear! tarry, and take the fool with thee.
+	A fox, when one has caught her,
+	And such a daughter,
+	Should sure to the slaughter,
+	If my cap would buy a halter;
+	So the fool follows after.
+<SPEECH 23><ACT 1><SCENE 5><26%>
+	If a man's brains were in 's heels, were't not in danger of kibes?
+<SPEECH 24><ACT 1><SCENE 5><26%>
+	Then, I prithee, be merry; thy wit shall not go slip-shod.
+<SPEECH 25><ACT 1><SCENE 5><26%>
+	Shalt see thy other daughter will use thee kindly; for though she's as like this as a crab is like an apple, yet I can tell what I can tell.
+<SPEECH 26><ACT 1><SCENE 5><26%>
+	She will taste as like this as a crab does to a crab. Thou canst tell why one's nose stands i' the middle on 's face?
+<SPEECH 27><ACT 1><SCENE 5><26%>
+	Why, to keep one's eyes of either side's nose, that what a man cannot smell out, he may spy into.
+<SPEECH 28><ACT 1><SCENE 5><26%>
+	Canst tell how an oyster makes his shell?
+<SPEECH 29><ACT 1><SCENE 5><26%>
+	Nor I neither; but I can tell why a snail has a house.
+<SPEECH 30><ACT 1><SCENE 5><27%>
+	Why, to put his head in; not to give it away to his daughters, and leave his horns without a case.
+<SPEECH 31><ACT 1><SCENE 5><27%>
+	Thy asses are gone about 'em. The reason why the seven stars are no more than seven is a pretty reason.
+<SPEECH 32><ACT 1><SCENE 5><27%>
+	Yes, indeed: thou wouldst make a good fool.
+<SPEECH 33><ACT 1><SCENE 5><27%>
+	If thou wert my fool, nuncle, I'd have thee beaten for being old before thy time.
+<SPEECH 34><ACT 1><SCENE 5><27%>
+	Thou shouldst not have been old before thou hadst been wise.
+<SPEECH 35><ACT 1><SCENE 5><27%>
+	She that's a maid now, and laughs at my departure,
+	Shall not be a maid long, unless things be cut shorter.
+<SPEECH 36><ACT 2><SCENE 4><37%>
+	Ha, ha! he wears cruel garters. Horses are tied by the head, dogs and bears by the neck, monkeys by the loins, and men by the legs: when a man is over-lusty at legs, then he wears wooden nether-stocks.
+<SPEECH 37><ACT 2><SCENE 4><38%>
+	Winter's not gone yet, if the wild geese fly that way.
+	Fathers that wear rags
+	Do make their children blind,
+	But fathers that bear bags
+	Shall see their children kind.
+	Fortune, that arrant whore,
+	Ne'er turns the key to the poor.
+	But for all this thou shalt have as many dolours for thy daughters as thou canst tell in a year.
+<SPEECH 38><ACT 2><SCENE 4><39%>
+	An thou hadst been set i' the stocks for that question, thou hadst well deserved it.
+<SPEECH 39><ACT 2><SCENE 4><39%>
+	We'll set thee to school to an ant, to teach thee there's no labouring i' the winter. All that follow their noses are led by their eyes but blind men; and there's not a nose among twenty but can smell him that's stinking. Let go thy hold when a great wheel runs down a hill, lest it break thy neck with following it; but the great one that goes up the hill, let him draw thee after. When a wise man gives thee better counsel, give me mine again: I would have none but knaves follow it, since a fool gives it.
+	That sir which serves and seeks for gain,
+	And follows but for form,
+	Will pack when it begins to rain,
+	And leave thee in the storm.
+	But I will tarry; the fool will stay,
+	And let the wise man fly:
+	The knave turns fool that runs away;
+	The fool no knave, perdy.
+<SPEECH 40><ACT 2><SCENE 4><39%>
+	Not i' the stocks, fool.
+<SPEECH 41><ACT 2><SCENE 4><40%>
+	Cry to it, nuncle, as the cockney did to the eels when she put 'em i' the paste alive; she knapped 'em o' the coxcombs with a stick, and cried, 'Down, wantons, down!' 'Twas her brother that, in pure kindness to his horse, buttered his hay.
+<SPEECH 42><ACT 3><SCENE 2><48%>
+	O nuncle, court holy-water in a dry house is better than this rain-water out o' door. Good nuncle, in, and ask thy daughters' blessing; here's a night pities neither wise man nor fool.
+<SPEECH 43><ACT 3><SCENE 2><49%>
+	He that has a house to put his head in has a good head-piece.
+	The cod-piece that will house
+	Before the head has any,
+	The head and he shall louse;
+	So beggars marry many.
+	The man that makes his toe
+	What he his heart should make,
+	Shall of a corn cry woe,
+	And turn his sleep to wake.
+	For there was never yet fair woman but she made mouths in a glass.
+<SPEECH 44><ACT 3><SCENE 2><49%>
+	Marry, here's grace and a cod-piece; that's a wise man and a fool.
+<SPEECH 45><ACT 3><SCENE 2><50%>
+	He that has a little tiny wit,
+	With hey, ho, the wind and the rain,
+	Must make content with his fortunes fit,
+	Though the rain it raineth every day.
+<SPEECH 46><ACT 3><SCENE 2><50%>
+	This is a brave night to cool a courtezan.
+	I'll speak a prophecy ere I go:
+	When priests are more in word than matter;
+	When brewers mar their malt with water;
+	When nobles are their tailors' tutors;
+	No heretics burn'd, but wenches' suitors;
+	When every case in law is right;
+	No squire in debt, nor no poor knight;
+	When slanders do not live in tongues;
+	Nor cutpurses come not to throngs;
+	When usurers tell their gold i' the field;
+	And bawds and whores do churches build;
+	Then shall the realm of Albion
+	Come to great confusion:
+	Then comes the time, who lives to see 't,
+	That going shall be us'd with feet.
+	This prophecy Merlin shall make; for I live before his time.
+<SPEECH 47><ACT 3><SCENE 4><53%>
+	Come not in here, nuncle; here's a spirit.
+	Help me! help me!
+<SPEECH 48><ACT 3><SCENE 4><53%>
+	A spirit, a spirit: he says his name's poor Tom.
+<SPEECH 49><ACT 3><SCENE 4><54%>
+	Nay, he reserved a blanket, else we had been all shamed.
+<SPEECH 50><ACT 3><SCENE 4><54%>
+	This cold night will turn us all to fools and madmen.
+<SPEECH 51><ACT 3><SCENE 4><55%>
+	Prithee, nuncle, be contented; 'tis a naughty night to swim in. Now a little fire in a wide field were like an old lecher's heart; a small spark, all the rest on's body cold. Look! here comes a walking fire.
+<SPEECH 52><ACT 3><SCENE 6><58%>
+	Prithee, nuncle, tell me whether a madman be a gentleman or a yeoman!
+<SPEECH 53><ACT 3><SCENE 6><58%>
+	No; he's a yeoman that has a gentleman to his son; for he's a mad yeoman that sees his son a gentleman before him.
+<SPEECH 54><ACT 3><SCENE 6><58%>
+	He's mad that trusts in the tameness of a wolf, a horse's health, a boy's love, or a whore's oath.
+<SPEECH 55><ACT 3><SCENE 6><59%>
+	Her boat hath a leak,
+	And she must not speak
+	Why she dares not come over to thee.
+<SPEECH 56><ACT 3><SCENE 6><59%>
+	Come hither, mistress. Is your name Goneril?
+<SPEECH 57><ACT 3><SCENE 6><59%>
+	Cry you mercy, I took you for a joint-stool.
+<SPEECH 58><ACT 3><SCENE 6><60%>
+	And I'll go to bed at noon.

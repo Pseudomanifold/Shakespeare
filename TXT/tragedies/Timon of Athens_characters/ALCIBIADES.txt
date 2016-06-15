@@ -1,0 +1,195 @@
+<SPEECH 1><ACT 1><SCENE 1><11%>
+	Sir, you have sav'd my longing, and I feed
+	Most hungerly on your sight.
+<SPEECH 2><ACT 1><SCENE 2><16%>
+	My heart is ever at your service, my lord.
+<SPEECH 3><ACT 1><SCENE 2><16%>
+	So they were bleeding-new, my lord, there's no meat like 'em: I could wish my best friend at such a feast.
+<SPEECH 4><ACT 1><SCENE 2><22%>
+	Ay, defil'd land, my lord.
+<SPEECH 5><ACT 3><SCENE 5><49%>
+	Honour, health, and compassion to the senate!
+<SPEECH 6><ACT 3><SCENE 5><49%>
+	I am a humble suitor to your virtues;
+	For pity is the virtue of the law,
+	And none but tyrants use it cruelly.
+	It pleases time and fortune to lie heavy
+	Upon a friend of mine, who, in hot blood,
+	Hath stepp'd into the law, which is past depth
+	To those that without heed to plunge into 't.
+	He is a man, setting his fate aside,
+	Of comely virtues;
+	Nor did he soil the fact with cowardice,—
+	An honour in him which buys out his fault,—
+	But, with a noble fury and fair spirit,
+	Seeing his reputation touch'd to death,
+	He did oppose his foe;
+	And with such sober and unnoted passion
+	He did behave his anger, ere 'twas spent,
+	As if he had but prov'd an argument.
+<SPEECH 7><ACT 3><SCENE 5><50%>
+	My lord,—
+<SPEECH 8><ACT 3><SCENE 5><51%>
+	My lords, then, under favour, pardon me,
+	If I speak like a captain.
+	Why do fond men expose themselves to battle,
+	And not endure all threats? sleep upon't,
+	And let the foes quietly cut their throats
+	Without repugnancy? If there be
+	Such valour in the bearing, what make we
+	Abroad? why then, women are more valiant
+	That stay at home, if bearing carry it,
+	And the ass more captain than the lion, the felon
+	Loaden with irons wiser than the judge,
+	If wisdom be in suffering. O my lords!
+	As you are great, be pitifully good:
+	Who cannot condemn rashness in cold blood?
+	To kill, I grant, is sin's extremest gust;
+	But, in defence, by mercy, 'tis most just.
+	To be in anger is impiety;
+	But who is man that is not angry?
+	Weigh but the crime with this.
+<SPEECH 9><ACT 3><SCENE 5><51%>
+	In vain! his service done
+	At Lacedæmon and Byzantium
+	Were a sufficient briber for his life.
+<SPEECH 10><ACT 3><SCENE 5><51%>
+	I say, my lords, he has done fair service,
+	And slain in fight many of your enemies.
+	How full of valour did he bear himself
+	In the last conflict, and made plenteous wounds!
+<SPEECH 11><ACT 3><SCENE 5><52%>
+	Hard fate! he might have died in war.
+	My lords, if not for any parts in him,—
+	Though his right arm might purchase his own time,
+	And be in debt to none,—yet, more to move you,
+	Take my deserts to his, and join 'em both;
+	And, for I know your reverend ages love
+	Security, I'll pawn my victories, all
+	My honour to you, upon his good returns.
+	If by this crime he owes the law his life,
+	Why, let the war receive't in valiant gore;
+	For law is strict, and war is nothing more.
+<SPEECH 12><ACT 3><SCENE 5><52%>
+	Must it be so? it must not be. My lords,
+	I do beseech you, know me.
+<SPEECH 13><ACT 3><SCENE 5><52%>
+	Call me to your remembrances.
+<SPEECH 14><ACT 3><SCENE 5><52%>
+	I cannot think but your age has forgot me;
+	It could not else be I should prove so base,
+	To sue, and be denied such common grace.
+	My wounds ache at you.
+<SPEECH 15><ACT 3><SCENE 5><53%>
+	Banish me!
+	Banish your dotage; banish usury,
+	That makes the senate ugly.
+<SPEECH 16><ACT 3><SCENE 5><53%>
+	Now the gods keep you old enough; that you may live
+	Only in bone, that none may look on you!
+	I am worse than mad: I have kept back their foes,
+	While they have told their money and let out
+	Their coin upon large interest; I myself
+	Rich only in large hurts: all those for this?
+	Is this the balsam that the usuring senate
+	Pours into captains' wounds? Banishment!
+	It comes not ill; I hate not to be banish'd;
+	It is a cause worthy my spleen and fury,
+	That I may strike at Athens. I'll cheer up
+	My discontented troops, and lay for hearts.
+	'Tis honour with most lands to be at odds;
+	Soldiers should brook as little wrongs as gods.
+<SPEECH 17><ACT 4><SCENE 3><65%>
+	What art thou there? speak.
+<SPEECH 18><ACT 4><SCENE 3><65%>
+	What is thy name? Is man so hateful to thee,
+	That art thyself a man?
+<SPEECH 19><ACT 4><SCENE 3><65%>
+	I know thee well,
+	But in thy fortunes am unlearn'd and strange.
+<SPEECH 20><ACT 4><SCENE 3><66%>
+	How came the noble Timon to this change?
+<SPEECH 21><ACT 4><SCENE 3><66%>
+	Noble Timon, what friendship may I do thee?
+<SPEECH 22><ACT 4><SCENE 3><66%>
+	What is it, Timon?
+<SPEECH 23><ACT 4><SCENE 3><66%>
+	I have heard in some sort of thy miseries.
+<SPEECH 24><ACT 4><SCENE 3><66%>
+	I see them now; then was a blessed time.
+<SPEECH 25><ACT 4><SCENE 3><66%>
+	Pardon him, sweet Timandra, for his wits
+	Are drown'd and lost in his calamities.
+	I have but little gold of late, brave Timon,
+	The want whereof doth daily make revolt
+	In my penurious band: I have heard and griev'd
+	How cursed Athens, mindless of thy worth,
+	Forgetting thy great deeds, when neighbour states,
+	But for thy sword and fortune, trod upon them,—
+<SPEECH 26><ACT 4><SCENE 3><67%>
+	I am thy friend, and pity thee, dear Timon.
+<SPEECH 27><ACT 4><SCENE 3><67%>
+	Why, fare thee well:
+	Here is some gold for thee.
+<SPEECH 28><ACT 4><SCENE 3><67%>
+	When I have laid proud Athens on a heap,—
+<SPEECH 29><ACT 4><SCENE 3><67%>
+	Ay, Timon, and have cause.
+<SPEECH 30><ACT 4><SCENE 3><67%>
+	Why me, Timon?
+<SPEECH 31><ACT 4><SCENE 3><68%>
+	Hast thou gold yet? I'll take the gold thou giv'st me,
+	Not all thy counsel.
+<SPEECH 32><ACT 4><SCENE 3><70%>
+	Strike up the drum towards Athens! Farewell, Timon:
+	If I thrive well, I'll visit thee again.
+<SPEECH 33><ACT 4><SCENE 3><70%>
+	I never did thee harm.
+<SPEECH 34><ACT 4><SCENE 3><70%>
+	Call'st thou that harm?
+<SPEECH 35><ACT 4><SCENE 3><70%>
+	We but offend him. Strike!
+<SPEECH 36><ACT 5><SCENE 4><96%>
+	Sound to this coward and lascivious town
+	Our terrible approach.
+	Till now you have gone on, and fill'd the time
+	With all licentious measure, making your wills
+	The scope of justice; till now myself and such
+	As slept within the shadow of your power
+	Have wander'd with our travers'd arms, and breath'd
+	Our sufferance vainly. Now the time is flush,
+	When crouching marrow, in the bearer strong,
+	Cries of itself, 'No more:' now breathless wrong
+	Shall sit and pant in your great chairs of ease,
+	And pursy insolence shall break his wind
+	With fear and horrid flight.
+<SPEECH 37><ACT 5><SCENE 4><99%>
+	Then there's my glove;
+	Descend, and open your uncharged ports:
+	Those enemies of Timon's and mine own
+	Whom you yourselves shall set out for reproof,
+	Fall, and no more; and, to atone your fears
+	With my more noble meaning, not a man
+	Shall pass his quarter, or offend the stream
+	Of regular justice in your city's bounds,
+	But shall be render'd to your public laws
+	At heaviest answer.
+<SPEECH 38><ACT 5><SCENE 4><99%>
+	Descend, and keep your words.
+<SPEECH 39><ACT 5><SCENE 4><99%>
+	Here lies a wretched corse, of wretched soul bereft:
+	Seek not my name: a plague consume you wicked caitiffs left!
+	Here lie I, Timon; who, alive, all living men did hate:
+	Pass by, and curse thy fill; but pass and stay not here thy gait.
+	These well express in thee thy latter spirits:
+	Though thou abhorr'dst in us our human griefs,
+	Scorn'dst our brain's flow and those our droplets which
+	From niggard nature fall, yet rich conceit
+	Taught thee to make vast Neptune weep for aye
+	On thy low grave, on faults forgiven. Dead
+	Is noble Timon; of whose memory
+	Hereafter more. Bring me into your city,
+	And I will use the olive with my sword;
+	Make war breed peace; make peace stint war; make each
+	Prescribe to other as each other's leech.
+	Let our drums strike.

@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	So please my lord, I might not be admitted;
+	But from her handmaid do return this answer:
+	The element itself, till seven years' heat,
+	Shall not behold her face at ample view;
+	But, like a cloistress, she will veiled walk,
+	And water once a day her chamber round
+	With eve-offending brine: all this, to season
+	A brother's dead love, which she would keep fresh
+	And lasting in her sad remembrance.
+<SPEECH 2><ACT 1><SCENE 4><10%>
+	If the duke continue these favours towards you, Cesario, you are like to be much advanced: he hath known you but three days, and already you are no stranger.
+<SPEECH 3><ACT 1><SCENE 4><10%>
+	No, believe me.

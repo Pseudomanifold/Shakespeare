@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 4><SCENE XII.— ><81%>
+	Where's Antony?
+<SPEECH 2><ACT 4><SCENE XII.— ><81%>
+	Lives he?
+	Wilt thou not answer, man?
+<SPEECH 3><ACT 4><SCENE XII.— ><82%>
+	Most absolute lord,
+	My mistress Cleopatra sent me to thee.
+<SPEECH 4><ACT 4><SCENE XII.— ><82%>
+	Now, my lord.
+<SPEECH 5><ACT 4><SCENE XII.— ><82%>
+	Lock'd in her monument. She had a prophesying fear
+	Of what hath come to pass; for when she saw—
+	Which never shall be found—you did suspect
+	She had dispos'd with Cæsar, and that your rage
+	Would not be purg'd, she sent you word she was dead;
+	But, fearing since how it might work, hath sent
+	Me to proclaim the truth; and I am come,
+	I dread, too late.
+<SPEECH 6><ACT 4><SCENE XII.— ><82%>
+	What, ho! the emperor's guard! The guard, what, ho!
+	Come, your lord calls!
+<SPEECH 7><ACT 4><SCENE XIII.— ><83%>
+	His death's upon him, but not dead.
+	Look out o' the other side your monument;
+	His guard have brought him thither.

@@ -1,0 +1,129 @@
+<SPEECH 1><ACT 3><SCENE 3><45%>
+	Hilloa, loa!
+<SPEECH 2><ACT 3><SCENE 3><45%>
+	I have seen two such sights by sea and by land! but I am not to say it is a see, for it is now the sky: betwixt the firmament and it you cannot thrust a bodkin's point.
+<SPEECH 3><ACT 3><SCENE 3><45%>
+	I would you did but see how it chafes, how it rages, how it takes up the shore! but that's not to the point. O! the most piteous cry of the poor souls; sometimes to see 'em, and not to see 'em; now the ship boring the moon with her mainmast, and anon swallowed with yest and froth, as you'd thrust a cork into a hogshead. And then for the land-service: to see how the bear tore out his shoulderbone; how he cried to me for help and said his name was Antigonus, a nobleman. But to make an end of the ship: to see how the sea flap-dragoned it: but, first, how the poor souls roared, and the sea mocked them; and how the poor gentleman roared, and the bear mocked him, both roaring louder than the sea or weather.
+<SPEECH 4><ACT 3><SCENE 3><45%>
+	Now, now; I have not winked since I saw these sights: the men are not yet cold under water, nor the bear half dined on the gentleman: he's at it now.
+<SPEECH 5><ACT 3><SCENE 3><45%>
+	I would you had been by the ship's side, to have helped her: there your charity would have lacked footing.
+<SPEECH 6><ACT 3><SCENE 3><46%>
+	You're a made old man: if the sins of your youth are forgiven you, you're well to live. Gold! all gold!
+<SPEECH 7><ACT 3><SCENE 3><46%>
+	Go you the next way with your findings. I'll go see if the bear be gone from the gentleman, and how much he hath eaten: they are never curst but when they are hungry. If there be any of him left, I'll bury it.
+<SPEECH 8><ACT 3><SCENE 3><46%>
+	Marry, will I; and you shall help to put him i' the ground.
+<SPEECH 9><ACT 4><SCENE 2><50%>
+	Let me see: Every 'leven wether tods; every tod yields pound and odd shilling: fifteen hundred shorn, what comes the wool to?
+<SPEECH 10><ACT 4><SCENE 2><50%>
+	I cannot do't without compters. Let me see; what am I to buy for our sheep-shearing feast? 'Three pound of sugar; five pound of currants; rice,' what will this sister of mine do with rice? But my father hath made her mistress of the feast, and she lays it on. She hath made me four-and-twenty nosegays for the shearers, three-man song-men all, and very good ones; but they are most of them means and bases: but one puritan amongst them, and he sings psalms to hornpipes. I must have saffron, to colour the warden pies; mace, dates,—none; that's out of my note:—nutmegs seven; a race or two of ginger,—but that I may beg;—four pound of prunes, and as many of raisins o' the sun.
+<SPEECH 11><ACT 4><SCENE 2><51%>
+	I' the name of me!—
+<SPEECH 12><ACT 4><SCENE 2><51%>
+	Alack, poor soul! thou hast need of more rags to lay on thee, rather than have these off.
+<SPEECH 13><ACT 4><SCENE 2><51%>
+	Alas, poor man! a million of beating may come to a great matter.
+<SPEECH 14><ACT 4><SCENE 2><51%>
+	What, by a horseman or a footman?
+<SPEECH 15><ACT 4><SCENE 2><51%>
+	Indeed, he should be a footman, by the garments he hath left with thee: if this be a horseman's coat, it hath seen very hot service. Lend me thy hand, I'll help thee: come, lend me thy hand.
+<SPEECH 16><ACT 4><SCENE 2><52%>
+	Alas, poor soul!
+<SPEECH 17><ACT 4><SCENE 2><52%>
+	How now! canst stand?
+<SPEECH 18><ACT 4><SCENE 2><52%>
+	Dost lack any money? I have a little money for thee.
+<SPEECH 19><ACT 4><SCENE 2><52%>
+	What manner of fellow was he that robbed you?
+<SPEECH 20><ACT 4><SCENE 2><52%>
+	His vices, you would say: there's no virtue whipped out of the court: they cherish it, to make it stay there, and yet it will no more but abide.
+<SPEECH 21><ACT 4><SCENE 2><53%>
+	Out upon him! Prig, for my life, prig: he haunts wakes, fairs, and bear-baitings.
+<SPEECH 22><ACT 4><SCENE 2><53%>
+	Not a more cowardly rogue in all Bohemia: if you had but looked big and spit at him, he'd have run.
+<SPEECH 23><ACT 4><SCENE 2><53%>
+	How do you now?
+<SPEECH 24><ACT 4><SCENE 2><53%>
+	Shall I bring thee on the way?
+<SPEECH 25><ACT 4><SCENE 2><53%>
+	Then fare thee well: I must go buy spices for our sheep-shearing.
+<SPEECH 26><ACT 4><SCENE 3><59%>
+	Come on, strike up.
+<SPEECH 27><ACT 4><SCENE 3><59%>
+	Not a word, a word: we stand upon our manners.
+	Come, strike up.
+<SPEECH 28><ACT 4><SCENE 3><60%>
+	He could never come better: he shall come in: I love a ballad but even too well, if it be doleful matter merrily set down, or a very pleasant thing indeed and sung lamentably.
+<SPEECH 29><ACT 4><SCENE 3><60%>
+	Believe me, thou talkest of an admirable conceited fellow. Has he any unbraided wares?
+<SPEECH 30><ACT 4><SCENE 3><60%>
+	Prithee, bring him in, and let him approach singing.
+<SPEECH 31><ACT 4><SCENE 3><60%>
+	You have of these pedlars, that have more in them than you'd think, sister.
+<SPEECH 32><ACT 4><SCENE 3><61%>
+	If I were not in love with Mopsa, thou shouldst take no money of me; but being enthralled as I am, it will also be the bondage of certain ribands and gloves.
+<SPEECH 33><ACT 4><SCENE 3><61%>
+	Is there no manners left among maids? will they wear their plackets where they should bear their faces? Is there not milking-time, when you are going to bed, or kiln-hole, to whistle off these secrets, but you must be tittle-tattling before all our guests? 'Tis well they are whispering: clamour your tongues, and not a word more.
+<SPEECH 34><ACT 4><SCENE 3><61%>
+	Have I not told thee how I was cozened by the way, and lost all my money?
+<SPEECH 35><ACT 4><SCENE 3><62%>
+	Fear not thou, man, thou shalt lose nothing here.
+<SPEECH 36><ACT 4><SCENE 3><62%>
+	What hast here? ballads?
+<SPEECH 37><ACT 4><SCENE 3><62%>
+	Come on, lay it by: and let's first see moe ballads; we'll buy the other things anon.
+<SPEECH 38><ACT 4><SCENE 3><62%>
+	Lay it by too: another.
+<SPEECH 39><ACT 4><SCENE 3><63%>
+	We'll have this song out anon by ourselves: my father and the gentlemen are in sad talk, and we'll not trouble them: come, bring away thy pack after me. Wenches, I'll buy for you both. Pedlar, let's have the first choice. Follow me, girls.
+<SPEECH 40><ACT 4><SCENE 3><76%>
+	See, see, what a man you are now! There is no other way but to tell the king she's a changeling and none of your flesh and blood.
+<SPEECH 41><ACT 4><SCENE 3><76%>
+	Nay, but hear me.
+<SPEECH 42><ACT 4><SCENE 3><76%>
+	She being none of your flesh and blood, your flesh and blood has not offended the king; and so your flesh and blood is not to be punished by him. Show those things you found about her; those secret things, all but what she has with her: this being done, let the law go whistle: I warrant you.
+<SPEECH 43><ACT 4><SCENE 3><76%>
+	Indeed, brother-in-law was the furthest off you could have been to him, and then your blood had been the dearer by I know not how much an ounce.
+<SPEECH 44><ACT 4><SCENE 3><77%>
+	Pray heartily he be at palace.
+<SPEECH 45><ACT 4><SCENE 3><77%>
+	We are but plain fellows, sir.
+<SPEECH 46><ACT 4><SCENE 3><77%>
+	Your worship had like to have given us one, if you had not taken yourself with the manner.
+<SPEECH 47><ACT 4><SCENE 3><78%>
+	Advocate's the court-word for a pheasant: say you have none.
+<SPEECH 48><ACT 4><SCENE 3><78%>
+	This cannot be but a great courtier.
+<SPEECH 49><ACT 4><SCENE 3><78%>
+	He seems to be the more noble in being fantastical: a great man, I'll warrant; I know by the picking on's teeth.
+<SPEECH 50><ACT 4><SCENE 3><79%>
+	Think you so, sir?
+<SPEECH 51><ACT 4><SCENE 3><79%>
+	Has the old man e'er a son, sir, do you hear, an't like you, sir?
+<SPEECH 52><ACT 4><SCENE 3><80%>
+	He seems to be of great authority: close with him, give him gold; and though authority be a stubborn bear, yet he is oft led by the nose with gold. Show the inside of your purse to the outside of his hand, and no more ado. Remember, 'stoned,' and 'flayed alive!'
+<SPEECH 53><ACT 4><SCENE 3><80%>
+	In some sort, sir: but though my case be a pitiful one, I hope I shall not be flayed out of it.
+<SPEECH 54><ACT 4><SCENE 3><80%>
+	Comfort, good comfort! we must to the king and show our strange sights: he must know 'tis none of your daughter nor my sister; we are gone else. Sir, I will give you as much as this old man does when the business is performed; and remain, as he says, your pawn till it be brought you.
+<SPEECH 55><ACT 4><SCENE 3><80%>
+	We are blessed in this man, as I may say, even blessed.
+<SPEECH 56><ACT 5><SCENE 2><93%>
+	You are well met, sir. You denied to fight with me this other day, because I was no gentleman born: see you these clothes? say, you see them not and think me still no gentleman born: you were best say these robes are not gentleman born. Give me the lie, do, and try whether I am not now gentleman born.
+<SPEECH 57><ACT 5><SCENE 2><93%>
+	Ay, and have been so any time these four hours.
+<SPEECH 58><ACT 5><SCENE 2><94%>
+	So you have: but I was a gentleman born before my father; for the king's son took me by the hand and called me brother; and then the two kings called my father brother; and then the prince my brother and the princess my sister called my father father; and so we wept: and there was the first gentleman-like tears that ever we shed.
+<SPEECH 59><ACT 5><SCENE 2><94%>
+	Ay; or else 'twere hard luck, being in so preposterous estate as we are.
+<SPEECH 60><ACT 5><SCENE 2><94%>
+	Thou wilt amend thy life?
+<SPEECH 61><ACT 5><SCENE 2><94%>
+	Give me thy hand: I will swear to the prince thou art as honest a true fellow as any is in Bohemia.
+<SPEECH 62><ACT 5><SCENE 2><94%>
+	Not swear it, now I am a gentleman? Let boors and franklins say it, I'll swear it.
+<SPEECH 63><ACT 5><SCENE 2><94%>
+	If it be ne'er so false, a true gentleman may swear it in the behalf of his friend: and I'll swear to the prince thou art a tall fellow of thy hands and that thou wilt not be drunk; but I know thou art no tall fellow of thy hands and that thou wilt be drunk: but I'll swear it, and I would thou wouldst be a tall fellow of thy hands.
+<SPEECH 64><ACT 5><SCENE 2><95%>
+	Ay, by any means prove a tall fellow: if I do not wonder how thou darest venture to be drunk, not being a tall fellow, trust me not. Hark! the kings and the princes, our kindred, are going to see the queen's picture. Come, follow us: we'll be thy good masters.

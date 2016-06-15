@@ -1,0 +1,51 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	What! art thou drawn among these heartless hinds?
+	Turn-thee, Benvolio, look upon thy death.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	What! drawn, and talk of peace? I hate the word,
+	As I hate hell, all Montagues, and thee.
+	Have at thee, coward!
+<SPEECH 3><ACT 1><SCENE 5><21%>
+	This, by his voice, should be a Montague.
+	Fetch me my rapier, boy. What! dares the slave
+	Come hither, cover'd with an antick face,
+	To fleer and scorn at our solemnity?
+	Now, by the stock and honour of my kin,
+	To strike him dead I hold it not a sin.
+<SPEECH 4><ACT 1><SCENE 5><21%>
+	Uncle, this is a Montague, our foe;
+	A villain that is hither come in spite,
+	To scorn at our solemnity this night.
+<SPEECH 5><ACT 1><SCENE 5><21%>
+	'Tis he, that villain Romeo.
+<SPEECH 6><ACT 1><SCENE 5><22%>
+	It fits, when such a villain is a guest:
+	I'll not endure him.
+<SPEECH 7><ACT 1><SCENE 5><22%>
+	Why, uncle, 'tis a shame.
+<SPEECH 8><ACT 1><SCENE 5><22%>
+	Patience perforce with wilful choler meeting
+	Makes my flesh tremble in their different greeting.
+	I will withdraw; but this intrusion shall
+	Now seeming sweet convert to bitter gall.
+<SPEECH 9><ACT 3><SCENE 1><47%>
+	Follow me close, for I will speak to them. Gentlemen, good den! a word with one of you.
+<SPEECH 10><ACT 3><SCENE 1><47%>
+	You shall find me apt enough to that, sir, an you will give me occasion.
+<SPEECH 11><ACT 3><SCENE 1><47%>
+	Mercutio, thou consort'st with Romeo,—
+<SPEECH 12><ACT 3><SCENE 1><48%>
+	Well, peace be with you, sir. Here comes my man.
+<SPEECH 13><ACT 3><SCENE 1><48%>
+	Romeo, the hate I bear thee can afford
+	No better term than this,—thou art a villain.
+<SPEECH 14><ACT 3><SCENE 1><48%>
+	Boy, this shall not excuse the injuries
+	That thou hast done me; therefore turn and draw.
+<SPEECH 15><ACT 3><SCENE 1><48%>
+	What wouldst thou have with me?
+<SPEECH 16><ACT 3><SCENE 1><48%>
+	</STAGE DIR> I am for you.
+<SPEECH 17><ACT 3><SCENE 1><50%>
+	Thou wretched boy, that didst consort him here,
+	Shalt with him hence.

@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 5><SCENE 2><84%>
+	Stay! whence are you?
+<SPEECH 2><ACT 5><SCENE 2><84%>
+	From whence?
+<SPEECH 3><ACT 5><SCENE 2><84%>
+	You may not pass; you must return: our general
+	Will no more hear from thence.
+<SPEECH 4><ACT 5><SCENE 2><84%>
+	Be it so; go back: the virtue of your name
+	Is not here passable.
+<SPEECH 5><ACT 5><SCENE 2><84%>
+	Faith, sir, if you had told as many lies in his behalf as you have uttered words in your own, you should not pass here; no, though it were as virtuous to lie as to live chastely. Therefore go back.
+<SPEECH 6><ACT 5><SCENE 2><85%>
+	You are a Roman, are you?
+<SPEECH 7><ACT 5><SCENE 2><85%>
+	Then you should hate Rome, as he does. Can you, when you have pushed out your gates the very defender of them, and, in a violent popular ignorance, given your enemy your shield, think to front his revenges with the easy groans of old women, the virginal palms of your daughters, or with the palsied intercession of such a decayed dotant as you seem to be? Can you think to blow out the intended fire your city is ready to flame in with such weak breath as this? No, you are deceived; therefore, back to Rome, and prepare for your execution: you are condemned, our general has sworn you out of reprieve and pardon.
+<SPEECH 8><ACT 5><SCENE 2><85%>
+	My general cares not for you.
+	Back, I say: go, lest I let forth your half-pint of blood; back, that's the utmost of your having: back.
+<SPEECH 9><ACT 5><SCENE 2><87%>
+	Now, sir, is your name Menenius?
+<SPEECH 10><ACT 5><SCENE 2><87%>
+	Do you hear how we are shent for keeping your greatness back?
+<SPEECH 11><ACT 5><SCENE 2><87%>
+	A noble fellow, I warrant him.

@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 3><SCENE 4><65%>
+	Why should we in the compass of a pale
+	Keep law and form and due proportion,
+	Showing, as in a model, our firm estate,
+	When our sea-walled garden, the whole land,
+	Is full of weeds, her fairest flowers chok'd up,
+	Her fruit-trees all unprun'd, her hedges ruin'd,
+	Her knots disorder'd, and her wholesome herbs
+	Swarming with caterpillars?
+<SPEECH 2><ACT 3><SCENE 4><65%>
+	What! are they dead?
+<SPEECH 3><ACT 3><SCENE 4><66%>
+	What! think you then the king shall be depos'd?

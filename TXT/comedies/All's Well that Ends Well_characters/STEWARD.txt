@@ -1,0 +1,28 @@
+<SPEECH 1><ACT 1><SCENE 3><11%>
+	Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty and make foul the clearness of our deservings, when of ourselves we publish them.
+<SPEECH 2><ACT 1><SCENE 3><13%>
+	May it please you, madam, that he bid Helen come to you: of her I am to speak.
+<SPEECH 3><ACT 1><SCENE 3><14%>
+	I know, madam, you love your gentlewoman entirely.
+<SPEECH 4><ACT 1><SCENE 3><14%>
+	Madam, I was very late more near her than I think she wished me: alone she was, and did communicate to herself her own words to her own ears; she thought, I dare vow for her, they touched not any stranger sense. Her matter was, she loved your son: Fortune, she said, was no goddess, that had put such difference betwixt their two estates; Love no god, that would not extend his might, only where qualities were level; Dian no queen of virgins, that would suffer her poor knight surprised, without rescue in the first assault or ransom afterward. This she delivered in the most bitter touch of sorrow that e'er I heard virgin exclaim in; which I held my duty speedily to acquaint you withal, sithence in the loss that may happen, it concerns you something to know it.
+<SPEECH 5><ACT 3><SCENE 4><51%>
+	I am Saint Jaques' pilgrim, thither gone:
+	Ambitious love hath so in me offended
+	That bare-foot plod I the cold ground upon
+	With sainted vow my faults to have amended.
+	Write, write, that from the bloody course of war,
+	My dearest master, your dear son, may hie:
+	Bless him at home in peace, whilst I from far
+	His name with zealous fervour sanctify:
+	His taken labours bid him me forgive;
+	I, his despiteful Juno, sent him forth
+	From courtly friends, with camping foes to live,
+	Where death and danger dog the heels of worth:
+	He is too good and fair for Death and me;
+	Whom I myself embrace, to set him free.
+<SPEECH 6><ACT 3><SCENE 4><51%>
+	Pardon me, madam:
+	If I had given you this at over-night
+	She might have been o'erta'en; and yet she writes,
+	Pursuit would be but vain.

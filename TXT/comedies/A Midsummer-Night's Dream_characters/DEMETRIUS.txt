@@ -1,0 +1,186 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+	Relent, sweet Hermia; and, Lysander, yield
+	Thy crazed title to my certain right.
+<SPEECH 2><ACT 2><SCENE 1><25%>
+	I love thee not, therefore pursue me not.
+	Where is Lysander and fair Hermia?
+	The one I'll slay, the other slayeth me.
+	Thou told'st me they were stol'n into this wood;
+	And here am I, and wood within this wood,
+	Because I cannot meet my Hermia.
+	Hence! get thee gone, and follow me no more.
+<SPEECH 3><ACT 2><SCENE 1><26%>
+	Do I entice you? Do I speak you fair?
+	Or, rather, do I not in plainest truth
+	Tell you I do not nor I cannot love you?
+<SPEECH 4><ACT 2><SCENE 1><26%>
+	Tempt not too much the hatred of my spirit,
+	For I am sick when I do look on you.
+<SPEECH 5><ACT 2><SCENE 1><26%>
+	You do impeach your modesty too much,
+	To leave the city, and commit yourself
+	Into the hands of one that loves you not;
+	To trust the opportunity of night
+	And the ill counsel of a desert place
+	With the rich worth of your virginity.
+<SPEECH 6><ACT 2><SCENE 1><27%>
+	I'll run from thee and hide me in the brakes,
+	And leave thee to the mercy of wild beasts.
+<SPEECH 7><ACT 2><SCENE 1><27%>
+	I will not stay thy questions: let me go;
+	Or, if thou follow me, do not believe
+	But I shall do thee mischief in the wood.
+<SPEECH 8><ACT 2><SCENE 2><33%>
+	I charge thee, hence, and do not haunt me thus.
+<SPEECH 9><ACT 2><SCENE 2><33%>
+	Stay, on thy peril: I alone will go.
+<SPEECH 10><ACT 3><SCENE 2><48%>
+	O! why rebuke you him that loves you so?
+	Lay breath so bitter on your bitter foe.
+<SPEECH 11><ACT 3><SCENE 2><49%>
+	So should the murder'd look, and so should I,
+	Pierc'd through the heart with your stern cruelty;
+	Yet you, the murderer, look as bright, as clear,
+	As yonder Venus in her glimmering sphere.
+<SPEECH 12><ACT 3><SCENE 2><49%>
+	I had rather give his carcass to my hounds.
+<SPEECH 13><ACT 3><SCENE 2><49%>
+	You spend your passion on a mispris'd mood:
+	I am not guilty of Lysander's blood,
+	Nor is he dead, for aught that I can tell.
+<SPEECH 14><ACT 3><SCENE 2><49%>
+	An if I could, what should I get therefore?
+<SPEECH 15><ACT 3><SCENE 2><50%>
+	There is no following her in this fierce vein:
+	Here therefore for awhile I will remain.
+	So sorrow's heaviness doth heavier grow
+	For debt that bankrupt sleep doth sorrow owe;
+	Which now in some slight measure it will pay,
+	If for his tender here I make some stay.
+<SPEECH 16><ACT 3><SCENE 2><52%>
+	</STAGE DIR> O Helen! goddess, nymph, perfect, divine!
+	To what, my love, shall I compare thine eyne?
+	Crystal is muddy. O! how ripe in show
+	Thy lips, those kissing cherries, tempting grow,
+	This pure congealed white, high Taurus' snow,
+	Fann'd with the eastern wind, turns to a crow
+	When thou hold'st up thy hand. O! let me kiss
+	That princess of pure white, this seal of bliss.
+<SPEECH 17><ACT 3><SCENE 2><54%>
+	Lysander, keep thy Hermia; I will none:
+	If e'er I lov'd her, all that love is gone.
+	My heart with her but as guest wise sojourn'd,
+	And now to Helen it is home return'd,
+	There to remain.
+<SPEECH 18><ACT 3><SCENE 2><54%>
+	Disparage not the faith thou dost not know,
+	Lest to thy peril thou aby it dear.
+	Look! where thy love comes: yonder is thy dear.
+<SPEECH 19><ACT 3><SCENE 2><57%>
+	If she cannot entreat, I can compel.
+<SPEECH 20><ACT 3><SCENE 2><58%>
+	I say I love thee more than he can do.
+<SPEECH 21><ACT 3><SCENE 2><58%>
+	Quick, come!
+<SPEECH 22><ACT 3><SCENE 2><58%>
+	No, no, he'll . . .
+	Seem to break loose; take on, as you would follow,
+	But yet come not: you are a tame man, go!
+<SPEECH 23><ACT 3><SCENE 2><58%>
+	I would I had your bond, for I perceive
+	A weak bond holds you: I'll not trust your word.
+<SPEECH 24><ACT 3><SCENE 2><61%>
+	No, sir; she shall not, though you take her part.
+<SPEECH 25><ACT 3><SCENE 2><61%>
+	You are too officious
+	In her behalf that scorns your services.
+	Let her alone; speak not of Helena;
+	Take not her part, for, if thou dost intend
+	Never so little show of love to her,
+	Thou shalt aby it.
+<SPEECH 26><ACT 3><SCENE 2><62%>
+	Follow! nay, I'll go with thee, cheek by jole.
+<SPEECH 27><ACT 3><SCENE 2><65%>
+	Lysander! speak again.
+	Thou runaway, thou coward, art thou fled?
+	Speak! In some bush? Where dost thou hide thy head?
+<SPEECH 28><ACT 3><SCENE 2><65%>
+	Yea, art thou there?
+<SPEECH 29><ACT 3><SCENE 2><66%>
+	Abide me, if thou dar'st; for well I wot
+	Thou runn'st before me, shifting every place,
+	And dar'st not stand, nor look me in the face.
+	Where art thou now?
+<SPEECH 30><ACT 3><SCENE 2><66%>
+	Nay then, thou mock'st me. Thou shalt buy this dear,
+	If ever I thy face by daylight see:
+	Now, go thy way. Faintness constraineth me
+	To measure out my length on this cold bed:
+	By day's approach look to be visited.
+<SPEECH 31><ACT 4><SCENE 1><76%>
+	My lord, fair Helen told me of their stealth,
+	Of this their purpose hither, to this wood;
+	And I in fury hither follow'd them,
+	Fair Helena in fancy following me.
+	But, my good lord, I wot not by what power,—
+	But by some power it is,—my love to Hermia,
+	Melted as doth the snow, seems to me now
+	As the remembrance of an idle gaud
+	Which in my childhood I did dote upon;
+	And all the faith, the virtue of my heart,
+	The object and the pleasure of mine eye,
+	Is only Helena. To her, my lord,
+	Was I betroth'd ere I saw Hermia:
+	But, like in sickness, did I loathe this food;
+	But, as in health, come to my natural taste,
+	Now do I wish it, love it, long for it,
+	And will for evermore be true to it.
+<SPEECH 32><ACT 4><SCENE 1><77%>
+	These things seem small and undistinguishable,
+	Like far-off mountains turned into clouds.
+<SPEECH 33><ACT 4><SCENE 1><77%>
+	Are you sure
+	That we are awake? It seems to me
+	That yet we sleep, we dream. Do you not think
+	The duke was here, and bid us follow him?
+<SPEECH 34><ACT 4><SCENE 1><77%>
+	Why then, we are awake. Let's follow him;
+	And by the way let us recount our dreams.
+<SPEECH 35><ACT 5><SCENE 1><88%>
+	No wonder, my lord: one lion may, when many asses do.
+	Wall. In this same interlude it doth befall
+	That I, one Snout by name, present a wall;
+	And such a wall, as I would have you think,
+	That had in it a crannied hole or chink,
+	Through which the lovers, Pyramus and Thisby,
+	Did whisper often very secretly.
+	This loam, this rough-cast, and this stone doth show
+	That I am that same wall; the truth is so;
+	And this the cranny is, right and sinister,
+	Through which the fearful lovers are to whisper.
+<SPEECH 36><ACT 5><SCENE 1><89%>
+	It is the wittiest partition that ever I heard discourse, my lord.
+<SPEECH 37><ACT 5><SCENE 1><91%>
+	No remedy, my lord, when walls are so wilful to hear without warning.
+<SPEECH 38><ACT 5><SCENE 1><92%>
+	The very best at a beast, my lord, that e'er I saw.
+<SPEECH 39><ACT 5><SCENE 1><92%>
+	Not so, my lord; for his valour cannot carry his discretion, and the fox carries the goose.
+<SPEECH 40><ACT 5><SCENE 1><92%>
+	He should have worn the horns on his head.
+<SPEECH 41><ACT 5><SCENE 1><93%>
+	He dares not come there for the candle; for, you see, it is already in snuff.
+<SPEECH 42><ACT 5><SCENE 1><93%>
+	Why, all these should be in the lanthorn; for all these are in the moon. But, silence! here comes Thisbe.
+<SPEECH 43><ACT 5><SCENE 1><93%>
+	Well roared, Lion.
+<SPEECH 44><ACT 5><SCENE 1><94%>
+	And then came Pyramus.
+<SPEECH 45><ACT 5><SCENE 1><95%>
+	No die, but an ace, for him; for he is but one.
+<SPEECH 46><ACT 5><SCENE 1><96%>
+	A mote will turn the balance, which Pyramus, which Thisbe, is the better: he for a man, God warrant us; she for a woman, God bless us.
+<SPEECH 47><ACT 5><SCENE 1><96%>
+	And thus she moans, videlicet:—
+<SPEECH 48><ACT 5><SCENE 1><97%>
+	Ay, and Wall too.

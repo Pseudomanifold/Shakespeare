@@ -1,0 +1,60 @@
+<SPEECH 1><ACT 1><SCENE 4><23%>
+	'Tis better, sir, than to be tedious.—
+	Let him see our commission, and talk no more.
+<SPEECH 2><ACT 1><SCENE 4><24%>
+	What! shall we stab him as he sleeps?
+<SPEECH 3><ACT 1><SCENE 4><24%>
+	When he wakes! why, fool, he shall never wake till the judgment-day.
+<SPEECH 4><ACT 1><SCENE 4><24%>
+	The urging of that word 'judgment' hath bred a kind of remorse in me.
+<SPEECH 5><ACT 1><SCENE 4><24%>
+	Not to kill him, having a warrant for it; but to be damn'd for killing him, from the which no warrant can defend me.
+<SPEECH 6><ACT 1><SCENE 4><24%>
+	So I am, to let him live.
+<SPEECH 7><ACT 1><SCENE 4><24%>
+	Nay, I prithee, stay a little: I hope my holy humour will change; it was wont to hold me but while one tells twenty.
+<SPEECH 8><ACT 1><SCENE 4><24%>
+	Some certain dregs of conscience are yet within me.
+<SPEECH 9><ACT 1><SCENE 4><24%>
+	'Zounds! he dies: I had forgot the reward.
+<SPEECH 10><ACT 1><SCENE 4><24%>
+	In the Duke of Gloucester's purse.
+<SPEECH 11><ACT 1><SCENE 4><24%>
+	'Tis no matter; let it go: there's few or none will entertain it.
+<SPEECH 12><ACT 1><SCENE 4><25%>
+	I'll not meddle with it; it makes a man a coward; a man cannot steal, but it accuseth him; a man cannot swear, but it checks him; a man cannot lie with his neighbour's wife, but it detects him: 'tis a blushing shamefast spirit, that mutinies in a man's bosom; it fills one full of obstacles; it made me once restore a purse of gold that I found; it beggars any man that keeps it; it is turned out of all towns and cities for a dangerous thing; and every man that means to live well, endeavours to trust to himself and live without it.
+<SPEECH 13><ACT 1><SCENE 4><25%>
+	Take the devil in thy mind, and believe him not: he would insinuate with thee but to make thee sigh.
+<SPEECH 14><ACT 1><SCENE 4><25%>
+	Spoke like a tall fellow that respects his reputation. Come, shall we to this gear?
+<SPEECH 15><ACT 1><SCENE 4><25%>
+	O, excellent device! make a sop of him.
+<SPEECH 16><ACT 1><SCENE 4><25%>
+	Strike!
+<SPEECH 17><ACT 1><SCENE 4><26%>
+	Never, my lord; therefore prepare to die.
+<SPEECH 18><ACT 1><SCENE 4><26%>
+	And he that hath commanded is our king.
+<SPEECH 19><ACT 1><SCENE 4><26%>
+	And that same vengeance doth he hurl on thee,
+	For false forswearing and for murder too:
+	Thou didst receive the sacrament to fight
+	In quarrel of the house of Lancaster.
+<SPEECH 20><ACT 1><SCENE 4><26%>
+	Whom thou wast sworn to cherish and defend.
+<SPEECH 21><ACT 1><SCENE 4><27%>
+	You are deceiv'd, your brother Gloucester hates you.
+<SPEECH 22><ACT 1><SCENE 4><27%>
+	Make peace with God, for you must die, my lord.
+<SPEECH 23><ACT 1><SCENE 4><28%>
+	What shall we do?
+<SPEECH 24><ACT 1><SCENE 4><28%>
+	Look behind you, my lord.
+<SPEECH 25><ACT 1><SCENE 4><28%>
+	A bloody deed, and desperately dispatch'd!
+	How fain, like Pilate, would I wash my hands
+	Of this most grievous murder.
+<SPEECH 26><ACT 1><SCENE 4><28%>
+	I would he knew that I had sav'd his brother!
+	Take thou the fee, and tell him what I say;
+	For I repent me that the duke is slain.

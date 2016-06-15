@@ -1,0 +1,43 @@
+<SPEECH 1><ACT 4><SCENE 5><79%>
+	It shall be speeded well.
+<SPEECH 2><ACT 4><SCENE 6><80%>
+	Come; I have found you out a stand most fit,
+	Where you may have such vantage on the duke,
+	He shall not pass you. Twice have the trumpets sounded:
+	The generous and gravest citizens
+	Have hent the gates, and very near upon
+	The duke is ent'ring: therefore hence, away!
+<SPEECH 3><ACT 5><SCENE 1><81%>
+	Now is your time: speak loud and kneel before him.
+<SPEECH 4><ACT 5><SCENE 1><85%>
+	Bless'd be your royal Grace!
+	I have stood by, my lord, and I have heard
+	Your royal ear abus'd. First, hath this woman
+	Most wrongfully accus'd your substitute,
+	Who is as free from touch or soil with her,
+	As she from one ungot.
+<SPEECH 5><ACT 5><SCENE 1><86%>
+	I know him for a man divine and holy;
+	Not scurvy, nor a temporary meddler,
+	As he's reported by this gentleman;
+	And, on my trust, a man that never yet
+	Did, as he vouches, misreport your Grace.
+<SPEECH 6><ACT 5><SCENE 1><86%>
+	Well; he in time may come to clear himself,
+	But at this instant he is sick, my lord,
+	Of a strange fever. Upon his mere request,
+	Being come to knowledge that there was complaint
+	Intended 'gainst Lord Angelo, came I hither,
+	To speak, as from his mouth, what he doth know
+	Is true and false; and what he with his oath
+	And all probation will make up full clear,
+	Whensoever he's convented. First, for this woman,
+	To justify this worthy nobleman,
+	So vulgarly and personally accus'd,
+	Her shall you hear disproved to her eyes,
+	Till she herself confess it.
+<SPEECH 7><ACT 5><SCENE 1><89%>
+	Would he were here, my lord; for he indeed
+	Hath set the women on to this complaint:
+	Your provost knows the place where he abides
+	And he may fetch him.

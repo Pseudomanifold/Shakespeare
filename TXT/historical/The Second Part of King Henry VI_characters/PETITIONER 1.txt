@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 1><SCENE 3><11%>
+	My masters, let's stand close: my Lord Protector will come this way by and by, and then we may deliver our supplications in the quill.
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	Here a' comes, methinks, and the queen with him. I'll be the first, sure.
+<SPEECH 3><ACT 1><SCENE 3><12%>
+	I pray, my lord, pardon me: I took ye for my Lord Protector.
+<SPEECH 4><ACT 1><SCENE 3><12%>
+	Mine is, an't please your Grace, against John Goodman, my Lord Cardinal's man, for keeping my house, and lands, my wife and all, from me.

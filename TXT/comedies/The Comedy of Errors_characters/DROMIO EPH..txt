@@ -1,0 +1,197 @@
+<SPEECH 1><ACT 1><SCENE 2><11%>
+	Return'd so soon! rather approach'd too late:
+	The capon burns, the pig falls from the spit,
+	The clock hath strucken twelve upon the bell;
+	My mistress made it one upon my cheek:
+	She is so hot because the meat is cold;
+	The meat is cold because you come not home;
+	You come not home because you have no stomach;
+	You have no stomach, having broke your fast;
+	But we, that know what 'tis to fast and pray,
+	Are penitent for your default to-day.
+<SPEECH 2><ACT 1><SCENE 2><11%>
+	O!—sixpence, that I had o' Wednesday last
+	To pay the saddler for my mistress' crupper;
+	The saddler had it, sir; I kept it not.
+<SPEECH 3><ACT 1><SCENE 2><12%>
+	I pray you, jest, sir, as you sit at dinner.
+	I from my mistress come to you in post;
+	If I return, I shall be post indeed,
+	For she will score your fault upon my pate.
+	Methinks your maw, like mine, should be your clock
+	And strike you home without a messenger.
+<SPEECH 4><ACT 1><SCENE 2><12%>
+	To me, sir? why, you gave no gold to me.
+<SPEECH 5><ACT 1><SCENE 2><12%>
+	My charge was but to fetch you from the mart
+	Home to your house, the Phœnix, sir, to dinner:
+	My mistress and her sister stays for you.
+<SPEECH 6><ACT 1><SCENE 2><13%>
+	I have some marks of yours upon my pate,
+	Some of my mistress' marks upon my shoulders,
+	But not a thousand marks between you both.
+	If I should pay your worship those again,
+	Perchance you will not bear them patiently.
+<SPEECH 7><ACT 1><SCENE 2><13%>
+	Your worship's wife, my mistress at the Phœnix;
+	She that doth fast till you come home to dinner,
+	And prays that you will hie you home to dinner.
+<SPEECH 8><ACT 1><SCENE 2><13%>
+	What mean you, sir? for God's sake, hold your hands!
+	Nay, an you will not, sir, I'll take my heels.
+<SPEECH 9><ACT 2><SCENE 1><17%>
+	Nay, he's at two hands with me, and that my two ears can witness.
+<SPEECH 10><ACT 2><SCENE 1><17%>
+	Ay, ay, he told his mind upon mine ear.
+	Beshrew his hand, I scarce could understand it.
+<SPEECH 11><ACT 2><SCENE 1><17%>
+	Nay, he struck so plainly, I could too well feel his blows; and withal so doubtfully, that I could scarce understand them.
+<SPEECH 12><ACT 2><SCENE 1><17%>
+	Why, mistress, sure my master is horn-mad.
+<SPEECH 13><ACT 2><SCENE 1><17%>
+	I mean not cuckold-mad; but, sure, he is stark mad.
+	When I desir'd him to come home to dinner,
+	He ask'd me for a thousand marks in gold:
+	''Tis dinner time,' quoth I; 'my gold!' quoth he:
+	'Your meat doth burn,' quoth I; 'my gold!' quoth he:
+	'Will you come home?' quoth I: 'my gold!' quoth he:
+	'Where is the thousand marks I gave thee, villain?'
+	'The pig,' quoth I, 'is burn'd;' 'my gold!' quoth he:
+	'My mistress, sir,' quoth I: 'hang up thy mistress!
+	I know not thy mistress: out on thy mistress!'
+<SPEECH 14><ACT 2><SCENE 1><18%>
+	Quoth my master:
+	'I know,' quoth he, 'no house, no wife, no mistress.'
+	So that my errand, due unto my tongue,
+	I thank him, I bear home upon my shoulders;
+	For, in conclusion, he did beat me there.
+<SPEECH 15><ACT 2><SCENE 1><18%>
+	Go back again, and be new beaten home?
+	For God's sake, send some other messenger.
+<SPEECH 16><ACT 2><SCENE 1><19%>
+	And he will bless that cross with other beating:
+	Between you, I shall have a holy head.
+<SPEECH 17><ACT 2><SCENE 1><19%>
+	Am I so round with you as you with me,
+	That like a football you do spurn me thus?
+	You spurn me hence, and he will spurn me hither:
+	If I last in this service, you must case me in leather.
+<SPEECH 18><ACT 3><SCENE 1><33%>
+	Say what you will, sir, but I know what I know;
+	That you beat me at the mart, I have your hand to show:
+	If the skin were parchment and the blows you gave were ink,
+	Your own handwriting would tell you what I think.
+<SPEECH 19><ACT 3><SCENE 1><33%>
+	Marry, so it doth appear
+	By the wrongs I suffer and the blows I bear.
+	I should kick, being kick'd; and, being at that pass,
+	You would keep from my heels and beware of an ass.
+<SPEECH 20><ACT 3><SCENE 1><34%>
+	Maud, Bridget, Marian, Cicely, Gillian, Ginn!
+<SPEECH 21><ACT 3><SCENE 1><34%>
+	What patch is made our porter?—My master stays in the street.
+<SPEECH 22><ACT 3><SCENE 1><35%>
+	O villain! thou hast stolen both mine office and my name:
+	The one ne'er got me credit, the other mickle blame.
+	If thou hadst been Dromio to-day in my place,
+	Thou wouldst have chang'd thy face for a name, or thy name for an ass.
+<SPEECH 23><ACT 3><SCENE 1><36%>
+	Let my master in, Luce.
+<SPEECH 24><ACT 3><SCENE 1><36%>
+	O Lord! I must laugh.
+	Have at you with a proverb: Shall I set in my staff?
+<SPEECH 25><ACT 3><SCENE 1><36%>
+	So come, help: well struck! there was blow for blow.
+<SPEECH 26><ACT 3><SCENE 1><37%>
+	Master, knock the door hard.
+<SPEECH 27><ACT 3><SCENE 1><37%>
+	If you went in pain, master, this 'knave' would go sore.
+<SPEECH 28><ACT 3><SCENE 1><37%>
+	They stand at the door, master: bid them welcome hither.
+<SPEECH 29><ACT 3><SCENE 1><38%>
+	You would say so, master, if your garments were thin.
+	Your cake here is warm within; you stand here in the cold:
+	It would make a man mad as a buck to be so bought and sold.
+<SPEECH 30><ACT 3><SCENE 1><38%>
+	A man may break a word with you, sir, and words are but wind:
+	Ay, and break it in your face, so he break it not behind.
+<SPEECH 31><ACT 3><SCENE 1><38%>
+	Here's too much 'out upon thee!' I pray thee, let me in.
+<SPEECH 32><ACT 3><SCENE 1><39%>
+	A crow without feather? Master, mean you so?
+	For a fish without a fin, there's a fowl without a feather:
+	If a crow help us in, sirrah, we'll pluck a crow together.
+<SPEECH 33><ACT 4><SCENE 1><52%>
+	I buy a thousand pound a year: I buy a rope!
+<SPEECH 34><ACT 4><SCENE 4><67%>
+	Here's that, I warrant you, will pay them all.
+<SPEECH 35><ACT 4><SCENE 4><68%>
+	Why, sir, I gave the money for the rope.
+<SPEECH 36><ACT 4><SCENE 4><68%>
+	I'll serve you, sir, five hundred at the rate.
+<SPEECH 37><ACT 4><SCENE 4><68%>
+	To a rope's end, sir; and to that end am I return'd.
+<SPEECH 38><ACT 4><SCENE 4><68%>
+	Nay, 'tis for me to be patient; I am in adversity.
+<SPEECH 39><ACT 4><SCENE 4><68%>
+	Nay, rather persuade him to hold his hands.
+<SPEECH 40><ACT 4><SCENE 4><68%>
+	I would I were senseless, sir, that I might not feel your blows.
+<SPEECH 41><ACT 4><SCENE 4><68%>
+	I am an ass indeed; you may prove it by my long ears. I have served him from the hour of my nativity to this instant, and have nothing at his hands for my service but blows. When I am cold, he heats me with beating; when I am warm, he cools me with beating; I am waked with it when I sleep; raised with it when I sit; driven out of doors with it when I go from home; welcomed home with it when I return; nay, I bear it on my shoulders, as a beggar wont her brat; and, I think, when he hath lamed me, I shall beg with it from door to door.
+<SPEECH 42><ACT 4><SCENE 4><69%>
+	Mistress, respice finem, respect your end; or rather, to prophesy like the parrot, 'Beware the rope's end.'
+<SPEECH 43><ACT 4><SCENE 4><71%>
+	Sir, sooth to say, you did not dine at home.
+<SPEECH 44><ACT 4><SCENE 4><71%>
+	Perdy, your doors were lock'd and you shut out.
+<SPEECH 45><ACT 4><SCENE 4><71%>
+	Sans fable, she herself revil'd you there.
+<SPEECH 46><ACT 4><SCENE 4><71%>
+	Certes, she did; the kitchen-vestal scorn'd you.
+<SPEECH 47><ACT 4><SCENE 4><71%>
+	In verity you did: my bones bear witness,
+	That since have felt the vigour of his rage.
+<SPEECH 48><ACT 4><SCENE 4><72%>
+	Money by me! heart and good will you might;
+	But surely, master, not a rag of money.
+<SPEECH 49><ACT 4><SCENE 4><72%>
+	God and the rope-maker bear me witness
+	That I was sent for nothing but a rope!
+<SPEECH 50><ACT 4><SCENE 4><73%>
+	And, gentle master, I receiv'd no gold;
+	But I confess, sir, that we were lock'd out.
+<SPEECH 51><ACT 4><SCENE 4><74%>
+	Master, I am here enter'd in bond for you.
+<SPEECH 52><ACT 4><SCENE 4><74%>
+	Will you be bound for nothing? be mad, good master; cry, 'the devil!'
+<SPEECH 53><ACT 5><SCENE 1><92%>
+	Sir, he din'd with her there, at the Porpentine.
+<SPEECH 54><ACT 5><SCENE 1><92%>
+	Within this hour I was his bondman, sir;
+	But he, I thank him, gnaw'd in two my cords:
+	Now am I Dromio and his man, unbound.
+<SPEECH 55><ACT 5><SCENE 1><93%>
+	Ourselves we do remember, sir, by you;
+	For lately we were bound, as you are now.
+	You are not Pinch's patient, are you, sir?
+<SPEECH 56><ACT 5><SCENE 1><93%>
+	No, trust me, sir, not I.
+<SPEECH 57><ACT 5><SCENE 1><93%>
+	Ay, sir; but I am sure I do not; and whatsoever a man denies, you are now bound to believe him.
+<SPEECH 58><ACT 5><SCENE 1><95%>
+	I, sir, am Dromio: pray let me stay.
+<SPEECH 59><ACT 5><SCENE 1><96%>
+	And I with him.
+<SPEECH 60><ACT 5><SCENE 1><97%>
+	No, none by me.
+<SPEECH 61><ACT 5><SCENE 1><99%>
+	Methinks you are my glass, and not my brother:
+	I see by you I am a sweet-fac'd youth.
+	Will you walk in to see their gossiping?
+<SPEECH 62><ACT 5><SCENE 1><100%>
+	That's a question: how shall we try it?
+<SPEECH 63><ACT 5><SCENE 1><100%>
+	Nay, then, thus:
+	We came into the world like brother and brother;
+	And now let's go hand in hand, not one before another.

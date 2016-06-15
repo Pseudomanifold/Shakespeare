@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 5><SCENE 1><84%>
+	Here, sir.
+<SPEECH 2><ACT 5><SCENE 1><84%>
+	Marry, sir, thus; those precepts cannot be served: and again, sir, shall we sow the headland with wheat?
+<SPEECH 3><ACT 5><SCENE 1><84%>
+	Yes, sir. Here is now the smith's note for shoeing and plough-irons.
+<SPEECH 4><ACT 5><SCENE 1><84%>
+	Now, sir, a new link to the bucket must needs be had: and, sir, do you mean to stop any of William's wages, about the sack he lost the other day at Hinckley fair?
+<SPEECH 5><ACT 5><SCENE 1><84%>
+	Doth the man of war stay all night, sir?
+<SPEECH 6><ACT 5><SCENE 1><84%>
+	No worse than they are back-bitten, sir; for they have marvellous foul linen.
+<SPEECH 7><ACT 5><SCENE 1><84%>
+	I beseech you, sir, to countenance William Visor of Wincot against Clement Perkes of the hill.
+<SPEECH 8><ACT 5><SCENE 1><84%>
+	I grant your worship that he is a knave, sir; but yet, God forbid, sir, but a knave should have some countenance at his friend's request. An honest man, sir, is able to speak for himself, when a knave is not. I have served your worship truly, sir, this eight years; and if I cannot once or twice in a quarter bear out a knave against an honest man, I have but a very little credit with your worship. The knave is mine honest friend, sir; therefore, I beseech your worship, let him be countenanced.
+<SPEECH 9><ACT 5><SCENE 3><91%>
+	Sweet sir, sit; I'll be with you anon: most sweet sir, sit. Master page, good master page, sit. Proface! What you want in meat we'll have in drink: but you must bear: the heart's all.
+<SPEECH 10><ACT 5><SCENE 3><92%>
+	There's a dish of leather-coats for you.
+<SPEECH 11><ACT 5><SCENE 3><92%>
+	Your worship! I'll be with you straight. A cup of wine, sir?
+<SPEECH 12><ACT 5><SCENE 3><92%>
+	I hope to see London once ere I die.
+<SPEECH 13><ACT 5><SCENE 3><93%>
+	An't please your worship, there's one Pistol come from the court with news.

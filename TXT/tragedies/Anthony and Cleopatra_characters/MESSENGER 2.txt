@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+	Fulvia thy wife is dead.
+<SPEECH 2><ACT 1><SCENE 2><6%>
+	In Sicyon:
+	Her length of sickness, with what else more serious
+	Importeth thee to know, this bears.

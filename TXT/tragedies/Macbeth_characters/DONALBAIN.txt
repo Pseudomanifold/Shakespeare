@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 2><SCENE 3><34%>
+	What is amiss?
+<SPEECH 2><ACT 2><SCENE 3><36%>
+	</STAGE DIR> What should be spoken
+	Here where our fate, hid in an auger-hole,
+	May rush and seize us? Let's away: our tears
+	Are not yet brew'd.
+<SPEECH 3><ACT 2><SCENE 3><36%>
+	To Ireland, I; our separated fortune
+	Shall keep us both the safer: where we are,
+	There's daggers in men's smiles: the near in blood,
+	The nearer bloody.

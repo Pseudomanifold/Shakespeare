@@ -1,0 +1,80 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	Young Prince of Tyre, you have at large receiv'd
+	The danger of the task you undertake.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	Bring in our daughter, clothed like a bride,
+	For the embracements even of Jove himself;
+	At whose conception, till Lucina reign'd,
+	Nature this dowry gave, to glad her presence,
+	The senate-house of planets all did sit,
+	To knit in her their best perfections.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Prince Pericles,—
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	Before thee stands this fair Hesperides,
+	With golden fruit, but dangerous to be touch'd;
+	For death-like dragons here affright thee hard:
+	Her face, like heaven, enticeth thee to view
+	Her countless glory, which desert must gain;
+	And which, without desert, because thine eye
+	Presumes to reach, all thy whole heap must die.
+	Yon sometime famous princes, like thyself,
+	Drawn by report, adventurous by desire,
+	Tell thee with speechless tongues and semblance pale,
+	That without covering, save yon field of stars,
+	They here stand martyrs, slain in Cupid's wars;
+	And with dead cheeks advise thee to desist
+	For going on death's net, whom none resist.
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	Scorning advice, read the conclusion then;
+	Which read and not expounded, 'tis decreed,
+	As these before thee thou thyself shalt bleed.
+<SPEECH 6><ACT 1><SCENE 1><5%>
+	Prince Pericles, touch not, upon thy life,
+	For that's an article within our law,
+	As dangerous as the rest. Your time's expir'd:
+	Either expound now or receive your sentence.
+<SPEECH 7><ACT 1><SCENE 1><6%>
+	</STAGE DIR> Heaven! that I had thy head; he has found the meaning;
+	But I will gloze with him. Young Prince of Tyre,
+	Though by the tenour of our strict edict,
+	Your exposition misinterpreting,
+	We might proceed to cancel of your days;
+	Yet hope, succeeding from so fair a tree
+	As your fair self, doth tune us otherwise:
+	Forty days longer we do respite you;
+	If by which time our secret be undone,
+	This mercy shows we'll joy in such a son:
+	And until then your entertain shall be
+	As doth befit our honour and your worth.
+<SPEECH 8><ACT 1><SCENE 1><8%>
+	He hath found the meaning, for which we mean
+	To take his head.
+	He must not live to trumpet forth my infamy,
+	Nor tell the world Antiochus doth sin
+	In such a loathed manner;
+	And therefore instantly this prince must die,
+	For by his fall my honour must keep high.
+	Who attends us there?
+<SPEECH 9><ACT 1><SCENE 1><8%>
+	Thaliard,
+	You're of our chamber, and our mind partakes
+	Her private actions to your secrecy;
+	And for your faithfulness we will advance you.
+	Thaliard, behold, here's poison, and here's gold;
+	We hate the Prince of Tyre, and thou must kill him:
+	It fits thee not to ask the reason why,
+	Because we bid it. Say, is it done?
+<SPEECH 10><ACT 1><SCENE 1><8%>
+	Enough.
+	Let your breath cool yourself, telling your haste.
+<SPEECH 11><ACT 1><SCENE 1><9%>
+	</STAGE DIR> As thou
+	Wilt live, fly after; and, as an arrow shot
+	From a well-experienc'd archer hits the mark
+	His eye doth level at, so thou ne'er return
+	Unless thou say 'Prince Pericles is dead.'
+<SPEECH 12><ACT 1><SCENE 1><9%>
+	Thaliard, adieu!
+	Till Pericles be dead,
+	My heart can lend no succour to my head.

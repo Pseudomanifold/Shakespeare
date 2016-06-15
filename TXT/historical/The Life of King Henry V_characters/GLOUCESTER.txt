@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 3><SCENE 6><48%>
+	I hope they will not come upon us now.
+<SPEECH 2><ACT 4><SCENE 1><55%>
+	We shall, my liege.
+<SPEECH 3><ACT 4><SCENE 1><63%>
+	My liege!
+<SPEECH 4><ACT 4><SCENE 3><66%>
+	Where is the king?
+<SPEECH 5><ACT 4><SCENE 7><76%>
+	His eyes are humbler than they us'd to be.

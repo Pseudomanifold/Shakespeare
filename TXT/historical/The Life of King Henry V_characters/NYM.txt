@@ -1,0 +1,40 @@
+<SPEECH 1><ACT 2><SCENE 1><15%>
+	Good morrow, Lieutenant Bardolph.
+<SPEECH 2><ACT 2><SCENE 1><15%>
+	For my part, I care not: I say little; but when time shall serve, there shall be smiles; but that shall be as it may. I dare not fight; but I will wink and hold out mine iron. It is a simple one; but what though? it will toast cheese, and it will endure cold as another man's sword will: and there's an end.
+<SPEECH 3><ACT 2><SCENE 1><15%>
+	Faith, I will live so long as I may, that's the certain of it; and when I cannot live any longer, I will do as I may: that is my rest, that is the rendezvous of it.
+<SPEECH 4><ACT 2><SCENE 1><15%>
+	I cannot tell; things must be as they may: men may sleep, and they may have their throats about them at that time; and, some say, knives have edges. It must be as it may: though patience be a tired mare, yet she will plod. There must be conclusions. Well, I cannot tell.
+<SPEECH 5><ACT 2><SCENE 1><16%>
+	Pish!
+<SPEECH 6><ACT 2><SCENE 1><16%>
+	Will you shog off? I would have you solus.
+<SPEECH 7><ACT 2><SCENE 1><16%>
+	I am not Barbason; you cannot conjure me. I have an humour to knock you indifferently well. If you grow foul with me, Pistol, I will scour you with my rapier, as I may, in fair terms: if you would walk off, I would prick your guts a little, in good terms, as I may; and that's the humour of it.
+<SPEECH 8><ACT 2><SCENE 1><17%>
+	I will cut thy throat, one time or other, in fair terms; that is the humour of it.
+<SPEECH 9><ACT 2><SCENE 1><17%>
+	You'll pay me the eight shillings I won of you at betting?
+<SPEECH 10><ACT 2><SCENE 1><17%>
+	That now I will have; that's the humour of it.
+<SPEECH 11><ACT 2><SCENE 1><18%>
+	I shall have my eight shillings I won of you at betting?
+<SPEECH 12><ACT 2><SCENE 1><18%>
+	I shall have my noble?
+<SPEECH 13><ACT 2><SCENE 1><18%>
+	Well then, that's the humour of it.
+<SPEECH 14><ACT 2><SCENE 1><18%>
+	The king hath run bad humours on the knight; that's the even of it.
+<SPEECH 15><ACT 2><SCENE 1><18%>
+	The king is a good king: but it must be as it may; he passes some humours and careers.
+<SPEECH 16><ACT 2><SCENE 3><25%>
+	They say he cried out of sack.
+<SPEECH 17><ACT 2><SCENE 3><25%>
+	Shall we shog? the king will be gone from Southampton.
+<SPEECH 18><ACT 2><SCENE 3><26%>
+	I cannot kiss, that is the humour of it; but, adieu.
+<SPEECH 19><ACT 3><SCENE 2><33%>
+	Pray thee, corporal, stay: the knocks are too hot; and for mine own part, I have not a case of lives: the humour of it is too hot, that is the very plain-song of it.
+<SPEECH 20><ACT 3><SCENE 2><33%>
+	These be good humours! your honour wins bad humours.

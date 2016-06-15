@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 2><SCENE 3><41%>
+	Cæsar, beware of Brutus; take heed of Cassius; come not near Casca; have an eye to Cinna; trust not Trebonius; mark well Metellus Cimber; Decius Brutus loves thee not; thou hast wronged Caius Ligarius. There is but one mind in all these men, and it is bent against Cæsar. If thou be'st not immortal, look about you: security gives way to conspiracy. The mighty gods defend thee! Thy lover,
+	<ARTEMIDORUS.>Here will I stand till Cæsar pass along,
+	And as a suitor will I give him this.
+	My heart laments that virtue cannot live
+	Out of the teeth of emulation.
+	If thou read this, O Cæsar! thou mayst live;
+	If not, the Fates with traitors do contrive.
+<SPEECH 2><ACT 3><SCENE 1><44%>
+	Hail, Cæsar! Read this schedule.
+<SPEECH 3><ACT 3><SCENE 1><44%>
+	O Cæsar! read mine first; for mine's a suit
+	That touches Cæsar nearer. Read it, great Cæsar.
+<SPEECH 4><ACT 3><SCENE 1><44%>
+	Delay not, Cæsar; read it instantly.

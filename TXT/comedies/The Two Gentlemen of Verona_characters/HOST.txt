@@ -1,0 +1,47 @@
+<SPEECH 1><ACT 4><SCENE 2><72%>
+	Now, my young guest, methinks you're allycholly: I pray you, why is it?
+<SPEECH 2><ACT 4><SCENE 2><72%>
+	Come, we'll have you merry. I'll bring you where you shall hear music and see the gentleman that you asked for.
+<SPEECH 3><ACT 4><SCENE 2><72%>
+	Ay, that you shall.
+<SPEECH 4><ACT 4><SCENE 2><72%>
+	Hark! hark!
+<SPEECH 5><ACT 4><SCENE 2><72%>
+	Ay; but peace! let's hear 'em.
+	Who is Silvia? what is she?
+	That all our swains commend her?
+	Holy, fair, and wise is she;
+	The heaven such grace did lend her,
+	That she might admired be.
+	Is she kind as she is fair?
+	For beauty lives with kindness:
+	Love doth to her eyes repair,
+	To help him of his blindness;
+	And, being help'd, inhabits there.
+	Then to Silvia let us sing,
+	That Silvia is excelling;
+	She excels each mortal thing
+	Upon the dull earth dwelling;
+	To her let us garlands bring.
+<SPEECH 6><ACT 4><SCENE 2><73%>
+	How now! are you sadder than you were before? How do you, man? the music likes you not.
+<SPEECH 7><ACT 4><SCENE 2><73%>
+	Why, my pretty youth?
+<SPEECH 8><ACT 4><SCENE 2><73%>
+	How? out of tune on the strings?
+<SPEECH 9><ACT 4><SCENE 2><73%>
+	You have a quick ear.
+<SPEECH 10><ACT 4><SCENE 2><73%>
+	I perceive you delight not in music.
+<SPEECH 11><ACT 4><SCENE 2><73%>
+	Hark! what fine change is in the music!
+<SPEECH 12><ACT 4><SCENE 2><73%>
+	You would have them always play but one thing?
+<SPEECH 13><ACT 4><SCENE 2><73%>
+	I will tell you what Launce, his man, told me: he lov'd her out of all nick.
+<SPEECH 14><ACT 4><SCENE 2><74%>
+	Gone to seek his dog; which, to-morrow, by his master's command, he must carry for a present to his lady.
+<SPEECH 15><ACT 4><SCENE 2><76%>
+	By my halidom, I was fast asleep.
+<SPEECH 16><ACT 4><SCENE 2><76%>
+	Marry, at my house. Trust me, I think 'tis almost day.

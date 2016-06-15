@@ -1,0 +1,57 @@
+<SPEECH 1><ACT 1><SCENE 3><10%>
+	But had he died in the business, madam; how then?
+<SPEECH 2><ACT 1><SCENE 3><10%>
+	Beseech you, give me leave to retire myself.
+<SPEECH 3><ACT 1><SCENE 3><11%>
+	His bloody brow! O Jupiter! no blood.
+<SPEECH 4><ACT 1><SCENE 3><11%>
+	Heavens bless my lord from fell Aufidius!
+<SPEECH 5><ACT 1><SCENE 3><11%>
+	I am glad to see your ladyship.
+<SPEECH 6><ACT 1><SCENE 3><11%>
+	I thank your ladyship; well, good madam.
+<SPEECH 7><ACT 1><SCENE 3><11%>
+	A crack, madam.
+<SPEECH 8><ACT 1><SCENE 3><12%>
+	No, good madam; I will not out of doors.
+<SPEECH 9><ACT 1><SCENE 3><12%>
+	Indeed, no, by your patience; I'll not over the threshold till my lord return from the wars.
+<SPEECH 10><ACT 1><SCENE 3><12%>
+	I will wish her speedy strength, and visit her with my prayers; but I cannot go thither.
+<SPEECH 11><ACT 1><SCENE 3><12%>
+	'Tis not to save labour, nor that I want love.
+<SPEECH 12><ACT 1><SCENE 3><12%>
+	No, good madam, pardon me; indeed, I will not forth.
+<SPEECH 13><ACT 1><SCENE 3><12%>
+	O, good madam, there can be none yet.
+<SPEECH 14><ACT 1><SCENE 3><12%>
+	Indeed, madam?
+<SPEECH 15><ACT 1><SCENE 3><12%>
+	Give me excuse, good madam; I will obey you in every thing hereafter.
+<SPEECH 16><ACT 1><SCENE 3><13%>
+	No, at a word, madam; indeed I must not. I wish you much mirth.
+<SPEECH 17><ACT 2><SCENE 1><27%>
+	Nay, 'tis true.
+<SPEECH 18><ACT 2><SCENE 1><27%>
+	Yes, certain, there's a letter for you; I saw it.
+<SPEECH 19><ACT 2><SCENE 1><27%>
+	O! no, no, no.
+<SPEECH 20><ACT 2><SCENE 1><28%>
+	The gods grant them true!
+<SPEECH 21><ACT 4><SCENE 1><63%>
+	O heavens! O heavens!
+<SPEECH 22><ACT 4><SCENE 2><65%>
+	</STAGE DIR> You shall stay too. I would I had the power
+	To say so to my husband.
+<SPEECH 23><ACT 4><SCENE 2><65%>
+	What then!
+	He'd make an end of thy posterity.
+<SPEECH 24><ACT 5><SCENE 3><88%>
+	My lord and husband!
+<SPEECH 25><ACT 5><SCENE 3><88%>
+	The sorrow that delivers us thus chang'd
+	Makes you think so.
+<SPEECH 26><ACT 5><SCENE 3><91%>
+	Ay, and mine,
+	That brought you forth this boy, to keep your name
+	Living to time.

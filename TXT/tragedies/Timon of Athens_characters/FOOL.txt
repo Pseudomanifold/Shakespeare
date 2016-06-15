@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 2><SCENE 2><28%>
+	How do you, gentlemen?
+<SPEECH 2><ACT 2><SCENE 2><28%>
+	She's e'en setting on water to scald such chickens as you are. Would we could see you at Corinth!
+<SPEECH 3><ACT 2><SCENE 2><28%>
+	Look you, here comes my mistress' page.
+<SPEECH 4><ACT 2><SCENE 2><29%>
+	Will you leave me there?
+<SPEECH 5><ACT 2><SCENE 2><29%>
+	Are you three usurers' men?
+<SPEECH 6><ACT 2><SCENE 2><29%>
+	I think no usurer but has a fool to his servant: my mistress is one, and I am her fool. When men come to borrow of your masters, they approach sadly, and go away merry; but they enter my mistress' house merrily, and go away sadly: the reason of this?
+<SPEECH 7><ACT 2><SCENE 2><30%>
+	A fool in good clothes, and something like thee. 'Tis a spirit: sometime 't appears like a lord; sometime like a lawyer; sometime like a philosopher, with two stones more than 's artificial one. He is very often like a knight; and generally in all shapes that man goes up and down in from fourscore to thirteen, this spirit walks in.
+<SPEECH 8><ACT 2><SCENE 2><30%>
+	Nor thou altogether a wise man: as much foolery as I have, so much wit thou lackest.
+<SPEECH 9><ACT 2><SCENE 2><30%>
+	I do not always follow lover, elder brother and woman; sometime the philosopher.

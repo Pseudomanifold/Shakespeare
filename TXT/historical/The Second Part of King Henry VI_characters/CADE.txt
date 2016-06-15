@@ -1,0 +1,140 @@
+<SPEECH 1><ACT 4><SCENE 2><69%>
+	We John Cade, so termed of our supposed father,—
+<SPEECH 2><ACT 4><SCENE 2><69%>
+	For our enemies shall fall before us, inspired with the spirit of putting down kings and princes,—Command silence.
+<SPEECH 3><ACT 4><SCENE 2><69%>
+	My father was a Mortimer.—
+<SPEECH 4><ACT 4><SCENE 2><69%>
+	My mother a Plantagenet,—
+<SPEECH 5><ACT 4><SCENE 2><69%>
+	My wife descended of the Lacies,—
+<SPEECH 6><ACT 4><SCENE 2><70%>
+	Therefore am I of an honourable house.
+<SPEECH 7><ACT 4><SCENE 2><70%>
+	Valiant I am.
+<SPEECH 8><ACT 4><SCENE 2><70%>
+	I am able to endure much.
+<SPEECH 9><ACT 4><SCENE 2><70%>
+	I fear neither sword nor fire.
+<SPEECH 10><ACT 4><SCENE 2><70%>
+	Be brave, then; for your captain is brave, and vows reformation. There shall be in England seven halfpenny loaves sold for a penny; the three-hooped pot shall have ten hoops; and I will make it felony to drink small beer. All the realm shall be in common, and in Cheapside shall my palfrey go to grass. And when I am king,—as king I will be,—
+<SPEECH 11><ACT 4><SCENE 2><70%>
+	I thank you, good people: there shall be no money; all shall eat and drink on my score, and I will apparel them all in one livery, that they may agree like brothers, and worship me their lord.
+<SPEECH 12><ACT 4><SCENE 2><70%>
+	Nay, that I mean to do. Is not this a lamentable thing, that of the skin of an innocent lamb should be made parchment? that parchment, being scribbled o'er, should undo a man? Some say the bee stings; but I say, 'tis the bee's wax, for I did but seal once to a thing, and I was never mine own man since. How now! who's there?
+<SPEECH 13><ACT 4><SCENE 2><71%>
+	O monstrous!
+<SPEECH 14><ACT 4><SCENE 2><71%>
+	Here's a villain!
+<SPEECH 15><ACT 4><SCENE 2><71%>
+	Nay, then he is a conjurer.
+<SPEECH 16><ACT 4><SCENE 2><71%>
+	I am sorry for't: the man is a proper man, of mine honour; unless I find him guilty, he shall not die. Come hither, sirrah, I must examine thee. What is thy name?
+<SPEECH 17><ACT 4><SCENE 2><71%>
+	Let me alone. Dost thou use to write thy name, or hast thou a mark to thyself, like an honest plain-dealing man?
+<SPEECH 18><ACT 4><SCENE 2><71%>
+	Away with him! I say: hang him with his pen and ink-horn about his neck.
+<SPEECH 19><ACT 4><SCENE 2><71%>
+	Here I am, thou particular fellow.
+<SPEECH 20><ACT 4><SCENE 2><72%>
+	Stand, villain, stand, or I'll fell thee down. He shall be encountered with a man as good as himself: he is but a knight, is a'?
+<SPEECH 21><ACT 4><SCENE 2><72%>
+	To equal him, I will make myself a knight presently. <STAGE DIR>
+	</STAGE DIR> Rise up Sir John Mortimer. <span class="stage>[Rises.] Now have at him.
+<SPEECH 22><ACT 4><SCENE 2><72%>
+	As for these silken-coated slaves, I pass not:
+	It is to you, good people, that I speak,
+	O'er whom, in time to come I hope to reign;
+	For I am rightful heir unto the crown.
+<SPEECH 23><ACT 4><SCENE 2><72%>
+	And Adam was a gardener.
+<SPEECH 24><ACT 4><SCENE 2><72%>
+	Marry, this: Edmund Mortimer, Earl of March,
+	Married the Duke of Clarence' daughter, did he not?
+<SPEECH 25><ACT 4><SCENE 2><72%>
+	By her he had two children at one birth.
+<SPEECH 26><ACT 4><SCENE 2><72%>
+	Ay, there's the question; but I say, 'tis true:
+	The elder of them, being put to nurse,
+	Was by a beggar-woman stol'n away;
+	And, ignorant of his birth and parentage,
+	Became a bricklayer when he came to age:
+	His son am I; deny it if you can.
+<SPEECH 27><ACT 4><SCENE 2><73%>
+	</STAGE DIR> He lies, for I invented it myself. Go to, sirrah; tell the king from me, that, for his father's sake, Henry the Fifth, in whose time boys went to span-counter for French crowns, I am content he shall reign; but I'll be protector over him.
+<SPEECH 28><ACT 4><SCENE 2><73%>
+	And good reason; for thereby is England mained, and fain to go with a staff, but that my puissance holds it up. Fellow kings, I tell you that that Lord Say hath gelded the commonwealth, and made it a eunuch; and more than that, he can speak French; and therefore he is a traitor.
+<SPEECH 29><ACT 4><SCENE 2><73%>
+	Nay, answer, if you can: the Frenchmen are our enemies; go to then, I ask but this, can he that speaks with the tongue of an enemy be a good counsellor, or no?
+<SPEECH 30><ACT 4><SCENE 2><74%>
+	And you, that love the commons, follow me.
+	Now show yourselves men; 'tis for liberty.
+	We will not leave one lord, one gentleman:
+	Spare none but such as go in clouted shoon,
+	For they are thrifty honest men, and such
+	As would, but that they dare not take our parts.
+<SPEECH 31><ACT 4><SCENE 2><74%>
+	But then are we in order when we are most out of order. Come, march! forward!
+<SPEECH 32><ACT 4><SCENE 3><74%>
+	Where's Dick, the butcher of Ashford?
+<SPEECH 33><ACT 4><SCENE 3><74%>
+	They fell before thee like sheep and oxen, and thou behavedst thyself as if thou hadst been in thine own slaughter-house: therefore thus will I reward thee, the Lent shall be as long again as it is; and thou shalt have a licence to kill for a hundred lacking one.
+<SPEECH 34><ACT 4><SCENE 3><74%>
+	And, to speak truth, thou deservest no less. This monument of the victory will I bear; <STAGE DIR>
+	</STAGE DIR> and the bodies shall be dragged at my horse' heels, till I do come to London, where we will have the Mayor's sword borne before us.
+<SPEECH 35><ACT 4><SCENE 3><75%>
+	Fear not that, I warrant thee. Come; let's march towards London.
+<SPEECH 36><ACT 4><SCENE 6><77%>
+	Now is Mortimer lord of this city. And here, sitting upon London-stone, I charge and command that, of the city's cost, the pissing-conduit run nothing but claret wine this first year of our reign. And now, henceforward, it shall be treason for any that calls me other than Lord Mortimer.
+<SPEECH 37><ACT 4><SCENE 6><77%>
+	Knock him down there.
+<SPEECH 38><ACT 4><SCENE 6><78%>
+	Come then, let's go fight with them. But first, go and set London-bridge on fire, and, if you can, burn down the Tower too. Come, let's away.
+<SPEECH 39><ACT 4><SCENE 7><78%>
+	So, sirs:—Now go some and pull down the Savoy; others to the inns of court: down with them all.
+<SPEECH 40><ACT 4><SCENE 7><78%>
+	Be it a lordship, thou shalt have it for that word.
+<SPEECH 41><ACT 4><SCENE 7><78%>
+	I have thought upon it; it shall be so. Away! burn all the records of the realm: my mouth shall be the parliament of England.
+<SPEECH 42><ACT 4><SCENE 7><78%>
+	And henceforward all things shall be in common.
+<SPEECH 43><ACT 4><SCENE 7><79%>
+	Well, he shall be beheaded for it ten times. Ah! thou say, thou serge, nay, thou buckram lord; now art thou within pointblank of our jurisdiction regal. What canst thou answer to my majesty for giving up of Normandy unto Monsieur Basimecu, the Dauphin of France? Be it known unto thee by these presence, even the presence of Lord Mortimer, that I am the besom that must sweep the court clean of such filth as thou art. Thou hast most traitorously corrupted the youth of the realm in erecting a grammar-school; and whereas, before, our fore-fathers had no other books but the score and the tally, thou hast caused printing to be used; and, contrary to the king, his crown, and dignity, thou hast built a paper-mill. It will be proved to thy face that thou hast men about thee that usually talk of a noun and a verb, and such abominable words as no Christian car can endure to hear. Thou hast appointed justices of peace, to call poor men before them about matters they were not able to answer. Moreover, thou hast put them in prison; and because they could not read, thou hast hanged them; when indeed only for that cause they have been most worthy to live. Thou dost ride on a foot-cloth, dost thou not?
+<SPEECH 44><ACT 4><SCENE 7><79%>
+	Marry, thou oughtest not to let thy horse wear a cloak, when honester men than thou go in their hose and doublets.
+<SPEECH 45><ACT 4><SCENE 7><80%>
+	Away with him! away with him! he speaks Latin.
+<SPEECH 46><ACT 4><SCENE 7><80%>
+	Tut! when struck'st thou one blow in the field?
+<SPEECH 47><ACT 4><SCENE 7><80%>
+	Give him a box o' the ear, and that will make 'em red again.
+<SPEECH 48><ACT 4><SCENE 7><81%>
+	Ye shall have a hempen caudle then, and the help of hatchet.
+<SPEECH 49><ACT 4><SCENE 7><81%>
+	Nay, he nods at us; as who should say, I'll be even with you: I'll see if his head will stand steadier on a pole, or no. Take him away and behead him.
+<SPEECH 50><ACT 4><SCENE 7><81%>
+	</STAGE DIR> I feel remorse in myself with his words; but I'll bridle it: he shall die, an it be but for pleading so well for his life. Away with him! he has a familiar under his tongue; he speaks not o' God's name. Go, take him away, I say, and strike off his head presently; and then break into his son-in-law's house, Sir James Cromer, and strike off his head, and bring them both upon two poles hither.
+<SPEECH 51><ACT 4><SCENE 7><81%>
+	Away with him! and do as I command ye. <STAGE DIR>
+	</STAGE DIR> The proudest peer in the realm shall not wear a head on his shoulders, unless he pay me tribute; there shall not a maid be married, but she shall pay to me her maidenhead, ere they have it; men shall hold of me in capite; and we charge and command that their wives be as free as heart can wish or tongue can tell.
+<SPEECH 52><ACT 4><SCENE 7><82%>
+	Marry, presently.
+<SPEECH 53><ACT 4><SCENE 7><82%>
+	But is not this braver? Let them kiss one another, for they loved well when they were alive. Now part them again, lest they consult about the giving up of some more towns in France. Soldiers, defer the spoil of the city until night: for with these borne before us, instead of maces, will we ride through the streets; and at every corner have them kiss. Away!
+<SPEECH 54><ACT 4><SCENE 8><82%>
+	Up Fish Street! down St. Magnus' corner! kill and knock down! throw them into Thames! [A parley sounded, then a retreat.] What noise is this I hear? Dare any be so bold to sound retreat or parley, when I command them kill?
+<SPEECH 55><ACT 4><SCENE 8><83%>
+	What! Buckingham and Clifford, are ye so brave? And you, base peasants, do ye believe him? will you needs be hanged with your pardons about your necks? Hath my sword therefore broke through London Gates, that you should leave me at the White Hart in Southwark? I thought ye would never have given out these arms till you had recovered your ancient freedom; but you are all recreants and dastards, and delight to live in slavery to the nobility. Let them break your backs with burdens, take your houses over your heads, ravish your wives and daughters before your faces: for me, I will make shift for one, and so, God's curse light upon you all!
+<SPEECH 56><ACT 4><SCENE 8><84%>
+	</STAGE DIR> Was ever feather so lightly blown to and fro as this multitude? The name of Henry the Fifth hales them to a hundred mischiefs, and makes them leave me desolate. I see them lay their heads together to surprise me. My sword make way for me, for here is no staying. In despite of the devils and hell, have through the very middest of you! and heavens and honour be witness, that no want of resolution in me, but only my followers' base and ignominious treasons, makes me betake me to my heels.
+<SPEECH 57><ACT 4><SCENE X.— ><86%>
+	Fie on ambition! fie on myself, that have a sword, and yet am ready to famish! These five days have I hid me in these woods and durst not peep out, for all the country is laid for me; but now I am so hungry, that if I might have a lease of my life for a thousand years I could stay no longer. Wherefore, on a brick wall have I climbed into this garden, to see if I can eat grass, or pick a sallet another while, which is not amiss to cool a man's stomach this hot weather. And I think this word 'sallet' was born to do me good: for many a time, but for a sallet, my brain-pan had been cleft with a brown bill; and many a time, when I have been dry, and bravely marching, it hath served me instead of a quart-pot to drink in; and now the word 'sallet' must serve me to feed on.
+<SPEECH 58><ACT 4><SCENE X.— ><87%>
+	</STAGE DIR> Here's the lord of the soil come to seize me for a stray, for entering his fee-simple without leave. Ah, villain! thou wilt betray me, and get a thousand crowns of the king by carrying my head to him; but I'll make thee eat iron like an ostrich, and swallow my sword like a great pin, ere thou and I part.
+<SPEECH 59><ACT 4><SCENE X.— ><87%>
+	Brave thee! ay, by the best blood that ever was broached, and beard thee too. Look on me well: I have eat no meat these five days; yet, come thou and thy five men, and if I do not leave you all as dead as a door-nail, I pray God I may never eat grass more.
+<SPEECH 60><ACT 4><SCENE X.— ><88%>
+	By my valour, the most complete champion that ever I heard! Steel, if thou turn the edge, or cut not out the burly-boned clown in chines of beef ere thou sleep in thy sheath, I beseech Jove on my knees, thou mayst be turned to hobnails. <STAGE DIR>
+	</STAGE DIR> O, I am slain! Famine and no other hath slain me: let ten thousand devils come against me, and give me but the ten meals I have lost, and I'll defy them all. Wither, garden; and be henceforth a burying-place to all that do dwell in this house, because the unconquered soul of Cade is fled.
+<SPEECH 61><ACT 4><SCENE X.— ><88%>
+	Iden, farewell; and be proud of thy victory. Tell Kent from me, she hath lost her best man, and exhort all the world to be cowards; for I, that never feared any, am vanquished by famine, not by valour.

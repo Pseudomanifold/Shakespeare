@@ -1,0 +1,42 @@
+<SPEECH 1><ACT 4><SCENE 3><82%>
+	Good-night, Lord Brutus.
+<SPEECH 2><ACT 5><SCENE 3><90%>
+	O Cassius! Brutus gave the word too early;
+	Who, having some advantage on Octavius,
+	Took it too eagerly: his soldiers fell to spoil,
+	Whilst we by Antony are all enclos'd.
+<SPEECH 3><ACT 5><SCENE 3><91%>
+	They are, my lord.
+<SPEECH 4><ACT 5><SCENE 3><91%>
+	I will be here again, even with a thought.
+<SPEECH 5><ACT 5><SCENE 3><92%>
+	These tidings will well comfort Cassius.
+<SPEECH 6><ACT 5><SCENE 3><93%>
+	All disconsolate,
+	With Pindarus his bondman, on this hill.
+<SPEECH 7><ACT 5><SCENE 3><93%>
+	He lies not like the living. O my heart!
+<SPEECH 8><ACT 5><SCENE 3><93%>
+	No, this was he, Messala,
+	But Cassius is no more. O setting sun!
+	As in thy red rays thou dost sink to-night,
+	So in his red blood Cassius' day is set;
+	The sun of Rome is set. Our day is gone;
+	Clouds, dews, and dangers come; our deeds are done.
+	Mistrust of my success hath done this deed.
+<SPEECH 9><ACT 5><SCENE 3><93%>
+	What, Pindarus! Where art thou, Pindarus?
+<SPEECH 10><ACT 5><SCENE 3><93%>
+	Hie you, Messala,
+	And I will seek for Pindarus the while.
+	Why didst thou send me forth, brave Cassius?
+	Did I not meet thy friends? and did not they
+	Put on my brows this wreath of victory,
+	And bid me give it thee? Didst thou not hear their shouts?
+	Alas! thou hast misconstru'd every thing.
+	But, hold thee, take this garland on thy brow;
+	Thy Brutus bid me give it thee, and I
+	Will do his bidding. Brutus, come apace,
+	And see how I regarded Caius Cassius.
+	By your leave, gods: this is a Roman's part:
+	Come, Cassius' sword, and find Titinius' heart.

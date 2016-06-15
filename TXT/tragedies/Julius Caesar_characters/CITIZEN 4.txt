@@ -1,0 +1,33 @@
+<SPEECH 1><ACT 3><SCENE 2><58%>
+	Cæsar's better parts
+	Shall be crown'd in Brutus.
+<SPEECH 2><ACT 3><SCENE 2><58%>
+	What does he say of Brutus?
+<SPEECH 3><ACT 3><SCENE 2><58%>
+	'Twere best he speak no harm of Brutus here.
+<SPEECH 4><ACT 3><SCENE 2><60%>
+	Mark'd ye his words? He would not take the crown;
+	Therefore 'tis certain he was not ambitious.
+<SPEECH 5><ACT 3><SCENE 2><60%>
+	Now mark him; he begins again to speak.
+<SPEECH 6><ACT 3><SCENE 2><61%>
+	We'll hear the will: read it, Mark Antony.
+<SPEECH 7><ACT 3><SCENE 2><61%>
+	Read the will! we'll hear it, Antony;
+	You shall read us the will, Cæsar's will.
+<SPEECH 8><ACT 3><SCENE 2><62%>
+	They were traitors: honourable men!
+<SPEECH 9><ACT 3><SCENE 2><62%>
+	A ring; stand round.
+<SPEECH 10><ACT 3><SCENE 2><63%>
+	O traitors! villains!
+<SPEECH 11><ACT 3><SCENE 2><65%>
+	Pluck down forms, windows, any thing.
+<SPEECH 12><ACT 3><SCENE 3><66%>
+	Are you a married man, or a bachelor?
+<SPEECH 13><ACT 3><SCENE 3><66%>
+	Ay, and wisely.
+<SPEECH 14><ACT 3><SCENE 3><67%>
+	For your dwelling, briefly.
+<SPEECH 15><ACT 3><SCENE 3><67%>
+	Tear him for his bad verses, tear him for his bad verses.

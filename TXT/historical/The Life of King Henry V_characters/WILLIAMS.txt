@@ -1,0 +1,56 @@
+<SPEECH 1><ACT 4><SCENE 1><57%>
+	We see yonder the beginning of the day, but I think we shall never see the end of it. Who goes there?
+<SPEECH 2><ACT 4><SCENE 1><57%>
+	Under what captain serve you?
+<SPEECH 3><ACT 4><SCENE 1><57%>
+	A good old commander and a most kind gentleman: I pray you, what thinks he of our estate?
+<SPEECH 4><ACT 4><SCENE 1><58%>
+	That's more than we know.
+<SPEECH 5><ACT 4><SCENE 1><58%>
+	But if the cause be not good, the king himself hath a heavy reckoning to make; when all those legs and arms and heads, chopped off in a battle, shall join together at the latter day, and cry all, 'We died at such a place;' some swearing, some crying for a surgeon, some upon their wives left poor behind them, some upon the debts they owe, some upon their children rawly left. I am afeard there are few die well that die in a battle; for how can they charitably dispose of any thing when blood is their argument? Now, if these men do not die well, it will be a black matter for the king that led them to it, whom to disobey were against all proportion of subjection.
+<SPEECH 6><ACT 4><SCENE 1><60%>
+	'Tis certain, every man that dies ill, the ill upon his own head: the king is not to answer it.
+<SPEECH 7><ACT 4><SCENE 1><60%>
+	Ay, he said so, to make us fight cheerfully; but when our throats are cut he may be ransomed, and we ne'er the wiser.
+<SPEECH 8><ACT 4><SCENE 1><60%>
+	You pay him then. That's a perilous shot out of an elder-gun, that a poor and a private displeasure can do against a monarch. You may as well go about to turn the sun to ice with fanning in his face with a peacock's feather. You'll never trust his word after! come, 'tis a foolish saying.
+<SPEECH 9><ACT 4><SCENE 1><61%>
+	Let it be a quarrel between us, if you live.
+<SPEECH 10><ACT 4><SCENE 1><61%>
+	How shall I know thee again?
+<SPEECH 11><ACT 4><SCENE 1><61%>
+	Here's my glove: give me another of thine.
+<SPEECH 12><ACT 4><SCENE 1><61%>
+	This will I also wear in my cap: if ever thou come to me and say after to-morrow, 'This is my glove,' by this hand I will take thee a box on the ear.
+<SPEECH 13><ACT 4><SCENE 1><61%>
+	Thou darest as well be hanged.
+<SPEECH 14><ACT 4><SCENE 1><61%>
+	Keep thy word: fare thee well.
+<SPEECH 15><ACT 4><SCENE 7><78%>
+	An't please your majesty, 'tis the gage of one that I should fight withal, if he be alive.
+<SPEECH 16><ACT 4><SCENE 7><78%>
+	An't please your majesty, a rascal that swaggered with me last night; who, if a' live and ever dare to challenge this glove, I have sworn to take him a box o' the ear: or, if I can see my glove in his cap,—which he swore as he was a soldier he would wear if alive,—I will strike it out soundly.
+<SPEECH 17><ACT 4><SCENE 7><79%>
+	So I will, my liege, as I live.
+<SPEECH 18><ACT 4><SCENE 7><79%>
+	Under Captain Gower, my liege.
+<SPEECH 19><ACT 4><SCENE 7><79%>
+	I will, my liege.
+<SPEECH 20><ACT 4><SCENE 8><80%>
+	I warrant it is to knight you, captain.
+<SPEECH 21><ACT 4><SCENE 8><80%>
+	Sir, know you this glove?
+<SPEECH 22><ACT 4><SCENE 8><80%>
+	I know this; and thus I challenge it.
+<SPEECH 23><ACT 4><SCENE 8><80%>
+	Do you think I'll be forsworn?
+<SPEECH 24><ACT 4><SCENE 8><80%>
+	I am no traitor.
+<SPEECH 25><ACT 4><SCENE 8><81%>
+	My liege, this was my glove; here is the fellow of it; and he that I gave it to in change promised to wear it in his cap: I promised to strike him, if he did: I met this man with my glove in his cap, and I have been as good as my word.
+<SPEECH 26><ACT 4><SCENE 8><81%>
+	All offences, my lord, come from the heart: never came any from mine that might offend your majesty.
+<SPEECH 27><ACT 4><SCENE 8><81%>
+	Your majesty came not like yourself: you appeared to me but as a common man; witness the night, your garments, your lowliness; and what your highness suffered under that shape, I beseech you, take it for your own fault and not mine: for had you been as I took you for I made no offence; therefore, I beseech your highness, pardon me.
+<SPEECH 28><ACT 4><SCENE 8><82%>
+	I will none of your money.

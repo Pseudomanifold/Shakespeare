@@ -1,0 +1,140 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+	Whither away so fast?
+<SPEECH 2><ACT 2><SCENE 1><23%>
+	I'll save you
+	That labour, sir. All's now done but the ceremony
+	Of bringing back the prisoner.
+<SPEECH 3><ACT 2><SCENE 1><23%>
+	Yes, indeed, was I.
+<SPEECH 4><ACT 2><SCENE 1><24%>
+	You may guess quickly what.
+<SPEECH 5><ACT 2><SCENE 1><24%>
+	Yes, truly is he, and condemn'd upon't.
+<SPEECH 6><ACT 2><SCENE 1><24%>
+	So are a number more.
+<SPEECH 7><ACT 2><SCENE 1><24%>
+	I'll tell you in a little. The great duke
+	Came to the bar; where, to his accusations
+	He pleaded still not guilty, and alleg'd
+	Many sharp reasons to defeat the law.
+	The king's attorney on the contrary
+	Urg'd on the examinations, proofs, confessions
+	Of divers witnesses, which the duke desir'd
+	To have brought, vivâ voce, to his face:
+	At which appear'd against him his surveyor;
+	Sir Gilbert Peck his chancellor; and John Car,
+	Confessor to him; with that devil-monk,
+	Hopkins, that made this mischief.
+<SPEECH 8><ACT 2><SCENE 1><24%>
+	The same.
+	All these accus'd him strongly; which he fain
+	Would have flung from him, but, indeed, he could not:
+	And so his peers, upon this evidence,
+	Have found him guilty of high treason. Much
+	He spoke, and learnedly, for life; but all
+	Was either pitied in him or forgotten.
+<SPEECH 9><ACT 2><SCENE 1><24%>
+	When he was brought again to the bar, to hear
+	His knell rung out, his judgment, he was stirr'd
+	With such an agony, he sweat extremely,
+	And something spoke in choler, ill, and hasty:
+	But he fell to himself again, and sweetly
+	In all the rest show'd a most noble patience.
+<SPEECH 10><ACT 2><SCENE 1><25%>
+	Sure, he does not;
+	He never was so womanish; the cause
+	He may a little grieve at.
+<SPEECH 11><ACT 2><SCENE 1><25%>
+	'Tis likely
+	By all conjectures: first, Kildare's attainder,
+	Then deputy of Ireland; who, remov'd,
+	Earl Surrey was sent thither, and in haste too,
+	Lest he should help his father.
+<SPEECH 12><ACT 2><SCENE 1><25%>
+	At his return,
+	No doubt he will requite it. This is noted,
+	And generally, whoever the king favours,
+	The cardinal instantly will find employment,
+	And far enough from court too.
+<SPEECH 13><ACT 2><SCENE 1><25%>
+	Stay there, sir,
+	And see the noble ruin'd man you speak of.
+<SPEECH 14><ACT 2><SCENE 1><28%>
+	O! this is full of pity! Sir, it calls,
+	I fear, too many curses on their heads
+	That were the authors.
+<SPEECH 15><ACT 2><SCENE 1><28%>
+	Good angels keep it from us!
+	What may it be? You do not doubt my faith, sir?
+<SPEECH 16><ACT 2><SCENE 1><28%>
+	Let me have it;
+	I do not talk much.
+<SPEECH 17><ACT 2><SCENE 1><28%>
+	Yes, but it held not;
+	For when the king once heard it, out of anger
+	He sent command to the lord mayor straight
+	To stop the rumour, and allay those tongues
+	That durst disperse it.
+<SPEECH 18><ACT 2><SCENE 1><29%>
+	'Tis the cardinal;
+	And merely to revenge him on the emperor
+	For not bestowing on him, at his asking,
+	The archbishopric of Toledo, this is purpos'd.
+<SPEECH 19><ACT 2><SCENE 1><29%>
+	'Tis woeful.
+	We are too open here to argue this;
+	Let's think in private more.
+<SPEECH 20><ACT 4><SCENE 1><68%>
+	You're well met once again.
+<SPEECH 21><ACT 4><SCENE 1><68%>
+	You come to take your stand here, and behold
+	The Lady Anne pass from her coronation?
+<SPEECH 22><ACT 4><SCENE 1><68%>
+	'Tis very true: but that time offer'd sorrow;
+	This, general joy.
+<SPEECH 23><ACT 4><SCENE 1><68%>
+	Never greater;
+	Nor, I'll assure you, better taken, sir.
+<SPEECH 24><ACT 4><SCENE 1><68%>
+	Yes; 'tis the list
+	Of those that claim their offices this day
+	By custom of the coronation.
+	The Duke of Suffolk is the first, and claims
+	To be high-steward; next, the Duke of Norfolk,
+	He to be earl marshal: you may read the rest.
+<SPEECH 25><ACT 4><SCENE 1><69%>
+	That I can tell you too. The Archbishop
+	Of Canterbury, accompanied with other
+	Learned and reverend fathers of his order,
+	Held a late court at Dunstable, six miles off
+	From Ampthill, where the princess lay; to which
+	She was often cited by them, but appear'd not:
+	And, to be short, for not appearance and
+	The king's late scruple, by the main assent
+	Of all these learned men she was divorc'd,
+	And the late marriage made of none effect:
+	Since which she was remov'd to Kimbolton,
+	Where she remains now sick.
+<SPEECH 26><ACT 4><SCENE 1><70%>
+	Marquess Dorset:
+	And that the Earl of Surrey with the rod.
+<SPEECH 27><ACT 4><SCENE 1><70%>
+	'Tis the same; high-steward.
+<SPEECH 28><ACT 4><SCENE 1><70%>
+	Yes.
+<SPEECH 29><ACT 4><SCENE 1><70%>
+	They that bear
+	The cloth of honour over her, are four barons
+	Of the Cinque-ports.
+<SPEECH 30><ACT 4><SCENE 1><71%>
+	It is; and all the rest are countesses.
+<SPEECH 31><ACT 4><SCENE 1><71%>
+	No more of that.
+	God save you, sir! Where have you been broiling?
+<SPEECH 32><ACT 4><SCENE 1><71%>
+	How was it?
+<SPEECH 33><ACT 4><SCENE 1><72%>
+	Sir,
+	You must no more call it York-place, that's past;
+	For, since the cardinal fell, that title's lost:
+	'Tis now the king's, and call'd Whitehall.

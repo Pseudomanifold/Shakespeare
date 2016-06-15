@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+	Which is the duke's own person?
+<SPEECH 2><ACT 1><SCENE 1><7%>
+	I myself reprehend his own person, for I am his Grace's tharborough: but I would see his own person in flesh and blood.
+<SPEECH 3><ACT 1><SCENE 1><7%>
+	Signior Arm—Arm—commends you. There's villany abroad: this letter will tell you more.
+<SPEECH 4><ACT 1><SCENE 1><9%>
+	Me, an't please you; I am Antony Dull.
+<SPEECH 5><ACT 1><SCENE 2><15%>
+	Sir, the duke's pleasure is, that you keep Costard safe: and you must let him take no delight nor no penance, but a' must fast three days a week. For this damsel, I must keep her at the park; she is allowed for the day-woman.
+	Fare you well.
+<SPEECH 6><ACT 1><SCENE 2><15%>
+	Come, Jaquenetta, away!
+<SPEECH 7><ACT 4><SCENE 2><40%>
+	'Twas not a haud credo; 'twas a pricket.
+<SPEECH 8><ACT 4><SCENE 2><40%>
+	I said the deer was not a haud credo; 'twas a pricket.
+<SPEECH 9><ACT 4><SCENE 2><41%>
+	You two are book-men: can you tell by your wit,
+	What was a month old at Cain's birth, that's not five weeks old as yet?
+<SPEECH 10><ACT 4><SCENE 2><41%>
+	What is Dictynna?
+<SPEECH 11><ACT 4><SCENE 2><41%>
+	'Tis true indeed: the collusion holds in the exchange.
+<SPEECH 12><ACT 4><SCENE 2><41%>
+	And I say the pollusion holds in the exchange, for the moon is never but a month old; and I say beside that 'twas a pricket that the princess killed.
+<SPEECH 13><ACT 4><SCENE 2><42%>
+	</STAGE DIR> If a talent be a claw, look how he claws him with a talent.
+<SPEECH 14><ACT 5><SCENE 1><65%>
+	Nor understood none neither, sir.
+<SPEECH 15><ACT 5><SCENE 1><65%>
+	I'll make one in a dance, or so; or I will play the tabor to the Worthies, and let them dance the hay.

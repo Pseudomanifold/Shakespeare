@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 3><SCENE 1><44%>
+	Ready.
+<SPEECH 2><ACT 3><SCENE 1><45%>
+	Hail, mortal!
+<SPEECH 3><ACT 3><SCENE 1><45%>
+	Pease-blossom.
+<SPEECH 4><ACT 4><SCENE 1><68%>
+	Ready.

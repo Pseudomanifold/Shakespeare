@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	If you shall chance, Camillo, to visit Bohemia, on the like occasion whereon my services are now on foot, you shall see, as I have said, great difference betwixt our Bohemia and your Sicilia.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Wherein our entertainment shall shame us we will be justified in our loves: for, indeed,—
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Verily, I speak it in the freedom of my knowledge: we cannot with such magnificence—in so rare—I know not what to say. We will give you sleepy drinks, that your senses, unintelligent of our insufficience, may, though they cannot praise us, as little accuse us.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	Believe me, I speak as my understanding instructs me, and as mine honesty puts it to utterance.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	I think there is not in the world either malice or matter to alter it. You have an unspeakable comfort of your young Prince Mamilhus: it is a gentleman of the greatest promise that ever came into my note.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Would they else be content to die?
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	If the king had no son, they would desire to live on crutches till he had one.

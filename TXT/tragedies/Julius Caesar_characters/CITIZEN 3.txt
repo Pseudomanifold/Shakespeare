@@ -1,0 +1,36 @@
+<SPEECH 1><ACT 3><SCENE 2><56%>
+	The noble Brutus is ascended: silence!
+<SPEECH 2><ACT 3><SCENE 2><58%>
+	Let him be Cæsar.
+<SPEECH 3><ACT 3><SCENE 2><58%>
+	Let him go up into the public chair;
+	We'll hear him. Noble Antony, go up.
+<SPEECH 4><ACT 3><SCENE 2><58%>
+	He says, for Brutus' sake,
+	He finds himself beholding to us all.
+<SPEECH 5><ACT 3><SCENE 2><58%>
+	Nay, that's certain:
+	We are bless'd that Rome is rid of him.
+<SPEECH 6><ACT 3><SCENE 2><60%>
+	Has he, masters?
+	I fear there will a worse come in his place.
+<SPEECH 7><ACT 3><SCENE 2><60%>
+	There's not a nobler man in Rome than Antony.
+<SPEECH 8><ACT 3><SCENE 2><62%>
+	You shall have leave.
+<SPEECH 9><ACT 3><SCENE 2><63%>
+	O woeful day!
+<SPEECH 10><ACT 3><SCENE 2><64%>
+	Away, then! come, seek the conspirators.
+<SPEECH 11><ACT 3><SCENE 2><65%>
+	O royal Cæsar!
+<SPEECH 12><ACT 3><SCENE 2><65%>
+	Pluck down benches.
+<SPEECH 13><ACT 3><SCENE 3><66%>
+	Where do you dwell?
+<SPEECH 14><ACT 3><SCENE 3><67%>
+	Ay, and truly, you were best.
+<SPEECH 15><ACT 3><SCENE 3><67%>
+	Your name, sir, truly.
+<SPEECH 16><ACT 3><SCENE 3><67%>
+	Tear him, tear him! Come, brands, ho! firebrands! To Brutus', to Cassius'; burn all. Some to Decius' house, and some to Casca's; some to Ligarius'. Away! go!

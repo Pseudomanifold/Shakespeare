@@ -1,0 +1,37 @@
+<SPEECH 1><ACT 5><SCENE 3><87%>
+	Speak to the business, Master secretary:
+	Why are we met in council?
+<SPEECH 2><ACT 5><SCENE 3><88%>
+	Let him come in.
+<SPEECH 3><ACT 5><SCENE 3><88%>
+	My good lord archbishop, I'm very sorry
+	To sit here at this present and behold
+	That chair stand empty: but we all are men,
+	In our own natures frail, and capable
+	Of our flesh; few are angels: out of which frailty
+	And want of wisdom, you, that best should teach us,
+	Have misdemean'd yourself, and not a little,
+	Toward the king first, then his laws, in filling
+	The whole realm, by your teaching and your chaplains,—
+	For so we are inform'd,—with new opinions,
+	Divers and dangerous; which are heresies,
+	And, not reform'd, may prove pernicious.
+<SPEECH 4><ACT 5><SCENE 3><90%>
+	This is too much;
+	Forbear, for shame, my lords.
+<SPEECH 5><ACT 5><SCENE 3><90%>
+	Then thus for you, my lord: it stands agreed,
+	I take it, by all voices, that forthwith
+	You be convey'd to the Tower a prisoner;
+	There to remain till the king's further pleasure
+	Be known unto us. Are you all agreed, lords?
+<SPEECH 6><ACT 5><SCENE 3><91%>
+	This is the king's ring.
+<SPEECH 7><ACT 5><SCENE 3><92%>
+	Thus far,
+	My most dread sov'reign, may it like your Grace
+	To let my tongue excuse all. What was purpos'd
+	Concerning his imprisonment, was rather—
+	If there be faith in men—meant for his trial
+	And fair purgation to the world, than malice,
+	I'm sure, in me.

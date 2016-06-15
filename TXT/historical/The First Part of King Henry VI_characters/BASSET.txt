@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 3><SCENE 4><59%>
+	Yes, sir: as well as you dare patronage
+	The envious barking of your saucy tongue
+	Against my lord the Duke of Somerset.
+<SPEECH 2><ACT 3><SCENE 4><59%>
+	Why, what is he? as good a man as York.
+<SPEECH 3><ACT 3><SCENE 4><59%>
+	Villain, thou know'st the law of arms is such
+	That, whoso draws a sword, 'tis present death,
+	Or else this blow should broach thy dearest blood.
+	But I'll unto his majesty, and crave
+	I may have liberty to venge this wrong;
+	When thou shalt see I'll meet thee to thy cost.
+<SPEECH 4><ACT 4><SCENE 1><62%>
+	And me, my lord; grant me the combat too!
+<SPEECH 5><ACT 4><SCENE 1><62%>
+	And I with him; for he hath done me wrong.
+<SPEECH 6><ACT 4><SCENE 1><63%>
+	Crossing the sea from England into France,
+	This fellow here, with envious carping tongue,
+	Upbraided me about the rose I wear;
+	Saying, the sanguine colour of the leaves
+	Did represent my master's blushing cheeks,
+	When stubbornly he did repugn the truth
+	About a certain question in the law
+	Argu'd betwixt the Duke of York and him;
+	With other vile and ignominious terms:
+	In confutation of which rude reproach,
+	And in defence of my lord's worthiness,
+	I crave the benefit of law of arms.
+<SPEECH 7><ACT 4><SCENE 1><64%>
+	Confirm it so, mine honourable lord.

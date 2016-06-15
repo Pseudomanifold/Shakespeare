@@ -1,0 +1,432 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	My lords, look where the sturdy rebel sits,
+	Even in the chair of state! belike he means—
+	Back'd by the power of Warwick, that false peer—
+	To aspire unto the crown and reign as king.
+	Earl of Northumberland, he slew thy father,
+	And thine, Lord Clifford; and you both have vow'd revenge
+	On him, his sons, his favourites, and his friends.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	Be patient, gentle Earl of Westmoreland.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Ah! know you not the city favours them,
+	And they have troops of soldiers at their beck?
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	Far be the thought of this from Henry's heart,
+	To make a shambles of the parliament-house!
+	Cousin of Exeter, frowns, words, and threats,
+	Shall be the war that Henry means to use.
+	Thou factious Duke of York, descend my throne,
+	And kneel for grace and mercy at my feet;
+	I am thy sovereign.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	And shall I stand, and thou sit in my throne?
+<SPEECH 6><ACT 1><SCENE 1><4%>
+	What title hast thou, traitor, to the crown?
+	Thy father was, as thou art, Duke of York;
+	Thy grandfather, Roger Mortimer, Earl of March;
+	I am the son of Henry the Fifth,
+	Who made the Dauphin and the French to stoop,
+	And seiz'd upon their towns and provinces.
+<SPEECH 7><ACT 1><SCENE 1><4%>
+	The Lord Protector lost it, and not I:
+	When I was crown'd I was but nine months old.
+<SPEECH 8><ACT 1><SCENE 1><5%>
+	Peace thou! and give King Henry leave to speak.
+<SPEECH 9><ACT 1><SCENE 1><5%>
+	Think'st thou that I will leave my kingly throne,
+	Wherein my grandsire and my father sat?
+	No: first shall war unpeople this my realm;
+	Ay, and their colours, often borne in France,
+	And now in England to our heart's great sorrow,
+	Shall be my winding-sheet. Why faint you, lords?
+	My title's good, and better far than his.
+<SPEECH 10><ACT 1><SCENE 1><5%>
+	Henry the Fourth by conquest got the crown.
+<SPEECH 11><ACT 1><SCENE 1><5%>
+	</STAGE DIR> I know not what to say: my title's weak.
+	</STAGE DIR> Tell me, may not a king adopt an heir?
+<SPEECH 12><ACT 1><SCENE 1><5%>
+	An if he may, then am I lawful king;
+	For Richard, in the view of many lords,
+	Resign'd the crown to Henry the Fourth,
+	Whose heir my father was, and I am his.
+<SPEECH 13><ACT 1><SCENE 1><6%>
+	Art thou against us, Duke of Exeter?
+<SPEECH 14><ACT 1><SCENE 1><6%>
+	</STAGE DIR> All will revolt from me, and turn to him.
+<SPEECH 15><ACT 1><SCENE 1><6%>
+	O Clifford, how thy words revive my heart!
+<SPEECH 16><ACT 1><SCENE 1><6%>
+	My Lord of Warwick, hear me but one word:—
+	Let me for this my life-time reign as king.
+<SPEECH 17><ACT 1><SCENE 1><7%>
+	I am content: Richard Plantagenet,
+	Enjoy the kingdom after my decease.
+<SPEECH 18><ACT 1><SCENE 1><7%>
+	Ah! Exeter.
+<SPEECH 19><ACT 1><SCENE 1><7%>
+	Not for myself, Lord Warwick, but my son,
+	Whom I unnaturally shall disinherit.
+	But be it as it may; I here entail
+	The crown to thee and to thine heirs for ever;
+	Conditionally, that here thou take an oath
+	To cease this civil war, and, whilst I live,
+	To honour me as thy king and sovereign;
+	And neither by treason nor hostility
+	To seek to put me down and reign thyself.
+<SPEECH 20><ACT 1><SCENE 1><8%>
+	And long live thou and these thy forward sons!
+<SPEECH 21><ACT 1><SCENE 1><8%>
+	And I, with grief and sorrow, to the court.
+<SPEECH 22><ACT 1><SCENE 1><8%>
+	Exeter, so will I.
+<SPEECH 23><ACT 1><SCENE 1><8%>
+	Be patient, gentle queen, and I will stay.
+<SPEECH 24><ACT 1><SCENE 1><9%>
+	Pardon me, Margaret; pardon me, sweet son;
+	The Earl of Warwick, and the duke, enforc'd me.
+<SPEECH 25><ACT 1><SCENE 1><9%>
+	Stay, gentle Margaret, and hear me speak.
+<SPEECH 26><ACT 1><SCENE 1><10%>
+	Gentle son Edward, thou wilt stay with me?
+<SPEECH 27><ACT 1><SCENE 1><10%>
+	Poor queen! how love to me and to her son
+	Hath made her break out into terms of rage.
+	Reveng'd may she be on that hateful duke,
+	Whose haughty spirit, winged with desire,
+	Will cost my crown, and like an empty eagle
+	Tire on the flesh of me and of my son!
+	The loss of those three lords torments my heart:
+	I'll write unto them, and entreat them fair.
+	Come, cousin; you shall be the messenger.
+<SPEECH 28><ACT 2><SCENE 2><27%>
+	Ay, as the rocks cheer them that fear their wrack:
+	To see this sight, it irks my very soul.
+	Withhold revenge, dear God! 'tis not my fault,
+	Nor wittingly have I infring'd my vow.
+<SPEECH 29><ACT 2><SCENE 2><28%>
+	Full well hath Clifford play'd the orator,
+	Inferring arguments of mighty force.
+	But, Clifford, tell me, didst thou never hear
+	That things ill got had ever bad success?
+	And happy always was it for that son
+	Whose father for his hoarding went to hell?
+	I'll leave my son my virtuous deeds behind;
+	And would my father had left me no more!
+	For all the rest is held at such a rate
+	As brings a thousand-fold more care to keep
+	Than in possession any jot of pleasure.
+	Ah! cousin York, would thy best friends did know
+	How it doth grieve me that thy head is here!
+<SPEECH 30><ACT 2><SCENE 2><29%>
+	Edward Plantagenet, arise a knight;
+	And learn this lesson, draw thy sword in right.
+<SPEECH 31><ACT 2><SCENE 2><29%>
+	Why, that's my fortune too; therefore I'll stay.
+<SPEECH 32><ACT 2><SCENE 2><31%>
+	Have done with words, my lords, and hear me speak.
+<SPEECH 33><ACT 2><SCENE 2><31%>
+	I prithee, give no limits to my tongue:
+	I am a king, and privileg'd to speak.
+<SPEECH 34><ACT 2><SCENE 5><35%>
+	This battle fares like to the morning's war,
+	When dying clouds contend with growing light,
+	What time the shepherd, blowing of his nails,
+	Can neither call it perfect day nor night.
+	Now sways it this way, like a mighty sea
+	Forc'd by the tide to combat with the wind;
+	Now sways it that way, like the self-same sea
+	Forc'd to retire by fury of the wind:
+	Sometime the flood prevails, and then the wind;
+	Now one the better, then another best;
+	Both tugging to be victors, breast to breast,
+	Yet neither conqueror nor conquered:
+	So is the equal poise of this fell war.
+	Here on this molehill will I sit me down.
+	To whom God will, there be the victory!
+	For Margaret my queen, and Clifford too,
+	Have chid me from the battle; swearing both
+	They prosper best of all when I am thence.
+	Would I were dead! if God's good will were so;
+	For what is in this world but grief and woe?
+	O God! methinks it were a happy life,
+	To be no better than a homely swain;
+	To sit upon a hill, as I do now,
+	To carve out dials quaintly, point by point,
+	Thereby to see the minutes how they run,
+	How many make the hour full complete;
+	How many hours bring about the day;
+	How many days will finish up the year;
+	How many years a mortal man may live.
+	When this is known, then to divide the times:
+	So many hours must I tend my flock;
+	So many hours must I take my rest;
+	So many hours must I contemplate;
+	So many hours must I sport myself;
+	So many days my ewes have been with young;
+	So many weeks ere the poor fools will ean;
+	So many years ere I shall shear the fleece:
+	So minutes, hours, days, months, and years,
+	Pass'd over to the end they were created,
+	Would bring white hairs unto a quiet grave.
+	Ah! what a life were this! how sweet! how lovely!
+	Gives not the hawthorn bush a sweeter shade
+	To shepherds, looking on their silly sheep,
+	Than doth a rich embroider'd canopy
+	To kings, that fear their subjects' treachery?
+	O, yes! it doth; a thousand-fold it doth.
+	And to conclude, the shepherd's homely curds,
+	His cold thin drink out of his leather bottle,
+	His wonted sleep under a fresh tree's shade,
+	All which secure and sweetly he enjoys,
+	Is far beyond a prince's delicates,
+	His viands sparkling in a golden cup,
+	His body couched in a curious bed,
+	When care, mistrust, and treason wait on him.
+<SPEECH 35><ACT 2><SCENE 5><37%>
+	O piteous spectacle! O bloody times!
+	Whiles lions war and battle for their dens,
+	Poor harmless lambs abide their enmity.
+	Weep, wretched man, I'll aid thee tear for tear;
+	And let our hearts and eyes, like civil war,
+	Be blind with tears, and break o'ercharg'd with grief.
+<SPEECH 36><ACT 2><SCENE 5><38%>
+	Woe above woe! grief more than common grief!
+	O! that my death would stay these ruthful deeds.
+	O! pity, pity; gentle heaven, pity.
+	The red rose and the white are on his face,
+	The fatal colours of our striving houses:
+	The one his purple blood right well resembles;
+	The other his pale cheeks, methinks, presenteth:
+	Wither one rose, and let the other flourish!
+	If you contend, a thousand lives must wither.
+<SPEECH 37><ACT 2><SCENE 5><38%>
+	How will the country for these woeful chances
+	Misthink the king and not be satisfied!
+<SPEECH 38><ACT 2><SCENE 5><39%>
+	Was ever king so griev'd for subjects' woe?
+	Much is your sorrow; mine, ten times so much.
+<SPEECH 39><ACT 2><SCENE 5><39%>
+	Sad-hearted men,' much overgone with care,
+	Here sits a king more woeful than you are.
+<SPEECH 40><ACT 2><SCENE 5><40%>
+	Nay, take me with thee, good sweet Exeter:
+	Not that I fear to stay, but love to go
+	Whither the queen intends. Forward! away!
+<SPEECH 41><ACT 3><SCENE 1><44%>
+	From Scotland am I stol'n, even of pure love,
+	To greet mine own land with my wishful sight.
+	No, Harry, Harry, 'tis no land of thine;
+	Thy place is fill'd, thy sceptre wrung from thee,
+	Thy balm wash'd off wherewith thou wast anointed:
+	No bending knee will call thee Cæsar now,
+	No humble suitors press to speak for right,
+	No, not a man comes for redress of thee;
+	For how can I help them, and not myself?
+<SPEECH 42><ACT 3><SCENE 1><44%>
+	Let me embrace thee, sour adversity,
+	For wise men say it is the wisest course.
+<SPEECH 43><ACT 3><SCENE 1><44%>
+	My queen and son are gone to France for aid;
+	And, as I hear, the great commanding Warwick
+	Is thither gone, to crave the French king's sister
+	To wife for Edward. If this news be true,
+	Poor queen and son, your labour is but lost;
+	For Warwick is a subtle orator,
+	And Lewis a prince soon won with moving words.
+	By this account then Margaret may win him,
+	For she's a woman to be pitied much:
+	Her sighs will make a battery in his breast;
+	Her tears will pierce into a marble heart;
+	The tiger will be mild whiles she doth mourn;
+	And Nero will be tainted with remorse,
+	To hear and see her plaints, her brinish tears.
+	Ay, but she's come to beg; Warwick, to give:
+	She on his left side craving aid for Henry;
+	He on his right asking a wife for Edward.
+	She weeps, and says her Henry is depos'd;
+	He smiles, and says his Edward is install'd;
+	That she, poor wretch, for grief can speak no more:
+	Whiles Warwick tells his title, smooths the wrong,
+	Inferreth arguments of mighty strength,
+	And in conclusion wins the king from her,
+	With promise of his sister, and what else,
+	To strengthen and support King Edward's place.
+	O Margaret! thus 'twill be; and thou, poor soul,
+	Art then forsaken, as thou went'st forlorn.
+<SPEECH 44><ACT 3><SCENE 1><45%>
+	More than I seem, and less than I was born to:
+	A man at least, for less I should not be;
+	And men may talk of kings, and why not I?
+<SPEECH 45><ACT 3><SCENE 1><45%>
+	Why, so I am, in mind; and that's enough.
+<SPEECH 46><ACT 3><SCENE 1><45%>
+	My crown is in my heart, not on my head;
+	Not deck'd with diamonds and Indian stones,
+	Nor to be seen: my crown is call'd content;
+	A crown it is that seldom kings enjoy.
+<SPEECH 47><ACT 3><SCENE 1><46%>
+	But did you never swear, and break an oath?
+<SPEECH 48><ACT 3><SCENE 1><46%>
+	Where did you dwell when I was King of England?
+<SPEECH 49><ACT 3><SCENE 1><46%>
+	I was anointed king at nine months old;
+	My father and my grandfather were kings,
+	And you were sworn true subjects unto me:
+	And tell me, then, have you not broke your oaths?
+<SPEECH 50><ACT 3><SCENE 1><46%>
+	Why, am I dead? do I not breathe a man?
+	Ah! simple men, you know not what you swear.
+	Look, as I blow this feather from my face,
+	And as the air blows it to me again,
+	Obeying with my wind when I do blow,
+	And yielding to another when it blows,
+	Commanded always by the greater gust;
+	Such is the lightness of you common men.
+	But do not break your oaths; for of that sin
+	My mild entreaty shall not make you guilty.
+	Go where you will, the king shall be commanded;
+	And be you kings: command, and I'll obey.
+<SPEECH 51><ACT 3><SCENE 1><46%>
+	So would you be again to Henry,
+	If he were seated as King Edward is.
+<SPEECH 52><ACT 3><SCENE 1><47%>
+	In God's name, lead; your king's name be obey'd:
+	And what God will, that let your king perform;
+	And what he will, I humbly yield unto.
+<SPEECH 53><ACT 4><SCENE 6><74%>
+	Master lieutenant, now that God and friends
+	Have shaken Edward from the regal seat,
+	And turn'd my captive state to liberty,
+	My fear to hope, my sorrows unto joys,
+	At our enlargement what are thy due fees?
+<SPEECH 54><ACT 4><SCENE 6><74%>
+	For what, lieutenant? for well using me?
+	Nay, be thou sure, I'll well requite thy kindness,
+	For that it made my imprisonment a pleasure;
+	Ay, such a pleasure as encaged birds
+	Conceive, when, after many moody thoughts
+	At last by notes of household harmony
+	They quite forget their loss of liberty.
+	But, Warwick, after God, thou set'st me free,
+	And chiefly therefore I thank God and thee;
+	He was the author, thou the instrument.
+	Therefore, that I may conquer Fortune's spite
+	By living low, where Fortune cannot hurt me,
+	And that the people of this blessed land
+	May not be punish'd with my thwarting stars,
+	Warwick, although my head still wear the crown,
+	I here resign my government to thee,
+	For thou art fortunate in all thy deeds.
+<SPEECH 55><ACT 4><SCENE 6><75%>
+	Warwick and Clarence, give me both your hands:
+	Now join your hands, and with your hands your hearts,
+	That no dissension hinder government:
+	I make you both protectors of this land,
+	While I myself will lead a private life,
+	And in devotion spend my latter days,
+	To sin's rebuke and my Creator's praise.
+<SPEECH 56><ACT 4><SCENE 6><75%>
+	But, with the first of all your chief affairs,
+	Let me entreat, for I command no more,
+	That Margaret your queen, and my son Edward,
+	Be sent for, to return from France with speed:
+	For, till I see them here, by doubtful fear
+	My joy of liberty is half eclips'd.
+<SPEECH 57><ACT 4><SCENE 6><75%>
+	My Lord of Somerset, what youth is that
+	Of whom you seem to have so tender care?
+<SPEECH 58><ACT 4><SCENE 6><76%>
+	Come hither, England's hope: <STAGE DIR>
+	</STAGE DIR> If secret powers
+	Suggest but truth to my divining thoughts,
+	This pretty lad will prove our country's bliss.
+	His looks are full of peaceful majesty,
+	His head by nature fram'd to wear a crown,
+	His hand to wield a sceptre, and himself
+	Likely in time to bless a regal throne.
+	Make much of him, my lords; for this is he
+	Must help you more than you are hurt by me.
+<SPEECH 59><ACT 4><SCENE 8><81%>
+	Farewell, my Hector, and my Troy's true hope.
+<SPEECH 60><ACT 4><SCENE 8><81%>
+	Well-minded Clarence, be thou fortunate!
+<SPEECH 61><ACT 4><SCENE 8><81%>
+	Sweet Oxford, and my loving Montague,
+	And all at once, once more a happy farewell.
+<SPEECH 62><ACT 4><SCENE 8><81%>
+	Here at the palace will I rest awhile.
+	Cousin of Exeter, what thinks your lordship?
+	Methinks the power that Edward hath in field
+	Should not be able to encounter mine.
+<SPEECH 63><ACT 4><SCENE 8><81%>
+	That's not my fear; my meed hath got me fame:
+	I have not stopp'd mine ears to their demands,
+	Nor posted off their suits with slow delays;
+	My pity hath been balm to heal their wounds,
+	My mildness hath allay'd their swelling griefs,
+	My mercy dried their water-flowing tears;
+	I have not been desirous of their wealth;
+	Nor much oppress'd them with great subsidies,
+	Nor forward of revenge, though they much err'd.
+	Then why should they love Edward more than me?
+	No, Exeter, these graces challenge grace:
+	And, when the lion fawns upon the lamb,
+	The lamb will never cease to follow him.
+<SPEECH 64><ACT 5><SCENE 6><95%>
+	Ay, my good lord:—my lord, I should say rather;
+	'Tis sin to flatter, 'good' was little better:
+	'Good Gloucester' and 'good devil' were alike,
+	And both preposterous; therefore, not 'good lord.'
+<SPEECH 65><ACT 5><SCENE 6><96%>
+	So flies the reckless shepherd from the wolf;
+	So first the harmless sheep doth yield his fleece,
+	And next his throat unto the butcher's knife.
+	What scene of death hath Roscius now to act?
+<SPEECH 66><ACT 5><SCENE 6><96%>
+	The bird that hath been limed in a bush,
+	With trembling wings misdoubteth every bush;
+	And I, the hapless male to one sweet bird,
+	Have now the fatal object in my eye
+	Where my poor young was lim'd, was caught, and kill'd.
+<SPEECH 67><ACT 5><SCENE 6><96%>
+	I, Dædalus; my poor boy, Icarus;
+	Thy father, Minos, that denied our course;
+	The sun, that sear'd the wings of my sweet boy,
+	Thy brother Edward, and thyself the sea,
+	Whose envious gulf did swallow up his life.
+	Ah! kill me with thy weapon, not with words.
+	My breast can better brook thy dagger's point
+	Than can my ears that tragic history.
+	But wherefore dost thou come? is't for my life?
+<SPEECH 68><ACT 5><SCENE 6><96%>
+	A persecutor, I am sure, thou art:
+	If murd'ring innocents be executing,
+	Why, then thou art an executioner.
+<SPEECH 69><ACT 5><SCENE 6><96%>
+	Hadst thou been kill'd, when first thou didst presume,
+	Thou hadst not liv'd to kill a son of mine.
+	And thus I prophesy: that many a thousand,
+	Which now mistrust no parcel of my fear,
+	And many an old man's sigh, and many a widow's,
+	And many an orphan's water-standing eye,
+	Men for their sons', wives for their husbands',
+	And orphans for their parents' timeless death,
+	Shall rue the hour that ever thou wast born.
+	The owl shriek'd at thy birth, an evil sign;
+	The night-crow cried, aboding luckless time;
+	Dogs howl'd, and hideous tempest shook down trees!
+	The raven rook'd her on the chimney's top,
+	And chattering pies in dismal discords sung.
+	Thy mother felt more than a mother's pain,
+	And yet brought forth less than a mother's hope;
+	To wit an indigest deformed lump,
+	Not like the fruit of such a goodly tree.
+	Teeth hadst thou in thy head when thou wast born,
+	To signify thou cam'st to bite the world:
+	And, if the rest be true which I have heard,
+	Thou cam'st—
+<SPEECH 70><ACT 5><SCENE 6><97%>
+	Ay, and for much more slaughter after this.
+	O, God forgive my sins, and pardon thee!

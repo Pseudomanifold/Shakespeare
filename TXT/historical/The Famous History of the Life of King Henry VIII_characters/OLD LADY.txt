@@ -1,0 +1,83 @@
+<SPEECH 1><ACT 2><SCENE 3><35%>
+	Hearts of most hard temper
+	Melt and lament for her.
+<SPEECH 2><ACT 2><SCENE 3><35%>
+	Alas! poor lady,
+	She's a stranger now again.
+<SPEECH 3><ACT 2><SCENE 3><35%>
+	Our content
+	Is our best having.
+<SPEECH 4><ACT 2><SCENE 3><35%>
+	Beshrew me, I would,
+	And venture maidenhead for't; and so would you,
+	For all this spice of your hypocrisy.
+	You, that have so fair parts of woman on you,
+	Have too a woman's heart; which ever yet
+	Affected eminence, wealth, sovereignty:
+	Which, to say sooth, are blessings, and which gifts—
+	Saving your mincing—the capacity
+	Of your soft cheveril conscience would receive,
+	If you might please to stretch it.
+<SPEECH 5><ACT 2><SCENE 3><36%>
+	Yes, troth, and troth; you would not be a queen?
+<SPEECH 6><ACT 2><SCENE 3><36%>
+	'Tis strange: a three-pence bow'd would hire me,
+	Old as I am, to queen it. But, I pray you,
+	What think you of a duchess? have you limbs
+	To bear that load of title?
+<SPEECH 7><ACT 2><SCENE 3><36%>
+	Then you are weakly made. Pluck off a little:
+	I would not be a young count in your way,
+	For more than blushing comes to: if your back
+	Cannot vouchsafe this burden, 'tis too weak
+	Ever to get a boy.
+<SPEECH 8><ACT 2><SCENE 3><36%>
+	In faith, for little England
+	You'd venture an emballing: I myself
+	Would for Carnarvonshire, although there 'long'd
+	No more to the crown but that. Lo! who comes here?
+<SPEECH 9><ACT 2><SCENE 3><37%>
+	Why, this it is; see, see!
+	I have been begging sixteen years in court,
+	Am yet a courtier beggarly, nor could
+	Come pat betwixt too early and too late;
+	For any suit of pounds; and you, O fate!
+	A very fresh-fish here,—fie, fie, upon
+	This compell'd fortune!—have your mouth fill'd up
+	Before you open it.
+<SPEECH 10><ACT 2><SCENE 3><37%>
+	How tastes it? is it bitter? forty pence, no.
+	There was a lady once,—'tis an old story,—
+	That would not be a queen, that would she not,
+	For all the mud in Egypt: have you heard it?
+<SPEECH 11><ACT 2><SCENE 3><38%>
+	With your theme I could
+	O'ermount the lark. The Marchioness of Pembroke!
+	A thousand pounds a year, for pure respect!
+	No other obligation! By my life
+	That promises more thousands: honour's train
+	Is longer than his foreskirt. By this time
+	I know your back will bear a duchess: say,
+	Are you not stronger than you were?
+<SPEECH 12><ACT 2><SCENE 3><38%>
+	What do you think me?
+<SPEECH 13><ACT 5><SCENE 1><85%>
+	I'll not come back; the tidings that I bring
+	Will make my boldness manners. Now, good angels
+	Fly o'er thy royal head, and shade thy person
+	Under their blessed wings!
+<SPEECH 14><ACT 5><SCENE 1><85%>
+	Ay, ay, my liege;
+	And of a lovely boy: the God of heaven
+	Both now and ever bless her! 'tis a girl,
+	Promises boys hereafter. Sir, your queen
+	Desires your visitation, and to be
+	Acquainted with this stranger: 'tis as like you
+	As cherry is to cherry.
+<SPEECH 15><ACT 5><SCENE 1><85%>
+	A hundred marks! By this light, I'll ha' more.
+	An ordinary groom is for such payment:
+	I will have more, or scold it out of him.
+	Said I for this the girl was like to him?
+	I will have more, or else unsay't; and now,
+	While it is hot, I'll put it to the issue.

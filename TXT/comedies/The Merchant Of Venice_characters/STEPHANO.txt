@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 5><SCENE 1><89%>
+	A friend.
+<SPEECH 2><ACT 5><SCENE 1><89%>
+	Stephano is my name; and I bring word
+	My mistress will before the break of day
+	Be here at Belmont: she doth stray about
+	By holy crosses, where she kneels and prays
+	For happy wedlock hours.
+<SPEECH 3><ACT 5><SCENE 1><90%>
+	None, but a holy hermit and her maid.
+	I pray you, is my master yet return'd?

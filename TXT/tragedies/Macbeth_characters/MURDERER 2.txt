@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 3><SCENE 1><44%>
+	I am one, my liege,
+	Whom the vile blows and buffets of the world
+	Have so incens'd that I am reckless what
+	I do to spite the world.
+<SPEECH 2><ACT 3><SCENE 1><44%>
+	True, my lord.
+<SPEECH 3><ACT 3><SCENE 1><45%>
+	We shall, my lord,
+	Perform what you command us.
+<SPEECH 4><ACT 3><SCENE 1><45%>
+	We are resolv'd, my lord.
+<SPEECH 5><ACT 3><SCENE 3><48%>
+	He needs not our mistrust, since he delivers
+	Our offices and what we have to do
+	To the direction just.
+<SPEECH 6><ACT 3><SCENE 3><49%>
+	Then 'tis he: the rest
+	That are within the note of expectation
+	Already are i' the court.
+<SPEECH 7><ACT 3><SCENE 3><49%>
+	A light, a light!
+<SPEECH 8><ACT 3><SCENE 3><50%>
+	We have lost
+	Best half of our affair.

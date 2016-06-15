@@ -1,0 +1,91 @@
+<SPEECH 1><ACT 4><SCENE 1><60%>
+	Break off thy song, and haste thee quick away:
+	Here comes a man of comfort, whose advice
+	Hath often still'd my brawling discontent.
+	I cry you mercy, sir; and well could wish
+	You had not found me here so musical:
+	Let me excuse me, and believe me so,
+	My mirth it much displeas'd, but pleas'd my woe.
+<SPEECH 2><ACT 4><SCENE 1><61%>
+	You have not been inquired after: I have sat here all day.
+<SPEECH 3><ACT 4><SCENE 1><61%>
+	I am always bound to you.
+<SPEECH 4><ACT 4><SCENE 1><62%>
+	Good friar, I know you do, and oft have found it.
+<SPEECH 5><ACT 4><SCENE 1><62%>
+	Will't please you walk aside?
+<SPEECH 6><ACT 4><SCENE 1><63%>
+	Fear me not.
+<SPEECH 7><ACT 4><SCENE 6><80%>
+	Be rul'd by him.
+<SPEECH 8><ACT 4><SCENE 6><80%>
+	I would, Friar Peter—
+<SPEECH 9><ACT 5><SCENE 1><87%>
+	Pardon, my lord; I will not show my face
+	Until my husband bid me.
+<SPEECH 10><ACT 5><SCENE 1><87%>
+	No, my lord.
+<SPEECH 11><ACT 5><SCENE 1><87%>
+	No, my lord.
+<SPEECH 12><ACT 5><SCENE 1><87%>
+	Neither, my lord.
+<SPEECH 13><ACT 5><SCENE 1><87%>
+	My lord, I do confess I ne'er was married;
+	And I confess besides I am no maid:
+	I have known my husband yet my husband knows not
+	That ever he knew me.
+<SPEECH 14><ACT 5><SCENE 1><87%>
+	Now I come to't, my lord:
+	She that accuses him of fornication,
+	In self-same manner doth accuse my husband;
+	And charges him, my lord, with such a time,
+	When, I'll depose, I had him in mine arms,
+	With all th' effect of love.
+<SPEECH 15><ACT 5><SCENE 1><87%>
+	Not that I know.
+<SPEECH 16><ACT 5><SCENE 1><88%>
+	Why, just, my lord, and that is Angelo,
+	Who thinks he knows that he ne'er knew my body
+	But knows he thinks that he knows Isabel's.
+<SPEECH 17><ACT 5><SCENE 1><88%>
+	My husband bids me; now I will unmask.
+	This is that face, thou cruel Angelo,
+	Which once thou swor'st was worth the looking on:
+	This is the hand which, with a vow'd contract,
+	Was fast belock'd in thine: this is the body
+	That took away the match from Isabel,
+	And did supply thee at thy garden-house
+	In her imagin'd person.
+<SPEECH 18><ACT 5><SCENE 1><88%>
+	Noble prince,
+	As there comes light from heaven and words from breath,
+	As there is sense in truth and truth in virtue,
+	I am affianc'd this man's wife as strongly
+	As words could make up vows: and, my good lord,
+	But Tuesday night last gone in 's garden-house
+	He knew me as a wife. As this is true,
+	Let me in safety raise me from my knees
+	Or else for ever be confixed here,
+	A marble monument.
+<SPEECH 19><ACT 5><SCENE 1><95%>
+	O, my most gracious lord!
+	I hope you will not mock me with a husband.
+<SPEECH 20><ACT 5><SCENE 1><96%>
+	O my dear lord!
+	I crave no other, nor no better man.
+<SPEECH 21><ACT 5><SCENE 1><96%>
+	</STAGE DIR> Gentle my liege,—
+<SPEECH 22><ACT 5><SCENE 1><96%>
+	O my good lord! Sweet Isabel, take my part:
+	Lend me your knees, and, all my life to come,
+	I'll lend you all my life to do you service,
+<SPEECH 23><ACT 5><SCENE 1><96%>
+	Isabel,
+	Sweet Isabel, do yet but kneel by me:
+	Hold up your hands, say nothing, I'll speak all.
+	They say best men are moulded out of faults,
+	And, for the most, become much more the better
+	For being a little bad: so may my husband.
+	O, Isabel! will you not lend a knee?
+<SPEECH 24><ACT 5><SCENE 1><97%>
+	Merely, my lord.

@@ -1,0 +1,97 @@
+<SPEECH 1><ACT 1><SCENE 4><12%>
+	I must not think there are
+	Evils enow to darken all his goodness;
+	His faults in him seem as the spots of heaven,
+	More fiery by night's blackness; hereditary
+	Rather than purchas'd; what he cannot change
+	Than what he chooses.
+<SPEECH 2><ACT 1><SCENE 4><13%>
+	Here's more news.
+<SPEECH 3><ACT 1><SCENE 4><14%>
+	'Tis pity of him.
+<SPEECH 4><ACT 1><SCENE 4><14%>
+	To-morrow, Cæsar,
+	I shall be furnish'd to inform you rightly
+	Both what by sea and land I can be able
+	To front this present time.
+<SPEECH 5><ACT 1><SCENE 4><14%>
+	Farewell, my lord. What you shall know meantime
+	Of stirs abroad, I shall beseech you, sir,
+	To let me be partaker.
+<SPEECH 6><ACT 2><SCENE 2><18%>
+	Good Enobarbus, 'tis a worthy deed,
+	And shall become you well, to entreat your captain
+	To soft and gentle speech.
+<SPEECH 7><ACT 2><SCENE 2><19%>
+	'Tis not a time
+	For private stomaching.
+<SPEECH 8><ACT 2><SCENE 2><19%>
+	But small to greater matters must give way.
+<SPEECH 9><ACT 2><SCENE 2><19%>
+	Your speech is passion;
+	But, pray you, stir no embers up. Here comes
+	The noble Antony.
+<SPEECH 10><ACT 2><SCENE 2><19%>
+	Noble friends,
+	That which combin'd us was most great, and let not
+	A leaner action rend us. What's amiss,
+	May it be gently heard; when we debate
+	Our trivial difference loud, we do commit
+	Murder in healing wounds; then, noble partners,—
+	The rather for I earnestly beseech,—
+	Touch you the sourest points with sweetest terms,
+	Nor curstness grow to the matter.
+<SPEECH 11><ACT 2><SCENE 2><21%>
+	Soft, Cæsar!
+<SPEECH 12><ACT 2><SCENE 2><21%>
+	'Tis noble spoken.
+<SPEECH 13><ACT 2><SCENE 2><21%>
+	Worthily spoken, Mecænas.
+<SPEECH 14><ACT 2><SCENE 2><23%>
+	Happily, amen!
+<SPEECH 15><ACT 2><SCENE 2><23%>
+	Time calls upon 's:
+	Of us must Pompey presently be sought,
+	Or else he seeks out us.
+<SPEECH 16><ACT 2><SCENE 2><23%>
+	Noble Antony,
+	Not sickness should detain me.
+<SPEECH 17><ACT 2><SCENE 4><27%>
+	Trouble yourselves no further; pray you hasten
+	Your generals after.
+<SPEECH 18><ACT 2><SCENE 4><27%>
+	Till I shall see you in your soldier's dress,
+	Which will become you both, farewell.
+<SPEECH 19><ACT 2><SCENE 4><27%>
+	Your way is shorter;
+	My purposes to draw me much about:
+	You 'll win two days upon me.
+<SPEECH 20><ACT 2><SCENE 4><27%>
+	Farewell.
+<SPEECH 21><ACT 2><SCENE 6><33%>
+	Be pleas'd to tell us—
+	For this is from the present—how you take
+	The offers we have sent you.
+<SPEECH 22><ACT 2><SCENE 6><33%>
+	That's our offer.
+<SPEECH 23><ACT 2><SCENE 6><33%>
+	Well met here.
+<SPEECH 24><ACT 2><SCENE 6><34%>
+	Show us the way, sir.
+<SPEECH 25><ACT 2><SCENE 7><37%>
+	You've strange serpents there.
+<SPEECH 26><ACT 2><SCENE 7><37%>
+	Your serpent of Egypt is bred now of your mud by the operation of your sun; so is your crocodile.
+<SPEECH 27><ACT 2><SCENE 7><37%>
+	I am not so well as I should be, but I'll ne'er out.
+<SPEECH 28><ACT 2><SCENE 7><37%>
+	Nay, certainly, I have heard the Ptolemies' pyramises are very goodly things; without contradiction, I have heard that.
+<SPEECH 29><ACT 2><SCENE 7><37%>
+	What manner o' thing is your crocodile?
+<SPEECH 30><ACT 2><SCENE 7><37%>
+	What colour is it of?
+<SPEECH 31><ACT 2><SCENE 7><37%>
+	'Tis a strange serpent.
+<SPEECH 32><ACT 3><SCENE 2><44%>
+	Let all the number of the stars give light
+	To thy fair way!

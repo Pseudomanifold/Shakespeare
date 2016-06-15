@@ -1,0 +1,22 @@
+<SPEECH 1><ACT 4><SCENE 2><70%>
+	I do not doubt
+	But that my noble master will appear
+	Such as he is, full of regard and honour.
+<SPEECH 2><ACT 5><SCENE 3><91%>
+	Fly further off, my lord, fly further off;
+	Mark Antony is in your tents, my lord:
+	Fly, therefore, noble Cassius, fly far off.
+<SPEECH 3><ACT 5><SCENE 3><91%>
+	</STAGE DIR> O my lord!
+<SPEECH 4><ACT 5><SCENE 3><91%>
+	Titinius is enclosed round about
+	With horsemen, that make to him on the spur;
+	Yet he spurs on: now they are almost on him;
+	Now, Titinius! now some light; O! he lights too:
+	He's ta'en; <STAGE DIR>
+	</STAGE DIR> and, hark! they shout for joy.
+<SPEECH 5><ACT 5><SCENE 3><92%>
+	So, I am free; yet would not so have been;
+	Durst I have done my will. O Cassius,
+	Far from this country Pindarus shall run,
+	Where never Roman shall take note of him.

@@ -1,0 +1,83 @@
+<SPEECH 1><ACT 1><SCENE 2><12%>
+	Come on: since the youth will not be entreated, his own peril on his forwardness.
+<SPEECH 2><ACT 1><SCENE 2><12%>
+	How now, daughter and cousin! are you crept hither to see the wrestling?
+<SPEECH 3><ACT 1><SCENE 2><12%>
+	You will take little delight in it, I can tell you, there is such odds in the man: in pity of the challenger's youth I would fam dissuade him, but he will not be entreated. Speak to him, ladies; see if you can move him.
+<SPEECH 4><ACT 1><SCENE 2><12%>
+	Do so: I'll not be by.
+<SPEECH 5><ACT 1><SCENE 2><14%>
+	You shall try but one fall.
+<SPEECH 6><ACT 1><SCENE 2><14%>
+	No more, no more.
+<SPEECH 7><ACT 1><SCENE 2><14%>
+	How dost thou, Charles?
+<SPEECH 8><ACT 1><SCENE 2><14%>
+	Bear him away. What is thy name, young man?
+<SPEECH 9><ACT 1><SCENE 2><14%>
+	I would thou hadst been son to some man else:
+	The world esteem'd thy father honourable,
+	But I did find him still mine enemy:
+	Thou shouldst have better pleas'd me with this deed,
+	Hadst thou descended from another house.
+	But fare thee well; thou art a gallant youth:
+	I would thou hadst told me of another father.
+<SPEECH 10><ACT 1><SCENE 3><19%>
+	Mistress, dispatch you with your safest haste,
+	And get you from our court.
+<SPEECH 11><ACT 1><SCENE 3><19%>
+	You, cousin:
+	Within these ten days if that thou be'st found
+	So near our public court as twenty miles,
+	Thou diest for it.
+<SPEECH 12><ACT 1><SCENE 3><19%>
+	Thus do all traitors:
+	If their purgation did consist in words,
+	They are as innocent as grace itself:
+	Let it suffice thee that I trust thee not.
+<SPEECH 13><ACT 1><SCENE 3><19%>
+	Thou art thy father's daughter; there's enough.
+<SPEECH 14><ACT 1><SCENE 3><19%>
+	Ay, Celia; we stay'd her for your sake;
+	Else had she with her father rang'd along.
+<SPEECH 15><ACT 1><SCENE 3><20%>
+	She is too subtle for thee; and her smoothness,
+	Her very silence and her patience,
+	Speak to the people, and they pity her.
+	Thou art a fool: she robs thee of thy name;
+	And thou wilt show more bright and seem more virtuous
+	When she is gone. Then open not thy lips:
+	Firm and irrevocable is my doom
+	Which I have pass'd upon her; she is banish'd.
+<SPEECH 16><ACT 1><SCENE 3><20%>
+	You are a fool. You, niece, provide yourself:
+	If you outstay the time, upon mine honour,
+	And in the greatness of my word, you die.
+<SPEECH 17><ACT 2><SCENE 2><25%>
+	Can it be possible that no man saw them?
+	It cannot be: some villains of my court
+	Are of consent and sufferance in this.
+<SPEECH 18><ACT 2><SCENE 2><25%>
+	Send to his brother; fetch that gallant hither;
+	If he be absent, bring his brother to me;
+	I'll make him find him. Do this suddenly,
+	And let not search and inquisition quail
+	To bring again these foolish runaways.
+<SPEECH 19><ACT 3><SCENE 1><42%>
+	Not seen him since! Sir, sir, that cannot be:
+	But were I not the better part made mercy,
+	I should not seek an absent argument
+	Of my revenge, thou present. But look to it:
+	Find out thy brother, wheresoe'er he is;
+	Seek him with candle; bring him, dead or living,
+	Within this twelvemonth, or turn thou no more
+	To seek a living in our territory.
+	Thy lands and all things that thou dost call thine
+	Worth seizure, do we seize into our hands,
+	Till thou canst quit thee by thy brother's mouth
+	Of what we think against thee.
+<SPEECH 20><ACT 3><SCENE 1><42%>
+	More villain thou. Well, push him out of doors;
+	And let my officers of such a nature
+	Make an extent upon his house and lands.
+	Do this expediently and turn him going.

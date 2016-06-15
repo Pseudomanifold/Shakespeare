@@ -1,0 +1,55 @@
+<SPEECH 1><ACT 5><SCENE 3><85%>
+	Margaret my name, and daughter to a king,
+	The King of Naples, whosoe'er thou art.
+<SPEECH 2><ACT 5><SCENE 3><86%>
+	Say, Earl of Suffolk,—if thy name be so,—
+	What ransom must I pay before I pass?
+	For I perceive, I am thy prisoner.
+<SPEECH 3><ACT 5><SCENE 3><86%>
+	Why speak'st thou not? what ransom must I pay?
+<SPEECH 4><ACT 5><SCENE 3><86%>
+	Wilt thou accept of ransom, yea or no?
+<SPEECH 5><ACT 5><SCENE 3><86%>
+	I were best to leave him, for he will not hear.
+<SPEECH 6><ACT 5><SCENE 3><86%>
+	He talks at random; sure, the man is mad.
+<SPEECH 7><ACT 5><SCENE 3><86%>
+	And yet I would that you would answer me.
+<SPEECH 8><ACT 5><SCENE 3><86%>
+	</STAGE DIR> He talks of wood: it is some carpenter.
+<SPEECH 9><ACT 5><SCENE 3><87%>
+	Hear ye, captain? Are you not at leisure?
+<SPEECH 10><ACT 5><SCENE 3><87%>
+	</STAGE DIR> What though I be enthrall'd? he seems a knight,
+	And will not any way dishonour me.
+<SPEECH 11><ACT 5><SCENE 3><87%>
+	</STAGE DIR> Perhaps I shall be rescu'd by the French;
+	And then I need not crave his courtesy.
+<SPEECH 12><ACT 5><SCENE 3><87%>
+	Tush, women have been captivate ere now.
+<SPEECH 13><ACT 5><SCENE 3><87%>
+	I cry you mercy, 'tis but quid for quo.
+<SPEECH 14><ACT 5><SCENE 3><87%>
+	To be a queen in bondage is more vile
+	Than is a slave in base servility;
+	For princes should be free.
+<SPEECH 15><ACT 5><SCENE 3><87%>
+	Why, what concerns his freedom unto me?
+<SPEECH 16><ACT 5><SCENE 3><88%>
+	What?
+<SPEECH 17><ACT 5><SCENE 3><88%>
+	I am unworthy to be Henry's wife.
+<SPEECH 18><ACT 5><SCENE 3><88%>
+	An if my father please, I am content.
+<SPEECH 19><ACT 5><SCENE 3><89%>
+	Farewell, my lord. Good wishes, praise, and prayers
+	Shall Suffolk ever have of Margaret.
+<SPEECH 20><ACT 5><SCENE 3><90%>
+	Such commendations as become a maid,
+	A virgin, and his servant, say to him.
+<SPEECH 21><ACT 5><SCENE 3><90%>
+	Yes, my good lord; a pure unspotted heart,
+	Never yet taint with love, I send the king.
+<SPEECH 22><ACT 5><SCENE 3><90%>
+	That for thyself: I will not so presume,
+	To send such peevish tokens to a king.

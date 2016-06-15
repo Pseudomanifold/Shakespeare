@@ -1,0 +1,269 @@
+<SPEECH 1><ACT 2><SCENE 1><20%>
+	What! have I 'scaped love-letters in the holiday-time of my beauty, and am I now a subject for them? Let me see.
+	Ask me no reason why I love you; for though Love use Reason for his physician, he admits him not for his counsellor. You are not young, no more am I; go to then, there's sympathy; you are merry, so am I, ha! ha! then, there's more sympathy, you love sack, and so do I, would you desire better sympathy? Let it suffice thee, Mistress Page, at the least, if the love of a soldier can suffice, that I love thee I will not say, pity me,—'tis not a soldier-like phrase; but I say, love me. By me,
+	Thine own true knight,
+	By day or night,
+	Or any kind of light,
+	With all his might
+	For thee to fight,
+<SPEECH 2><ACT 2><SCENE 1><21%>
+	And, trust me, I was coming to you. You look very ill.
+<SPEECH 3><ACT 2><SCENE 1><22%>
+	Faith, but you do, in my mind.
+<SPEECH 4><ACT 2><SCENE 1><22%>
+	What's the matter, woman?
+<SPEECH 5><ACT 2><SCENE 1><22%>
+	Hang the trifle, woman; take the honour. What is it?—dispense with trifles;—what is it?
+<SPEECH 6><ACT 2><SCENE 1><22%>
+	What? thou liest. Sir Alice Ford! These knights will hack; and so thou shouldst not alter the article of thy gentry.
+<SPEECH 7><ACT 2><SCENE 1><23%>
+	Letter for letter, but that the name of Page and Ford differs! To thy great comfort in this mystery of ill opinions, here's the twin brother of thy letter: but let thine inherit first; for, I protest, mine never shall. I warrant, he hath a thousand of these letters, writ with blank space for different names, sure more, and these are of the second edition. He will print them, out of doubt; for he cares not what he puts into the press, when he would put us two: I had rather be a grantess, and lie under Mount Pelion. Well, I will find you twenty lascivious turtles ere one chaste man.
+<SPEECH 8><ACT 2><SCENE 1><23%>
+	Nay, I know not: it makes me almost ready to wrangle with mine own honesty. I'll entertain myself like one that I am not acquainted withal; for, sure, unless he know some strain in me, that I know not myself, he would never have boarded me in this fury.
+<SPEECH 9><ACT 2><SCENE 1><23%>
+	So will I: if he come under my hatches, I'll never to sea again. Let's be revenged on him: let's appoint him a meeting; give him a show of comfort in his suit, and lead him on with a fine-baited delay, till he hath pawned his horses to mine host of the Garter.
+<SPEECH 10><ACT 2><SCENE 1><24%>
+	Why, look, where he comes; and my good man too: he's as far from jealousy, as I am from giving him cause; and that, I hope, is an unmeasurable distance.
+<SPEECH 11><ACT 2><SCENE 1><24%>
+	Let's consult together against this greasy knight. Come hither.
+<SPEECH 12><ACT 2><SCENE 1><25%>
+	Whither go you, George?—Hark you.
+<SPEECH 13><ACT 2><SCENE 1><26%>
+	Have with you. You'll come to dinner, George? <STAGE DIR>
+	</STAGE DIR> Look, who comes yonder: she shall be our messenger to this paltry knight.
+<SPEECH 14><ACT 2><SCENE 1><26%>
+	You are come to see my daughter Anne?
+<SPEECH 15><ACT 2><SCENE 1><26%>
+	Go in with us, and see: we'd have an hour's talk with you.
+<SPEECH 16><ACT 3><SCENE 2><46%>
+	Nay, keep your way, little gallant: you were wont to be a follower, but now you are a leader. Whether had you rather lead mine eyes, or eye your master's heels?
+<SPEECH 17><ACT 3><SCENE 2><47%>
+	O! you are a flattering boy: now I see you'll be a courtier.
+<SPEECH 18><ACT 3><SCENE 2><47%>
+	Truly, sir, to see your wife: is she at home?
+<SPEECH 19><ACT 3><SCENE 2><47%>
+	Be sure of that,—two other husbands.
+<SPEECH 20><ACT 3><SCENE 2><47%>
+	I cannot tell what the dickens his name is my husband had him of. What do you call your knight's name, sirrah?
+<SPEECH 21><ACT 3><SCENE 2><47%>
+	He, he; I can never hit on's name. There is such a league between my good man and he! Is your wife at home indeed?
+<SPEECH 22><ACT 3><SCENE 2><47%>
+	By your leave, sir: I am sick till I see her.
+<SPEECH 23><ACT 3><SCENE 3><50%>
+	Quickly, quickly:—Is the buckbasket—
+<SPEECH 24><ACT 3><SCENE 3><50%>
+	Come, come, come.
+<SPEECH 25><ACT 3><SCENE 3><50%>
+	Give your men the charge; we must be brief.
+<SPEECH 26><ACT 3><SCENE 3><50%>
+	You will do it?
+<SPEECH 27><ACT 3><SCENE 3><50%>
+	Here comes little Robin.
+<SPEECH 28><ACT 3><SCENE 3><51%>
+	You little Jack-a-Lent, have you been true to us?
+<SPEECH 29><ACT 3><SCENE 3><51%>
+	Thou'rt a good boy; this secrecy of thine shall be a tailor to thee and shall make thee a new doublet and hose. I'll go hide me.
+<SPEECH 30><ACT 3><SCENE 3><51%>
+	I warrant thee; if I do not act it, hiss me.
+<SPEECH 31><ACT 3><SCENE 3><53%>
+	O Mistress Ford! what have you done? You're shamed, you are overthrown, you're undone for ever!
+<SPEECH 32><ACT 3><SCENE 3><53%>
+	O well-a-day, Mistress Ford! having an honest man to your husband, to give him such cause of suspicion!
+<SPEECH 33><ACT 3><SCENE 3><53%>
+	What cause of suspicion! Out upon you! how am I mistook in you!
+<SPEECH 34><ACT 3><SCENE 3><53%>
+	Your husband's coming hither, woman, with all the officers of Windsor, to search for a gentleman that he says is here now in the house by your consent, to take an ill advantage of his absence: you are undone.
+<SPEECH 35><ACT 3><SCENE 3><53%>
+	Pray heaven it be not so, that you have such a man here! but 'tis most certain your husband's coming with half Windsor at his heels, to search for such a one. I come before to tell you. If you know yourself clear, why, I am glad of it; but if you have a friend here, convey, convey him out. Be not amazed; call all your senses to you: defend your reputation, or bid farewell to your good life for ever.
+<SPEECH 36><ACT 3><SCENE 3><54%>
+	For shame! never stand 'you had rather' and 'you had rather:' your husband's here at hand; bethink you of some conveyance: in the house you cannot hide him. O, how have you deceived me! Look, here is a basket: if he be of any reasonable stature, he may creep in here; and throw foul linen upon him, as if it were going to bucking: or—it is whiting-time—send him by your two men to Datchet-mead.
+<SPEECH 37><ACT 3><SCENE 3><54%>
+	What, Sir John Falstaff! Are these your letters, knight?
+<SPEECH 38><ACT 3><SCENE 3><55%>
+	Help to cover your master, boy. Call your men, Mistress Ford. You dissembling knight!
+<SPEECH 39><ACT 3><SCENE 3><56%>
+	Is there not a double excellency in this?
+<SPEECH 40><ACT 3><SCENE 3><56%>
+	What a taking was he in when your husband asked who was in the basket!
+<SPEECH 41><ACT 3><SCENE 3><56%>
+	Hang him, dishonest rascal! I would all of the same strain were in the same distress.
+<SPEECH 42><ACT 3><SCENE 3><56%>
+	I will lay a plot to try that; and we will yet have more tricks with Falstaff: his dissolute disease will scarce obey this medicine.
+<SPEECH 43><ACT 3><SCENE 3><56%>
+	We will do it: let him be sent for to-morrow, eight o'clock, to have amends.
+<SPEECH 44><ACT 3><SCENE 3><57%>
+	</STAGE DIR> Heard you that?
+<SPEECH 45><ACT 3><SCENE 3><57%>
+	You do yourself mighty wrong, Master Ford.
+<SPEECH 46><ACT 3><SCENE 4><60%>
+	Good Master Fenton, come not to my child.
+<SPEECH 47><ACT 3><SCENE 4><61%>
+	I mean it not; I seek you a better husband.
+<SPEECH 48><ACT 3><SCENE 4><61%>
+	Come, trouble not yourself. Good Master Fenton,
+	I will not be your friend nor enemy:
+	My daughter will I question how she loves you,
+	And as I find her, so am I affected.
+	'Till then, farewell, sir: she must needs go in;
+	Her father will be angry.
+<SPEECH 49><ACT 4><SCENE 1><67%>
+	Is he at Master Ford's already, thinkest thou?
+<SPEECH 50><ACT 4><SCENE 1><67%>
+	I'll be with her by and by: I'll but bring my young man here to school. Look, where his master comes; 'tis a playing-day, I see.
+	How now, Sir Hugh! no school to-day?
+<SPEECH 51><ACT 4><SCENE 1><68%>
+	Sir Hugh, my husband says my son profits nothing in the world at his book: I pray you, ask him some questions in his accidence.
+<SPEECH 52><ACT 4><SCENE 1><68%>
+	Come on, sirrah; hold up your head; answer your master, be not afraid.
+<SPEECH 53><ACT 4><SCENE 1><69%>
+	Peace!
+<SPEECH 54><ACT 4><SCENE 1><69%>
+	Prithee, hold thy peace.
+<SPEECH 55><ACT 4><SCENE 1><69%>
+	He is a better scholar than I thought he was.
+<SPEECH 56><ACT 4><SCENE 1><70%>
+	Adieu, good Sir Hugh. <STAGE DIR>
+	</STAGE DIR> Get you home, boy. Come, we stay too long.
+<SPEECH 57><ACT 4><SCENE 2><70%>
+	</STAGE DIR> What ho! gossip Ford! what ho!
+<SPEECH 58><ACT 4><SCENE 2><70%>
+	How now, sweetheart! who's at home besides yourself?
+<SPEECH 59><ACT 4><SCENE 2><70%>
+	Indeed!
+<SPEECH 60><ACT 4><SCENE 2><70%>
+	Truly, I am so glad you have nobody here.
+<SPEECH 61><ACT 4><SCENE 2><70%>
+	Why, woman, your husband is in his old lunes again: he so takes on yonder with my husband; so rails against all married mankind; so curses all Eve's daughters, of what complexion soever; and so buffets himself on the forehead, crying, 'Peer out, peer out!' that any madness I ever yet beheld seemed but tameness, civility and patience, to this his distemper he is in now. I am glad the fat knight is not here.
+<SPEECH 62><ACT 4><SCENE 2><71%>
+	Of none but him; and swears he was carried out, the last time he searched for him, in a basket: protests to my husband he is now here, and hath drawn him and the rest of their company from their sport, to make another experiment of his suspicion. But I am glad the knight is not here; now he shall see his own foolery.
+<SPEECH 63><ACT 4><SCENE 2><71%>
+	Hard by; at street end; he will be here anon.
+<SPEECH 64><ACT 4><SCENE 2><71%>
+	Why then you are utterly shamed, and he's but a dead man. What a woman are you! Away with him, away with him! better shame than murder.
+<SPEECH 65><ACT 4><SCENE 2><71%>
+	Alas! three of Master Ford's brothers watch the door with pistols, that none shall issue out; otherwise you might slip away ere he came. But what make you here?
+<SPEECH 66><ACT 4><SCENE 2><72%>
+	Creep into the kiln-hole.
+<SPEECH 67><ACT 4><SCENE 2><72%>
+	If you go out in your own semblance, you die, Sir John. Unless you go out disguised,—
+<SPEECH 68><ACT 4><SCENE 2><72%>
+	Alas the day! I know not. There is no woman's gown big enough for him; otherwise, he might put on a hat, a muffler, and a kerchief, and so escape.
+<SPEECH 69><ACT 4><SCENE 2><72%>
+	On my word, it will serve him; she's as big as he is: and there's her thrummed hat and her muffler too. Run up, Sir John.
+<SPEECH 70><ACT 4><SCENE 2><72%>
+	Quick, quick! we'll come dress you straight; put on the gown the while.
+<SPEECH 71><ACT 4><SCENE 2><73%>
+	Heaven guide him to thy husband's cudgel, and the devil guide his cudgel afterwards!
+<SPEECH 72><ACT 4><SCENE 2><73%>
+	Ay, in good sadness, is he; and talks of the basket too, howsoever he hath had intelligence.
+<SPEECH 73><ACT 4><SCENE 2><73%>
+	Nay, but he'll be here presently: let's go dress him like the witch of Brainford.
+<SPEECH 74><ACT 4><SCENE 2><73%>
+	Hang him, dishonest varlet! we cannot misuse him enough.
+	We'll leave a proof, by that which we will do,
+	Wives may be merry, and yet honest too:
+	We do not act that often jest and laugh;
+	'Tis old, but true, 'Still swine eats all the draff.'
+<SPEECH 75><ACT 4><SCENE 2><76%>
+	Come, Mother Prat; come, give me your hand.
+<SPEECH 76><ACT 4><SCENE 2><76%>
+	Are you not ashamed? I think you have killed the poor woman.
+<SPEECH 77><ACT 4><SCENE 2><77%>
+	Trust me, he beat him most pitifully.
+<SPEECH 78><ACT 4><SCENE 2><77%>
+	I'll have the cudgel hallowed and hung o'er the altar: it hath done meritorious service.
+<SPEECH 79><ACT 4><SCENE 2><77%>
+	The spirit of wantonness is, sure, scared out of him: if the devil have him not in fee-simple, with fine and recovery, he will never, I think, in the way of waste, attempt us again.
+<SPEECH 80><ACT 4><SCENE 2><77%>
+	Yes, by all means; if it be but to scrape the figures out of your husband's brains. If they can find in their hearts the poor unvirtuous fat knight shall be any further afflicted, we two will still be the ministers.
+<SPEECH 81><ACT 4><SCENE 2><77%>
+	Come, to the forge with it then; shape it: I would not have things cool.
+<SPEECH 82><ACT 4><SCENE 4><78%>
+	Within a quarter of an hour.
+<SPEECH 83><ACT 4><SCENE 4><79%>
+	There is an old tale goes that Herne the hunter,
+	Sometime a keeper here in Windsor forest,
+	Doth all the winter-time, at still midnight,
+	Walk round about an oak, with great ragg'd horns;
+	And there he blasts the tree, and takes the cattle,
+	And makes milch-kine yield blood, and shakes a chain
+	In a most hideous and dreadful manner:
+	You have heard of such a spirit, and well you know
+	The superstitious idle-headed eld
+	Receiv'd and did deliver to our age
+	This tale of Herne the hunter for a truth.
+<SPEECH 84><ACT 4><SCENE 4><80%>
+	That likewise have we thought upon, and thus:
+	Nan Page my daughter, and my little son,
+	And three or four more of their growth, we'll dress
+	Like urchins, ouphs and fairies, green and white,
+	With rounds of waxen tapers on their heads,
+	And rattles in their hands. Upon a sudden,
+	As Falstaff, she, and I, are newly met,
+	Let them from forth a sawpit rush at once
+	With some diffused song: upon their sight,
+	We two in great amazedness will fly:
+	Then let them all encircle him about,
+	And, fairy-like, to-pinch the unclean knight;
+	And ask him why, that hour of fairy revel,
+	In their so sacred paths he dares to tread
+	In shape profane.
+<SPEECH 85><ACT 4><SCENE 4><80%>
+	The truth being known,
+	We'll all present ourselves, dis-horn the spirit,
+	And mock him home to Windsor.
+<SPEECH 86><ACT 4><SCENE 4><80%>
+	My Nan shall be the queen of all the fairies,
+	Finely attired in a robe of white.
+<SPEECH 87><ACT 4><SCENE 4><81%>
+	Fear not you that. Go, get us properties,
+	And tricking for our fairies.
+<SPEECH 88><ACT 4><SCENE 4><81%>
+	Go, Mistress Ford,
+	Send Quickly to Sir John, to know his mind.
+	I'll to the doctor: he hath my good will,
+	And none but he, to marry with Nan Page.
+	That Slender, though well landed, is an idiot;
+	And him my husband best of all affects:
+	The doctor is well money'd, and his friends
+	Potent at court: he, none but he, shall have her,
+	Though twenty thousand worthier come to crave her.
+<SPEECH 89><ACT 5><SCENE 3><89%>
+	Master Doctor, my daughter is in green: when you see your time, take her by the hand, away with her to the deanery, and dispatch it quickly. Go before into the Park: we two must go together.
+<SPEECH 90><ACT 5><SCENE 3><90%>
+	Fare you well, sir. <STAGE DIR>
+	</STAGE DIR> My husband will not rejoice so much at the abuse of Falstaff, as he will chafe at the doctor's marrying my daughter: but 'tis no matter; better a little chiding than a great deal of heart break.
+<SPEECH 91><ACT 5><SCENE 3><90%>
+	They are all couched in a pit hard by Herne's oak, with obscured lights; which, at the very instant of Falstaff's and our meeting, they will at once display to the night.
+<SPEECH 92><ACT 5><SCENE 3><90%>
+	If he be not amazed, he will be mocked; if he be amazed, he will every way be mocked.
+<SPEECH 93><ACT 5><SCENE 3><90%>
+	Against such lewdsters and their lechery,
+	Those that betray them do no treachery.
+<SPEECH 94><ACT 5><SCENE 5><92%>
+	Alas! what noise?
+<SPEECH 95><ACT 5><SCENE 5><92%>
+	Away, away!
+<SPEECH 96><ACT 5><SCENE 5><95%>
+	I pray you, come, hold up the jest no higher.
+	Now, good Sir John, how like you Windsor wives?
+	See you these, husband? do not these fair yokes
+	Become the forest better than the town?
+<SPEECH 97><ACT 5><SCENE 5><96%>
+	Why, Sir John, do you think, though we would have thrust virtue out of our hearts by the head and shoulders, and have given ourselves without scruple to hell, that ever the devil could have made you our delight?
+<SPEECH 98><ACT 5><SCENE 5><97%>
+	A puffed man?
+<SPEECH 99><ACT 5><SCENE 5><97%>
+	</STAGE DIR> Doctors doubt that: if Anne Page be my daughter, she is, by this Doctor Caius' wife.
+<SPEECH 100><ACT 5><SCENE 5><98%>
+	Good George, be not angry: I knew of your purpose; turned my daughter into green; and, indeed, she is now with the doctor at the deanery, and there married.
+<SPEECH 101><ACT 5><SCENE 5><99%>
+	Why, did you not take her in green?
+<SPEECH 102><ACT 5><SCENE 5><99%>
+	Why went you not with Master Doctor, maid?
+<SPEECH 103><ACT 5><SCENE 5><100%>
+	Well, I will muse no further. Master Fenton,
+	Heaven give you many, many merry days!
+	Good husband, let us every one go home,
+	And laugh this sport o'er by a country fire;
+	Sir John and all.

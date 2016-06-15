@@ -1,0 +1,132 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+	Will you stay no longer? nor will you not that I go with you?
+<SPEECH 2><ACT 2><SCENE 1><24%>
+	Let me yet know of you whither you are bound.
+<SPEECH 3><ACT 2><SCENE 1><24%>
+	Alas the day!
+<SPEECH 4><ACT 2><SCENE 1><25%>
+	Pardon me, sir, your bad entertainment.
+<SPEECH 5><ACT 2><SCENE 1><25%>
+	If you will not murder me for my love, let me be your servant.
+<SPEECH 6><ACT 2><SCENE 1><25%>
+	The gentleness of all the gods go with thee!
+	I have many enemies in Orsino's court,
+	Else would I very shortly see thee there;
+	But, come what may, I do adore thee so,
+	That danger shall seem sport, and I will go.
+<SPEECH 7><ACT 3><SCENE 3><57%>
+	I could not stay behind you: my desire,
+	More sharp than filed steel, did spur me forth;
+	And not all love to see you,—though so much
+	As might have drawn one to a longer voyage,—
+	But jealousy what might befall your travel,
+	Being skilless in these parts; which to a stranger,
+	Unguided and unfriended, often prove
+	Rough and unhospitable: my willing love,
+	The rather by these arguments of fear,
+	Set forth in your pursuit.
+<SPEECH 8><ACT 3><SCENE 3><58%>
+	To-morrow, sir: best first go see your lodging.
+<SPEECH 9><ACT 3><SCENE 3><58%>
+	Would you'd pardon me;
+	I do not without danger walk these streets:
+	Once, in a sea-fight 'gainst the Count his galleys,
+	I did some service; of such note indeed,
+	That were I ta'en here it would scarce be answer'd.
+<SPEECH 10><ACT 3><SCENE 3><58%>
+	The offence is not of such a bloody nature,
+	Albeit the quality of the time and quarrel
+	Might well have given us bloody argument.
+	It might have since been answer'd in repaying
+	What we took from them; which, for traffic's sake,
+	Most of our city did: only myself stood out;
+	For which, if I be lapsed in this place,
+	I shall pay dear.
+<SPEECH 11><ACT 3><SCENE 3><58%>
+	It doth not fit me. Hold, sir; here's my purse.
+	In the south suburbs, at the Elephant,
+	Is best to lodge: I will bespeak our diet,
+	Whiles you beguile the time and feed your knowledge
+	With viewing of the town: there shall you have me.
+<SPEECH 12><ACT 3><SCENE 3><59%>
+	Haply your eye shall light upon some toy
+	You have desire to purchase; and your store,
+	I think, is not for idle markets, sir.
+<SPEECH 13><ACT 3><SCENE 3><59%>
+	To the Elephant.
+<SPEECH 14><ACT 3><SCENE 4><71%>
+	Put up your sword. If this young gentleman
+	Have done offence, I take the fault on me:
+	If you offend him, I for him defy you.
+<SPEECH 15><ACT 3><SCENE 4><71%>
+	One, sir, that for his love dares yet do more
+	Than you have heard him brag to you he will.
+<SPEECH 16><ACT 3><SCENE 4><72%>
+	You do mistake me, sir.
+<SPEECH 17><ACT 3><SCENE 4><72%>
+	I must obey.—<STAGE DIR>
+	</STAGE DIR> This comes with seeking you:
+	But there's no remedy: I shall answer it.
+	What will you do, now my necessity
+	Makes me to ask you for my purse? It grieves me
+	Much more for what I cannot do for you
+	Than what befalls myself. You stand amaz'd:
+	But be of comfort.
+<SPEECH 18><ACT 3><SCENE 4><72%>
+	I must entreat of you some of that money.
+<SPEECH 19><ACT 3><SCENE 4><73%>
+	Will you deny me now?
+	Is't possible that my deserts to you
+	Can lack persuasion? Do not tempt my misery,
+	Lest that it make me so unsound a man
+	As to upbraid you with those kindnesses
+	That I have done for you.
+<SPEECH 20><ACT 3><SCENE 4><73%>
+	O heavens themselves!
+<SPEECH 21><ACT 3><SCENE 4><73%>
+	Let me speak a little. This youth that you see here
+	I snatch'd one-half out of the jaws of death,
+	Reliev'd him with such sanctity of love,
+	And to his image, which methought did promise
+	Most venerable worth, did I devotion.
+<SPEECH 22><ACT 3><SCENE 4><73%>
+	But O! how vile an idol proves this god.
+	Thou hast, Sebastian, done good feature shame.
+	In nature there's no blemish but the mind;
+	None can be call'd deform'd but the unkind:
+	Virtue is beauty, but the beauteous evil
+	Are empty trunks o'erflourish'd by the devil.
+<SPEECH 23><ACT 3><SCENE 4><74%>
+	Lead me on.
+<SPEECH 24><ACT 5><SCENE 1><87%>
+	Orsino, noble sir,
+	Be pleas'd that I shake off these names you give me:
+	Antonio never yet was thief or pirate,
+	Though I confess, on base and ground enough,
+	Orsino's enemy. A witchcraft drew me hither:
+	That most ingrateful boy there by your side,
+	From the rude sea's enrag'd and foamy mouth
+	Did I redeem; a wrack past hope he was:
+	His life I gave him, and did thereto add
+	My love, without retention or restraint,
+	All his in dedication; for his sake
+	Did I expose myself, pure for his love,
+	Into the danger of this adverse town;
+	Drew to defend him when he was beset:
+	Where being apprehended, his false cunning,
+	Not meaning to partake with me in danger,
+	Taught him to face me out of his acquaintance,
+	And grew a twenty years removed thing
+	While one would wink, denied me mine own purse,
+	Which I had recommended to his use
+	Not half an hour before.
+<SPEECH 25><ACT 5><SCENE 1><88%>
+	To-day, my lord; and for three months before,—
+	No interim, not a minute's vacancy,—
+	Both day and night did we keep company.
+<SPEECH 26><ACT 5><SCENE 1><93%>
+	Sebastian are you?
+<SPEECH 27><ACT 5><SCENE 1><93%>
+	How have you made division of yourself?
+	An apple cleft in two is not more twin
+	Than these two creatures. Which is Sebastian?

@@ -1,0 +1,220 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+	Dear sir, forbear.
+<SPEECH 2><ACT 1><SCENE 4><23%>
+	Pray, sir, be patient.
+<SPEECH 3><ACT 1><SCENE 4><23%>
+	My lord, I am guiltless, as I am ignorant
+	Of what hath mov'd you.
+<SPEECH 4><ACT 1><SCENE 4><24%>
+	Now, gods that we adore, whereof comes this?
+<SPEECH 5><ACT 1><SCENE 4><24%>
+	What's the matter, sir?
+<SPEECH 6><ACT 1><SCENE 4><25%>
+	I cannot be so partial, Goneril,
+	To the great love I bear you.—
+<SPEECH 7><ACT 1><SCENE 4><25%>
+	Well, you may fear too far.
+<SPEECH 8><ACT 1><SCENE 4><26%>
+	How far your eyes may pierce I cannot tell:
+	Striving to better, oft we mar what's well.
+<SPEECH 9><ACT 1><SCENE 4><26%>
+	Well, well; the event.
+<SPEECH 10><ACT 4><SCENE 2><69%>
+	O Goneril!
+	You are not worth the dust which the rude wind
+	Blows in your face. I fear your disposition:
+	That nature, which contemns its origin,
+	Cannot be border'd certain in itself;
+	She that herself will sliver and disbranch
+	From her material sap, perforce must wither
+	And come to deadly use.
+<SPEECH 11><ACT 4><SCENE 2><69%>
+	Wisdom and goodness to the vile seem vile;
+	Filths savour but themselves. What have you done?
+	Tigers, not daughters, what have you perform'd?
+	A father, and a gracious aged man,
+	Whose reverence the head-lugg'd bear would lick,
+	Most barbarous, most degenerate! have you madded.
+	Could my good brother suffer you to do it?
+	A man, a prince, by him so benefited!
+	If that the heavens do not their visible spirits
+	Send quickly down to tame these vile offences,
+	It will come,
+	Humanity must perforce prey on itself,
+	Like monsters of the deep.
+<SPEECH 12><ACT 4><SCENE 2><70%>
+	See thyself, devil!
+	Proper deformity seems not in the fiend
+	So horrid as in woman.
+<SPEECH 13><ACT 4><SCENE 2><70%>
+	Thou changed and self-cover'd thing, for shame,
+	Be-monster not thy feature. Were 't my fitness
+	To let these hands obey my blood,
+	They are apt enough to dislocate and tear
+	Thy flesh and bones; howe'er thou art a fiend,
+	A woman's shape doth shield thee.
+<SPEECH 14><ACT 4><SCENE 2><70%>
+	What news?
+<SPEECH 15><ACT 4><SCENE 2><70%>
+	Gloucester's eyes!
+<SPEECH 16><ACT 4><SCENE 2><70%>
+	This shows you are above,
+	You justicers, that these our nether crimes
+	So speedily can venge! But, O poor Gloucester!
+	Lost he his other eye?
+<SPEECH 17><ACT 4><SCENE 2><70%>
+	Where was his son when they did take his eyes?
+<SPEECH 18><ACT 4><SCENE 2><71%>
+	He is not here.
+<SPEECH 19><ACT 4><SCENE 2><71%>
+	Knows he the wickedness?
+<SPEECH 20><ACT 4><SCENE 2><71%>
+	Gloucester, I live
+	To thank thee for the love thou show'dst the king,
+	And to revenge thine eyes. Come hither, friend:
+	Tell me what more thou knowest.
+<SPEECH 21><ACT 5><SCENE 1><87%>
+	Our very loving sister, well be-met.
+	Sir, this I heard, the king is come to his daughter,
+	With others; whom the rigour of our state
+	Forc'd to cry out. Where I could not be honest
+	I never yet was valiant: for this business,
+	It toucheth us, as France invades our land,
+	Not bolds the king, with others, whom, I fear,
+	Most just and heavy causes make oppose.
+<SPEECH 22><ACT 5><SCENE 1><87%>
+	Let's then determine
+	With the ancient of war on our proceeding.
+<SPEECH 23><ACT 5><SCENE 1><88%>
+	I'll overtake you. Speak.
+<SPEECH 24><ACT 5><SCENE 1><88%>
+	Stay till I have read the letter.
+<SPEECH 25><ACT 5><SCENE 1><88%>
+	Why, fare thee well: I will o'erlook thy paper.
+<SPEECH 26><ACT 5><SCENE 1><88%>
+	We will greet the time.
+<SPEECH 27><ACT 5><SCENE 3><91%>
+	Sir, you have show'd to-day your valiant strain,
+	And fortune led you well; you have the captives
+	Who were the opposites of this day's strife;
+	We do require them of you, so to use them
+	As we shall find their merits and our safety
+	May equally determine.
+<SPEECH 28><ACT 5><SCENE 3><91%>
+	Sir, by your patience,
+	I hold you but a subject of this war,
+	Not as a brother.
+<SPEECH 29><ACT 5><SCENE 3><92%>
+	The let-alone lies not in your good will.
+<SPEECH 30><ACT 5><SCENE 3><92%>
+	Half-blooded fellow, yes.
+<SPEECH 31><ACT 5><SCENE 3><92%>
+	Stay yet; hear reason. Edmund, I arrest thee
+	On capital treason; and, in thy arrest,
+	This gilded serpent. <STAGE DIR>
+	</STAGE DIR> For your claim, fair sister,
+	I bar it in the interest of my wife;
+	'Tis she is sub-contracted to this lord,
+	And I, her husband, contradict your bans.
+	If you will marry, make your love to me,
+	My lady is bespoke.
+<SPEECH 32><ACT 5><SCENE 3><92%>
+	Thou art arm'd, Gloucester; let the trumpet sound:
+	If none appear to prove upon thy person
+	Thy heinous, manifest, and many treasons,
+	There is my pledge; <STAGE DIR>
+	</STAGE DIR> I'll prove it on thy heart,
+	Ere I taste bread, thou art in nothing less
+	Than I have here proclaim'd thee.
+<SPEECH 33><ACT 5><SCENE 3><93%>
+	A herald, ho!
+<SPEECH 34><ACT 5><SCENE 3><93%>
+	Trust to thy single virtue; for thy soldiers,
+	All levied in my name, have in my name
+	Took their discharge.
+<SPEECH 35><ACT 5><SCENE 3><93%>
+	She is not well; convey her to my tent.
+	Come hither, herald,
+	Let the trumpet sound,—
+	And read out this.
+<SPEECH 36><ACT 5><SCENE 3><93%>
+	Ask him his purposes, why he appears
+	Upon this call o' the trumpet.
+<SPEECH 37><ACT 5><SCENE 3><93%>
+	Which is that adversary?
+<SPEECH 38><ACT 5><SCENE 3><94%>
+	Save him, save him!
+<SPEECH 39><ACT 5><SCENE 3><94%>
+	Shut your mouth, dame,
+	Or with this paper shall I stop it. Hold, sir;
+	Thou worse than any name, read thine own evil:
+	No tearing, lady; I perceive you know it.
+<SPEECH 40><ACT 5><SCENE 3><95%>
+	Most monstrous!
+	Know'st thou this paper?
+<SPEECH 41><ACT 5><SCENE 3><95%>
+	Go after her: she's desperate; govern her.
+<SPEECH 42><ACT 5><SCENE 3><95%>
+	Methought thy very gait did prophesy
+	A royal nobleness: I must embrace thee:
+	Let sorrow split my heart, if ever I
+	Did hate thee or thy father.
+<SPEECH 43><ACT 5><SCENE 3><95%>
+	Where have you hid yourself?
+	How have you known the miseries of your father?
+<SPEECH 44><ACT 5><SCENE 3><96%>
+	If there be more, more woeful, hold it in;
+	For I am almost ready to dissolve,
+	Hearing of this.
+<SPEECH 45><ACT 5><SCENE 3><96%>
+	But who was this?
+<SPEECH 46><ACT 5><SCENE 3><96%>
+	Speak, man.
+<SPEECH 47><ACT 5><SCENE 3><97%>
+	Who dead? speak, man.
+<SPEECH 48><ACT 5><SCENE 3><97%>
+	Produce the bodies, be they alive or dead:
+	This judgment of the heavens, that makes us tremble,
+	Touches us not with pity.
+	O! is this he?
+	The time will not allow the compliment
+	Which very manners urges.
+<SPEECH 49><ACT 5><SCENE 3><97%>
+	Great thing of us forgot!
+	Speak, Edmund, where's the king? and where's Cordelia?
+	Seest thou this object, Kent?
+<SPEECH 50><ACT 5><SCENE 3><97%>
+	Even so. Cover their faces.
+<SPEECH 51><ACT 5><SCENE 3><97%>
+	Run, run! O run!
+<SPEECH 52><ACT 5><SCENE 3><97%>
+	Haste thee, for thy life.
+<SPEECH 53><ACT 5><SCENE 3><98%>
+	The gods defend her! Bear him hence awhile.
+<SPEECH 54><ACT 5><SCENE 3><98%>
+	Fall and cease?
+<SPEECH 55><ACT 5><SCENE 3><99%>
+	He knows not what he says, and vain it is
+	That we present us to him.
+<SPEECH 56><ACT 5><SCENE 3><99%>
+	That's but a trifle here.
+	You lords and noble friends, know our intent;
+	What comfort to this great decay may come
+	Shall be applied: for us, we will resign,
+	During the life of this old majesty,
+	To him our absolute power:—<STAGE DIR>
+	</STAGE DIR> You, to your rights;
+	With boot and such addition as your honours
+	Have more than merited. All friends shall taste
+	The wages of their virtue, and all foes
+	The cup of their deservings. O! see, see!
+<SPEECH 57><ACT 5><SCENE 3><100%>
+	Bear them from hence. Our present business
+	Is general woe. <STAGE DIR>
+	</STAGE DIR> Friends of my soul, you twain
+	Rule in this realm, and the gor'd state sustain.
+<SPEECH 58><ACT 5><SCENE 3><100%>
+	The weight of this sad time we must obey;
+	Speak what we feel, not what we ought to say.
+	The oldest hath borne most: we that are young,
+	Shall never see so much, nor live so long.

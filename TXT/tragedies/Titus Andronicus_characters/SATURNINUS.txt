@@ -1,0 +1,260 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Noble patricians, patrons of my right,
+	Defend the justice of my cause with arms;
+	And, countrymen, my loving followers,
+	Plead my successive title with your swords:
+	I am his first-born son that was the last
+	That wore the imperial diadem of Rome;
+	Then let my father's honours live in me,
+	Nor wrong mine age with this indignity.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	How fair the tribune speaks to calm my thoughts!
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Friends, that have been thus forward in my right,
+	I thank you all and here dismiss you all;
+	And to the love and favour of my country
+	Commit myself, my person, and the cause.
+	Rome, be as just and gracious unto me
+	As I am confident and kind to thee.
+	Open the gates, and let me in.
+<SPEECH 4><ACT 1><SCENE 1><8%>
+	Proud and ambitious tribune, canst thou tell?
+<SPEECH 5><ACT 1><SCENE 1><9%>
+	Romans, do me right:
+	Patricians, draw your swords, and sheathe them not
+	Till Saturninus be Rome's emperor.
+	Andronicus, would thou wert shipp'd to hell,
+	Rather than rob me of the people's hearts!
+<SPEECH 6><ACT 1><SCENE 1><10%>
+	Titus Andronicus, for thy favours done
+	To us in our election this day,
+	I give thee thanks in part of thy deserts,
+	And will with deeds requite thy gentleness:
+	And, for an onset, Titus, to advance
+	Thy name and honourable family,
+	Lavinia will I make my empress,
+	Rome's royal mistress, mistress of my heart,
+	And in the sacred Pantheon her espouse.
+	Tell me, Andronicus, doth this motion please thee?
+<SPEECH 7><ACT 1><SCENE 1><10%>
+	Thanks, noble Titus, father of my life!
+	How proud I am of thee and of thy gifts
+	Rome shall record, and, when I do forget
+	The least of these unspeakable deserts,
+	Romans, forget your fealty to me.
+<SPEECH 8><ACT 1><SCENE 1><11%>
+	A goodly lady, trust me; of the hue
+	That I would choose, were I to choose anew.
+	Clear up, fair queen, that cloudy countenance:
+	Though chance of war hath wrought this change of cheer,
+	Thou com'st not to be made a scorn in Rome:
+	Princely shall be thy usage every way.
+	Rest on my word, and let not discontent
+	Daunt all your hopes: madam, he comforts you
+	Can make you greater than the Queen of Goths.
+	Lavinia, you are not displeas'd with this?
+<SPEECH 9><ACT 1><SCENE 1><11%>
+	Thanks, sweet Lavinia. Romans, let us go;
+	Ransomless here we set our prisoners free:
+	Proclaim our honours, lords, with trump and drum.
+<SPEECH 10><ACT 1><SCENE 1><12%>
+	Surpris'd! By whom?
+<SPEECH 11><ACT 1><SCENE 1><12%>
+	No, Titus, no; the emperor needs her not,
+	Nor her, nor thee, nor any of thy stock:
+	I'll trust, by leisure, him that mocks me once;
+	Thee never, nor thy traitorous haughty sons,
+	Confederates all thus to dishonour me.
+	Was none in Rome to make a stale
+	But Saturnine? Full well, Andronicus,
+	Agreed these deeds with that proud brag of thine,
+	That saidst I begg'd the empire at thy hands.
+<SPEECH 12><ACT 1><SCENE 1><13%>
+	But go thy ways; go, give that changing piece
+	To him that flourish'd for her with his sword.
+	A valiant son-in-law thou shalt enjoy;
+	One fit to bandy with thy lawless sons,
+	To ruffle in the commonwealth of Rome.
+<SPEECH 13><ACT 1><SCENE 1><13%>
+	And therefore, lovely Tamora, Queen of Goths,
+	That like the stately Phœbe 'mongst her nymphs,
+	Dost overshine the gallant'st dames of Rome,
+	If thou be pleas'd with this my sudden choice,
+	Behold, I choose thee, Tamora, for my bride,
+	And will create thee Empress of Rome.
+	Speak, Queen of Goths, dost thou applaud my choice?
+	And here I swear by all the Roman gods,
+	Sith priest and holy water are so near,
+	And tapers burn so bright, and every thing
+	In readiness for Hymenæus stand,
+	I will not re-salute the streets of Rome,
+	Or climb my palace, till from forth this place
+	I lead espous'd my bride along with me.
+<SPEECH 14><ACT 1><SCENE 1><14%>
+	Ascend, fair queen, Pantheon. Lords, accompany
+	Your noble emperor, and his lovely bride,
+	Sent by the heavens for Prince Saturnine,
+	Whose wisdom hath her fortune conquered:
+	There shall we consummate our spousal rights.
+<SPEECH 15><ACT 1><SCENE 1><16%>
+	So, Bassianus, you have play'd your prize:
+	God give you joy, sir, of your gallant bride.
+<SPEECH 16><ACT 1><SCENE 1><17%>
+	Traitor, if Rome have law or we have power,
+	Thou and thy faction shall repent this rape.
+<SPEECH 17><ACT 1><SCENE 1><17%>
+	'Tis good, sir: you are very short with us;
+	But, if we live, we'll be as sharp with you.
+<SPEECH 18><ACT 1><SCENE 1><18%>
+	What, madam! be dishonour'd openly,
+	And basely put it up without revenge?
+<SPEECH 19><ACT 1><SCENE 1><19%>
+	Rise, Titus, rise; my empress hath prevail'd.
+<SPEECH 20><ACT 1><SCENE 1><19%>
+	Away, and talk not; trouble us no more.
+<SPEECH 21><ACT 1><SCENE 1><19%>
+	Marcus, for thy sake, and thy brother's here,
+	And at my lovely Tamora's entreats,
+	I do remit these young men's heinous faults:
+	Stand up.
+	Lavinia, though you left me like a churl,
+	I found a friend, and sure as death I swore
+	I would not part a bachelor from the priest.
+	Come; if the emperor's court can feast two brides,
+	You are my guest, Lavinia, and your friends.
+	This day shall be a love-day, Tamora.
+<SPEECH 22><ACT 1><SCENE 1><20%>
+	Be it so, Titus, and gramercy too.
+<SPEECH 23><ACT 2><SCENE 2><26%>
+	And you have rung it lustily, my lord;
+	Somewhat too early for new-married ladies.
+<SPEECH 24><ACT 2><SCENE 2><26%>
+	Come on, then; horse and chariots let us have,
+	And to our sport.—<STAGE DIR>
+	</STAGE DIR> Madam, now shall ye see
+	Our Roman hunting.
+<SPEECH 25><ACT 2><SCENE 3><36%>
+	Along with me: I'll see what hole is here,
+	And what he is that now is leap'd into it.
+	Say, who art thou that lately didst descend
+	Into this gaping hollow of the earth?
+<SPEECH 26><ACT 2><SCENE 3><36%>
+	My brother dead! I know thou dost but jest:
+	He and his lady both are at the lodge,
+	Upon the north side of this pleasant chase;
+	'Tis not an hour since I left him there.
+<SPEECH 27><ACT 2><SCENE 3><37%>
+	Here, Tamora; though griev'd with killing grief.
+<SPEECH 28><ACT 2><SCENE 3><37%>
+	Now to the bottom dost thou search my wound:
+	Poor Bassianus here lies murdered.
+<SPEECH 29><ACT 2><SCENE 3><37%>
+	And if we miss to meet him handsomely,
+	Sweet huntsman, Bassianus 'tis we mean,
+	Do thou so much as dig the grave for him:
+	Thou know'st our meaning. Look for thy reward
+	Among the nettles at the elder-tree
+	Which overshades the mouth of that same pit
+	Where we decreed to bury Bassianus:
+	Do this, and purchase us thy lasting friends.
+	O Tamora! was ever heard the like?
+	This is the pit, and this the elder-tree.
+	Look, sirs, if you can find the huntsman out
+	That should have murder'd Bassianus here.
+<SPEECH 30><ACT 2><SCENE 3><37%>
+	</STAGE DIR> Two of thy whelps, fell curs of bloody kind,
+	Have here bereft my brother of his life.
+	Sirs, drag them from the pit unto the prison:
+	There let them bide until we have devis'd
+	Some never-heard-of torturing pain for them.
+<SPEECH 31><ACT 2><SCENE 3><38%>
+	If it be prov'd! you see it is apparent.
+	Who found this letter? Tamora, was it you?
+<SPEECH 32><ACT 2><SCENE 3><38%>
+	Thou shalt not bail them: see thou follow me.
+	Some bring the murder'd body, some the murderers:
+	Let them not speak a word; the guilt is plain;
+	For, by my soul, were there worse end than death,
+	That end upon them should be executed.
+<SPEECH 33><ACT 4><SCENE 4><73%>
+	Why, lords, what wrongs are these! Was ever seen
+	An emperor of Rome thus overborne,
+	Troubled, confronted thus; and, for the extent
+	Of egal justice, us'd in such contempt?
+	My lords, you know, as do the mightful gods,—
+	However these disturbers of our peace
+	Buzz in the people's ears,—there nought hath pass'd,
+	But even with law, against the wilful sons
+	Of old Andronicus. And what an if
+	His sorrows have so overwhelm'd his wits,
+	Shall we be thus afflicted in his wreaks,
+	His fits, his frenzy, and his bitterness?
+	And now he writes to heaven for his redress:
+	See, here's to Jove, and this to Mercury;
+	This to Apollo; this to the god of war;
+	Sweet scrolls to fly about the streets of Rome!
+	What's this but libelling against the senate,
+	And blazoning our injustice every where?
+	A goodly humour, is it not, my lords?
+	As who would say, in Rome no justice were.
+	But if I live, his feigned ecstasies
+	Shall be no shelter to these outrages;
+	But he and his shall know that justice lives
+	In Saturninus' health; whom, if she sleep,
+	He'll so awake, as she in fury shall
+	Cut off the proud'st conspirator that lives.
+<SPEECH 34><ACT 4><SCENE 4><75%>
+	Go, take him away, and hang him presently.
+<SPEECH 35><ACT 4><SCENE 4><75%>
+	Despiteful and intolerable wrongs!
+	Shall I endure this monstrous villany?
+	I know from whence this same device proceeds:
+	May this be borne? As if his traitorous sons,
+	That died by law for murder of our brother,
+	Have by my means been butcher'd wrongfully!
+	Go, drag the villain hither by the hair;
+	Nor age nor honour shall shape privilege.
+	For this proud mock I'll be thy slaughterman;
+	Sly frantic wretch, that holp'st to make me great,
+	In hope thyself should govern Rome and me.
+	What news with thee, Æmilius?
+<SPEECH 36><ACT 4><SCENE 4><76%>
+	Is war-like Lucius general of the Goths?
+	These tidings nip me, and I hang the head
+	As flowers with frost or grass beat down with storms.
+	Ay, now begin our sorrows to approach:
+	'Tis he the common people love so much;
+	Myself hath often heard them say,
+	When I have walked like a private man,
+	That Lucius' banishment was wrongfully,
+	And they have wish'd that Lucius were their emperor.
+<SPEECH 37><ACT 4><SCENE 4><76%>
+	Ay, but the citizens favour Lucius,
+	And will revolt from me to succour him.
+<SPEECH 38><ACT 4><SCENE 4><77%>
+	But he will not entreat his son for us.
+<SPEECH 39><ACT 4><SCENE 4><77%>
+	Æmilius, do this message honourably:
+	And if he stand on hostage for his safety,
+	Bid him demand what pledge will please him best.
+<SPEECH 40><ACT 4><SCENE 4><77%>
+	Then go successantly, and plead to him.
+<SPEECH 41><ACT 5><SCENE 3><93%>
+	What! hath the firmament more suns than one?
+<SPEECH 42><ACT 5><SCENE 3><93%>
+	Marcus, we will.
+<SPEECH 43><ACT 5><SCENE 3><93%>
+	Why art thou thus attir'd, Andronicus?
+<SPEECH 44><ACT 5><SCENE 3><94%>
+	It was, Andronicus.
+<SPEECH 45><ACT 5><SCENE 3><94%>
+	Because the girl should not survive her shame,
+	And by her presence still renew his sorrows.
+<SPEECH 46><ACT 5><SCENE 3><94%>
+	What hast thou done, unnatural and unkind?
+<SPEECH 47><ACT 5><SCENE 3><94%>
+	What! was she ravish'd? tell who did the deed.
+<SPEECH 48><ACT 5><SCENE 3><94%>
+	Go fetch them hither to us presently.
+<SPEECH 49><ACT 5><SCENE 3><95%>
+	Die, frantic wretch, for this accursed deed!

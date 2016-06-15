@@ -1,0 +1,33 @@
+<SPEECH 1><ACT 4><SCENE 4><68%>
+	Go, captain, from me greet the Danish king;
+	Tell him that, by his licence, Fortinbras
+	Claims the conveyance of a promis'd march
+	Over his kingdom. You know the rendezvous.
+	If that his majesty would aught with us,
+	We shall express our duty in his eye,
+	And let him know so.
+<SPEECH 2><ACT 4><SCENE 4><69%>
+	Go softly on.
+<SPEECH 3><ACT 5><SCENE 2><99%>
+	Where is this sight?
+<SPEECH 4><ACT 5><SCENE 2><99%>
+	This quarry cries on havoc. O proud death!
+	What feast is toward in thine eternal cell,
+	That thou so many princes at a shot
+	So bloodily hast struck?
+<SPEECH 5><ACT 5><SCENE 2><100%>
+	Let us haste to hear it,
+	And call the noblest to the audience.
+	For me, with sorrow I embrace my fortune;
+	I have some rights of memory in this kingdom,
+	Which now to claim my vantage doth invite me.
+<SPEECH 6><ACT 5><SCENE 2><100%>
+	Let four captains
+	Bear Hamlet, like a soldier, to the stage;
+	For he was likely, had he been put on,
+	To have prov'd most royally: and, for his passage,
+	The soldiers' music and the rites of war
+	Speak loudly for him.
+	Take up the bodies: such a sight as this
+	Becomes the field, but here shows much amiss.
+	Go, bid the soldiers shoot.

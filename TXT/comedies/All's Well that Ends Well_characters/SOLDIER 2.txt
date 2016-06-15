@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 4><SCENE 1><65%>
+	Captain, I will.
+<SPEECH 2><ACT 4><SCENE 1><65%>
+	So I will, sir.

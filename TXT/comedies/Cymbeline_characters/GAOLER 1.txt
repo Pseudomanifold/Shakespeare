@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 5><SCENE 4><80%>
+	You shall not now be stol'n, you have locks upon you:
+	So graze as you find pasture.
+<SPEECH 2><ACT 5><SCENE 4><84%>
+	Come, sir, are you ready for death?
+<SPEECH 3><ACT 5><SCENE 4><84%>
+	Hanging is the word, sir: if you be ready for that, you are well cooked.
+<SPEECH 4><ACT 5><SCENE 4><84%>
+	A heavy reckoning for you, sir; but the comfort is, you shall be called to no more payments, fear no more tavern-bills, which are often the sadness of parting, as the procuring of mirth. You come in faint for want of meat, depart reeling with too much drink, sorry that you have paid too much; and sorry that you are paid too much; purse and brain both empty; the brain the heavier for being too light, the purse too light, being drawn of heaviness of this contradiction you shall now be quit. O! the charity of a penny cord; it sums up thousands in a trice: you have no true debitor and creditor but it; of what's past, is, and to come, the discharge. Your neck, sir, is pen, book and counters; so the acquittance follows.
+<SPEECH 5><ACT 5><SCENE 4><85%>
+	Indeed, sir, he that sleeps feels not the toothache; but a man that were to sleep your sleep, and a hangman to help him to bed, I think he would change places with his officer; for look you, sir, you know not which way you shall go.
+<SPEECH 6><ACT 5><SCENE 4><85%>
+	Your death has eyes in 's head, then; I have not seen him so pictured: you must either be directed by some that take upon them to know, or take upon yourself that which I am sure you do not know, or jump the after inquiry on your own peril: and how you shall speed in your journey's end, I think you'll never return to tell one.
+<SPEECH 7><ACT 5><SCENE 4><85%>
+	What an infinite mock is this, that a man should have the best use of eyes to see the way of blindness! I am sure hanging's the way of winking.
+<SPEECH 8><ACT 5><SCENE 4><85%>
+	I'll be hang'd, then.
+<SPEECH 9><ACT 5><SCENE 4><85%>
+	Unless a man would marry a gallows and beget young gibbets, I never saw one so prone. Yet, on my conscience, there are verier knaves desire to live, for all he be a Roman; and there be some of them too, that die against their wills; so should I, if I were one. I would we were all of one mind, and one mind good; O! there were desolation of gaolers and gallowses. I speak against my present profit, but my wish hath a preferment in 't.

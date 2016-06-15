@@ -1,0 +1,239 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	Sir, I love you more than words can wield the matter;
+	Dearer than eye-sight, space, and liberty;
+	Beyond what can be valu'd, rich or rare;
+	No less than life, with grace, health, beauty, honour;
+	As much as child e'er lov'd, or father found;
+	A love that makes breath poor and speech unable;
+	Beyond all manner of so much I love you.
+<SPEECH 2><ACT 1><SCENE 1><8%>
+	Let your study
+	Be to content your lord, who hath receiv'd you
+	At fortune's alms; you have obedience scanted,
+	And well are worth the want that you have wanted.
+<SPEECH 3><ACT 1><SCENE 1><9%>
+	Sister, it is not little I have to say of what most nearly appertains to us both. I think our father will hence to-night.
+<SPEECH 4><ACT 1><SCENE 1><9%>
+	You see how full of changes his age is; the observation we have made of it hath not been little: he always loved our sister most; and with what poor judgment he hath now cast her off appears too grossly.
+<SPEECH 5><ACT 1><SCENE 1><9%>
+	The best and soundest of his time hath been but rash; then, must we look to receive from his age, not alone the imperfections of long-engraffed condition, but, therewithal the unruly waywardness that infirm and choleric years bring with them.
+<SPEECH 6><ACT 1><SCENE 1><9%>
+	There is further compliment of leave-taking between France and him. Pray you, let us hit together: if our father carry authority with such dispositions as he bears, this last surrender of his will but offend us.
+<SPEECH 7><ACT 1><SCENE 1><9%>
+	We must do something, and i' the heat.
+<SPEECH 8><ACT 1><SCENE 3><15%>
+	Did my father strike my gentleman for chiding of his fool?
+<SPEECH 9><ACT 1><SCENE 3><15%>
+	By day and night he wrongs me; every hour
+	He flashes into one gross crime or other,
+	That sets us all at odds: I'll not endure it:
+	His knights grow riotous, and himself upbraids us
+	On every trifle. When he returns from hunting
+	I will not speak with him; say I am sick:
+	If you come slack of former services,
+	You shall do well; the fault of it I'll answer.
+<SPEECH 10><ACT 1><SCENE 3><15%>
+	Put on what weary negligence you please,
+	You and your fellows; I'd have it come to question:
+	If he distaste it, let him to my sister,
+	Whose mind and mine, I know, in that are one,
+	Not to be over-rul'd. Idle old man,
+	That still would manage those authorities
+	That he hath given away! Now, by my life,
+	Old fools are babes again, and must be us'd
+	With cheeks as flatteries, when they are seen abus'd.
+	Remember what I have said.
+<SPEECH 11><ACT 1><SCENE 3><16%>
+	And let his knights have colder looks among you;
+	What grown of it, no matter; advise your fellows so:
+	I would breed from hence occasions, and I shall,
+	That I may speak: I'll write straight to my sister
+	To hold my very source. Prepare for dinner.
+<SPEECH 12><ACT 1><SCENE 4><21%>
+	Not only, sir, this your all-licens'd fool,
+	But other of your insolent retinue
+	Do hourly carp and quarrel, breaking forth
+	In rank and not-to-be-endured riots. Sir,
+	I had thought, by making this well known unto you,
+	To have found a safe redress; but now grow fearful,
+	By what yourself too late have spoke and done.
+	That you protect this course, and put it on
+	By your allowance; which if you should, the fault
+	Would not 'scape censure, nor the redresses sleep,
+	Which, in the tender of a wholesome weal,
+	Might in their working do you that offence,
+	Which else were shame, that then necessity
+	Will call discreet proceeding.
+<SPEECH 13><ACT 1><SCENE 4><22%>
+	I would you would make use of your good wisdom,
+	Whereof I know you are fraught; and put away
+	These dispositions which of late transform you
+	From what you rightly are.
+<SPEECH 14><ACT 1><SCENE 4><22%>
+	This admiration, sir, is much o' the favour
+	Of other your new pranks. I do beseech you
+	To understand my purposes aright:
+	As you are old and reverend, should be wise.
+	Here do you keep a hundred knights and squires;
+	Men so disorder'd, so debosh'd, and bold,
+	That this our court, infected with their manners,
+	Shows like a riotous inn: epicurism and lust
+	Make it more like a tavern or a brothel
+	Than a grac'd palace. The shame itself doth speak
+	For instant remedy; be then desir'd
+	By her that else will take the thing she begs,
+	A little to disquantity your train;
+	And the remainder, that shall still depend,
+	To be such men as may besort your age,
+	Which know themselves and you.
+<SPEECH 15><ACT 1><SCENE 4><23%>
+	You strike my people, and your disorder'd rabble
+	Make servants of their betters.
+<SPEECH 16><ACT 1><SCENE 4><24%>
+	Never afflict yourself to know the cause;
+	But let his disposition have that scope
+	That dotage gives it.
+<SPEECH 17><ACT 1><SCENE 4><25%>
+	Do you mark that?
+<SPEECH 18><ACT 1><SCENE 4><25%>
+	Pray you, content. What, Oswald, ho!
+	</STAGE DIR> You, sir, more knave than fool, after your master.
+<SPEECH 19><ACT 1><SCENE 4><25%>
+	This man hath had good counsel. A hundred knights!
+	'Tis politic and safe to let him keep
+	At point a hundred knights; yes, that on every dream,
+	Each buzz, each fancy, each complaint, dislike,
+	He may enguard his dotage with their powers,
+	And hold our lives in mercy. Oswald, I say!
+<SPEECH 20><ACT 1><SCENE 4><25%>
+	Safer than trust too far.
+	Let me still take away the harms I fear,
+	Not fear still to be taken: I know his heart.
+	What he hath utter'd I have writ my sister;
+	If she sustain him and his hundred knights,
+	When I have show'd the unfitness,—
+	How now, Oswald!
+	What! have you writ that letter to my sister?
+<SPEECH 21><ACT 1><SCENE 4><25%>
+	Take you some company, and away to horse:
+	Inform her full of my particular fear;
+	And thereto add such reasons of your own
+	As may compact it more. Get you gone,
+	And hasten your return. <STAGE DIR>
+	</STAGE DIR> No, no, my lord,
+	This milky gentleness and course of yours
+	Though I condemn not, yet, under pardon,
+	You are much more attask'd for want of wisdom
+	Than prais'd for harmful mildness.
+<SPEECH 22><ACT 1><SCENE 4><26%>
+	Nay, then—
+<SPEECH 23><ACT 2><SCENE 4><43%>
+	Why not by the hand, sir? How have I offended?
+	All's not offence that indiscretion finds
+	And dotage terms so.
+<SPEECH 24><ACT 2><SCENE 4><43%>
+	At your choice, sir.
+<SPEECH 25><ACT 2><SCENE 4><44%>
+	Why might not you, my lord, receive attendance
+	From those that she calls servants, or from mine?
+<SPEECH 26><ACT 2><SCENE 4><45%>
+	Hear me, my lord.
+	What need you five-and-twenty, ten, or five,
+	To follow in a house, where twice so many
+	Have a command to tend you?
+<SPEECH 27><ACT 2><SCENE 4><46%>
+	'Tis his own blame; hath put himself from rest,
+	And must needs taste his folly.
+<SPEECH 28><ACT 2><SCENE 4><46%>
+	So am I purpos'd.
+	Where is my Lord of Gloucester?
+<SPEECH 29><ACT 2><SCENE 4><46%>
+	My lord, entreat him by no means to stay.
+<SPEECH 30><ACT 3><SCENE 7><62%>
+	Pluck out his eyes.
+<SPEECH 31><ACT 3><SCENE 7><62%>
+	Farewell, sweet lord, and sister.
+<SPEECH 32><ACT 4><SCENE 2><68%>
+	Welcome, my lord; I marvel our mild husband
+	Not met us on the way. <STAGE DIR>
+	</STAGE DIR> Now, where's your master?
+<SPEECH 33><ACT 4><SCENE 2><68%>
+	</STAGE DIR> Then, shall you go no further.
+	It is the cowish terror of his spirit
+	That dares not undertake; he'll not feel wrongs
+	Which tie him to an answer. Our wishes on the way
+	May prove effects. Back, Edmund, to my brother;
+	Hasten his musters and conduct his powers:
+	I must change arms at home, and give the distaff
+	Into my husband's hands. This trusty servant
+	Shall pass between us; ere long you are like to hear,
+	If you dare venture in your own behalf,
+	A mistress's command. Wear this; spare speech;
+	Decline your head: this kiss, if it durst speak,
+	Would stretch thy spirits up into the air.
+	Conceive, and fare thee well.
+<SPEECH 34><ACT 4><SCENE 2><69%>
+	My most dear Gloucester!
+	O! the difference of man and man!
+	To thee a woman's services are due:
+	My fool usurps my bed.
+<SPEECH 35><ACT 4><SCENE 2><69%>
+	I have been worth the whistle.
+<SPEECH 36><ACT 4><SCENE 2><69%>
+	No more; the text is foolish.
+<SPEECH 37><ACT 4><SCENE 2><69%>
+	Milk-liver'd man!
+	That bear'st a cheek for blows, a head for wrongs;
+	Who hast not in thy brows an eye discerning
+	Thine honour from thy suffering; that not know'st
+	Fools do those villains pity who are punish'd
+	Ere they have done their mischief. Where's thy drum?
+	France spreads his banners in our noiseless land,
+	With plumed helm thy slayer begins threats,
+	Whilst thou, a moral fool, sitt'st still, and criest
+	'Alack! why does he so?'
+<SPEECH 38><ACT 4><SCENE 2><70%>
+	O vain fool!
+<SPEECH 39><ACT 4><SCENE 2><70%>
+	Marry, your manhood.—Mew!
+<SPEECH 40><ACT 4><SCENE 2><70%>
+	</STAGE DIR> One way I like this well;
+	But being widow, and my Gloucester with her,
+	May all the building in my fancy pluck
+	Upon my hateful life: another way,
+	This news is not so tart. <STAGE DIR>
+	</STAGE DIR> I'll read and answer.
+<SPEECH 41><ACT 5><SCENE 1><87%>
+	</STAGE DIR> I had rather lose the battle than that sister
+	Should loosen him and me.
+<SPEECH 42><ACT 5><SCENE 1><87%>
+	Combine together 'gainst the enemy;
+	For these domestic and particular broils
+	Are not the question here.
+<SPEECH 43><ACT 5><SCENE 1><88%>
+	No.
+<SPEECH 44><ACT 5><SCENE 1><88%>
+	</STAGE DIR> O, ho! I know the riddle. <span class="stage>[Aloud.] I will go.
+<SPEECH 45><ACT 5><SCENE 3><91%>
+	Not so hot;
+	In his own grace he doth exalt himself
+	More than in your addition.
+<SPEECH 46><ACT 5><SCENE 3><92%>
+	That were the most, if he should husband you.
+<SPEECH 47><ACT 5><SCENE 3><92%>
+	Holla, holla!
+	That eye that told you so look'd but a-squint.
+<SPEECH 48><ACT 5><SCENE 3><92%>
+	Mean you to enjoy him?
+<SPEECH 49><ACT 5><SCENE 3><92%>
+	An interlude!
+<SPEECH 50><ACT 5><SCENE 3><92%>
+	</STAGE DIR> If not, I'll ne'er trust medicine.
+<SPEECH 51><ACT 5><SCENE 3><94%>
+	This is practice, Gloucester:
+	By the law of arms thou wast not bound to answer
+	An unknown opposite; thou art not vanquish'd,
+	But cozen'd and beguil'd.
+<SPEECH 52><ACT 5><SCENE 3><95%>
+	Say, if I do, the laws are mine, not thine:
+	Who can arraign me for 't?

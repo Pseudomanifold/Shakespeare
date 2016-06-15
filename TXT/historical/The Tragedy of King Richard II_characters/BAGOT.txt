@@ -1,0 +1,28 @@
+<SPEECH 1><ACT 2><SCENE 2><39%>
+	And that's the wavering commons; for their love
+	Lies in their purses, and whoso empties them,
+	By so much fills their hearts with deadly hate.
+<SPEECH 2><ACT 2><SCENE 2><39%>
+	If judgment lie in them, then so do we,
+	Because we ever have been near the king.
+<SPEECH 3><ACT 2><SCENE 2><39%>
+	No; I will to Ireland to his majesty.
+	Farewell: if heart's presages be not vain,
+	We three here part that ne'er shall meet again.
+<SPEECH 4><ACT 2><SCENE 2><39%>
+	I fear me, never.
+<SPEECH 5><ACT 4><SCENE 1><68%>
+	Then set before my face the Lord Aumerle.
+<SPEECH 6><ACT 4><SCENE 1><68%>
+	My Lord Aumerle, I know your daring tongue
+	Scorns to unsay what once it hath deliver'd.
+	In that dead time when Gloucester's death was plotted,
+	I heard you say, 'Is not my arm of length,
+	That reacheth from the restful English court
+	As far as Calais, to my uncle's head?'
+	Amongst much other talk, that very time,
+	I heard you say that you had rather refuse
+	The offer of a hundred thousand crowns
+	Than Bolingbroke's return to England;
+	Adding withal, how blest this land would be
+	In this your cousin's death.

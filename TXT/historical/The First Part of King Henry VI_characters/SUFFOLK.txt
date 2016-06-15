@@ -1,0 +1,216 @@
+<SPEECH 1><ACT 2><SCENE 4><32%>
+	Within the Temple hall we were too loud;
+	The garden here is more convenient.
+<SPEECH 2><ACT 2><SCENE 4><32%>
+	Faith, I have been a truant in the law,
+	And never yet could frame my will to it;
+	And therefore frame the law unto my will.
+<SPEECH 3><ACT 2><SCENE 4><33%>
+	I pluck this red rose with young Somerset:
+	And say withal I think he held the right.
+<SPEECH 4><ACT 2><SCENE 4><34%>
+	Turn not thy scorns this way, Plantagenet.
+<SPEECH 5><ACT 2><SCENE 4><34%>
+	I'll turn my part thereof into thy throat.
+<SPEECH 6><ACT 2><SCENE 4><36%>
+	Go forward, and be chok'd with thy ambition:
+	And so farewell until I meet thee next.
+<SPEECH 7><ACT 5><SCENE 3><85%>
+	Be what thou wilt, thou art my prisoner.
+	O fairest beauty! do not fear nor fly,
+	For I will touch thee but with reverent hands.
+	I kiss these fingers for eternal peace,
+	And lay them gently on thy tender side.
+	What art thou? say, that I may honour thee.
+<SPEECH 8><ACT 5><SCENE 3><85%>
+	An earl I am, and Suffolk am I call'd.
+	Be not offended, nature's miracle,
+	Thou art allotted to be ta'en by me:
+	So doth the swan her downy cygnets save,
+	Keeping them prisoners underneath her wings.
+	Yet if this servile usage once offend,
+	Go and be free again, as Suffolk's friend.
+	O stay! I have no power to let her pass;
+	My hand would free her, but my heart says no.
+	As plays the sun upon the glassy streams,
+	Twinkling another counterfeited beam,
+	So seems this gorgeous beauty to mine eyes.
+	Fain would I woo her, yet I dare not speak:
+	I'll call for pen and ink and write my mind.
+	Fie, De la Pole! disable not thyself;
+	Hast not a tongue? is she not here thy prisoner?
+	Wilt thou be daunted at a woman's sight?
+	Ay; beauty's princely majesty is such
+	Confounds the tongue and makes the senses rough.
+<SPEECH 9><ACT 5><SCENE 3><86%>
+	</STAGE DIR> How canst thou tell she will deny thy suit,
+	Before thou make a trial of her love?
+<SPEECH 10><ACT 5><SCENE 3><86%>
+	</STAGE DIR> She's beautiful and therefore to be woo'd,
+	She is a woman, therefore to be won.
+<SPEECH 11><ACT 5><SCENE 3><86%>
+	</STAGE DIR> Fond man! remember that thou hast a wife;
+	Then how can Margaret be thy paramour?
+<SPEECH 12><ACT 5><SCENE 3><86%>
+	</STAGE DIR> There all is marr'd; there lies a cooling card.
+<SPEECH 13><ACT 5><SCENE 3><86%>
+	</STAGE DIR> And yet a dispensation may be had.
+<SPEECH 14><ACT 5><SCENE 3><86%>
+	</STAGE DIR> I'll win this Lady Margaret. For whom?
+	Why, for my king: tush! that's a wooden thing.
+<SPEECH 15><ACT 5><SCENE 3><86%>
+	</STAGE DIR> Yet so my fancy may be satisfied,
+	And peace established between these realms.
+	But there remains a scruple in that too;
+	For though her father be the King of Naples,
+	Duke of Anjou and Maine, yet is he poor,
+	And our nobility will scorn the match.
+<SPEECH 16><ACT 5><SCENE 3><87%>
+	</STAGE DIR> It shall be so, disdain they ne'er so much:
+	Henry is youthful and will quickly yield.
+	Madam, I have a secret to reveal.
+<SPEECH 17><ACT 5><SCENE 3><87%>
+	Lady, vouchsafe to listen what I say.
+<SPEECH 18><ACT 5><SCENE 3><87%>
+	Sweet madam, give me hearing in a cause—
+<SPEECH 19><ACT 5><SCENE 3><87%>
+	Lady, wherefore talk you so?
+<SPEECH 20><ACT 5><SCENE 3><87%>
+	Say, gentle princess, would you not suppose
+	Your bondage happy to be made a queen?
+<SPEECH 21><ACT 5><SCENE 3><87%>
+	And so shall you,
+	If happy England's royal king be free.
+<SPEECH 22><ACT 5><SCENE 3><87%>
+	I'll undertake to make thee Henry's queen,
+	To put a golden sceptre in thy hand
+	And set a precious crown upon thy head,
+	If thou wilt condescend to be my—
+<SPEECH 23><ACT 5><SCENE 3><88%>
+	His love.
+<SPEECH 24><ACT 5><SCENE 3><88%>
+	No, gentle madam; I unworthy am
+	To woo so fair a dame to be his wife
+	And have no portion in the choice myself.
+	How say you, madam, are you so content?
+<SPEECH 25><ACT 5><SCENE 3><88%>
+	Then call our captains and our colours forth!
+	And, madam, at your father's castle walls
+	We'll crave a parley, to confer with him.
+<SPEECH 26><ACT 5><SCENE 3><88%>
+	See, Reignier, see thy daughter prisoner!
+<SPEECH 27><ACT 5><SCENE 3><88%>
+	To me.
+<SPEECH 28><ACT 5><SCENE 3><88%>
+	Yes, there is remedy enough; my lord:
+	Consent, and for thy honour, give consent,
+	Thy daughter shall be wedded to my king,
+	Whom I with pain have woo'd and won thereto;
+	And this her easy-held imprisonment
+	Hath gain'd thy daughter princely liberty.
+<SPEECH 29><ACT 5><SCENE 3><88%>
+	Fair Margaret knows
+	That Suffolk doth not flatter, face, or feign.
+<SPEECH 30><ACT 5><SCENE 3><88%>
+	And here I will expect thy coming.
+<SPEECH 31><ACT 5><SCENE 3><89%>
+	Thanks, Reignier, happy for so sweet a child,
+	Fit to be made companion with a king.
+	What answer makes your Grace unto my suit?
+<SPEECH 32><ACT 5><SCENE 3><89%>
+	That is her ransom; I deliver her;
+	And those two counties I will undertake
+	Your Grace shall well and quietly enjoy.
+<SPEECH 33><ACT 5><SCENE 3><89%>
+	Reignier of France, I give thee kingly thanks,
+	Because this is in traffic of a king:
+	</STAGE DIR> And yet, methinks, I could be well content
+	To be mine own attorney in this case.
+	I'll over then, to England with this news,
+	And make this marriage to be solemniz'd.
+	So farewell, Reignier: set this diamond safe,
+	In golden palaces, as it becomes.
+<SPEECH 34><ACT 5><SCENE 3><90%>
+	Farewell, sweet madam! but hark you, Margaret;
+	No princely commendations to my king?
+<SPEECH 35><ACT 5><SCENE 3><90%>
+	Words sweetly plac'd and modestly directed.
+	But madam, I must trouble you again,
+	No loving token to his majesty?
+<SPEECH 36><ACT 5><SCENE 3><90%>
+	And this withal.
+<SPEECH 37><ACT 5><SCENE 3><90%>
+	O! wert thou for myself! But Suffolk, stay;
+	Thou mayst not wander in that labyrinth;
+	There Minotaurs and ugly treasons lurk.
+	Solicit Henry with her wondrous praise:
+	Bethink thee on her virtues that surmount
+	And natural graces that extinguish art;
+	Repeat their semblance often on the seas,
+	That, when thou com'st to kneel at Henry's feet,
+	Thou mayst bereave him of his wits with wonder.
+<SPEECH 38><ACT 5><SCENE 5><97%>
+	Tush! my good lord, this superficial tale
+	Is but a preface of her worthy praise:
+	The chief perfections of that lovely dame—
+	Had I sufficient skill to utter them—
+	Would make a volume of enticing lines,
+	Able to ravish any dull conceit:
+	And, which is more, she is not so divine,
+	So full replete with choice of all delights,
+	But with as humble lowliness of mind
+	She is content to be at your command;
+	Command, I mean, of virtuous chaste intents,
+	To love and honour Henry as her lord.
+<SPEECH 39><ACT 5><SCENE 5><97%>
+	As doth a ruler with unlawful oaths;
+	Or one that, at a triumph having vow'd
+	To try his strength, forsaketh yet the lists
+	By reason of his adversary's odds.
+	A poor earl's daughter is unequal odds,
+	And therefore may be broke without offence.
+<SPEECH 40><ACT 5><SCENE 5><98%>
+	Yes, my good lord, her father is a king,
+	The King of Naples and Jerusalem;
+	And of such great authority in France
+	As his alliance will confirm our peace,
+	And keep the Frenchmen in allegiance.
+<SPEECH 41><ACT 5><SCENE 5><98%>
+	A dower, my lords! disgrace not so your king,
+	That he should be so abject, base, and poor,
+	To choose for wealth and not for perfect love.
+	Henry is able to enrich his queen,
+	And not to seek a queen to make him rich:
+	So worthless peasants bargain for their wives,
+	As market-men for oxen, sheep, or horse.
+	Marriage is a matter of more worth
+	Than to be dealt in by attorneyship:
+	Not whom we will, but whom his Grace affects,
+	Must be companion of his nuptial bed;
+	And therefore, lords, since he affects her most
+	It most of all these reasons bindeth us,
+	In our opinions she should be preferr'd.
+	For what is wedlock forced, but a hell,
+	An age of discord and continual strife?
+	Whereas the contrary bringeth bliss,
+	And is a pattern of celestial peace.
+	Whom should we match with Henry, being a king,
+	But Margaret, that is daughter to a king?
+	Her peerless feature, joined with her birth,
+	Approves her fit for none but for a king:
+	Her valiant courage and undaunted spirit—
+	More than in women commonly is seen—
+	Will answer our hope in issue of a king;
+	For Henry, son unto a conqueror,
+	Is likely to beget more conquerors,
+	If with a lady of so high resolve
+	As is fair Margaret he be link'd in love.
+	Then yield, my lords; and here conclude with me
+	That Margaret shall be queen, and none but she.
+<SPEECH 42><ACT 5><SCENE 5><100%>
+	Thus Suffolk hath prevail'd; and thus he goes,
+	As did the youthful Paris once to Greece;
+	With hope to find the like event in love,
+	But prosper better than the Trojan did.
+	Margaret shall now be queen, and rule the king;
+	But I will rule both her, the king, and realm.

@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+	The king, my lord, and Harry Prince of Wales
+	Are near at hand: the rest the paper tells.
+<SPEECH 2><ACT 2><SCENE 1><24%>
+	At Basingstoke, my lord.
+<SPEECH 3><ACT 2><SCENE 1><24%>
+	No; fifteen hundred foot, five hundred horse,
+	Are march'd up to my Lord of Lancaster,
+	Against Northumberland and the archbishop.
+<SPEECH 4><ACT 2><SCENE 1><24%>
+	I must wait upon my good lord here;
+	I thank you, good Sir John.

@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Nay, answer me; stand, and unfold yourself.
+<SPEECH 2><ACT 1><SCENE 1><0%>
+	Bernardo?
+<SPEECH 3><ACT 1><SCENE 1><0%>
+	You come most carefully upon your hour.
+<SPEECH 4><ACT 1><SCENE 1><0%>
+	For this relief much thanks; 'tis bitter cold,
+	And I am sick at heart.
+<SPEECH 5><ACT 1><SCENE 1><0%>
+	Not a mouse stirring.
+<SPEECH 6><ACT 1><SCENE 1><1%>
+	I think I hear them. Stand, ho! Who's there?
+<SPEECH 7><ACT 1><SCENE 1><1%>
+	Give you good-night.
+<SPEECH 8><ACT 1><SCENE 1><1%>
+	Bernardo has my place.
+	Give you good-night.

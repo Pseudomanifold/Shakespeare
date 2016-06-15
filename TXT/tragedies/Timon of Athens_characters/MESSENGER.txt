@@ -1,0 +1,23 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+	Ay, my good lord: five talents is his debt,
+	His means most short, his creditors most strait:
+	Your honourable letter he desires
+	To those have shut him up; which, failing,
+	Periods his comfort.
+<SPEECH 2><ACT 1><SCENE 1><5%>
+	Your lordship ever binds him.
+<SPEECH 3><ACT 1><SCENE 1><5%>
+	All happiness to your honour.
+<SPEECH 4><ACT 5><SCENE 2><95%>
+	I have spoke the least;
+	Besides, his expedition promises
+	Present approach.
+<SPEECH 5><ACT 5><SCENE 2><95%>
+	I met a courier, one mine ancient friend,
+	Whom, though in general part we were oppos'd,
+	Yet our old love made a particular force,
+	And made us speak like friends: this man was riding
+	From Alcibiades to Timon's cave,
+	With letters of entreaty, which imported
+	His fellowship i' the cause against your city,
+	In part for his sake mov'd.

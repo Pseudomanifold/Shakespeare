@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 3><SCENE 1><44%>
+	Do what ye dare, we are as resolute.
+<SPEECH 2><ACT 3><SCENE 1><46%>
+	And so will I.

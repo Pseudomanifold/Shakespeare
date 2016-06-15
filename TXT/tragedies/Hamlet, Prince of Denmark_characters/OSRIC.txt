@@ -1,0 +1,52 @@
+<SPEECH 1><ACT 5><SCENE 2><91%>
+	Your lordship is right welcome back to Denmark.
+<SPEECH 2><ACT 5><SCENE 2><92%>
+	Sweet lord, if your lordship were at leisure, I should impart a thing to you from his majesty.
+<SPEECH 3><ACT 5><SCENE 2><92%>
+	I thank your lordship, 'tis very hot.
+<SPEECH 4><ACT 5><SCENE 2><92%>
+	It is indifferent cold, my lord, indeed.
+<SPEECH 5><ACT 5><SCENE 2><92%>
+	Exceedingly, my lord; it is very sultry, as 'twere, I cannot tell how. But, my lord, his majesty bade me signify to you that he has laid a great wager on your head. Sir, this is the matter,—
+<SPEECH 6><ACT 5><SCENE 2><92%>
+	Nay, good my lord; for mine ease, in good faith. Sir, here is newly come to court Laertes; believe me, an absolute gentleman, full of most excellent differences, of very soft society and great showing; indeed, to speak feelingly of him, he is the card or calendar of gentry, for you shall find in him the continent of what part a gentleman would see.
+<SPEECH 7><ACT 5><SCENE 2><92%>
+	Your lordship speaks most infallibly of him.
+<SPEECH 8><ACT 5><SCENE 2><92%>
+	Sir?
+<SPEECH 9><ACT 5><SCENE 2><93%>
+	Of Laertes?
+<SPEECH 10><ACT 5><SCENE 2><93%>
+	I know you are not ignorant—
+<SPEECH 11><ACT 5><SCENE 2><93%>
+	You are not ignorant of what excellence Laertes is—
+<SPEECH 12><ACT 5><SCENE 2><93%>
+	I mean, sir, for his weapon; but in the imputation laid on him by them, in his meed he's unfellowed.
+<SPEECH 13><ACT 5><SCENE 2><93%>
+	Rapier and dagger.
+<SPEECH 14><ACT 5><SCENE 2><93%>
+	The king, sir, hath wagered with him six Barbary horses; against the which he has imponed, as I take it, six French rapiers and poniards, with their assigns, as girdle, hangers, and so: three of the carriages, in faith, are very dear to fancy, very responsive to the hilts, most delicate carriages, and of very liberal conceit.
+<SPEECH 15><ACT 5><SCENE 2><93%>
+	The carriages, sir, are the hangers.
+<SPEECH 16><ACT 5><SCENE 2><93%>
+	The king, sir, hath laid, that in a dozen passes between yourself and him, he shall not exceed you three hits; he hath laid on twelve for nine, and it would come to immediate trial, if your lordship would vouchsafe the answer.
+<SPEECH 17><ACT 5><SCENE 2><93%>
+	I mean, my lord, the opposition of your person in trial.
+<SPEECH 18><ACT 5><SCENE 2><94%>
+	Shall I re-deliver you so?
+<SPEECH 19><ACT 5><SCENE 2><94%>
+	I commend my duty to your lordship.
+<SPEECH 20><ACT 5><SCENE 2><96%>
+	Ay, my good lord.
+<SPEECH 21><ACT 5><SCENE 2><96%>
+	A hit, a very palpable hit.
+<SPEECH 22><ACT 5><SCENE 2><97%>
+	Nothing, neither way.
+<SPEECH 23><ACT 5><SCENE 2><97%>
+	Look to the queen there, ho!
+<SPEECH 24><ACT 5><SCENE 2><97%>
+	How is it, Laertes?
+<SPEECH 25><ACT 5><SCENE 2><99%>
+	Young Fortinbras, with conquest come from Poland,
+	To the ambassadors of England gives
+	This war-like volley.

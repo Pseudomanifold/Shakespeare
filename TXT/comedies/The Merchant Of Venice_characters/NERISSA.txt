@@ -1,0 +1,96 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	You would be, sweet madam, if your miseries were in the same abundance as your good fortunes are: and yet, for aught I see, they are as sick that surfeit with too much as they that starve with nothing. It is no mean happiness therefore, to be seated in the mean: superfluity comes sooner by white hairs, but competency lives longer.
+<SPEECH 2><ACT 1><SCENE 2><8%>
+	They would be better if well followed.
+<SPEECH 3><ACT 1><SCENE 2><8%>
+	Your father was ever virtuous, and holy men at their death have good inspirations; therefore, the lottery that he hath devised in these three chests of gold, silver, and lead, whereof who chooses his meaning chooses you, will, no doubt, never be chosen by any rightly but one who you shall rightly love. But what warmth is there in your affection towards any of these princely suitors that are already come?
+<SPEECH 4><ACT 1><SCENE 2><9%>
+	First, there is the Neapolitan prince.
+<SPEECH 5><ACT 1><SCENE 2><9%>
+	Then is there the County Palatine.
+<SPEECH 6><ACT 1><SCENE 2><9%>
+	How say you by the French lord, Monsieur Le Bon?
+<SPEECH 7><ACT 1><SCENE 2><10%>
+	What say you, then, to Falconbridge, the young baron of England?
+<SPEECH 8><ACT 1><SCENE 2><10%>
+	What think you of the Scottish lord, his neighbour?
+<SPEECH 9><ACT 1><SCENE 2><10%>
+	How like you the young German, the Duke of Saxony's nephew?
+<SPEECH 10><ACT 1><SCENE 2><11%>
+	If he should offer to choose, and choose the right casket, you should refuse to perform your father's will, if you should refuse to accept him.
+<SPEECH 11><ACT 1><SCENE 2><11%>
+	You need not fear, lady, the having any of these lords: they have acquainted me with their determinations; which is, indeed, to return to their home and to trouble you with no more suit, unless you may be won by some other sort than your father's imposition depending on the caskets.
+<SPEECH 12><ACT 1><SCENE 2><11%>
+	Do you not remember, lady, in your father's time, a Venetian, a scholar and a soldier, that came hither in the company of the Marquis of Montferrat?
+<SPEECH 13><ACT 1><SCENE 2><12%>
+	True, madam: he, of all the men that ever my foolish eyes looked upon, was the best deserving a fair lady.
+<SPEECH 14><ACT 2><SCENE 1><42%>
+	Quick, quick, I pray thee; draw the curtain straight:
+	The Prince of Arragon hath ta'en his oath,
+	And comes to his election presently.
+<SPEECH 15><ACT 2><SCENE 1><44%>
+	The ancient saying is no heresy:
+	'Hanging and wiving goes by destiny.'
+<SPEECH 16><ACT 2><SCENE 1><45%>
+	Bassanio, lord Love, if thy will it be!
+<SPEECH 17><ACT 3><SCENE 2><57%>
+	My lord and lady, it is now our time,
+	That have stood by and seen our wishes prosper,
+	To cry, good joy. Good joy, my lord and lady!
+<SPEECH 18><ACT 3><SCENE 2><58%>
+	Madam, it is, so you stand pleas'd withal.
+<SPEECH 19><ACT 3><SCENE 2><58%>
+	What! and stake down?
+<SPEECH 20><ACT 3><SCENE 4><66%>
+	Shall they see us?
+<SPEECH 21><ACT 3><SCENE 4><66%>
+	Why, shall we turn to men?
+<SPEECH 22><ACT 4><SCENE 1><74%>
+	From both, my lord. Bellario greets your Grace.
+<SPEECH 23><ACT 4><SCENE 1><75%>
+	He attendeth here hard by,
+	To know your answer, whether you'll admit him.
+<SPEECH 24><ACT 4><SCENE 1><81%>
+	'Tis well you offer it behind her back;
+	The wish would make else an unquiet house.
+<SPEECH 25><ACT 4><SCENE 2><88%>
+	Sir, I would speak with you.
+	</STAGE DIR> I'll see if I can get my husband's ring,
+	Which I did make him swear to keep for ever.
+<SPEECH 26><ACT 4><SCENE 2><88%>
+	Come, good sir, will you show me to this house?
+<SPEECH 27><ACT 5><SCENE 1><92%>
+	When the moon shone, we did not see the candle.
+<SPEECH 28><ACT 5><SCENE 1><92%>
+	It is your music, madam, of the house.
+<SPEECH 29><ACT 5><SCENE 1><92%>
+	Silence bestows that virtue on it, madam.
+<SPEECH 30><ACT 5><SCENE 1><94%>
+	What talk you of the posy, or the value?
+	You swore to me, when I did give it you,
+	That you would wear it till your hour of death,
+	And that it should lie with you in your grave:
+	Though not for me, yet for your vehement oaths,
+	You should have been respective and have kept it.
+	Gave it a judge's clerk! no, God's my judge,
+	The clerk will ne'er wear hair on's face that had it.
+<SPEECH 31><ACT 5><SCENE 1><95%>
+	Ay, if a woman live to be a man.
+<SPEECH 32><ACT 5><SCENE 1><96%>
+	Nor I in yours,
+	Till I again see mine.
+<SPEECH 33><ACT 5><SCENE 1><97%>
+	And I his clerk; therefore be well advis'd
+	How you do leave me to mine own protection.
+<SPEECH 34><ACT 5><SCENE 1><98%>
+	And pardon me, my gentle Gratiano;
+	For that same scrubbed boy, the doctor's clerk,
+	In lieu of this last night did lie with me.
+<SPEECH 35><ACT 5><SCENE 1><99%>
+	Ay; but the clerk that never means to do it,
+	Unless he live until he be a man.
+<SPEECH 36><ACT 5><SCENE 1><99%>
+	Ay, and I'll give them him without a fee.
+	There do I give to you and Jessica,
+	From the rich Jew, a special deed of gift,
+	After his death, of all he dies possess'd of.

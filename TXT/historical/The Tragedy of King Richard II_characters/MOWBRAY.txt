@@ -1,0 +1,148 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Each day still better other's happiness;
+	Until the heavens, envying earth's good hap,
+	Add an immortal title to your crown!
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	Let not my cold words here accuse my zeal:
+	'Tis not the trial of a woman's war,
+	The bitter clamour of two eager tongues,
+	Can arbitrate this cause betwixt us twain;
+	The blood is hot that must be cool'd for this:
+	Yet can I not of such tame patience boast
+	As to be hush'd and nought at all to say.
+	First, the fair reverence of your highness curbs me
+	From giving reins and spurs to my free speech;
+	Which else would post until it had return'd
+	These terms of treason doubled down his throat.
+	Setting aside his high blood's royalty,
+	And let him be no kinsman to my liege,
+	I do defy him, and I spit at him;
+	Call him a slanderous coward and a villain:
+	Which to maintain I would allow him odds,
+	And meet him, were I tied to run afoot
+	Even to the frozen ridges of the Alps,
+	Or any other ground inhabitable,
+	Wherever Englishman durst set his foot.
+	Meantime let this defend my loyalty:
+	By all my hopes, most falsely doth he lie.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	I take it up; and by that sword I swear,
+	Which gently laid my knighthood on my shoulder,
+	I'll answer thee in any fair degree,
+	Or chivalrous design of knightly trial:
+	And when I mount, alive may I not light,
+	If I be traitor or unjustly fight!
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	O! let my sovereign turn away his face
+	And bid his ears a little while be deaf,
+	Till I have told this slander of his blood
+	How God and good men hate so foul a liar.
+<SPEECH 5><ACT 1><SCENE 1><5%>
+	Then, Bolingbroke, as low as to thy heart,
+	Through the false passage of thy throat, thou liest.
+	Three parts of that receipt I had for Calais
+	Disburs'd I duly to his highness' soldiers;
+	The other part reserv'd I by consent,
+	For that my sovereign liege was in my debt
+	Upon remainder of a dear account,
+	Since last I went to France to fetch his queen.
+	Now swallow down that lie. For Gloucester's death,
+	I slew him not; but to mine own disgrace
+	Neglected my sworn duty in that case.
+	For you, my noble Lord of Lancaster,
+	The honourable father to my foe,
+	Once did I lay an ambush for your life,
+	A trespass that doth vex my grieved soul;
+	But ere I last receiv'd the sacrament
+	I did confess it, and exactly begg'd
+	Your Grace's pardon, and I hope I had it.
+	This is my fault: as for the rest appeal'd,
+	It issues from the rancour of a villain,
+	A recreant and most degenerate traitor;
+	Which in myself I boldly will defend,
+	And interchangeably hurl down my gage
+	Upon this overweening traitor's foot,
+	To prove myself a loyal gentleman
+	Even in the best blood chamber'd in his bosom.
+	In haste whereof, most heartily I pray
+	Your highness to assign our trial day.
+<SPEECH 6><ACT 1><SCENE 1><6%>
+	Myself I throw, dread sovereign, at thy foot.
+	My life thou shalt command, but not my shame:
+	The one my duty owes; but my fair name,—
+	Despite of death that lives upon my grave,—
+	To dark dishonour's use thou shalt not have.
+	I am disgrac'd, impeach'd, and baffled here,
+	Pierc'd to the soul with slander's venom'd spear,
+	The which no balm can cure but his heart-blood
+	Which breath'd this poison.
+<SPEECH 7><ACT 1><SCENE 1><6%>
+	Yea, but not change his spots: take but my shame,
+	And I resign my gage. My dear dear lord,
+	The purest treasure mortal times afford
+	Is spotless reputation; that away,
+	Men are but gilded loam or painted clay.
+	A jewel in a ten-times-barr'd-up chest
+	Is a bold spirit in a loyal breast.
+	Mine honour is my life; both grow in one;
+	Take honour from me, and my life is done:
+	Then, dear my liege, mine honour let me try;
+	In that I live and for that will I die.
+<SPEECH 8><ACT 1><SCENE 3><11%>
+	My name is Thomas Mowbray, Duke of Norfolk,
+	Who hither come engaged by my oath,—
+	Which God defend a knight should violate!—
+	Both to defend my loyalty and truth
+	To God, my king, and his succeeding issue,
+	Against the Duke of Hereford that appeals me;
+	And, by the grace of God and this mine arm,
+	To prove him, in defending of myself,
+	A traitor to my God, my king, and me:
+	And as I truly fight, defend me heaven!
+<SPEECH 9><ACT 1><SCENE 3><13%>
+	</STAGE DIR> However God or fortune cast my lot,
+	There lives or dies, true to King Richard's throne,
+	A loyal, just, and upright gentleman.
+	Never did captive with a freer heart
+	Cast off his chains of bondage and embrace
+	His golden uncontroll'd enfranchisement,
+	More than my dancing soul doth celebrate
+	This feast of battle with mine adversary.
+	Most mighty liege, and my companion peers,
+	Take from my mouth the wish of happy years.
+	As gentle and as jocund as to jest,
+	Go I to fight: truth has a quiet breast.
+<SPEECH 10><ACT 1><SCENE 3><16%>
+	A heavy sentence, my most sovereign liege,
+	And all unlook'd for from your highness' mouth:
+	A dearer merit, not so deep a maim
+	As to be cast forth in the common air,
+	Have I deserved at your highness' hands.
+	The language I have learn'd these forty years,
+	My native English, now I must forego;
+	And now my tongue's use is to me no more
+	Than an unstringed viol or a harp,
+	Or like a cunning instrument cas'd up,
+	Or, being open, put into his hands
+	That knows no touch to tune the harmony:
+	Within my mouth you have engaol'd my tongue,
+	Doubly portcullis'd with my teeth and lips;
+	And dull, unfeeling, barren ignorance
+	Is made my gaoler to attend on me.
+	I am too old to fawn upon a nurse,
+	Too far in years to be a pupil now:
+	What is thy sentence then but speechless death,
+	Which robs my tongue from breathing native breath?
+<SPEECH 11><ACT 1><SCENE 3><16%>
+	Then, thus I turn me from my country's light,
+	To dwell in solemn shades of endless night.
+<SPEECH 12><ACT 1><SCENE 3><17%>
+	And I, to keep all this.
+<SPEECH 13><ACT 1><SCENE 3><17%>
+	No, Bolingbroke: if ever I were traitor,
+	My name be blotted from the book of life,
+	And I from heaven banish'd as from hence!
+	But what thou art, God, thou, and I do know;
+	And all too soon, I fear, the king shall rue.
+	Farewell, my liege. Now no way can I stray;
+	Save back to England, all the world's my way.

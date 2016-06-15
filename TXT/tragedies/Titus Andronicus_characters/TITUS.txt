@@ -1,0 +1,830 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	Hail, Rome, victorious in thy mourning weeds!
+	Lo! as the bark, that hath discharg'd her fraught,
+	Returns with precious lading to the bay
+	From whence at first she weigh'd her anchorage,
+	Cometh Andronicus, bound with laurel boughs,
+	To re-salute his country with his tears,
+	Tears of true joy for his return to Rome.
+	Thou great defender of this Capitol,
+	Stand gracious to the rites that we intend!
+	Romans, of five-and-twenty valiant sons,
+	Half of the number that King Priam had,
+	Behold the poor remains, alive, and dead!
+	These that survive let Rome reward with love;
+	These that I bring unto their latest home.
+	With burial among their ancestors:
+	Here Goths have given me leave to sheathe my sword.
+	Titus, unkind and careless of thine own,
+	Why suffer'st thou thy sons, unburied yet
+	To hover on the dreadful shore of Styx?
+	Make way to lay them by their brethren.
+	There greet in silence, as the dead are wont,
+	And sleep in peace, slain in your country's wars!
+	O sacred receptacle of my joys,
+	Sweet cell of virtue and nobility,
+	How many sons of mine hast thou in store,
+	That thou wilt never render to me more!
+<SPEECH 2><ACT 1><SCENE 1><5%>
+	I give him you, the noblest that survives
+	The eldest son of this distressed queen.
+<SPEECH 3><ACT 1><SCENE 1><5%>
+	Patient yourself, madam, and pardon me.
+	These are their brethren, whom your Goths beheld
+	Alive and dead, and for their brethren slain
+	Religiously they ask a sacrifice:
+	To this your son is mark'd, and die he must,
+	To appease their groaning shadows that are gone.
+<SPEECH 4><ACT 1><SCENE 1><6%>
+	Let it be so; and let Andronicus
+	Make this his latest farewell to their souls.
+	In peace and honour rest you here, my sons;
+	Rome's readiest champions, repose you here in rest,
+	Secure from worldly chances and mishaps!
+	Here lurks no treason, here no envy swells,
+	Here grow no damned drugs, here are no storms,
+	No noise, but silence and eternal sleep:
+	In peace and honour rest you here, my sons!
+<SPEECH 5><ACT 1><SCENE 1><7%>
+	Kind Rome, that hast thus lovingly reserv'd
+	The cordial of mine age to glad my heart!
+	Lavinia, live; outlive thy father's days,
+	And fame's eternal date, for virtue's praise!
+<SPEECH 6><ACT 1><SCENE 1><7%>
+	Thanks, gentle Tribune, noble brother Marcus.
+<SPEECH 7><ACT 1><SCENE 1><8%>
+	A better head her glorious body fits
+	Than his that shakes for age and feebleness.
+	What should I don this robe, and trouble you?
+	Be chosen with proclamations to-day,
+	To-morrow yield up rule, resign my life,
+	And set abroad new business for you all?
+	Rome, I have been thy soldier forty years,
+	And led my country's strength successfully,
+	And buried one-and-twenty valiant sons,
+	Knighted in field, slain manfully in arms,
+	In right and service of their noble country.
+	Give me a staff of honour for mine age,
+	But not a sceptre to control the world:
+	Upright he held it, lords, that held it last.
+<SPEECH 8><ACT 1><SCENE 1><8%>
+	Patience, Prince Saturninus.
+<SPEECH 9><ACT 1><SCENE 1><9%>
+	Content thee, prince; I will restore to thee
+	The people's hearts, and wean them from themselves.
+<SPEECH 10><ACT 1><SCENE 1><9%>
+	People of Rome, and people's tribunes here,
+	I ask your voices and your suffrages:
+	Will you bestow them friendly on Andronicus?
+<SPEECH 11><ACT 1><SCENE 1><9%>
+	Tribunes, I thank you; and this suit I make,
+	That you create your emperor's eldest son,
+	Lord Saturnine; whose virtues will, I hope,
+	Reflect on Rome as Titan's rays on earth,
+	And ripen justice in this commonweal:
+	Then, if you will elect by my advice,
+	Crown him, and say, 'Long live our emperor!'
+<SPEECH 12><ACT 1><SCENE 1><10%>
+	It doth, my worthy lord; and in this match
+	I hold me highly honour'd of your Grace:
+	And here in sight of Rome to Saturnine,
+	King and commander of our commonweal,
+	The wide world's emperor, do I consecrate
+	My sword, my chariot, and my prisoners;
+	Presents well worthy Rome's imperious lord:
+	Receive them then, the tribute that I owe,
+	Mine honour's ensigns humbled at thy feet.
+<SPEECH 13><ACT 1><SCENE 1><10%>
+	</STAGE DIR> Now, madam, are you prisoner to an emperor;
+	To him that, for your honour and your state,
+	Will use you nobly and your followers.
+<SPEECH 14><ACT 1><SCENE 1><11%>
+	How, sir! Are you in earnest then, my lord?
+<SPEECH 15><ACT 1><SCENE 1><12%>
+	Traitors, avaunt! Where is the emperor's guard?
+	Treason, my lord! Lavinia is surpris'd.
+<SPEECH 16><ACT 1><SCENE 1><12%>
+	Follow, my lord, and I'll soon bring her back.
+<SPEECH 17><ACT 1><SCENE 1><12%>
+	What! villain boy;
+	Barr'st me my way in Rome?
+<SPEECH 18><ACT 1><SCENE 1><12%>
+	Nor thou, nor he, are any sons of mine;
+	My sons would never so dishonour me.
+	Traitor, restore Lavinia to the emperor.
+<SPEECH 19><ACT 1><SCENE 1><13%>
+	O monstrous! what reproachful words are these!
+<SPEECH 20><ACT 1><SCENE 1><13%>
+	These words are razors to my wounded heart.
+<SPEECH 21><ACT 1><SCENE 1><14%>
+	I am not bid to wait upon this bride.
+	Titus, when wert thou wont to walk alone,
+	Dishonour'd thus, and challenged of wrongs?
+<SPEECH 22><ACT 1><SCENE 1><14%>
+	No, foolish tribune, no; no son of mine,
+	Nor thou, nor these, confederates in the deed
+	That hath dishonour'd all our family:
+	Unworthy brother, and unworthy sons!
+<SPEECH 23><ACT 1><SCENE 1><14%>
+	Traitors, away! he rests not in this tomb.
+	This monument five hundred years hath stood,
+	Which I have sumptuously re-edified:
+	Here none but soldiers and Rome's servitors
+	Repose in fame; none basely slain in brawls.
+	Bury him where you can; he comes not here.
+<SPEECH 24><ACT 1><SCENE 1><15%>
+	And shall! What villain was it spake that word?
+<SPEECH 25><ACT 1><SCENE 1><15%>
+	What! would you bury him in my despite?
+<SPEECH 26><ACT 1><SCENE 1><15%>
+	Marcus, even thou hast struck upon my crest,
+	And, with these boys, mine honour thou hast wounded:
+	My foes I do repute you every one;
+	So, trouble me no more, but get you gone.
+<SPEECH 27><ACT 1><SCENE 1><15%>
+	Speak thou no more, if all the rest will speed.
+<SPEECH 28><ACT 1><SCENE 1><16%>
+	Rise, Marcus, rise.
+	The dismall'st day is this that e'er I saw,
+	To be dishonour'd by my sons in Rome!
+	Well, bury him, and bury me the next.
+<SPEECH 29><ACT 1><SCENE 1><16%>
+	I know not, Marcus; but I know it is,
+	Whether by device or no, the heavens can tell.
+	Is she not, then, beholding to the man
+	That brought her for this high good turn so far?
+<SPEECH 30><ACT 1><SCENE 1><17%>
+	Prince Bassianus, leave to plead my deeds:
+	'Tis thou and those that have dishonour'd me.
+	Rome and the righteous heavens be my judge,
+	How I have lov'd and honour'd Saturnine!
+<SPEECH 31><ACT 1><SCENE 1><19%>
+	I thank your majesty, and her, my lord.
+	These words, these looks, infuse new life in me.
+<SPEECH 32><ACT 1><SCENE 1><20%>
+	To-morrow, an it please your majesty
+	To hunt the panther and the hart with me,
+	With horn and hound we'll give your Grace bon jour.
+<SPEECH 33><ACT 2><SCENE 2><25%>
+	The hunt is up, the morn is bright and grey,
+	The fields are fragrant and the woods are green.
+	Uncouple here and let us make a bay,
+	And wake the emperor and his lovely bride,
+	And rouse the prince and ring a hunter's peal,
+	That all the court may echo with the noise.
+	Sons, let it be your charge, as it is ours,
+	To attend the emperor's person carefully:
+	I have been troubled in my sleep this night,
+	But dawning day new comfort hath inspir'd.
+	Many good morrows to your majesty;
+	Madam, to you as many and as good;
+	I promised your Grace a hunter's peal.
+<SPEECH 34><ACT 2><SCENE 2><26%>
+	And I have horse will follow where the game
+	Makes way, and run like swallows o'er the plain.
+<SPEECH 35><ACT 2><SCENE 3><38%>
+	High emperor, upon my feeble knee
+	I beg this boon with tears not lightly shed;
+	That this fell fault of my accursed sons,
+	Accursed, if the fault be prov'd in them,—
+<SPEECH 36><ACT 2><SCENE 3><38%>
+	I did, my lord: yet let me be their bail;
+	For, by my father's reverend tomb, I vow
+	They shall be ready at your highness' will
+	To answer their suspicion with their lives.
+<SPEECH 37><ACT 2><SCENE 3><38%>
+	Come, Lucius, come; stay not to talk with them.
+<SPEECH 38><ACT 3><SCENE 1><41%>
+	Hear me, grave fathers! noble tribunes, stay!
+	For pity of mine age, whose youth was spent
+	In dangerous wars, whilst you securely slept;
+	For all my blood in Rome's great quarrel shed;
+	For all the frosty nights that I have watch'd;
+	And for these bitter tears, which now you see
+	Filling the aged wrinkles in my cheeks;
+	Be pitiful to my condemned sons,
+	Whose souls are not corrupted as 'tis thought.
+	For two and twenty sons I never wept,
+	Because they died in honour's lofty bed.
+	For these, these, tribunes, in the dust I write
+	My heart's deep languor and my soul's sad tears.
+	Let my tears stanch the earth's dry appetite;
+	My sons' sweet blood will make it shame and blush.
+	O earth! I will befriend thee more with rain,
+	That shall distil from these two ancient urns,
+	Than youthful April shall with all his showers:
+	In summer's drought I'll drop upon thee still;
+	In winter with warm tears I'll melt the snow,
+	And keep eternal spring-time on thy face,
+	So thou refuse to drink my dear sons' blood.
+	O reverend tribunes! O gentle, aged men!
+	Unbind my sons, reverse the doom of death:
+	And let me say, that never wept before,
+	My tears are now prevailing orators.
+<SPEECH 39><ACT 3><SCENE 1><42%>
+	Ah! Lucius, for thy brothers let me plead.
+	Grave tribunes, once more I entreat of you,—
+<SPEECH 40><ACT 3><SCENE 1><42%>
+	Why, 'tis no matter, man: if they did hear,
+	They would not mark me, or if they did mark,
+	They would not pity me, yet plead I must,
+	All bootless unto them.
+	Therefore I tell my sorrows to the stones,
+	Who, though they cannot answer my distress,
+	Yet in some sort they are better than the tribunes,
+	For that they will not intercept my tale.
+	When I do weep, they humbly at my feet
+	Receive my tears, and seem to weep with me;
+	And, were they but attired in grave weeds,
+	Rome could afford no tribune like to these.
+	A stone is soft as wax, tribunes more hard than stones;
+	A stone is silent, and offendeth not,
+	And tribunes with their tongues doom men to death.
+	But wherefore stand'st thou with thy weapon drawn?
+<SPEECH 41><ACT 3><SCENE 1><43%>
+	O happy man! they have befriended thee.
+	Why, foolish Lucius, dost thou not perceive
+	That Rome is but a wilderness of tigers?
+	Tigers must prey; and Rome affords no prey
+	But me and mine: how happy art thou then,
+	From these devourers to be banished!
+	But who comes with our brother Marcus here?
+<SPEECH 42><ACT 3><SCENE 1><43%>
+	Will it consume me? let me see it then.
+<SPEECH 43><ACT 3><SCENE 1><43%>
+	Why, Marcus, so she is.
+<SPEECH 44><ACT 3><SCENE 1><43%>
+	Faint-hearted boy, arise, and look upon her.
+	Speak, Lavinia, what accursed hand
+	Hath made thee handless in thy father's sight?
+	What fool hath added water to the sea,
+	Or brought a faggot to bright-burning Troy?
+	My grief was at the height before thou cam'st;
+	And now, like Nilus, it disdaineth bounds.
+	Give me a sword, I'll chop off my hands too;
+	For they have fought for Rome, and all in vain;
+	And they have nurs'd this woe, in feeding life;
+	In bootless prayer have they been held up,
+	And they have serv'd me to effectless use:
+	Now all the service I require of them
+	Is that the one will help to cut the other.
+	'Tis well, Lavinia, that thou hast no hands,
+	For hands, to do Rome service, are but vain.
+<SPEECH 45><ACT 3><SCENE 1><44%>
+	It was my dear; and he that wounded her
+	Hath hurt me more than had he kill'd me dead:
+	For now I stand as one upon a rock
+	Environ'd with a wilderness of sea,
+	Who marks the waxing tide grow wave by wave,
+	Expecting ever when some envious surge
+	Will in his brinish bowels swallow him.
+	This way to death my wretched sons are gone;
+	Here stands my other son, a banish'd man,
+	And here my brother, weeping at my woes:
+	But that which gives my soul the greatest spurn,
+	Is dear Lavinia, dearer than my soul.
+	Had I but seen thy picture in this plight
+	It would have madded me: what shall I do
+	Now I behold thy lively body so?
+	Thou hast no hands to wipe away thy tears,
+	Nor tongue to tell me who hath martyr'd thee:
+	Thy husband he is dead, and for his death
+	Thy brothers are condemn'd, and dead by this.
+	Look! Marcus; ah! son Lucius, look on her:
+	When I did name her brothers, then fresh tears
+	Stood on her cheeks, as doth the honey-dew
+	Upon a gather'd lily almost wither'd.
+<SPEECH 46><ACT 3><SCENE 1><45%>
+	If they did kill thy husband, then be joyful,
+	Because the law hath ta'en revenge on them.
+	No, no, they would not do so foul a deed;
+	Witness the sorrow that their sister makes.
+	Gentle Lavinia, let me kiss thy lips;
+	Or make some sign how I may do thee ease.
+	Shall thy good uncle, and thy brother Lucius,
+	And thou, and I, sit round about some fountain,
+	Looking all downwards, to behold our cheeks
+	How they are stain'd, like meadows yet not dry,
+	With miry alime left on them by a flood?
+	And in the fountain shall we gaze so long
+	Till the fresh taste be taken from that clearness,
+	And made a brine-pit with our bitter tears?
+	Or shall we cut away our hands, like thine?
+	Or shall we bite our tongues, and in dumb shows
+	Pass the remainder of our hateful days?
+	What shall we do? let us, that have our tongues,
+	Plot some device of further misery,
+	To make us wonder'd at in time to come.
+<SPEECH 47><ACT 3><SCENE 1><46%>
+	Ah! Marcus, Marcus, brother; well I wot
+	Thy napkin cannot drink a tear of mine,
+	For thou, poor man, hast drown'd it with thine own.
+<SPEECH 48><ACT 3><SCENE 1><46%>
+	Mark, Marcus, mark! I understand her signs:
+	Had she a tongue to speak, now would she say
+	That to her brother which I said to thee:
+	His napkin, with his true tears all bewet,
+	Can do no service on her sorrowful cheeks.
+	O! what a sympathy of woe is this;
+	As far from help as limbo is from bliss.
+<SPEECH 49><ACT 3><SCENE 1><47%>
+	O gracious emperor! O gentle Aaron!
+	Did ever raven sing so like a lark,
+	That gives sweet tidings of the sun's uprise?
+	With all my heart, I'll send the emperor my hand:
+	Good Aaron, wilt thou help to chop it off?
+<SPEECH 50><ACT 3><SCENE 1><48%>
+	Sirs, strive no more: such wither'd herbs as these
+	Are meet for plucking up, and therefore mine.
+<SPEECH 51><ACT 3><SCENE 1><48%>
+	Agree between you; I will spare my hand.
+<SPEECH 52><ACT 3><SCENE 1><48%>
+	Come hither, Aaron; I'll deceive them both:
+	Lend me thy hand, and I will give thee mine.
+<SPEECH 53><ACT 3><SCENE 1><48%>
+	Now stay your strife: what shall be is dispatch'd.
+	Good Aaron, give his majesty my hand:
+	Tell him it was a hand that warded him
+	From thousand dangers; bid him bury it;
+	More hath it merited; that let it have.
+	As for my sons, say I account of them
+	As jewels purchas'd at an easy price;
+	And yet dear too, because I bought mine own.
+<SPEECH 54><ACT 3><SCENE 1><49%>
+	O! here I lift this one hand up to heaven,
+	And how this feeble ruin to the earth:
+	If any power pities wretched tears,
+	To that I call! <STAGE DIR>
+	</STAGE DIR> What! wilt thou kneel with me?
+	Do, then, dear heart; for heaven shall hear our prayers,
+	Or with our sighs we'll breathe the welkin dim,
+	And stain the sun with fog, as sometime clouds
+	When they do hug him in their melting bosoms.
+<SPEECH 55><ACT 3><SCENE 1><49%>
+	Is not my sorrow deep, having no bottom?
+	Then be my passions bottomless with them.
+<SPEECH 56><ACT 3><SCENE 1><49%>
+	If there were reason for these miseries,
+	Then into limits could I bind my woes.
+	When heaven doth weep, doth not the earth o'erflow?
+	If the winds rage, doth not the sea wax mad,
+	Threat'ning the welkin with his big-swoln face?
+	And wilt thou have a reason for this coil?
+	I am the sea; hark! how her sighs do blow;
+	She is the weeping welkin, I the earth:
+	Then must my sea be moved with her sighs;
+	Then must my earth with her continual tears
+	Become a deluge, overflow'd and drown'd;
+	For why my bowels cannot hide her woes,
+	But like a drunkard must I vomit them.
+	Then give me leave, for losers will have leave
+	To ease their stomachs with their bitter tongues.
+<SPEECH 57><ACT 3><SCENE 1><51%>
+	When will this fearful slumber have an end?
+<SPEECH 58><ACT 3><SCENE 1><51%>
+	Ha, ha, ha!
+<SPEECH 59><ACT 3><SCENE 1><51%>
+	Why, I have not another tear to shed:
+	Besides, this sorrow is an enemy,
+	And would usurp upon my watery eyes,
+	And make them blind with tributary tears:
+	Then which way shall I find Revenge's cave?
+	For these two heads do seem to speak to me,
+	And threat me I shall never come to bliss
+	Till all these mischiefs be return'd again
+	Even in their throats that have committed them.
+	Come, let me see what task I have to do.
+	You heavy people, circle me about,
+	That I may turn me to each one of you,
+	And swear unto my soul to right your wrongs.
+	The vow is made. Come, brother, take a head;
+	And in this hand the other will I bear.
+	Lavinia, thou shalt be employ'd in these things:
+	Bear thou my hand, sweet wench, between thy teeth.
+	As for thee, boy, go get thee from my sight;
+	Thou art an exile, and thou must not stay:
+	Hie to the Goths, and raise an army there:
+	And if you love me, as I think you do,
+	Let's kiss and part, for we have much to do.
+<SPEECH 60><ACT 3><SCENE 2><53%>
+	So, so; now sit; and look you eat no more
+	Than will preserve just so much strength in us
+	As will revenge these bitter woes of ours.
+	Marcus, unknit that sorrow-wreathen knot:
+	Thy niece and I, poor creatures, want our hands,
+	And cannot passionate our ten-fold grief
+	With folded arms. This poor right hand of mine
+	Is left to tyrannize upon my breast;
+	And when my heart, all mad with misery,
+	Beats in this hollow prison of my flesh,
+	Then thus I thump it down.
+	</STAGE DIR> Thou map of woe, that thus dost talk in signs!
+	When thy poor heart beats with outrageous beating
+	Thou canst not strike it thus to make it still.
+	Wound it with sighing, girl, kill it with groans;
+	Or get some little knife between thy teeth,
+	And just against thy heart make thou a hole;
+	That all the tears that thy poor eyes let fall
+	May run into that sink, and, soaking in,
+	Drown the lamenting fool in sea-salt tears.
+<SPEECH 61><ACT 3><SCENE 2><53%>
+	How now! has sorrow made thee dote already?
+	Why, Marcus, no man should be mad but I.
+	What violent hands can she lay on her life?
+	Ah! wherefore dost thou urge the name of hands;
+	To bid Æaeas tell the tale twice o'er,
+	How Troy was burnt and he made miserable?
+	O! handle not the theme, to talk of hands,
+	Lest we remember still that we have none.
+	Fie, fie! how franticly I square my talk,
+	As if we should forget we had no hands,
+	If Marcus did not name the word of hands.
+	Come, let's fall to; and, gentle girl, eat this:
+	Here is no drink. Hark, Marcus, what she says;
+	I can interpret all her martyr'd signs:
+	She says she drinks no other drink but tears,
+	Brew'd with her sorrow, mash'd upon her cheeks.
+	Speechless complainer, I will learn thy thought;
+	In thy dumb action will I be as perfect
+	As begging hermits in their holy prayers:
+	Thou shalt not sigh, nor hold thy stumps to heaven,
+	Nor wink, nor nod, nor kneel, nor make a sign,
+	But I of these will wrest an alphabet,
+	And by still practice learn to know thy meaning.
+<SPEECH 62><ACT 3><SCENE 2><54%>
+	Peace, tender sapling; thou art made of tears,
+	And tears will quickly melt thy life away.
+	What dost thou strike at, Marcus, with thy knife?
+<SPEECH 63><ACT 3><SCENE 2><55%>
+	Out on thee, murderer! thou kill'st my heart;
+	Mine eyes are cloy'd with view of tyranny:
+	A deed of death, done on the innocent,
+	Becomes not Titus' brother. Get thee gone;
+	I see, thou art not for my company.
+<SPEECH 64><ACT 3><SCENE 2><55%>
+	But how if that fly had a father and a mother?
+	How would he hang his slender gilded wings
+	And buzz lamenting doings in the air!
+	Poor harmless fly,
+	That, with his pretty buzzing melody,
+	Came here to make us merry! and thou hast kill'd him.
+<SPEECH 65><ACT 3><SCENE 2><55%>
+	O, O, O!
+	Then pardon me for reprehending thee,
+	For thou hast done a charitable deed.
+	Give me thy knife, I will insult on him;
+	Flattering myself, as if it were the Moor
+	Come hither purposely to poison me.
+	There's for thyself, and that's for Tamora.
+	Ah! sirrah.
+	Yet I think we are not brought so low,
+	But that between us we can kill a fly
+	That comes in likeness of a coal-black Moor.
+<SPEECH 66><ACT 3><SCENE 2><56%>
+	Come, take away. Lavinia, go with me:
+	I'll to thy closet; and go read with thee
+	Sad stories chanced in the times of old.
+	Come, boy, and go with me: thy sight is young,
+	And thou shalt read when mine begins to dazzle.
+<SPEECH 67><ACT 4><SCENE 1><56%>
+	She loves thee, boy, too well to do thee harm.
+<SPEECH 68><ACT 4><SCENE 1><56%>
+	Fear her not, Lucius: somewhat doth she mean.
+	See, Lucius, see how much she makes of thee;
+	Somewhither would she have thee go with her.
+	Ah! boy; Cornelia never with more care
+	Read to her sons, than she hath read to thee
+	Sweet poetry and Tully's Orator.
+<SPEECH 69><ACT 4><SCENE 1><57%>
+	How now, Lavinia! Marcus, what means this?
+	Some book there is that she desires to see.
+	Which is it, girl, of these? Open them, boy.
+	But thou art deeper read, and better skill'd;
+	Come, and take choice of all my library,
+	And so beguile thy sorrow, till the heavens
+	Reveal the damn'd contriver of this deed.
+	Why lifts she up her arms in sequence thus?
+<SPEECH 70><ACT 4><SCENE 1><57%>
+	Lucius; what book is that she tosseth so?
+<SPEECH 71><ACT 4><SCENE 1><58%>
+	Soft! see how busily she turns the leaves!
+	What would she find? Lavinia, shall I read?
+	This is the tragic tale of Philomel,
+	And treats of Tereus' treason and his rape;
+	And rape, I fear, was root of thine annoy.
+<SPEECH 72><ACT 4><SCENE 1><58%>
+	Lavinia, wert thou thus surpris'd, sweet girl,
+	Ravish'd and wrong'd, as Philomela was,
+	Forc'd in the ruthless, vast, and gloomy woods?
+	See, see!
+	Ay, such a place there is, where we did hunt,—
+	O! had we never, never hunted there,—
+	Pattern'd by that the poet here describes,
+	By nature made for murders and for rapes.
+<SPEECH 73><ACT 4><SCENE 1><58%>
+	Give signs, sweet girl, for here are none but friends,
+	What Roman lord it was durst do the deed:
+	Or slunk not Saturnine, as Tarquin erst,
+	That left the camp to sin in Lucrece' bed?
+<SPEECH 74><ACT 4><SCENE 1><59%>
+	O! do you read, my lord, what she hath writ?
+	Stuprum, Chiron, Demetrius.
+<SPEECH 75><ACT 4><SCENE 1><59%>
+	Magni dominator poli,
+	Tam lentus audis scelera? tam lentus vides?
+<SPEECH 76><ACT 4><SCENE 1><60%>
+	'Tis sure enough, an you knew how;
+	But if you hunt these bear-whelps, then beware:
+	The dam will wake, an if she wind you once:
+	She's with the lion deeply still in league,
+	And lulls him whilst she playeth on her back,
+	And when he sleeps will she do what she list.
+	You're a young huntsman, Marcus; let it alone;
+	And, come, I will go get a leaf of brass,
+	And with a gad of steel will write these words,
+	And lay it by: the angry northern wind
+	Will blow these sands like Sibyl's leaves abroad,
+	And where's your lesson then? Boy, what say you?
+<SPEECH 77><ACT 4><SCENE 1><60%>
+	Come, go with me into mine armoury:
+	Lucius, I'll fit thee; and withal my boy
+	Shall carry from me to the empress' sons
+	Presents that I intend to send them both:
+	Come, come; thou'lt do thy message, wilt thou not?
+<SPEECH 78><ACT 4><SCENE 1><60%>
+	No, boy, not so; I'll teach thee another course.
+	Lavinia, come. Marcus, look to my house;
+	Lucius and I'll go brave it at the court:
+	Ay, marry, will we, sir; and we'll be waited on.
+<SPEECH 79><ACT 4><SCENE 3><69%>
+	Come, Marcus, come; kinsmen, this is the way.
+	Sir boy, now let me see your archery:
+	Look ye draw home enough, and 'tis there straight.
+	Terras Astræa reliquit:
+	Be you remember'd, Marcus, she's gone, she's fled.
+	Sirs, take you to your tools. You, cousins, shall
+	Go sound the ocean, and cast your nets;
+	Happily you may find her in the sea;
+	Yet there's as little justice as at land.
+	No; Publius and Sempronius, you must do it;
+	'Tis you must dig with mattock and with spade,
+	And pierce the inmost centre of the earth:
+	Then, when you come to Pluto's region,
+	I pray you, deliver him this petition;
+	Tell him, it is for justice and for aid,
+	And that it comes from old Andronicus,
+	Shaken with sorrows in ungrateful Rome.
+	Ah! Rome. Well, well; I made thee miserable
+	What time I threw the people's suffrages
+	On him that thus doth tyrannize o'er me.
+	Go, get you gone; and pray be careful all,
+	And leave you not a man-of-war unsearch'd:
+	This wicked emperor may have shipp'd her hence;
+	And, kinsmen, then we may go pipe for justice.
+<SPEECH 80><ACT 4><SCENE 3><70%>
+	Publius, how now! how now, my masters!
+	What! have you met with her?
+<SPEECH 81><ACT 4><SCENE 3><70%>
+	He doth me wrong to feed me with delays.
+	I'll dive into the burning lake below,
+	And pull her out of Acheron by the heels.
+	Marcus, we are but shrubs, no cedars we;
+	No big-bon'd men fram'd of the Cyclops' size;
+	But metal, Marcus, steel to the very back,
+	Yet wrung with wrongs more than our backs can bear:
+	And sith there's no justice in earth nor hell,
+	We will solicit heaven and move the gods
+	To send down Justice for to wreak our wrongs.
+	Come, to this gear. You are a good archer, Marcus.
+	Ad Javem, that's for you: here, ad Apollinem:
+	Ad Martem, that's for myself:
+	Here, boy, to Pallas: here, to Mercury:
+	To Saturn, Caius, not to Saturnine;
+	You were as good to shoot against the wind.
+	To it, boy! Marcus, loose when I bid.
+	Of my word, I have written to effect;
+	There's not a god left unsolicited.
+<SPEECH 82><ACT 4><SCENE 3><71%>
+	Now, masters, draw. <STAGE DIR>
+	</STAGE DIR> O! well said, Lucius!
+	Good boy, in Virgo's lap: give it Pallas.
+<SPEECH 83><ACT 4><SCENE 3><71%>
+	Ha! Publius, Publius, what hast thou done?
+	See, see! thou hast shot off one of Taurus' horns.
+<SPEECH 84><ACT 4><SCENE 3><71%>
+	Why, there it goes: God give his lordship joy!
+	News! news from heaven! Marcus, the post is come.
+	Sirrah, what tidings? have you any letters?
+	Shall I have justice? what says Jupiter?
+<SPEECH 85><ACT 4><SCENE 3><72%>
+	But what says Jupiter, I ask thee?
+<SPEECH 86><ACT 4><SCENE 3><72%>
+	Why, villain, art not thou the carrier?
+<SPEECH 87><ACT 4><SCENE 3><72%>
+	Why, didst thou not come from heaven?
+<SPEECH 88><ACT 4><SCENE 3><72%>
+	Tell me, can you deliver an oration to the emperor with a grace?
+<SPEECH 89><ACT 4><SCENE 3><72%>
+	Sirrah, come hither: make no more ado,
+	But give your pigeons to the emperor:
+	By me thou shalt have justice at his hands.
+	Hold, hold; meanwhile, here's money for thy charges.
+	Give me pen and ink.
+	Sirrah, can you with a grace deliver a supplication?
+<SPEECH 90><ACT 4><SCENE 3><72%>
+	Then here is a supplication for you. And when you come to him, at the first approach you must kneel; then kiss his foot; then deliver up your pigeons; and then look for your reward. I'll be at hand, sir; see you do it bravely.
+<SPEECH 91><ACT 4><SCENE 3><73%>
+	Sirrah, hast thou a knife? Come, let me see it.
+	Here, Marcus, fold it in the oration;
+	For thou hast made it like a humble suppliant:
+	And when thou hast given it to the emperor,
+	Knock at my door, and tell me what he says.
+<SPEECH 92><ACT 4><SCENE 3><73%>
+	Come, Marcus, let us go. Publius, follow me.
+<SPEECH 93><ACT 5><SCENE 2><84%>
+	Who doth molest my contemplation?
+	Is it your trick to make me ope the door,
+	That so my sad decrees may fly away,
+	And all my study be to no effect?
+	You are deceiv'd; for what I mean to do,
+	See here, in bloody lines I have set down;
+	And what is written shall be executed.
+<SPEECH 94><ACT 5><SCENE 2><84%>
+	No, not a word; how can I grace my talk,
+	Wanting a hand to give it action?
+	Thou hast the odds of me; therefore no more.
+<SPEECH 95><ACT 5><SCENE 2><85%>
+	I am not mad; I know thee well enough:
+	Witness this wretched stump, witness these crimson lines;
+	Witness these trenches made by grief and care;
+	Witness the tiring day and heavy night;
+	Witness all sorrow, that I know thee well
+	For our proud empress, mighty Tamora.
+	Is not thy coming for my other hand?
+<SPEECH 96><ACT 5><SCENE 2><85%>
+	Art thou Revenge? and art thou sent to me,
+	To be a torment to mine enemies?
+<SPEECH 97><ACT 5><SCENE 2><85%>
+	Do me some service ere I come to thee.
+	Lo, by thy side where Rape and Murder stands;
+	Now give some surance that thou art Revenge:
+	Stab them, or tear them on thy chariot-wheels,
+	And then I'll come and be thy waggoner,
+	And whirl along with thee about the globe.
+	Provide two proper palfreys, black as jet,
+	To hale thy vengeful waggon swift away,
+	And find out murderers in their guilty caves:
+	And when thy car is loaden with their heads,
+	I will dismount, and by the waggon-wheel
+	Trot like a servile footman all day long,
+	Even from Hyperion's rising in the east
+	Until his very downfall in the sea:
+	And day by day I'll do this heavy task,
+	So thou destroy Rapine and Murder there.
+<SPEECH 98><ACT 5><SCENE 2><86%>
+	Are these thy ministers? what are they call'd?
+<SPEECH 99><ACT 5><SCENE 2><86%>
+	Good Lord, how like the empress' sons they are,
+	And you the empress! but we worldly men
+	Have miserable, mad, mistaking eyes.
+	O sweet Revenge! now do I come to thee;
+	And, if one arm's embracement will content thee,
+	I will embrace thee in it by and by.
+<SPEECH 100><ACT 5><SCENE 2><87%>
+	Long have I been forlorn, and all for thee:
+	Welcome, dread Fury, to my woeful house:
+	Rapine and Murder, you are welcome too.
+	How like the empress and her sons you are!
+	Well are you fitted had you but a Moor:
+	Could not all hell afford you such a devil?
+	For well I wot the empress never wags
+	But in her company there is a Moor;
+	And would you represent our queen aright,
+	It were convenient you had such a devil.
+	But welcome as you are. What shall we do?
+<SPEECH 101><ACT 5><SCENE 2><87%>
+	Look round about the wicked streets of Rome,
+	And when thou find'st a man that's like thyself,
+	Good Murder, stab him; he's a murderer.
+	Go thou with him; and when it is thy hap
+	To find another that is like to thee,
+	Good Rapine, stab him; he's a ravisher.
+	Go thou with them; and in the emperor's court
+	There is a queen attended by a Moor;
+	Well mayst thou know her by thy own proportion,
+	For up and down she doth resemble thee:
+	I pray thee, do on them some violent death;
+	They have been violent to me and mine.
+<SPEECH 102><ACT 5><SCENE 2><88%>
+	Marcus, my brother! 'tis sad Titus calls.
+	Go, gentle Marcus, to thy nephew Lucius;
+	Thou shalt inquire him out among the Goths:
+	Bid him repair to me, and bring with him
+	Some of the chiefest princes of the Goths;
+	Bid him encamp his soldiers where they are:
+	Tell him, the emperor and the empress too
+	Feast at my house, and he shall feast with them.
+	This do thou for my love; and so let him,
+	As he regards his aged father's life.
+<SPEECH 103><ACT 5><SCENE 2><89%>
+	Nay, nay, let Rape and Murder stay with me;
+	Or else I'll call my brother back again,
+	And cleave to no revenge but Lucius.
+<SPEECH 104><ACT 5><SCENE 2><89%>
+	</STAGE DIR> I know them all, though they suppose me mad;
+	And will o'er-reach them in their own devices;
+	A pair of cursed hell-hounds and their dam.
+<SPEECH 105><ACT 5><SCENE 2><89%>
+	I know thou dost; and, sweet Revenge, farewell.
+<SPEECH 106><ACT 5><SCENE 2><89%>
+	Tut! I have work enough for you to do.
+	Publius, come hither, Caius, and Valentine!
+<SPEECH 107><ACT 5><SCENE 2><90%>
+	Know you these two?
+<SPEECH 108><ACT 5><SCENE 2><90%>
+	Fie, Publius, fie! thou art too much deceiv'd;
+	The one is Murder, Rape is the other's name;
+	And therefore bind them, gentle Publius;
+	Caius and Valentine, lay hands on them;
+	Oft have you heard me wish for such an hour,
+	And now I find it: therefore bind them sure,
+	And stop their mouths, if they begin to cry.
+<SPEECH 109><ACT 5><SCENE 2><90%>
+	Come, come, Lavinia; look, thy foes are bound.
+	Sirs, stop their mouths, let them not speak to me,
+	But let them hear what fearful words I utter.
+	O villains, Chiron and Demetrius!
+	Here stands the spring whom you have stain'd with mud,
+	This goodly summer with your winter mix'd.
+	You kill'd her husband, and for that vile fault
+	Two of her brothers were condemn'd to death,
+	My hand cut off and made a merry jest:
+	Both her sweet hands, her tongue, and that more dear
+	Than hands or tongue, her spotless chastity,
+	Inhuman traitors, you constrain'd and forc'd.
+	What would you say if I should let you speak?
+	Villains! for shame you could not beg for grace.
+	Hark, wretches! how I mean to martyr you.
+	This one hand yet is left to cut your throats,
+	Whilst that Levinia 'tween her stumps doth hold
+	The basin that receives your guilty blood.
+	You know your mother means to feast with me,
+	And calls herself Revenge, and thinks me mad.
+	Hark! villains, I will grind your bones to dust,
+	And with your blood and it I'll make a paste;
+	And of the paste a coffin I will rear,
+	And make two pasties of your shameful heads;
+	And bid that strumpet, your unhallow'd dam,
+	Like to the earth swallow her own increase.
+	This is the feast that I have bid her to,
+	And this the banquet she shall surfeit on;
+	For worse than Philomel you us'd my daughter,
+	And worse than Procne I will be reveng'd.
+	And now prepare your throats. Lavinia, come.
+	Receive the blood: and when that they are dead,
+	Let me go grind their bones to powder small,
+	And with this hateful liquor temper it;
+	And in that paste let their vile heads be bak'd.
+	Come, come, be every one officious
+	To make this banquet, which I wish may prove
+	More stern and bloody than the Centaurs' feast.
+	So, now bring them in, for I will play the cook,
+	And see them ready 'gainst their mother comes.
+<SPEECH 110><ACT 5><SCENE 3><93%>
+	Welcome, my gracious lord; welcome, dread queen;
+	Welcome, ye war-like Goths; welcome, Lucius;
+	And welcome, all. Although the cheer be poor,
+	'Twill fill your stomachs; please you eat of it.
+<SPEECH 111><ACT 5><SCENE 3><93%>
+	Because I would be sure to have all well
+	To entertain your highness, and your empress.
+<SPEECH 112><ACT 5><SCENE 3><93%>
+	An if your highness knew my heart, you were.
+	My lord the emperor, resolve me this:
+	Was it well done of rash Virginius
+	To slay his daughter with his own right hand,
+	Because she was enforced, stain'd, and deflower'd?
+<SPEECH 113><ACT 5><SCENE 3><94%>
+	Your reason, mighty lord?
+<SPEECH 114><ACT 5><SCENE 3><94%>
+	A reason mighty, strong, and effectual;
+	A pattern, precedent, and lively warrant,
+	For me most wretched, to perform the like.
+	Die, die. Lavinia, and thy shame with thee;
+	And with thy shame thy father's sorrow die!
+<SPEECH 115><ACT 5><SCENE 3><94%>
+	Kill'd her, for whom my tears have made me blind.
+	I am as woeful as Virginius was,
+	And have a thousand times more cause than he
+	To do this outrage: and it is now done.
+<SPEECH 116><ACT 5><SCENE 3><94%>
+	Will 't please you eat? will 't please your highness feed?
+<SPEECH 117><ACT 5><SCENE 3><94%>
+	Not I; 'twas Chiron and Demetrius:
+	They ravish'd her, and cut away her tongue:
+	And they, 'twas they, that did her all this wrong.
+<SPEECH 118><ACT 5><SCENE 3><94%>
+	Why, there they are both, baked in that pie;
+	Whereof their mother daintily hath fed,
+	Eating the flesh that she herself hath bred.
+	'Tis true, 'tis true; witness my knife's sharp point.

@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 1><SCENE 2><11%>
+	And keep your mind, till you return to us,
+	Peaceful and comfortable.
+<SPEECH 2><ACT 2><SCENE 2><32%>
+	He well may be a stranger, for he comes
+	To an honour'd triumph strangely furnished.
+<SPEECH 3><ACT 2><SCENE 4><38%>
+	It shall no longer grieve without reproof.
+<SPEECH 4><ACT 2><SCENE 4><39%>
+	Whose death's indeed the strongest in our censure:
+	And knowing this kingdom is without a head,
+	Like goodly buildings left without a roof
+	Soon fall to ruin, your noble self,
+	That best know'st how to rule and how to reign,
+	We thus submit unto, our sovereign.

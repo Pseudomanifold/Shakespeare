@@ -1,0 +1,159 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	A crutch, a crutch! Why call you for a sword?
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	Nurse, where's my daughter? call her forth to me.
+<SPEECH 3><ACT 1><SCENE 3><12%>
+	This is the matter. Nurse, give leave awhile.
+	We must talk in secret: nurse, come back again;
+	I have remember'd me, thou's hear our counsel.
+	Thou know'st my daughter's of a pretty age.
+<SPEECH 4><ACT 1><SCENE 3><12%>
+	She's not fourteen.
+<SPEECH 5><ACT 1><SCENE 3><13%>
+	A fortnight and odd days.
+<SPEECH 6><ACT 1><SCENE 3><14%>
+	Enough of this; I pray thee, hold thy peace.
+<SPEECH 7><ACT 1><SCENE 3><14%>
+	Marry, that 'marry' is the very theme
+	I came to talk of. Tell me, daughter Juliet,
+	How stands your disposition to be married?
+<SPEECH 8><ACT 1><SCENE 3><14%>
+	Well, think of marriage now; younger than you,
+	Here in Verona, ladies of esteem,
+	Are made already mothers: by my count,
+	I was your mother much upon these years
+	That you are now a maid. Thus then in brief,
+	The valiant Paris seeks you for his love.
+<SPEECH 9><ACT 1><SCENE 3><14%>
+	Verona's summer hath not such a flower.
+<SPEECH 10><ACT 1><SCENE 3><15%>
+	What say you? can you love the gentleman?
+	This night you shall behold him at our feast;
+	Read o'er the volume of young Paris' face
+	And find delight writ there with beauty's pen;
+	Examine every married lineament,
+	And see how one another lends content;
+	And what obscur'd in this fair volume lies
+	Find written in the margent of his eyes.
+	This precious book of love, this unbound lover,
+	To beautify him, only lacks a cover:
+	The fish lives in the sea, and 'tis much pride
+	For fair without the fair within to hide:
+	That book in many eyes doth share the glory,
+	That in gold clasps locks in the golden story:
+	So shall you share all that he doth possess,
+	By having him making yourself no less.
+<SPEECH 11><ACT 1><SCENE 3><15%>
+	Speak briefly, can you like of Paris' love?
+<SPEECH 12><ACT 1><SCENE 3><15%>
+	We follow thee. Juliet, the county stays.
+<SPEECH 13><ACT 3><SCENE 1><51%>
+	Tybalt, my cousin! O my brother's child!
+	O prince! O cousin! husband! O! the blood is spill'd
+	Of my dear kinsman. Prince, as thou art true,
+	For blood of ours shed blood of Montague.
+	O cousin, cousin!
+<SPEECH 14><ACT 3><SCENE 1><52%>
+	He is a kinsman to the Montague;
+	Affection makes him false, he speaks not true:
+	Some twenty of them fought in this black strife
+	And all those twenty could but kill one life.
+	I beg for justice, which thou, prince, must give;
+	Romeo slew Tybalt, Romeo must not live.
+<SPEECH 15><ACT 3><SCENE 4><63%>
+	I will, and know her mind early to-morrow;
+	To-night she's mew'd up to her heaviness.
+<SPEECH 16><ACT 3><SCENE 5><66%>
+	</STAGE DIR> Ho, daughter! are you up?
+<SPEECH 17><ACT 3><SCENE 5><66%>
+	Why, how now, Juliet!
+<SPEECH 18><ACT 3><SCENE 5><66%>
+	Evermore weeping for your cousin's death?
+	What! wilt thou wash him from his grave with tears?
+	And if thou couldst, thou couldst not make him live;
+	Therefore, have done: some grief shows much of love;
+	But much of grief shows still some want of wit.
+<SPEECH 19><ACT 3><SCENE 5><66%>
+	So shall you feel the loss, but not the friend
+	Which you weep for.
+<SPEECH 20><ACT 3><SCENE 5><66%>
+	Well, girl, thou weep'st not so much for his death,
+	As that the villain lives which slaughter'd him.
+<SPEECH 21><ACT 3><SCENE 5><67%>
+	That same villain, Romeo.
+<SPEECH 22><ACT 3><SCENE 5><67%>
+	That is because the traitor murderer lives.
+<SPEECH 23><ACT 3><SCENE 5><67%>
+	We will have vengeance for it, fear thou not:
+	Then weep no more. I'll send to one in Mantua,
+	Where that same banish'd runsgate doth live;
+	Shall give him such an unaccustom'd dram
+	That he shall soon keep Tybalt company:
+	And then, I hope, thou wilt be satisfied.
+<SPEECH 24><ACT 3><SCENE 5><67%>
+	Find thou the means, and I'll find such a man.
+	But now I'll tell thee joyful tidings, girl.
+<SPEECH 25><ACT 3><SCENE 5><67%>
+	Well, well, thou hast a careful father, child;
+	One who, to put thee from thy heaviness,
+	Hath sorted out a sudden day of joy
+	That thou expect'st not, nor I look'd not for.
+<SPEECH 26><ACT 3><SCENE 5><68%>
+	Marry, my child, early next Thursday morn
+	The gallant, young, and noble gentleman,
+	The County Paris, at Saint Peter's church,
+	Shall happily make thee there a joyful bride.
+<SPEECH 27><ACT 3><SCENE 5><68%>
+	Here comes your father; tell him so yourself,
+	And see how he will take it at your hands.
+<SPEECH 28><ACT 3><SCENE 5><68%>
+	Ay, sir; but she will none, she gives you thanks.
+	I would the fool were married to her grave!
+<SPEECH 29><ACT 3><SCENE 5><69%>
+	Fie, fie! what, are you mad?
+<SPEECH 30><ACT 3><SCENE 5><70%>
+	You are too hot.
+<SPEECH 31><ACT 3><SCENE 5><70%>
+	Talk not to me, for I'll not speak a word.
+	Do as thou wilt, for I have done with thee.
+<SPEECH 32><ACT 4><SCENE 2><77%>
+	No, not till Thursday; there is time enough.
+<SPEECH 33><ACT 4><SCENE 2><77%>
+	We shall be short in our provision:
+	'Tis now near night.
+<SPEECH 34><ACT 4><SCENE 3><78%>
+	What! are you busy, ho? need you my help?
+<SPEECH 35><ACT 4><SCENE 3><78%>
+	Good-night:
+	Get thee to bed, and rest; for thou hast need.
+<SPEECH 36><ACT 4><SCENE 4><80%>
+	Hold, take these keys, and fetch more spices, nurse.
+<SPEECH 37><ACT 4><SCENE 4><80%>
+	Ay, you have been a mouse-hunt in your time;
+	But I will watch you from such watching now.
+<SPEECH 38><ACT 4><SCENE 5><81%>
+	What noise is here?
+<SPEECH 39><ACT 4><SCENE 5><81%>
+	What is the matter?
+<SPEECH 40><ACT 4><SCENE 5><81%>
+	O me, O me! my child, my only life,
+	Revive, look up, or I will die with thee!
+	Help, help! Call help.
+<SPEECH 41><ACT 4><SCENE 5><82%>
+	Alack the day! she's dead, she's dead! she's dead!
+<SPEECH 42><ACT 4><SCENE 5><82%>
+	O woeful time!
+<SPEECH 43><ACT 4><SCENE 5><82%>
+	Accurs'd, unhappy, wretched, hateful-day!
+	Most miserable hour, that e'er time saw
+	In lasting labour of his pilgrimage!
+	But one, poor one, one poor and loving child,
+	But one thing to rejoice and solace in,
+	And cruel death hath catch'd it from my sight!
+<SPEECH 44><ACT 5><SCENE 3><96%>
+	The people in the street cry Romeo,
+	Some Juliet, and some Paris; and all run
+	With open outcry toward our monument.
+<SPEECH 45><ACT 5><SCENE 3><97%>
+	O me! this sight of death is as a bell,
+	That warns my old age to a sepulchre.

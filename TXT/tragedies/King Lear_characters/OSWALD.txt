@@ -1,0 +1,112 @@
+<SPEECH 1><ACT 1><SCENE 3><15%>
+	Ay, madam.
+<SPEECH 2><ACT 1><SCENE 3><15%>
+	He's coming, madam; I hear him.
+<SPEECH 3><ACT 1><SCENE 3><16%>
+	Well, madam.
+<SPEECH 4><ACT 1><SCENE 4><17%>
+	So please you,—
+<SPEECH 5><ACT 1><SCENE 4><18%>
+	My lady's father.
+<SPEECH 6><ACT 1><SCENE 4><18%>
+	I am none of these, my lord; I beseech your pardon.
+<SPEECH 7><ACT 1><SCENE 4><18%>
+	I'll not be struck, my lord.
+<SPEECH 8><ACT 1><SCENE 4><25%>
+	Ay, madam.
+<SPEECH 9><ACT 2><SCENE 2><31%>
+	Good dawning to thee, friend: art of this house?
+<SPEECH 10><ACT 2><SCENE 2><31%>
+	Where may we set our horses?
+<SPEECH 11><ACT 2><SCENE 2><31%>
+	Prithee, if thou lovest me, tell me.
+<SPEECH 12><ACT 2><SCENE 2><31%>
+	Why, then I care not for thee.
+<SPEECH 13><ACT 2><SCENE 2><31%>
+	Why dost thou use me thus? I know thee not.
+<SPEECH 14><ACT 2><SCENE 2><32%>
+	What dost thou know me for?
+<SPEECH 15><ACT 2><SCENE 2><32%>
+	Why, what a monstrous fellow art thou, thus to rail on one that is neither known of thee nor knows thee!
+<SPEECH 16><ACT 2><SCENE 2><32%>
+	Away! I have nothing to do with thee.
+<SPEECH 17><ACT 2><SCENE 2><32%>
+	Help, ho! murder! help!
+<SPEECH 18><ACT 2><SCENE 2><32%>
+	Help, oh! murder! murder!
+<SPEECH 19><ACT 2><SCENE 2><33%>
+	I am scarce in breath, my lord.
+<SPEECH 20><ACT 2><SCENE 2><33%>
+	This ancient ruffian, sir, whose life I have spar'd at suit of his grey beard,—
+<SPEECH 21><ACT 2><SCENE 2><35%>
+	I never gave him any:
+	It pleas'd the king his master very late
+	To strike at me, upon his misconstruction;
+	When he, conjunct, and flattering his displeasure,
+	Tripp'd me behind; being down, insulted, rail'd,
+	And put upon him such a deal of man,
+	That worthied him, got praises of the king
+	For him attempting who was self-subdu'd;
+	And, in the fleshment of this dread exploit,
+	Drew on me here again.
+<SPEECH 22><ACT 3><SCENE 7><62%>
+	My Lord of Gloucester hath convey'd him hence:
+	Some five or six and thirty of his knights,
+	Hot questrists after him, met him at gate;
+	Who, with some other of the lord's dependants,
+	Are gone with him toward Dover, where they boast
+	To have well-armed friends.
+<SPEECH 23><ACT 4><SCENE 2><68%>
+	Madam, within; but never man so chang'd.
+	I told him of the army that was landed;
+	He smil'd at it: I told him you were coming;
+	His answer was, 'The worse:' of Gloucester's treachery,
+	And of the loyal service of his son,
+	When I inform'd him, then he call'd me sot,
+	And told me I had turn'd the wrong side out:
+	What most he should dislike seems pleasant to him;
+	What like, offensive.
+<SPEECH 24><ACT 4><SCENE 2><69%>
+	Madam, here comes my lord.
+<SPEECH 25><ACT 4><SCENE 5><74%>
+	Ay, madam.
+<SPEECH 26><ACT 4><SCENE 5><74%>
+	Madam, with much ado:
+	Your sister is the better soldier.
+<SPEECH 27><ACT 4><SCENE 5><74%>
+	No, madam.
+<SPEECH 28><ACT 4><SCENE 5><74%>
+	I know not, lady.
+<SPEECH 29><ACT 4><SCENE 5><74%>
+	I must needs after him, madam, with my letter.
+<SPEECH 30><ACT 4><SCENE 5><74%>
+	I may not, madam;
+	My lady charg'd my duty in this business.
+<SPEECH 31><ACT 4><SCENE 5><74%>
+	Madam, I had rather—
+<SPEECH 32><ACT 4><SCENE 5><74%>
+	I, madam!
+<SPEECH 33><ACT 4><SCENE 5><75%>
+	Would I could meet him, madam: I would show
+	What party I do follow.
+<SPEECH 34><ACT 4><SCENE 6><81%>
+	A proclaim'd prize! Most happy!
+	That eyeless head of thine was first fram'd flesh
+	To raise my fortunes. Thou old unhappy traitor,
+	Briefly thyself remember: the sword in out
+	That must destroy thee.
+<SPEECH 35><ACT 4><SCENE 6><82%>
+	Wherefore, bold peasant,
+	Dar'st thou support a publish'd traitor? Hence;
+	Lest that infection of his fortune take
+	Like hold on thee. Let go his arm.
+<SPEECH 36><ACT 4><SCENE 6><82%>
+	Let go, slave, or thou diest.
+<SPEECH 37><ACT 4><SCENE 6><82%>
+	Out, dunghill!
+<SPEECH 38><ACT 4><SCENE 6><82%>
+	Slave, thou hast slain me. Villain, take my purse.
+	If ever thou wilt thrive, bury my body;
+	And give the letters which thou find'st about me
+	To Edmund Earl of Gloucester; seek him out
+	Upon the English party: O! untimely death.

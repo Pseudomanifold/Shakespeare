@@ -1,0 +1,35 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+	Ay, my good lord.
+<SPEECH 2><ACT 1><SCENE 2><6%>
+	Yes, if you will, my lord.
+<SPEECH 3><ACT 1><SCENE 2><7%>
+	No, my lord, I'll fight.
+<SPEECH 4><ACT 1><SCENE 2><9%>
+	I am like you, they say.
+<SPEECH 5><ACT 2><SCENE 1><17%>
+	No, I'll none of you.
+<SPEECH 6><ACT 2><SCENE 1><17%>
+	You'll kiss me hard and speak to me as if
+	I were a baby still. I love you better.
+<SPEECH 7><ACT 2><SCENE 1><17%>
+	Not for because
+	Your brows are blacker; yet black brows, they say,
+	Become some women best, so that there be not
+	Too much hair there, but in a semicircle,
+	Or a half-moon made with a pen.
+<SPEECH 8><ACT 2><SCENE 1><17%>
+	I learn'd it out of women's faces. Pray now,
+	What colour are your eyebrows?
+<SPEECH 9><ACT 2><SCENE 1><18%>
+	Nay, that's a mock: I have seen a lady's nose
+	That has been blue, but not her eyebrows.
+<SPEECH 10><ACT 2><SCENE 1><18%>
+	Merry or sad shall't be?
+<SPEECH 11><ACT 2><SCENE 1><18%>
+	A sad tale's best for winter.
+	I have one of sprites and goblins.
+<SPEECH 12><ACT 2><SCENE 1><18%>
+	There was a man,—
+<SPEECH 13><ACT 2><SCENE 1><18%>
+	Dwelt by a churchyard. I will tell it softly;
+	Yond crickets shall not hear it.

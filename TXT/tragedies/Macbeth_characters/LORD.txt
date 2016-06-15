@@ -1,0 +1,24 @@
+<SPEECH 1><ACT 3><SCENE 6><59%>
+	The son of Duncan,
+	From whom this tyrant holds the due of birth,
+	Lives in the English court, and is receiv'd
+	Of the most pious Edward with such grace
+	That the malevolence of fortune nothing
+	Takes from his high respect. Thither Macduff
+	Is gone to pray the holy king, upon his aid
+	To wake Northumberland and war-like Siward:
+	That, by the help of these—with him above
+	To ratify the work—we may again
+	Give to our tables meat, sleep to our nights,
+	Free from our feasts and banquets bloody knives,
+	Do faithful homage and receive free honours;
+	All which we pine for now. And this report
+	Hath so exasperate the king that he
+	Prepares for some attempt at war.
+<SPEECH 2><ACT 3><SCENE 6><60%>
+	He did: and with an absolute, 'Sir, not I,'
+	The cloudy messenger turns me his back,
+	And hums, as who should say, 'You'll rue the time
+	That clogs me with this answer.'
+<SPEECH 3><ACT 3><SCENE 6><60%>
+	I'll send my prayers with him!

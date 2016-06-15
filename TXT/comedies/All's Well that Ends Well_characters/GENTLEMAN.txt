@@ -1,0 +1,31 @@
+<SPEECH 1><ACT 5><SCENE 1><85%>
+	And you.
+<SPEECH 2><ACT 5><SCENE 1><85%>
+	I have been sometimes there.
+<SPEECH 3><ACT 5><SCENE 1><85%>
+	What's your will?
+<SPEECH 4><ACT 5><SCENE 1><85%>
+	The king's not here.
+<SPEECH 5><ACT 5><SCENE 1><85%>
+	Not, indeed:
+	He hence remov'd last night, and with more haste
+	Than is his use.
+<SPEECH 6><ACT 5><SCENE 1><85%>
+	Marry, as I take it, to Rousillon;
+	Whither I am going.
+<SPEECH 7><ACT 5><SCENE 1><86%>
+	This I'll do for you.
+<SPEECH 8><ACT 5><SCENE 3><89%>
+	I shall, my liege.
+<SPEECH 9><ACT 5><SCENE 3><92%>
+	Gracious sovereign,
+	Whether I have been to blame or no, I know not:
+	Here's a petition from a Florentine,
+	Who hath, for four or five removes come short
+	To tender it herself. I undertook it,
+	Vanquish'd thereto by the fair grace and speech
+	Of the poor suppliant, who by this I know
+	Is here attending: her business looks in her
+	With an importing visage, and she told me,
+	In a sweet verbal brief, it did concern
+	Your highness with herself.

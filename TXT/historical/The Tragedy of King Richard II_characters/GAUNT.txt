@@ -1,0 +1,220 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	I have, my liege.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	As near as I could sift him on that argument,
+	On some apparent danger seen in him
+	Aim'd at your highness, no inveterate malice.
+<SPEECH 3><ACT 1><SCENE 1><6%>
+	To be a make-peace shall become my age:
+	Throw down, my son, the Duke of Norfolk's gage.
+<SPEECH 4><ACT 1><SCENE 1><6%>
+	When, Harry, when?
+	Obedience bids I should not bid again.
+<SPEECH 5><ACT 1><SCENE 2><7%>
+	Alas! the part I had in Woodstock's blood
+	Doth more solicit me than your exclaims,
+	To stir against the butchers of his life.
+	But since correction lieth in those hands
+	Which made the fault that we cannot correct,
+	Put we our quarrel to the will of heaven;
+	Who, when they see the hours ripe on earth,
+	Will rain hot vengeance on offenders' heads.
+<SPEECH 6><ACT 1><SCENE 2><9%>
+	God's is the quarrel; for God's substitute,
+	His deputy anointed in his sight,
+	Hath caus'd his death; the which if wrongfully,
+	Let heaven revenge, for I may never lift
+	An angry arm against his minister.
+<SPEECH 7><ACT 1><SCENE 2><9%>
+	To God, the widow's champion and defence.
+<SPEECH 8><ACT 1><SCENE 2><9%>
+	Sister, farewell; I must to Coventry.
+	As much good stay with thee as go with me!
+<SPEECH 9><ACT 1><SCENE 3><13%>
+	God in thy good cause make thee prosperous!
+	Be swift like lightning in the execution;
+	And let thy blows, doubly redoubled,
+	Fall like amazing thunder on the casque
+	Of thy adverse pernicious enemy:
+	Rouse up thy youthful blood, be valiant and live.
+<SPEECH 10><ACT 1><SCENE 3><18%>
+	I thank my liege, that in regard of me
+	He shortens four years of my son's exile;
+	But little vantage shall I reap thereby:
+	For, ere the six years that he hath to spend
+	Can change their moons and bring their times about,
+	My oil-dried lamp and time-bewasted light
+	Shall be extinct with age and endless night;
+	My inch of taper will be burnt and done,
+	And blindfold death not let me see my son.
+<SPEECH 11><ACT 1><SCENE 3><18%>
+	But not a minute, king, that thou canst give:
+	Shorten my days thou canst with sullen sorrow,
+	And pluck nights from me, but not lend a morrow;
+	Thou canst help time to furrow me with age.
+	But stop no wrinkle in his pilgrimage;
+	Thy word is current with him for my death,
+	But dead, thy kingdom cannot buy my breath.
+<SPEECH 12><ACT 1><SCENE 3><19%>
+	Things sweet to taste prove in digestion sour.
+	You urg'd me as a judge; but I had rather
+	You would have bid me argue like a father.
+	O! had it been a stranger, not my child,
+	To smooth his fault I should have been more mild:
+	A partial slander sought I to avoid,
+	And in the sentence my own life destroy'd.
+	Alas! I look'd when some of you should say,
+	I was too strict to make mine own away;
+	But you gave leave to my unwilling tongue
+	Against my will to do myself this wrong.
+<SPEECH 13><ACT 1><SCENE 3><19%>
+	O! to what purpose dost thou hoard thy words,
+	That thou return'st no greeting to thy friends?
+<SPEECH 14><ACT 1><SCENE 3><19%>
+	Thy grief is but thy absence for a time.
+<SPEECH 15><ACT 1><SCENE 3><19%>
+	What is six winters? they are quickly gone.
+<SPEECH 16><ACT 1><SCENE 3><20%>
+	Call it a travel that thou tak'st for pleasure.
+<SPEECH 17><ACT 1><SCENE 3><20%>
+	The sullen passage of thy weary steps
+	Esteem as foil wherein thou art to set
+	The precious jewel of thy home return.
+<SPEECH 18><ACT 1><SCENE 3><20%>
+	All places that the eye of heaven visits
+	Are to a wise man ports and happy havens.
+	Teach thy necessity to reason thus;
+	There is no virtue like necessity.
+	Think not the king did banish thee,
+	But thou the king. Woe doth the heavier sit,
+	Where it perceives it is but faintly borne.
+	Go, say I sent thee forth to purchase honour,
+	And not the king exil'd thee; or suppose
+	Devouring pestilence hangs in our air,
+	And thou art flying to a fresher clime.
+	Look, what thy soul holds dear, imagine it
+	To lie that way thou go'st, not whence thou com'st.
+	Suppose the singing birds musicians,
+	The grass whereon thou tread'st the presence strew'd,
+	The flowers fair ladies, and thy steps no more
+	Than a delightful measure or a dance;
+	For gnarling sorrow hath less power to bite
+	The man that mocks at it and sets it light.
+<SPEECH 19><ACT 1><SCENE 3><21%>
+	Come, come, my son, I'll bring thee on thy way.
+	Had I thy youth and cause, I would not stay.
+<SPEECH 20><ACT 2><SCENE 1><24%>
+	Will the king come, that I may breathe my last
+	In wholesome counsel to his unstaid youth?
+<SPEECH 21><ACT 2><SCENE 1><24%>
+	O! but they say the tongues of dying men
+	Enforce attention like deep harmony:
+	Where words are scarce, they are seldom spent in vain,
+	For they breathe truth that breathe their words in pain.
+	He that no more must say is listen'd more
+	Than they whom youth and ease have taught to glose;
+	More are men's ends mark'd than their lives before:
+	The setting sun, and music at the close,
+	As the last taste of sweets, is sweetest last,
+	Writ in remembrance more than things long past:
+	Though Richard my life's counsel would not hear,
+	My death's sad tale may yet undeaf his ear.
+<SPEECH 22><ACT 2><SCENE 1><25%>
+	Methinks I am a prophet new inspir'd,
+	And thus expiring do foretell of him:
+	His rash fierce blaze of riot cannot last,
+	For violent fires soon burn out themselves;
+	Small showers last long, but sudden storms are short;
+	He tires betimes that spurs too fast betimes;
+	With eager feeding food doth choke the feeder:
+	Light vanity, insatiate cormorant,
+	Consuming means, soon preys upon itself.
+	This royal throne of kings, this scepter'd isle,
+	This earth of majesty, this seat of Mars,
+	This other Eden, demi-paradise,
+	This fortress built by Nature for herself
+	Against infection and the hand of war,
+	This happy breed of men, this little world,
+	This precious stone set in the silver sea,
+	Which serves it in the office of a wall,
+	Or as a moat defensive to a house,
+	Against the envy of less happier lands,
+	This blessed plot, this earth, this realm, this England,
+	This nurse, this teeming womb of royal kings,
+	Fear'd by their breed and famous by their birth,
+	Renowned for their deeds as far from home,—
+	For Christian service and true chivalry,—
+	As is the sepulchre in stubborn Jewry
+	Of the world's ransom, blessed Mary's Son:
+	This land of such dear souls, this dear, dear land,
+	Dear for her reputation through the world,
+	Is now leas'd out,—I die pronouncing it,—
+	Like to a tenement, or pelting farm:
+	England, bound in with the triumphant sea,
+	Whose rocky shore beats back the envious siege
+	Of watery Neptune, is now bound in with shame,
+	With inky blots, and rotten parchment bonds:
+	That England, that was wont to conquer others,
+	Hath made a shameful conquest of itself.
+	Ah! would the scandal vanish with my life,
+	How happy then were my ensuing death.
+<SPEECH 23><ACT 2><SCENE 1><26%>
+	O! how that name befits my composition;
+	Old Gaunt indeed, and gaunt in being old:
+	Within me grief hath kept a tedious fast;
+	And who abstains from meat that is not gaunt?
+	For sleeping England long time have I watch'd;
+	Watching breeds leanness, leanness is all gaunt.
+	The pleasure that some fathers feed upon
+	Is my strict fast, I mean my children's looks;
+	And therein fasting hast thou made me gaunt.
+	Gaunt am I for the grave, gaunt as a grave,
+	Whose hollow womb inherits nought but bones.
+<SPEECH 24><ACT 2><SCENE 1><26%>
+	No; misery makes sport to mock itself:
+	Since thou dost seek to kill my name in me,
+	I mock my name, great king, to flatter thee.
+<SPEECH 25><ACT 2><SCENE 1><27%>
+	No, no; men living flatter those that die.
+<SPEECH 26><ACT 2><SCENE 1><27%>
+	O, no! thou diest, though I the sicker be.
+<SPEECH 27><ACT 2><SCENE 1><27%>
+	Now, he that made me knows I see thee ill;
+	Ill in myself to see, and in thee seeing ill.
+	Thy death-bed is no lesser than thy land
+	Wherein thou liest in reputation sick:
+	And thou, too careless patient as thou art,
+	Committ'st thy anointed body to the cure
+	Of those physicians that first wounded thee:
+	A thousand flatterers sit within thy crown,
+	Whose compass is no bigger than thy head;
+	And yet, incaged in so small a verge,
+	The waste is no whit lesser than thy land.
+	O! had thy grandsire, with a prophet's eye,
+	Seen how his son's son should destroy his sons,
+	From forth thy reach he would have laid thy shame,
+	Deposing thee before thou wert possess'd,
+	Which art possess'd now to depose thyself.
+	Why, cousin, wert thou regent of the world,
+	It were a shame to let this land by lease;
+	But for thy world enjoying but this land,
+	Is it not more than shame to shame it so?
+	Landlord of England art thou now, not king:
+	Thy state of law is bond-slave to the law,
+	And—
+<SPEECH 28><ACT 2><SCENE 1><28%>
+	O! spare me not, my brother Edward's son,
+	For that I was his father Edward's son.
+	That blood already, like the pelican,
+	Hast thou tapp'd out and drunkenly carous'd:
+	My brother Gloucester, plain well-meaning soul,—
+	Whom fair befall in heaven 'mongst happy souls!—
+	May be a precedent and witness good
+	That thou respect'st not spilling Edward's blood:
+	Join with the present sickness that I have;
+	And thy unkindness be like crooked age,
+	To crop at once a too-long wither'd flower.
+	Live in thy shame, but die not shame with thee!
+	These words hereafter thy tormentors be!
+	Convey me to my bed, then to my grave:
+	Love they to live that love and honour have.

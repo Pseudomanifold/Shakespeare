@@ -1,0 +1,250 @@
+<SPEECH 1><ACT 1><SCENE 2><1%>
+	This is the sergeant
+	Who, like a good and hardy soldier fought
+	'Gainst my captivity. Hail, brave friend!
+	Say to the king the knowledge of the broil
+	As thou didst leave it.
+<SPEECH 2><ACT 1><SCENE 2><3%>
+	The worthy Thane of Ross.
+<SPEECH 3><ACT 1><SCENE 4><11%>
+	My liege,
+	They are not yet come back; but I have spoke
+	With one that saw him die; who did report
+	That very frankly he confess'd his treasons,
+	Implor'd your highness' pardon and set forth
+	A deep repentance. Nothing in his life
+	Became him like the leaving it; he died
+	As one that had been studied in his death
+	To throw away the dearest thing he ow'd,
+	As 'twere a careless trifle.
+<SPEECH 4><ACT 2><SCENE 3><35%>
+	O! by whom?
+<SPEECH 5><ACT 2><SCENE 3><35%>
+	</STAGE DIR> Why do we hold our tongues,
+	That most may claim this argument for ours:
+<SPEECH 6><ACT 2><SCENE 3><36%>
+	</STAGE DIR> Nor our strong sorrow
+	Upon the foot of motion.
+<SPEECH 7><ACT 2><SCENE 3><36%>
+	What will you do? Let's not consort with them:
+	To show an unfelt sorrow is an office
+	Which the false man does easy. I'll to England.
+<SPEECH 8><ACT 2><SCENE 3><37%>
+	This murderous shaft that's shot
+	Hath not yet lighted, and our safest way
+	Is to avoid the aim: therefore, to horse;
+	And let us not be dainty of leave-taking,
+	But shift away: there's warrant in that theft
+	Which steals itself when there's no mercy left.
+<SPEECH 9><ACT 4><SCENE 3><72%>
+	Let us seek out some desolate shade, and there
+	Weep our sad bosoms empty.
+<SPEECH 10><ACT 4><SCENE 3><72%>
+	What I believe I'll wail,
+	What know believe, and what I can redress,
+	As I shall find the time to friend, I will.
+	What you have spoke, it may be so perchance.
+	This tyrant, whosesole name blisters our tongues,
+	Was once thought honest: you have lov'd him well;
+	He hath not touch'd you yet. I am young; but something
+	You may deserve of him through me, and wisdom
+	To offer up a weak, poor, innocent lamb
+	To appease an angry god.
+<SPEECH 11><ACT 4><SCENE 3><72%>
+	But Macbeth is.
+	A good and virtuous nature may recoil
+	In an imperial charge. But I shall crave your pardon;
+	That which you are my thoughts cannot transpose;
+	Angels are bright still, though the brightest fell;
+	Though all things foul would wear the brows of grace,
+	Yet grace must still look so.
+<SPEECH 12><ACT 4><SCENE 3><73%>
+	Perchance even there where I did find my doubts.
+	Why in that rawness left you wife and child—
+	Those precious motives, those strong knots of love—
+	Without leave-taking? I pray you,
+	Let not my jealousies be your dishonours,
+	But mine own safeties: you may be rightly just,
+	Whatever I shall think.
+<SPEECH 13><ACT 4><SCENE 3><73%>
+	Be not offended:
+	I speak not as in absolute fear of you.
+	I think our country sinks beneath the yoke;
+	It weeps, it bleeds, and each new day a gash
+	Is added to her wounds: I think withal,
+	There would be hands uplifted in my right;
+	And here from gracious England have I offer
+	Of goodly thousands: but, for all this,
+	When I shall tread upon the tyrant's head,
+	Or wear it on my sword, yet my poor country
+	Shall have more vices than it had before,
+	More suffer, and more sundry ways than ever,
+	By him that shall succeed.
+<SPEECH 14><ACT 4><SCENE 3><74%>
+	It is myself I mean; in whom I know
+	All the particulars of vice so grafted,
+	That, when they shall be open'd, black Macbeth
+	Will seem as pure as snow, and the poor state
+	Esteem him as a lamb, being compar'd
+	With my confineless harms.
+<SPEECH 15><ACT 4><SCENE 3><74%>
+	I grant him bloody,
+	Luxurious, avaricious, false, deceitful,
+	Sudden, malicious, smacking of every sin
+	That has a name; but there's no bottom, none,
+	In my voluptuousness: your wives, your daughters,
+	Your matrons, and your maids, could not fill up
+	The cistern of my lust; and my desire
+	All continent impediments would o'erbear
+	That did oppose my will; better Macbeth
+	Than such an one to reign.
+<SPEECH 16><ACT 4><SCENE 3><75%>
+	With this there grows
+	In my most ill-compos'd affection such
+	A stanchless avarice that, were I king,
+	I should cut off the nobles for their lands,
+	Desire his jewels and this other's house;
+	And my more-having would be as a sauce
+	To make me hunger more, that I should forge
+	Quarrels unjust against the good and loyal,
+	Destroying them for wealth.
+<SPEECH 17><ACT 4><SCENE 3><76%>
+	But I have none: the king-becoming graces,
+	As justice, verity, temperance, stableness,
+	Bounty, perseverance, mercy, lowliness,
+	Devotion, patience, courage, fortitude,
+	I have no relish of them, but abound
+	In the division of each several crime,
+	Acting it many ways. Nay, had I power, I should
+	Pour the sweet milk of concord into hell,
+	Uproar the universal peace, confound
+	All unity on earth.
+<SPEECH 18><ACT 4><SCENE 3><76%>
+	If such a one be fit to govern, speak:
+	I am as I have spoken.
+<SPEECH 19><ACT 4><SCENE 3><77%>
+	Macduff, this noble passion,
+	Child of integrity, hath from my soul
+	Wip'd the black scruples, reconcil'd my thoughts
+	To thy good truth and honour. Devilish Macbeth
+	By many of these trains hath sought to win me
+	Into his power, and modest wisdom plucks me
+	From over-credulous haste; but God above
+	Deal between thee and me! for even now
+	I put myself to thy direction, and
+	Unspeak mine own detraction, here abjure
+	The taints and blames I laid upon myself,
+	For strangers to my nature. I am yet
+	Unknown to woman, never was forsworn,
+	Scarcely have coveted what was mine own;
+	At no time broke my faith, would not betray
+	The devil to his fellow, and delight
+	No less in truth than life; my first false speaking
+	Was this upon myself. What I am truly,
+	Is thine and my poor country's to command;
+	Whither indeed, before thy here-approach,
+	Old Siward, with ten thousand war-like men,
+	Already at a point, was setting forth.
+	Now we'll together, and the chance of goodness
+	Be like our warranted quarrel. Why are you silent?
+<SPEECH 20><ACT 4><SCENE 3><78%>
+	Well; more anon. Comes the king forth, I pray you?
+<SPEECH 21><ACT 4><SCENE 3><78%>
+	I thank you, doctor.
+<SPEECH 22><ACT 4><SCENE 3><78%>
+	'Tis call'd the evil:
+	A most miraculous work in this good king,
+	Which often, since my here-remain in England,
+	I have seen him do. How he solicits heaven,
+	Himself best knows; but strangely-visited people,
+	All swoln and ulcerous, pitiful to the eye,
+	The mere despair of surgery, he cures;
+	Hanging a golden stamp about their necks,
+	Put on with holy prayers; and 'tis spoken
+	To the succeeding royalty he leaves
+	The healing benediction. With this strange virtue,
+	He hath a heavenly gift of prophecy,
+	And sundry blessings hang about his throne
+	That speak him full of grace.
+<SPEECH 23><ACT 4><SCENE 3><78%>
+	My countryman; but yet I know him not.
+<SPEECH 24><ACT 4><SCENE 3><79%>
+	I know him now. Good God, betimes remove
+	The means that make us strangers!
+<SPEECH 25><ACT 4><SCENE 3><79%>
+	What's the newest grief?
+<SPEECH 26><ACT 4><SCENE 3><80%>
+	Be 't their comfort,
+	We are coming thither. Gracious England hath
+	Lent us good Siward and ten thousand men;
+	An older and a better soldier none
+	That Christendom gives out.
+<SPEECH 27><ACT 4><SCENE 3><81%>
+	Merciful heaven!
+	What! man; ne'er pull your hat upon your brows;
+	Give sorrow words; the grief that does not speak
+	Whispers the o'er-fraught heart and bids it break.
+<SPEECH 28><ACT 4><SCENE 3><81%>
+	Be comforted:
+	Let's make us medicine of our great revenge,
+	To cure this deadly grief.
+<SPEECH 29><ACT 4><SCENE 3><81%>
+	Dispute it like a man.
+<SPEECH 30><ACT 4><SCENE 3><82%>
+	Be this the whetstone of your sword: let grief
+	Convert to anger; blunt not the heart, enrage it.
+<SPEECH 31><ACT 4><SCENE 3><82%>
+	This tune goes manly.
+	Come, go we to the king; our power is ready;
+	Our lack is nothing but our leave. Macbeth
+	Is ripe for shaking, and the powers above
+	Put on their instruments. Receive what cheer you may;
+	The night is long that never finds the day.
+<SPEECH 32><ACT 5><SCENE 4><90%>
+	Cousins, I hope the days are near at hand
+	That chambers will be safe.
+<SPEECH 33><ACT 5><SCENE 4><91%>
+	Let every soldier hew him down a bough
+	And bear 't before him: thereby shall we shadow
+	The numbers of our host, and make discovery
+	Err in report of us.
+<SPEECH 34><ACT 5><SCENE 4><91%>
+	'Tis his main hope;
+	For where there is advantage to be given,
+	Both more and less have given him the revolt,
+	And none serve with him but constrained things
+	Whose hearts are absent too.
+<SPEECH 35><ACT 5><SCENE 6><94%>
+	Now near enough; your leavy screens throw down,
+	And show like those you are. You, worthy uncle,
+	Shall, with my cousin, your right-noble son,
+	Lead our first battle; worthy Macduff and we
+	Shall take upon 's what else remains to do,
+	According to our order.
+<SPEECH 36><ACT 5><SCENE 7><96%>
+	We have met with foes
+	That strike beside us.
+<SPEECH 37><ACT 5><SCENE 7><98%>
+	I would the friends we miss were safe arriv'd.
+<SPEECH 38><ACT 5><SCENE 7><98%>
+	Macduff is missing, and your noble son.
+<SPEECH 39><ACT 5><SCENE 7><99%>
+	He's worth more sorrow,
+	And that I'll spend for him.
+<SPEECH 40><ACT 5><SCENE 7><99%>
+	We shall not spend a large expense of time
+	Before we reckon with your several loves,
+	And make us even with you. My thanes and kinsmen,
+	Henceforth be earls, the first that ever Scotland
+	In such an honour nam'd. What's more to do,
+	Which would be planted newly with the time,
+	As calling home our exil'd friends abroad
+	That fled the snares of watchful tyranny;
+	Producing forth the cruel ministers
+	Of this dead butcher and his fiend-like queen,
+	Who, as 'tis thought, by self and violent hands
+	Took off her life; this, and what needful else
+	That calls upon us, by the grace of Grace
+	We will perform in measure, time, and place:
+	So, thanks to all at once and to each one,
+	Whom we invite to see us crown'd at Scone.

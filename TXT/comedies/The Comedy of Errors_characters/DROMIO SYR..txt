@@ -1,0 +1,253 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	Many a man would take you at your word,
+	And go indeed, having so good a mean.
+<SPEECH 2><ACT 2><SCENE 2><21%>
+	What answer, sir? when spake I such a word?
+<SPEECH 3><ACT 2><SCENE 2><21%>
+	I did not see you since you sent me hence,
+	Home to the Centaur, with the gold you gave me.
+<SPEECH 4><ACT 2><SCENE 2><22%>
+	I am glad to see you in this merry vein:
+	What means this jest? I pray you, master, tell me.
+<SPEECH 5><ACT 2><SCENE 2><22%>
+	Hold, sir, for God's sake! now your jest is earnest.
+	Upon what bargain do you give it me?
+<SPEECH 6><ACT 2><SCENE 2><23%>
+	Sconce, call you it? so you would leave battering, I had rather have it a head: an you use these blows long, I must get a sconce for my head and insconce it too; or else I shall seek my wit in my shoulders. But, I pray, sir, why am I beaten?
+<SPEECH 7><ACT 2><SCENE 2><23%>
+	Nothing, sir, but that I am beaten.
+<SPEECH 8><ACT 2><SCENE 2><23%>
+	Ay, sir, and wherefore; for they say every why hath a wherefore.
+<SPEECH 9><ACT 2><SCENE 2><23%>
+	Was there ever any man thus beaten out of season,
+	When, in the why and the wherefore is neither rime nor reason?
+	Well, sir, I thank you.
+<SPEECH 10><ACT 2><SCENE 2><23%>
+	Marry, sir, for this something that you gave me for nothing.
+<SPEECH 11><ACT 2><SCENE 2><24%>
+	No, sir: I think the meat wants that I have
+<SPEECH 12><ACT 2><SCENE 2><24%>
+	Basting.
+<SPEECH 13><ACT 2><SCENE 2><24%>
+	If it be, sir, I pray you eat none of it.
+<SPEECH 14><ACT 2><SCENE 2><24%>
+	Lest it make you choleric, and purchase me another dry basting.
+<SPEECH 15><ACT 2><SCENE 2><24%>
+	I durst have denied that, before you were so choleric.
+<SPEECH 16><ACT 2><SCENE 2><24%>
+	Marry, sir, by a rule as plain as the plain bald pate of Father Time himself.
+<SPEECH 17><ACT 2><SCENE 2><24%>
+	There's no time for a man to recover his hair that grows bald by nature.
+<SPEECH 18><ACT 2><SCENE 2><25%>
+	Yes, to pay a fine for a periwig and recover the lost hair of another man.
+<SPEECH 19><ACT 2><SCENE 2><25%>
+	Because it is a blessing that he bestows on beasts: and what he hath scanted men in hair, he hath given them in wit.
+<SPEECH 20><ACT 2><SCENE 2><25%>
+	Not a man of those but he hath the wit to lose his hair.
+<SPEECH 21><ACT 2><SCENE 2><25%>
+	The plainer dealer, the sooner lost: yet be loseth it in a kind of jollity.
+<SPEECH 22><ACT 2><SCENE 2><25%>
+	For two; and sound ones too.
+<SPEECH 23><ACT 2><SCENE 2><25%>
+	Sure ones then.
+<SPEECH 24><ACT 2><SCENE 2><25%>
+	Certain ones, then.
+<SPEECH 25><ACT 2><SCENE 2><26%>
+	The one, to save the money that he spends in tiring; the other, that at dinner they should not drop in his porridge.
+<SPEECH 26><ACT 2><SCENE 2><26%>
+	Marry, and did, sir; namely, no time to recover hair lost by nature.
+<SPEECH 27><ACT 2><SCENE 2><26%>
+	Thus I mend it: Time himself is bald, and therefore to the world's end will have bald followers.
+<SPEECH 28><ACT 2><SCENE 2><28%>
+	By me?
+<SPEECH 29><ACT 2><SCENE 2><29%>
+	I, sir? I never saw her till this time.
+<SPEECH 30><ACT 2><SCENE 2><29%>
+	I never spake with her in all my life.
+<SPEECH 31><ACT 2><SCENE 2><30%>
+	O, for my beads! I cross me for a sinner.
+	This is the fairy land: O! spite of spites.
+	We talk with goblins, owls, and elvish sprites:
+	If we obey them not, this will ensue,
+	They'll suck our breath, or pinch us black and blue.
+<SPEECH 32><ACT 2><SCENE 2><31%>
+	I am transformed, master, am not I?
+<SPEECH 33><ACT 2><SCENE 2><31%>
+	Nay, master, both in mind and in my shape.
+<SPEECH 34><ACT 2><SCENE 2><31%>
+	No, I am an ape.
+<SPEECH 35><ACT 2><SCENE 2><31%>
+	'Tis true; she rides me and I long for grass.
+	'Tis so, I am an ass; else it could never be
+	But I should know her as well as she knows me.
+<SPEECH 36><ACT 2><SCENE 2><32%>
+	Master, shall I be porter at the gate?
+<SPEECH 37><ACT 3><SCENE 1><34%>
+	</STAGE DIR> Mome, malt-horse, capon, coxcomb, idiot, patch!
+	Either get thee from the door or sit down at the hatch.
+	Dost thou conjure for wenches, that thou call'st for such store,
+	When one is one too many? Go, get thee from the door.
+<SPEECH 38><ACT 3><SCENE 1><35%>
+	</STAGE DIR> Let him walk from whence he came, lest he catch cold on's feet.
+<SPEECH 39><ACT 3><SCENE 1><35%>
+	</STAGE DIR> Right, sir; I'll tell you when, an you'll tell me wherefore.
+<SPEECH 40><ACT 3><SCENE 1><35%>
+	Nor to-day here you must not; come again when you may.
+<SPEECH 41><ACT 3><SCENE 1><35%>
+	</STAGE DIR> The porter for this time, sir, and my name is Dromio.
+<SPEECH 42><ACT 3><SCENE 1><36%>
+	</STAGE DIR> If thy name be call'd Luce,—Luce, thou hast answer'd him well.
+<SPEECH 43><ACT 3><SCENE 1><36%>
+	</STAGE DIR> And you said, no.
+<SPEECH 44><ACT 3><SCENE 1><37%>
+	</STAGE DIR> By my troth your town is troubled with unruly boys.
+<SPEECH 45><ACT 3><SCENE 1><38%>
+	</STAGE DIR> Break any breaking here, and I'll break your knave's pate.
+<SPEECH 46><ACT 3><SCENE 1><38%>
+	</STAGE DIR> It seems thou wantest breaking: out upon thee, hind!
+<SPEECH 47><ACT 3><SCENE 1><38%>
+	</STAGE DIR> Ay, when fowls have no feathers, and fish have no fin.
+<SPEECH 48><ACT 3><SCENE 2><45%>
+	Do you know me, sir? am I Dromio? am I your man? am I myself?
+<SPEECH 49><ACT 3><SCENE 2><45%>
+	I am an ass, I am a woman's man and besides myself.
+<SPEECH 50><ACT 3><SCENE 2><45%>
+	Marry, sir, besides myself, I am due to a woman; one that claims me, one that haunts me, one that will have me.
+<SPEECH 51><ACT 3><SCENE 2><45%>
+	Marry, sir, such claim as you would lay to your horse; and she would have me as a beast: not that, I being a beast, she would have me; but that she, being a very beastly creature, lays claim to me.
+<SPEECH 52><ACT 3><SCENE 2><46%>
+	A very reverent body; aye, such a one as a man may not speak of, without he say, 'Sir-reverence.' I have but lean luck in the match, and yet is she a wondrous fat marriage.
+<SPEECH 53><ACT 3><SCENE 2><46%>
+	Marry, sir, she's the kitchen-wench, and all grease; and I know not what use to put her to but to make a lamp of her and run from her by her own light. I warrant her rags and the tallow in them will burn a Poland winter; if she lives till doomsday, she'll burn a week longer than the whole world.
+<SPEECH 54><ACT 3><SCENE 2><46%>
+	Swart, like my shoe, but her face nothing like so clean kept: for why she sweats; a man may go over shoes in the grime of it.
+<SPEECH 55><ACT 3><SCENE 2><47%>
+	No, sir, 'tis in grain; Noah's flood could not do it.
+<SPEECH 56><ACT 3><SCENE 2><47%>
+	Nell, sir; but her name and three quarters,—that is, an ell and three quarters,—will not measure her from hip to hip.
+<SPEECH 57><ACT 3><SCENE 2><47%>
+	No longer from head to foot than from hip to hip: she is spherical, like a globe; I could find out countries in her.
+<SPEECH 58><ACT 3><SCENE 2><47%>
+	Marry, sir, in her buttocks: I found it out by the bogs.
+<SPEECH 59><ACT 3><SCENE 2><47%>
+	I found it by the barrenness; hard in the palm of the hand.
+<SPEECH 60><ACT 3><SCENE 2><47%>
+	In her forehead; armed and reverted, making war against her heir.
+<SPEECH 61><ACT 3><SCENE 2><47%>
+	I looked for the chalky cliffs, but I could find no whiteness in them: but I guess it stood in her chin, by the salt rheum that ran between France and it.
+<SPEECH 62><ACT 3><SCENE 2><48%>
+	Faith, I saw not; but I felt it hot in her breath.
+<SPEECH 63><ACT 3><SCENE 2><48%>
+	O, sir! upon her nose, all o'er embellished with rubies, carbuncles, sapphires, declining their rich aspect to the hot breath of Spain, who sent whole armadoes of caracks to be ballast at her nose.
+<SPEECH 64><ACT 3><SCENE 2><48%>
+	O, sir! I did not look so low. To conclude, this drudge, or diviner, laid claim to me; call'd me Dromio; swore I was assured to her; told me what privy marks I had about me, as the mark of my shoulder, the mole in my neck, the great wart on my left arm, that I, amazed, ran from her as a witch.
+	And, I think, if my breast had not been made of faith and my heart of steel,
+	She had transform'd me to a curtal dog and made me turn i' the wheel.
+<SPEECH 65><ACT 3><SCENE 2><49%>
+	As from a bear a man would run for life,
+	So fly I from her that would be my wife.
+<SPEECH 66><ACT 4><SCENE 1><56%>
+	Master, there is a bark of Epidamnum
+	That stays but till her owner comes aboard,
+	And then she bears away. Our fraughtage, sir,
+	I have convey'd aboard, and I have bought
+	The oil, the balsamum, and aqua-vitæ.
+	The ship is in her trim; the merry wind
+	Blows fair from land; they stay for nought at all
+	But for their owner, master, and yourself.
+<SPEECH 67><ACT 4><SCENE 1><56%>
+	A ship you sent me to, to hire waftage.
+<SPEECH 68><ACT 4><SCENE 1><56%>
+	You sent me for a rope's end as soon:
+	You sent me to the bay, sir, for a bark.
+<SPEECH 69><ACT 4><SCENE 1><57%>
+	To Adriana! that is where we din'd,
+	Where Dowsabel did claim me for her husband:
+	She is too big, I hope, for me to compass.
+	Thither I must, although against my will,
+	For servants must their masters' minds fulfil.
+<SPEECH 70><ACT 4><SCENE 2><59%>
+	Here, go: the desk! the purse! sweet, now, make haste.
+<SPEECH 71><ACT 4><SCENE 2><59%>
+	By running fast.
+<SPEECH 72><ACT 4><SCENE 2><59%>
+	No, he's in Tartar limbo, worse than hell.
+	A devil in an everlasting garment hath him,
+	One whose hard heart is button'd up with steel;
+	A fiend, a fairy, pitiless and rough;
+	A wolf, nay, worse, a fellow all in buff;
+	A back-friend, a shoulder-clapper, one that countermands
+	The passages of alleys, creeks and narrow lands;
+	A hound that runs counter and yet draws dryfoot well;
+	One that, before the judgment, carries poor souls to hell.
+<SPEECH 73><ACT 4><SCENE 2><60%>
+	I do not know the matter: he is 'rested on the case.
+<SPEECH 74><ACT 4><SCENE 2><60%>
+	I know not at whose suit he is arrested well;
+	But he's in a suit of buff which 'rested him, that can I tell.
+	Will you send him, mistress, redemption, the money in his desk?
+<SPEECH 75><ACT 4><SCENE 2><60%>
+	Not on a band, but on a stronger thing;
+	A chain, a chain. Do you not hear it ring?
+<SPEECH 76><ACT 4><SCENE 2><61%>
+	No, no, the bell: 'tis time that I were gone:
+	It was two ere I left him, and now the clock strikes one.
+<SPEECH 77><ACT 4><SCENE 2><61%>
+	O yes; if any hour meet a sergeant, a' turns back for very fear.
+<SPEECH 78><ACT 4><SCENE 2><61%>
+	Time is a very bankrupt, and owes more than he's worth to season.
+	Nay, he's a thief too: have you not heard men say,
+	That Time comes stealing on by night and day?
+	If Time be in debt and theft, and a sergeant in the way,
+	Hath he not reason to turn back an hour in a day?
+<SPEECH 79><ACT 4><SCENE 3><62%>
+	Master, here's the gold you sent me for.
+	What! have you got the picture of old Adam new apparelled?
+<SPEECH 80><ACT 4><SCENE 3><62%>
+	Not that Adam that kept the Paradise, but that Adam that keeps the prison: he that goes in the calf's skin that was killed for the Prodigal: he that came behind you, sir, like an evil angel, and bid you forsake your liberty.
+<SPEECH 81><ACT 4><SCENE 3><63%>
+	No? why, 'tis a plain case: he that went, like a base-viol, in a case of leather; the man, sir, that, when gentlemen are tired, gives them a fob, and 'rests them; he, sir, that takes pity on decayed men and gives them suits of durance; he that sets up his rest to do more exploits with his mace than a morris-pike.
+<SPEECH 82><ACT 4><SCENE 3><63%>
+	Ay, sir, the sergeant of the band; he that brings any man to answer it that breaks his band; one that thinks a man always going to bed, and says, 'God give you good rest!'
+<SPEECH 83><ACT 4><SCENE 3><64%>
+	Why, sir, I brought you word an hour since that the bark Expedition put forth to-night; and then were you hindered by the sergeant to tarry for the hoy Delay. Here are the angels that you sent for to deliver you.
+<SPEECH 84><ACT 4><SCENE 3><64%>
+	Master, is this Mistress Satan?
+<SPEECH 85><ACT 4><SCENE 3><64%>
+	Nay, she is worse, she is the devil's dam, and here she comes in the habit of a light wench: and thereof comes that the wenches say, 'God damn me;' that's as much as to say, 'God make me a light wench.' It is written, they appear to men like angels of light: light is an effect of fire, and fire will burn; ergo, light wenches will burn. Come not near her.
+<SPEECH 86><ACT 4><SCENE 3><65%>
+	Master, if you do, expect spoon-meat, so bespeak a long spoon.
+<SPEECH 87><ACT 4><SCENE 3><65%>
+	Marry, he must have a long spoon that must eat with the devil.
+<SPEECH 88><ACT 4><SCENE 3><65%>
+	Some devils ask but the parings of one's nail,
+	A rush, a hair, a drop of blood, a pin,
+	A nut, a cherry-stone;
+	But she, more covetous, would have a chain.
+	Master, be wise: an if you give it her,
+	The devil will shake her chain and fright us with it.
+<SPEECH 89><ACT 4><SCENE 3><66%>
+	'Fly pride,' says the peacock: mistress, that you know.
+<SPEECH 90><ACT 4><SCENE 4><76%>
+	She that would be your wife now ran from you.
+<SPEECH 91><ACT 4><SCENE 4><76%>
+	Faith, stay here this night, they will surely do us no harm; you saw they speak us fair, give us gold: methinks they are such a gentle nation, that, but for the mountain of mad flesh that claims marriage of me, I could find in my heart to stay here still, and turn witch.
+<SPEECH 92><ACT 5><SCENE 1><79%>
+	Run, master, run; for God's sake, take a house!
+	This is some priory: in, or we are spoil'd.
+<SPEECH 93><ACT 5><SCENE 1><95%>
+	I, sir, am Dromio: command him away.
+<SPEECH 94><ACT 5><SCENE 1><95%>
+	O! my old master; who hath bound him here?
+<SPEECH 95><ACT 5><SCENE 1><99%>
+	Master, shall I fetch your stuff from shipboard?
+<SPEECH 96><ACT 5><SCENE 1><99%>
+	Your goods that lay at host, sir, in the Centaur.
+<SPEECH 97><ACT 5><SCENE 1><99%>
+	There is a fat friend at your master's house,
+	That kitchen'd me for you to-day at dinner:
+	She now shall be my sister, not my wife.
+<SPEECH 98><ACT 5><SCENE 1><100%>
+	Not I, sir; you are my elder.
+<SPEECH 99><ACT 5><SCENE 1><100%>
+	We'll draw cuts for the senior: till then lead thou first.

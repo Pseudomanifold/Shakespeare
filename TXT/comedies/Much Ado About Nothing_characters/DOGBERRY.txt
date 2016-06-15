@@ -1,0 +1,106 @@
+<SPEECH 1><ACT 3><SCENE 3><50%>
+	Are you good men and true?
+<SPEECH 2><ACT 3><SCENE 3><50%>
+	Nay, that were a punishment too good for them, if they should have any allegiance in them, being chosen for the prince's watch.
+<SPEECH 3><ACT 3><SCENE 3><50%>
+	First, who think you the most desartless man to be constable?
+<SPEECH 4><ACT 3><SCENE 3><51%>
+	Come hither, neighbour Seacoal. God hath blessed you with a good name: to be a well-favoured man is the gift of fortune; but to write and read comes by nature.
+<SPEECH 5><ACT 3><SCENE 3><51%>
+	You have: I knew it would be your answer. Well, for your favour, sir, why, give God thanks, and make no boast of it; and for your writing and reading, let that appear when there is no need of such vanity. You are thought here to be the most senseless and fit man for the constable of the watch; therefore bear you the lanthorn. This is your charge: you shall comprehend all vagrom men; you are to bid any man stand, in the prince's name.
+<SPEECH 6><ACT 3><SCENE 3><51%>
+	Why, then, take no note of him, but let him go; and presently call the rest of the watch together, and thank God you are rid of a knave.
+<SPEECH 7><ACT 3><SCENE 3><51%>
+	True, and they are to meddle with none but the prince's subjects. You shall also make no noise in the streets: for, for the watch to babble and to talk is most tolerable and not to be endured.
+<SPEECH 8><ACT 3><SCENE 3><52%>
+	Why, you speak like an ancient and most quiet watchman, for I cannot see how sleeping should offend; only have a care that your bills be not stolen. Well, you are to call at all the alehouses, and bid those that are drunk get them to bed.
+<SPEECH 9><ACT 3><SCENE 3><52%>
+	Why then, let them alone till they are sober: if they make you not then the better answer, you may say they are not the men you took them for.
+<SPEECH 10><ACT 3><SCENE 3><52%>
+	If you meet a thief, you may suspect him, by virtue of your office, to be no true man; and, for such kind of men, the less you meddle or make with them, why, the more is for your honesty.
+<SPEECH 11><ACT 3><SCENE 3><52%>
+	Truly, by your office, you may; but I think they that touch pitch will be defiled. The most peaceable way for you, if you do take a thief, is, to let him show himself what he is and steal out of your company.
+<SPEECH 12><ACT 3><SCENE 3><52%>
+	Truly, I would not hang a dog by my will, much more a man who hath any honesty in him.
+<SPEECH 13><ACT 3><SCENE 3><53%>
+	Why, then, depart in peace, and let the child wake her with crying; for the ewe that will not hear her lamb when it baes, will never answer a calf when he bleats.
+<SPEECH 14><ACT 3><SCENE 3><53%>
+	This is the end of the charge. You constable, are to present the prince's own person: if you meet the prince in the night, you may stay him.
+<SPEECH 15><ACT 3><SCENE 3><53%>
+	Five shillings to one on't, with any man that knows the statues, he may stay him: marry, not without the prince be willing; for, indeed, the watch ought to offend no man, and it is an offence to stay a man against his will.
+<SPEECH 16><ACT 3><SCENE 3><53%>
+	Ha, ah, ha! Well, masters, good night: an there be any matter of weight chances, call up me: keep your fellows' counsels and your own, and good night. Come, neighbour.
+<SPEECH 17><ACT 3><SCENE 3><53%>
+	One word more, honest neighbours. I pray you, watch about Signior Leonato's door; for the wedding being there to-morrow, there is a great coil to-night. Adieu; be vigitant, I beseech you.
+<SPEECH 18><ACT 3><SCENE 5><60%>
+	Marry, sir, I would have some confidence with you, that decerns you nearly.
+<SPEECH 19><ACT 3><SCENE 5><60%>
+	Marry, this it is, sir.
+<SPEECH 20><ACT 3><SCENE 5><60%>
+	Goodman Verges, sir, speaks a little off the matter: an old man, sir, and his wits are not so blunt, as, God help, I would desire they were; but, in faith, honest as the skin between his brows.
+<SPEECH 21><ACT 3><SCENE 5><61%>
+	Comparisons are odorous: palabras, neighbour Verges.
+<SPEECH 22><ACT 3><SCENE 5><61%>
+	It pleases your worship to say so, but we are the poor duke's officers; but truly, for mine own part, if I were as tedious as a king, I could find in my heart to bestow it all of your worship.
+<SPEECH 23><ACT 3><SCENE 5><61%>
+	Yea, an't were a thousand pound more than 'tis; for I hear as good exclamation on your worship, as of any man in the city, and though I be but a poor man, I am glad to hear it.
+<SPEECH 24><ACT 3><SCENE 5><61%>
+	A good old man, sir; he will be talking; as they say, 'when the age is in, the wit is out.' God help us! it is a world to see! Well said, i' faith, neighbour Verges: well, God's a good man; an two men ride of a horse, one must ride behind. An honest soul, i' faith, sir; by my troth he is, as ever broke bread: but God is to be worshipped: all men are not alike; alas! good neighbour.
+<SPEECH 25><ACT 3><SCENE 5><62%>
+	Gifts that God gives.
+<SPEECH 26><ACT 3><SCENE 5><62%>
+	One word, sir: our watch, sir, hath indeed comprehended two aspicious persons, and we would have them this morning examined before your worship.
+<SPEECH 27><ACT 3><SCENE 5><62%>
+	It shall be suffigance.
+<SPEECH 28><ACT 3><SCENE 5><62%>
+	Go, good partner, go, get you to Francis Seacoal; bid him bring his pen and inkhorn to the gaol: we are now to examination these men.
+<SPEECH 29><ACT 3><SCENE 5><62%>
+	We will spare for no wit, I warrant you; here's that shall drive some of them to a non-come: only get the learned writer to set down our excommunication, and meet me at the gaol.
+<SPEECH 30><ACT 4><SCENE 2><74%>
+	Is our whole dissembly appeared?
+<SPEECH 31><ACT 4><SCENE 2><74%>
+	Marry, that am I and my partner.
+<SPEECH 32><ACT 4><SCENE 2><75%>
+	Yea, marry, let them come before me.
+	What is your name, friend?
+<SPEECH 33><ACT 4><SCENE 2><75%>
+	Pray write down Borachio. Yours, sirrah?
+<SPEECH 34><ACT 4><SCENE 2><75%>
+	Write down Master gentleman Conrade. Masters, do you serve God?
+<SPEECH 35><ACT 4><SCENE 2><75%>
+	Write down that they hope they serve God: and write God first; for God defend but God should go before such villains! Masters, it is proved already that you are little better than false knaves, and it will go near to be thought so shortly. How answer you for yourselves?
+<SPEECH 36><ACT 4><SCENE 2><75%>
+	A marvellous witty fellow, I assure you; but I will go about with him. Come you hither, sirrah; a word in your ear: sir, I say to you, it is thought you are false knaves.
+<SPEECH 37><ACT 4><SCENE 2><75%>
+	Well, stand aside. 'Fore God, they are both in a tale. Have you writ down, that they are none?
+<SPEECH 38><ACT 4><SCENE 2><75%>
+	Yea, marry, that's the eftest way. Let the watch come forth. Masters, I charge you, in the prince's name, accuse these men.
+<SPEECH 39><ACT 4><SCENE 2><76%>
+	Write down Prince John a villain.
+	Why, this is flat perjury, to call a prince's brother villain.
+<SPEECH 40><ACT 4><SCENE 2><76%>
+	Pray thee, fellow, peace: I do not like thy look, I promise thee.
+<SPEECH 41><ACT 4><SCENE 2><76%>
+	Flat burglary as ever was committed.
+<SPEECH 42><ACT 4><SCENE 2><76%>
+	O villain! thou wilt be condemned into everlasting redemption for this.
+<SPEECH 43><ACT 4><SCENE 2><77%>
+	Come, let them be opinioned.
+<SPEECH 44><ACT 4><SCENE 2><77%>
+	God's my life! where's the sexton? let him write down the prince's officer coxcomb. Come, bind them. Thou naughty varlet!
+<SPEECH 45><ACT 4><SCENE 2><77%>
+	Dost thou not suspect my place? Dost thou not suspect my years? O that he were here to write me down an ass! but, masters, remember that I am an ass; though it be not written down, yet forget not that I am an ass. No, thou villain, thou art full of piety, as shall be proved upon thee by good witness. I am a wise fellow; and, which is more, an officer; and, which is more, a householder; and, which is more, as pretty a piece of flesh as any in Messina; and one that knows the law, go to; and a rich fellow enough, go to; and a fellow that hath had losses; and one that hath two gowns, and everything handsome about him. Bring him away. O that I had been writ down an ass!
+<SPEECH 46><ACT 5><SCENE 1><85%>
+	Come, you, sir: if justice cannot tame you, she shall ne'er weigh more reasons in her balance. Nay, an you be a cursing hypocrite once, you must be looked to.
+<SPEECH 47><ACT 5><SCENE 1><85%>
+	Marry, sir, they have committed false report; moreover, they have spoken untruths; secondarily, they are slanders; sixth and lastly, they have belied a lady; thirdly, they have verified unjust things; and to conclude, they are lying knaves.
+<SPEECH 48><ACT 5><SCENE 1><87%>
+	Come, bring away the plaintiffs: by this time our sexton hath reformed Signior Leonato of the matter. And masters, do not forget to specify, when time and place shall serve, that I am an ass.
+<SPEECH 49><ACT 5><SCENE 1><89%>
+	Moreover, sir,—which, indeed, is not under white and black,—this plaintiff here, the offender, did call me ass: I beseech you, let it be remembered in his punishment. And also, the watch heard them talk of one Deformed: they say he wears a key in his ear and a lock hanging by it, and borrows money in God's name, the which he hath used so long and never paid, that now men grow hard-hearted, and will lend nothing for God's sake. Pray you, examine him upon that point.
+<SPEECH 50><ACT 5><SCENE 1><89%>
+	Your worship speaks like a most thankful and reverend youth, and I praise God for you.
+<SPEECH 51><ACT 5><SCENE 1><89%>
+	God save the foundation!
+<SPEECH 52><ACT 5><SCENE 1><89%>
+	I leave an arrant knave with your worship; which I beseech your worship to corect yourself, for the example of others. God keep your worship! I wish your worship well; God restore you to health! I humbly give you leave to depart, and if a merry meeting may be wished, God prohibit it! Come, neighbour.

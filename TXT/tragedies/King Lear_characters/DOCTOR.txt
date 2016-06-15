@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 4><SCENE 7><84%>
+	Madam, sleeps still.
+<SPEECH 2><ACT 4><SCENE 7><84%>
+	So please your majesty
+	That we may wake the king? he hath slept long.
+<SPEECH 3><ACT 4><SCENE 7><84%>
+	Be by, good madam, when we do awake him;
+	I doubt not of his temperance.
+<SPEECH 4><ACT 4><SCENE 7><84%>
+	Please you, draw near. Louder the music there.
+<SPEECH 5><ACT 4><SCENE 7><85%>
+	Madam, do you; 'tis fittest.
+<SPEECH 6><ACT 4><SCENE 7><85%>
+	He's scarce awake; let him alone awhile.
+<SPEECH 7><ACT 4><SCENE 7><86%>
+	Be comforted, good madam; the great rage,
+	You see, is kill'd in him; and yet it is danger
+	To make him even o'er the time he has lost.
+	Desire him to go in; trouble him no more
+	Till further settling.

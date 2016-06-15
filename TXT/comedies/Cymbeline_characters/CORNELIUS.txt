@@ -1,0 +1,86 @@
+<SPEECH 1><ACT 1><SCENE 5><14%>
+	Pleaseth your highness, ay; here they are, madam:
+	But I beseech your Grace, without offence,—
+	My conscience bids me ask,—wherefore you have
+	Commanded of me these most poisonous compounds,
+	Which are the movers of a languishing death,
+	But though slow, deadly?
+<SPEECH 2><ACT 1><SCENE 5><14%>
+	Your highness
+	Shall from this practice but make hard your heart;
+	Besides, the seeing these effects will be
+	Both noisome and infectious.
+<SPEECH 3><ACT 1><SCENE 5><14%>
+	</STAGE DIR> I do suspect you, madam;
+	But you shall do no harm.
+<SPEECH 4><ACT 1><SCENE 5><14%>
+	</STAGE DIR> I do not like her. She doth think she has
+	Strange lingering poisons; I do know her spirit,
+	And will not trust one of her malice with
+	A drug of such damn'd nature. Those she has
+	Will stupify and dull the sense awhile;
+	Which first, perchance, she'll prove on cats and dogs,
+	Then afterward up higher; but there is
+	No danger in what show of death it makes,
+	More than the locking-up the spirits a time,
+	To be more fresh, reviving. She is fool'd
+	With a most false effect; and I the truer,
+	So to be false with her.
+<SPEECH 5><ACT 1><SCENE 5><15%>
+	I humbly take my leave.
+<SPEECH 6><ACT 5><SCENE 5><86%>
+	Hail, great king!
+	To sour your happiness, I must report
+	The queen is dead.
+<SPEECH 7><ACT 5><SCENE 5><87%>
+	With horror, madly dying, like her life;
+	Which, being cruel to the world, concluded
+	Most cruel to herself. What she confess'd
+	I will report, so please you: these her women
+	Can trip me if I err; who with wet cheeks
+	Were present when she finish'd.
+<SPEECH 8><ACT 5><SCENE 5><87%>
+	First, she confess'd she never lov'd you, only
+	Affected greatness got by you, not you;
+	Married your royalty, was wife to your place;
+	Abhorr'd your person.
+<SPEECH 9><ACT 5><SCENE 5><87%>
+	Your daughter, whom she bore in hand to love
+	With such integrity, she did confess
+	Was as a scorpion to her sight; whose life,
+	But that her flight prevented it, she had
+	Ta'en off by poison.
+<SPEECH 10><ACT 5><SCENE 5><87%>
+	More, sir, and worse. She did confess she had
+	For you a mortal mineral; which, being took,
+	Should by the minute feed on life, and ling'ring,
+	By inches waste you; in which time she purpos'd,
+	By watching, weeping, tendance, kissing, to
+	O'ercome you with her show; yea, and in time—
+	When she had fitted you with her craft—to work
+	Her son into the adoption of the crown;
+	But failing of her end by his strange absence,
+	Grew shameless-desperate; open'd, in despite
+	Of heaven and men, her purposes; repented
+	The evils she hatch'd were not effected: so,
+	Despairing died.
+<SPEECH 11><ACT 5><SCENE 5><93%>
+	O gods!
+	I left out one thing which the queen confess'd,
+	Which must approve thee honest: 'If Pisanio
+	Have,' said she, 'given his mistress that confection
+	Which I gave him for cordial, she is serv'd
+	As I would serve a rat.'
+<SPEECH 12><ACT 5><SCENE 5><93%>
+	The queen, sir, very oft importun'd me
+	To temper poisons for her, still pretending
+	The satisfaction of her knowledge only
+	In killing creatures vile, as cats and dogs,
+	Of no esteem; I, dreading that her purpose
+	Was of more danger, did compound for her
+	A certain stuff, which, being ta'en, would cease
+	The present power of life, but in short time
+	All offices of nature should again
+	Do their due functions. Have you ta'en of it?
+<SPEECH 13><ACT 5><SCENE 5><97%>
+	By the queen's dram she swallow'd.

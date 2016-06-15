@@ -1,0 +1,44 @@
+<SPEECH 1><ACT 5><SCENE 1><86%>
+	Then she is well, and nothing can be ill;
+	Her body sleeps in Capel's monument,
+	And her immortal part with angels lives.
+	I saw her laid low in her kindred's vault,
+	And presently took post to tell it you.
+	O! pardon me for bringing these ill news,
+	Since you did leave it for my office, sir.
+<SPEECH 2><ACT 5><SCENE 1><86%>
+	I do beseech you, sir, have patience:
+	Your looks are pale and wild, and do import
+	Some misadventure.
+<SPEECH 3><ACT 5><SCENE 1><86%>
+	No, my good lord.
+<SPEECH 4><ACT 5><SCENE 3><91%>
+	I will be gone, sir, and not trouble you.
+<SPEECH 5><ACT 5><SCENE 3><91%>
+	</STAGE DIR> For all this same, I'll hide me here about:
+	His looks I fear, and his intents I doubt.
+<SPEECH 6><ACT 5><SCENE 3><94%>
+	Here's one, a friend, and one that knows you well.
+<SPEECH 7><ACT 5><SCENE 3><94%>
+	It doth so, holy sir; and there's my master,
+	One that you love.
+<SPEECH 8><ACT 5><SCENE 3><94%>
+	Romeo.
+<SPEECH 9><ACT 5><SCENE 3><94%>
+	Full half an hour.
+<SPEECH 10><ACT 5><SCENE 3><94%>
+	I dare not, sir.
+	My master knows not but I am gone hence;
+	And fearfully did menace me with death
+	If I did stay to look on his intents.
+<SPEECH 11><ACT 5><SCENE 3><94%>
+	As I did sleep under this yew-tree here,
+	I dreamt my master and another fought,
+	And that my master slew him.
+<SPEECH 12><ACT 5><SCENE 3><99%>
+	I brought my master news of Juliet's death;
+	And then in post he came from Mantua
+	To this same place, to this same monument.
+	This letter he early bid me give his father,
+	And threaten'd me with death, going in the vault,
+	If I departed not and left him there.

@@ -1,0 +1,56 @@
+<SPEECH 1><ACT 2><SCENE 1><17%>
+	Come, bring them away: if these be good people in a common-weal that do nothing but use their abuses in common houses, I know no law: bring them away.
+<SPEECH 2><ACT 2><SCENE 1><17%>
+	If it please your honour, I am the poor duke's constable, and my name is Elbow: I do lean upon justice, sir; and do bring in here before your good honour two notorious benefactors.
+<SPEECH 3><ACT 2><SCENE 1><17%>
+	If it please your honour, I know not well what they are; but precise villains they are, that I am sure of, and void of all profanation in the world that good Christians ought to have.
+<SPEECH 4><ACT 2><SCENE 1><17%>
+	He, sir! a tapster, sir; parcel-bawd; one that serves a bad woman, whose house, sir, was, as they say, plucked down in the suburbs; and now she professes a hot-house, which, I think, is a very ill house too.
+<SPEECH 5><ACT 2><SCENE 1><18%>
+	My wife, sir, whom I detest before heaven and your honour,—
+<SPEECH 6><ACT 2><SCENE 1><18%>
+	Ay, sir; whom, I thank heaven, is an honest woman,—
+<SPEECH 7><ACT 2><SCENE 1><18%>
+	I say, sir, I will detest myself also, as well as she, that this house, if it be not a bawd's house, it is pity of her life, for it is a naughty house.
+<SPEECH 8><ACT 2><SCENE 1><18%>
+	Marry, sir, by my wife; who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there.
+<SPEECH 9><ACT 2><SCENE 1><18%>
+	Ay, sir, by Mistress Overdone's means; but as she spit in his face, so she defied him.
+<SPEECH 10><ACT 2><SCENE 1><18%>
+	Prove it before these varlets here, thou honourable man, prove it.
+<SPEECH 11><ACT 2><SCENE 1><20%>
+	I beseech you, sir, ask him what this man did to my wife.
+<SPEECH 12><ACT 2><SCENE 1><21%>
+	First, an' it like you, the house is a respected house; next, this is a respected fellow, and his mistress is a respected woman.
+<SPEECH 13><ACT 2><SCENE 1><21%>
+	Varlet, thou liest: thou liest, wicked varlet. The time is yet to come that she was ever respected with man, woman, or child.
+<SPEECH 14><ACT 2><SCENE 1><21%>
+	O thou caitiff! O thou varlet! O thou wicked Hannibal! I respected with her before I was married to her? If ever I was respected with her, or she with me, let not your worship think me the poor duke's officer. Prove this, thou wicked Hannibal, or I'll have mine action of battery on thee.
+<SPEECH 15><ACT 2><SCENE 1><21%>
+	Marry, I thank your good worship for it. What is't your worship's pleasure I shall do with this wicked caitiff?
+<SPEECH 16><ACT 2><SCENE 1><22%>
+	Marry, I thank your worship for it. Thou seest, thou wicked varlet, now, what's come upon thee: thou art to continue now, thou varlet, thou art to continue.
+<SPEECH 17><ACT 2><SCENE 1><24%>
+	Seven year and a half, sir.
+<SPEECH 18><ACT 2><SCENE 1><24%>
+	And a half, sir.
+<SPEECH 19><ACT 2><SCENE 1><24%>
+	Faith, sir, few of any wit in such matters. As they are chosen, they are glad to choose me for them: I do it for some piece of money, and go through with all.
+<SPEECH 20><ACT 2><SCENE 1><25%>
+	To your worship's house, sir?
+<SPEECH 21><ACT 3><SCENE 2><51%>
+	Nay, if there be no remedy for it, but that you will needs buy and sell men and women like beasts, we shall have all the world drink brown and white bastard.
+<SPEECH 22><ACT 3><SCENE 2><51%>
+	Come your way, sir. Bless you, good father friar.
+<SPEECH 23><ACT 3><SCENE 2><51%>
+	Marry, sir, he hath offended the law: and, sir, we take him to be a thief too, sir; for we have found upon him, sir, a strange picklock, which we have sent to the deputy.
+<SPEECH 24><ACT 3><SCENE 2><52%>
+	He must before the deputy, sir; he has given him warning. The deputy cannot abide a whoremaster: if he be a whoremonger, and comes before him, he were as good go a mile on his errand.
+<SPEECH 25><ACT 3><SCENE 2><52%>
+	His neck will come to your waist,—a cord, sir.
+<SPEECH 26><ACT 3><SCENE 2><53%>
+	For being a bawd, for being a bawd.
+<SPEECH 27><ACT 3><SCENE 2><53%>
+	Come your ways, sir; come.
+<SPEECH 28><ACT 3><SCENE 2><53%>
+	Come your ways, sir; come.

@@ -1,0 +1,89 @@
+<SPEECH 1><ACT 4><SCENE 2><64%>
+	We were never so much out of creatures. We have but poor three, and they can do no more than they can do; and they with continual action are even as good as rotten.
+<SPEECH 2><ACT 4><SCENE 2><64%>
+	Thou sayst true; 'tis not the bringing up of poor bastards, as, I think, I have brought up some eleven—
+<SPEECH 3><ACT 4><SCENE 2><64%>
+	What else, man? The stuff we have a strong wind will blow it to pieces, they are so pitifully sodden.
+<SPEECH 4><ACT 4><SCENE 2><64%>
+	Why to give over, I pray you? is it a shame to get when we are old?
+<SPEECH 5><ACT 4><SCENE 2><65%>
+	Come, other sorts offend as well as we.
+<SPEECH 6><ACT 4><SCENE 2><65%>
+	Boult, has she any qualities?
+<SPEECH 7><ACT 4><SCENE 2><65%>
+	What's her price, Boult?
+<SPEECH 8><ACT 4><SCENE 2><66%>
+	Boult, take you the marks of her, the colour of her hair, complexion, height, age, with warrant of her virginity; and cry, 'He that will give most, shall have her first.' Such a maiden-head were no cheap thing, if men were as they have been. Get this done as I command you.
+<SPEECH 9><ACT 4><SCENE 2><66%>
+	Why lament you, pretty one?
+<SPEECH 10><ACT 4><SCENE 2><66%>
+	Come, the gods have done their part in you.
+<SPEECH 11><ACT 4><SCENE 2><66%>
+	You are lit into my hands, where you are like to live.
+<SPEECH 12><ACT 4><SCENE 2><66%>
+	Ay, and you shall live in pleasure.
+<SPEECH 13><ACT 4><SCENE 2><66%>
+	Yes, indeed, shall you, and taste gentlemen of all fashions. You shall fare well; you shall have the difference of all complexions. What! do you stop your ears?
+<SPEECH 14><ACT 4><SCENE 2><67%>
+	What would you have me be, an I be not a woman?
+<SPEECH 15><ACT 4><SCENE 2><67%>
+	Marry, whip thee, gosling; I think I shall have something to do with you. Come, you are a young foolish sapling, and must be bowed as I would have you.
+<SPEECH 16><ACT 4><SCENE 2><67%>
+	If it please the gods to defend you by men, then men must comfort you, men must feed you, men must stir you up. Boult's returned.
+	Now, sir, hast thou cried her through the market?
+<SPEECH 17><ACT 4><SCENE 2><67%>
+	And I prithee, tell me, how dost thou find the inclination of the people, especially of the younger sort?
+<SPEECH 18><ACT 4><SCENE 2><67%>
+	We shall have him here to-morrow with his best ruff on.
+<SPEECH 19><ACT 4><SCENE 2><68%>
+	Who? Monsieur Veroles?
+<SPEECH 20><ACT 4><SCENE 2><68%>
+	Well, well; as for him, he brought his disease hither: here he does but repair it. I know he will come in our shadow, to scatter his crowns in the sun.
+<SPEECH 21><ACT 4><SCENE 2><68%>
+	</STAGE DIR> Pray you, come hither awhile. You have fortunes coming upon you. Mark me: you must seem to do that fearfully, which you commit willingly; to despise profit where you have most gain. To weep that you live as ye do makes pity in your lovers; seldom but that pity begets you a good opinion, and that opinion a mere profit.
+<SPEECH 22><ACT 4><SCENE 2><68%>
+	Thou sayst true, i' faith, so they must; for your bride goes to that with shame which is her way to go with warrant.
+<SPEECH 23><ACT 4><SCENE 2><69%>
+	Thou mayst cut a morsel off the spit.
+<SPEECH 24><ACT 4><SCENE 2><69%>
+	Who should deny it? Come, young one, I like the manner of your garments well.
+<SPEECH 25><ACT 4><SCENE 2><69%>
+	Boult, spend thou that in the town; report what a sojourner we have; you'll lose nothing by custom. When nature framed this piece, she meant thee a good turn; therefore say what a paragon she is, and thou hast the harvest out of thine own report.
+<SPEECH 26><ACT 4><SCENE 2><69%>
+	Come your ways; follow me.
+<SPEECH 27><ACT 4><SCENE 2><69%>
+	What have we to do with Diana?
+	Pray you, will you go with us?
+<SPEECH 28><ACT 4><SCENE 6><75%>
+	Fie, fie upon her! she is able to freeze the god Priapus, and undo a whole generation; we must either get her ravished, or be rid of her. When she should do for clients her fitment, and do me the kindness of our profession, she has me her quirks, her reasons, her master-reasons, her prayers, her knees; that she would make a puritan of the devil if he should cheapen a kiss of her.
+<SPEECH 29><ACT 4><SCENE 6><75%>
+	Faith, there's no way to be rid on 't but by the way to the pox. Here comes the Lord Lysimachus, disguised.
+<SPEECH 30><ACT 4><SCENE 6><75%>
+	Now, the gods to-bless your honour!
+<SPEECH 31><ACT 4><SCENE 6><76%>
+	We have here one, sir, if she would—but there never came her like in Mitylene.
+<SPEECH 32><ACT 4><SCENE 6><76%>
+	Your honour knows what 'tis to say well enough.
+<SPEECH 33><ACT 4><SCENE 6><76%>
+	Here comes that which grows to the stalk; never plucked yet, I can assure you.—
+	Is she not a fair creature?
+<SPEECH 34><ACT 4><SCENE 6><76%>
+	I beseech your honour, give me leave; a word, and I'll have done presently.
+<SPEECH 35><ACT 4><SCENE 6><76%>
+	</STAGE DIR> First, I would have you note, this is an honourable man.
+<SPEECH 36><ACT 4><SCENE 6><77%>
+	Next, he's the governor of this country, and a man whom I am bound to.
+<SPEECH 37><ACT 4><SCENE 6><77%>
+	Pray you, without any more virginal fencing, will you use him kindly? He will line your apron with gold.
+<SPEECH 38><ACT 4><SCENE 6><77%>
+	My lord, she's not paced yet; you must take some pains to work her to your manage. Come, we will leave his honour and her together.
+<SPEECH 39><ACT 4><SCENE 6><80%>
+	How now! what's the matter?
+<SPEECH 40><ACT 4><SCENE 6><80%>
+	O! abominable.
+<SPEECH 41><ACT 4><SCENE 6><80%>
+	Marry, hang her up for ever!
+<SPEECH 42><ACT 4><SCENE 6><80%>
+	Boult, take her away; use her at thy pleasure; crack the glass of her virginity, and make the rest malleable.
+<SPEECH 43><ACT 4><SCENE 6><80%>
+	She conjures; away with her! Would she had never come within my doors! Marry, hang you! She's born to undo us. Will you not go the way of women-kind? Marry, come up, my dish of chastity with rosemary and bays!

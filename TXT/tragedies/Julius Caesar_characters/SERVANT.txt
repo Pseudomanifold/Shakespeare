@@ -1,0 +1,41 @@
+<SPEECH 1><ACT 2><SCENE 2><35%>
+	My lord!
+<SPEECH 2><ACT 2><SCENE 2><36%>
+	I will, my lord.
+<SPEECH 3><ACT 2><SCENE 2><37%>
+	They would not have you to stir forth to-day.
+	Plucking the entrails of an offering forth,
+	They could not find a heart within the beast.
+<SPEECH 4><ACT 3><SCENE 1><49%>
+	Thus, Brutus, did my master bid me kneel;
+	Thus did Mark Antony bid me fall down;
+	And, being prostrate, thus he bade me say:
+	Brutus is noble, wise, valiant, and honest;
+	Cæsar was mighty, bold, royal, and loving:
+	Say I love Brutus, and I honour him;
+	Say I fear'd Cæsar, honour'd him, and lov'd him.
+	If Brutus will vouchsafe that Antony
+	May safely come to him, and be resolv'd
+	How Cæsar hath deserv'd to lie in death,
+	Mark Antony shall not love Cæsar dead
+	So well as Brutus living; but will follow
+	The fortunes and affairs of noble Brutus
+	Thorough the hazards of this untrod state
+	With all true faith. So says my master Antony.
+<SPEECH 5><ACT 3><SCENE 1><49%>
+	I'll fetch him presently.
+<SPEECH 6><ACT 3><SCENE 1><54%>
+	I do, Mark Antony.
+<SPEECH 7><ACT 3><SCENE 1><54%>
+	He did receive his letters, and is coming;
+	And bid me say to you by word of mouth—
+	O Cæsar!—
+<SPEECH 8><ACT 3><SCENE 1><55%>
+	He lies to-night within seven leagues of Rome.
+<SPEECH 9><ACT 3><SCENE 2><66%>
+	Sir, Octavius is already come to Rome.
+<SPEECH 10><ACT 3><SCENE 2><66%>
+	He and Lepidus are at Cæsar's house.
+<SPEECH 11><ACT 3><SCENE 2><66%>
+	I heard him say Brutus and Cassius
+	Are rid like madmen through the gates of Rome.

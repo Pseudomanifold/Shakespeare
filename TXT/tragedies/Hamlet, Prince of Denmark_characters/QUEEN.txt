@@ -1,0 +1,226 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	Good Hamlet, cast thy nighted colour off,
+	And let thine eye look like a friend on Denmark.
+	Do not for ever with thy vailed lids
+	Seek for thy noble father in the dust:
+	Thou know'st 'tis common; all that live must die,
+	Passing through nature to eternity.
+<SPEECH 2><ACT 1><SCENE 2><7%>
+	If it be,
+	Why seems it so particular with thee?
+<SPEECH 3><ACT 1><SCENE 2><8%>
+	Let not thy mother lose her prayers, Hamlet:
+	I pray thee, stay with us; go not to Wittenberg.
+<SPEECH 4><ACT 2><SCENE 2><26%>
+	Good gentlemen, he hath much talk'd of you;
+	And sure I am two men there are not living
+	To whom he more adheres. If it will please you
+	To show us so much gentry and good will
+	As to expend your time with us awhile,
+	For the supply and profit of our hope,
+	Your visitation shall receive such thanks
+	As fits a king's remembrance.
+<SPEECH 5><ACT 2><SCENE 2><26%>
+	Thanks, Guildenstern and gentle Rosencrantz;
+	And I beseech you instantly to visit
+	My too much changed son. Go, some of you,
+	And bring these gentlemen where Hamlet is.
+<SPEECH 6><ACT 2><SCENE 2><26%>
+	Ay, amen!
+<SPEECH 7><ACT 2><SCENE 2><27%>
+	I doubt it is no-other but the main;
+	His father's death, and our o'erhasty marriage.
+<SPEECH 8><ACT 2><SCENE 2><28%>
+	More matter, with less art.
+<SPEECH 9><ACT 2><SCENE 2><28%>
+	Came this from Hamlet to her?
+<SPEECH 10><ACT 2><SCENE 2><29%>
+	It may be, very likely.
+<SPEECH 11><ACT 2><SCENE 2><29%>
+	So he does indeed.
+<SPEECH 12><ACT 2><SCENE 2><30%>
+	But look, where sadly the poor wretch comes reading.
+<SPEECH 13><ACT 3><SCENE 1><41%>
+	Did he receive you well?
+<SPEECH 14><ACT 3><SCENE 1><41%>
+	Did you assay him
+	To any pastime?
+<SPEECH 15><ACT 3><SCENE 1><42%>
+	I shall obey you.
+	And for your part, Ophelia, I do wish
+	That your good beauties be the happy cause
+	Of Hamlet's wildness; so shall I hope your virtues
+	Will bring him to his wonted way again,
+	To both your honours.
+<SPEECH 16><ACT 3><SCENE 2><48%>
+	Come hither, my good Hamlet, sit by me.
+<SPEECH 17><ACT 3><SCENE 2><52%>
+	The lady doth protest too much, methinks.
+<SPEECH 18><ACT 3><SCENE 2><53%>
+	How fares my lord?
+<SPEECH 19><ACT 3><SCENE 4><59%>
+	I'll warrant you;
+	Fear me not. Withdraw, I hear him coming.
+<SPEECH 20><ACT 3><SCENE 4><59%>
+	Hamlet, thou hast thy father much offended.
+<SPEECH 21><ACT 3><SCENE 4><59%>
+	Come, come, you answer with an idle tongue.
+<SPEECH 22><ACT 3><SCENE 4><59%>
+	Why, how now, Hamlet!
+<SPEECH 23><ACT 3><SCENE 4><59%>
+	Have you forgot me?
+<SPEECH 24><ACT 3><SCENE 4><59%>
+	Nay then, I'll set those to you that can speak.
+<SPEECH 25><ACT 3><SCENE 4><59%>
+	What wilt thou do? thou wilt not murder me?
+	Help, help, ho!
+<SPEECH 26><ACT 3><SCENE 4><59%>
+	O me! what hast thou done?
+<SPEECH 27><ACT 3><SCENE 4><59%>
+	O! what a rash and bloody deed is this!
+<SPEECH 28><ACT 3><SCENE 4><59%>
+	As kill a king!
+<SPEECH 29><ACT 3><SCENE 4><60%>
+	What have I done that thou dar'st wag thy tongue
+	In noise so rude against me?
+<SPEECH 30><ACT 3><SCENE 4><60%>
+	Ay me! what act,
+	That roars so loud and thunders in the index?
+<SPEECH 31><ACT 3><SCENE 4><61%>
+	O Hamlet! speak no more;
+	Thou turn'st mine eyes into my very soul;
+	And there I see such black and grained spots
+	As will not leave their tinct.
+<SPEECH 32><ACT 3><SCENE 4><61%>
+	O! speak to me no more;
+	These words like daggers enter in mine ears;
+	No more, sweet Hamlet!
+<SPEECH 33><ACT 3><SCENE 4><61%>
+	No more!
+<SPEECH 34><ACT 3><SCENE 4><61%>
+	Alas! he's mad!
+<SPEECH 35><ACT 3><SCENE 4><62%>
+	Alas! how is't with you,
+	That you do bend your eye on vacancy
+	And with the incorporal air do hold discourse?
+	Forth at your eyes your spirits wildly peep;
+	And, as the sleeping soldiers in the alarm,
+	Your bedded hair, like life in excrements,
+	Starts up and stands an end. O gentle son!
+	Upon the heat and flame of thy distemper
+	Sprinkle cool patience. Whereon do you look?
+<SPEECH 36><ACT 3><SCENE 4><62%>
+	To whom do you speak this?
+<SPEECH 37><ACT 3><SCENE 4><62%>
+	Nothing at all; yet all that is I see.
+<SPEECH 38><ACT 3><SCENE 4><62%>
+	No, nothing but ourselves.
+<SPEECH 39><ACT 3><SCENE 4><62%>
+	This is the very coinage of your brain:
+	This bodiless creation ecstasy
+	Is very cunning in.
+<SPEECH 40><ACT 3><SCENE 4><63%>
+	O Hamlet! thou hast cleft my heart in twain.
+<SPEECH 41><ACT 3><SCENE 4><63%>
+	What shall I do?
+<SPEECH 42><ACT 3><SCENE 4><64%>
+	Be thou assur'd, if words be made of breath,
+	And breath of life, I have no life to breathe
+	What thou hast said to me.
+<SPEECH 43><ACT 3><SCENE 4><64%>
+	Alack!
+	I had forgot: 'tis so concluded on.
+<SPEECH 44><ACT 4><SCENE 1><64%>
+	</STAGE DIR> Bestow this place on us a little while.
+	Ah! my good lord, what have I seen to-night.
+<SPEECH 45><ACT 4><SCENE 1><65%>
+	Mad as the sea and wind, when both contend
+	Which is the mightier. In his lawless fit,
+	Behind the arras hearing something stir,
+	Whips out his rapier, cries, 'A rat! a rat!'
+	And, in his brainish apprehension, kills
+	The unseen good old man.
+<SPEECH 46><ACT 4><SCENE 1><65%>
+	To draw apart the body he hath kill'd;
+	O'er whom his very madness, like some ore
+	Among a mineral of metals base,
+	Shows itself pure: he weeps for what is done.
+<SPEECH 47><ACT 4><SCENE 5><70%>
+	I will not speak with her.
+<SPEECH 48><ACT 4><SCENE 5><70%>
+	What would she have?
+<SPEECH 49><ACT 4><SCENE 5><71%>
+	Let her come in.
+	To my sick soul, as sin's true nature is,
+	Each toy seems prologue to some great amiss:
+	So full of artless jealousy is guilt,
+	It spills itself in fearing to be spilt.
+<SPEECH 50><ACT 4><SCENE 5><71%>
+	How now, Ophelia!
+<SPEECH 51><ACT 4><SCENE 5><71%>
+	Alas! sweet lady, what imports this song?
+<SPEECH 52><ACT 4><SCENE 5><71%>
+	Nay, but Ophelia,—
+<SPEECH 53><ACT 4><SCENE 5><71%>
+	Alas! look here, my lord.
+<SPEECH 54><ACT 4><SCENE 5><72%>
+	Alack! what noise is this?
+<SPEECH 55><ACT 4><SCENE 5><73%>
+	How cheerfully on the false trail they cry!
+	O! this is counter, you false Danish dogs!
+<SPEECH 56><ACT 4><SCENE 5><73%>
+	Calmly, good Laertes.
+<SPEECH 57><ACT 4><SCENE 5><73%>
+	But not by him.
+<SPEECH 58><ACT 4><SCENE 7><81%>
+	One woe doth tread upon another's heel,
+	So fast they follow: your sister's drown'd, Laertes.
+<SPEECH 59><ACT 4><SCENE 7><81%>
+	There is a willow grows aslant a brook,
+	That shows his hoar leaves in the glassy stream;
+	There with fantastic garlands did she come,
+	Of crow-flowers, nettles, daisies, and long purples,
+	That liberal shepherds give a grosser name,
+	But our cold maids do dead men's fingers call them:
+	There, on the pendent boughs her coronet weeds
+	Clambering to hang, an envious sliver broke,
+	When down her weedy trophies and herself
+	Fell in the weeping brook. Her clothes spread wide,
+	And, mermaid-like, awhile they bore her up;
+	Which time she chanted snatches of old tunes,
+	As one incapable of her own distress,
+	Or like a creature native and indu'd
+	Unto that element; but long it could not be
+	Till that her garments, heavy with their drink,
+	Pull'd the poor wretch from her melodious lay
+	To muddy death.
+<SPEECH 60><ACT 4><SCENE 7><81%>
+	Drown'd, drown'd.
+<SPEECH 61><ACT 5><SCENE 1><88%>
+	Sweets to the sweet: farewell!
+	I hop'd thou shouldst have been my Hamlet's wife;
+	I thought thy bride-bed to have deck'd, sweet maid,
+	And not have strew'd thy grave.
+<SPEECH 62><ACT 5><SCENE 1><88%>
+	Hamlet! Hamlet!
+<SPEECH 63><ACT 5><SCENE 1><88%>
+	O my son! what theme?
+<SPEECH 64><ACT 5><SCENE 1><89%>
+	For love of God, forbear him.
+<SPEECH 65><ACT 5><SCENE 1><89%>
+	This is mere madness:
+	And thus a while the fit will work on him;
+	Anon, as patient as the female dove,
+	When that her golden couplets are disclos'd,
+	His silence will sit drooping.
+<SPEECH 66><ACT 5><SCENE 2><97%>
+	He's fat, and scant of breath.
+	Here, Hamlet, take my napkin, rub thy brows;
+	The queen carouses to thy fortune, Hamlet.
+<SPEECH 67><ACT 5><SCENE 2><97%>
+	I will, my lord; I pray you, pardon me.
+<SPEECH 68><ACT 5><SCENE 2><97%>
+	Come, let me wipe thy face.
+<SPEECH 69><ACT 5><SCENE 2><97%>
+	No, no, the drink, the drink,—O my dear Hamlet!
+	The drink, the drink; I am poison'd.

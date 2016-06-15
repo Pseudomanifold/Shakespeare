@@ -1,0 +1,29 @@
+<SPEECH 1><ACT 4><SCENE 2><63%>
+	Good morrow, lords. O! tell me, did you see
+	Aaron the Moor?
+<SPEECH 2><ACT 4><SCENE 2><63%>
+	O gentle Aaron! we are all undone.
+	Now help, or woe betide thee evermore!
+<SPEECH 3><ACT 4><SCENE 2><64%>
+	O! that which I would hide from heaven's eye,
+	Our empress' shame, and stately Rome's disgrace!
+	She is deliver'd, lords, she is deliver'd.
+<SPEECH 4><ACT 4><SCENE 2><64%>
+	I mean, she's brought a-bed.
+<SPEECH 5><ACT 4><SCENE 2><64%>
+	A devil.
+<SPEECH 6><ACT 4><SCENE 2><64%>
+	A joyless, dismal, black, and sorrowful issue.
+	Here is the babe, as loathsome as a toad
+	Amongst the fairest breeders of our clime.
+	The empress sends it thee, thy stamp, thy seal,
+	And bids thee christen it with thy dagger's point.
+<SPEECH 7><ACT 4><SCENE 2><64%>
+	Aaron, it must; the mother wills it so.
+<SPEECH 8><ACT 4><SCENE 2><66%>
+	The emperor in his rage will doom her death.
+<SPEECH 9><ACT 4><SCENE 2><66%>
+	Aaron, what shall I say unto the empress?
+<SPEECH 10><ACT 4><SCENE 2><67%>
+	Cornelia the midwife, and myself,
+	And no one else but the deliver'd empress.

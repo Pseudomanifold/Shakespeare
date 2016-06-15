@@ -1,0 +1,65 @@
+<SPEECH 1><ACT 4><SCENE 2><70%>
+	God save you, sir!
+<SPEECH 2><ACT 4><SCENE 2><70%>
+	Sir, at the furthest for a week or two;
+	But then up further, and as far as Rome;
+	And so to Tripoli, if God lend me life.
+<SPEECH 3><ACT 4><SCENE 2><70%>
+	Of Mantua.
+<SPEECH 4><ACT 4><SCENE 2><70%>
+	My life, sir! how, I pray? for that goes hard.
+<SPEECH 5><ACT 4><SCENE 2><71%>
+	Alas, sir! it is worse for me than so;
+	For I have bills for money by exchange
+	From Florence, and must here deliver them.
+<SPEECH 6><ACT 4><SCENE 2><71%>
+	Ay, sir, in Pisa have I often been;
+	Pisa, renowned for grave citizens.
+<SPEECH 7><ACT 4><SCENE 2><71%>
+	I know him not, but I have heard of him;
+	A merchant of incomparable wealth.
+<SPEECH 8><ACT 4><SCENE 2><72%>
+	O sir, I do; and will repute you ever
+	The patron of my life and liberty.
+<SPEECH 9><ACT 4><SCENE 4><79%>
+	Ay, what else? and, but I be deceived,
+	Signior Baptista may remember me,
+	Near twenty years ago, in Genoa,
+	Where we were lodgers at the Pegasus.
+<SPEECH 10><ACT 4><SCENE 4><80%>
+	I warrant you. But, sir, here comes your boy;
+	'Twere good he were school'd.
+<SPEECH 11><ACT 4><SCENE 4><80%>
+	Soft, son!
+	Sir, by your leave: having come to Padua
+	To gather in some debts, my son Lucentio
+	Made me acquainted with a weighty cause
+	Of love between your daughter and himself:
+	And,—for the good report I hear of you,
+	And for the love he beareth to your daughter,
+	And she to him,—to stay him not too long,
+	I am content, in a good father's care,
+	To have him match'd; and, if you please to like
+	No worse than I, upon some agreement
+	Me shall you find ready and willing
+	With one consent to have her so bestow'd;
+	For curious I cannot be with you,
+	Signior Baptista, of whom I hear so well.
+<SPEECH 12><ACT 5><SCENE 1><87%>
+	What's he that knocks as he would beat down the gate?
+<SPEECH 13><ACT 5><SCENE 1><87%>
+	He's within, sir, but not to be spoken withal.
+<SPEECH 14><ACT 5><SCENE 1><87%>
+	Keep your hundred pounds to yourself: he shall need none so long as I live.
+<SPEECH 15><ACT 5><SCENE 1><88%>
+	Thou liest: his father is come from Padua, and here looking out at the window.
+<SPEECH 16><ACT 5><SCENE 1><88%>
+	Ay, sir; so his mother says, if I may believe her.
+<SPEECH 17><ACT 5><SCENE 1><88%>
+	Lay hands on the villain: I believe, a' means to cozen somebody in this city under my countenance.
+<SPEECH 18><ACT 5><SCENE 1><89%>
+	Help, son! help, Signior Baptista!
+<SPEECH 19><ACT 5><SCENE 1><90%>
+	Away, away, mad ass! his name is Lucentio; and he is mine only son, and heir to the lands of me, Signior Vincentio.
+<SPEECH 20><ACT 5><SCENE 1><90%>
+	Swear, if thou darest.

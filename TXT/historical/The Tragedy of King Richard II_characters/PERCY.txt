@@ -1,0 +1,64 @@
+<SPEECH 1><ACT 2><SCENE 3><40%>
+	I had thought, my lord, to have learn'd his health of you.
+<SPEECH 2><ACT 2><SCENE 3><40%>
+	No, my good lord; he hath forsook the court,
+	Broken his staff of office, and dispers'd
+	The household of the king.
+<SPEECH 3><ACT 2><SCENE 3><40%>
+	Because your lordship was proclaimed traitor.
+	But he, my lord, is gone to Ravenspurgh,
+	To offer service to the Duke of Hereford,
+	And sent me over by Berkeley to discover
+	What power the Duke of York had levied there;
+	Then with direction to repair to Ravenspurgh.
+<SPEECH 4><ACT 2><SCENE 3><41%>
+	No, my good lord; for that is not forgot
+	Which ne'er I did remember: to my knowledge
+	I never in my life did look on him.
+<SPEECH 5><ACT 2><SCENE 3><41%>
+	My gracious lord, I tender you my service,
+	Such as it is, being tender, raw, and young,
+	Which elder days shall ripen and confirm
+	To more approved service and desert.
+<SPEECH 6><ACT 2><SCENE 3><41%>
+	There stands the castle, by yon tuft of trees,
+	Mann'd with three hundred men, as I have heard;
+	And in it are the Lords of York, Berkeley, and Seymour;
+	None else of name and noble estimate.
+<SPEECH 7><ACT 3><SCENE 3><57%>
+	The castle royally is mann'd, my lord,
+	Against thy entrance.
+<SPEECH 8><ACT 3><SCENE 3><57%>
+	Yes, my good lord,
+	It doth contain a king: King Richard lies
+	Within the limits of yon lime and stone;
+	And with him are the Lord Aumerle, Lord Salisbury,
+	Sir Stephen Scroop; besides a clergyman
+	Of holy reverence; who, I cannot learn.
+<SPEECH 9><ACT 3><SCENE 3><58%>
+	See, see, King Richard doth himself appear,
+	As doth the blushing discontented sun
+	From out the fiery portal of the east,
+	When he perceives the envious clouds are bent
+	To dim his glory and to stain the track
+	Of his bright passage to the occident.
+<SPEECH 10><ACT 4><SCENE 1><69%>
+	Aumerle, thou liest; his honour is as true
+	In this appeal as thou art all unjust;
+	And that thou art so, there I throw my gage,
+	To prove it on thee to the extremest point
+	Of mortal breathing: seize it if thou dar'st.
+<SPEECH 11><ACT 5><SCENE 3><88%>
+	My lord, some two days since I saw the prince,
+	And told him of these triumphs held at Oxford.
+<SPEECH 12><ACT 5><SCENE 3><88%>
+	His answer was: he would unto the stews,
+	And from the common'st creature pluck a glove,
+	And wear it as a favour; and with that
+	He would unhorse the lustiest challenger.
+<SPEECH 13><ACT 5><SCENE 6><99%>
+	The grand conspirator, Abbot of Westminster,
+	With clog of conscience and sour melancholy,
+	Hath yielded up his body to the grave;
+	But here is Carlisle living, to abide
+	Thy kingly doom and sentence of his pride.

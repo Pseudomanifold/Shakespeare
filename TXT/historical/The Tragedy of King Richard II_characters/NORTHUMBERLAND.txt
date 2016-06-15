@@ -1,0 +1,180 @@
+<SPEECH 1><ACT 2><SCENE 1><29%>
+	My liege, old Gaunt commends him to your majesty.
+<SPEECH 2><ACT 2><SCENE 1><29%>
+	Nay, nothing; all is said:
+	His tongue is now a stringless instrument;
+	Words, life, and all, old Lancaster hath spent.
+<SPEECH 3><ACT 2><SCENE 1><31%>
+	Well, lords, the Duke of Lancaster is dead.
+<SPEECH 4><ACT 2><SCENE 1><31%>
+	Richly in both, if justice had her right.
+<SPEECH 5><ACT 2><SCENE 1><32%>
+	Nay, speak thy mind; and let him ne'er speak more
+	That speaks thy words again to do thee harm!
+<SPEECH 6><ACT 2><SCENE 1><32%>
+	Now, afore God, 'tis shame such wrongs are borne
+	In him, a royal prince, and many more
+	Of noble blood in this declining land.
+	The king is not himself, but basely led
+	By flatterers; and what they will inform,
+	Merely in hate, 'gainst any of us all,
+	That will the king severely prosecute
+	'Gainst us, our lives, our children, and our heirs.
+<SPEECH 7><ACT 2><SCENE 1><32%>
+	Wars have not wasted it, for warr'd he hath not,
+	But basely yielded upon compromise
+	That which his ancestors achiev'd with blows.
+	More hath he spent in peace than they in wars.
+<SPEECH 8><ACT 2><SCENE 1><33%>
+	Reproach and dissolution hangeth over him.
+<SPEECH 9><ACT 2><SCENE 1><33%>
+	His noble kinsman: most degenerate king!
+	But, lords, we hear this fearful tempest sing,
+	Yet seek no shelter to avoid the storm;
+	We see the wind sit sore upon our sails,
+	And yet we strike not, but securely perish.
+<SPEECH 10><ACT 2><SCENE 1><33%>
+	Not so: even through the hollow eyes of death
+	Ispy life peering; but I dare not say
+	How near the tidings of our comfort is.
+<SPEECH 11><ACT 2><SCENE 1><33%>
+	Then thus: I have from Port le Blanc, a bay
+	In Brittany, receiv'd intelligence
+	That Harry Duke of Hereford, Rainold Lord Cobham,
+	That late broke from the Duke of Exeter,
+	His brother, Archbishop late of Canterbury,
+	Sir Thomas Erpingham, Sir John Ramston,
+	Sir John Norbery, Sir Robert Waterton, and Francis Quoint,
+	All these well furnish'd by the Duke of Britaine,
+	With eight tall ships, three thousand men of war,
+	Are making hither with all due expedience,
+	And shortly mean to touch our northern shore.
+	Perhaps they had ere this, but that they stay
+	The first departing of the king for Ireland.
+	If then we shall shake off our slavish yoke,
+	Imp out our drooping country's broken wing,
+	Redeem from broking pawn the blemish'd crown,
+	Wipe off the dust that hides our sceptre's gilt,
+	And make high majesty look like itself,
+	Away with me in post to Ravenspurgh;
+	But if you faint, as fearing to do so,
+	Stay and be secret, and myself will go.
+<SPEECH 12><ACT 2><SCENE 3><39%>
+	Believe me, noble lord,
+	I am a stranger here in Gloucestershire:
+	These high wild hills and rough uneven ways
+	Draw out our miles and make them wearisome;
+	But yet your fair discourse hath been as sugar,
+	Making the hard way sweet and delectable.
+	But I bethink me what a weary way
+	From Ravenspurgh to Cotswold will be found
+	In Ross and Willoughby, wanting your company,
+	Which, I protest, hath very much beguil'd
+	The tediousness and process of my travel:
+	But theirs is sweeten'd with the hope to have
+	The present benefit which I possess;
+	And hope to joy is little less in joy
+	Than hope enjoy'd: by this the weary lords
+	Shall make their way seem short, as mine hath done
+	By sight of what I have, your noble company.
+<SPEECH 13><ACT 2><SCENE 3><40%>
+	It is my son, young Harry Percy,
+	Sent from my brother Worcester, whencesoever.
+	Harry, how fares your uncle?
+<SPEECH 14><ACT 2><SCENE 3><40%>
+	Why, is he not with the queen?
+<SPEECH 15><ACT 2><SCENE 3><40%>
+	What was his reason?
+	He was not so resolv'd when last we spake together.
+<SPEECH 16><ACT 2><SCENE 3><41%>
+	Have you forgot the Duke of Hereford, boy?
+<SPEECH 17><ACT 2><SCENE 3><41%>
+	Then learn to know him now: this is the duke.
+<SPEECH 18><ACT 2><SCENE 3><41%>
+	How far is it to Berkeley? and what stir
+	Keeps good old York there with his men of war?
+<SPEECH 19><ACT 2><SCENE 3><41%>
+	Here come the Lords of Ross and Willoughby,
+	Bloody with spurring, fiery-red with haste.
+<SPEECH 20><ACT 2><SCENE 3><42%>
+	It is my Lord of Berkeley, as I guess.
+<SPEECH 21><ACT 2><SCENE 3><44%>
+	The noble duke hath been too much abus'd.
+<SPEECH 22><ACT 2><SCENE 3><45%>
+	The noble duke hath sworn his coming is
+	But for his own; and for the right of that
+	We all have strongly sworn to give him aid;
+	And let him ne'er see joy that breaks that oath!
+<SPEECH 23><ACT 3><SCENE 3><56%>
+	The news is very fair and good, my lord:
+	Richard not far from hence hath hid his head.
+<SPEECH 24><ACT 3><SCENE 3><56%>
+	Your Grace mistakes; only to be brief
+	Left I his title out.
+<SPEECH 25><ACT 3><SCENE 3><57%>
+	O! belike it is the Bishop of Carlisle.
+<SPEECH 26><ACT 3><SCENE 3><59%>
+	The king of heaven forbid our lord the king
+	Should so with civil and uncivil arms
+	Be rush'd upon! Thy thrice-noble cousin,
+	Harry Bolingbroke, doth humbly kiss thy hand;
+	And by the honourable tomb he swears,
+	That stands upon your royal grandsire's bones,
+	And by the royalties of both your bloods,
+	Currents that spring from one most gracious head,
+	And by the buried hand of war-like Gaunt,
+	And by the worth and honour of himself,
+	Comprising all that may be sworn or said,
+	His coming hither hath no further scope
+	Than for his lineal royalties and to beg
+	Enfranchisement immediate on his knees:
+	Which on thy royal party granted once,
+	His glittering arms he will commend to rust,
+	His barbed steeds to stables, and his heart
+	To faithful service of your majesty.
+	This swears he, as he is a prince, is just;
+	And, as I am a gentleman, I credit him.
+<SPEECH 27><ACT 3><SCENE 3><62%>
+	My lord, in the base court he doth attend
+	To speak with you; may't please you to come down?
+<SPEECH 28><ACT 3><SCENE 3><62%>
+	Sorrow and grief of heart
+	Makes him speak fondly, like a frantic man:
+	Yet he is come.
+<SPEECH 29><ACT 4><SCENE 1><73%>
+	Well have you argu'd, sir; and, for your pains,
+	Of capital treason we arrest you here.
+	My Lord of Westminster, be it your charge
+	To keep him safely till his day of trial.
+	May it please you, lords, to grant the commons' suit?
+<SPEECH 30><ACT 4><SCENE 1><75%>
+	</STAGE DIR> No more, but that you read
+	These accusations and these grievous crimes
+	Committed by your person and your followers
+	Against the state and profit of this land;
+	That, by confessing them, the souls of men
+	May deem that you are worthily depos'd.
+<SPEECH 31><ACT 4><SCENE 1><76%>
+	My lord, dispatch; read o'er these articles.
+<SPEECH 32><ACT 4><SCENE 1><76%>
+	My lord,—
+<SPEECH 33><ACT 4><SCENE 1><77%>
+	Read o'er this paper while the glass doth come.
+<SPEECH 34><ACT 4><SCENE 1><77%>
+	The commons will not then be satisfied.
+<SPEECH 35><ACT 5><SCENE 1><81%>
+	My lord, the mind of Bolingbroke is chang'd;
+	You must to Pomfret, not unto the Tower.
+	And, madam, there is order ta'en for you;
+	With all swift speed you must away to France.
+<SPEECH 36><ACT 5><SCENE 1><81%>
+	My guilt be on my head, and there an end.
+	Take leave and part; for you must part forthwith.
+<SPEECH 37><ACT 5><SCENE 1><82%>
+	That were some love but little policy.
+<SPEECH 38><ACT 5><SCENE 6><98%>
+	First, to thy sacred state wish I all happiness.
+	The next news is: I have to London sent
+	The heads of Salisbury, Spencer, Blunt, and Kent.
+	The manner of their taking may appear
+	At large discoursed in this paper here.

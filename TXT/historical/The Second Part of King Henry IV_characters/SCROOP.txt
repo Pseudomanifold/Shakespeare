@@ -1,0 +1,174 @@
+<SPEECH 1><ACT 1><SCENE 3><16%>
+	Thus have you heard our cause and known our means;
+	And, my most noble friends, I pray you all,
+	Speak plainly your opinions of our hopes:
+	And first, Lord Marshal, what say you to it?
+<SPEECH 2><ACT 1><SCENE 3><16%>
+	'Tis very true, Lord Bardolph; for, indeed
+	It was young Hotspur's case at Shrewsbury.
+<SPEECH 3><ACT 1><SCENE 3><18%>
+	That he should draw his several strengths together
+	And come against us in full puissance,
+	Need not be dreaded.
+<SPEECH 4><ACT 1><SCENE 3><18%>
+	Let us on
+	And publish the occasion of our arms.
+	The commonwealth is sick of their own choice;
+	Their over-greedy love hath surfeited.
+	A habitation giddy and unsure
+	Hath he that buildeth on the vulgar heart.
+	O thou fond many! with what loud applause
+	Didst thou beat heaven with blessing Bolingbroke
+	Before he was what thou wouldst have him be:
+	And being now trimm'd in thine own desires,
+	Thou, beastly feeder, art so full of him
+	That thou provok'st thyself to cast him up.
+	So, so, thou common dog, didst thou disgorge
+	Thy glutton bosom of the royal Richard,
+	And now thou wouldst eat thy dead vomit up,
+	And howl'st to find it. What trust is in these times?
+	They that, when Richard liv'd, would have him die,
+	Are now become enamour'd on his grave:
+	Thou, that threw'st dust upon his goodly head,
+	When through proud London he came sighing on
+	After the admired heels of Bolingbroke,
+	Cry'st now, 'O earth! yield us that king again,
+	And take thou this!' O, thoughts of men accurst!
+	Past and to come seem best; things present worst.
+<SPEECH 5><ACT 4><SCENE 1><57%>
+	What is this forest call'd?
+<SPEECH 6><ACT 4><SCENE 1><57%>
+	Here stand, my lords, and send discovers forth,
+	To know the numbers of our enemies.
+<SPEECH 7><ACT 4><SCENE 1><57%>
+	'Tis well done.
+	My friends and brethren in these great affairs,
+	I must acquaint you that I have receiv'd
+	New-dated letters from Northumberland;
+	Their cold intent, tenour and substance, thus:
+	Here doth he wish his person, with such powers
+	As might hold sortance with his quality;
+	The which he could not levy; whereupon
+	He is retir'd, to ripe his growing fortunes,
+	To Scotland; and concludes in hearty prayers
+	That your attempts may overlive the hazard
+	And fearful meeting of their opposite.
+<SPEECH 8><ACT 4><SCENE 1><58%>
+	What well-appointed leader fronts us here?
+<SPEECH 9><ACT 4><SCENE 1><58%>
+	Say on, my Lord of Westmoreland, in peace,
+	What doth concern your coming.
+<SPEECH 10><ACT 4><SCENE 1><59%>
+	Wherefore do I this? so the question stands.
+	Briefly to this end: we are all diseas'd;
+	And, with our surfeiting and wanton hours
+	Have brought ourselves into a burning fever,
+	And we must bleed for it: of which disease
+	Our late king, Richard, being infected, died.
+	But, my most noble Lord of Westmoreland,
+	I take not on me here as a physician,
+	Nor do I as an enemy to peace
+	Troop in the throngs of military men;
+	But rather show a while like fearful war,
+	To diet rank minds sick of happiness
+	And purge the obstructions which begin to stop
+	Our very veins of life. Hear me more plainly:
+	I have in equal balance justly weigh'd
+	What wrongs our arms may do, what wrongs we suffer,
+	And find our griefs heavier than our offences.
+	We see which way the stream of time doth run
+	And are enforc'd from our most quiet sphere
+	By the rough torrent of occasion;
+	And have the summary of all our griefs,
+	When time shall serve, to show in articles,
+	Which long ere this we offer'd to the king,
+	And might by no suit gain our audience.
+	When we are wrong'd and would unfold our griefs,
+	We are denied access unto his person
+	Even by those men that most have done us wrong.
+	The dangers of the days but newly gone,—
+	Whose memory is written on the earth
+	With yet appearing blood,—and the examples
+	Of every minute's instance, present now,
+	Have put us in these ill-beseeming arms;
+	Not to break peace, or any branch of it,
+	But to establish here a peace indeed,
+	Concurring both in name and quality.
+<SPEECH 11><ACT 4><SCENE 1><60%>
+	My brother general, the commonwealth,
+	To brother born an household cruelty,
+	I make my quarrel in particular.
+<SPEECH 12><ACT 4><SCENE 1><62%>
+	Then take, my Lord of Westmoreland, this schedule,
+	For this contains our general grievances:
+	Each several article herein redress'd;
+	All members of our cause, both here and hence,
+	That are insinew'd to this action,
+	Acquitted by a true substantial form
+	And present execution of our wills
+	To us and to our purposes consign'd;
+	We come within our awful banks again
+	And knit our powers to the arm of peace.
+<SPEECH 13><ACT 4><SCENE 1><62%>
+	My lord, we will do so.
+<SPEECH 14><ACT 4><SCENE 1><63%>
+	No, no, my lord. Note this; the king is weary
+	Of dainty and such picking grievances:
+	For he hath found to end one doubt by death
+	Revives two greater in the heirs of life;
+	And therefore will he wipe his tables clean,
+	And keep no tell-tale to his memory
+	That may repeat and history his loss
+	To new remembrance; for full well he knows
+	He cannot so precisely weed this land
+	As his misdoubts present occasion:
+	His foes are so enrooted with his friends
+	That, plucking to unfix an enemy,
+	He doth unfasten so and shake a friend.
+	So that this land, like an offensive wife,
+	That hath enrag'd him on to offer strokes,
+	As he is striking, holds his infant up
+	And hangs resolv'd correction in the arm
+	That was uprear'd to execution.
+<SPEECH 15><ACT 4><SCENE 1><63%>
+	'Tis very true:
+	And therefore be assur'd, my good lord marshal,
+	If we do now make our atonement well,
+	Our peace will, like a broken limb united,
+	Grow stronger for the breaking.
+<SPEECH 16><ACT 4><SCENE 1><63%>
+	Before, and greet his Grace: my lord, we come.
+<SPEECH 17><ACT 4><SCENE 2><64%>
+	Good my Lord of Lancaster,
+	I am not here against your father's peace;
+	But, as I told my Lord of Westmoreland,
+	The time misorder'd doth, in common sense,
+	Crowd us and crush us to this monstrous form,
+	To hold our safety up. I sent your Grace
+	The parcels and particulars of our grief,—
+	The which hath been with scorn shov'd from the court,—
+	Whereon this Hydra son of war is born;
+	Whose dangerous eyes may well be charm'd asleep
+	With grant of our most just and right desires,
+	And true obedience, of this madness cur'd,
+	Stoop tamely to the foot of majesty.
+<SPEECH 18><ACT 4><SCENE 2><66%>
+	I take your princely word for these redresses.
+<SPEECH 19><ACT 4><SCENE 2><66%>
+	To you, my noble Lord of Westmoreland.
+<SPEECH 20><ACT 4><SCENE 2><66%>
+	I do not doubt you.
+<SPEECH 21><ACT 4><SCENE 2><66%>
+	Against ill chances men are ever merry,
+	But heaviness foreruns the good event.
+<SPEECH 22><ACT 4><SCENE 2><66%>
+	Believe me, I am passing light in spirit.
+<SPEECH 23><ACT 4><SCENE 2><66%>
+	A peace is of the nature of a conquest;
+	For then both parties nobly are subdu'd,
+	And neither party loser.
+<SPEECH 24><ACT 4><SCENE 2><67%>
+	Go, good Lord Hastings,
+	And, ere they be dismiss'd, let them march by.
+<SPEECH 25><ACT 4><SCENE 2><67%>
+	Will you thus break your faith?

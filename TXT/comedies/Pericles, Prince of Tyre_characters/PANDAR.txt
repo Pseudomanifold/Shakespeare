@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 4><SCENE 2><63%>
+	Boult.
+<SPEECH 2><ACT 4><SCENE 2><63%>
+	Search the market narrowly; Mitylene is full of gallants; we lost too much money this mart by being too wenchless.
+<SPEECH 3><ACT 4><SCENE 2><64%>
+	Therefore, let's have fresh ones, whate'er we pay for them. If there be not a conscience to be used in every trade, we shall never prosper.
+<SPEECH 4><ACT 4><SCENE 2><64%>
+	Thou sayst true; they're too unwholesome, o' conscience. The poor Transylvanian is dead, that lay with the little baggage.
+<SPEECH 5><ACT 4><SCENE 2><64%>
+	Three or four thousand chequins were as pretty a proportion to live quietly, and so give over.
+<SPEECH 6><ACT 4><SCENE 2><65%>
+	O! our credit comes not in like the commodity, nor the commodity wages not with the danger; therefore, if in our youths we could pick up some pretty estate, 'twere not amiss to keep our door hatched. Besides, the sore terms we stand upon with the gods will be strong with us for giving over.
+<SPEECH 7><ACT 4><SCENE 2><65%>
+	As well as we! ay, and better too; we offend worse. Neither is our profession any trade; it's no calling. But here comes Boult.
+<SPEECH 8><ACT 4><SCENE 2><65%>
+	Well, follow me, my masters, you shall have your money presently. Wife, take her in; instruct her what she has to do, that she may not be raw in her entertainment.
+<SPEECH 9><ACT 4><SCENE 6><75%>
+	Well, I had rather than twice the worth of her she had ne'er come here.
+<SPEECH 10><ACT 4><SCENE 6><75%>
+	Now, the pox upon her green-sickness for me!

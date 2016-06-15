@@ -1,0 +1,36 @@
+<SPEECH 1><ACT 1><SCENE 2><4%>
+	Shall we call in the ambassador, my liege?
+<SPEECH 2><ACT 1><SCENE 2><8%>
+	They know your Grace hath cause and means and might;
+	So hath your highness; never King of England
+	Had nobles richer, and more loyal subjects,
+	Whose hearts have left their bodies here in England
+	And lie pavilion'd in the fields of France.
+<SPEECH 3><ACT 1><SCENE 2><9%>
+	But there's a saying very old and true;
+	If that you will France win,
+	Then with Scotland first begin:
+	For once the eagle England being in prey,
+	To her unguarded nest the weasel Scot
+	Comes sneaking and so sucks her princely eggs,
+	Playing the mouse in absence of the cat,
+	To tear and havoc more than she can eat.
+<SPEECH 4><ACT 2><SCENE 2><19%>
+	How smooth and even they do bear themselves!
+	As if allegiance in their bosoms sat,
+	Crowned with faith and constant loyalty.
+<SPEECH 5><ACT 4><SCENE 3><66%>
+	Of fighting men they have full three-score thousand.
+<SPEECH 6><ACT 4><SCENE 3><66%>
+	O! that we now had here
+	But one ten thousand of those men in England
+	That do no work to-day.
+<SPEECH 7><ACT 4><SCENE 3><68%>
+	Perish the man whose mind is backward now!
+<SPEECH 8><ACT 4><SCENE 3><68%>
+	God's will! my liege, would you and I alone,
+	Without more help, could fight this royal battle!
+<SPEECH 9><ACT 5><SCENE 2><98%>
+	The king hath granted every article:
+	His daughter first, and then in sequel all,
+	According to their firm proposed natures.

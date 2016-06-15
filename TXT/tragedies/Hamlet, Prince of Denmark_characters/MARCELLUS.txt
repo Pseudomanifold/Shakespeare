@@ -1,0 +1,105 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	And liegemen to the Dane.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	O! farewell, honest soldier:
+	Who hath reliev'd you?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Holla! Bernardo!
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	What! has this thing appear'd again to-night?
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	Horatio says 'tis but our fantasy,
+	And will not let belief take hold of him
+	Touching this dreaded sight twice seen of us:
+	Therefore I have entreated him along
+	With us to watch the minutes of this night;
+	That if again this apparition come,
+	He may approve our eyes and speak to it.
+<SPEECH 6><ACT 1><SCENE 1><1%>
+	Peace! break thee off; look, where it comes again!
+<SPEECH 7><ACT 1><SCENE 1><1%>
+	Thou art a scholar; speak to it, Horatio.
+<SPEECH 8><ACT 1><SCENE 1><1%>
+	Question it, Horatio.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	It is offended.
+<SPEECH 10><ACT 1><SCENE 1><2%>
+	'Tis gone, and will not answer.
+<SPEECH 11><ACT 1><SCENE 1><2%>
+	Is it not like the king?
+<SPEECH 12><ACT 1><SCENE 1><2%>
+	Thus twice before, and jump at this dead hour,
+	With martial stalk hath he gone by our watch.
+<SPEECH 13><ACT 1><SCENE 1><2%>
+	Good now, sit down, and tell me, he that knows,
+	Why this same strict and most observant watch
+	So nightly toils the subject of the land;
+	And why such daily cast of brazen cannon,
+	And foreign mart for implements of war;
+	Why such impress of shipwrights, whose sore task
+	Does not divide the Sunday from the week;
+	What might be toward, that this sweaty haste
+	Doth make the night joint-labourer with the day:
+	Who is 't that can inform me?
+<SPEECH 14><ACT 1><SCENE 1><4%>
+	Shall I strike at it with my partisan?
+<SPEECH 15><ACT 1><SCENE 1><4%>
+	'Tis gone!
+	We do it wrong, being so majestical,
+	To offer it the show of violence;
+	For it is, as the air, invulnerable,
+	And our vain blows malicious mockery.
+<SPEECH 16><ACT 1><SCENE 1><4%>
+	It faded on the crowing of the cock.
+	Some say that ever 'gainst that season comes
+	Wherein our Saviour's birth is celebrated,
+	The bird of dawning singeth all night long;
+	And then, they say, no spirit can walk abroad;
+	The nights are wholesome; then no planets strike,
+	No fairy takes, nor witch hath power to charm,
+	So hallow'd and so gracious is the time.
+<SPEECH 17><ACT 1><SCENE 1><5%>
+	Let's do't, I pray; and I this morning know
+	Where we shall find him most conveniently.
+<SPEECH 18><ACT 1><SCENE 2><9%>
+	My good lord,—
+<SPEECH 19><ACT 1><SCENE 2><10%>
+	My lord, upon the platform where we watch'd.
+<SPEECH 20><ACT 1><SCENE 2><10%>
+	We do, my lord.
+<SPEECH 21><ACT 1><SCENE 2><10%>
+	Arm'd, my lord.
+<SPEECH 22><ACT 1><SCENE 2><11%>
+	My lord, from head to foot.
+<SPEECH 23><ACT 1><SCENE 2><11%>
+	Longer, longer.
+<SPEECH 24><ACT 1><SCENE 4><15%>
+	No, it is struck.
+<SPEECH 25><ACT 1><SCENE 4><16%>
+	Look, with what courteous action
+	It waves you to a more removed ground:
+	But do not go with it.
+<SPEECH 26><ACT 1><SCENE 4><17%>
+	You shall not go, my lord.
+<SPEECH 27><ACT 1><SCENE 4><17%>
+	Let's follow; 'tis not fit thus to obey him.
+<SPEECH 28><ACT 1><SCENE 4><17%>
+	Something is rotten in the state of Denmark.
+<SPEECH 29><ACT 1><SCENE 4><17%>
+	Nay, let's follow him.
+<SPEECH 30><ACT 1><SCENE 5><20%>
+	</STAGE DIR> Lord Hamlet!
+<SPEECH 31><ACT 1><SCENE 5><20%>
+	</STAGE DIR> So be it!
+<SPEECH 32><ACT 1><SCENE 5><20%>
+	How is't, my noble lord?
+<SPEECH 33><ACT 1><SCENE 5><20%>
+	Nor I, my lord.
+<SPEECH 34><ACT 1><SCENE 5><20%>
+	Ay, by heaven, my lord.
+<SPEECH 35><ACT 1><SCENE 5><21%>
+	My lord, we will not.
+<SPEECH 36><ACT 1><SCENE 5><21%>
+	Nor I, my lord, in faith.
+<SPEECH 37><ACT 1><SCENE 5><21%>
+	We have sworn, my lord, already.

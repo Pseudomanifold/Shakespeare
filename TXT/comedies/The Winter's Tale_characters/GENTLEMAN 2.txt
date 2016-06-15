@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 5><SCENE 2><90%>
+	Nothing but bonfires: the oracle is fulfilled; the king's daughter is found: such a deal of wonder is broken out within this hour that ballad-makers cannot be able to express it.
+	Here comes the lady Paulina's steward: he can deliver you more. How goes it now, sir? this news which is called true is so like an old tale, that the verity of it is in strong suspicion: has the king found his heir?
+<SPEECH 2><ACT 5><SCENE 2><90%>
+	No.
+<SPEECH 3><ACT 5><SCENE 2><91%>
+	What, pray you, became of Antigonus that carried hence the child?
+<SPEECH 4><ACT 5><SCENE 2><92%>
+	I thought she had some great matter there in hand, for she hath privately, twice or thrice a day, ever since the death of Hermione, visited that removed house. Shall we thither and with our company piece the rejoicing?

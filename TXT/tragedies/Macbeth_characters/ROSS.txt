@@ -1,0 +1,173 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+	God save the king!
+<SPEECH 2><ACT 1><SCENE 2><3%>
+	From Fife, great king;
+	Where the Norweyan banners flout the sky
+	And fan our people cold. Norway himself,
+	With terrible numbers,
+	Assisted by that most disloyal traitor,
+	The Thane of Cawdor, began a dismal conflict;
+	Till that Bellona's bridegroom, lapp'd in proof,
+	Confronted him with self-comparisons,
+	Point against point, rebellious arm 'gainst arm,
+	Curbing his lavish spirit: and, to conclude,
+	The victory fell on us.—
+<SPEECH 3><ACT 1><SCENE 2><4%>
+	That now
+	Sweno, the Norways' king, craves composition;
+	Nor would we deign him burial of his men
+	Till he disbursed, at Saint Colme's Inch,
+	Ten thousand dollars to our general use.
+<SPEECH 4><ACT 1><SCENE 2><4%>
+	I'll see it done.
+<SPEECH 5><ACT 1><SCENE 3><8%>
+	The king hath happily receiv'd, Macbeth,
+	The news of thy success; and when he reads
+	Thy personal venture in the rebels' fight,
+	His wonders and his praises do contend
+	Which should be thine or his. Silenc'd with that,
+	In viewing o'er the rest o' the self-same day,
+	He finds thee in the stout Norweyan ranks,
+	Nothing afeard of what thyself didst make,
+	Strange images of death. As thick as hail
+	Came post with post, and every one did bear
+	Thy praises in his kingdom's great defence,
+	And pour'd them down before him.
+<SPEECH 6><ACT 1><SCENE 3><8%>
+	And, for an earnest of a greater honour,
+	He bade me, from him, call thee Thane of Cawdor:
+	In which addition, hail, most worthy thane!
+	For it is thine.
+<SPEECH 7><ACT 2><SCENE 4><37%>
+	Ah! good father,
+	Thou seest, the heavens, as troubled with man's act,
+	Threaten his bloody stage: by the clock 'tis day,
+	And yet dark night strangles the travelling lamp.
+	Is 't night's predominance, or the day's shame,
+	That darkness does the face of earth entomb,
+	When living light should kiss it?
+<SPEECH 8><ACT 2><SCENE 4><38%>
+	And Duncan's horses,—a thing most strange and certain,—
+	Beauteous and swift, the minions of their race,
+	Turn'd wild in nature, broke their stalls, flung out,
+	Contending 'gainst obedience, as they would
+	Make war with mankind.
+<SPEECH 9><ACT 2><SCENE 4><38%>
+	They did so; to the amazement of mine eyes,
+	That look'd upon 't. Here comes the good Macduff.
+	How goes the world, sir, now?
+<SPEECH 10><ACT 2><SCENE 4><38%>
+	Is 't known who did this more than bloody deed?
+<SPEECH 11><ACT 2><SCENE 4><38%>
+	Alas, the day!
+	What good could they pretend?
+<SPEECH 12><ACT 2><SCENE 4><38%>
+	'Gainst nature still!
+	Thriftless ambition, that wilt ravin up
+	Thine own life's means! Then 'tis most like
+	The sovereignty will fall upon Macbeth.
+<SPEECH 13><ACT 2><SCENE 4><39%>
+	Where is Duncan's body?
+<SPEECH 14><ACT 2><SCENE 4><39%>
+	Will you to Scone?
+<SPEECH 15><ACT 2><SCENE 4><39%>
+	Well, I will thither.
+<SPEECH 16><ACT 2><SCENE 4><39%>
+	Farewell, father.
+<SPEECH 17><ACT 3><SCENE 4><52%>
+	His absence, sir,
+	Lays blame upon his promise. Please 't your highness
+	To grace us with your royal company.
+<SPEECH 18><ACT 3><SCENE 4><52%>
+	Gentlemen, rise; his highness is not well.
+<SPEECH 19><ACT 3><SCENE 4><55%>
+	What sights, my lord?
+<SPEECH 20><ACT 4><SCENE 2><68%>
+	You must have patience, madam.
+<SPEECH 21><ACT 4><SCENE 2><68%>
+	You know not
+	Whether it was his wisdom or his fear.
+<SPEECH 22><ACT 4><SCENE 2><68%>
+	My dearest coz,
+	I pray you, school yourself: but, for your husband,
+	He is noble, wise, judicious, and best knows
+	The fits o' the season. I dare not speak much further:
+	But cruel are the times, when we are traitors
+	And do not know ourselves, when we hold rumour
+	From what we fear, yet know not what we fear,
+	But float upon a wild and violent sea
+	Each way and move. I take my leave of you:
+	Shall not be long but I'll be here again.
+	Things at the worst will cease, or else climb upward
+	To what they were before. My pretty cousin,
+	Blessing upon you!
+<SPEECH 23><ACT 4><SCENE 2><69%>
+	I am so much a fool, should I stay longer,
+	It would be my disgrace, and your discomfort:
+	I take my leave at once.
+<SPEECH 24><ACT 4><SCENE 3><79%>
+	Sir, amen.
+<SPEECH 25><ACT 4><SCENE 3><79%>
+	Alas! poor country;
+	Almost afraid to know itself. It cannot
+	Be call'd our mother, but our grave; where nothing,
+	But who knows nothing, is once seen to smile;
+	Where sighs and groans and shrieks that rent the air
+	Are made, not mark'd; where violent sorrow seems
+	A modern ecstasy; the dead man's knell
+	Is there scarce ask'd for who; and good men's lives
+	Expire before the flowers in their caps,
+	Dying or ere they sicken.
+<SPEECH 26><ACT 4><SCENE 3><79%>
+	That of an hour's age doth hiss the speaker;
+	Each minute teems a new one.
+<SPEECH 27><ACT 4><SCENE 3><79%>
+	Why, well.
+<SPEECH 28><ACT 4><SCENE 3><79%>
+	Well too.
+<SPEECH 29><ACT 4><SCENE 3><79%>
+	No; they were well at peace when I did leave 'em.
+<SPEECH 30><ACT 4><SCENE 3><80%>
+	When I came hither to transport the tidings,
+	Which I have heavily borne, there ran a rumour
+	Of many worthy fellows that were out;
+	Which was to my belief witness'd the rather
+	For that I saw the tyrant's power a-foot.
+	Now is the time of help; your eye in Scotland
+	Would create soldiers, make our women fight,
+	To doff their dire distresses.
+<SPEECH 31><ACT 4><SCENE 3><80%>
+	Would I could answer
+	This comfort with the like! But I have words
+	That would be howl'd out in the desert air,
+	Where hearing should not latch them.
+<SPEECH 32><ACT 4><SCENE 3><80%>
+	No mind that's honest
+	But in it shares some woe, though the main part
+	Pertains to you alone.
+<SPEECH 33><ACT 4><SCENE 3><80%>
+	Let not your ears despise my tongue for ever,
+	Which shall possess them with the heaviest sound
+	That ever yet they heard.
+<SPEECH 34><ACT 4><SCENE 3><81%>
+	Your castle is surpris'd; your wife and babes
+	Savagely slaughter'd; to relate the manner,
+	Were, on the quarry of these murder'd deer,
+	To add the death of you.
+<SPEECH 35><ACT 4><SCENE 3><81%>
+	Wife, children, servants, all
+	That could be found.
+<SPEECH 36><ACT 4><SCENE 3><81%>
+	I have said.
+<SPEECH 37><ACT 5><SCENE 7><98%>
+	Your son, my lord, has paid a soldier's debt:
+	He only liv'd but till he was a man;
+	The which no sooner had his prowess confirm'd
+	In the unshrinking station where he fought,
+	But like a man he died.
+<SPEECH 38><ACT 5><SCENE 7><98%>
+	Ay, and brought off the field. Your cause of sorrow
+	Must not be measur'd by his worth, for then
+	It hath no end.
+<SPEECH 39><ACT 5><SCENE 7><99%>
+	Ay, on the front.

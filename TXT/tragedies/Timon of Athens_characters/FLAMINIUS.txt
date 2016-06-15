@@ -1,0 +1,34 @@
+<SPEECH 1><ACT 2><SCENE 2><33%>
+	As you have said, my lord.
+<SPEECH 2><ACT 3><SCENE 1><35%>
+	I thank you, sir.
+<SPEECH 3><ACT 3><SCENE 1><36%>
+	His health is well, sir.
+<SPEECH 4><ACT 3><SCENE 1><36%>
+	Faith, nothing but an empty box, sir; which, in my lord's behalf, I come to entreat your honour to supply; who, having great and instant occasion to use fifty talents, hath sent to your lordship to furnish him, nothing doubting your present assistance therein.
+<SPEECH 5><ACT 3><SCENE 1><37%>
+	Your lordship speaks your pleasure.
+<SPEECH 6><ACT 3><SCENE 1><37%>
+	Is't possible the world should so much differ,
+	And we alive that liv'd? Fly, damned baseness,
+	To him that worships thee.
+<SPEECH 7><ACT 3><SCENE 1><38%>
+	May these add to the number that may scald thee!
+	Let molten coin be thy damnation,
+	Thou disease of a friend, and not himself!
+	Has friendship such a faint and milky heart
+	It turns in less than two nights? O you gods!
+	I feel my master's passion. This slave unto his honour
+	Has my lord's meat in him:
+	Why should it thrive and turn to nutriment
+	When he is turn'd to poison?
+	O! may diseases only work upon 't,
+	And, when he's sick to death, let not that part of nature
+	Which my lord paid for, be of any power
+	To expel sickness, but prolong his hour.
+<SPEECH 8><ACT 3><SCENE 4><46%>
+	No, indeed, he is not.
+<SPEECH 9><ACT 3><SCENE 4><46%>
+	I need not tell him that; he knows you are too diligent.
+<SPEECH 10><ACT 3><SCENE 4><47%>
+	</STAGE DIR> Servilius, help! my lord! my lord!

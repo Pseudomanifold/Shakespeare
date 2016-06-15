@@ -1,0 +1,318 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	Good Signior Leonato, you are come to meet your trouble: the fashion of the world is to avoid cost, and you encounter it.
+<SPEECH 2><ACT 1><SCENE 1><4%>
+	You embrace your charge too willingly. I think this is your daughter.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	You have it full, Benedick: we may guess by this what you are, being a man. Truly, the lady fathers herself. Be happy, lady, for you are like an honourable father.
+<SPEECH 4><ACT 1><SCENE 1><5%>
+	This is the sum of all, Leonato: Signior Claudio, and Signior Benedick, my dear friend Leonato hath invited you all. I tell him we shall stay here at the least a month, and he heartily prays some occasion may detain us longer: I dare swear he is no hypocrite, but prays from his heart.
+<SPEECH 5><ACT 1><SCENE 1><6%>
+	Your hand, Leonato; we will go together.
+<SPEECH 6><ACT 1><SCENE 1><7%>
+	What secret hath held you here, that you followed not to Leonato's?
+<SPEECH 7><ACT 1><SCENE 1><7%>
+	I charge thee on thy allegiance.
+<SPEECH 8><ACT 1><SCENE 1><8%>
+	Amen, if you love her; for the lady is very well worthy.
+<SPEECH 9><ACT 1><SCENE 1><8%>
+	By my troth, I speak my thought.
+<SPEECH 10><ACT 1><SCENE 1><8%>
+	That she is worthy, I know.
+<SPEECH 11><ACT 1><SCENE 1><8%>
+	Thou wast ever an obstinate heretic in the despite of beauty.
+<SPEECH 12><ACT 1><SCENE 1><9%>
+	I shall see thee, ere I die, look pale with love.
+<SPEECH 13><ACT 1><SCENE 1><9%>
+	Well, if ever thou dost fall from this faith, thou wilt prove a notable argument.
+<SPEECH 14><ACT 1><SCENE 1><9%>
+	Well, as time shall try:
+	'In time the savage bull doth bear the yoke.'
+<SPEECH 15><ACT 1><SCENE 1><10%>
+	Nay, if Cupid have not spent all his quiver in Venice, thou wilt quake for this shortly.
+<SPEECH 16><ACT 1><SCENE 1><10%>
+	Well, you will temporize with the hours. In the meantime, good Signior Benedick, repair to Leonato's: commend me to him and tell him I will not fail him at supper; for indeed he hath made great preparation.
+<SPEECH 17><ACT 1><SCENE 1><10%>
+	The sixth of July: your loving friend, Benedick.
+<SPEECH 18><ACT 1><SCENE 1><10%>
+	My love is thine to teach: teach it but how,
+	And thou shalt see how apt it is to learn
+	Any hard lesson that may do thee good.
+<SPEECH 19><ACT 1><SCENE 1><10%>
+	No child but Hero; she's his only heir.
+	Dost thou affect her, Claudio?
+<SPEECH 20><ACT 1><SCENE 1><11%>
+	Thou wilt be like a lover presently,
+	And tire the hearer with a book of words.
+	If thou dost love fair Hero, cherish it,
+	And I will break with her, and with her father,
+	And thou shalt have her. Was't not to this end
+	That thou began'st to twist so fine a story?
+<SPEECH 21><ACT 1><SCENE 1><11%>
+	What need the bridge much broader than the flood?
+	The fairest grant is the necessity.
+	Look, what will serve is fit: 'tis once, thou lov'st,
+	And I will fit thee with the remedy.
+	I know we shall have revelling to-night:
+	I will assume thy part in some disguise,
+	And tell fair Hero I am Claudio;
+	And in her bosom I'll unclasp my heart,
+	And take her hearing prisoner with the force
+	And strong encounter of my amorous tale:
+	Then, after to her father will I break;
+	And the conclusion is, she shall be thine.
+	In practice let us put it presently.
+<SPEECH 22><ACT 2><SCENE 1><19%>
+	Lady, will you walk about with your friend?
+<SPEECH 23><ACT 2><SCENE 1><19%>
+	With me in your company?
+<SPEECH 24><ACT 2><SCENE 1><19%>
+	And when please you to say so?
+<SPEECH 25><ACT 2><SCENE 1><19%>
+	My visor is Philemon's roof; within the house is Jove.
+<SPEECH 26><ACT 2><SCENE 1><19%>
+	Speak low, if you speak love.
+<SPEECH 27><ACT 2><SCENE 1><23%>
+	Now, signior, where's the count? Did you see him?
+<SPEECH 28><ACT 2><SCENE 1><23%>
+	To be whipped! What's his fault?
+<SPEECH 29><ACT 2><SCENE 1><23%>
+	Wilt thou make a trust a transgression? The transgression is in the stealer.
+<SPEECH 30><ACT 2><SCENE 1><24%>
+	I will but teach them to sing, and restore them to the owner.
+<SPEECH 31><ACT 2><SCENE 1><24%>
+	The Lady Beatrice hath a quarrel to you: the gentleman that danced with her told her she is much wronged by you.
+<SPEECH 32><ACT 2><SCENE 1><25%>
+	Look! here she comes.
+<SPEECH 33><ACT 2><SCENE 1><25%>
+	None, but to desire your good company.
+<SPEECH 34><ACT 2><SCENE 1><25%>
+	Come, lady, come; you have lost the heart of Signior Benedick.
+<SPEECH 35><ACT 2><SCENE 1><25%>
+	You have put him down, lady, you have put him down.
+<SPEECH 36><ACT 2><SCENE 1><26%>
+	Why, how now, count! wherefore are you sad?
+<SPEECH 37><ACT 2><SCENE 1><26%>
+	How then? Sick?
+<SPEECH 38><ACT 2><SCENE 1><26%>
+	I' faith, lady, I think your blazon to be true; though, I'll be sworn, if he be so, his conceit is false. Here, Claudio, I have wooed in thy name, and fair Hero is won; I have broke with her father, and, his good will obtained; name the day of marriage, and God give thee joy!
+<SPEECH 39><ACT 2><SCENE 1><26%>
+	In faith, lady, you have a merry heart.
+<SPEECH 40><ACT 2><SCENE 1><27%>
+	Lady Beatrice, I will get you one.
+<SPEECH 41><ACT 2><SCENE 1><27%>
+	Will you have me, lady?
+<SPEECH 42><ACT 2><SCENE 1><27%>
+	Your silence most offends me, and to be merry best becomes you; for, out of question, you were born in a merry hour.
+<SPEECH 43><ACT 2><SCENE 1><27%>
+	By my troth, a pleasant-spirited lady.
+<SPEECH 44><ACT 2><SCENE 1><28%>
+	She cannot endure to hear tell of a husband.
+<SPEECH 45><ACT 2><SCENE 1><28%>
+	She were an excellent wife for Benedick.
+<SPEECH 46><ACT 2><SCENE 1><28%>
+	Count Claudio, when mean you to go to church?
+<SPEECH 47><ACT 2><SCENE 1><28%>
+	Come, you shake the head at so long a breathing; but, I warrant thee, Claudio, the time shall not go dully by us. I will in the interim undertake one of Hercules' labours, which is, to bring Signior Benedick and the Lady Beatrice into a mountain of affection the one with the other. I would fain have it a match; and I doubt not but to fashion it, if you three will but minister such assistance as I shall give you direction.
+<SPEECH 48><ACT 2><SCENE 1><29%>
+	And you too, gentle Hero?
+<SPEECH 49><ACT 2><SCENE 1><29%>
+	And Benedick is not the unhopefullest husband that I know. Thus far can I praise him; he is of a noble strain, of approved valour, and confirmed honesty. I will teach you how to humour your cousin, that she shall fall in love with Benedick; and I, with your two helps, will so practise on Benedick that, in despite of his quick wit and his queasy stomach, he shall fall in love with Beatrice. If we can do this, Cupid is no longer an archer: his glory shall be ours, for we are the only love-gods. Go in with me, and I will tell you my drift.
+<SPEECH 50><ACT 2><SCENE 3><33%>
+	Come, shall we hear this music?
+<SPEECH 51><ACT 2><SCENE 3><33%>
+	See you where Benedick hath hid himself?
+<SPEECH 52><ACT 2><SCENE 3><33%>
+	Come, Balthazar, we'll hear that song again.
+<SPEECH 53><ACT 2><SCENE 3><33%>
+	It is the witness still of excellency,
+	To put a strange face on his own perfection.
+	I pray thee, sing, and let me woo no more.
+<SPEECH 54><ACT 2><SCENE 3><33%>
+	Nay, pray thee, come;
+	Or if thou wilt hold longer argument,
+	Do it in notes.
+<SPEECH 55><ACT 2><SCENE 3><33%>
+	Why these are very crotchets that he speaks;
+	Notes, notes, forsooth, and nothing!
+<SPEECH 56><ACT 2><SCENE 3><34%>
+	By my troth, a good song.
+<SPEECH 57><ACT 2><SCENE 3><34%>
+	Ha, no, no, faith; thou singest well enough for a shift.
+<SPEECH 58><ACT 2><SCENE 3><34%>
+	Yea, marry; dost thou hear, Balthazar? I pray thee, get us some excellent music, for to-morrow night we would have it at the Lady Hero's chamber-window.
+<SPEECH 59><ACT 2><SCENE 3><35%>
+	Do so: farewell. <STAGE DIR>
+	</STAGE DIR> Come hither, Leonato: what was it you told me of to-day, that your niece Beatrice was in love with Signior Benedick?
+<SPEECH 60><ACT 2><SCENE 3><35%>
+	May be she doth but counterfeit.
+<SPEECH 61><ACT 2><SCENE 3><35%>
+	Why, what effects of passion shows she?
+<SPEECH 62><ACT 2><SCENE 3><36%>
+	How, how, I pray you? You amaze me: I would have thought her spirit had been invincible against all assaults of affection.
+<SPEECH 63><ACT 2><SCENE 3><36%>
+	Hath she made her affection known to Benedick?
+<SPEECH 64><ACT 2><SCENE 3><37%>
+	It were good that Benedick knew of it by some other, if she will not discover it.
+<SPEECH 65><ACT 2><SCENE 3><37%>
+	An he should, it were an alms to hang him. She's an excellent sweet lady, and, out of all suspicion, she is virtuous.
+<SPEECH 66><ACT 2><SCENE 3><37%>
+	In everything but in loving Benedick.
+<SPEECH 67><ACT 2><SCENE 3><37%>
+	I would she had bestowed this dotage on me; I would have daffed all other respects and made her half myself. I pray you, tell Benedick of it, and hear what a' will say.
+<SPEECH 68><ACT 2><SCENE 3><38%>
+	She doth well: if she should make tender of her love, 'tis very possible he'll scorn it; for the man,—as you know all,—hath a contemptible spirit.
+<SPEECH 69><ACT 2><SCENE 3><38%>
+	He hath indeed a good outward happiness.
+<SPEECH 70><ACT 2><SCENE 3><38%>
+	He doth indeed show some sparks that are like wit.
+<SPEECH 71><ACT 2><SCENE 3><38%>
+	As Hector, I assure you: and in the managing of quarrels you may say he is wise; for either he avoids them with great discretion, or undertakes them with a most Christian-like fear.
+<SPEECH 72><ACT 2><SCENE 3><38%>
+	And so will he do; for the man doth fear God, howsoever it seems not in him by some large jests he will make. Well, I am sorry for your niece. Shall we go seek Benedick, and tell him of her love?
+<SPEECH 73><ACT 2><SCENE 3><39%>
+	Well, we will hear further of it by your daughter: let it cool the while. I love Benedick well, and I could wish he would modestly examine himself, to see how much he is unworthy to have so good a lady.
+<SPEECH 74><ACT 2><SCENE 3><39%>
+	</STAGE DIR> Let there be the same net spread for her; and that must your daughter and her gentlewoman carry. The sport will be, when they hold one an opinion of another's dotage, and no such matter: that's the scene that I would see, which will be merely a dumbshow. Let us send her to call him in to dinner.
+<SPEECH 75><ACT 3><SCENE 2><46%>
+	I do but stay till your marriage be consummate, and then go I toward Arragon.
+<SPEECH 76><ACT 3><SCENE 2><46%>
+	Nay, that would be as great a soil in the new gloss of your marriage, as to show a child his new coat and forbid him to wear it. I will only be bold with Benedick for his company; for, from the crown of his head to the sole of his foot, he is all mirth: he hath twice or thrice cut Cupid's bow-string, and the little hangman dare not shoot at him. He hath a heart as sound as a bell, and his tongue is the clapper; for what his heart thinks his tongue speaks.
+<SPEECH 77><ACT 3><SCENE 2><46%>
+	Hang him, truant! there's no true drop of blood in him, to be truly touched with love. If he be sad, he wants money.
+<SPEECH 78><ACT 3><SCENE 2><46%>
+	Draw it.
+<SPEECH 79><ACT 3><SCENE 2><46%>
+	What! sigh for the tooth-ache?
+<SPEECH 80><ACT 3><SCENE 2><47%>
+	There is no appearance of fancy in him, unless it be a fancy that he hath to strange disguises; as, to be a Dutchman to-day, a Frenchman to-morrow, or in the shape of two countries at once, as a German from the waist downward, all slops, and a Spaniard from the hip upward, no doublet. Unless he have a fancy to this foolery, as it appears he hath, he is no fool for fancy, as you would have it appear he is.
+<SPEECH 81><ACT 3><SCENE 2><47%>
+	Hath any man seen him at the barber's?
+<SPEECH 82><ACT 3><SCENE 2><47%>
+	Nay, a' rubs himself with civet: can you smell him out by that?
+<SPEECH 83><ACT 3><SCENE 2><47%>
+	The greatest note of it is his melancholy.
+<SPEECH 84><ACT 3><SCENE 2><47%>
+	Yea, or to paint himself? for the which, I hear what they say of him.
+<SPEECH 85><ACT 3><SCENE 2><48%>
+	Indeed, that tells a heavy tale for him. Conclude, conclude he is in love.
+<SPEECH 86><ACT 3><SCENE 2><48%>
+	That would I know too: I warrant, one that knows him not.
+<SPEECH 87><ACT 3><SCENE 2><48%>
+	She shall be buried with her face upwards.
+<SPEECH 88><ACT 3><SCENE 2><48%>
+	For my life, to break with him about Beatrice.
+<SPEECH 89><ACT 3><SCENE 2><48%>
+	Good den, brother.
+<SPEECH 90><ACT 3><SCENE 2><48%>
+	In private?
+<SPEECH 91><ACT 3><SCENE 2><49%>
+	What's the matter?
+<SPEECH 92><ACT 3><SCENE 2><49%>
+	You know he does.
+<SPEECH 93><ACT 3><SCENE 2><49%>
+	Why, what's the matter?
+<SPEECH 94><ACT 3><SCENE 2><50%>
+	I will not think it.
+<SPEECH 95><ACT 3><SCENE 2><50%>
+	And, as I wooed for thee to obtain her, I will join with thee to disgrace her.
+<SPEECH 96><ACT 3><SCENE 2><50%>
+	O day untowardly turned!
+<SPEECH 97><ACT 4><SCENE 1><63%>
+	Nothing, unless you render her again.
+<SPEECH 98><ACT 4><SCENE 1><65%>
+	What should I speak?
+	I stand dishonour'd, that have gone about
+	To link my dear friend to a common stale.
+<SPEECH 99><ACT 4><SCENE 1><65%>
+	Why, then are you no maiden. Leonato,
+	I am sorry you must hear: upon mine honour,
+	Myself, my brother, and this grieved count,
+	Did see her, hear her, at that hour last night,
+	Talk with a ruffian at her chamber-window;
+	Who hath indeed, most like a liberal villain,
+	Confess'd the vile encounters they have had
+	A thousand times in secret.
+<SPEECH 100><ACT 5><SCENE 1><79%>
+	Good den, good den.
+<SPEECH 101><ACT 5><SCENE 1><79%>
+	We have some haste, Leonato.
+<SPEECH 102><ACT 5><SCENE 1><79%>
+	Nay, do not quarrel with us, good old man.
+<SPEECH 103><ACT 5><SCENE 1><80%>
+	You say not right, old man.
+<SPEECH 104><ACT 5><SCENE 1><81%>
+	Gentlemen both, we will not wake your patience.
+	My heart is sorry for your daughter's death;
+	But, on my honour, she was charg'd with nothing
+	But what was true and very full of proof.
+<SPEECH 105><ACT 5><SCENE 1><81%>
+	I will not hear you.
+<SPEECH 106><ACT 5><SCENE 1><82%>
+	See, see; here comes the man we went to seek.
+<SPEECH 107><ACT 5><SCENE 1><82%>
+	Welcome, signior: you are almost come to part almost a fray.
+<SPEECH 108><ACT 5><SCENE 1><82%>
+	Leonato and his brother. What thinkest thou? Had we fought, I doubt we should have been too young for them.
+<SPEECH 109><ACT 5><SCENE 1><82%>
+	Dost thou wear thy wit by thy side?
+<SPEECH 110><ACT 5><SCENE 1><82%>
+	As I am an honest man, he looks pale. Art thou sick, or angry?
+<SPEECH 111><ACT 5><SCENE 1><83%>
+	By this light, he changes more and more: I think he be angry indeed.
+<SPEECH 112><ACT 5><SCENE 1><83%>
+	What, a feast, a feast?
+<SPEECH 113><ACT 5><SCENE 1><83%>
+	I'll tell thee how Beatrice praised thy wit the other day. I said, thou hadst a fine wit. 'True,' says she, 'a fine little one.' 'No,' said I, 'a great wit.' 'Right,' said she, 'a great gross one.' 'Nay,' said I, 'a good wit.' 'Just,' said she, 'it hurts nobody.' 'Nay,' said I, 'the gentleman is wise.' 'Certain,' said she, 'a wise gentleman.' 'Nay,' said I, 'he hath the tongues.' 'That I believe,' said she. 'for he swore a thing to me on Monday night, which he forswore on Tuesday morning: there's a double tongue; there's two tongues.' Thus did she, an hour together, trans-shape thy particular virtues; yet at last she concluded with a sigh, thou wast the properest man in Italy.
+<SPEECH 114><ACT 5><SCENE 1><84%>
+	Yea, that she did; but yet, for all that, an if she did not hate him deadly, she would love him dearly. The old man's daughter told us all.
+<SPEECH 115><ACT 5><SCENE 1><84%>
+	But when shall we set the savage bull's horns on the sensible Benedick's head?
+<SPEECH 116><ACT 5><SCENE 1><85%>
+	He is in earnest.
+<SPEECH 117><ACT 5><SCENE 1><85%>
+	And hath challenged thee?
+<SPEECH 118><ACT 5><SCENE 1><85%>
+	What a pretty thing man is when he goes in his doublet and hose and leaves off his wit!
+<SPEECH 119><ACT 5><SCENE 1><85%>
+	But, soft you; let me be: pluck up, my heart, and be sad! Did he not say my brother was fled?
+<SPEECH 120><ACT 5><SCENE 1><85%>
+	How now! two of my brother's men bound! Borachio, one!
+<SPEECH 121><ACT 5><SCENE 1><85%>
+	Officers, what offence have these men done?
+<SPEECH 122><ACT 5><SCENE 1><86%>
+	First, I ask thee what they have done; thirdly, I ask thee what's their offence; sixth and lastly, why they are committed; and, to conclude, what you lay to their charge?
+<SPEECH 123><ACT 5><SCENE 1><86%>
+	Who have you offended, masters, that you are thus bound to your answer? this learned constable is too cunning to be understood. What's your offence?
+<SPEECH 124><ACT 5><SCENE 1><86%>
+	Runs not this speech like iron through your blood?
+<SPEECH 125><ACT 5><SCENE 1><87%>
+	But did my brother set thee on to this?
+<SPEECH 126><ACT 5><SCENE 1><87%>
+	He is compos'd and fram'd of treachery:
+	And fled he is upon this villany.
+<SPEECH 127><ACT 5><SCENE 1><88%>
+	By my soul, nor I:
+	And yet, to satisfy this good old man,
+	I would bend under any heavy weight
+	That he'll enjoin me to.
+<SPEECH 128><ACT 5><SCENE 1><90%>
+	We will not fail.
+<SPEECH 129><ACT 5><SCENE 3><94%>
+	Good morrow, masters: put your torches out.
+	The wolves have prey'd; and look, the gentle day,
+	Before the wheels of Phœbus, round about
+	Dapples the drowsy east with spots of grey.
+	Thanks to you all, and leave us: fare you well
+<SPEECH 130><ACT 5><SCENE 3><94%>
+	Come, let us hence, and put on other weeds;
+	And then to Leonato's we will go.
+<SPEECH 131><ACT 5><SCENE 4><96%>
+	Good morrow to this fair assembly.
+<SPEECH 132><ACT 5><SCENE 4><96%>
+	Good morrow, Benedick. Why, what's the matter,
+	That you have such a February face,
+	So full of frost, of storm and cloudiness?
+<SPEECH 133><ACT 5><SCENE 4><97%>
+	The former Hero! Hero that is dead!
+<SPEECH 134><ACT 5><SCENE 4><99%>
+	How dost thou, Benedick, the married man?

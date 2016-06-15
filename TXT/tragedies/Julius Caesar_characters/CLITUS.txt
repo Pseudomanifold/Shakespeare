@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 5><SCENE 5><97%>
+	Statilius show'd the torch-light; but, my lord,
+	He came not back: he is or ta'en or slain.
+<SPEECH 2><ACT 5><SCENE 5><97%>
+	What, I, my lord? No, not for all the world.
+<SPEECH 3><ACT 5><SCENE 5><97%>
+	I'll rather kill myself.
+<SPEECH 4><ACT 5><SCENE 5><97%>
+	O, Dardanius!
+<SPEECH 5><ACT 5><SCENE 5><97%>
+	What ill request did Brutus make to thee?
+<SPEECH 6><ACT 5><SCENE 5><97%>
+	Now is that noble vessel full of grief,
+	That it runs over even at his eyes.
+<SPEECH 7><ACT 5><SCENE 5><98%>
+	Fly, fly, my lord! there is no tarrying here.
+<SPEECH 8><ACT 5><SCENE 5><98%>
+	Fly, my lord, fly.

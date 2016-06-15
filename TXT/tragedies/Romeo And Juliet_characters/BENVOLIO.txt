@@ -1,0 +1,223 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	Part, fools!
+	Put up your swords; you know not what you do.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	I do but keep the peace: put up thy sword,
+	Or manage it to part these men with me.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	Here were the servants of your adversary
+	And yours close fighting ere I did approach:
+	I drew to part them; in the instant came
+	The fiery Tybalt, with his sword prepar'd,
+	Which, as he breath'd defiance to my ears,
+	He swung about his head, and cut the winds,
+	Who, nothing hurt withal hiss'd him in scorn.
+	While we were interchanging thrusts and blows,
+	Came more and more, and fought on part and part,
+	Till the prince came, who parted either part.
+<SPEECH 4><ACT 1><SCENE 1><5%>
+	Madam, an hour before the worshipp'd sun
+	Peer'd forth the golden window of the east,
+	A troubled mind drave me to walk abroad;
+	Where, underneath the grove of sycamore
+	That westward rooteth from the city's side,
+	So early walking did I see your son:
+	Towards him I made; but he was ware of me,
+	And stole into the covert of the wood:
+	I, measuring his affections by my own,
+	That most are busied when they're most alone,
+	Pursu'd my humour not pursuing his,
+	And gladly shunn'd who gladly fled from me.
+<SPEECH 5><ACT 1><SCENE 1><5%>
+	My noble uncle, do you know the cause?
+<SPEECH 6><ACT 1><SCENE 1><6%>
+	Have you importun'd him by any means?
+<SPEECH 7><ACT 1><SCENE 1><6%>
+	See where he comes: so please you, step aside;
+	I'll know his grievance, or be much denied.
+<SPEECH 8><ACT 1><SCENE 1><6%>
+	Good morrow, cousin.
+<SPEECH 9><ACT 1><SCENE 1><6%>
+	But new struck nine.
+<SPEECH 10><ACT 1><SCENE 1><6%>
+	It was. What sadness lengthens Romeo's hours?
+<SPEECH 11><ACT 1><SCENE 1><6%>
+	In love?
+<SPEECH 12><ACT 1><SCENE 1><6%>
+	Of love?
+<SPEECH 13><ACT 1><SCENE 1><6%>
+	Alas! that love, so gentle in his view,
+	Should be so tyrannous and rough in proof.
+<SPEECH 14><ACT 1><SCENE 1><7%>
+	No, coz, I rather weep.
+<SPEECH 15><ACT 1><SCENE 1><7%>
+	At thy good heart's oppression.
+<SPEECH 16><ACT 1><SCENE 1><7%>
+	Soft, I will go along;
+	An if you leave me so, you do me wrong.
+<SPEECH 17><ACT 1><SCENE 1><7%>
+	Tell me in sadness, who is that you love.
+<SPEECH 18><ACT 1><SCENE 1><7%>
+	Groan! why, no;
+	But sadly tell me who.
+<SPEECH 19><ACT 1><SCENE 1><8%>
+	I aim'd so near when I suppos'd you lov'd.
+<SPEECH 20><ACT 1><SCENE 1><8%>
+	A right fair mark, fair coz, is soonest hit.
+<SPEECH 21><ACT 1><SCENE 1><8%>
+	Then she hath sworn that she will still live chaste?
+<SPEECH 22><ACT 1><SCENE 1><8%>
+	Be rul'd by me; forget to think of her.
+<SPEECH 23><ACT 1><SCENE 1><8%>
+	By giving liberty unto thine eyes:
+	Examine other beauties.
+<SPEECH 24><ACT 1><SCENE 1><9%>
+	I'll pay that doctrine, or else die in debt.
+<SPEECH 25><ACT 1><SCENE 2><10%>
+	Tut! man, one fire burns out another's burning,
+	One pain is lessen'd by another's anguish;
+	Turn giddy, and be holp by backward turning;
+	One desperate grief cures with another's languish:
+	Take thou some new infection to thy eye,
+	And the rank poison of the old will die.
+<SPEECH 26><ACT 1><SCENE 2><10%>
+	For what, I pray thee?
+<SPEECH 27><ACT 1><SCENE 2><10%>
+	Why, Romeo, art thou mad?
+<SPEECH 28><ACT 1><SCENE 2><11%>
+	At this same ancient feast of Capulet's,
+	Sups the fair Rosaline, whom thou so lov'st,
+	With all the admired beauties of Verona:
+	Go thither; and, with unattainted eye
+	Compare her face with some that I shall show,
+	And I will make thee think thy swan a crow.
+<SPEECH 29><ACT 1><SCENE 2><12%>
+	Tut! you saw her fair, none else being by,
+	Herself pois'd with herself in either eye;
+	But in that crystal scales let there be weigh'd
+	Your lady's love against some other maid
+	That I will show you shining at this feast,
+	And she shall scant show well that now shows best.
+<SPEECH 30><ACT 1><SCENE 4><16%>
+	The date is out of such prolixity:
+	We'll have no Cupid hood-wink'd with a scarf,
+	Bearing a Tartar's painted bow of lath,
+	Scaring the ladies like a crow-keeper;
+	Nor no without-book prologue, faintly spoke
+	After the prompter, for our entrance:
+	But, let them measure us by what they will,
+	We'll measure them a measure, and be gone.
+<SPEECH 31><ACT 1><SCENE 4><17%>
+	Come, knock and enter; and no sooner in,
+	But every man betake him to his legs.
+<SPEECH 32><ACT 1><SCENE 4><17%>
+	Queen Mab! What's she?
+<SPEECH 33><ACT 1><SCENE 4><19%>
+	This wind you talk of blows us from ourselves;
+	Supper is done, and we shall come too late.
+<SPEECH 34><ACT 1><SCENE 4><19%>
+	Strike, drum.
+<SPEECH 35><ACT 1><SCENE 5><23%>
+	Away, be gone; the sport is at the best.
+<SPEECH 36><ACT 2><SCENE 1><25%>
+	Romeo! my cousin Romeo!
+<SPEECH 37><ACT 2><SCENE 1><25%>
+	He ran this way, and leap'd this orchard wall:
+	Call, good Mercutio.
+<SPEECH 38><ACT 2><SCENE 1><25%>
+	An if he hear thee, thou wilt anger him.
+<SPEECH 39><ACT 2><SCENE 1><26%>
+	Come, he hath hid himself among these trees,
+	To be consorted with the humorous night:
+	Blind is his love and best befits the dark.
+<SPEECH 40><ACT 2><SCENE 1><26%>
+	Go, then; for 'tis in vain
+	To seek him here that means not to be found.
+<SPEECH 41><ACT 2><SCENE 4><36%>
+	Not to his father's; I spoke with his man.
+<SPEECH 42><ACT 2><SCENE 4><36%>
+	Tybalt, the kinsman of old Capulet,
+	Hath sent a letter to his father's house.
+<SPEECH 43><ACT 2><SCENE 4><36%>
+	Romeo will answer it.
+<SPEECH 44><ACT 2><SCENE 4><36%>
+	Nay, he will answer the letter's master, how he dares, being dared.
+<SPEECH 45><ACT 2><SCENE 4><36%>
+	Why, what is Tybalt?
+<SPEECH 46><ACT 2><SCENE 4><36%>
+	The what?
+<SPEECH 47><ACT 2><SCENE 4><37%>
+	Here comes Romeo, here comes Romeo.
+<SPEECH 48><ACT 2><SCENE 4><38%>
+	Stop there, stop there.
+<SPEECH 49><ACT 2><SCENE 4><38%>
+	Thou wouldst else have made thy tale large.
+<SPEECH 50><ACT 2><SCENE 4><39%>
+	Two, two; a shirt and a smock.
+<SPEECH 51><ACT 2><SCENE 4><39%>
+	She will indite him to some supper.
+<SPEECH 52><ACT 3><SCENE 1><46%>
+	I pray thee, good Mercutio, let's retire:
+	The day is hot, the Capulets abroad,
+	And, if we meet, we shall not 'scape a brawl;
+	For now, these hot days, is the mad blood stirring.
+<SPEECH 53><ACT 3><SCENE 1><46%>
+	Am I like such a fellow?
+<SPEECH 54><ACT 3><SCENE 1><46%>
+	And what to?
+<SPEECH 55><ACT 3><SCENE 1><47%>
+	An I were so apt to quarrel as thou art, any man should buy the fee-simple of my life for an hour and a quarter.
+<SPEECH 56><ACT 3><SCENE 1><47%>
+	By my head, here come the Capulets.
+<SPEECH 57><ACT 3><SCENE 1><47%>
+	We talk here in the public haunt of men:
+	Either withdraw unto some private place,
+	Or reason coldly of your grievances,
+	Or else depart; here all eyes gaze on us.
+<SPEECH 58><ACT 3><SCENE 1><49%>
+	What! art thou hurt?
+<SPEECH 59><ACT 3><SCENE 1><50%>
+	O Romeo, Romeo! brave Mercutio's dead;
+	That gallant spirit hath aspir'd the clouds,
+	Which too untimely here did scorn the earth.
+<SPEECH 60><ACT 3><SCENE 1><50%>
+	Here comes the furious Tybalt back again.
+<SPEECH 61><ACT 3><SCENE 1><50%>
+	Romeo, away! be gone!
+	The citizens are up, and Tybalt slain.
+	Stand not amaz'd: the prince will doom thee death
+	If thou art taken: hence! be gone! away!
+<SPEECH 62><ACT 3><SCENE 1><50%>
+	Why dost thou stay?
+<SPEECH 63><ACT 3><SCENE 1><51%>
+	There lies that Tybalt.
+<SPEECH 64><ACT 3><SCENE 1><51%>
+	O noble prince! I can discover all
+	The unlucky manage of this fatal brawl:
+	There lies the man, slain by young Romeo,
+	That slew thy kinsman, brave Mercutio.
+<SPEECH 65><ACT 3><SCENE 1><51%>
+	Tybalt, here slain, whom Romeo's hand did slay:
+	Romeo, that spoke him fair, bade him bethink
+	How nice the quarrel was, and urg'd withal
+	Your high displeasure: all this, uttered
+	With gentle breath, calm look, knees humbly bow'd,
+	Could not take truce with the unruly spleen
+	Of Tybalt deaf to peace, but that he tilts
+	With piercing steel at bold Mercutio's breast,
+	Who, all as hot, turns deadly point to point,
+	And, with a martial scorn, with one hand beats
+	Cold death aside, and with the other sends
+	It back to Tybalt, whose dexterity
+	Retorts it: Romeo he cries aloud,
+	'Hold, friends! friends, part!' and, swifter than his tongue,
+	His agile arm beats down their fatal points,
+	And 'twixt them rushes; underneath whose arm
+	An envious thrust from Tybalt hit the life
+	Of stout Mercutio, and then Tybalt fled;
+	But by and by comes back to Romeo,
+	Who had but newly entertain'd revenge,
+	And to 't they go like lightning, for, ere I.
+	Could draw to part them, was stout Tybalt slain,
+	And, as he fell, did Romeo turn and fly.
+	This is the truth, or let Benvolio die.

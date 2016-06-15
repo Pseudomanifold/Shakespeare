@@ -1,0 +1,321 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	No, my lord.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	My services to your lordship.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Sir, I shall study deserving.
+<SPEECH 4><ACT 1><SCENE 2><9%>
+	Thou, Nature, art my goddess; to thy law
+	My services are bound. Wherefore should I
+	Stand in the plague of custom, and permit
+	The curiosity of nations to deprive me,
+	For that I am some twelve or fourteen moonshines
+	Lag of a brother? Why bastard? wherefore base?
+	When my dimensions are as well compact,
+	My mind as generous, and my shape as true,
+	As honest madam's issue? Why brand they us
+	With base? with baseness? bastardy? base, base?
+	Who in the lusty stealth of nature take
+	More composition and fierce quality
+	Than doth, within a dull, stale, tired bed,
+	Go to the creating a whole tribe of fops,
+	Got 'tween asleep and wake? Well then,
+	Legitimate Edgar, I must have your land:
+	Our father's love is to the bastard Edmund
+	As to the legitimate. Fine word, 'legitimate!'
+	Well, my legitimate, if this letter speed,
+	And my invention thrive, Edmund the base
+	Shall top the legitimate:—I grow, I prosper;
+	Now, gods, stand up for bastards!
+<SPEECH 5><ACT 1><SCENE 2><10%>
+	So please your lordship, none.
+<SPEECH 6><ACT 1><SCENE 2><10%>
+	I know no news, my lord.
+<SPEECH 7><ACT 1><SCENE 2><10%>
+	Nothing, my lord.
+<SPEECH 8><ACT 1><SCENE 2><10%>
+	I beseech you, sir, pardon me; it is a letter from my brother that I have not all o'er-read, and for so much as I have perused, I find it not fit for your o'er-looking.
+<SPEECH 9><ACT 1><SCENE 2><11%>
+	I shall offend, either to detain or give it. The contents, as in part I understand them, are to blame.
+<SPEECH 10><ACT 1><SCENE 2><11%>
+	I hope, for my brother's justification, he wrote this but as an essay or taste of my virtue.
+<SPEECH 11><ACT 1><SCENE 2><11%>
+	It was not brought me, my lord; there's the cunning of it; I found it thrown in at the casement of my closet.
+<SPEECH 12><ACT 1><SCENE 2><11%>
+	If the matter were good, my lord, I durst swear it were his; but, in respect of that, I would fain think it were not.
+<SPEECH 13><ACT 1><SCENE 2><11%>
+	It is his hand, my lord; but I hope his heart is not in the contents.
+<SPEECH 14><ACT 1><SCENE 2><11%>
+	Never, my lord: but I have often heard him maintain it to be fit that, sons at perfect age, and fathers declined, the father should be as ward to the son, and the son manage his revenue.
+<SPEECH 15><ACT 1><SCENE 2><12%>
+	I do not well know, my lord. If it shall please you to suspend your indignation against my brother till you can derive from him better testimony of his intent, you shall run a certain course; where, if you violently proceed against him, mistaking his purpose, it would make a great gap in your own honour, and shake in pieces the heart of his obedience. I dare pawn down my life for him, that he hath writ this to feel my affection to your honour, and to no other pretence of danger.
+<SPEECH 16><ACT 1><SCENE 2><12%>
+	If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction; and that without any further delay than this very evening.
+<SPEECH 17><ACT 1><SCENE 2><12%>
+	Nor is not, sure.
+<SPEECH 18><ACT 1><SCENE 2><12%>
+	I will seek him, sir, presently; convey the business as I shall find means, and acquaint you withal.
+<SPEECH 19><ACT 1><SCENE 2><13%>
+	This is the excellent foppery of the world, that, when we are sick in fortune,—often the surfeit of our own behaviour,—we make guilty of our disasters the sun, the moon, and the stars; as if we were villains by necessity, fools by heavenly compulsion, knaves, thieves, and treachers by spherical predominance, drunkards, liars, and adulterers by an enforced obedience of planetary influence; and all that we are evil in, by a divine thrusting on: an admirable evasion of whoremaster man, to lay his goatish disposition to the charge of a star! My father compounded with my mother under the dragon's tail, and my nativity was under ursa major; so that it follows I am rough and lecherous. 'Sfoot! I should have been that I am had the maidenliest star in the firmament twinkled on my bastardizing. Edgar—
+	and pat he comes, like the catastrophe of the old comedy: my cue is villanous melancholy, with a sigh like Tom o' Bedlam. O, these eclipses do portend these divisions! Fa, sol, la, mi.
+<SPEECH 20><ACT 1><SCENE 2><14%>
+	I am thinking, brother, of a prediction I read this other day, what should follow these eclipses.
+<SPEECH 21><ACT 1><SCENE 2><14%>
+	I promise you the effects he writes of succeed unhappily; as of unnaturalness between the child and the parent; death, dearth, dissolutions of ancient amities; divisions in state; menaces and maledictions against king and nobles; needless diffidences, banishment of friends, dissipation of cohorts, nuptial breaches, and I know not what.
+<SPEECH 22><ACT 1><SCENE 2><14%>
+	Come, come; when saw you my father last?
+<SPEECH 23><ACT 1><SCENE 2><14%>
+	Spake you with him?
+<SPEECH 24><ACT 1><SCENE 2><14%>
+	Parted you in good terms? Found you no displeasure in him by word or countenance?
+<SPEECH 25><ACT 1><SCENE 2><14%>
+	Bethink yourself wherein you may have offended him; and at my entreaty forbear his presence till some little time hath qualified the heat of his displeasure, which at this instant so rageth in him that with the mischief of your person it would scarcely allay.
+<SPEECH 26><ACT 1><SCENE 2><14%>
+	That's my fear. I pray you have a continent forbearance till the speed of his rage goes slower, and, as I say, retire with me to my lodging, from whence I will fitly bring you to hear my lord speak. Pray you, go; there's my key. If you do stir abroad, go armed.
+<SPEECH 27><ACT 1><SCENE 2><14%>
+	Brother, I advise you to the best; go armed; I am no honest man if there be any good meaning toward you; I have told you what I have seen and heard; but faintly, nothing like the image and horror of it; pray you, away.
+<SPEECH 28><ACT 1><SCENE 2><15%>
+	I do serve you in this business.
+	A credulous father, and a brother noble,
+	Whose nature is so far from doing harms
+	That he suspects none; on whose foolish honesty
+	My practices ride easy! I see the business.
+	Let me, if not by birth, have lands by wit:
+	All with me's meet that I can fashion fit.
+<SPEECH 29><ACT 2><SCENE 1><27%>
+	Save thee, Curan.
+<SPEECH 30><ACT 2><SCENE 1><27%>
+	How comes that?
+<SPEECH 31><ACT 2><SCENE 1><27%>
+	Not I: pray you, what are they?
+<SPEECH 32><ACT 2><SCENE 1><28%>
+	Not a word.
+<SPEECH 33><ACT 2><SCENE 1><28%>
+	The duke be here to-night! The better! best!
+	This weaves itself perforce into my business.
+	My father hath set guard to take my brother;
+	And I have one thing, of a queasy question,
+	Which I must act. Briefness and fortune, work!
+	Brother, a word; descend: brother, I say!
+	My father watches: O sir! fly this place;
+	Intelligence is given where you are hid;
+	You have now the good advantage of the night.
+	Have you not spoken 'gainst the Duke of Cornwall?
+	He's coming hither, now, i' the night, i' the haste,
+	And Regan with him; have you nothing said
+	Upon his party 'gainst the Duke of Albany?
+	Advise yourself.
+<SPEECH 34><ACT 2><SCENE 1><28%>
+	I hear my father coming; pardon me;
+	In cunning I must draw my sword upon you;
+	Draw; seem to defend yourself; now 'quit you well.
+	Yield;—come before my father. Light, ho! here!
+	Fly, brother. Torches! torches! So, farewell.
+	Some blood drawn on me would beget opinion
+	Of my more fierce endeavour: I have seen drunkards
+	Do more than this in sport. Father! father!
+	Stop, stop! No help?
+<SPEECH 35><ACT 2><SCENE 1><28%>
+	Here stood he in the dark, his sharp sword out,
+	Mumbling of wicked charms, conjuring the moon
+	To stand auspicious mistress.
+<SPEECH 36><ACT 2><SCENE 1><28%>
+	Look, sir, I bleed.
+<SPEECH 37><ACT 2><SCENE 1><29%>
+	Fled this way, sir. When by no means he could—
+<SPEECH 38><ACT 2><SCENE 1><29%>
+	Persuade me to the murder of your lordship;
+	But that I told him, the revenging gods
+	'Gainst parricides did all their thunders bend;
+	Spoke with how manifold and strong a bond
+	The child was bound to the father; sir, in fine,
+	Seeing how loathly opposite I stood
+	To his unnatural purpose, in fell motion,
+	With his prepared sword he charges home
+	My unprovided body, lanc'd mine arm:
+	But when he saw my best alarum'd spirits
+	Bold in the quarrel's right, rous'd to the encounter,
+	Or whether gasted by the noise I made,
+	Full suddenly he fled.
+<SPEECH 39><ACT 2><SCENE 1><29%>
+	When I dissuaded him from his intent,
+	And found him pight to do it, with curst speech
+	I threaten'd to discover him: he replied,
+	'Thou unpossessing bastard! dost thou think,
+	If I would stand against thee, would the reposal
+	Of any trust, virtue, or worth, in thee
+	Make thy words faith'd? No: what I should deny,—
+	As this I would; ay, though thou didst produce
+	My very character,—I'd turn it all
+	To thy suggestion, plot, and damned practice:
+	And thou must make a dullard of the world,
+	If they not thought the profits of my death
+	Were very pregnant and potential spurs
+	To make thee seek it.'
+<SPEECH 40><ACT 2><SCENE 1><30%>
+	Yes, madam, he was of that consort.
+<SPEECH 41><ACT 2><SCENE 1><30%>
+	'Twas my duty, sir.
+<SPEECH 42><ACT 2><SCENE 1><31%>
+	I shall serve you, sir,
+	Truly, however else.
+<SPEECH 43><ACT 2><SCENE 2><32%>
+	How now! What's the matter?
+<SPEECH 44><ACT 3><SCENE 3><51%>
+	Most savage, and unnatural!
+<SPEECH 45><ACT 3><SCENE 3><51%>
+	This courtesy, forbid thee, shall the duke
+	Instantly know; and of that letter too:
+	This seems a fair deserving, and must draw me
+	That which my father loses; no less than all:
+	The younger rises when the old doth fall.
+<SPEECH 46><ACT 3><SCENE 5><57%>
+	How, my lord, I may be censured, that nature thus gives way to loyalty, something fears me to think of.
+<SPEECH 47><ACT 3><SCENE 5><57%>
+	How malicious is my fortune, that I must repent to be just! This is the letter he spoke of, which approves him an intelligent party to the advantages of France. O heavens! that this treason were not, or not I the detector!
+<SPEECH 48><ACT 3><SCENE 5><57%>
+	If the matter of this paper be certain, you have mighty business in hand.
+<SPEECH 49><ACT 3><SCENE 5><58%>
+	</STAGE DIR> If I find him comforting the king, it will stuff his suspicion more fully. I will persever in my course of loyalty, though the conflict be sore between that and my blood.
+<SPEECH 50><ACT 4><SCENE 2><69%>
+	Yours in the ranks of death.
+<SPEECH 51><ACT 5><SCENE 1><86%>
+	Know of the duke if his last purpose hold,
+	Or whether since he is advis'd by aught
+	To change the course; he's full of alteration
+	And self-reproving; bring his constant pleasure.
+<SPEECH 52><ACT 5><SCENE 1><87%>
+	'Tis to be doubted, madam.
+<SPEECH 53><ACT 5><SCENE 1><87%>
+	In honour'd love.
+<SPEECH 54><ACT 5><SCENE 1><87%>
+	That thought abuses you.
+<SPEECH 55><ACT 5><SCENE 1><87%>
+	No, by mine honour, madam.
+<SPEECH 56><ACT 5><SCENE 1><87%>
+	Fear me not.
+	She and the duke her husband!
+<SPEECH 57><ACT 5><SCENE 1><87%>
+	Sir, you speak nobly.
+<SPEECH 58><ACT 5><SCENE 1><87%>
+	I shall attend you presently at your tent.
+<SPEECH 59><ACT 5><SCENE 1><88%>
+	The enemy's in view; draw up your powers.
+	Here is the guess of their true strength and forces
+	By diligent discovery; but your haste
+	Is now urg'd on you.
+<SPEECH 60><ACT 5><SCENE 1><88%>
+	To both these sisters have I sworn my love;
+	Each jealous of the other, as the stung
+	Are of the adder. Which of them shall I take?
+	Both? one? or neither? Neither can be enjoy'd
+	If both remain alive: to take the widow
+	Exasperates, makes mad her sister Goneril;
+	And hardly shall I carry out my side,
+	Her husband being alive. Now then, we'll use
+	His countenance for the battle; which being done
+	Let her who would be rid of him devise
+	His speedy taking off. As for the mercy
+	Which he intends to Lear, and to Cordelia,
+	The battle done, and they within our power,
+	Shall never see his pardon; for my state
+	Stands on me to defend, not to debate.
+<SPEECH 61><ACT 5><SCENE 3><89%>
+	Some officers take them away: good guard,
+	Until their greater pleasures first be known
+	That are to censure them.
+<SPEECH 62><ACT 5><SCENE 3><90%>
+	Take them away.
+<SPEECH 63><ACT 5><SCENE 3><90%>
+	Come hither, captain; hark,
+	Take thou this note; <STAGE DIR>
+	</STAGE DIR> go follow them to prison:
+	One step I have advanc'd thee; if thou dost
+	As this instructs thee, thou dost make thy way
+	To noble fortunes; know thou this, that men
+	Are as the time is; to be tender-minded
+	Does not become a sword; thy great employment
+	Will not bear question; either say thou'lt do't,
+	Or thrive by other means.
+<SPEECH 64><ACT 5><SCENE 3><91%>
+	About it; and write happy when thou hast done.
+	Mark,—I say, instantly, and carry it so
+	As I have set it down.
+<SPEECH 65><ACT 5><SCENE 3><91%>
+	Sir, I thought it fit
+	To send the old and miserable king
+	To some retention, and appointed guard;
+	Whose age has charms in it, whose title more,
+	To pluck the common bosom on his side,
+	And turn our impress'd lances in our eyes
+	Which do command them. With him I sent the queen;
+	My reason all the same; and they are ready
+	To-morrow, or at further space, to appear
+	Where you shall hold your session. At this time
+	We sweat and bleed; the friend hath lost his friend,
+	And the best quarrels, in the heat, are curs'd
+	By those that feel their sharpness;
+	The question of Cordelia and her father
+	Requires a fitter place.
+<SPEECH 66><ACT 5><SCENE 3><92%>
+	Nor in thine, lord.
+<SPEECH 67><ACT 5><SCENE 3><92%>
+	There's my exchange: <STAGE DIR>
+	</STAGE DIR> what in the world he is
+	That names me traitor, villain-like be lies.
+	Call by thy trumpet: he that dares approach,
+	On him, on you, who not? I will maintain
+	My truth and honour firmly.
+<SPEECH 68><ACT 5><SCENE 3><93%>
+	A herald, ho! a herald!
+<SPEECH 69><ACT 5><SCENE 3><93%>
+	Sound!
+<SPEECH 70><ACT 5><SCENE 3><94%>
+	Himself: what sayst thou to him?
+<SPEECH 71><ACT 5><SCENE 3><94%>
+	In wisdom I should ask thy name;
+	But since thy outside looks so fair and war-like,
+	And that thy tongue some say of breeding breathes,
+	What safe and nicely I might well delay
+	By rule of knighthood, I disdain and spurn;
+	Back do I toss these treasons to thy head,
+	With the hell-hated lie o'erwhelm thy heart,
+	Which, for they yet glance by and scarcely bruise,
+	This sword of mine shall give them instant way,
+	Where they shall rest for ever. Trumpets, speak!
+<SPEECH 72><ACT 5><SCENE 3><95%>
+	Ask me not what I know.
+<SPEECH 73><ACT 5><SCENE 3><95%>
+	What you have charg'd me with, that have I done,
+	And more, much more; the time will bring it out:
+	'Tis past, and so am I. But what art thou
+	That hast this fortune on me? If thou'rt noble,
+	I do forgive thee.
+<SPEECH 74><ACT 5><SCENE 3><95%>
+	Thou hast spoken right, 'tis true;
+	The wheel is come full circle; I am here.
+<SPEECH 75><ACT 5><SCENE 3><96%>
+	This speech of yours hath mov'd me,
+	And shall perchance do good; but speak you on;
+	You look as you had something more to say.
+<SPEECH 76><ACT 5><SCENE 3><97%>
+	I was contracted to them both: all three
+	Now marry in an instant.
+<SPEECH 77><ACT 5><SCENE 3><97%>
+	Yet Edmund was belov'd:
+	The one the other poison'd for my sake,
+	And after slew herself.
+<SPEECH 78><ACT 5><SCENE 3><97%>
+	I pant for life: some good I mean to do
+	Despite of mine own nature. Quickly send,
+	Be brief in it, to the castle; for my writ
+	Is on the life of Lear and on Cordelia.
+	Nay, send in time.
+<SPEECH 79><ACT 5><SCENE 3><97%>
+	Well thought on: take my sword,
+	Give it the captain.
+<SPEECH 80><ACT 5><SCENE 3><97%>
+	He hath commission from my wife and me
+	To hang Cordelia in the prison, and
+	To lay the blame upon her own despair,
+	That she fordid herself.

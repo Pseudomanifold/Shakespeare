@@ -1,0 +1,156 @@
+<SPEECH 1><ACT 3><SCENE 2><47%>
+	Come on, come on, come on, sir; give me your hand, sir, give me your hand, sir: an early stirrer, by the rood! And how doth my good cousin Silence?
+<SPEECH 2><ACT 3><SCENE 2><47%>
+	And how doth my cousin, your bed-fellow? and your fairest daughter and mine, my god-daughter Ellen?
+<SPEECH 3><ACT 3><SCENE 2><47%>
+	By yea and nay, sir, I dare say my cousin William is become a good scholar. He is at Oxford still, is he not?
+<SPEECH 4><ACT 3><SCENE 2><48%>
+	A' must, then, to the inns o' court shortly. I was once of Clement's Inn; where I think they will talk of mad Shallow yet.
+<SPEECH 5><ACT 3><SCENE 2><48%>
+	By the mass, I was called any thing; and I would have done any thing indeed too, and roundly too. There was I, and Little John Doit of Staffordshire, and black George Barnes, and Francis Pickbone, and Will Squele a Cotswold man; you had not four such swinge-bucklers in all the inns of court again: and, I may say to you, we knew where the bona-robas were, and had the best of them all at commandment. Then was Jack Falstaff, now Sir John, a boy, and page to Thomas Mowbray, Duke of Norfolk.
+<SPEECH 6><ACT 3><SCENE 2><48%>
+	The same Sir John, the very same. I saw him break Skogan's head at the court gate, when a' was a crack not thus high: and the very same day did I fight with one Sampson Stockfish, a fruiterer, behind Gray's Inn. Jesu! Jesu! the mad days that I have spent; and to see how many of mine old acquaintance are dead!
+<SPEECH 7><ACT 3><SCENE 2><48%>
+	Certain, 'tis certain; very sure, very sure: death, as the Psalmist saith, is certain to all; all shall die. How a good yoke of bullocks at Stamford fair?
+<SPEECH 8><ACT 3><SCENE 2><48%>
+	Death is certain. Is old Double of your town living yet?
+<SPEECH 9><ACT 3><SCENE 2><48%>
+	Jesu! Jesu! dead! a' drew a good bow; and dead! a' shot a fine shoot: John a Gaunt loved him well, and betted much money on his head. Dead! a' would have clapped i' the clout at twelve score; and carried you a forehand shaft a fourteen and fourteen and a half, that it would have done a man's heart good to see. How a score of ewes now?
+<SPEECH 10><ACT 3><SCENE 2><49%>
+	And is old Double dead?
+<SPEECH 11><ACT 3><SCENE 2><49%>
+	I am Robert Shallow, sir; a poor esquire of this county, and one of the king's justices of the peace: what is your good pleasure with me?
+<SPEECH 12><ACT 3><SCENE 2><49%>
+	He greets me well, sir. I knew him a good backsword man. How doth the good knight? may I ask how my lady his wife doth?
+<SPEECH 13><ACT 3><SCENE 2><49%>
+	It is well said, in faith, sir; and it is well said indeed too. 'Better accommodated!' it is good; yea indeed, is it: good phrases are surely and ever were, very commendable. Accommodated! it comes of accommodo: very good; a good phrase.
+<SPEECH 14><ACT 3><SCENE 2><50%>
+	It is very just. Look, here comes good Sir John. Give me your good hand, give me your worship's good hand. By my troth, you look well and bear your years very well: welcome, good Sir John.
+<SPEECH 15><ACT 3><SCENE 2><50%>
+	No, Sir John; it is my cousin, Silence, in commission with me.
+<SPEECH 16><ACT 3><SCENE 2><50%>
+	Marry, have we, sir. Will you sit?
+<SPEECH 17><ACT 3><SCENE 2><50%>
+	Where's the roll? where's the roll? where's the roll? Let me see, let me see, let me see. So, so, so, so, so, so, so: yea, marry, sir: Ralph Mouldy! let them appear as I call; let them do so, let them do so. Let me see; where is Mouldy?
+<SPEECH 18><ACT 3><SCENE 2><50%>
+	What think you, Sir John? a goodlimbed fellow; young, strong, and of good friends.
+<SPEECH 19><ACT 3><SCENE 2><50%>
+	Ha, ha, ha! most excellent, i' faith! things that are mouldy lack use: very singular good. In faith, well said, Sir John; very well said.
+<SPEECH 20><ACT 3><SCENE 2><51%>
+	Peace, fellow, peace! stand aside: know you where you are? For the other, Sir John: let me see. Simon Shadow!
+<SPEECH 21><ACT 3><SCENE 2><51%>
+	Where's Shadow?
+<SPEECH 22><ACT 3><SCENE 2><51%>
+	Do you like him, Sir John?
+<SPEECH 23><ACT 3><SCENE 2><51%>
+	Thomas Wart?
+<SPEECH 24><ACT 3><SCENE 2><51%>
+	Shall I prick him, Sir John?
+<SPEECH 25><ACT 3><SCENE 2><51%>
+	Ha, ha, ha! you can do it, sir; you can do it: I commend you well. Francis Feeble!
+<SPEECH 26><ACT 3><SCENE 2><51%>
+	Shall I prick him, sir?
+<SPEECH 27><ACT 3><SCENE 2><52%>
+	Peter Bullcalf o' the green!
+<SPEECH 28><ACT 3><SCENE 2><52%>
+	Here is two more called than your number; you must have but four here, sir: and so, I pray you, go in with me to dinner.
+<SPEECH 29><ACT 3><SCENE 2><53%>
+	O, Sir John, do you remember since we lay all night in the windmill in Saint George's fields?
+<SPEECH 30><ACT 3><SCENE 2><53%>
+	Ha! it was a merry night. And is Jane Nightwork alive?
+<SPEECH 31><ACT 3><SCENE 2><53%>
+	She never could away with me.
+<SPEECH 32><ACT 3><SCENE 2><53%>
+	By the mass, I could anger her to the heart. She was then a bona-roba. Doth she hold her own well?
+<SPEECH 33><ACT 3><SCENE 2><53%>
+	Nay she must be old; she cannot choose but be old; certain she's old; and had Robin Nightwork by old Nightwork before I came to Clement's Inn.
+<SPEECH 34><ACT 3><SCENE 2><53%>
+	Ha! cousin Silence, that thou hadst seen that that this knight and I have seen. Ha! Sir John, said I well?
+<SPEECH 35><ACT 3><SCENE 2><53%>
+	That we have, that we have, that we have; in faith, Sir John, we have. Our watchword was, 'Hem, boys!' Come, let's to dinner; come, let's to dinner. Jesus, the days that we have seen! Come, come.
+<SPEECH 36><ACT 3><SCENE 2><54%>
+	Four, of which you please.
+<SPEECH 37><ACT 3><SCENE 2><54%>
+	Come, Sir John, which four will you have?
+<SPEECH 38><ACT 3><SCENE 2><54%>
+	Marry, then, Mouldy, Bullcalf, Feeble, and Shadow.
+<SPEECH 39><ACT 3><SCENE 2><54%>
+	Sir John, Sir John, do not yourself wrong: they are your likeliest men, and I would have you served with the best.
+<SPEECH 40><ACT 3><SCENE 2><55%>
+	He is not his craft's master, he doth not do it right. I remember at Mile-end Green, when I lay at Clement's Inn,—I was then Sir Dagonet in Arthur's show,—there was a little quiver fellow, and a' would manage you his piece thus: and a' would about and about, and come you in, and come you in; 'rah, tah, tah,' would a' say; 'bounce,' would a' say; and away again would a' go, and again would a' come: I shall never see such a fellow.
+<SPEECH 41><ACT 3><SCENE 2><55%>
+	Sir John, the Lord bless you! and prosper your affairs! God send us peace! At your return visit our house; let our old acquaintance be renewed: peradventure I will with ye to the court.
+<SPEECH 42><ACT 3><SCENE 2><56%>
+	Go to; I have spoke at a word. God keep you.
+<SPEECH 43><ACT 5><SCENE 1><83%>
+	By cock and pie, sir, you shall not away to-night. What! Davy, I say.
+<SPEECH 44><ACT 5><SCENE 1><83%>
+	I will not excuse you; you shall not be excused; excuses shall not be admitted; there is no excuse shall serve; you shall not be excused. Why, Davy!
+<SPEECH 45><ACT 5><SCENE 1><84%>
+	Davy, Davy, Davy, Davy, let me see, Davy; let me see: yea, marry, William cook, bid him come hither. Sir John, you shall not be excused.
+<SPEECH 46><ACT 5><SCENE 1><84%>
+	With red wheat, Davy. But for William cook: are there no young pigeons?
+<SPEECH 47><ACT 5><SCENE 1><84%>
+	Let it be cast and paid. Sir John, you shall not be excused.
+<SPEECH 48><ACT 5><SCENE 1><84%>
+	A' shall answer it. Some pigeons, Davy, a couple of short-legged hens, a joint of mutton, and any pretty little tiny kickshaws, tell William cook.
+<SPEECH 49><ACT 5><SCENE 1><84%>
+	Yea, Davy. I will use him well. A friend i' the court is better than a penny in purse. Use his men well, Davy, for they are arrant knaves, and will backbite.
+<SPEECH 50><ACT 5><SCENE 1><84%>
+	Well conceited, Davy: about thy business, Davy.
+<SPEECH 51><ACT 5><SCENE 1><84%>
+	There are many complaints, Davy, against that Visor: that Visor is an arrant knave, on my knowledge.
+<SPEECH 52><ACT 5><SCENE 1><85%>
+	Go to; I say he shall have no wrong. Look about, Davy. <STAGE DIR>
+	</STAGE DIR> Where are you, Sir John? Come, come, come; off with your boots. Give me your hand, Master Bardolph.
+<SPEECH 53><ACT 5><SCENE 1><85%>
+	I thank thee with all my heart, kind Master Bardolph:—<STAGE DIR>
+	</STAGE DIR> and welcome, my tall fellow. Come, Sir John.
+<SPEECH 54><ACT 5><SCENE 1><86%>
+	</STAGE DIR> Sir John!
+<SPEECH 55><ACT 5><SCENE 3><90%>
+	Nay, you shall see mine orchard, where, in an arbour, we will eat a last year's pippin of my own graffing, with a dish of caraways, and so forth; come, cousin Silence; and then to bed.
+<SPEECH 56><ACT 5><SCENE 3><91%>
+	Barren, barren, barren; beggars all, beggars all, Sir John: marry, good air. Spread, Davy; spread, Davy: well said, Davy.
+<SPEECH 57><ACT 5><SCENE 3><91%>
+	A good varlet, a good varlet, a very good varlet, Sir John: by the mass, I have drunk too much sack at supper: a good varlet. Now sit down, now sit down. Come, cousin.
+<SPEECH 58><ACT 5><SCENE 3><91%>
+	Give Master Bardolph some wine, Davy.
+<SPEECH 59><ACT 5><SCENE 3><91%>
+	Be merry, Master Bardolph; and my little soldier there, be merry.
+<SPEECH 60><ACT 5><SCENE 3><92%>
+	Davy!
+<SPEECH 61><ACT 5><SCENE 3><92%>
+	Honest Bardolph, welcome: if thou wantest anything and wilt not call, beshrew thy heart. <STAGE DIR>
+	</STAGE DIR> Welcome, my little tiny thief; and welcome indeed too. I'll drink to Master Bardolph and to all the cavaleiroes about London.
+<SPEECH 62><ACT 5><SCENE 3><92%>
+	By the mass, you'll crack a quart together: ha! will you not, Master Bardolph?
+<SPEECH 63><ACT 5><SCENE 3><92%>
+	By God's liggens, I thank thee. The knave will stick by thee, I can assure thee that: a' will not out; he is true bred.
+<SPEECH 64><ACT 5><SCENE 3><92%>
+	Why, there spoke a king. Lack nothing: be merry. <STAGE DIR>
+	</STAGE DIR> Look who's at door there. Ho! who knocks?
+<SPEECH 65><ACT 5><SCENE 3><93%>
+	Honest gentleman, I know not your breeding.
+<SPEECH 66><ACT 5><SCENE 3><93%>
+	Give me pardon, sir: if, sir, you come with news from the court, I take it there is but two ways: either to utter them, or to conceal them. I am, sir, under the king, in some authority.
+<SPEECH 67><ACT 5><SCENE 3><94%>
+	Under King Harry.
+<SPEECH 68><ACT 5><SCENE 3><94%>
+	Harry the Fourth.
+<SPEECH 69><ACT 5><SCENE 5><96%>
+	It doth so.
+<SPEECH 70><ACT 5><SCENE 5><96%>
+	It doth so.
+<SPEECH 71><ACT 5><SCENE 5><96%>
+	It doth, it doth, it doth.
+<SPEECH 72><ACT 5><SCENE 5><96%>
+	It is most certain.
+<SPEECH 73><ACT 5><SCENE 5><96%>
+	'Tis so, indeed.
+<SPEECH 74><ACT 5><SCENE 5><98%>
+	Ay, marry, Sir John; which I beseech you to let me have home with me.
+<SPEECH 75><ACT 5><SCENE 5><98%>
+	I cannot perceive how, unless you should give me your doublet and stuff me out with straw. I beseech you, good Sir John, let me have five hundred of my thousand.
+<SPEECH 76><ACT 5><SCENE 5><98%>
+	A colour that I fear you will die in, Sir John.

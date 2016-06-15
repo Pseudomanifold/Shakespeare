@@ -1,0 +1,55 @@
+<SPEECH 1><ACT 2><SCENE 2><25%>
+	Is it come to that? I had thought weariness durst not have attached one of so high blood.
+<SPEECH 2><ACT 2><SCENE 2><25%>
+	Why, a prince should not be so loosely studied as to remember so weak a composition.
+<SPEECH 3><ACT 2><SCENE 2><26%>
+	How ill it follows, after you have laboured so hard, you should talk so idly! Tell me, how many good young princes would do so, their fathers being so sick as yours at this time is?
+<SPEECH 4><ACT 2><SCENE 2><26%>
+	Yes, faith, and let it be an excellent good thing.
+<SPEECH 5><ACT 2><SCENE 2><26%>
+	Go to; I stand the push of your one thing that you will tell.
+<SPEECH 6><ACT 2><SCENE 2><26%>
+	Very hardly upon such a subject.
+<SPEECH 7><ACT 2><SCENE 2><26%>
+	The reason?
+<SPEECH 8><ACT 2><SCENE 2><26%>
+	I would think thee a most princely hypocrite.
+<SPEECH 9><ACT 2><SCENE 2><27%>
+	Why, because you have been so lewd and so much engraffed to Falstaff.
+<SPEECH 10><ACT 2><SCENE 2><27%>
+	By this light, I am well spoke on; I can hear it with mine own ears: the worst that they can say of me is that I am a second brother and that I am a proper fellow of my hands; and these two things I confess I cannot help. By the mass, here comes Bardolph.
+<SPEECH 11><ACT 2><SCENE 2><28%>
+	O! that this good blossom could be kept from cankers. Well, there is sixpence to preserve thee.
+<SPEECH 12><ACT 2><SCENE 2><28%>
+	Delivered with good respect. And how doth the martlemas, your master?
+<SPEECH 13><ACT 2><SCENE 2><28%>
+	Marry, the immortal part needs a physician; but that moves not him: though that be sick, it dies not.
+<SPEECH 14><ACT 2><SCENE 2><28%>
+	'John Falstaff, knight,'—every man must know that, as oft as he has occasion to name himself: even like those that are akin to the king, for they never prick their finger but they say, 'There is some of the king's blood spilt.' 'How comes that?' says he that takes upon him not to conceive. The answer is as ready as a borrower's cap, 'I am the king's poor cousin, sir.'
+<SPEECH 15><ACT 2><SCENE 2><28%>
+	Sir John Falstaff, knight, to the son of the king nearest his father, Harry Prince of Wales, greeting. Why, this is a certificate.
+<SPEECH 16><ACT 2><SCENE 2><28%>
+	I will imitate the honourable Romans in brevity: sure he means brevity in breath, short-winded.—I commend me to thee, I commend thee, and I leave thee. Be not too familiar with Poins; for he misuses thy favours so much that he swears thou art to marry his sister Nell. Repent at idle times as thou mayest, and so farewell.
+	My lord, I'll steep this letter in sack and make him eat it.
+<SPEECH 17><ACT 2><SCENE 2><29%>
+	God send the wench no worse fortune! but I never said so.
+<SPEECH 18><ACT 2><SCENE 2><29%>
+	I am your shadow, my lord; I'll follow you.
+<SPEECH 19><ACT 2><SCENE 2><30%>
+	I warrant you, as common as the way between Saint Alban's and London.
+<SPEECH 20><ACT 2><SCENE 2><30%>
+	Put on two leathern jerkins and aprons, and wait upon him at his table as drawers.
+<SPEECH 21><ACT 2><SCENE 4><40%>
+	Let's beat him before his whore.
+<SPEECH 22><ACT 2><SCENE 4><40%>
+	Is it not strange that desire should so many years outlive performance?
+<SPEECH 23><ACT 2><SCENE 4><40%>
+	And, look, whether the fiery Trigon, his man, be not lisping to his master's old tables, his note-book, his counsel-keeper.
+<SPEECH 24><ACT 2><SCENE 4><41%>
+	</STAGE DIR> Anon, anon, sir.
+<SPEECH 25><ACT 2><SCENE 4><41%>
+	My lord, he will drive you out of your revenge and turn all to a merriment, if you take not the heat.
+<SPEECH 26><ACT 2><SCENE 4><42%>
+	No abuse!
+<SPEECH 27><ACT 2><SCENE 4><42%>
+	Answer, thou dead elm, answer.

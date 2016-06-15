@@ -1,0 +1,156 @@
+<SPEECH 1><ACT 5><SCENE 1><83%>
+	I am fearful. Wherefore frowns he thus?
+	'Tis his aspect of terror: all's not well.
+<SPEECH 2><ACT 5><SCENE 1><83%>
+	</STAGE DIR> It is my duty
+	To attend your highness' pleasure.
+<SPEECH 3><ACT 5><SCENE 1><83%>
+	</STAGE DIR> I humbly thank your highness;
+	And am right glad to catch this good occasion
+	Most throughly to be winnow'd, where my chaff
+	And corn shall fly asunder; for I know
+	There's none stands under more calumnious tongues
+	Than I myself, poor man.
+<SPEECH 4><ACT 5><SCENE 1><84%>
+	Most dread liege,
+	The good I stand on is my truth and honesty:
+	If they shall fail, I, with mine enemies,
+	Will triumph o'er my person; which I weigh not,
+	Being of those virtues vacant. I fear nothing
+	What can be said against me.
+<SPEECH 5><ACT 5><SCENE 1><84%>
+	God and your majesty
+	Protect mine innocence! or I fall into
+	The trap is laid for me!
+<SPEECH 6><ACT 5><SCENE 2><86%>
+	I hope I am not too late; and yet the gentleman,
+	That was sent to me from the council, pray'd me
+	To make great haste. All fast? what means this? Ho!
+	Who waits there?
+	Sure, you know me?
+<SPEECH 7><ACT 5><SCENE 2><86%>
+	Why?
+<SPEECH 8><ACT 5><SCENE 2><86%>
+	So.
+<SPEECH 9><ACT 5><SCENE 2><86%>
+	</STAGE DIR> 'Tis Butts,
+	The king's physician. As he past along,
+	How earnestly he cast his eyes upon me.
+	Pray heaven he sound not my disgrace! For certain,
+	This is of purpose laid by some that hate me,—
+	God turn their hearts! I never sought their malice,—
+	To quench mine honour: they would shame to make me
+	Wait else at door, a fellow-counsellor,
+	'Mong boys, grooms, and lackeys. But their pleasures
+	Must be fulfill'd, and I attend with patience.
+<SPEECH 10><ACT 5><SCENE 3><89%>
+	My good lords, hitherto in all the progress
+	Both of my life and office, I have labour'd,
+	And with no little study, that my teaching
+	And the strong course of my authority
+	Might go one way, and safely; and the end
+	Was ever, to do well: nor is there living,—
+	I speak it with a single heart, my lords,—
+	A man that more detests, more stirs against,
+	Both in his private conscience and his place,
+	Defacers of a public peace, than I do.
+	Pray heaven the king may never find a heart
+	With less allegiance in it! Men, that make
+	Envy and crooked malice nourishment
+	Dare bite the best. I do beseech your lordships
+	That, in this case of justice, my accusers,
+	Be what they will, may stand forth face to face,
+	And freely urge against me.
+<SPEECH 11><ACT 5><SCENE 3><89%>
+	Ah! my good Lord of Winchester, I thank you;
+	You are always my good friend: if your will pass,
+	I shall both find your lordship judge and juror,
+	You are so merciful. I see your end;
+	'Tis my undoing: love and meekness, lord,
+	Become a churchman better than ambition:
+	Win straying souls with modesty again,
+	Cast none away. That I shall clear myself,
+	Lay all the weight ye can upon my patience,
+	I make as little doubt, as you do conscience,
+	In doing daily wrongs. I could say more,
+	But reverence to your calling makes me modest.
+<SPEECH 12><ACT 5><SCENE 3><90%>
+	Is there no other way of mercy,
+	But I must needs to the Tower, my lords?
+<SPEECH 13><ACT 5><SCENE 3><91%>
+	For me?
+	Must I go like a traitor thither?
+<SPEECH 14><ACT 5><SCENE 3><91%>
+	Stay, good my lords;
+	I have a little yet to say. Look there, my lords;
+	By virtue of that ring I take my cause
+	Out of the gripes of cruel men, and give it
+	To a most noble judge, the king my master.
+<SPEECH 15><ACT 5><SCENE 3><93%>
+	The greatest monarch now alive may glory
+	In such an honour: how may I deserve it,
+	That am a poor and humble subject to you?
+<SPEECH 16><ACT 5><SCENE 3><93%>
+	And let heaven
+	Witness, how dear I hold this confirmation.
+<SPEECH 17><ACT 5><SCENE 5><97%>
+	</STAGE DIR> And to your royal Grace, and the good queen,
+	My noble partners, and myself, thus pray:
+	All comfort, joy, in this most gracious lady,
+	Heaven ever laid up to make parents happy,
+	May hourly fall upon ye!
+<SPEECH 18><ACT 5><SCENE 5><97%>
+	Elizabeth.
+<SPEECH 19><ACT 5><SCENE 5><97%>
+	Amen.
+<SPEECH 20><ACT 5><SCENE 5><98%>
+	Let me speak, sir,
+	For heaven now bids me; and the words I utter
+	Let none think flattery, for they'll find 'em truth.
+	This royal infant,—heaven still move about her!—
+	Though in her cradle, yet now promises
+	Upon this land a thousand thousand blessings,
+	Which time shall bring to ripeness: she shall be—
+	But few now living can behold that goodness—
+	A pattern to all princes living with her,
+	And all that shall succeed: Saba was never
+	More covetous of wisdom and fair virtue
+	Than this pure soul shall be: all princely graces,
+	That mould up such a mighty piece as this is,
+	With all the virtues that attend the good,
+	Shall still be doubled on her; truth shall nurse her;
+	Holy and heavenly thoughts still counsel her;
+	She shall be lov'd and fear'd; her own shall bless her;
+	Her foes shake like a field of beaten corn,
+	And hang their heads with sorrow; good grows with her.
+	In her days every man shall eat in safety
+	Under his own vine what he plants; and sing
+	The merry songs of peace to all his neighbours.
+	God shall be truly known; and those about her
+	From her shall read the perfect ways of honour,
+	And by those claim their greatness, not by blood.
+	Nor shall this peace sleep with her; but as when
+	The bird of wonder dies, the maiden phœnix,
+	Her ashes new-create another heir
+	As great in admiration as herself,
+	So shall she leave her blessedness to one,—
+	When heaven shall call her from this cloud of darkness,—
+	Who, from the sacred ashes of her honour,
+	Shall star-like rise, as great in fame as she was,
+	And so stand fix'd. Peace, plenty, love, truth, terror,
+	That were the servants to this chosen infant,
+	Shall then be his, and like a vine grow to him:
+	Wherever the bright sun of heaven shall shine,
+	His honour and the greatness of his name
+	Shall be, and make new nations; he shall flourish,
+	And, like a mountain cedar, reach his branches
+	To all the plains about him; our children's children
+	Shall see this, and bless heaven.
+<SPEECH 21><ACT 5><SCENE 5><99%>
+	She shall be, to the happiness of England,
+	An aged princess; many days shall see her,
+	And yet no day without a deed to crown it.
+	Would I had known no more! but she must die,
+	She must, the saints must have her, yet a virgin;
+	A most unspotted lily shall she pass
+	To the ground, and all the world shall mourn her.

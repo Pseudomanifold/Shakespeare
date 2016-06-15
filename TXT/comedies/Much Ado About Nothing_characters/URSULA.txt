@@ -1,0 +1,56 @@
+<SPEECH 1><ACT 2><SCENE 1><19%>
+	I know you well enough: you are Signior Antonio.
+<SPEECH 2><ACT 2><SCENE 1><19%>
+	I know you by the waggling of your head.
+<SPEECH 3><ACT 2><SCENE 1><19%>
+	You could never do him so ill-well, unless you were the very man. Here's his dry hand up and down: you are he, you are he.
+<SPEECH 4><ACT 2><SCENE 1><20%>
+	Come, come; do you think I do not know you by your excellent wit? Can virtue hide itself? Go to, mum, you are he: graces will appear, and there's an end.
+<SPEECH 5><ACT 3><SCENE 1><42%>
+	The pleasant'st angling is to see the fish
+	Cut with her golden oars the silver stream,
+	And greedily devour the treacherous bait:
+	So angle we for Beatrice; who even now
+	Is couched in the woodbine coverture.
+	Fear you not my part of the dialogue.
+<SPEECH 6><ACT 3><SCENE 1><43%>
+	But are you sure
+	That Benedick loves Beatrice so entirely?
+<SPEECH 7><ACT 3><SCENE 1><43%>
+	And did they bid you tell her of it, madam?
+<SPEECH 8><ACT 3><SCENE 1><43%>
+	Why did you so? Doth not the gentleman
+	Deserve as full as fortunate a bed
+	As ever Beatrice shall couch upon?
+<SPEECH 9><ACT 3><SCENE 1><43%>
+	Sure, I think so;
+	And therefore certainly it were not good
+	She knew his love, lest she make sport at it.
+<SPEECH 10><ACT 3><SCENE 1><44%>
+	Sure, sure, such carping is not commendable.
+<SPEECH 11><ACT 3><SCENE 1><44%>
+	Yet tell her of it: hear what she will say.
+<SPEECH 12><ACT 3><SCENE 1><44%>
+	O! do not do your cousin such a wrong.
+	She cannot be so much without true judgment,—
+	Having so swift and excellent a wit
+	As she is priz'd to have,—as to refuse
+	So rare a gentleman as Signior Benedick.
+<SPEECH 13><ACT 3><SCENE 1><45%>
+	I pray you, be not angry with me, madam,
+	Speaking my fancy: Signior Benedick,
+	For shape, for bearing, argument and valour,
+	Goes foremost in report through Italy.
+<SPEECH 14><ACT 3><SCENE 1><45%>
+	His excellence did earn it, ere he had it.
+	When are you married, madam?
+<SPEECH 15><ACT 3><SCENE 1><45%>
+	She's lim'd, I warrant you: we have caught her, madam.
+<SPEECH 16><ACT 3><SCENE 4><57%>
+	I will, lady.
+<SPEECH 17><ACT 3><SCENE 4><57%>
+	Well.
+<SPEECH 18><ACT 3><SCENE 4><60%>
+	Madam, withdraw: the prince, the count, Signior Benedick, Don John, and all the gallants of the town, are come to fetch you to church.
+<SPEECH 19><ACT 5><SCENE 2><93%>
+	Madam, you must come to your uncle. Yonder's old coil at home: it is proved, my Lady Hero hath been falsely accused, the prince and Claudio mightily abused; and Don John is the author of all, who is fled and gone. Will you come presently?

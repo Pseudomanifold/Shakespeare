@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 4><SCENE 4><70%>
+	Give me your hand and let me feel your pulse.
+<SPEECH 2><ACT 4><SCENE 4><70%>
+	I charge thee, Satan, hous'd within this man,
+	To yield possession to my holy prayers,
+	And to thy state of darkness hie thee straight:
+	I conjure thee by all the saints in heaven.
+<SPEECH 3><ACT 4><SCENE 4><72%>
+	It is no shame: the fellow finds his vein,
+	And, yielding to him humours well his frenzy.
+<SPEECH 4><ACT 4><SCENE 4><72%>
+	Mistress, both man and master is possess'd:
+	I know it by their pale and deadly looks.
+	They must be bound and laid in some dark room.
+<SPEECH 5><ACT 4><SCENE 4><73%>
+	More company! the fiend is strong within him.
+<SPEECH 6><ACT 4><SCENE 4><74%>
+	Go bind this man, for he is frantic too.

@@ -1,0 +1,228 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	I pray you is Signior Mountanto returned from the wars or no?
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	He set up his bills here in Messina and challenged Cupid at the flight; and my uncle's fool, reading the challenge, subscribed for Cupid, and challenged him at the bird-bolt. I pray you, how many hath he killed and eaten in these wars? But how many hath he killed? for, indeed, I promised to eat all of his killing.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	You had musty victual, and he hath holp to eat it: he is a very valiant trencherman; he hath an excellent stomach.
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	And a good soldier to a lady; but what is he to a lord?
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	It is so, indeed; he is no less than a stuffed man; but for the stuffing,—well, we are all mortal.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Alas! he gets nothing by that. In our last conflict four of his five wits went halting off, and now is the whole man governed with one! so that if he have wit enough to keep himself warm, let him bear it for a difference between himself and his horse; for it is all the wealth that he hath left to be known a reasonable creature. Who is his companion now? He hath every month a new sworn brother.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	Very easily possible: he wears his faith but as the fashion of his hat; it ever changes with the next block.
+<SPEECH 8><ACT 1><SCENE 1><3%>
+	No; an he were, I would burn my study. But, I pray you, who is his companion? Is there no young squarer now that will make a voyage with him to the devil?
+<SPEECH 9><ACT 1><SCENE 1><3%>
+	O Lord! he will hang upon him like a disease: he is sooner caught than the pestilence, and the taker runs presently mad. God help the noble Claudio! if he have caught the Benedick, it will cost him a thousand pound ere a' be cured.
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	Do, good friend.
+<SPEECH 11><ACT 1><SCENE 1><3%>
+	No, not till a hot January.
+<SPEECH 12><ACT 1><SCENE 1><4%>
+	I wonder that you will still be talking, Signior Benedick: nobody marks you.
+<SPEECH 13><ACT 1><SCENE 1><4%>
+	Is it possible Disdain should die while she hath such meet food to feed it as Signior Benedick? Courtesy itself must convert to disdain, if you come in her presence.
+<SPEECH 14><ACT 1><SCENE 1><5%>
+	A dear happiness to women: they would else have been troubled with a pernicious suitor. I thank God and my cold blood, I am of your humour for that: I had rather hear my dog bark at a crow than a man swear he loves me.
+<SPEECH 15><ACT 1><SCENE 1><5%>
+	Scratching could not make it worse, an 'twere such a face as yours were.
+<SPEECH 16><ACT 1><SCENE 1><5%>
+	A bird of my tongue is better than a beast of yours.
+<SPEECH 17><ACT 1><SCENE 1><5%>
+	You always end with a jade's trick: I know you of old.
+<SPEECH 18><ACT 2><SCENE 1><16%>
+	How tartly that gentleman looks! I never can see him but I am heart-burned an hour after.
+<SPEECH 19><ACT 2><SCENE 1><16%>
+	He were an excellent man that were made just in the mid-way between him and Benedick: the one is too like an image, and says nothing; and the other too like my lady's eldest son, evermore tattling.
+<SPEECH 20><ACT 2><SCENE 1><16%>
+	With a good leg and a good foot, uncle, and money enough in his purse, such a man would win any woman in the world, if a' could get her good will.
+<SPEECH 21><ACT 2><SCENE 1><16%>
+	Too curst is more than curst: I shall lessen God's sending that way; for it is said, 'God sends a curst cow short horns;' but to a cow too curst he sends none.
+<SPEECH 22><ACT 2><SCENE 1><16%>
+	Just, if he send me no husband; for the which blessing I am at him upon my knees every morning and evening. Lord! I could not endure a husband with a beard on his face: I had rather lie in the woollen.
+<SPEECH 23><ACT 2><SCENE 1><17%>
+	What should I do with him? dress him in my apparel and make him my waiting-gentlewoman? He that hath a beard is more than a youth, and he that hath no beard is less than a man; and he that is more than a youth is not for me; and he that is less than a man, I am not for him: therefore I will even take sixpence in earnest of the bear-ward, and lead his apes into hell.
+<SPEECH 24><ACT 2><SCENE 1><17%>
+	No; but to the gate; and there will the devil meet me, like an old cuckold, with horns on his head, and say, 'Get you to heaven, Beatrice, get you to heaven; here's no place for you maids:' so deliver I up my apes, and away to Saint Peter for the heavens; he shows me where the bachelors sit, and there live we as merry as the day is long.
+<SPEECH 25><ACT 2><SCENE 1><17%>
+	Yes, faith; it is my cousin's duty to make curtsy, and say, 'Father, as it please you:'—but yet for all that, cousin, let him be a handsome fellow, or else make another curtsy, and say, 'Father, as it please me.'
+<SPEECH 26><ACT 2><SCENE 1><17%>
+	Not till God make men of some other metal than earth. Would it not grieve a woman to be over-mastered with a piece of valiant dust? to make an account of her life to a clod of wayward marl? No, uncle, I'll none: Adam's sons are my brethren; and truly, I hold it a sin to match in my kindred.
+<SPEECH 27><ACT 2><SCENE 1><18%>
+	The fault will be in the music, cousin, if you be not wooed in good time: if the prince be too important, tell him there is measure in everything, and so dance out the answer. For, hear me, Hero: wooing, wedding, and repenting, is as a Scotch jig, a measure, and a cinque-pace: the first suit is hot and hasty, like a Scotch jig, and full as fantastical; the wedding, mannerly-modest, as a measure, full of state and ancientry; and then comes Repentance, and, with his bad legs, falls into the cinque-pace faster and faster, till he sink into his grave.
+<SPEECH 28><ACT 2><SCENE 1><18%>
+	I have a good eye, uncle: I can see a church by daylight.
+<SPEECH 29><ACT 2><SCENE 1><20%>
+	Will you not tell me who told you so?
+<SPEECH 30><ACT 2><SCENE 1><20%>
+	Nor will you not tell me who you are?
+<SPEECH 31><ACT 2><SCENE 1><20%>
+	That I was disdainful, and that I had my good wit out of the 'Hundred Merry Tales.' Well, this was Signior Benedick that said so.
+<SPEECH 32><ACT 2><SCENE 1><20%>
+	I am sure you know him well enough.
+<SPEECH 33><ACT 2><SCENE 1><20%>
+	Did he never make you laugh?
+<SPEECH 34><ACT 2><SCENE 1><20%>
+	Why, he is the prince's jester: a very dull fool; only his gift is in devising impossible slanders: none but libertines delight in him; and the commendation is not in his wit, but in his villany; for he both pleases men and angers them, and then they laugh at him and beat him. I am sure he is in the fleet: I would he had boarded me!
+<SPEECH 35><ACT 2><SCENE 1><20%>
+	Do, do: he'll but break a comparison or two on me; which, peradventure not marked or not laughed at, strikes him into melancholy; and then there's a partridge wing saved, for the fool will eat no supper that night. <STAGE DIR>
+	</STAGE DIR> We must follow the leaders.
+<SPEECH 36><ACT 2><SCENE 1><21%>
+	Nay, if they lead to any ill, I will leave them at the next turning.
+<SPEECH 37><ACT 2><SCENE 1><25%>
+	Indeed, my lord, he lent it me awhile; and I gave him use for it, a double heart for a single one: marry, once before he won it of me with false dice, therefore your Grace may well say I have lost it.
+<SPEECH 38><ACT 2><SCENE 1><26%>
+	So I would not he should do me, my lord, lest I should prove the mother of fools. I have brought Count Claudio, whom you sent me to seek.
+<SPEECH 39><ACT 2><SCENE 1><26%>
+	The count is neither sad, nor sick, nor merry, nor well; but civil count, civil as an orange, and something of that jealous complexion.
+<SPEECH 40><ACT 2><SCENE 1><26%>
+	Speak, count, 'tis your cue.
+<SPEECH 41><ACT 2><SCENE 1><26%>
+	Speak, cousin; or, if you cannot, stop his mouth with a kiss, and let not him speak neither.
+<SPEECH 42><ACT 2><SCENE 1><26%>
+	Yea, my lord; I thank it, poor fool, it keeps on the windy side of care. My cousin tells him in his ear that he is in her heart.
+<SPEECH 43><ACT 2><SCENE 1><27%>
+	Good Lord, for alliance! Thus goes every one to the world but I, and I am sunburnt. I may sit in a corner and cry heigh-ho for a husband!
+<SPEECH 44><ACT 2><SCENE 1><27%>
+	I would rather have one of your father's getting. Hath your Grace ne'er a brother like you? Your father got excellent husbands, if a maid could come by them.
+<SPEECH 45><ACT 2><SCENE 1><27%>
+	No, my lord, unless I might have another for working days: your Grace is too costly to wear every day. But, I beseech your Grace, pardon me; I was born to speak all mirth and no matter.
+<SPEECH 46><ACT 2><SCENE 1><27%>
+	No, sure, my lord, my mother cried; but then there was a star danced, and under that was I born. Cousins, God give you joy!
+<SPEECH 47><ACT 2><SCENE 1><27%>
+	I cry you mercy, uncle. By your Grace's pardon.
+<SPEECH 48><ACT 2><SCENE 3><40%>
+	Against my will I am sent to bid you come in to dinner.
+<SPEECH 49><ACT 2><SCENE 3><41%>
+	I took no more pains for those thanks than you take pains to thank me: if it had been painful, I would not have come.
+<SPEECH 50><ACT 2><SCENE 3><41%>
+	Yea, just so much as you may take upon a knife's point, and choke a daw withal. You have no stomach, signior: fare you well.
+<SPEECH 51><ACT 3><SCENE 1><45%>
+	</STAGE DIR> What fire is in mine ears? Can this be true?
+	Stand I condemn'd for pride and scorn so much?
+	Contempt, farewell! and maiden pride, adieu!
+	No glory lives behind the back of such.
+	And, Benedick, love on; I will requite thee,
+	Taming my wild heart to thy loving hand:
+	If thou dost love, my kindness shall incite thee
+	To bind our loves up in a holy band;
+	For others say thou dost deserve, and I
+	Believe it better than reportingly.
+<SPEECH 52><ACT 3><SCENE 4><58%>
+	Good morrow, sweet Hero.
+<SPEECH 53><ACT 3><SCENE 4><58%>
+	I am out of all other tune, methinks.
+<SPEECH 54><ACT 3><SCENE 4><58%>
+	Ye light o' love with your heels! then, if your husband have stables enough, you'll see he shall lack no barns.
+<SPEECH 55><ACT 3><SCENE 4><58%>
+	'Tis almost five o'clock, cousin; 'tis time you were ready. By my troth, I am exceeding ill. Heigh-ho!
+<SPEECH 56><ACT 3><SCENE 4><58%>
+	For the letter that begins them all, H.
+<SPEECH 57><ACT 3><SCENE 4><59%>
+	What means the fool, trow?
+<SPEECH 58><ACT 3><SCENE 4><59%>
+	I am stuffed, cousin, I cannot smell.
+<SPEECH 59><ACT 3><SCENE 4><59%>
+	O, God help me! God help me! how long have you professed apprehension?
+<SPEECH 60><ACT 3><SCENE 4><59%>
+	It is not seen enough, you should wear it in your cap. By my troth, I am sick.
+<SPEECH 61><ACT 3><SCENE 4><59%>
+	Benedictus! why Benedictus? you have some moral in this Benedictus.
+<SPEECH 62><ACT 3><SCENE 4><60%>
+	What pace is this that thy tongue keeps?
+<SPEECH 63><ACT 4><SCENE 1><66%>
+	Why, how now, cousin! wherefore sink you down?
+<SPEECH 64><ACT 4><SCENE 1><67%>
+	Dead, I think! help, uncle!
+	Hero! why, Hero! Uncle! Signior Benedick!
+	Friar!
+<SPEECH 65><ACT 4><SCENE 1><67%>
+	How now, cousin Hero!
+<SPEECH 66><ACT 4><SCENE 1><68%>
+	O! on my soul, my cousin is belied!
+<SPEECH 67><ACT 4><SCENE 1><68%>
+	No, truly, not; although, until last night,
+	I have this twelvemonth been her bedfellow.
+<SPEECH 68><ACT 4><SCENE 1><72%>
+	Yea, and I will weep a while longer.
+<SPEECH 69><ACT 4><SCENE 1><72%>
+	You have no reason; I do it freely.
+<SPEECH 70><ACT 4><SCENE 1><72%>
+	Ah! how much might the man deserve of me that would right her.
+<SPEECH 71><ACT 4><SCENE 1><72%>
+	A very even way, but no such friend.
+<SPEECH 72><ACT 4><SCENE 1><72%>
+	It is a man's office, but not yours.
+<SPEECH 73><ACT 4><SCENE 1><72%>
+	As strange as the thing I know not.
+	It were as possible for me to say I loved nothing so well as your, but believe me not, and yet I lie not; I confess nothing, not I deny nothing. I am sorry for my cousin.
+<SPEECH 74><ACT 4><SCENE 1><72%>
+	Do not swear by it, and eat it.
+<SPEECH 75><ACT 4><SCENE 1><72%>
+	Will you not eat your word?
+<SPEECH 76><ACT 4><SCENE 1><72%>
+	Why then, God forgive me!
+<SPEECH 77><ACT 4><SCENE 1><72%>
+	You have stayed me in a happy hour:
+	I was about to protest I loved you.
+<SPEECH 78><ACT 4><SCENE 1><73%>
+	I love you with so much of my heart that none is left to protest.
+<SPEECH 79><ACT 4><SCENE 1><73%>
+	Kill Claudio.
+<SPEECH 80><ACT 4><SCENE 1><73%>
+	You kill me to deny it. Farewell.
+<SPEECH 81><ACT 4><SCENE 1><73%>
+	I am gone, though I am here: there is no love in you: nay, I pray you, let me go.
+<SPEECH 82><ACT 4><SCENE 1><73%>
+	In faith, I will go.
+<SPEECH 83><ACT 4><SCENE 1><73%>
+	You dare easier be friends with me than fight with mine enemy.
+<SPEECH 84><ACT 4><SCENE 1><73%>
+	Is he not approved in the height a villain, that hath slandered, scorned, dishonoured my kinswoman? O! that I were a man. What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man! I would eat his heart in the market-place.
+<SPEECH 85><ACT 4><SCENE 1><73%>
+	Talk with a man out at a window! a proper saying!
+<SPEECH 86><ACT 4><SCENE 1><73%>
+	Sweet Hero! she is wronged, she is slandered, she is undone.
+<SPEECH 87><ACT 4><SCENE 1><73%>
+	Princes and counties! Surely, a princely testimony, a goodly Count Comfect; a sweet gallant, surely! O! that I were a man for his sake, or that I had any friend would be a man for my sake! But manhood is melted into curtsies, valour into compliment, and men are only turned into tongue, and trim ones too: he is now as valiant as Hercules, that only tells a lie and swears it. I cannot be a man with wishing, therefore I will die a woman with grieving.
+<SPEECH 88><ACT 4><SCENE 1><74%>
+	Use it for my love some other way than swearing by it.
+<SPEECH 89><ACT 4><SCENE 1><74%>
+	Yea, as sure as I have a thought or a soul.
+<SPEECH 90><ACT 5><SCENE 2><91%>
+	Yea, signior; and depart when you bid me.
+<SPEECH 91><ACT 5><SCENE 2><91%>
+	'Then' is spoken; fare you well now: and yet, ere I go, let me go with that I came for; which is, with knowing what hath passed between you and Claudio.
+<SPEECH 92><ACT 5><SCENE 2><92%>
+	Foul words is but foul wind, and foul wind is but foul breath, and foul breath is noisome; therefore I will depart unkissed.
+<SPEECH 93><ACT 5><SCENE 2><92%>
+	For them all together; which maintained so politic a state of evil that they will not admit any good part to intermingle with them. But for which of my good parts did you first suffer love for me?
+<SPEECH 94><ACT 5><SCENE 2><92%>
+	In spite of your heart, I think. Alas, poor heart! If you spite it for my sake, I will spite it for yours; for I will never love that which my friend hates.
+<SPEECH 95><ACT 5><SCENE 2><92%>
+	It appears not in this confession: there's not one wise man among twenty that will praise himself.
+<SPEECH 96><ACT 5><SCENE 2><93%>
+	And how long is that think you?
+<SPEECH 97><ACT 5><SCENE 2><93%>
+	Very ill.
+<SPEECH 98><ACT 5><SCENE 2><93%>
+	Very ill too.
+<SPEECH 99><ACT 5><SCENE 2><93%>
+	Will you go hear this news, signior?
+<SPEECH 100><ACT 5><SCENE 4><98%>
+	</STAGE DIR> I answer to that name. What is your will?
+<SPEECH 101><ACT 5><SCENE 4><98%>
+	Why, no; no more than reason.
+<SPEECH 102><ACT 5><SCENE 4><98%>
+	Do not you love me?
+<SPEECH 103><ACT 5><SCENE 4><98%>
+	Why, then, my cousin, Margaret, and Ursula,
+	Are much deceiv'd; for they did swear you did.
+<SPEECH 104><ACT 5><SCENE 4><98%>
+	They swore that you were well-nigh dead for me.
+<SPEECH 105><ACT 5><SCENE 4><98%>
+	No, truly, but in friendly recompense.
+<SPEECH 106><ACT 5><SCENE 4><99%>
+	I would not deny you; but, by this good day, I yield upon great persuasion, and partly to save your life, for I was told you were in a consumption.

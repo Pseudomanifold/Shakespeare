@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 1><SCENE 3><8%>
+	We are sent
+	To give thee from our royal master thanks;
+	Only to herald thee into his sight,
+	Not pay thee.
+<SPEECH 2><ACT 1><SCENE 3><9%>
+	Who was the thane lives yet;
+	But under heavy judgment bears that life
+	Which he deserves to lose. Whether he was combin'd
+	With those of Norway, or did line the rebel
+	With hidden help or vantage, or that with both
+	He labour'd in his country's wrack, I know not;
+	But treasons capital, confess'd and prov'd,
+	Have overthrown him.
+<SPEECH 3><ACT 5><SCENE 2><86%>
+	Near Birnam wood
+	Shall we well meet them; that way are they coming.
+<SPEECH 4><ACT 5><SCENE 2><86%>
+	Now does he feel
+	His secret murders sticking on his hands;
+	Now minutely revolts upbraid his faith-breach;
+	Those he commands move only in command,
+	Nothing in love; now does he feel his title
+	Hang loose about him, like a giant's robe
+	Upon a dwarfish thief.

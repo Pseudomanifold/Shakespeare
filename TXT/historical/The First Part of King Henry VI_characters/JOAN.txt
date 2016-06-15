@@ -1,0 +1,300 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	Reignier, is't thou that thinkest to beguile me?
+	Where is the Dauphin? Come, come from behind;
+	I know thee well, though never seen before.
+	Be not amaz'd, there's nothing hid from me:
+	In private will I talk with thee apart.
+	Stand back, you lords, and give us leave a while.
+<SPEECH 2><ACT 1><SCENE 2><9%>
+	Dauphin, I am by birth a shepherd's daughter,
+	My wit untrain'd in any kind of art.
+	Heaven and our Lady gracious hath it pleas'd
+	To shine on my contemptible estate:
+	Lo! whilst I waited on my tender lambs,
+	And to sun's parching heat display'd my cheeks,
+	God's mother deigned to appear to me,
+	And in a vision full of majesty
+	Will'd me to leave my base vocation
+	And free my country from calamity:
+	Her aid she promis'd and assur'd success;
+	In complete glory she reveal'd herself;
+	And, whereas I was black and swart before,
+	With those clear rays which she infus'd on me,
+	That beauty am I bless'd with which you see.
+	Ask me what question thou canst possible
+	And I will answer unpremeditated:
+	My courage try by combat, if thou dar'st,
+	And thou shalt find that I exceed my sex.
+	Resolve on this, thou shalt be fortunate
+	If thou receive me for thy war-like mate.
+<SPEECH 3><ACT 1><SCENE 2><10%>
+	I am prepar'd: here is my keen-edg'd sword,
+	Deck'd with five flower-de-luces on each side;
+	The which at Touraine, in Saint Katharine's churchyard,
+	Out of a great deal of old iron I chose forth.
+<SPEECH 4><ACT 1><SCENE 2><10%>
+	And, while I live, I'll ne'er fly from a man.
+<SPEECH 5><ACT 1><SCENE 2><10%>
+	Christ's mother helps me, else I were too weak.
+<SPEECH 6><ACT 1><SCENE 2><11%>
+	I must not yield to any rites of love,
+	For my profession's sacred from above:
+	When I have chased all thy foes from hence,
+	Then will I think upon a recompense.
+<SPEECH 7><ACT 1><SCENE 2><11%>
+	Why, no, I say, distrustful recreants!
+	Fight till the last gasp; I will be your guard.
+<SPEECH 8><ACT 1><SCENE 2><11%>
+	Assign'd am I to be the English scourge.
+	This night the siege assuredly I'll raise:
+	Expect Saint Martin's summer, halcyon days,
+	Since I have entered into these wars.
+	Glory is like a circle in the water,
+	Which never ceaseth to enlarge itself,
+	Till by broad spreading it disperse to nought.
+	With Henry's death the English circle ends;
+	Dispersed are the glories it included.
+	Now am I like that proud insulting ship
+	Which Cæsar and his fortune bare at once.
+<SPEECH 9><ACT 1><SCENE 5><21%>
+	Come, come; 'tis only I that must disgrace thee.
+<SPEECH 10><ACT 1><SCENE 5><21%>
+	Talbot, farewell; thy hour is not yet come:
+	I must go victual Orleans forthwith.
+	O'ertake me if thou canst; I scorn thy strength.
+	Go, go, cheer up thy hunger-starved men;
+	Help Salisbury to make his testament:
+	This day is ours, as many more shall be.
+<SPEECH 11><ACT 1><SCENE 6><22%>
+	Advance our waving colours on the walls;
+	Rescu'd is Orleans from the English:
+	Thus Joan la Pucelle hath perform'd her word.
+<SPEECH 12><ACT 2><SCENE 1><25%>
+	Wherefore is Charles impatient with his friend?
+	At all times will you have my power alike?
+	Sleeping or waking must I still prevail,
+	Or will you blame and lay the fault on me?
+	Improvident soldiers! had your watch been good,
+	This sudden mischief never could have fall'n.
+<SPEECH 13><ACT 2><SCENE 1><26%>
+	Question, my lords, no further of the case,
+	How or which way: 'tis sure they found some place
+	But weakly guarded, where the breach was made.
+	And now there rests no other shift but this;
+	To gather our soldiers, scatter'd and dispers'd,
+	And lay new platforms to endamage them.
+<SPEECH 14><ACT 3><SCENE 2><48%>
+	These are the city gates, the gates of Roan,
+	Through which our policy must make a breach:
+	Take heed, be wary how you place your words;
+	Talk like the vulgar sort of market-men
+	That come to gather money for their corn.
+	If we have entrance,—as I hope we shall,—
+	And that we find the slothful watch but weak,
+	I'll by a sign give notice to our friends,
+	That Charles the Dauphin may encounter them.
+<SPEECH 15><ACT 3><SCENE 2><49%>
+	Paisans, pauvres gens de France:
+	Poor market-folks that come to sell their corn.
+<SPEECH 16><ACT 3><SCENE 2><49%>
+	Now, Roan, I'll shake thy bulwarks to the ground.
+<SPEECH 17><ACT 3><SCENE 2><49%>
+	Behold! this is the happy wedding torch
+	That joineth Roan unto her countrymen,
+	But burning fatal to the Talbotites!
+<SPEECH 18><ACT 3><SCENE 2><50%>
+	Good morrow, gallants! Want ye corn for bread?
+	I think the Duke of Burgundy will fast
+	Before he'll buy again at such a rate.
+	'Twas full of darnel; do you like the taste?
+<SPEECH 19><ACT 3><SCENE 2><51%>
+	What will you do, good grey-beard? break a lance,
+	And run a tilt at death within a chair?
+<SPEECH 20><ACT 3><SCENE 2><51%>
+	Are you so hot, sir? Yet, Pucelle, hold thy peace;
+	If Talbot do but thunder, rain will follow.
+	God speed the parliament! who shall be the speaker?
+<SPEECH 21><ACT 3><SCENE 2><51%>
+	Belike your lordship takes us then for fools,
+	To try if that our own be ours or no.
+<SPEECH 22><ACT 3><SCENE 2><51%>
+	Away, captains! let's get us from the walls;
+	For Talbot means no-goodness, by his looks.
+	God be wi' you, my lord! we came but to tell you
+	That we are here.
+<SPEECH 23><ACT 3><SCENE 3><54%>
+	Dismay not, princes, at this accident,
+	Nor grieve that Roan is so recovered:
+	Care is no cure, but rather corrosive,
+	For things that are not to be remedied.
+	Let frantic Talbot triumph for a while,
+	And like a peacock sweep along his tail;
+	We'll pull his plumes and take away his train,
+	If Dauphin and the rest will be but rul'd.
+<SPEECH 24><ACT 3><SCENE 3><55%>
+	Then thus it must be; this doth Joan devise:
+	By fair persuasions, mix'd with sugar'd words,
+	We will entice the Duke of Burgundy
+	To leave the Talbot and to follow us.
+<SPEECH 25><ACT 3><SCENE 3><55%>
+	Your honours shall perceive how I will work
+	To bring this matter to the wished end.
+	Hark! by the sound of drum you may perceive
+	Their powers are marching unto Paris-ward.
+	There goes the Talbot, with his colours spread,
+	And all the troops of English after him.
+	Now in the rearward comes the duke and his:
+	Fortune in favour makes him lag behind.
+	Summon a parley; we will talk with him.
+<SPEECH 26><ACT 3><SCENE 3><55%>
+	The princely Charles of France, thy countryman.
+<SPEECH 27><ACT 3><SCENE 3><56%>
+	Brave Burgundy, undoubted hope of France!
+	Stay, let thy humble handmaid speak to thee.
+<SPEECH 28><ACT 3><SCENE 3><56%>
+	Look on thy country, look on fertile France,
+	And see the cities and the towns defac'd
+	By wasting ruin of the cruel foe.
+	As looks the mother on her lowly babe
+	When death doth close his tender dying eyes,
+	See, see the pining malady of France;
+	Behold the wounds, the most unnatural wounds,
+	Which thou thyself hast giv'n her woeful breast.
+	O! turn thy edged sword another way;
+	Strike those that hurt, and hurt not those that help.
+	One drop of blood drawn from thy country's bosom,
+	Should grieve thee more than streams of foreign gore:
+	Return thee therefore, with a flood of tears,
+	And wash away thy country's stained spots.
+<SPEECH 29><ACT 3><SCENE 3><56%>
+	Besides, all French and France exclaims on thee,
+	Doubting thy birth and lawful progeny.
+	Who join'st thou with but with a lordly nation
+	That will not trust thee but for profit's sake?
+	When Talbot hath set footing once in France,
+	And fashion'd thee that instrument of ill,
+	Who then but English Henry will be lord,
+	And thou be thrust out like a fugitive?
+	Call we to mind, and mark but this for proof,
+	Was not the Duke of Orleans thy foe,
+	And was he not in England prisoner?
+	But when they heard he was thine enemy,
+	They set him free, without his ransom paid,
+	In spite of Burgundy and all his friends.
+	See then, thou fight'st against thy countrymen!
+	And join'st with them will be thy slaughtermen.
+	Come, come, return; return thou wand'ring lord;
+	Charles and the rest will take thee in their arms.
+<SPEECH 30><ACT 3><SCENE 3><57%>
+	Done like a Frenchman: turn, and turn again!
+<SPEECH 31><ACT 4><SCENE 7><77%>
+	Once I encounter'd him, and thus I said:
+	'Thou maiden youth, be vanquish'd by a maid:'
+	But with a proud majestical high scorn,
+	He answer'd thus: 'Young Talbot was not born
+	To be the pillage of a giglot wench.'
+	So, rushing in the bowels of the French,
+	He left me proudly, as unworthy fight.
+<SPEECH 32><ACT 4><SCENE 7><79%>
+	Here is a silly stately style indeed!
+	The Turk, that two-and-fifty kingdoms hath,
+	Writes not so tedious a style as this.
+	Him that thou magnifiest with all these titles,
+	Stinking and fly-blown lies here at our feet.
+<SPEECH 33><ACT 4><SCENE 7><79%>
+	I think this upstart is old Talbot's ghost,
+	He speaks with such a proud commanding spirit.
+	For God's sake, let him have 'em; to keep them here
+	They would but stink and putrefy the air.
+<SPEECH 34><ACT 5><SCENE 2><82%>
+	Peace be amongst them if they turn to us;
+	Else, ruin combat with their palaces!
+<SPEECH 35><ACT 5><SCENE 2><83%>
+	Of all base passions, fear is most accurs'd.
+	Command the conquest, Charles, it shall be thine;
+	Let Henry fret and all the world repine.
+<SPEECH 36><ACT 5><SCENE 3><83%>
+	The regent conquers and the Frenchmen fly.
+	Now help, ye charming spells and periapts;
+	And ye choice spirits that admonish me
+	And give me signs of future accidents:
+	You speedy helpers, that are substitutes
+	Under the lordly monarch of the north,
+	Appear, and aid me in this enterprise!
+	This speedy and quick appearance argues proof
+	Of your accustom'd diligence to me.
+	Now, ye familiar spirits, that are cull'd
+	Out of the powerful regions under earth,
+	Help me this once, that France may get the field.
+	O! hold me not with silence over-long.
+	Where I was wont to feed you with my blood,
+	I'll lop a member off and give it you,
+	In earnest of a further benefit,
+	So you do condescend to help me now.
+	No hope to have redress? My body shall
+	Pay recompense, if you will grant my suit.
+	Cannot my body nor blood-sacrifice
+	Entreat you to your wonted furtherance?
+	Then take my soul; my body, soul, and all,
+	Before that England give the French the foil.
+	See! they forsake me. Now the time is come,
+	That France must vail her lofty-plumed crest,
+	And let her head fall into England's lap.
+	My ancient incantations are too weak,
+	And hell too strong for me to buckle with:
+	Now, France, thy glory droopeth to the dust.
+<SPEECH 37><ACT 5><SCENE 3><84%>
+	Chang'd to a worser shape thou canst not be.
+<SPEECH 38><ACT 5><SCENE 3><84%>
+	A plaguing mischief light on Charles and thee!
+	And may ye both be suddenly surpris'd
+	By bloody hands, in sleeping on your beds!
+<SPEECH 39><ACT 5><SCENE 3><85%>
+	I prithee, give me leave to curse a while.
+<SPEECH 40><ACT 5><SCENE 4><91%>
+	Decrepit miser! base ignoble wretch!
+	I am descended of a gentler blood:
+	Thou art no father nor no friend of mine.
+<SPEECH 41><ACT 5><SCENE 4><91%>
+	Peasant, avaunt! You have suborn'd this man,
+	Of purpose to obscure my noble birth.
+<SPEECH 42><ACT 5><SCENE 4><92%>
+	First, let me tell you whom you have condemn'd:
+	Not me begotten of a shepherd swain,
+	But issu'd from the progeny of kings;
+	Virtuous and holy; chosen from above,
+	By inspiration of celestial grace,
+	To work exceeding miracles on earth.
+	I never had to do with wicked spirits:
+	But you,—that are polluted with your lusts,
+	Stain'd with the guiltless blood of innocents,
+	Corrupt and tainted with a thousand vices,—
+	Because you want the grace that others have,
+	You judge it straight a thing impossible
+	To compass wonders but by help of devils.
+	No misconceived! Joan of Arc hath been
+	A virgin from her tender infancy,
+	Chaste and immaculate in very thought;
+	Whose maiden blood, thus rigorously effus'd,
+	Will cry for vengeance at the gates of heaven.
+<SPEECH 43><ACT 5><SCENE 4><92%>
+	Will nothing turn your unrelenting hearts?
+	Then, Joan, discover thine infirmity;
+	That warranteth by law to be thy privilege.
+	I am with child, ye bloody homicides:
+	Murder not then the fruit within my womb,
+	Although ye hale me to a violent death.
+<SPEECH 44><ACT 5><SCENE 4><93%>
+	You are deceiv'd; my child is none of his:
+	It was Alençon that enjoy'd my love.
+<SPEECH 45><ACT 5><SCENE 4><93%>
+	O! give me leave, I have deluded you:
+	'Twas neither Charles, nor yet the duke I nam'd,
+	But Reignier, King of Naples, that prevail'd.
+<SPEECH 46><ACT 5><SCENE 4><93%>
+	Then lead me hence; with whom I leave my curse:
+	May never glorious sun reflex his beams
+	Upon the country where you make abode;
+	But darkness and the gloomy shade of death
+	Environ you, till mischief and despair
+	Drive you to break your necks or hang yourselves!

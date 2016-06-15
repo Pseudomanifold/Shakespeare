@@ -1,0 +1,35 @@
+<SPEECH 1><ACT 3><SCENE 1><49%>
+	Down with him!—down with him!—
+<SPEECH 2><ACT 3><SCENE 1><50%>
+	Let's hear our tribune:—Peace!—Speak, speak, speak.
+<SPEECH 3><ACT 3><SCENE 1><50%>
+	True,
+	The people are the city.
+<SPEECH 4><ACT 3><SCENE 1><50%>
+	You so remain.
+<SPEECH 5><ACT 3><SCENE 1><50%>
+	Yield, Marcius, yield!
+<SPEECH 6><ACT 3><SCENE 1><51%>
+	Down with him!—down with him!
+<SPEECH 7><ACT 3><SCENE 1><52%>
+	He shall, sure on't.
+<SPEECH 8><ACT 3><SCENE 1><52%>
+	No, no, no, no, no.
+<SPEECH 9><ACT 3><SCENE 3><61%>
+	To the rock!—to the rock with him!
+<SPEECH 10><ACT 3><SCENE 3><61%>
+	It shall be so,—It shall be so,—Let him away.—
+	He's banish'd, and it shall be so.
+<SPEECH 11><ACT 3><SCENE 3><62%>
+	It shall be so,—it shall be so.
+<SPEECH 12><ACT 3><SCENE 3><62%>
+	Our enemy is banish'd!—he is gone!—Hoo! hoo!
+<SPEECH 13><ACT 3><SCENE 3><62%>
+	Come, come,—let us see him out at gates! come!
+	The gods preserve our noble tribunes! Come!
+<SPEECH 14><ACT 4><SCENE 6><76%>
+	The gods preserve you both!
+<SPEECH 15><ACT 4><SCENE 6><76%>
+	Now the gods keep you!
+<SPEECH 16><ACT 4><SCENE 6><79%>
+	Faith, we hear fearful news.

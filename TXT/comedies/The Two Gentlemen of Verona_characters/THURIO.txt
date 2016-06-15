@@ -1,0 +1,88 @@
+<SPEECH 1><ACT 2><SCENE 4><30%>
+	Seem you that you are not?
+<SPEECH 2><ACT 2><SCENE 4><30%>
+	So do counterfeits.
+<SPEECH 3><ACT 2><SCENE 4><30%>
+	What seem I that I am not?
+<SPEECH 4><ACT 2><SCENE 4><30%>
+	What instance of the contrary?
+<SPEECH 5><ACT 2><SCENE 4><30%>
+	And how quote you my folly?
+<SPEECH 6><ACT 2><SCENE 4><30%>
+	My jerkin is a doublet.
+<SPEECH 7><ACT 2><SCENE 4><30%>
+	How?
+<SPEECH 8><ACT 2><SCENE 4><30%>
+	That hath more mind to feed on your blood than live in your air.
+<SPEECH 9><ACT 2><SCENE 4><30%>
+	Ay, sir, and done too, for this time.
+<SPEECH 10><ACT 2><SCENE 4><31%>
+	Sir, if you spend word for word with me, I shall make your wit bankrupt.
+<SPEECH 11><ACT 2><SCENE 4><33%>
+	They say that Love hath not an eye at all.
+<SPEECH 12><ACT 3><SCENE 2><63%>
+	Since his exile she hath despis'd me most,
+	Forsworn my company and rail'd at me,
+	That I am desperate of obtaining her.
+<SPEECH 13><ACT 3><SCENE 2><65%>
+	Therefore, as you unwind her love from him,
+	Lest it should ravel and be good to none,
+	You must provide to bottom it on me;
+	Which must be done by praising me as much
+	As you in worth dispraise Sir Valentine.
+<SPEECH 14><ACT 3><SCENE 2><67%>
+	And thy advice this night I'll put in practice.
+	Therefore, sweet Proteus, my direction-giver,
+	Let us into the city presently
+	To sort some gentlemen well skill'd in music.
+	I have a sonnet that will serve the turn
+	To give the onset to thy good advice.
+<SPEECH 15><ACT 4><SCENE 2><71%>
+	How now, Sir Proteus! are you crept before us?
+<SPEECH 16><ACT 4><SCENE 2><71%>
+	Ay; but I hope, sir, that you love not here.
+<SPEECH 17><ACT 4><SCENE 2><72%>
+	Who? Silvia?
+<SPEECH 18><ACT 4><SCENE 2><72%>
+	I thank you for your own. Now, gentlemen,
+	Let's tune, and to it lustily a while.
+<SPEECH 19><ACT 4><SCENE 2><74%>
+	Where meet we?
+<SPEECH 20><ACT 4><SCENE 2><74%>
+	Farewell.
+<SPEECH 21><ACT 5><SCENE 2><89%>
+	Sir Proteus, what says Silvia to my suit?
+<SPEECH 22><ACT 5><SCENE 2><89%>
+	What! that my leg is too long?
+<SPEECH 23><ACT 5><SCENE 2><89%>
+	I'll wear a boot to make it somewhat rounder.
+<SPEECH 24><ACT 5><SCENE 2><89%>
+	What says she to my face?
+<SPEECH 25><ACT 5><SCENE 2><89%>
+	Nay then, the wanton lies; my face is black.
+<SPEECH 26><ACT 5><SCENE 2><89%>
+	How likes she my discourse?
+<SPEECH 27><ACT 5><SCENE 2><89%>
+	But well, when I discourse of love and peace?
+<SPEECH 28><ACT 5><SCENE 2><89%>
+	What says she to my valour?
+<SPEECH 29><ACT 5><SCENE 2><90%>
+	What says she to my birth?
+<SPEECH 30><ACT 5><SCENE 2><90%>
+	Considers she my possessions?
+<SPEECH 31><ACT 5><SCENE 2><90%>
+	Wherefore?
+<SPEECH 32><ACT 5><SCENE 2><90%>
+	Not I.
+<SPEECH 33><ACT 5><SCENE 2><91%>
+	Why, this it is to be a peevish girl,
+	That flies her fortune when it follows her.
+	I'll after, more to be reveng'd on Eglamour
+	Than for the love of reckless Silvia.
+<SPEECH 34><ACT 5><SCENE 4><98%>
+	Yonder is Silvia; and Silvia's mine.
+<SPEECH 35><ACT 5><SCENE 4><98%>
+	Sir Valentine, I care not for her, I.
+	I hold him but a fool that will endanger
+	His body for a girl that loves him not:
+	I claim her not, and therefore she is thine.

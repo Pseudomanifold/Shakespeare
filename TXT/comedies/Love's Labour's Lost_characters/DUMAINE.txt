@@ -1,0 +1,140 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	My loving lord, Dumaine is mortified:
+	The grosser manner of these world's delights
+	He throws upon the gross world's baser slaves:
+	To love, to wealth, to pomp, I pine and die;
+	With all these living in philosophy.
+<SPEECH 2><ACT 1><SCENE 1><4%>
+	Proceeded well, to stop all good proceeding!
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	How follows that?
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	In reason nothing.
+<SPEECH 5><ACT 2><SCENE 1><24%>
+	Sir, I pray you, a word: what lady is that same?
+<SPEECH 6><ACT 2><SCENE 1><24%>
+	A gallant lady. Monsieur, fare you well.
+<SPEECH 7><ACT 4><SCENE 3><49%>
+	O most divine Kate!
+<SPEECH 8><ACT 4><SCENE 3><49%>
+	By heaven, the wonder of a mortal eye!
+<SPEECH 9><ACT 4><SCENE 3><49%>
+	Her amber hairs for foul have amber quoted.
+<SPEECH 10><ACT 4><SCENE 3><49%>
+	As upright as the cedar.
+<SPEECH 11><ACT 4><SCENE 3><50%>
+	As fair as day.
+<SPEECH 12><ACT 4><SCENE 3><50%>
+	O! that I had my wish.
+<SPEECH 13><ACT 4><SCENE 3><50%>
+	I would forget her; but a fever she
+	Reigns in my blood, and will remember'd be.
+<SPEECH 14><ACT 4><SCENE 3><50%>
+	Once more I'll read the ode that I have writ.
+<SPEECH 15><ACT 4><SCENE 3><50%>
+	On a day, alack the day!
+	Love, whose month is ever May,
+	Spied a blossom passing fair
+	Playing in the wanton air:
+	Through the velvet leaves the wind,
+	All unseen, 'gan passage find;
+	That the lover, sick to death,
+	Wish'd himself the heaven's breath.
+	Air, quoth he, thy cheeks may blow;
+	Air, would I might triumph so!
+	But alack! my hand is sworn
+	Ne'er to pluck thee from thy thorn:
+	Vow, alack! for youth unmeet,
+	Youth so apt to pluck a sweet.
+	Do not call it sin in me,
+	That I am forsworn for thee;
+	Thou for whom e'en Jove would swear
+	Juno but an Ethiop were;
+	And deny himself for Jove,
+	Turning mortal for thy love.
+	This will I send, and something else more plain,
+	That shall express my true love's fasting pain.
+	O! would the King, Berowne, and Longaville
+	Were lovers too. Ill, to example ill,
+	Would from my forehead wipe a perjur'd note;
+	For none offend where all alike do dote.
+<SPEECH 16><ACT 4><SCENE 3><54%>
+	</STAGE DIR> It is Berowne's writing, and here is his name.
+<SPEECH 17><ACT 4><SCENE 3><54%>
+	Now the number is even.
+<SPEECH 18><ACT 4><SCENE 3><56%>
+	To look like her are chimney-sweepers black.
+<SPEECH 19><ACT 4><SCENE 3><56%>
+	Dark needs no candles now, for dark is light.
+<SPEECH 20><ACT 4><SCENE 3><56%>
+	I never knew man hold vile stuff so dear.
+<SPEECH 21><ACT 4><SCENE 3><57%>
+	O vile! then, as she goes, what upward lies
+	The street should see as she walk'd over head.
+<SPEECH 22><ACT 4><SCENE 3><57%>
+	Ay, marry, there; some flattery for this evil.
+<SPEECH 23><ACT 4><SCENE 3><57%>
+	Some salve for perjury.
+<SPEECH 24><ACT 5><SCENE 2><75%>
+	Will you vouchsafe with me to change a word?
+<SPEECH 25><ACT 5><SCENE 2><75%>
+	Fair lady,—
+<SPEECH 26><ACT 5><SCENE 2><75%>
+	Please it you,
+	As much in private, and I'll bid adieu.
+<SPEECH 27><ACT 5><SCENE 2><81%>
+	Let us confess, and turn it to a jest.
+<SPEECH 28><ACT 5><SCENE 2><87%>
+	'The Great.'
+<SPEECH 29><ACT 5><SCENE 2><89%>
+	A Judas!
+<SPEECH 30><ACT 5><SCENE 2><89%>
+	Judas Maccabæus clipt is plain Judas.
+<SPEECH 31><ACT 5><SCENE 2><89%>
+	The more shame for you, Judas.
+<SPEECH 32><ACT 5><SCENE 2><89%>
+	The head of a bodkin.
+<SPEECH 33><ACT 5><SCENE 2><89%>
+	The carved-bone face on a flask.
+<SPEECH 34><ACT 5><SCENE 2><89%>
+	Ay, and in a brooch of lead.
+<SPEECH 35><ACT 5><SCENE 2><90%>
+	For the latter end of his name.
+<SPEECH 36><ACT 5><SCENE 2><90%>
+	Though my mocks come home by me, I will now be merry.
+<SPEECH 37><ACT 5><SCENE 2><90%>
+	More calf, certain.
+<SPEECH 38><ACT 5><SCENE 2><90%>
+	He's a god or a painter; for he makes faces.
+<SPEECH 39><ACT 5><SCENE 2><90%>
+	A gilt nutmeg.
+<SPEECH 40><ACT 5><SCENE 2><91%>
+	No, cloven.
+<SPEECH 41><ACT 5><SCENE 2><91%>
+	That mint.
+<SPEECH 42><ACT 5><SCENE 2><91%>
+	Ay, and Hector's a greyhound.
+<SPEECH 43><ACT 5><SCENE 2><91%>
+	</STAGE DIR> He may not by the yard.
+<SPEECH 44><ACT 5><SCENE 2><92%>
+	Most rare Pompey!
+<SPEECH 45><ACT 5><SCENE 2><92%>
+	Hector trembles.
+<SPEECH 46><ACT 5><SCENE 2><92%>
+	Hector will challenge him.
+<SPEECH 47><ACT 5><SCENE 2><92%>
+	Room for the incensed Worthies!
+<SPEECH 48><ACT 5><SCENE 2><92%>
+	Most resolute Pompey!
+<SPEECH 49><ACT 5><SCENE 2><92%>
+	You may not deny it; Pompey hath made the challenge.
+<SPEECH 50><ACT 5><SCENE 2><95%>
+	Our letters, madam, show'd much more than jest.
+<SPEECH 51><ACT 5><SCENE 2><96%>
+	But what to me, my love? but what to me?
+<SPEECH 52><ACT 5><SCENE 2><96%>
+	O! shall I say, I thank you, gentle wife?
+<SPEECH 53><ACT 5><SCENE 2><97%>
+	I'll serve thee true and faithfully till then.
+<SPEECH 54><ACT 5><SCENE 2><98%>
+	The worthy knight of Troy.

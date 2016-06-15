@@ -1,0 +1,253 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+	Thanks.—What's the matter, you dissentious rogues,
+	That, rubbing the poor itch of your opinion,
+	Make yourselves scabs?
+<SPEECH 2><ACT 1><SCENE 1><5%>
+	He that will give good words to thee will flatter
+	Beneath abhorring. What would you have, you curs,
+	That like nor peace nor war? the one affrights you,
+	The other makes you proud. He that trusts to you,
+	Where he should find you lions, finds you hares;
+	Where foxes, geese: you are no surer, no,
+	Than is the coal of fire upon the ice,
+	Or hailstone in the sun. Your virtue is,
+	To make him worthy whose offence subdues him,
+	And curse that justice did it. Who deserves greatness
+	Deserves your hate; and your affections are
+	A sick man's appetite, who desires most that
+	Which would increase his evil. He that depends
+	Upon your favours swims with fins of lead
+	And hews down oaks with rushes. Hang ye! Trust ye?
+	With every minute you do change a mind,
+	And call him noble that was now your hate,
+	Him vile that was your garland. What's the matter,
+	That in these several places of the city
+	You cry against the noble senate, who,
+	Under the gods, keep you in awe, which else
+	Would feed on one another? What's their seeking?
+<SPEECH 3><ACT 1><SCENE 1><5%>
+	Hang 'em! They say!
+	They'll sit by the fire, and presume to know
+	What's done i' the Capitol; who's like to rise,
+	Who thrives, and who declines; side factions, and give out
+	Conjectural marriages; making parties strong,
+	And feebling such as stand not in their liking,
+	Below their cobbled shoes. They say there's grain enough!
+	Would the nobility lay aside their ruth,
+	And let me use my sword, I'd make a quarry
+	With thousands of these quarter'd slaves, as high
+	As I could pick my lance.
+<SPEECH 4><ACT 1><SCENE 1><6%>
+	They are dissolv'd: hang 'em!
+	They said they were an-hungry; sigh'd forth proverbs:
+	That hunger broke stone walls; that dogs must eat;
+	That meat was made for mouths; that the gods sent not
+	Corn for the rich men only. With these shreds
+	They vented their complainings; which being answer'd,
+	And a petition granted them, a strange one,—
+	To break the heart of generosity,
+	And make bold power look pale,—they threw their caps
+	As they would hang them on the horns o' the moon,
+	Shouting their emulation.
+<SPEECH 5><ACT 1><SCENE 1><6%>
+	Five tribunes to defend their vulgar wisdoms,
+	Of their own choice: one's Junius Brutus,
+	Sicinius Velutus, and I know not—'Sdeath!
+	The rabble should have first unroof'd the city,
+	Ere so prevail'd with me; it will in time
+	Win upon power, and throw forth greater themes
+	For insurrection's arguing.
+<SPEECH 6><ACT 1><SCENE 1><6%>
+	Go; get you home, you fragments!
+<SPEECH 7><ACT 1><SCENE 1><6%>
+	Here: what's the matter?
+<SPEECH 8><ACT 1><SCENE 1><7%>
+	I am glad on't; then we shall ha' means to vent
+	Our musty superfluity. See, our best elders.
+<SPEECH 9><ACT 1><SCENE 1><7%>
+	They have a leader,
+	Tullus Aufidius, that will put you to't.
+	I sin in envying his nobility,
+	And were I anything but what I am,
+	I would wish me only he.
+<SPEECH 10><ACT 1><SCENE 1><7%>
+	Were half to half the world by the ears, and he
+	Upon my party, I'd revolt, to make
+	Only my wars with him: he is a lion
+	That I am proud to hunt.
+<SPEECH 11><ACT 1><SCENE 1><7%>
+	Sir, it is;
+	And I am constant. Titus Lartius, thou
+	Shalt see me once more strike at Tullus' face.
+	What! art thou stiff? stand'st out?
+<SPEECH 12><ACT 1><SCENE 1><7%>
+	Nay, let them follow:
+	The Volsces have much corn; take these rats thither
+	To gnaw their garners. Worshipful mutiners,
+	Your valour puts well forth; pray, follow.
+<SPEECH 13><ACT 1><SCENE 4><13%>
+	Yonder comes news: a wager they have met.
+<SPEECH 14><ACT 1><SCENE 4><13%>
+	'Tis done.
+<SPEECH 15><ACT 1><SCENE 4><13%>
+	Say, has our general met the enemy?
+<SPEECH 16><ACT 1><SCENE 4><13%>
+	I'll buy him of you.
+<SPEECH 17><ACT 1><SCENE 4><13%>
+	How far off lie these armies?
+<SPEECH 18><ACT 1><SCENE 4><13%>
+	Then shall we hear their 'larum, and they ours.
+	Now, Mars, I prithee, make us quick in work,
+	That we with smoking swords may march from hence,
+	To help our fielded friends! Come, blow thy blast.
+	Tullus Aufidius, is he within your walls?
+<SPEECH 19><ACT 1><SCENE 4><14%>
+	O! they are at it!
+<SPEECH 20><ACT 1><SCENE 4><14%>
+	They fear us not, but issue forth their city.
+	Now put your shields before your hearts, and fight
+	With hearts more proof than shields. Advance, brave Titus:
+	They do disdain us much beyond our thoughts,
+	Which makes me sweat with wrath. Come on, my fellows:
+	He that retires, I'll take him for a Volsce,
+	And he shall feel mine edge.
+<SPEECH 21><ACT 1><SCENE 4><14%>
+	All the contagion of the south light on you,
+	You shames of Rome! you herd of—Boils and plagues
+	Plaster you o'er, that you may be abhorr'd
+	Further than seen, and one infect another
+	Against the wind a mile! You souls of geese,
+	That bear the shapes of men, how have you run
+	From slaves that apes would beat! Pluto and hell!
+	All hurt behind; backs red, and faces pale
+	With flight and agu'd fear! Mend and charge home,
+	Or, by the fires of heaven, I'll leave the foe
+	And make my wars on you; look to 't: come on;
+	If you'll stand fast, we'll beat them to their wives,
+	As they us to our trenches follow'd.
+	So, now the gates are ope: now prove good seconds:
+	'Tis for the followers Fortune widens them,
+	Not for the fliers: mark me, and do the like.
+<SPEECH 22><ACT 1><SCENE 5><15%>
+	See here these movers that do prize their hours
+	At a crack'd drachme! Cushions, leaden spoons,
+	Irons of a doit, doublets that hangmen would
+	Bury with those that wore them, these base slaves,
+	Ere yet the fight be done, pack up. Down with them!
+	And hark, what noise the general makes! To him!
+	There is the man of my soul's hate, Aufidius,
+	Piercing our Romans: then, valiant Titus, take
+	Convenient numbers to make good the city,
+	Whilst I, with those that have the spirit, will haste
+	To help Cominius.
+<SPEECH 23><ACT 1><SCENE 5><16%>
+	Sir, praise me not;
+	My work hath yet not warm'd me: fare you well:
+	The blood I drop is rather physical
+	Than dangerous to me: to Aufidius thus
+	I will appear, and fight.
+<SPEECH 24><ACT 1><SCENE 5><16%>
+	Thy friend no less
+	Than those she places highest! So, farewell.
+<SPEECH 25><ACT 1><SCENE 6><17%>
+	</STAGE DIR> Come I too late?
+<SPEECH 26><ACT 1><SCENE 6><17%>
+	Come I too late?
+<SPEECH 27><ACT 1><SCENE 6><17%>
+	O! let me clip ye
+	In arms as sound as when I woo'd, in heart
+	As merry as when our nuptial day was done,
+	And tapers burn'd to bedward.
+<SPEECH 28><ACT 1><SCENE 6><17%>
+	As with a man busied about decrees:
+	Condemning some to death, and some to exile;
+	Ransoming him, or pitying, threat'ning the other;
+	Holding Corioli in the name of Rome,
+	Even like a fawning greyhound in the leash,
+	To let him slip at will.
+<SPEECH 29><ACT 1><SCENE 6><17%>
+	Let him alone;
+	He did inform the truth: but for our gentlemen,
+	The common file—a plague! tribunes for them!—
+	The mouse ne'er shunn'd the cat as they did budge
+	From rascals worse than they.
+<SPEECH 30><ACT 1><SCENE 6><18%>
+	Will the time serve to tell? I do not think.
+	Where is the enemy? Are you lords o' the field?
+	If not, why cease you till you are so?
+<SPEECH 31><ACT 1><SCENE 6><18%>
+	How lies their battle? Know you on which side
+	They have plac'd their men of trust?
+<SPEECH 32><ACT 1><SCENE 6><18%>
+	I do beseech you,
+	By all the battles wherein we have fought,
+	By the blood we have shed together, by the vows
+	We have made to endure friends, that you directly
+	Set me against Aufidius and his Antiates;
+	And that you not delay the present, but,
+	Filling the air with swords advanc'd and darts,
+	We prove this very hour.
+<SPEECH 33><ACT 1><SCENE 6><18%>
+	Those are they
+	That most are willing. If any such be here—
+	As it were sin to doubt—that love this painting
+	Wherein you see me smear'd; if any fear
+	Lesser his person than an ill report;
+	If any think brave death outweighs bad life,
+	And that his country's dearer than himself;
+	Let him, alone, or so many so minded,
+	Wave thus, to express his disposition,
+	And follow Marcius.
+	O! me alone? Make you a sword of me?
+	If these shows be not outward, which of you
+	But is four Volsces? None of you but is
+	Able to bear against the great Aufidius
+	A shield as hard as his. A certain number,
+	Though thanks to all, must I select from all: the rest
+	Shall bear the business in some other fight,
+	As cause will be obey'd. Please you to march;
+	And four shall quickly draw out my command,
+	Which men are best inclin'd.
+<SPEECH 34><ACT 1><SCENE 8><19%>
+	I'll fight with none but thee; for I do hate thee
+	Worse than a promise-breaker.
+<SPEECH 35><ACT 1><SCENE 8><19%>
+	Let the first budger die the other's slave,
+	And the gods doom him after!
+<SPEECH 36><ACT 1><SCENE 8><19%>
+	Within these three hours, Tullus,
+	Alone I fought in your Corioli walls,
+	And made what work I pleas'd; 'tis not my blood
+	Wherein thou seest me mask'd; for thy revenge
+	Wrench up thy power to the highest.
+<SPEECH 37><ACT 1><SCENE 1><20%>
+	Pray now, no more: my mother,
+	Who has a charter to extol her blood,
+	When she does praise me grieves me. I have done
+	As you have done; that's what I can; induc'd
+	As you have been; that's for my country:
+	He that has but effected his good will
+	Hath overta'en mine act.
+<SPEECH 38><ACT 1><SCENE 1><21%>
+	I have some wounds upon me, and they smart
+	To hear themselves remember'd.
+<SPEECH 39><ACT 1><SCENE 1><21%>
+	I thank you, general;
+	But cannot make my heart consent to take
+	A bribe to pay my sword: I do refuse it;
+	And stand upon my common part with those
+	That have beheld the doing.
+<SPEECH 40><ACT 1><SCENE 1><21%>
+	May these same instruments, which you profane,
+	Never sound more! When drums and trumpets shall
+	I' the field prove flatterers, let courts and cities be
+	Made all of false-fac'd soothing!
+	When steel grows soft as is the parasite's silk,
+	Let him be made a coverture for the wars!
+	No more, I say! For that I have not wash'd
+	My nose that bled, or foil'd some debile wretch,
+	Which, without note, here's many else have done,
+	You shout me forth
+	In acclamations hyperbolical;
+	As if I lov'd my little should be dieted
+	In praises sauc'd with lies.

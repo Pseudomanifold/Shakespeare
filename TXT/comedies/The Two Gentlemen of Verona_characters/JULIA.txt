@@ -1,0 +1,427 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	But say, Lucetta, now we are alone,
+	Wouldst thou then counsel me to fall in love?
+<SPEECH 2><ACT 1><SCENE 2><7%>
+	Of all the fair resort of gentlemen
+	That every day with parle encounter me,
+	In thy opinion which is worthiest love?
+<SPEECH 3><ACT 1><SCENE 2><8%>
+	What think'st thou of the fair Sir Eglamour?
+<SPEECH 4><ACT 1><SCENE 2><8%>
+	What think'st thou of the rich Mercatio?
+<SPEECH 5><ACT 1><SCENE 2><8%>
+	What think'st thou of the gentle Proteus?
+<SPEECH 6><ACT 1><SCENE 2><8%>
+	How now! what means this passion at his name?
+<SPEECH 7><ACT 1><SCENE 2><8%>
+	Why not on Proteus, as of all the rest?
+<SPEECH 8><ACT 1><SCENE 2><8%>
+	Your reason?
+<SPEECH 9><ACT 1><SCENE 2><8%>
+	And wouldst thou have me cast my love on him?
+<SPEECH 10><ACT 1><SCENE 2><8%>
+	Why, he, of all the rest hath never mov'd me.
+<SPEECH 11><ACT 1><SCENE 2><8%>
+	His little speaking shows his love but small.
+<SPEECH 12><ACT 1><SCENE 2><9%>
+	They do not love that do not show their love.
+<SPEECH 13><ACT 1><SCENE 2><9%>
+	I would I knew his mind.
+<SPEECH 14><ACT 1><SCENE 2><9%>
+	'To Julia.'—Say from whom?
+<SPEECH 15><ACT 1><SCENE 2><9%>
+	Say, say, who gave it thee?
+<SPEECH 16><ACT 1><SCENE 2><9%>
+	Now, by my modesty, a goodly broker!
+	Dare you presume to harbour wanton lines?
+	To whisper and conspire against my youth?
+	Now, trust me, 'tis an office of great worth
+	And you an officer fit for the place.
+	There, take the paper: see it be return'd;
+	Or else return no more into my sight.
+<SPEECH 17><ACT 1><SCENE 2><9%>
+	Will ye be gone?
+<SPEECH 18><ACT 1><SCENE 2><9%>
+	And yet I would I had o'erlook'd the letter.
+	It were a shame to call her back again
+	And pray her to a fault for which I chid her.
+	What fool is she, that knows I am a maid,
+	And would not force the letter to my view!
+	Since maids, in modesty, say 'No' to that
+	Which they would have the profferer construe 'Ay.'
+	Fie, fie! how wayward is this foolish love
+	That, like a testy babe, will scratch the nurse
+	And presently all humbled kiss the rod!
+	How churlishly I child Lucetta hence,
+	When willingly I would have had her here:
+	How angerly I taught my brow to frown,
+	When inward joy enforc'd my heart to smile.
+	My penance is, to call Lucetta back
+	And ask remission for my folly past.
+	What ho! Lucetta!
+<SPEECH 19><ACT 1><SCENE 2><10%>
+	Is it near dinner-time?
+<SPEECH 20><ACT 1><SCENE 2><10%>
+	What is't that you took up so gingerly?
+<SPEECH 21><ACT 1><SCENE 2><10%>
+	Why didst thou stoop, then?
+<SPEECH 22><ACT 1><SCENE 2><10%>
+	And is that paper nothing?
+<SPEECH 23><ACT 1><SCENE 2><11%>
+	Then let it lie for those that it concerns.
+<SPEECH 24><ACT 1><SCENE 2><11%>
+	Some love of yours hath writ to you in rime.
+<SPEECH 25><ACT 1><SCENE 2><11%>
+	As little by such toys as may be possible;
+	Best sing it to the tune of 'Light o' Love.'
+<SPEECH 26><ACT 1><SCENE 2><11%>
+	Heavy! belike it hath some burden, then?
+<SPEECH 27><ACT 1><SCENE 2><11%>
+	And why not you?
+<SPEECH 28><ACT 1><SCENE 2><11%>
+	Let's see your song. <STAGE DIR>
+	</STAGE DIR> How now, minion!
+<SPEECH 29><ACT 1><SCENE 2><11%>
+	You do not?
+<SPEECH 30><ACT 1><SCENE 2><11%>
+	You, minion, are too saucy.
+<SPEECH 31><ACT 1><SCENE 2><12%>
+	The mean is drown'd with your unruly bass.
+<SPEECH 32><ACT 1><SCENE 2><12%>
+	This babble shall not henceforth trouble me.
+	Here is a coil with protestation!—
+	Go, get you gone, and let the papers lie:
+	You would be fingering them, to anger me.
+<SPEECH 33><ACT 1><SCENE 2><12%>
+	Nay, would I were so anger'd with the same!
+	O hateful hands, to tear such loving words!
+	Injurious wasps, to feed on such sweet honey
+	And kill the bees that yield it with your stings!
+	I'll kiss each several paper for amends.
+	Look, here is writ 'kind Julia:' unkind Julia!
+	As in revenge of thy ingratitude,
+	I throw thy name against the bruising stones,
+	Trampling contemptuously on thy disdain.
+	And here is writ 'love-wounded Proteus:'
+	Poor wounded name! my bosom, as a bed
+	Shall lodge thee till thy wound be throughly heal'd;
+	And thus I search it with a sovereign kiss.
+	But twice or thrice was 'Proteus' written down:
+	Be calm, good wind, blow not a word away
+	Till I have found each letter in the letter,
+	Except mine own name; that some whirlwind bear
+	Unto a ragged, fearful hanging rock,
+	And throw it thence into the raging sea!
+	Lo! here in one line is his name twice writ,
+	'Poor forlorn Proteus, passionate Proteus,
+	To the sweet Julia':—that I'll tear away;
+	And yet I will not, sith so prettily
+	He couples it to his complaining names:
+	Thus will I fold them one upon another:
+	Now kiss, embrace, contend, do what you will.
+<SPEECH 34><ACT 1><SCENE 2><13%>
+	Well, let us go.
+<SPEECH 35><ACT 1><SCENE 2><13%>
+	If you respect them, best to take them up.
+<SPEECH 36><ACT 1><SCENE 2><13%>
+	I see you have a month's mind to them.
+<SPEECH 37><ACT 1><SCENE 2><13%>
+	Come, come; will't please you go?
+<SPEECH 38><ACT 2><SCENE 2><25%>
+	I must, where is no remedy.
+<SPEECH 39><ACT 2><SCENE 2><25%>
+	If you turn not, you will return the sooner.
+	Keep this remembrance for thy Julia's sake.
+<SPEECH 40><ACT 2><SCENE 2><26%>
+	And seal the bargain with a holy kiss.
+<SPEECH 41><ACT 2><SCENE 7><43%>
+	Counsel, Lucetta; gentle girl, assist me:
+	And e'en in kind love I do conjure thee,
+	Who art the table wherein all my thoughts
+	Are visibly character'd and engrav'd,
+	To lesson me and tell me some good mean
+	How, with my honour, I may undertake
+	A journey to my loving Proteus.
+<SPEECH 42><ACT 2><SCENE 7><43%>
+	A true-devoted pilgrim is not weary
+	To measure kingdoms with his feeble steps;
+	Much less shall she that hath Love's wings to fly,
+	And when the flight is made to one so dear,
+	Of such divine perfection, as Sir Proteus.
+<SPEECH 43><ACT 2><SCENE 7><43%>
+	O! know'st thou not his looks are my soul's food?
+	Pity the dearth that I have pined in,
+	By longing for that food so long a time.
+	Didst thou but know the inly touch of love,
+	Thou wouldst as soon go kindle fire with snow
+	As seek to quench the fire of love with words.
+<SPEECH 44><ACT 2><SCENE 7><44%>
+	The more thou damm'st it up, the more it burns.
+	The current that with gentle murmur glides,
+	Thou know'st, being stopp'd, impatiently doth rage;
+	But when his fair course is not hindered,
+	He makes sweet music with th' enamell'd stones,
+	Giving a gentle kiss to every sedge
+	He overtaketh in his pilgrimage;
+	And so by many winding nooks he strays
+	With willing sport, to the wild ocean.
+	Then let me go and hinder not my course:
+	I'll be as patient as a gentle stream
+	And make a pastime of each weary step,
+	Till the last step have brought me to my love;
+	And there I'll rest, as after much turmoil
+	A blessed soul doth in Elysium.
+<SPEECH 45><ACT 2><SCENE 7><44%>
+	Not like a woman; for I would prevent
+	The loose encounters of lascivious men.
+	Gentle Lucetta, fit me with such weeds
+	As may beseem some well-reputed page.
+<SPEECH 46><ACT 2><SCENE 7><45%>
+	No, girl; I'll knit it up in silken strings
+	With twenty odd-conceited true-love knots:
+	To be fantastic may become a youth
+	Of greater time than I shall show to be.
+<SPEECH 47><ACT 2><SCENE 7><45%>
+	That fits as well as 'Tell me, good my lord,
+	What compass will you wear your farthingale?'
+	Why, even what fashion thou best lik'st, Lucetta.
+<SPEECH 48><ACT 2><SCENE 7><45%>
+	Out, out, Lucetta! that will be ill-favour'd.
+<SPEECH 49><ACT 2><SCENE 7><45%>
+	Lucetta, as thou lov'st me, let me have
+	What thou think'st meet and is most mannerly.
+	But tell me, wench, how will the world repute me
+	For undertaking so unstaid a journey?
+	I fear me, it will make me scandaliz'd.
+<SPEECH 50><ACT 2><SCENE 7><45%>
+	Nay, that I will not.
+<SPEECH 51><ACT 2><SCENE 7><46%>
+	That is the least, Lucetta, of my fear:
+	A thousand oaths, an ocean of his tears,
+	And instances of infinite of love
+	Warrant me welcome to my Proteus.
+<SPEECH 52><ACT 2><SCENE 7><46%>
+	Base men, that use them to so base effect;
+	But truer stars did govern Proteus' birth:
+	His words are bonds, his oaths are oracles,
+	His love sincere, his thoughts immaculate,
+	His tears pure messengers sent from his heart,
+	His heart as far from fraud as heaven from earth.
+<SPEECH 53><ACT 2><SCENE 7><46%>
+	Now, as thou lov'st me, do him not that wrong
+	To bear a hard opinion of his truth:
+	Only deserve my love by loving him,
+	And presently go with me to my chamber,
+	To take a note of what I stand in need of
+	To furnish me upon my longing journey.
+	All that is mine I leave at thy dispose,
+	My goods, my lands, my reputation;
+	Only, in lieu thereof, dispatch me hence.
+	Come, answer not, but to it presently!
+	I am impatient of my tarriance.
+<SPEECH 54><ACT 4><SCENE 2><72%>
+	Marry, mine host, because I cannot be merry.
+<SPEECH 55><ACT 4><SCENE 2><72%>
+	But shall I hear him speak?
+<SPEECH 56><ACT 4><SCENE 2><72%>
+	That will be music.
+<SPEECH 57><ACT 4><SCENE 2><72%>
+	Is he among these?
+<SPEECH 58><ACT 4><SCENE 2><73%>
+	You mistake; the musician likes me not.
+<SPEECH 59><ACT 4><SCENE 2><73%>
+	He plays false, father.
+<SPEECH 60><ACT 4><SCENE 2><73%>
+	Not so; but yet so false that he grieves my very heart-strings.
+<SPEECH 61><ACT 4><SCENE 2><73%>
+	Ay; I would I were deaf; it makes me have a slow heart.
+<SPEECH 62><ACT 4><SCENE 2><73%>
+	Not a whit,—when it jars so.
+<SPEECH 63><ACT 4><SCENE 2><73%>
+	Ay, that change is the spite.
+<SPEECH 64><ACT 4><SCENE 2><73%>
+	I would always have one play but one thing.
+	But, host, doth this Sir Proteus that we talk on
+	Often resort unto this gentlewoman?
+<SPEECH 65><ACT 4><SCENE 2><74%>
+	Where is Launce?
+<SPEECH 66><ACT 4><SCENE 2><74%>
+	Peace! stand aside: the company parts.
+<SPEECH 67><ACT 4><SCENE 2><75%>
+	</STAGE DIR> 'Tware false, if I should speak it;
+	For I am sure she is not buried.
+<SPEECH 68><ACT 4><SCENE 2><75%>
+	</STAGE DIR> He heard not that.
+<SPEECH 69><ACT 4><SCENE 2><76%>
+	</STAGE DIR> If 'twere a substance, you would, sure, deceive it,
+	And make it but a shadow, as I am.
+<SPEECH 70><ACT 4><SCENE 2><76%>
+	Host, will you go?
+<SPEECH 71><ACT 4><SCENE 2><76%>
+	Pray you, where lies Sir Proteus?
+<SPEECH 72><ACT 4><SCENE 2><76%>
+	Not so; but it hath been the longest night
+	That e'er I watch'd and the most heaviest.
+<SPEECH 73><ACT 4><SCENE 4><81%>
+	In what you please: I will do what I can.
+<SPEECH 74><ACT 4><SCENE 4><82%>
+	It seems, you lov'd not her, to leave her token.
+	She's dead, belike?
+<SPEECH 75><ACT 4><SCENE 4><82%>
+	Alas!
+<SPEECH 76><ACT 4><SCENE 4><82%>
+	I cannot choose
+	But pity her.
+<SPEECH 77><ACT 4><SCENE 4><82%>
+	Because methinks that she lov'd you as well
+	As you do love your lady Silvia.
+	She dreams on him that has forgot her love;
+	You dote on her, that cares not for your love.
+	'Tis pity, love should be so contrary;
+	And thinking on it makes me cry, 'alas!'
+<SPEECH 78><ACT 4><SCENE 4><83%>
+	How many women would do such a message?
+	Alas, poor Proteus! thou hast entertain'd
+	A fox to be the shepherd of thy lambs.
+	Alas, poor fool! why do I pity him
+	That with his very heart despiseth me?
+	Because he loves her, he despiseth me;
+	Because I love him, I must pity him.
+	This ring I gave him when he parted from me,
+	To bind him to remember my good will;
+	And now am I—unhappy messenger—
+	To plead for that which I would not obtain,
+	To carry that which I would have refus'd,
+	To praise his faith which I would have disprais'd.
+	I am my master's true-confirmed love,
+	But cannot be true servant to my master,
+	Unless I prove false traitor to myself.
+	Yet will I woo for him; but yet so coldly
+	As heaven it knows, I would not have him speed.
+	Gentlewoman, good day! I pray you, be my mean
+	To bring me where to speak with Madam Silvia.
+<SPEECH 79><ACT 4><SCENE 4><84%>
+	If you be she, I do entreat your patience To hear me speak the message I am sent on.
+<SPEECH 80><ACT 4><SCENE 4><84%>
+	From my master, Sir Proteus, madam.
+<SPEECH 81><ACT 4><SCENE 4><84%>
+	Ay, madam.
+<SPEECH 82><ACT 4><SCENE 4><84%>
+	Madam, please you peruse this letter.—
+	Pardon me, madam, I have unadvis'd
+	Deliver'd you a paper that I should not:
+	This is the letter to your ladyship.
+<SPEECH 83><ACT 4><SCENE 4><84%>
+	It may not be: good madam, pardon me.
+<SPEECH 84><ACT 4><SCENE 4><85%>
+	Madam, he sends your ladyship this ring.
+<SPEECH 85><ACT 4><SCENE 4><85%>
+	She thanks you.
+<SPEECH 86><ACT 4><SCENE 4><85%>
+	I thank you, madam, that you tender her.
+	Poor gentlewoman! my master wrongs her much.
+<SPEECH 87><ACT 4><SCENE 4><85%>
+	Almost as well as I do know myself:
+	To think upon her woes, I do protest
+	That I have wept a hundred several times.
+<SPEECH 88><ACT 4><SCENE 4><85%>
+	I think she doth, and that's her cause of sorrow.
+<SPEECH 89><ACT 4><SCENE 4><85%>
+	She hath been fairer, madam, than she is.
+	When she did think my master lov'd her well,
+	She, in my judgment, was as fair as you;
+	But since she did neglect her looking-glass
+	And threw her sun-expelling mask away,
+	The air hath starv'd the roses in her cheeks
+	And pinch'd the lily-tincture of her face,
+	That now she is become as black as I.
+<SPEECH 90><ACT 4><SCENE 4><86%>
+	About my stature; for, at Pentecost,
+	When all our pageants of delight were play'd,
+	Our youth got me to play the woman's part,
+	And I was trimm'd in Madam Julia's gown,
+	Which served me as fit, by all men's judgments,
+	As if the garment had been made for me:
+	Therefore I know she is about my height.
+	And at that time I made her weep agood;
+	For I did play a lamentable part.
+	Madam, 'twas Ariadne passioning
+	For Theseus' perjury and unjust flight;
+	Which I so lively acted with my tears
+	That my poor mistress, moved therewithal,
+	Wept bitterly, and would I might be dead
+	If I in thought felt not her very sorrow!
+<SPEECH 91><ACT 4><SCENE 4><87%>
+	And she shall thank you for't, if e'er you know her.—
+	A virtuous gentlewoman, mild and beautiful.
+	I hope my master's suit will be but cold,
+	Since she respects my mistress' love so much.
+	Alas, how love can trifle with itself!
+	Here is her picture: let me see; I think,
+	If I had such a tire, this face of mine
+	Were full as lovely as is this of hers;
+	And yet the painter flatter'd her a little,
+	Unless I flatter with myself too much.
+	Her hair is auburn, mine is perfect yellow:
+	If that be all the difference in his love
+	I'll get me such a colour'd periwig.
+	Her eyes are grey as glass, and so are mine:
+	Ay, but her forehead's low, and mine's as high.
+	What should it be that he respects in her
+	But I can make respective in myself,
+	If this fond Love were not a blinded god?
+	Come, shadow, come, and take this shadow up,
+	For 'tis thy rival. O thou senseless form!
+	Thou shalt be worshipp'd, kiss'd, lov'd, and ador'd,
+	And, were there sense in his idolatry,
+	My substance should be statue in thy stead.
+	I'll use thee kindly for thy mistress' sake,
+	That us'd me so; or else, by Jove I vow,
+	I should have scratch'd out your unseeing eyes,
+	To make my master out of love with thee.
+<SPEECH 92><ACT 5><SCENE 2><89%>
+	</STAGE DIR> But love will not be spurr'd to what it loathes.
+<SPEECH 93><ACT 5><SCENE 2><89%>
+	</STAGE DIR> 'Tis true, such pearls as put out ladies' eyes;
+	For I had rather wink than look on them.
+<SPEECH 94><ACT 5><SCENE 2><89%>
+	</STAGE DIR> But better, indeed, when you hold your peace.
+<SPEECH 95><ACT 5><SCENE 2><90%>
+	</STAGE DIR> She needs not, when she knows it cowardice.
+<SPEECH 96><ACT 5><SCENE 2><90%>
+	</STAGE DIR> True; from a gentleman to a fool.
+<SPEECH 97><ACT 5><SCENE 2><90%>
+	</STAGE DIR> That such an ass should owe them.
+<SPEECH 98><ACT 5><SCENE 2><90%>
+	Here comes the duke.
+<SPEECH 99><ACT 5><SCENE 2><91%>
+	And I will follow, more to cross that love
+	Than hate for Silvia that is gone for love.
+<SPEECH 100><ACT 5><SCENE 4><94%>
+	</STAGE DIR> And me, when he approacheth to your presence.
+<SPEECH 101><ACT 5><SCENE 4><96%>
+	O me unhappy!
+<SPEECH 102><ACT 5><SCENE 4><96%>
+	O good sir, my master charg'd me
+	To deliver a ring to Madam Silvia,
+	Which out of my neglect was never done.
+<SPEECH 103><ACT 5><SCENE 4><96%>
+	Here 'tis this is it.
+<SPEECH 104><ACT 5><SCENE 4><96%>
+	O, cry you mercy, sir; I have mistook:
+	This is the ring you sent to Silvia.
+<SPEECH 105><ACT 5><SCENE 4><97%>
+	And Julia herself did give it me;
+	And Julia herself hath brought it hither.
+<SPEECH 106><ACT 5><SCENE 4><97%>
+	Behold her that gave aim to all thy oaths,
+	And entertain'd them deeply in her heart:
+	How oft hast thou with perjury cleft the root!
+	O Proteus! let this habit make thee blush.
+	Be thou asham'd that I have took upon me
+	Such an immodest raiment; if shame live
+	In a disguise of love.
+	It is the lesser blot, modesty finds,
+	Women to change their shapes than men their minds.
+<SPEECH 107><ACT 5><SCENE 4><98%>
+	And I mine.

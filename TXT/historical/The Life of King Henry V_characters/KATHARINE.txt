@@ -1,0 +1,67 @@
+<SPEECH 1><ACT 3><SCENE 4><39%>
+	Alice, tu as esté en Angleterre, et tu parles bien le langage.
+<SPEECH 2><ACT 3><SCENE 4><39%>
+	Je te prie, m'enseignez; il faut que j'apprenne à parler. Comment appellez vous la main en Anglois?
+<SPEECH 3><ACT 3><SCENE 4><39%>
+	De hand. Et les doigts?
+<SPEECH 4><ACT 3><SCENE 4><39%>
+	La main, de hand; les doigts, de fingres. Je pense que je suis le bon escolier. J'ai gagné deux mots d'Anglois vistement. Comment appellez vous les ongles?
+<SPEECH 5><ACT 3><SCENE 4><40%>
+	De nails. Escoutez; dites moy, si je parle bien: de hands, de fingres, et de nails.
+<SPEECH 6><ACT 3><SCENE 4><40%>
+	Dites moy l'Anglois pour le bras.
+<SPEECH 7><ACT 3><SCENE 4><40%>
+	Et le coude?
+<SPEECH 8><ACT 3><SCENE 4><40%>
+	De elbow. Je m'en fais la répétition de tous les mots que vous m'avez appris dès à présent.
+<SPEECH 9><ACT 3><SCENE 4><40%>
+	Excusez moy, Alice; escoutez: de hand, de fingres, de nails, de arma, de bilbow.
+<SPEECH 10><ACT 3><SCENE 4><40%>
+	O Seigneur Dieu! je m'en oublie; de elbow. Comment appellez vous le col?
+<SPEECH 11><ACT 3><SCENE 4><40%>
+	De nick. Et le menton?
+<SPEECH 12><ACT 3><SCENE 4><40%>
+	De sin. Le col, de nick: le menton, de sin.
+<SPEECH 13><ACT 3><SCENE 4><40%>
+	Je ne doute point d'apprendre par la grace de Dieu, et en peu de temps.
+<SPEECH 14><ACT 3><SCENE 4><40%>
+	Non, je reciteray à vous promptement.
+	De hand, de fingre, de mails,—
+<SPEECH 15><ACT 3><SCENE 4><40%>
+	De nails, de arme, de ilbow.
+<SPEECH 16><ACT 3><SCENE 4><40%>
+	Ainsi dis je; d'elbow, de nick, et de sin. Comment appellez vous le pied et la robe?
+<SPEECH 17><ACT 3><SCENE 4><40%>
+	De foot, et de coun? O Seigneur Dieu! ces sont mots de son mauvais, corruptible, gros, et impudique, et non pour les dames d'honneur d'user. Je ne voudrois prononcer ces mots devant les seigneurs de France, pour tout le monde. Foh! le foot, et le coun. Néantmoins je reciterai une autre fois ma leçon ensemble: de hand, de fingre, de nails, d'arm, d'elbow, de nick, de sin, de foot, de coun.
+<SPEECH 18><ACT 3><SCENE 4><41%>
+	C'est assez pour une fois: allons nous à diner.
+<SPEECH 19><ACT 5><SCENE 2><91%>
+	Your majesty sall mock at me; I cannot speak your England.
+<SPEECH 20><ACT 5><SCENE 2><91%>
+	Pardonnez moy, I cannot tell vat is 'like me.'
+<SPEECH 21><ACT 5><SCENE 2><91%>
+	Que dit-il? que je suis semblable à les anges?
+<SPEECH 22><ACT 5><SCENE 2><91%>
+	O bon Dieu! les langues des hommes sont pleines des tromperies.
+<SPEECH 23><ACT 5><SCENE 2><92%>
+	Sauf vostre honneur, me understand vell.
+<SPEECH 24><ACT 5><SCENE 2><93%>
+	Is it possible dat I sould love de enemy of France?
+<SPEECH 25><ACT 5><SCENE 2><93%>
+	I cannot tell vat is dat.
+<SPEECH 26><ACT 5><SCENE 2><94%>
+	Sauf vostre honneur, le François que vous parlez est meilleur que l'Anglois lequel je parle.
+<SPEECH 27><ACT 5><SCENE 2><94%>
+	I cannot tell.
+<SPEECH 28><ACT 5><SCENE 2><94%>
+	I do not know dat.
+<SPEECH 29><ACT 5><SCENE 2><95%>
+	Your majesté ave fausse French enough to deceive de most sage demoiselle dat is en France.
+<SPEECH 30><ACT 5><SCENE 2><96%>
+	Dat is as it sall please de roy mon père.
+<SPEECH 31><ACT 5><SCENE 2><96%>
+	Den it sall also content me.
+<SPEECH 32><ACT 5><SCENE 2><96%>
+	Laissez, mon seigneur, laissez, laissez! Ma foy, je ne veux point que vous abaissez vostre grandeur, en baisant la main d'une vostre indigne serviteure: excusez moy, je vous supplie, mon très puissant seigneur.
+<SPEECH 33><ACT 5><SCENE 2><96%>
+	Les dames, et demoiselles, pour estre baisées devant leur noces, il n'est pas la coutume de France.

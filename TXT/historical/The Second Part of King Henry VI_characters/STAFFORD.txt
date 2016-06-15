@@ -1,0 +1,34 @@
+<SPEECH 1><ACT 4><SCENE 2><72%>
+	Rebellious hinds, the filth and scum of Kent,
+	Mark'd for the gallows, lay your weapons down;
+	Home to your cottages, forsake this groom:
+	The king is merciful, if you revolt.
+<SPEECH 2><ACT 4><SCENE 2><72%>
+	But angry, wrathful, and inclin'd to blood,
+	If you go forward: therefore yield, or die.
+<SPEECH 3><ACT 4><SCENE 2><72%>
+	Villain! thy father was a plasterer;
+	And thou thyself a shearman, art thou not?
+<SPEECH 4><ACT 4><SCENE 2><72%>
+	And what of that?
+<SPEECH 5><ACT 4><SCENE 2><72%>
+	Ay, sir.
+<SPEECH 6><ACT 4><SCENE 2><72%>
+	That's false.
+<SPEECH 7><ACT 4><SCENE 2><73%>
+	And will you credit this base drudge's words,
+	That speaks he knows not what?
+<SPEECH 8><ACT 4><SCENE 2><73%>
+	Jack Cade, the Duke of York hath taught you this.
+<SPEECH 9><ACT 4><SCENE 2><73%>
+	O gross and miserable ignorance!
+<SPEECH 10><ACT 4><SCENE 2><73%>
+	Well, seeing gentle words will not prevail,
+	Assail them with the army of the king.
+<SPEECH 11><ACT 4><SCENE 2><73%>
+	Herald, away; and throughout every town
+	Proclaim them traitors that are up with Cade;
+	That those which fly before the battle ends
+	May, even in their wives' and children's sight,
+	Be hang'd up for example at their doors:
+	And you, that be the king's friends, follow me.

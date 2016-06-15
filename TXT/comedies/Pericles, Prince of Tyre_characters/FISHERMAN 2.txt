@@ -1,0 +1,22 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+	Ha! come and bring away the nets.
+<SPEECH 2><ACT 2><SCENE 1><24%>
+	Why, man?
+<SPEECH 3><ACT 2><SCENE 1><25%>
+	Honest! good fellow, what's that? if it be a day fits you, search out of the calendar, and nobody look after it.
+<SPEECH 4><ACT 2><SCENE 1><25%>
+	What a drunken knave was the sea, to cast thee in our way!
+<SPEECH 5><ACT 2><SCENE 1><25%>
+	Canst thou catch any fishes then?
+<SPEECH 6><ACT 2><SCENE 1><25%>
+	Nay then thou wilt starve, sure; for here's nothing to be got now-a-days unless thou canst fish for 't.
+<SPEECH 7><ACT 2><SCENE 1><26%>
+	But crave! Then I'll turn craver too, and so I shall 'scape whipping.
+<SPEECH 8><ACT 2><SCENE 1><26%>
+	O! not all, my friend, not all; for if all your beggars were whipped, I would wish no better office than to be beadle. But, master, I'll go draw up the net.
+<SPEECH 9><ACT 2><SCENE 1><27%>
+	Help, master, help! here's a fish hangs in the net, like a poor man's right in the law; 'twill hardly come out. Ha! bots on 't, 'tis come at last, and 'tis turned to a rusty armour.
+<SPEECH 10><ACT 2><SCENE 1><29%>
+	Ay, but hark you, my friend; 'twas we that made up this garment through the rough seams of the water; there are certain condolements, certain vails. I hope, sir, if you thrive, you'll remember from whence you had it.
+<SPEECH 11><ACT 2><SCENE 1><29%>
+	We'll sure provide; thou shalt have my best gown to make thee a pair, and I'll bring thee to the court myself.

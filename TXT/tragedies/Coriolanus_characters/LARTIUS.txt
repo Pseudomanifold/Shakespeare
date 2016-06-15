@@ -1,0 +1,83 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+	No, Caius Marcius;
+	I'll lean upon one crutch and fight with t'other,
+	Ere stay behind this business.
+<SPEECH 2><ACT 1><SCENE 1><7%>
+	</STAGE DIR> Lead you on:
+	</STAGE DIR> Follow Cominius; we must follow you;
+	Right worthy you priority.
+<SPEECH 3><ACT 1><SCENE 4><13%>
+	My horse to yours, no.
+<SPEECH 4><ACT 1><SCENE 4><13%>
+	Agreed.
+<SPEECH 5><ACT 1><SCENE 4><13%>
+	So the good horse is mine.
+<SPEECH 6><ACT 1><SCENE 4><13%>
+	No, I'll nor sell nor give him; lend you him I will
+	For half a hundred years. Summon the town.
+<SPEECH 7><ACT 1><SCENE 4><14%>
+	Their noise be our instruction. Ladders, ho!
+<SPEECH 8><ACT 1><SCENE 4><15%>
+	What is become of Marcius?
+<SPEECH 9><ACT 1><SCENE 4><15%>
+	O noble fellow!
+	Who, sensibly, outdares his senseless sword,
+	And, when it bows, stands up. Thou art left, Marcius:
+	A carbuncle entire, as big as thou art,
+	Were not so rich a jewel. Thou wast a soldier
+	Even to Cato's wish, not fierce and terrible
+	Only in strokes; but, with thy grim looks and
+	The thunder-like percussion of thy sounds,
+	Thou mad'st thine enemies shake, as if the world
+	Were feverous and did tremble.
+<SPEECH 10><ACT 1><SCENE 4><15%>
+	O! 'tis Marcius!
+	Let's fetch him off, or make remain alike.
+<SPEECH 11><ACT 1><SCENE 5><16%>
+	Worthy sir, thou bleed'st;
+	Thy exercise hath been too violent
+	For a second course of fight.
+<SPEECH 12><ACT 1><SCENE 5><16%>
+	Now the fair goddess, Fortune,
+	Fall deep in love with thee; and her great charms
+	Misguide thy opposers' swords! Bold gentleman,
+	Prosperity be thy page!
+<SPEECH 13><ACT 1><SCENE 5><16%>
+	Thou worthiest Marcius!—
+	Go, sound thy trumpet in the market-place;
+	Call thither all the officers of the town,
+	Where they shall know our mind. Away!
+<SPEECH 14><ACT 1><SCENE 7><19%>
+	So; let the ports be guarded: keep your duties,
+	As I have set them down. If I do send, dispatch
+	Those centuries to our aid; the rest will serve
+	For a short holding: if we lose the field,
+	We cannot keep the town.
+<SPEECH 15><ACT 1><SCENE 7><19%>
+	Hence, and shut your gates upon us.
+	Our guider, come; to the Roman camp conduct us.
+<SPEECH 16><ACT 1><SCENE 1><20%>
+	O general,
+	Here is the steed, we the caparison:
+	Hadst thou beheld—
+<SPEECH 17><ACT 1><SCENE 1><22%>
+	I shall, my lord.
+<SPEECH 18><ACT 1><SCENE 1><22%>
+	Marcius, his name?
+<SPEECH 19><ACT 3><SCENE 1><44%>
+	He had, my lord; and that it was which caus'd
+	Our swifter composition.
+<SPEECH 20><ACT 3><SCENE 1><44%>
+	On safe-guard he came to me; and did curse
+	Against the Volsces, for they had so vilely
+	Yielded the town: he is retir'd to Antium.
+<SPEECH 21><ACT 3><SCENE 1><44%>
+	He did, my lord.
+<SPEECH 22><ACT 3><SCENE 1><44%>
+	How often he had met you, sword to sword;
+	That of all things upon the earth he hated
+	Your person most, that he would pawn his fortunes
+	To hopeless restitution, so he might
+	Be call'd your vanquisher.
+<SPEECH 23><ACT 3><SCENE 1><45%>
+	At Antium.

@@ -1,0 +1,147 @@
+<SPEECH 1><ACT 1><SCENE 4><15%>
+	What, John Rugby!—
+	I pray thee, go to the casement, and see if you can see my master, Master Doctor Caius, coming: if he do, i' faith, and find anybody in the house, here will be an old abusing of God's patience and the king's English.
+<SPEECH 2><ACT 1><SCENE 4><15%>
+	Go; and we'll have a posset for't soon at night, in faith, at the latter end of a sea-coal fire. <STAGE DIR>
+	</STAGE DIR> An honest, willing, kind fellow, as ever servant shall come in house withal; and, I warrant you, no tell-tale, nor no breed-bate: his worst fault is, that he is given to prayer; he is something peevish that way, but nobody but has his fault; but let that pass. Peter Simple you say your name is?
+<SPEECH 3><ACT 1><SCENE 4><15%>
+	And Master Slender's your master?
+<SPEECH 4><ACT 1><SCENE 4><15%>
+	Does he not wear a great round beard like a glover's paring-knife?
+<SPEECH 5><ACT 1><SCENE 4><15%>
+	A softly-sprighted man, is he not?
+<SPEECH 6><ACT 1><SCENE 4><16%>
+	How say you?—O! I should remember him: does he not hold up his head, as it were, and strut in his gait?
+<SPEECH 7><ACT 1><SCENE 4><16%>
+	Well, heaven send Anne Page no worse fortune! Tell Master Parson Evans I will do what I can for your master: Anne is a good girl, and I wish—
+<SPEECH 8><ACT 1><SCENE 4><16%>
+	We shall all be shent. Run in here, good young man; go into this closet. <STAGE DIR>
+	'And down, down, adown-a,' &c.
+<SPEECH 9><ACT 1><SCENE 4><16%>
+	Ay, forsooth; I'll fetch it you. <STAGE DIR>
+	</STAGE DIR> I am glad he went not in himself: if he had found the young man, he would have been horn-mad.
+<SPEECH 10><ACT 1><SCENE 4><16%>
+	Is it this, sir?
+<SPEECH 11><ACT 1><SCENE 4><17%>
+	What, John Rugby! John!
+<SPEECH 12><ACT 1><SCENE 4><17%>
+	</STAGE DIR> Ay me! he'll find the young man there, and be mad.
+<SPEECH 13><ACT 1><SCENE 4><17%>
+	Good master, be content.
+<SPEECH 14><ACT 1><SCENE 4><17%>
+	The young man is an honest man.
+<SPEECH 15><ACT 1><SCENE 4><17%>
+	I beseech you, be not so phlegmatic. Hear the truth of it: he came of an errand to me from Parson Hugh.
+<SPEECH 16><ACT 1><SCENE 4><17%>
+	Peace, I pray you.
+<SPEECH 17><ACT 1><SCENE 4><18%>
+	This is all, indeed, la! but I'll ne'er put my finger in the fire, and need not.
+<SPEECH 18><ACT 1><SCENE 4><18%>
+	I am glad he is so quiet: if he had been throughly moved, you should have heard him so loud, and so melancholy. But, notwithstanding, man, I'll do your master what good I can; and the very yea and the no is, the French doctor, my master,—I may call him my master, look you, for I keep his house; and I wash, wring, brew, bake, scour, dress meat and drink, make the beds, and do all myself,—
+<SPEECH 19><ACT 1><SCENE 4><18%>
+	Are you avis'd o' that? you shall find it a great charge: and to be up early and down late; but notwithstanding,—to tell you in your ear,—I would have no words of it,—my master himself is in love with Mistress Anne Page: but notwithstanding that, I know Anne's mind, that's neither here nor there.
+<SPEECH 20><ACT 1><SCENE 4><18%>
+	Alas! he speaks but for his friend.
+<SPEECH 21><ACT 1><SCENE 4><19%>
+	Sir, the maid loves you, and all shall be well. We must give folks leave to prate: what, the good-jer!
+<SPEECH 22><ACT 1><SCENE 4><19%>
+	You shall have An fool's-head of your own. No, I know Anne's mind for that: never a woman in Windsor knows more of Anne's mind than I do; nor can do more than I do with her, I thank heaven.
+<SPEECH 23><ACT 1><SCENE 4><19%>
+	Who's there, I trow? Come near the house, I pray you.
+<SPEECH 24><ACT 1><SCENE 4><19%>
+	The better, that it pleases your good worship to ask.
+<SPEECH 25><ACT 1><SCENE 4><19%>
+	In truth, sir, and she is pretty, and honest, and gentle; and one that is your friend, I can tell you that by the way; I praise heaven for it.
+<SPEECH 26><ACT 1><SCENE 4><20%>
+	Troth, sir, all is in his hands above; but notwithstanding, Master Fenton, I'll be sworn on a book, she loves you. Have not your worship a wart above your eye?
+<SPEECH 27><ACT 1><SCENE 4><20%>
+	Well, thereby hangs a tale. Good faith, it is such another Nan; but, I detest, an honest maid as ever broke bread: we had an hour's talk of that wart. I shall never laugh but in that maid's company;—but, indeed, she is given too much to allicholy and musing. But for you—well, go to.
+<SPEECH 28><ACT 1><SCENE 4><20%>
+	Will I? i' faith, that we will: and I will tell your worship more of the wart the next time we have confidence; and of other wooers.
+<SPEECH 29><ACT 1><SCENE 4><20%>
+	Farewell to your worship.—<STAGE DIR>
+	</STAGE DIR> Truly, an honest gentleman: but Anne loves him not; for I know Anne's mind as well as another does. Out upon't! what have I forgot?
+<SPEECH 30><ACT 2><SCENE 1><26%>
+	Ay, forsooth; and, I pray, how does good Mistress Anne?
+<SPEECH 31><ACT 2><SCENE 2><30%>
+	Give your worship good morrow.
+<SPEECH 32><ACT 2><SCENE 2><30%>
+	Not so, an't please your worship.
+<SPEECH 33><ACT 2><SCENE 2><30%>
+	I'll be sworn
+	As my mother was, the first hour I was born.
+<SPEECH 34><ACT 2><SCENE 2><30%>
+	Shall I vouchsafe your worship a word or two?
+<SPEECH 35><ACT 2><SCENE 2><30%>
+	There is one Mistress Ford, sir,—I pray, come a little nearer this ways:—I myself dwell with Master Doctor Caius.
+<SPEECH 36><ACT 2><SCENE 2><30%>
+	Your worship says very true:—I pray your worship, come a little nearer this ways.
+<SPEECH 37><ACT 2><SCENE 2><30%>
+	Are they so? God bless them, and make them his servants!
+<SPEECH 38><ACT 2><SCENE 2><30%>
+	Why, sir, she's a good creature. Lord, Lord! your worship's a wanton! Well, heaven forgive you, and all of us, I pray!
+<SPEECH 39><ACT 2><SCENE 2><30%>
+	Marry, this is the short and the long of it. You have brought her into such a canaries as 'tis wonderful: the best courtier of them all, when the court lay at Windsor, could never have brought her to such a canary; yet there has been knights, and lords, and gentlemen, with their coaches, I warrant you, coach after coach, letter after letter, gift after gift; smelling so sweetly—all musk, and so rushling, I warrant you, in silk and gold; and in such alligant terms; and in such wine and sugar of the best and the fairest, that would have won any woman's heart; and, I warrant you, they could never get an eye-wink of her. I had myself twenty angels given me this morning; but I defy all angels, in any such sort, as they say, but in the way of honesty: and, I warrant you, they could never get her so much as sip on a cup with the proudest of them all; and yet there has been earls, nay, which is more, pensioners; but, I warrant you, all is one with her.
+<SPEECH 40><ACT 2><SCENE 2><31%>
+	Marry, she hath received your letter; for the which she thanks you a thousand times; and she gives you to notify that her husband will be absence from his house between ten and eleven.
+<SPEECH 41><ACT 2><SCENE 2><31%>
+	Ay, forsooth; and then you may come and see the picture, she says, that you wot of: Master Ford, her husband, will be from home. Alas! the sweet woman leads an ill life with him; he's a very jealousy man; she leads a very frampold life with him, good heart.
+<SPEECH 42><ACT 2><SCENE 2><32%>
+	Why, you say well. But I have another messenger to your worship: Mistress Page hath her hearty commendations to you too: and let me tell you in your ear, she's as fartuous a civil modest wife, and one, I tell you, that will not miss you morning nor evening prayer, as any is in Windsor, whoe'er be the other: and she bade me tell your worship that her husband is seldom from home; but, she hopes there will come a time. I never knew a woman so dote upon a man: surely, I think you have charms, la; yes, in truth.
+<SPEECH 43><ACT 2><SCENE 2><32%>
+	Blessing on your heart for't!
+<SPEECH 44><ACT 2><SCENE 2><32%>
+	That were a jest indeed! they have not so little grace, I hope: that were a trick, indeed! But Mistress Page would desire you to send her your little page, of all loves: her husband has a marvellous infection to the little page; and, truly, Master Page is an honest man. Never a wife in Windsor leads a better life than she does: do what she will, say what she will, take all, pay all, go to bed when she list, rise when she list, all is as she will: and, truly she deserves it; for if there be a kind woman in Windsor, she is one. You must send her your page; no remedy.
+<SPEECH 45><ACT 2><SCENE 2><33%>
+	Nay, but do so, then: and, look you, he may come and go between you both; and in any case have a nay-word, that you may know one another's mind, and the boy never need to understand any thing; for 'tis not good that children should know any wickedness: old folks, you know, have discretion, as they say, and know the world.
+<SPEECH 46><ACT 3><SCENE 4><59%>
+	Hark ye; Master Slender would speak a word with you.
+<SPEECH 47><ACT 3><SCENE 4><59%>
+	And how does good Master Fenton? Pray you, a word with you.
+<SPEECH 48><ACT 3><SCENE 4><61%>
+	Speak to Mistress Page.
+<SPEECH 49><ACT 3><SCENE 4><61%>
+	That's my master, Master doctor.
+<SPEECH 50><ACT 3><SCENE 4><61%>
+	This is my doing, now: 'Nay,' said I, 'will you cast away your child on a fool, and a physician? Look on Master Fenton.' This is my doing.
+<SPEECH 51><ACT 3><SCENE 4><62%>
+	Now heaven send thee good fortune! <STAGE DIR>
+	</STAGE DIR> A kind heart he hath: a woman would run through fire and water for such a kind heart. But yet I would my master had Mistress Anne; or I would Master Slender had her; or, in sooth, I would Master Fenton had her. I will do what I can for them all three, for so I have promised, and I'll be as good as my word; but speciously for Master Fenton. Well, I must of another errand to Sir John Falstaff from my two mistresses: what a beast am I to slack it!
+<SPEECH 52><ACT 3><SCENE 5><63%>
+	By your leave. I cry you mercy: give your worship good morrow.
+<SPEECH 53><ACT 3><SCENE 5><63%>
+	Marry, sir, I come to your worship from Mistress Ford.
+<SPEECH 54><ACT 3><SCENE 5><63%>
+	Alas the day! good heart, that was not her fault: she does so take on with her men; they mistook their erection.
+<SPEECH 55><ACT 3><SCENE 5><63%>
+	Well, she laments, sir, for it, that it would yearn your heart to see it. Her husband goes this morning a-birding: she desires you once more to come to her between eight and nine. I must carry her word quickly: she'll make you amends, I warrant you.
+<SPEECH 56><ACT 3><SCENE 5><64%>
+	I will tell her.
+<SPEECH 57><ACT 3><SCENE 5><64%>
+	Eight and nine, sir.
+<SPEECH 58><ACT 3><SCENE 5><64%>
+	Peace be with you, sir.
+<SPEECH 59><ACT 4><SCENE 1><67%>
+	Sure he is by this, or will be presently; but truly, he is very courageous mad about his throwing into the water. Mistress Ford desires you to come suddenly.
+<SPEECH 60><ACT 4><SCENE 1><68%>
+	Blessing of his heart!
+<SPEECH 61><ACT 4><SCENE 1><68%>
+	Truly, I thought there had been one number more, because they say, 'Od's nouns.'
+<SPEECH 62><ACT 4><SCENE 1><68%>
+	Polecats! there are fairer things than polecats, sure.
+<SPEECH 63><ACT 4><SCENE 1><69%>
+	Hang hog is Latin for bacon, I warrant you.
+<SPEECH 64><ACT 4><SCENE 1><69%>
+	And that's a good root.
+<SPEECH 65><ACT 4><SCENE 1><69%>
+	Vengeance of Jenny's case! fie on her! Never name her, child, if she be a whore.
+<SPEECH 66><ACT 4><SCENE 1><69%>
+	You do ill to teach the child such words. He teaches him to hick and to hack, which they'll do fast enough of themselves, and to call 'horum?' fie upon you!
+<SPEECH 67><ACT 4><SCENE 5><85%>
+	From the two parties, forsooth.
+<SPEECH 68><ACT 4><SCENE 5><85%>
+	And have not they suffered? Yes, I warrant; speciously one of them: Mistress Ford, good heart, is beaten black and blue, that you cannot see a white spot about her.
+<SPEECH 69><ACT 4><SCENE 5><85%>
+	Sir, let me speak with you in your chamber; you shall hear how things go, and, I warrant, to your content. Here is a letter will say somewhat. Good hearts! what ado here is to bring you together! Sure, one of you does not serve heaven well, that you are so crossed.
+<SPEECH 70><ACT 5><SCENE 1><88%>
+	I'll provide you a chain, and I'll do what I can to get you a pair of horns.

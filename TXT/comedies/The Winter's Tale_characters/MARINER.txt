@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 3><SCENE 3><42%>
+	Ay, my lord; and fear
+	We have landed in ill time: the skies look grimly
+	And threaten present blusters. In my conscience,
+	The heavens with that we have in hand are angry,
+	And frown upon's.
+<SPEECH 2><ACT 3><SCENE 3><42%>
+	Make your best haste, and go not
+	Too far i' the land: 'tis like to be loud weather;
+	Besides, this place is famous for the creatures
+	Of prey that keep upon't.
+<SPEECH 3><ACT 3><SCENE 3><42%>
+	I am glad at heart
+	To be so rid of the business.

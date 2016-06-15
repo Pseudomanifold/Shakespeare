@@ -1,0 +1,184 @@
+<SPEECH 1><ACT 1><SCENE 2><8%>
+	Finds brotherhood in thee no sharper spur?
+	Hath love in thy old blood no living fire?
+	Edward's seven sons, whereof thyself art one,
+	Were as seven vials of his sacred blood,
+	Or seven fair branches springing from one root:
+	Some of those seven are dried by nature's course,
+	Some of those branches by the Destinies cut;
+	But Thomas, my dear lord, my life, my Gloucester,
+	One vial full of Edward's sacred blood,
+	One flourishing branch of his most royal root,
+	Is crack'd, and all the precious liquor spilt;
+	Is hack'd down, and his summer leaves all vaded,
+	By envy's hand and murder's bloody axe.
+	Ah, Gaunt! his blood was thine: that bed, that womb,
+	That metal, that self-mould, that fashion'd thee
+	Made him a man; and though thou liv'st and breath'st,
+	Yet art thou slain in him: thou dost consent
+	In some large measure to thy father's death
+	In that thou seest thy wretched brother die,
+	Who was the model of thy father's life.
+	Call it not patience, Gaunt; it is despair:
+	In suffering thus thy brother to be slaughter'd
+	Thou show'st the naked pathway to thy life,
+	Teaching stern murder how to butcher thee:
+	That which in mean men we entitle patience
+	Is pale cold cowardice in noble breasts.
+	What shall I say? to safeguard thine own life,
+	The best way is to venge my Gloucester's death.
+<SPEECH 2><ACT 1><SCENE 2><9%>
+	Where then, alas! may I complain myself?
+<SPEECH 3><ACT 1><SCENE 2><9%>
+	Why then, I will. Farewell, old Gaunt.
+	Thou go'st to Coventry, there to behold
+	Our cousin Hereford and fell Mowbray fight:
+	O! sit my husband's wrongs on Hereford's spear,
+	That it may enter butcher Mowbray's breast.
+	Or if misfortune miss the first career,
+	Be Mowbray's sins so heavy in his bosom
+	That they may break his foaming courser's back,
+	And throw the rider headlong in the lists,
+	A caitiff recreant to my cousin Hereford!
+	Farewell, old Gaunt: thy sometimes brother's wife
+	With her companion grief must end her life.
+<SPEECH 4><ACT 1><SCENE 2><9%>
+	Yet one word more. Grief boundeth where it falls,
+	Not with the empty hollowness, but weight:
+	I take my leave before I have begun,
+	For sorrow ends not when it seemeth done.
+	Commend me to my brother, Edmund York.
+	Lo! this is all: nay, yet depart not so;
+	Though this be all, do not so quickly go;
+	I shall remember more. Bid him—ah, what?—
+	With all good speed at Plashy visit me.
+	Alack! and what shall good old York there see
+	But empty lodgings and unfurnish'd walls,
+	Unpeopled offices, untrodden stones?
+	And what hear there for welcome but my groans?
+	Therefore commend me; let him not come there,
+	To seek out sorrow that dwells every where.
+	Desolate, desolate will I hence, and die:
+	The last leave of thee takes my weeping eye.
+<SPEECH 5><ACT 5><SCENE 2><83%>
+	My lord, you told me you would tell the rest,
+	When weeping made you break the story off,
+	Of our two cousins coming into London.
+<SPEECH 6><ACT 5><SCENE 2><83%>
+	At that sad stop, my lord,
+	Where rude misgovern'd hands, from windows' tops,
+	Threw dust and rubbish on King Richard's head.
+<SPEECH 7><ACT 5><SCENE 2><84%>
+	Alack, poor Richard! where rode he the whilst?
+<SPEECH 8><ACT 5><SCENE 2><84%>
+	Here comes my son Aumerle.
+<SPEECH 9><ACT 5><SCENE 2><84%>
+	Welcome, my son: who are the violets now
+	That strew the green lap of the new come spring?
+<SPEECH 10><ACT 5><SCENE 2><85%>
+	What should you fear?
+	'Tis nothing but some bond he's enter'd into
+	For gay apparel 'gainst the triumph day.
+<SPEECH 11><ACT 5><SCENE 2><85%>
+	What is the matter, my lord?
+<SPEECH 12><ACT 5><SCENE 2><86%>
+	Why, what is it, my lord?
+<SPEECH 13><ACT 5><SCENE 2><86%>
+	What's the matter?
+<SPEECH 14><ACT 5><SCENE 2><86%>
+	I will not peace. What is the matter, Aumerle?
+<SPEECH 15><ACT 5><SCENE 2><86%>
+	Thy life answer!
+<SPEECH 16><ACT 5><SCENE 2><86%>
+	Strike him, Aumerle. Poor boy, thou art amaz'd.
+	</STAGE DIR> Hence, villain! never more come in my sight.
+<SPEECH 17><ACT 5><SCENE 2><86%>
+	Why, York, what wilt thou do?
+	Wilt thou not hide the trespass of thine own?
+	Have we more sons, or are we like to have?
+	Is not my teeming date drunk up with time?
+	And wilt thou pluck my fair son from mine age,
+	And rob me of a happy mother's name?
+	Is he not like thee? is he not thine own?
+<SPEECH 18><ACT 5><SCENE 2><87%>
+	He shall be none;
+	We'll keep him here: then, what is that to him?
+<SPEECH 19><ACT 5><SCENE 2><87%>
+	Hadst thou groan'd for him
+	As I have done, thou'dst be more pitiful.
+	But now I know thy mind: thou dost suspect
+	That I have been disloyal to thy bed,
+	And that he is a bastard, not thy son:
+	Sweet York, sweet husband, be not of that mind:
+	He is as like thee as a man may be,
+	Not like to me, nor any of my kin,
+	And yet I love him.
+<SPEECH 20><ACT 5><SCENE 2><87%>
+	After, Aumerle! Mount thee upon his horse;
+	Spur post, and get before him to the king,
+	And beg thy pardon ere he do accuse thee.
+	I'll not be long behind; though I be old,
+	I doubt not but to ride as fast as York:
+	And never will I rise up from the ground
+	Till Bolingbroke have pardon'd thee. Away! be gone.
+<SPEECH 21><ACT 5><SCENE 3><90%>
+	</STAGE DIR> What ho, my liege! for God's sake let me in.
+<SPEECH 22><ACT 5><SCENE 3><90%>
+	</STAGE DIR> A woman, and thine aunt, great king; 'tis I.
+	Speak with me, pity me, open the door:
+	A beggar begs, that never begg'd before.
+<SPEECH 23><ACT 5><SCENE 3><91%>
+	O king! believe not this hard-hearted man:
+	Love, loving not itself, none other can.
+<SPEECH 24><ACT 5><SCENE 3><91%>
+	Sweet York, be-patient.
+	Hear me, gentle liege.
+<SPEECH 25><ACT 5><SCENE 3><91%>
+	Not yet, I thee beseech.
+	For ever will I walk upon my knees,
+	And never see day that the happy sees,
+	Till thou give joy; until thou bid me joy,
+	By pardoning Rutland, my transgressing boy.
+<SPEECH 26><ACT 5><SCENE 3><91%>
+	Pleads he in earnest? look upon his face;
+	His eyes do drop no tears, his prayers are in jest;
+	His words come from his mouth, ours from our breast:
+	He prays but faintly and would be denied;
+	We pray with heart and soul and all beside:
+	His weary joints would gladly rise, I know;
+	Our knees shall kneel till to the ground they grow:
+	His prayers are full of false hypocrisy;
+	Ours of true zeal and deep integrity.
+	Our prayers do out-pray his; then let them have
+	That mercy which true prayer ought to have.
+<SPEECH 27><ACT 5><SCENE 3><92%>
+	Nay, do not say 'stand up;'
+	But 'pardon' first, and afterwards 'stand up.'
+	An if I were thy nurse, thy tongue to teach,
+	'Pardon' should be the first word of thy speech.
+	I never long'd to hear a word till now;
+	Say 'pardon,' king; let pity teach thee how:
+	The word is short, but not so short as sweet;
+	No word like 'pardon,' for kings' mouths so meet.
+<SPEECH 28><ACT 5><SCENE 3><92%>
+	Dost thou teach pardon pardon to destroy?
+	Ah! my sour husband, my hard-hearted lord,
+	That sett'st the word itself against the word.
+	Speak 'pardon' as 'tis current in our land;
+	The chopping French we do not understand.
+	Thine eye begins to speak, set thy tongue there,
+	Or in thy piteous heart plant thou thine ear,
+	That hearing how our plants and prayers do pierce,
+	Pity may move thee pardon to rehearse.
+<SPEECH 29><ACT 5><SCENE 3><92%>
+	I do not sue to stand;
+	Pardon is all the suit I have in hand.
+<SPEECH 30><ACT 5><SCENE 3><92%>
+	O happy vantage of a kneeling knee!
+	Yet am I sick for fear: speak it again;
+	Twice saying 'pardon' doth not pardon twain,
+	But makes one pardon strong.
+<SPEECH 31><ACT 5><SCENE 3><93%>
+	A god on earth thou art.
+<SPEECH 32><ACT 5><SCENE 3><93%>
+	Come, my old son: I pray God make thee new.

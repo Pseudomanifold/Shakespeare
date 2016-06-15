@@ -1,0 +1,184 @@
+<SPEECH 1><ACT 2><SCENE 1><21%>
+	Mistress Page! trust me, I was going to your house.
+<SPEECH 2><ACT 2><SCENE 1><22%>
+	Nay, I'll ne'er believe that: I have to show to the contrary.
+<SPEECH 3><ACT 2><SCENE 1><22%>
+	Well, I do then; yet, I say I could show you to the contrary. O, Mistress Page! give me some counsel.
+<SPEECH 4><ACT 2><SCENE 1><22%>
+	O woman, if it were not for one trifling respect, I could come to such honour!
+<SPEECH 5><ACT 2><SCENE 1><22%>
+	If I would but go to hell for an eternal moment or so, I could be knighted.
+<SPEECH 6><ACT 2><SCENE 1><22%>
+	We burn daylight: here, read, read; perceive how I might be knighted. I shall think the worse of fat men as long as I have an eye to make difference of men's liking: and yet he would not swear; praised women's modesty; and gave such orderly and well-behaved reproof to all uncomeliness, that I would have sworn his disposition would have gone to the truth of his words; but they do no more adhere and keep place together than the Hundredth Psalm to the tune of 'Green Sleeves.' What tempest, I trow, threw this whale, with so many tuns of oil in his belly, ashore at Windsor? How shall I be revenged on him? I think, the best way were to entertain him with hope, till the wicked fire of lust have melted him in his own grease. Did you ever hear the like?
+<SPEECH 7><ACT 2><SCENE 1><23%>
+	Why, this is the very same; the very hand, the very words. What doth he think of us?
+<SPEECH 8><ACT 2><SCENE 1><23%>
+	Boarding call you it? I'll be sure to keep him above deck.
+<SPEECH 9><ACT 2><SCENE 1><24%>
+	Nay, I will consent to act any villany against him, that may not sully the chariness of our honesty. O, that my husband saw this letter! it would give eternal food to his jealousy.
+<SPEECH 10><ACT 2><SCENE 1><24%>
+	You are the happier woman.
+<SPEECH 11><ACT 2><SCENE 1><25%>
+	How now, sweet Frank! why art thou melancholy?
+<SPEECH 12><ACT 2><SCENE 1><25%>
+	Faith, thou hast some crotchets in thy head now. Will you go, Mistress Page?
+<SPEECH 13><ACT 2><SCENE 1><26%>
+	Trust me, I thought on her: she'll fit it.
+<SPEECH 14><ACT 3><SCENE 3><50%>
+	What, John! what, Robert!
+<SPEECH 15><ACT 3><SCENE 3><50%>
+	I warrant. What, Robin, I say!
+<SPEECH 16><ACT 3><SCENE 3><50%>
+	Here, set it down.
+<SPEECH 17><ACT 3><SCENE 3><50%>
+	Marry, as I told you before, John, and Robert, be ready here hard by in the brewhouse; and when I suddenly call you, come forth, and without any pause or staggering, take this basket on your shoulders: that done, trudge with it in all haste, and carry it among the whitsters in Datchet-mead, and there empty it in the muddy ditch, close by the Thames side.
+<SPEECH 18><ACT 3><SCENE 3><50%>
+	I have told them over and over; they lack no direction. Be gone, and come when you are called.
+<SPEECH 19><ACT 3><SCENE 3><50%>
+	How now, my eyas-musket! what news with you?
+<SPEECH 20><ACT 3><SCENE 3><51%>
+	Do so. Go tell thy master I am alone. <STAGE DIR>
+	</STAGE DIR> Mistress Page, remember you your cue.
+<SPEECH 21><ACT 3><SCENE 3><51%>
+	Go to, then: we'll use this unwholesome humidity, this gross watery pumpion; we'll teach him to know turtles from jays.
+<SPEECH 22><ACT 3><SCENE 3><51%>
+	O, sweet Sir John!
+<SPEECH 23><ACT 3><SCENE 3><51%>
+	I your lady, Sir John! alas, I should be a pitiful lady.
+<SPEECH 24><ACT 3><SCENE 3><52%>
+	A plain kerchief, Sir John: my brows become nothing else; nor that well neither.
+<SPEECH 25><ACT 3><SCENE 3><52%>
+	Believe me, there's no such thing in me.
+<SPEECH 26><ACT 3><SCENE 3><52%>
+	Do not betray me, sir. I fear you love Mistress Page.
+<SPEECH 27><ACT 3><SCENE 3><52%>
+	Well, heaven knows how I love you; and you shall one day find it.
+<SPEECH 28><ACT 3><SCENE 3><52%>
+	Nay, I must tell you, so you do, or else I could not be in that mind.
+<SPEECH 29><ACT 3><SCENE 3><53%>
+	Pray you, do so: she's a very tattling woman.
+	What's the matter? how now!
+<SPEECH 30><ACT 3><SCENE 3><53%>
+	What's the matter, good Mistress Page?
+<SPEECH 31><ACT 3><SCENE 3><53%>
+	What cause of suspicion?
+<SPEECH 32><ACT 3><SCENE 3><53%>
+	Why, alas, what's the matter?
+<SPEECH 33><ACT 3><SCENE 3><53%>
+	</STAGE DIR> Speak louder.—'Tis not so, I hope.
+<SPEECH 34><ACT 3><SCENE 3><54%>
+	What shall I do?—There is a gentleman, my dear friend; and I fear not mine own shame so much as his peril: I had rather than a thousand pound he were out of the house.
+<SPEECH 35><ACT 3><SCENE 3><54%>
+	He's too big to go in there. What shall I do?
+<SPEECH 36><ACT 3><SCENE 3><55%>
+	What, John! Robert! John!
+	Go take up these clothes here quickly; where's the cowl-staff? look, how you drumble! carry them to the laundress in Datchet-mead; quickly, come.
+<SPEECH 37><ACT 3><SCENE 3><55%>
+	Why, what have you to do whither they bear it? You were best meddle with buck-washing.
+<SPEECH 38><ACT 3><SCENE 3><56%>
+	I know not which pleases me better; that my husband is deceived, or Sir John.
+<SPEECH 39><ACT 3><SCENE 3><56%>
+	I am half afraid he will have need of washing; so throwing him into the water will do him a benefit.
+<SPEECH 40><ACT 3><SCENE 3><56%>
+	I think my husband hath some special suspicion of Falstaff's being here; for I never saw him so gross in his jealousy till now.
+<SPEECH 41><ACT 3><SCENE 3><56%>
+	Shall we send that foolish carrion Mistress Quickly to him, and excuse his throwing into the water; and give him another hope, to betray him to another punishment?
+<SPEECH 42><ACT 3><SCENE 3><57%>
+	</STAGE DIR> Ay, ay, peace.—You use me well, Master Ford, do you?
+<SPEECH 43><ACT 3><SCENE 3><57%>
+	Heaven make you better than your thoughts!
+<SPEECH 44><ACT 4><SCENE 2><70%>
+	He's a-birding, sweet Sir John.
+<SPEECH 45><ACT 4><SCENE 2><70%>
+	Step into the chamber, Sir John.
+<SPEECH 46><ACT 4><SCENE 2><70%>
+	Why, none but mine own people.
+<SPEECH 47><ACT 4><SCENE 2><70%>
+	No, certainly.—<STAGE DIR>
+	</STAGE DIR> Speak louder.
+<SPEECH 48><ACT 4><SCENE 2><70%>
+	Why?
+<SPEECH 49><ACT 4><SCENE 2><71%>
+	Why, does he talk of him?
+<SPEECH 50><ACT 4><SCENE 2><71%>
+	How near is he, Mistress Page?
+<SPEECH 51><ACT 4><SCENE 2><71%>
+	I am undone! the knight is here.
+<SPEECH 52><ACT 4><SCENE 2><71%>
+	Which way should he go? how should I bestow him? Shall I put him into the basket again?
+<SPEECH 53><ACT 4><SCENE 2><72%>
+	There they always use to discharge their birding-pieces.
+<SPEECH 54><ACT 4><SCENE 2><72%>
+	He will seek there, on my word. Neither press, coffer, chest, trunk, well, vault, but he hath an abstract for the remembrance of such places, and goes to them by his note: there is no hiding you in the house.
+<SPEECH 55><ACT 4><SCENE 2><72%>
+	How might we disguise him?
+<SPEECH 56><ACT 4><SCENE 2><72%>
+	My maid's aunt, the fat woman of Brainford, has a gown above.
+<SPEECH 57><ACT 4><SCENE 2><72%>
+	Go, go, sweet Sir John: Mistress Page and I will look some linen for your head.
+<SPEECH 58><ACT 4><SCENE 2><72%>
+	I would my husband would meet him in this shape: he cannot abide the old woman of Brainford; he swears she's a witch; forbade her my house, and hath threatened to beat her.
+<SPEECH 59><ACT 4><SCENE 2><73%>
+	But is my husband coming?
+<SPEECH 60><ACT 4><SCENE 2><73%>
+	We'll try that; for I'll appoint my men to carry the basket again, to meet him at the door with it, as they did last time.
+<SPEECH 61><ACT 4><SCENE 2><73%>
+	I'll first direct my men what they shall do with the basket. Go up; I'll bring linen for him straight.
+<SPEECH 62><ACT 4><SCENE 2><73%>
+	Go, sirs, take the basket again on your shoulders: your master is hard at door; if he bid you set it down, obey him. Quickly; dispatch.
+<SPEECH 63><ACT 4><SCENE 2><74%>
+	Heaven by my witness, you do, if you suspect me in any dishonesty.
+<SPEECH 64><ACT 4><SCENE 2><74%>
+	Are you not ashamed? let the clothes alone.
+<SPEECH 65><ACT 4><SCENE 2><75%>
+	Why, man, why?
+<SPEECH 66><ACT 4><SCENE 2><75%>
+	If you find a man there he shall die a flea's death.
+<SPEECH 67><ACT 4><SCENE 2><75%>
+	What ho, Mistress Page! come you and the old woman down; my husband will come into the chamber.
+<SPEECH 68><ACT 4><SCENE 2><75%>
+	Why, it is my maid's aunt of Brainford.
+<SPEECH 69><ACT 4><SCENE 2><76%>
+	Nay, good, sweet husband! good gentlemen, let him not strike the old woman.
+<SPEECH 70><ACT 4><SCENE 2><76%>
+	Nay, he will do it. 'Tis a goodly credit for you.
+<SPEECH 71><ACT 4><SCENE 2><77%>
+	Nay, by the mass, that he did not; he beat him most unpitifully methought.
+<SPEECH 72><ACT 4><SCENE 2><77%>
+	What think you? May we, with the warrant of womanhood and the witness of a good conscience, pursue him with any further revenge?
+<SPEECH 73><ACT 4><SCENE 2><77%>
+	Shall we tell our husbands how we have served him?
+<SPEECH 74><ACT 4><SCENE 2><77%>
+	I'll warrant they'll have him publicly shamed, and methinks there would be no period to the jest, should he not be publicly shamed.
+<SPEECH 75><ACT 4><SCENE 4><79%>
+	Devise but how you'll use him when he comes,
+	And let us two devise to bring him thither.
+<SPEECH 76><ACT 4><SCENE 4><79%>
+	Marry, this is our device;
+	That Falstaff at that oak shall meet with us,
+	Disguis'd like Herne with huge horns on his head.
+<SPEECH 77><ACT 4><SCENE 4><80%>
+	And till he tell the truth,
+	Let the supposed fairies pinch him sound
+	And burn him with their tapers.
+<SPEECH 78><ACT 5><SCENE 3><90%>
+	Where is Nan now and her troop of fairies, and the Welsh devil, Hugh?
+<SPEECH 79><ACT 5><SCENE 3><90%>
+	That cannot choose but amaze him.
+<SPEECH 80><ACT 5><SCENE 3><90%>
+	We'll betray him finely.
+<SPEECH 81><ACT 5><SCENE 3><90%>
+	The hour draws on: to the oak, to the oak!
+<SPEECH 82><ACT 5><SCENE 5><91%>
+	Sir John! art thou there, my deer? my male deer?
+<SPEECH 83><ACT 5><SCENE 5><92%>
+	Mistress Page is come with me, sweetheart.
+<SPEECH 84><ACT 5><SCENE 5><92%>
+	Heaven forgive our sins!
+<SPEECH 85><ACT 5><SCENE 5><92%>
+	Away, away!
+<SPEECH 86><ACT 5><SCENE 5><95%>
+	Sir John, we have had ill luck; we could never meet. I will never take you for my love again, but I will always count you my deer.
+<SPEECH 87><ACT 5><SCENE 5><97%>
+	Nay, husband, let that go to make amends;
+	Forgive that sum, and so we'll all be friends.

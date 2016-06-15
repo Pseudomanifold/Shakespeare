@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 4><SCENE 1><57%>
+	I think it be; but we have no great cause to desire the approach of day.
+<SPEECH 2><ACT 4><SCENE 1><57%>
+	He hath not told his thought to the king?
+<SPEECH 3><ACT 4><SCENE 1><58%>
+	He may show what outward courage he will, but I believe, as cold a night as 'tis, he could wish himself in Thames up to the neck, and so I would he were, and I by him, at all adventures, so we were quit here.
+<SPEECH 4><ACT 4><SCENE 1><58%>
+	Then I would he were here alone; so should he be sure to be ransomed, and a many poor men's lives saved.
+<SPEECH 5><ACT 4><SCENE 1><58%>
+	Ay, or more than we should seek after; for we know enough if we know we are the king's subjects. If his cause be wrong, our obedience to the king wipes the crime of it out of us.
+<SPEECH 6><ACT 4><SCENE 1><60%>
+	I do not desire he should answer for me; and yet I determine to fight lustily for him.
+<SPEECH 7><ACT 4><SCENE 1><61%>
+	Be friends, you English fools, be friends: we have French quarrels enow, if you could tell how to reckon.

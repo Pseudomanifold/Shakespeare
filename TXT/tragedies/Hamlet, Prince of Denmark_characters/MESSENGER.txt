@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 4><SCENE 7><77%>
+	Letters, my lord, from Hamlet:
+	This to your majesty; this to the queen.
+<SPEECH 2><ACT 4><SCENE 7><77%>
+	Sailors, my lord, they say; I saw them not:
+	They were given me by Claudio, he receiv'd them
+	Of him that brought them.

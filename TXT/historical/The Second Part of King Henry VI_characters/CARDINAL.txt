@@ -1,0 +1,132 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	Item, It is further agreed between them, that the duchies of Anjou and Maine shall be released and delivered over to the king her father; and she sent over of the King of England's own proper cost and charges, without having any dowry.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	Nephew, what means this passionate discourse,
+	This peroration with such circumstance?
+	For France, 'tis ours; and we will keep it still.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	My Lord of Gloucester, now you grow too hot:
+	It was the pleasure of my lord the king.
+<SPEECH 4><ACT 1><SCENE 1><5%>
+	So, there goes our protector in a rage.
+	'Tis known to you he is mine enemy,
+	Nay, more, an enemy unto you all,
+	And no great friend, I fear me, to the king.
+	Consider lords, he is the next of blood,
+	And heir apparent to the English crown:
+	Had Henry got an empire by his marriage,
+	And all the wealthy kingdoms of the west,
+	There's reason he should be displeas'd at it.
+	Look to it, lords; let not his smoothing words
+	Bewitch your hearts; be wise and circumspect.
+	What though the common people favour him,
+	Calling him, 'Humphrey, the good Duke of Gloucester;'
+	Clapping their hands, and crying with loud voice,
+	'Jesu maintain your royal excellence!'
+	With 'God preserve the good Duke Humphrey!'
+	I fear me, lords, for all this flattering gloss,
+	He will be found a dangerous protector.
+<SPEECH 5><ACT 1><SCENE 1><5%>
+	This weighty business will not brook delay;
+	I'll to the Duke of Suffolk presently.
+<SPEECH 6><ACT 1><SCENE 3><15%>
+	Ambitious Warwick, let thy betters speak.
+<SPEECH 7><ACT 1><SCENE 3><15%>
+	The commons hast thou rack'd; the clergy's bags
+	Are lank and lean with thy extortions.
+<SPEECH 8><ACT 2><SCENE 1><22%>
+	I thought as much; he'd be above the clouds.
+<SPEECH 9><ACT 2><SCENE 1><22%>
+	Thy heaven is on earth; thine eyes and thoughts
+	Beat on a crown, the treasure of thy heart;
+	Pernicious protector, dangerous peer,
+	That smooth'st it so with king and commonweal!
+<SPEECH 10><ACT 2><SCENE 1><22%>
+	Let me be blessed for the peace I make
+	Against this proud protector with my sword!
+<SPEECH 11><ACT 2><SCENE 1><23%>
+	</STAGE DIR> Marry, when thou dar'st.
+<SPEECH 12><ACT 2><SCENE 1><23%>
+	</STAGE DIR> Ay, where thou dar'st not peep: an if thou dar'st,
+	This evening on the east side of the grove.
+<SPEECH 13><ACT 2><SCENE 1><23%>
+	Believe me, cousin Gloucester,
+	Had not your man put up the fowl so suddenly,
+	We had had more sport. <STAGE DIR>
+	</STAGE DIR> Come with thy two-hand sword.
+<SPEECH 14><ACT 2><SCENE 1><23%>
+	Are you advis'd? <STAGE DIR>
+	</STAGE DIR> the east side of the grove.
+<SPEECH 15><ACT 2><SCENE 1><23%>
+	</STAGE DIR> Medice teipsum;
+	Protector, see to't well, protect yourself.
+<SPEECH 16><ACT 2><SCENE 1><24%>
+	Here comes the townsmen on procession,
+	To present your highness with the man.
+<SPEECH 17><ACT 2><SCENE 1><25%>
+	What! art thou lame?
+<SPEECH 18><ACT 2><SCENE 1><27%>
+	Duke Humphrey has done a miracle to-day.
+<SPEECH 19><ACT 2><SCENE 1><27%>
+	And so, my Lord Protector, by this means
+	Your lady is forthcoming yet at London.
+	This news, I think, hath turn'd your weapon's edge;
+	'Tis like, my lord, you will not keep your hour.
+<SPEECH 20><ACT 3><SCENE 1><40%>
+	Did he not, contrary to form of law,
+	Devise strange deaths for small offences done?
+<SPEECH 21><ACT 3><SCENE 1><41%>
+	It serves you well, my lord, to say so much.
+<SPEECH 22><ACT 3><SCENE 1><43%>
+	My liege, his railing is intolerable.
+	If those that care to keep your royal person
+	From treason's secret knife and traitor's rage
+	Be thus upbraided, chid, and rated at,
+	And the offender granted scope of speech,
+	'Twill make them cool in zeal unto your Grace.
+<SPEECH 23><ACT 3><SCENE 1><43%>
+	Sirs, take away the duke, and guard him sure.
+<SPEECH 24><ACT 3><SCENE 1><45%>
+	That he should die is worthy policy;
+	And yet we want a colour for his death.
+	'Tis meet he be condemn'd by course of law.
+<SPEECH 25><ACT 3><SCENE 1><46%>
+	But I would have him dead, my Lord of Suffolk,
+	Ere you can take due orders for a priest:
+	Say you consent and censure well the deed,
+	And I'll provide his executioner;
+	I tender so the safety of my liege.
+<SPEECH 26><ACT 3><SCENE 1><46%>
+	A breach that craves a quick expedient stop!
+	What counsel give you in this weighty cause?
+<SPEECH 27><ACT 3><SCENE 1><47%>
+	My Lord of York, try what your fortune is.
+	The uncivil kerns of Ireland are in arms
+	And temper clay with blood of Englishmen:
+	To Ireland will you lead a band of men,
+	Collected choicely, from each county some,
+	And try your hap against the Irishmen?
+<SPEECH 28><ACT 3><SCENE 1><47%>
+	No more of him; for I will deal with him
+	That henceforth he shall trouble us no more.
+	And so break off; the day is almost spent.
+	Lord Suffolk, you and I must talk of that event.
+<SPEECH 29><ACT 3><SCENE 2><50%>
+	God's secret judgment: I did dream to-night
+	The duke was dumb, and could not speak a word.
+<SPEECH 30><ACT 3><SCENE 3><62%>
+	If thou be'st death, I'll give thee England's treasure,
+	Enough to purchase such another island,
+	So thou wilt let me live, and feel no pain.
+<SPEECH 31><ACT 3><SCENE 3><63%>
+	Bring me unto my trial when you will.
+	Died he not in his bed? where should he die?
+	Can I make men live whe'r they will or no?
+	O! torture me no more, I will confess.
+	Alive again? then show me where he is:
+	I'll give a thousand pound to look upon him.
+	He hath no eyes, the dust hath blinded them.
+	Comb down his hair; look! look! it stands upright,
+	Like lime-twigs set to catch my winged soul.
+	Give me some drink; and bid the apothecary
+	Bring the strong poison that I bought of him.

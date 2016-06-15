@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 2><SCENE 1><21%>
+	</STAGE DIR> 'At hand, quoth pick-purse.'
+<SPEECH 2><ACT 2><SCENE 1><22%>
+	Good morrow, Master Gadshill. It holds current that I told you yesternight: there's a franklin in the wild of Kent hath brought three hundred marks with him in gold: I heard him tell it to one of his company last night at supper; a kind of auditor; one that hath abundance of charge too, God knows what. They are up already and call for eggs and butter: they will away presently.
+<SPEECH 3><ACT 2><SCENE 1><22%>
+	No, I'll none of it: I prithee, keep that for the hangman; for I know thou worship'st Saint Nicholas as truly as a man of falsehood may.
+<SPEECH 4><ACT 2><SCENE 1><23%>
+	What! the commonwealth their boots? will she hold out water in foul way?
+<SPEECH 5><ACT 2><SCENE 1><23%>
+	Nay, by my faith, I think you are more beholding to the night than to fern-seed for your walking invisible.
+<SPEECH 6><ACT 2><SCENE 1><23%>
+	Nay, rather let me have it, as you are a false thief.

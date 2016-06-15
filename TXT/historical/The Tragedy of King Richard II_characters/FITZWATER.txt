@@ -1,0 +1,33 @@
+<SPEECH 1><ACT 4><SCENE 1><69%>
+	If that thy valour stand on sympathies,
+	There is my gage, Aumerle, in gage to thine:
+	By that fair sun which shows me where thou stand'st,
+	I heard thee say, and vauntingly thou spak'st it,
+	That thou wert cause of noble Gloucester's death.
+	If thou deny'st it twenty times, thou liest;
+	And I will turn thy falsehood to thy heart,
+	Where it was forged, with my rapier's point.
+<SPEECH 2><ACT 4><SCENE 1><69%>
+	Now, by my soul, I would it were this hour.
+<SPEECH 3><ACT 4><SCENE 1><70%>
+	'Tis very true: you were in presence then;
+	And you can witness with me this is true.
+<SPEECH 4><ACT 4><SCENE 1><70%>
+	Surrey, thou best.
+<SPEECH 5><ACT 4><SCENE 1><70%>
+	How fondly dost thou spur a forward horse!
+	If I dare eat, or drink, or breathe, or live,
+	I dare meet Surrey in a wilderness,
+	And spit upon him, whilst I say he lies,
+	And lies, and lies: there is my bond of faith
+	To tie thee to my strong correction.
+	As I intend to thrive in this new world,
+	Aumerle is guilty of my true appeal:
+	Besides, I heard the banish'd Norfolk say
+	That thou, Aumerle, didst send two of thy men
+	To execute the noble duke at Calais.
+<SPEECH 6><ACT 5><SCENE 6><99%>
+	My lord, I have from Oxford sent to London
+	The heads of Brocas and Sir Bennet Seely,
+	Two of the dangerous consorted traitors
+	That sought at Oxford thy dire overthrow.

@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 5><SCENE 3><89%>
+	What is your gracious pleasure?
+<SPEECH 2><ACT 5><SCENE 3><89%>
+	All is confirm'd, my lord, which was reported.
+<SPEECH 3><ACT 5><SCENE 3><89%>
+	'Tis not needed yet.
+<SPEECH 4><ACT 5><SCENE 5><92%>
+	It is the cry of women, my good lord.
+<SPEECH 5><ACT 5><SCENE 5><92%>
+	The queen, my lord, is dead.

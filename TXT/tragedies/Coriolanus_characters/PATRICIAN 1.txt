@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 3><SCENE 1><52%>
+	This man has marr'd his fortune.
+<SPEECH 2><ACT 3><SCENE 2><54%>
+	You do the nobler.

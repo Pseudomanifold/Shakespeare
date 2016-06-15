@@ -1,0 +1,647 @@
+<SPEECH 1><ACT 1><SCENE 2><5%>
+	Though yet of Hamlet our dear brother's death
+	The memory be green, and that it us befitted
+	To bear our hearts in grief and our whole kingdom
+	To be contracted in one brow of woe,
+	Yet so far hath discretion fought with nature
+	That we with wisest sorrow think on him,
+	Together with remembrance of ourselves.
+	Therefore our sometime sister, now our queen,
+	The imperial jointress of this war-like state,
+	Have we, as 'twere with a defeated joy,
+	With one auspicious and one dropping eye,
+	With mirth in funeral and with dirge in marriage,
+	In equal scale weighing delight and dole,
+	Taken to wife: nor have we herein barr'd
+	Your better wisdoms, which have freely gone
+	With this affair along: for all, our thanks.
+	Now follows, that you know, young Fortinbras,
+	Holding a weak supposal of our worth,
+	Or thinking by our late dear brother's death
+	Our state to be disjoint and out of frame,
+	Colleagued with the dream of his advantage,
+	He hath not fail'd to pester us with message,
+	Importing the surrender of those lands
+	Lost by his father, with all bands of law,
+	To our most valiant brother. So much for him.
+	Now for ourself and for this time of meeting.
+	Thus much the business is: we have here writ
+	To Norway, uncle of young Fortinbras,
+	Who, impotent and bed-rid, scarcely hears
+	Of this his nephew's purpose, to suppress
+	His further gait herein; in that the levies,
+	The lists and full proportions, are all made
+	Out of his subject; and we here dispatch
+	You, good Cornelius, and you, Voltimand,
+	For bearers of this greeting to old Norway,
+	Giving to you no further personal power
+	To business with the king more than the scope
+	Of these delated articles allow.
+	Farewell and let your haste commend your duty.
+<SPEECH 2><ACT 1><SCENE 2><6%>
+	We doubt it nothing: heartily farewell.
+	And now, Laertes, what's the news with you?
+	You told us of some suit; what is't, Laertes?
+	You cannot speak of reason to the Dane,
+	And lose your voice; what wouldst thou beg, Laertes,
+	That shall not be my offer, not thy asking?
+	The head is not more native to the heart,
+	The hand more instrumental to the mouth,
+	Than is the throne of Denmark to thy father.
+	What wouldst thou have, Laertes?
+<SPEECH 3><ACT 1><SCENE 2><6%>
+	Have you your father's leave? What says Polonius?
+<SPEECH 4><ACT 1><SCENE 2><6%>
+	Take thy fair hour, Laertes; time be thine,
+	And thy best graces spend it at thy will.
+	But now, my cousin Hamlet, and my son,—
+<SPEECH 5><ACT 1><SCENE 2><6%>
+	How is it that the clouds still hang on you?
+<SPEECH 6><ACT 1><SCENE 2><7%>
+	'Tis sweet and commendable in your nature, Hamlet,
+	To give these mourning duties to your father:
+	But, you must know, your father lost a father;
+	That father lost, lost his; and the survivor bound
+	In filial obligation for some term
+	To do obsequious sorrow; but to persever
+	In obstinate condolement is a course
+	Of impious stubbornness; 'tis unmanly grief:
+	It shows a will most incorrect to heaven,
+	A heart unfortified, a mind impatient,
+	An understanding simple and unschool'd:
+	For what we know must be and is as common
+	As any the most vulgar thing to sense,
+	Why should we in our peevish opposition
+	Take it to heart? Fie! 'tis a fault to heaven,
+	A fault against the dead, a fault to nature,
+	To reason most absurd, whose common theme
+	Is death of fathers, and who still hath cried,
+	From the first corse till he that died to-day,
+	'This must be so.' We pray you, throw to earth
+	This unprevailing woe, and think of us
+	As of a father; for let the world take note,
+	You are the most immediate to our throne;
+	And with no less nobility of love
+	Than that which dearest father bears his son
+	Do I impart toward you. For your intent
+	In going back to school in Wittenberg,
+	It is most retrograde to our desire;
+	And we beseech you, bend you to remain
+	Here, in the cheer and comfort of our eye,
+	Our chiefest courtier, cousin, and our son.
+<SPEECH 7><ACT 1><SCENE 2><8%>
+	Why, 'tis a loving and a fair reply:
+	Be as ourself in Denmark. Madam, come;
+	This gentle and unforc'd accord of Hamlet
+	Sits smiling to my heart; in grace whereof,
+	No jocund health that Denmark drinks to-day,
+	But the great cannon to the clouds shall tell,
+	And the king's rouse the heavens shall bruit again,
+	Re-speaking earthly thunder. Come away.
+<SPEECH 8><ACT 2><SCENE 2><25%>
+	Welcome, dear Rosencrantz and Guildenstern!
+	Moreover that we much did long to see you,
+	The need we have to use you did provoke
+	Our hasty sending. Something have you heard
+	Of Hamlet's transformation; so I call it,
+	Since nor the exterior nor the inward man
+	Resembles that it was. What it should be
+	More than his father's death, that thus hath put him
+	So much from the understanding of himself,
+	I cannot dream of: I entreat you both,
+	That, being of so young days brought up with him,
+	And since so neighbour'd to his youth and humour,
+	That you vouchsafe your rest here in our court
+	Some little time; so by your companies
+	To draw him on to pleasures, and to gather,
+	So much as from occasion you may glean,
+	Whe'r aught to us unknown afflicts him thus,
+	That, open'd, lies within our remedy.
+<SPEECH 9><ACT 2><SCENE 2><26%>
+	Thanks, Rosencrantz and gentle Guildenstern.
+<SPEECH 10><ACT 2><SCENE 2><26%>
+	Thou still hast been the father of good news.
+<SPEECH 11><ACT 2><SCENE 2><27%>
+	O! speak of that; that do I long to hear.
+<SPEECH 12><ACT 2><SCENE 2><27%>
+	Thyself do grace to them, and bring them in.
+	He tells me, my sweet queen, that he hath found
+	The head and source of all your son's distemper.
+<SPEECH 13><ACT 2><SCENE 2><27%>
+	Well, we shall sift him.
+	Welcome, my good friends!
+	Say, Voltimand, what from our brother Norway?
+<SPEECH 14><ACT 2><SCENE 2><27%>
+	It likes us well;
+	And at our more consider'd time we'll read,
+	Answer, and think upon this business:
+	Meantime we thank you for your well-took labour.
+	Go to your rest; at night we'll feast together:
+	Most welcome home.
+<SPEECH 15><ACT 2><SCENE 2><29%>
+	But how hath she
+	Receiv'd his love?
+<SPEECH 16><ACT 2><SCENE 2><29%>
+	As of a man faithful and honourable.
+<SPEECH 17><ACT 2><SCENE 2><29%>
+	Do you think 'tis this?
+<SPEECH 18><ACT 2><SCENE 2><29%>
+	Not that I know.
+<SPEECH 19><ACT 2><SCENE 2><29%>
+	How may we try it further?
+<SPEECH 20><ACT 2><SCENE 2><30%>
+	We will try it.
+<SPEECH 21><ACT 3><SCENE 1><41%>
+	And can you, by no drift of circumstance,
+	Get from him why he puts on this confusion,
+	Grating so harshly all his days of quiet
+	With turbulent and dangerous lunacy?
+<SPEECH 22><ACT 3><SCENE 1><41%>
+	With all my heart; and it doth much content me
+	To hear him so inclin'd.
+	Good gentlemen, give him a further edge,
+	And drive his purpose on to these delights.
+<SPEECH 23><ACT 3><SCENE 1><41%>
+	Sweet Gertrude, leave us too;
+	For we have closely sent for Hamlet hither,
+	That he, as 'twere by accident, may here
+	Affront Ophelia.
+	Her father and myself, lawful espials,
+	Will so bestow ourselves, that, seeing, unseen,
+	We may of their encounter frankly judge,
+	And gather by him, as he is behav'd,
+	If 't be the affliction of his love or no
+	That thus he suffers for.
+<SPEECH 24><ACT 3><SCENE 1><42%>
+	</STAGE DIR> O! 'tis too true;
+	How smart a lash that speech doth give my conscience!
+	The harlot's cheek, beautied with plastering art,
+	Is not more ugly to the thing that helps it
+	Than is my deed to my most painted word:
+	O heavy burden!
+<SPEECH 25><ACT 3><SCENE 1><45%>
+	Love! his affections do not that way tend;
+	Nor what he spake, though it lack'd form a little,
+	Was not like madness. There's something in his soul
+	O'er which his melancholy sits on brood;
+	And, I do doubt, the hatch and the disclose
+	Will be some danger; which for to prevent,
+	I have in quick determination
+	Thus set it down: he shall with speed to England,
+	For the demand of our neglected tribute:
+	Haply the seas and countries different
+	With variable objects shall expel
+	This something-settled matter in his heart,
+	Whereon his brains still beating puts him thus
+	From fashion of himself. What think you on't?
+<SPEECH 26><ACT 3><SCENE 1><45%>
+	It shall be so:
+	Madness in great ones must not unwatch'd go.
+<SPEECH 27><ACT 3><SCENE 2><48%>
+	How fares our cousin Hamlet?
+<SPEECH 28><ACT 3><SCENE 2><48%>
+	I have nothing with this answer, Hamlet; these words are not mine.
+<SPEECH 29><ACT 3><SCENE 2><52%>
+	Have you heard the argument? Is there no offence in 't?
+<SPEECH 30><ACT 3><SCENE 2><52%>
+	What do you call the play?
+<SPEECH 31><ACT 3><SCENE 2><53%>
+	Give me some light: away!
+<SPEECH 32><ACT 3><SCENE 3><56%>
+	I like him not, nor stands it safe with us
+	To let his madness range. Therefore prepare you;
+	I your commission will forth with dispatch,
+	And he to England shall along with you.
+	The terms of our estate may not endure
+	Hazard so dangerous as doth hourly grow
+	Out of his lunacies.
+<SPEECH 33><ACT 3><SCENE 3><57%>
+	Arm you, I pray you, to this speedy voyage;
+	For we will fetters put upon this fear,
+	Which now goes too free-footed.
+<SPEECH 34><ACT 3><SCENE 3><57%>
+	Thanks, dear my lord.
+	O! my offence is rank, it smells to heaven;
+	It hath the primal eldest curse upon't;
+	A brother's murder! Pray can I not,
+	Though inclination be as sharp as will:
+	My stronger guilt defeats my strong intent;
+	And, like a man to double business bound,
+	I stand in pause where I shall first begin,
+	And both neglect. What if this cursed hand
+	Were thicker than itself with brother's blood,
+	Is there not rain enough in the sweet heavens
+	To wash it white as snow? Whereto serves mercy
+	But to confront the visage of offence?
+	And what's in prayer but this two-fold force,
+	To be forestalled, ere we come to fall,
+	Or pardon'd, being down? Then, I'll look up;
+	My fault is past. But, O! what form of prayer
+	Can serve my turn? 'Forgive me my foul murder?'
+	That cannot be; since I am still possess'd
+	Of those effects for which I did the murder,
+	My crown, mine own ambition, and my queen.
+	May one be pardon'd and retain the offence?
+	In the corrupted currents of this world
+	Offence's gilded hand may shove by justice,
+	And oft 'tis seen the wicked prise itself
+	Buys out the law; but 'tis not so above;
+	There is no shuffling, there the action lies
+	In his true nature, and we ourselves compell'd
+	Even to the teeth and forehead of our faults
+	To give in evidence. What then? what rests?
+	Try what repentance can: what can it not?
+	Yet what can it, when one can not repent?
+	O wretched state! O bosom black as death!
+	O limed soul, that struggling to be free
+	Art more engaged! Help, angels! make assay;
+	Bow, stubborn knees; and heart with strings of steel
+	Be soft as sinews of the new-born babe.
+	All may be well.
+<SPEECH 35><ACT 3><SCENE 3><58%>
+	My words fly up, my thoughts remain below:
+	Words without thoughts never to heaven go.
+<SPEECH 36><ACT 4><SCENE 1><64%>
+	There's matter in these sighs, these profound heaves:
+	You must translate; 'tis fit we understand them.
+	Where is your son?
+<SPEECH 37><ACT 4><SCENE 1><64%>
+	What, Gertrude? How does Hamlet?
+<SPEECH 38><ACT 4><SCENE 1><65%>
+	O heavy deed!
+	It had been so with us had we been there.
+	His liberty is full of threats to all;
+	To you yourself, to us, to every one.
+	Alas! how shall this bloody deed be answer'd?
+	It will be laid to us, whose providence
+	Should have kept short, restrain'd, and out of haunt,
+	This mad young man: but so much was our love,
+	We would not understand what was most fit,
+	But, like the owner of a foul disease,
+	To keep it from divulging, let it feed
+	Even on the pith of life. Where is he gone?
+<SPEECH 39><ACT 4><SCENE 1><65%>
+	O Gertrude! come away.
+	The sun no sooner shall the mountains touch
+	But we will ship him hence; and this vile deed
+	We must, with all our majesty and skill,
+	Both countenance and excuse. Ho! Guildenstern!
+	Friends both, go join you with some further aid:
+	Hamlet in madness hath Polonius slain,
+	And from his mother's closet hath he dragg'd him:
+	Go seek him out; speak fair, and bring the body
+	Into the chapel. I pray you, haste in this.
+	Come, Gertrude, we'll call up our wisest friends;
+	And let them know both what we mean to do,
+	And what's untimely done: so, haply, slander,
+	Whose whisper o'er the world's diameter,
+	As level as the cannon to his blank
+	Transports his poison'd shot, may miss our name,
+	And hit the woundless air. O! come away;
+	My soul is full of discord and dismay.
+<SPEECH 40><ACT 4><SCENE 3><66%>
+	I have sent to seek him, and to find the body.
+	How dangerous is it that this man goes loose!
+	Yet must not we put the strong law on him:
+	He's lov'd of the distracted multitude,
+	Who like not in their judgment, but their eyes;
+	And where 'tis so, the offender's scourge is weigh'd,
+	But never the offence. To bear all smooth and even,
+	This sudden sending him away must seem
+	Deliberate pause: diseases desperate grown
+	By desperate appliance are reliev'd,
+	Or not at all.
+	How now! what hath befall'n?
+<SPEECH 41><ACT 4><SCENE 3><67%>
+	But where is he?
+<SPEECH 42><ACT 4><SCENE 3><67%>
+	Bring him before us.
+<SPEECH 43><ACT 4><SCENE 3><67%>
+	Now, Hamlet, where's Polonius?
+<SPEECH 44><ACT 4><SCENE 3><67%>
+	At supper! Where?
+<SPEECH 45><ACT 4><SCENE 3><67%>
+	Alas, alas!
+<SPEECH 46><ACT 4><SCENE 3><67%>
+	What dost thou mean by this?
+<SPEECH 47><ACT 4><SCENE 3><67%>
+	Where is Polonius?
+<SPEECH 48><ACT 4><SCENE 3><67%>
+	</STAGE DIR> Go seek him there.
+<SPEECH 49><ACT 4><SCENE 3><68%>
+	Hamlet, this deed, for thine especial safety,
+	Which we do tender, as we dearly grieve
+	For that which thou hast done, must send thee hence
+	With fiery quickness: therefore prepare thyself;
+	The bark is ready, and the wind at help,
+	The associates tend, and every thing is bent
+	For England.
+<SPEECH 50><ACT 4><SCENE 3><68%>
+	Ay, Hamlet.
+<SPEECH 51><ACT 4><SCENE 3><68%>
+	So is it, if thou knew'st our purposes.
+<SPEECH 52><ACT 4><SCENE 3><68%>
+	Thy loving father, Hamlet.
+<SPEECH 53><ACT 4><SCENE 3><68%>
+	Follow him at foot; tempt him with speed aboard:
+	Delay it not, I'll have him hence to-night.
+	Away! for every thing is seal'd and done
+	That else leans on the affair: pray you, make haste.
+	And, England, if my love thou hold'st at aught,—
+	As my great power thereof may give thee sense,
+	Since yet thy cicatrice looks raw and red
+	After the Danish sword, and thy free awe
+	Pays homage to us,—thou mayst not coldly set
+	Our sovereign process, which imports at full,
+	By letters conjuring to that effect,
+	The present death of Hamlet. Do it, England;
+	For like the hectic in my blood he rages,
+	And thou must cure me. Till I know 'tis done,
+	Howe'er my haps, my joys were ne'er begun.
+<SPEECH 54><ACT 4><SCENE 5><71%>
+	How do you, pretty lady?
+<SPEECH 55><ACT 4><SCENE 5><71%>
+	Conceit upon her father.
+<SPEECH 56><ACT 4><SCENE 5><71%>
+	Pretty Ophelia!
+<SPEECH 57><ACT 4><SCENE 5><72%>
+	How long hath she been thus?
+<SPEECH 58><ACT 4><SCENE 5><72%>
+	Follow her close; give her good watch, I pray you.
+	O! this is the poison of deep grief; it springs
+	All from her father's death. O Gertrude, Gertrude!
+	When sorrows come, they come not single spies,
+	But in battalions. First, her father slain;
+	Next, your son gone; but he most violent author
+	Of his own just remove: the people muddied,
+	Thick and unwholesome in their thoughts and whispers,
+	For good Polonius' death; and we have done but greenly,
+	In hugger-mugger to inter him: poor Ophelia
+	Divided from herself and her fair judgment,
+	Without the which we are pictures, or mere beasts:
+	Last, and as much containing as all these,
+	Her brother is in secret come from France,
+	Feeds on his wonder, keeps himself in clouds,
+	And wants not buzzers to infect his ear
+	With pestilent speeches of his father's death;
+	Wherein necessity, of matter beggar'd,
+	Will nothing stick our person to arraign
+	In ear and ear. O my dear Gertrude! this,
+	Like to a murdering-piece, in many places
+	Gives me superfluous death.
+<SPEECH 59><ACT 4><SCENE 5><72%>
+	Where are my Switzers? Let them guard the door.
+	What is the matter?
+<SPEECH 60><ACT 4><SCENE 5><73%>
+	The doors are broke.
+<SPEECH 61><ACT 4><SCENE 5><73%>
+	What is the cause, Laertes,
+	That thy rebellion looks so giant-like?
+	Let him go, Gertrude; do not fear our person:
+	There's such divinity doth hedge a king,
+	That treason can but peep to what it would,
+	Acts little of his will. Tell me, Laertes,
+	Why thou art thus incens'd. Let him go, Gertrude.
+	Speak, man.
+<SPEECH 62><ACT 4><SCENE 5><73%>
+	Dead.
+<SPEECH 63><ACT 4><SCENE 5><73%>
+	Let him demand his fill.
+<SPEECH 64><ACT 4><SCENE 5><74%>
+	Who shall stay you?
+<SPEECH 65><ACT 4><SCENE 5><74%>
+	Good Laertes,
+	If you desire to know the certainty
+	Of your dear father's death, is't writ in your revenge,
+	That, swoopstake, you will draw both friend and foe,
+	Winner and loser?
+<SPEECH 66><ACT 4><SCENE 5><74%>
+	Will you know them then?
+<SPEECH 67><ACT 4><SCENE 5><74%>
+	Why, now you speak
+	Like a good child and a true gentleman.
+	That I am guiltless of your father's death,
+	And am most sensibly in grief for it,
+	It shall as level to your judgment pierce
+	As day does to your eye.
+<SPEECH 68><ACT 4><SCENE 5><75%>
+	Laertes, I must common with your grief,
+	Or you deny me right. Go but apart,
+	Make choice of whom your wisest friends you will,
+	And they shall hear and judge 'twixt you and me.
+	If by direct or by collateral hand
+	They find us touch'd, we will our kingdom give,
+	Our crown, our life, and all that we call ours,
+	To you in satisfaction; but if not,
+	Be you content to lend your patience to us,
+	And we shall jointly labour with your soul
+	To give it due content.
+<SPEECH 69><ACT 4><SCENE 5><75%>
+	So you shall;
+	And where the offence is let the great axe fall.
+	I pray you go with me.
+<SPEECH 70><ACT 4><SCENE 7><77%>
+	Now must your conscience my acquittance seal,
+	And you must put me in your heart for friend,
+	Sith you have heard, and with a knowing ear,
+	That he which hath your noble father slain
+	Pursu'd my life.
+<SPEECH 71><ACT 4><SCENE 7><77%>
+	O! for two special reasons;
+	Which may to you, perhaps, seem much unsinew'd,
+	But yet to me they are strong. The queen his mother
+	Lives almost by his looks, and for myself,—
+	My virtue or my plague, be it either which,—
+	She's so conjunctive to my life and soul,
+	That, as the star moves not but in his sphere,
+	I could not but by her. The other motive,
+	Why to a public count I might not go,
+	Is the great love the general gender bear him;
+	Who, dipping all his faults in their affection,
+	Would, like the spring that turneth wood to stone,
+	Convert his gyves to graces; so that my arrows,
+	Too slightly timber'd for so loud a wind,
+	Would have reverted to my bow again,
+	And not where I had aim'd them.
+<SPEECH 72><ACT 4><SCENE 7><77%>
+	Break not your sleeps for that; you must not think
+	That we are made of stuff so flat and dull
+	That we can let our beard be shook with danger
+	And think it pastime. You shortly shall hear more;
+	I lov'd your father, and we love ourself,
+	And that, I hope, will teach you to imagine,—
+	How now! what news?
+<SPEECH 73><ACT 4><SCENE 7><77%>
+	From Hamlet! who brought them?
+<SPEECH 74><ACT 4><SCENE 7><78%>
+	Laertes, you shall hear them.
+	Leave us.
+	High and mighty, you shall know I am set naked on your kingdom. To-morrow shall I beg leave to see your kingly eyes; when I shall, first asking your pardon thereunto, recount the occasions of my sudden and more strange return
+	<HAMLET.>What should this mean? Are all the rest come back?
+	Or is it some abuse and no such thing?
+<SPEECH 75><ACT 4><SCENE 7><78%>
+	'Tis Hamlet's character. 'Naked,'
+	And in a postscript here, he says, 'alone.'
+	Can you advise me?
+<SPEECH 76><ACT 4><SCENE 7><78%>
+	If it be so, Laertes,
+	As how should it be so? how otherwise?
+	Will you be rul'd by me?
+<SPEECH 77><ACT 4><SCENE 7><78%>
+	To thine own peace. If he be now return'd,
+	As checking at his voyage, and that he means
+	No more to undertake it, I will work him
+	To an exploit, now ripe in my device,
+	Under the which he shall not choose but fall;
+	And for his death no wind of blame shall breathe,
+	But even his mother shall uncharge the practice
+	And call it accident.
+<SPEECH 78><ACT 4><SCENE 7><78%>
+	It falls right.
+	You have been talk'd of since your travel much,
+	And that in Hamlet's hearing, for a quality
+	Wherein, they say, you shine; your sum of parts
+	Did not together pluck such envy from him
+	As did that one, and that, in my regard,
+	Of the unworthiest siege.
+<SPEECH 79><ACT 4><SCENE 7><78%>
+	A very riband in the cap of youth,
+	Yet needful too; for youth no less becomes
+	The light and careless livery that it wears
+	Than settled age his sables and his weeds,
+	Importing health and graveness. Two months since
+	Here was a gentleman of Normandy:
+	I've seen myself, and serv'd against, the French,
+	And they can well on horseback; but this gallant
+	Had witchcraft in 't, he grew unto his seat,
+	And to such wondrous doing brought his horse,
+	As he had been incorps'd and demi-natur'd
+	With the brave beast; so far he topp'd my thought,
+	That I, in forgery of shapes and tricks,
+	Come short of what he did.
+<SPEECH 80><ACT 4><SCENE 7><79%>
+	A Norman.
+<SPEECH 81><ACT 4><SCENE 7><79%>
+	The very same.
+<SPEECH 82><ACT 4><SCENE 7><79%>
+	He made confession of you,
+	And gave you such a masterly report
+	For art and exercise in your defence,
+	And for your rapier most especially,
+	That he cried out, 'twould be a sight indeed
+	If one could match you; the scrimers of their nation,
+	He swore, had neither motion, guard, nor eye,
+	If you oppos'd them. Sir, this report of his
+	Did Hamlet so envenom with his envy
+	That he could nothing do but wish and beg
+	Your sudden coming o'er, to play with him.
+	Now, out of this,—
+<SPEECH 83><ACT 4><SCENE 7><79%>
+	Laertes, was your father dear to you?
+	Or are you like the painting of a sorrow,
+	A face without a heart?
+<SPEECH 84><ACT 4><SCENE 7><79%>
+	Not that I think you did not love your father,
+	But that I know love is begun by time,
+	And that I see, in passages of proof,
+	Time qualifies the spark and fire of it.
+	There lives within the very flame of love
+	A kind of wick or snuff that will abate it,
+	And nothing is at a like goodness still,
+	For goodness, growing to a plurisy,
+	Dies in his own too-much. That we would do,
+	We should do when we would, for this 'would' changes,
+	And hath abatements and delays as many
+	As there are tongues, are hands, are accidents;
+	And then this 'should' is like a spendthrift sigh,
+	That hurts by easing. But, to the quick o' the ulcer;
+	Hamlet comes back; what would you undertake
+	To show yourself your father's son in deed
+	More than in words?
+<SPEECH 85><ACT 4><SCENE 7><80%>
+	No place, indeed, should murder sanctuarize;
+	Revenge should have no bounds. But, good Laertes,
+	Will you do this, keep close within your chamber.
+	Hamlet return'd shall know you are come home;
+	We'll put on those shall praise your excellence,
+	And set a double varnish on the fame
+	The Frenchman gave you, bring you, in fine, together,
+	And wager on your heads: he, being remise,
+	Most generous and free from all contriving,
+	Will not peruse the foils; so that, with ease
+	Or with a little shuffling, you may choose
+	A sword unbated, and, in a pass of practice
+	Requite him for your father.
+<SPEECH 86><ACT 4><SCENE 7><80%>
+	Let's further think of this;
+	Weigh what convenience both of time and means
+	May fit us to our shape. If this should fail,
+	And that our drift look through our bad performance
+	'Twere better not assay'd; therefore this project
+	Should have a back or second, that might hold,
+	If this should blast in proof. Soft! let me see;
+	We'll make a solemn wager on your cunnings:
+	I ha't:
+	When in your motion you are hot and dry,—
+	As make your bouts more violent to that end,—
+	And that he calls for drink, I'll have prepar'd him
+	A chalice for the nonce, whereon but sipping,
+	If he by chance escape your venom'd stuck,
+	Our purpose may hold there. But stay! what noise?
+	How now, sweet queen!
+<SPEECH 87><ACT 4><SCENE 7><81%>
+	Let's follow, Gertrude.
+	How much I had to do to calm his rage!
+	Now fear I this will give it start again;
+	Therefore let's follow.
+<SPEECH 88><ACT 5><SCENE 1><88%>
+	Pluck them asunder.
+<SPEECH 89><ACT 5><SCENE 1><88%>
+	O! he is mad, Laertes.
+<SPEECH 90><ACT 5><SCENE 1><89%>
+	I pray you, good Horatio, wait upon him.
+	</STAGE DIR> Strengthen your patience in our last night's speech;
+	We'll put the matter to the present push.
+	Good Gertrude, set some watch over your son.
+	This grave shall have a living monument:
+	An hour of quiet shortly shall we see;
+	Till then, in patience our proceeding be.
+<SPEECH 91><ACT 5><SCENE 2><95%>
+	Come, Hamlet, come, and take this hand from me.
+<SPEECH 92><ACT 5><SCENE 2><96%>
+	Give them the foils, young Osric. Cousin Hamlet,
+	You know the wager?
+<SPEECH 93><ACT 5><SCENE 2><96%>
+	I do not fear it; I have seen you both;
+	But since he is better'd, we have therefore odds.
+<SPEECH 94><ACT 5><SCENE 2><96%>
+	Set me the stoups of wine upon that table.
+	If Hamlet give the first or second hit,
+	Or quit in answer of the third exchange,
+	Let all the battlements their ordnance fire;
+	The king shall drink to Hamlet's better breath;
+	And in the cup an union shall he throw,
+	Richer than that which four successive kings
+	In Denmark's crown have worn. Give me the cups;
+	And let the kettle to the trumpet speak,
+	The trumpet to the cannoneer without,
+	The cannons to the heavens, the heavens to earth,
+	'Now the king drinks to Hamlet!' Come, begin;
+	And you, the judges, bear a wary eye.
+<SPEECH 95><ACT 5><SCENE 2><96%>
+	Stay; give me drink. Hamlet, this pearl is thine;
+	Here's to thy health. Give him the cup.
+<SPEECH 96><ACT 5><SCENE 2><97%>
+	Our son shall win.
+<SPEECH 97><ACT 5><SCENE 2><97%>
+	Gertrude, do not drink.
+<SPEECH 98><ACT 5><SCENE 2><97%>
+	</STAGE DIR> It is the poison'd cup! it is too late.
+<SPEECH 99><ACT 5><SCENE 2><97%>
+	I do not think 't
+<SPEECH 100><ACT 5><SCENE 2><97%>
+	Part them! they are incens'd
+<SPEECH 101><ACT 5><SCENE 2><97%>
+	She swounds to see them bleed.
+<SPEECH 102><ACT 5><SCENE 2><98%>
+	O! yet defend me, friends; I am but hurt.

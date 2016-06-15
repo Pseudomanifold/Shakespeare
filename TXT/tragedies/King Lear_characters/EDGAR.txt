@@ -1,0 +1,426 @@
+<SPEECH 1><ACT 1><SCENE 2><14%>
+	How now, brother Edmund! What serious contemplation are you in?
+<SPEECH 2><ACT 1><SCENE 2><14%>
+	Do you busy yourself with that?
+<SPEECH 3><ACT 1><SCENE 2><14%>
+	How long have you been a sectary astronomical?
+<SPEECH 4><ACT 1><SCENE 2><14%>
+	The night gone by.
+<SPEECH 5><ACT 1><SCENE 2><14%>
+	Ay, two hours together.
+<SPEECH 6><ACT 1><SCENE 2><14%>
+	None at all.
+<SPEECH 7><ACT 1><SCENE 2><14%>
+	Some villain hath done me wrong.
+<SPEECH 8><ACT 1><SCENE 2><14%>
+	Armed, brother!
+<SPEECH 9><ACT 1><SCENE 2><15%>
+	Shall I hear from you anon?
+<SPEECH 10><ACT 2><SCENE 1><28%>
+	I am sure on 't, not a word.
+<SPEECH 11><ACT 2><SCENE 3><36%>
+	I heard myself proclaim'd;
+	And by the happy hollow of a tree
+	Escap'd the hunt. No port is free; no place,
+	That guard, and most unusual vigilance,
+	Does not attend my taking. While I may 'scape
+	I will preserve myself; and am bethought
+	To take the basest and most poorest shape
+	That ever penury, in contempt of man,
+	Brought near to beast; my face I'll grime with filth,
+	Blanket my loins, elf all my hair in knots,
+	And with presented nakedness outface
+	The winds and persecutions of the sky.
+	The country gives me proof and precedent
+	Of Bedlam beggars, who with roaring voices,
+	Strike in their numb'd and mortified bare arms
+	Pins, wooden pricks, nails, sprigs of rosemary;
+	And with this horrible object, from low farms,
+	Poor pelting villages, sheep-cotes, and mills,
+	Sometime with lunatic bans, sometime with prayers,
+	Enforce their charity. Poor Turlygood! poor Tom!
+	That's something yet: Edgar I nothing am.
+<SPEECH 12><ACT 3><SCENE 4><53%>
+	</STAGE DIR> Fathom and half, fathom and half! Poor Tom!
+<SPEECH 13><ACT 3><SCENE 4><53%>
+	Away! the foul fiend follows me!
+	Through the sharp hawthorn blow the winds.
+	Hum! go to thy cold bed and warm thee.
+<SPEECH 14><ACT 3><SCENE 4><53%>
+	Who gives anything to poor Tom? whom the foul fiend hath led through fire and through flame, through ford and whirlpool, o'er bog and quagmire; that hath laid knives under his pillow, and halters in his pew; set ratsbane by his porridge; made him proud of heart, to ride on a bay trotting-horse over four-inched bridges, to course his own shadow for a traitor. Bless thy five wits! Tom's a-cold. O! do de, do de, do de. Bless thee from whirlwinds, starblasting, and taking! Do poor Tom some charity, whom the foul fiend vexes. There could I have him now, and there, and there again, and there.
+<SPEECH 15><ACT 3><SCENE 4><54%>
+	Pillicock sat on Pillicock-hill:
+	Halloo, halloo, loo, loo!
+<SPEECH 16><ACT 3><SCENE 4><54%>
+	Take heed o' the foul fiend. Obey thy parents; keep thy word justly; swear not; commit not with man's sworn spouse; set not thy sweet heart on proud array. Tom's a-cold.
+<SPEECH 17><ACT 3><SCENE 4><54%>
+	A servingman, proud in heart and mind; that curled my hair, wore gloves in my cap, served the lust of my mistress's heart, and did the act of darkness with her; swore as many oaths as I spake words, and broke them in the sweet face of heaven; one that slept in the contriving of lust, and waked to do it. Wine loved I deeply, dice dearly, and in woman out-paramoured the Turk: false of heart, light of ear, bloody of hand; hog in sloth, fox in stealth, wolf in greediness, dog in madness, lion in prey. Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman: keep thy foot out of brothels, thy hand out of plackets, thy pen from lenders' books, and defy the foul fiend. Still through the hawthorn blows the cold wind; says suum, mun ha no nonny. Dolphin my boy, my boy; sessa! let him trot by.
+<SPEECH 18><ACT 3><SCENE 4><55%>
+	This is the foul fiend Flibbertigibbet: he begins at curfew, and walks till the first cock; he gives the web and the pin, squints the eye, and makes the harelip; mildews the white wheat, and hurts the poor creature of earth.
+	Swithold footed thrice the old;
+	He met the night-mare, and her nine-fold;
+	Bid her alight,
+	And her troth plight,
+	And aroint thee, witch, aroint thee!
+<SPEECH 19><ACT 3><SCENE 4><55%>
+	Poor Tom; that eats the swimming frog; the toad, the tadpole, the wall-newt, and the water; that in the fury of his heart, when the foul fiend rages, eats cow-dung for sallets; swallows the old rat and the ditch-dog; drinks the green mantle of the standing pool; who is whipped from tithing to tithing, and stock-punished, and imprisoned; who hath had three suits to his back, six shirts to his body, horse to ride, and weapon to wear;
+	But mice and rats and such small deer
+	Have been Tom's food for seven long year.
+	Beware my follower. Peace, Smulkin! peace, thou fiend.
+<SPEECH 20><ACT 3><SCENE 4><56%>
+	The prince of darkness is a gentleman;
+	Modo he's call'd, and Mahu.
+<SPEECH 21><ACT 3><SCENE 4><56%>
+	Poor Tom's a-cold.
+<SPEECH 22><ACT 3><SCENE 4><56%>
+	How to prevent the fiend, and to kill vermin.
+<SPEECH 23><ACT 3><SCENE 4><57%>
+	Tom's a-cold.
+<SPEECH 24><ACT 3><SCENE 4><57%>
+	Child Rowland to the dark tower came,
+	His word was still, Fie, foh, and fum,
+	I smell the blood of a British man.
+<SPEECH 25><ACT 3><SCENE 6><58%>
+	Frateretto calls me, and tells me Nero is an angler in the lake of darkness. Pray, innocent, and beware the foul fiend.
+<SPEECH 26><ACT 3><SCENE 6><58%>
+	The foul fiend bites my back.
+<SPEECH 27><ACT 3><SCENE 6><59%>
+	Look, where he stands and glares! wantest thou eyes at trial, madam?
+	Come o'er the bourn, Bessy, to me,—
+<SPEECH 28><ACT 3><SCENE 6><59%>
+	The foul fiend haunts poor Tom in the voice of a nightingale. Hopdance cries in Tom's belly for two white herring. Croak not, black angel; I have no food for thee.
+<SPEECH 29><ACT 3><SCENE 6><59%>
+	Let us deal justly.
+	Sleepest or wakest thou, jolly shepherd?
+	Thy sheep be in the corn,
+	And for one blast of thy minikin mouth,
+	Thy sheep shall take no harm.
+	Purr! the cat is grey.
+<SPEECH 30><ACT 3><SCENE 6><60%>
+	Bless thy five wits!
+<SPEECH 31><ACT 3><SCENE 6><60%>
+	</STAGE DIR> My tears begin to take his part so much,
+	They'll mar my counterfeiting.
+<SPEECH 32><ACT 3><SCENE 6><60%>
+	Tom will throw his head at them.
+	Avaunt, you curs!
+	Be thy mouth or black or white,
+	Tooth that poisons if it bite;
+	Mastiff, greyhound, mongrel grim,
+	Hound or spaniel, brach or lym;
+	Or bobtail tike or trundle-tail;
+	Tom will make them weep and wail:
+	For, with throwing thus my head,
+	Dogs leap the hatch, and all are fled.
+	Do de, de, de. Sessa! Come, march to wakes and fairs and market-towns. Poor Tom, thy horn is dry.
+<SPEECH 33><ACT 3><SCENE 6><61%>
+	When we our betters see bearing our woes,
+	We scarcely think our miseries our foes.
+	Who alone suffers suffers most i' the mind,
+	Leaving free things and happy shows behind;
+	But then the mind much sufferance doth o'erskip,
+	When grief hath mates, and bearing fellowship.
+	How light and portable my pain seems now,
+	When that which makes me bend makes the king bow;
+	He childed as I father'd! Tom, away!
+	Mark the high noises, and thyself bewray
+	When false opinion, whose wrong thought defiles thee,
+	In thy just proof repeals and reconciles thee.
+	What will hap more to-night, safe 'scape the king!
+	Lurk, lurk.
+<SPEECH 34><ACT 4><SCENE 1><65%>
+	Yet better thus, and known to be contemn'd,
+	Than still contemn'd and flatter'd. To be worst,
+	The lowest and most dejected thing of fortune,
+	Stands still in esperance, lives not in fear:
+	The lamentable change is from the best;
+	The worst returns to laughter. Welcome, then,
+	Thou unsubstantial air that I embrace:
+	The wretch that thou hast blown unto the worst
+	Owes nothing to thy blasts. But who comes here?
+	My father, poorly led? World, world, O world!
+	But that thy strange mutations make us hate thee,
+	Life would not yield to age.
+<SPEECH 35><ACT 4><SCENE 1><66%>
+	</STAGE DIR> O gods! Who is 't can say, 'I am at the worst?'
+	I am worse than e'er I was.
+<SPEECH 36><ACT 4><SCENE 1><66%>
+	</STAGE DIR> And worse I may be yet; the worst is not,
+	So long as we can say, 'This is the worst.'
+<SPEECH 37><ACT 4><SCENE 1><66%>
+	</STAGE DIR> How should this be?
+	Bad is the trade that must play fool to sorrow,
+	Angering itself and others.—<STAGE DIR>
+	</STAGE DIR> Bless thee, master!
+<SPEECH 38><ACT 4><SCENE 1><67%>
+	Poor Tom's a-cold. <STAGE DIR>
+	</STAGE DIR> I cannot daub it further.
+<SPEECH 39><ACT 4><SCENE 1><67%>
+	</STAGE DIR> And yet I must. Bless thy sweet eyes, they bleed.
+<SPEECH 40><ACT 4><SCENE 1><67%>
+	Both stile and gate, horse-way and footpath. Poor Tom hath been scared out of his good wits: bless thee, good man's son, from the foul fiend! Five fiends have been in poor Tom at once; of lust, as Obidicut; Hobbididance, prince of dumbness; Mahu, of stealing; Modo, of murder; and Flibbertigibbet, of mopping and mowing; who since possesses chambermaids and waiting-women. So, bless thee, master!
+<SPEECH 41><ACT 4><SCENE 1><67%>
+	Ay, master.
+<SPEECH 42><ACT 4><SCENE 1><68%>
+	Give me thy arm:
+	Poor Tom shall lead thee.
+<SPEECH 43><ACT 4><SCENE 6><75%>
+	You do climb up it now; look how we labour.
+<SPEECH 44><ACT 4><SCENE 6><75%>
+	Horrible steep:
+	Hark! do you hear the sea?
+<SPEECH 45><ACT 4><SCENE 6><75%>
+	Why, then you other senses grow imperfect
+	By your eyes' anguish.
+<SPEECH 46><ACT 4><SCENE 6><75%>
+	Y'are much deceiv'd; in nothing am I chang'd
+	But in my garments.
+<SPEECH 47><ACT 4><SCENE 6><75%>
+	Come on, sir; here's the place: stand still.
+	How fearful
+	And dizzy 'tis to cast one's eyes so low!
+	The crows and choughs that wing the midway air
+	Show scarce so gross as beetles; half way down
+	Hangs one that gathers samphire, dreadful trade!
+	Methinks he seems no bigger than his head.
+	The fishermen that walk upon the beach
+	Appear like mice, and yond tall anchoring bark
+	Diminish'd to her cock, her cock a buoy
+	Almost too small for sight. The murmuring surge,
+	That on the unnumber'd idle pebbles chafes,
+	Cannot be heard so high. I'll look no more,
+	Lest my brain turn, and the deficient sight
+	Topple down headlong.
+<SPEECH 48><ACT 4><SCENE 6><76%>
+	Give me your hand; you are now within a foot
+	Of the extreme verge: for all beneath the moon
+	Would I not leap upright.
+<SPEECH 49><ACT 4><SCENE 6><76%>
+	Now fare you well, good sir.
+<SPEECH 50><ACT 4><SCENE 6><76%>
+	Why I do trifle thus with his despair
+	Is done to cure it.
+<SPEECH 51><ACT 4><SCENE 6><76%>
+	Gone, sir: farewell.
+	</STAGE DIR> And yet I know not how conceit may rob
+	The treasury of life when life itself
+	Yields to the theft; had he been where he thought
+	By this had thought been past. Alive or dead?
+	</STAGE DIR> Ho, you sir! friend! Hear you, sir? speak!
+	Thus might he pass indeed; yet he revives.
+	What are you, sir?
+<SPEECH 52><ACT 4><SCENE 6><76%>
+	Hadst thou been aught but gossamer, feathers, air,
+	So many fathom down precipitating,
+	Thou'dst shiver'd like an egg; but thou dost breathe,
+	Hast heavy substance, bleed'st not, speak'st, art sound.
+	Ten masts at each make not the altitude
+	Which thou hast perpendicularly fell:
+	Thy life's a miracle. Speak yet again.
+<SPEECH 53><ACT 4><SCENE 6><77%>
+	From the dread summit of this chalky bourn.
+	Look up a-height; the shrill-gorg'd lark so far
+	Cannot be seen or heard: do but look up.
+<SPEECH 54><ACT 4><SCENE 6><77%>
+	Give me your arm:
+	Up: so. How is 't? Feel you your legs? You stand.
+<SPEECH 55><ACT 4><SCENE 6><77%>
+	This is above all strangeness.
+	Upon the crown o' the cliff, what thing was that
+	Which parted from you?
+<SPEECH 56><ACT 4><SCENE 6><77%>
+	As I stood here below methought his eyes
+	Were two full moons; he had a thousand noses,
+	Horns whelk'd and wav'd like the enridged sea:
+	It was some fiend; therefore, thou happy father,
+	Think that the clearest gods, who make them honours
+	Of men's impossibilities, have preserv'd thee.
+<SPEECH 57><ACT 4><SCENE 6><77%>
+	Bear free and patient thoughts. But who comes here?
+	The safer sense will ne'er accommodate
+	His master thus.
+<SPEECH 58><ACT 4><SCENE 6><77%>
+	O thou side-piercing sight!
+<SPEECH 59><ACT 4><SCENE 6><78%>
+	Sweet marjoram.
+<SPEECH 60><ACT 4><SCENE 6><79%>
+	</STAGE DIR> I would not take this from report; it is,
+	And my heart breaks at it.
+<SPEECH 61><ACT 4><SCENE 6><80%>
+	</STAGE DIR> O! matter and impertinency mix'd;
+	Reason in madness!
+<SPEECH 62><ACT 4><SCENE 6><81%>
+	Hail, gentle sir!
+<SPEECH 63><ACT 4><SCENE 6><81%>
+	Do you hear aught, sir, of a battle toward?
+<SPEECH 64><ACT 4><SCENE 6><81%>
+	But, by your favour,
+	How near's the other army?
+<SPEECH 65><ACT 4><SCENE 6><81%>
+	I thank you, sir: that's all
+<SPEECH 66><ACT 4><SCENE 6><81%>
+	I thank you, sir.
+<SPEECH 67><ACT 4><SCENE 6><81%>
+	Well pray you, father.
+<SPEECH 68><ACT 4><SCENE 6><81%>
+	A most poor man, made tame to fortune's blows;
+	Who, by the art of known and feeling sorrows,
+	Am pregnant to good pity. Give me your hand,
+	I'll lead you to some biding.
+<SPEECH 69><ACT 4><SCENE 6><82%>
+	Chill not let go, zur, without vurther 'casion.
+<SPEECH 70><ACT 4><SCENE 6><82%>
+	Good gentleman, go your gait, and let poor volk pass. An chud ha' bin zwaggered out of my life, 'twould not ha' bin zo long as 'tis by a vortnight. Nay, come not near th' old man; keep out, che vor ye, or ise try whether your costard or my ballow be the harder. Chill be plain with you.
+<SPEECH 71><ACT 4><SCENE 6><82%>
+	Chill pick your teeth, zur. Come; no matter vor your foins.
+<SPEECH 72><ACT 4><SCENE 6><82%>
+	I know thee well: a serviceable villain;
+	As duteous to the vices of thy mistress
+	As badness would desire.
+<SPEECH 73><ACT 4><SCENE 6><82%>
+	Sit you down, father; rest you.
+	Let's see his pockets: these letters that he speaks of
+	May be my friends. He's dead; I am only sorry
+	He had no other deaths-man. Let us see:
+	Leave, gentle wax; and, manners, blame us not:
+	To know our enemies' minds, we'd rip their hearts;
+	Their papers, is more lawful.
+	Let our reciprocal vows be remembered. You have many opportunities to cut him off; if your will want not, time and place will be fruitfully offered. There is nothing done if he return the conqueror; then am I the prisoner, and his bed my gaol; from the loathed warmth whereof deliver me, and supply the place for your labour.
+	Your—wife, so I would say—
+	Affectionate servant,
+	<GONERIL.>O undistinguish'd space of woman's will!
+	A plot upon her virtuous husband's life,
+	And the exchange my brother! Here, in the sands,
+	Thee I'll rake up, the post unsanctified
+	Of murderous lechers; and in the mature time
+	With this ungracious paper strike the sight
+	Of the death-practis'd duke. For him 'tis well
+	That of thy death and business I can tell.
+<SPEECH 74><ACT 4><SCENE 6><83%>
+	Give me your hand:
+	Far off, methinks, I hear the beaten drum.
+	Come, father, I'll bestow you with a friend.
+<SPEECH 75><ACT 5><SCENE 1><88%>
+	If e'er your Grace had speech with man so poor,
+	Hear me one word.
+<SPEECH 76><ACT 5><SCENE 1><88%>
+	Before you fight the battle, ope this letter.
+	If you have victory, let the trumpet sound
+	For him that brought it: wretched though I seem,
+	I can produce a champion that will prove
+	What is avouched there. If you miscarry,
+	Your business of the world hath so an end,
+	And machination ceases. Fortune love you!
+<SPEECH 77><ACT 5><SCENE 1><88%>
+	I was forbid it.
+	When time shall serve, let but the herald cry,
+	And I'll appear again.
+<SPEECH 78><ACT 5><SCENE 2><89%>
+	Here, father, take the shadow of this tree
+	For your good host; pray that the right may thrive.
+	If ever I return to you again,
+	I'll bring you comfort.
+<SPEECH 79><ACT 5><SCENE 2><89%>
+	Away, old man! give me thy hand: away!
+	King Lear hath lost, he and his daughter ta'en.
+	Give me thy hand; come on.
+<SPEECH 80><ACT 5><SCENE 2><89%>
+	What! in ill thoughts again? Men must endure
+	Their going hence, even as their coming hither:
+	Ripeness is all. Come on.
+<SPEECH 81><ACT 5><SCENE 3><93%>
+	Know, my name is lost;
+	By treason's tooth bare-gnawn and canker-bit:
+	Yet am I noble as the adversary
+	I come to cope.
+<SPEECH 82><ACT 5><SCENE 3><93%>
+	What's he that speaks for Edmund Earl of Gloucester?
+<SPEECH 83><ACT 5><SCENE 3><94%>
+	Draw thy sword,
+	That, if my speech offend a noble heart,
+	Thy arm may do thee justice; here is mine:
+	Behold, it is the privilege of mine honours,
+	My oath, and my profession: I protest,
+	Maugre thy strength, youth, place, and eminence,
+	Despite thy victor sword and fire-new fortune,
+	Thy valour and thy heart, thou art a traitor,
+	False to thy gods, thy brother, and thy father,
+	Conspirant 'gainst this high illustrious prince,
+	And, from the extremest upward of thy head
+	To the descent and dust below thy foot,
+	A most toad-spotted traitor. Say thou 'No,'
+	This sword, this arm, and my best spirits are bent
+	To prove upon thy heart, whereto I speak,
+	Thou liest.
+<SPEECH 84><ACT 5><SCENE 3><95%>
+	Let's exchange charity.
+	I am no less in blood than thou art, Edmund;
+	If more, the more thou hast wrong'd me.
+	My name is Edgar, and thy father's son.
+	The gods are just, and of our pleasant vices
+	Make instruments to plague us:
+	The dark and vicious place where thee he got
+	Cost him his eyes.
+<SPEECH 85><ACT 5><SCENE 3><95%>
+	Worthy prince, I know 't.
+<SPEECH 86><ACT 5><SCENE 3><95%>
+	By nursing them, my lord. List a brief tale;
+	And, when 'tis told, O! that my heart would burst,
+	The bloody proclamation to escape
+	That follow'd me so near,—O! our lives' sweetness,
+	That we the pain of death would hourly die
+	Rather than die at once!—taught me to shift
+	Into a madman's rags, to assume a semblance
+	That very dogs disdain'd: and in this habit
+	Met I my father with his bleeding rings,
+	Their precious stones new lost; became his guide,
+	Led him, begg'd for him, sav'd him from despair;
+	Never,—O fault!—reveal'd myself unto him,
+	Until some half hour past, when I was arm'd;
+	Not sure, though hoping, of this good success,
+	I ask'd his blessing, and from first to last
+	Told him my pilgrimage: but his flaw'd heart,—
+	Alack! too weak the conflict to support;
+	'Twixt two extremes of passion, joy and grief,
+	Burst smilingly.
+<SPEECH 87><ACT 5><SCENE 3><96%>
+	This would have seem'd a period
+	To such as love not sorrow; but another,
+	To amplify too much, would make much more,
+	And top extremity.
+	Whilst I was big in clamour came there a man,
+	Who, having seen me in my worst estate,
+	Shunn'd my abhorr'd society; but then, finding
+	Who 'twas that so endur'd, with his strong arms
+	He fasten'd on my neck, and bellow'd out
+	As he'd burst heaven; threw him on my father;
+	Told the most piteous tale of Lear and him
+	That ever ear receiv'd; which in recounting
+	His grief grew puissant, and the strings of life
+	Began to crack: twice then the trumpet sounded,
+	And there I left him tranc'd.
+<SPEECH 88><ACT 5><SCENE 3><96%>
+	Kent, sir, the banish'd Kent; who in disguise
+	Follow'd his enemy king, and did him service
+	Improper for a slave.
+<SPEECH 89><ACT 5><SCENE 3><96%>
+	What kind of help?
+<SPEECH 90><ACT 5><SCENE 3><97%>
+	What means that bloody knife?
+<SPEECH 91><ACT 5><SCENE 3><97%>
+	Here comes Kent.
+<SPEECH 92><ACT 5><SCENE 3><97%>
+	To whom, my lord? Who has the office? send
+	Thy token of reprieve.
+<SPEECH 93><ACT 5><SCENE 3><98%>
+	Or image of that horror?
+<SPEECH 94><ACT 5><SCENE 3><98%>
+	'Tis noble Kent, your friend.
+<SPEECH 95><ACT 5><SCENE 3><99%>
+	Very bootless.
+<SPEECH 96><ACT 5><SCENE 3><99%>
+	He faints!—my lord, my lord!
+<SPEECH 97><ACT 5><SCENE 3><100%>
+	Look up, my lord.
+<SPEECH 98><ACT 5><SCENE 3><100%>
+	He is gone, indeed.

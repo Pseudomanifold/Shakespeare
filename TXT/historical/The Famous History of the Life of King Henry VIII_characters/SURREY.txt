@@ -1,0 +1,105 @@
+<SPEECH 1><ACT 3><SCENE 2><53%>
+	I am joyful
+	To meet the least occasion that may give me
+	Remembrance of my father-in-law, the duke,
+	To be reveng'd on him.
+<SPEECH 2><ACT 3><SCENE 2><53%>
+	Sir,
+	I should be glad to hear such news as this
+	Once every hour.
+<SPEECH 3><ACT 3><SCENE 2><53%>
+	How came
+	His practices to light?
+<SPEECH 4><ACT 3><SCENE 2><54%>
+	O! how? how?
+<SPEECH 5><ACT 3><SCENE 2><54%>
+	Has the king this?
+<SPEECH 6><ACT 3><SCENE 2><54%>
+	Will this work?
+<SPEECH 7><ACT 3><SCENE 2><54%>
+	Would he had!
+<SPEECH 8><ACT 3><SCENE 2><54%>
+	Now all my joy
+	Trace the conjunction!
+<SPEECH 9><ACT 3><SCENE 2><54%>
+	But will the king
+	Digest this letter of the cardinal's?
+	The Lord forbid!
+<SPEECH 10><ACT 3><SCENE 2><56%>
+	Sharp enough,
+	Lord, for thy justice!
+<SPEECH 11><ACT 3><SCENE 2><56%>
+	I would 'twere something that would fret the string,
+	The master-cord on's heart!
+<SPEECH 12><ACT 3><SCENE 2><58%>
+	</STAGE DIR> The Lord increase this business!
+<SPEECH 13><ACT 3><SCENE 2><61%>
+	The king, that gave it.
+<SPEECH 14><ACT 3><SCENE 2><61%>
+	Thou art a proud traitor, priest.
+<SPEECH 15><ACT 3><SCENE 2><61%>
+	Thy ambition,
+	Thou scarlet sin, robb'd this bewailing land
+	Of noble Buckingham, my father-in-law:
+	The heads of all thy brother cardinals—
+	With thee and all thy best parts bound together—
+	Weigh'd not a hair of his. Plague of your policy!
+	You sent me deputy for Ireland,
+	Far from his succour, from the king, from all
+	That might have mercy on the fault thou gav'st him;
+	Whilst your great goodness, out of holy pity,
+	Absolv'd him with an axe.
+<SPEECH 16><ACT 3><SCENE 2><62%>
+	By my soul,
+	Your long coat, priest, protects you; thou shouldst feel
+	My sword i' the life-blood of thee else. My lords,
+	Can ye endure to hear this arrogance?
+	And from this fellow? If we live thus tamely,
+	To be thus jaded by a piece of scarlet,
+	Farewell nobility; let his Grace go forward,
+	And dare us with his cap like larks.
+<SPEECH 17><ACT 3><SCENE 2><62%>
+	Yes, that goodness
+	Of gleaning all the land's wealth into one,
+	Into your own hands, cardinal, by extortion;
+	The goodness of your intercepted packets,
+	You writ to the pope against the king; your goodness,
+	Since you provoke me, shall be most notorious.
+	My Lord of Norfolk, as you are truly noble,
+	As you respect the common good, the state
+	Of our despis'd nobility, our issues,
+	Who, if he live, will scarce be gentlemen,
+	Produce the grand sum of his sins, the articles
+	Collected from his life; I'll startle you
+	Worse than the sacring bell, when the brown wench
+	Lay kissing in your arms, Lord Cardinal.
+<SPEECH 18><ACT 3><SCENE 2><63%>
+	This cannot save you:
+	I thank my memory, I yet remember
+	Some of these articles; and out they shall.
+	Now, if you can blush, and cry 'guilty,' cardinal,
+	You'll show a little honesty.
+<SPEECH 19><ACT 3><SCENE 2><63%>
+	I had rather want those than my head. Have at you!
+	First, that, without the king's assent or know ledge,
+	You wrought to be a legate; by which power
+	You maim'd the jurisdiction of all bishops.
+<SPEECH 20><ACT 3><SCENE 2><63%>
+	Item, you sent a large commission
+	To Gregory de Cassado, to conclude,
+	Without the king's will or the state's allowance,
+	A league between his highness and Ferrara.
+<SPEECH 21><ACT 3><SCENE 2><63%>
+	Then, that you have sent innumerable substance,—
+	By what means got I leave to your own conscience,—
+	To furnish Rome, and to prepare the ways
+	You have for dignities; to the mere undoing
+	Of all the kingdom. Many more there are;
+	Which, since they are of you, and odious,
+	I will not taint my mouth with.
+<SPEECH 22><ACT 3><SCENE 2><64%>
+	I forgive him.
+<SPEECH 23><ACT 5><SCENE 3><91%>
+	'Tis no counterfeit.
+<SPEECH 24><ACT 5><SCENE 3><92%>
+	May it please your Grace,—

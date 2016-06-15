@@ -1,0 +1,109 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	I am resolv'd; 'tis but a three years' fast:
+	The mind shall banquet, though the body pine:
+	Fat paunches have lean pates, and dainty bits
+	Make rich the ribs, but bankrupt quite the wits.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	You swore to that, Berowne, and to the rest.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	He weeds the corn, and still lets grow the weeding.
+<SPEECH 4><ACT 1><SCENE 1><5%>
+	Four days ago.
+<SPEECH 5><ACT 1><SCENE 1><5%>
+	Marry, that did I.
+<SPEECH 6><ACT 1><SCENE 1><5%>
+	To fright them hence with that dread penalty.
+<SPEECH 7><ACT 1><SCENE 1><6%>
+	Costard the swain and he shall be our sport;
+	And, so to study, three years is but short.
+<SPEECH 8><ACT 1><SCENE 1><7%>
+	A high hope for a low heaven: God grant us patience!
+<SPEECH 9><ACT 1><SCENE 1><7%>
+	To hear meekly, sir, and to laugh moderately; or to forbear both.
+<SPEECH 10><ACT 2><SCENE 1><24%>
+	I beseech you a word: what is she in the white?
+<SPEECH 11><ACT 2><SCENE 1><24%>
+	Perchance light in the light. I desire her name.
+<SPEECH 12><ACT 2><SCENE 1><24%>
+	Pray you, sir, whose daughter?
+<SPEECH 13><ACT 2><SCENE 1><24%>
+	God's blessing on your beard!
+<SPEECH 14><ACT 2><SCENE 1><24%>
+	Nay, my choler is ended.
+	She is a most sweet lady.
+<SPEECH 15><ACT 4><SCENE 3><48%>
+	Ay me! I am forsworn.
+<SPEECH 16><ACT 4><SCENE 3><48%>
+	Am I the first that have been perjur'd so?
+<SPEECH 17><ACT 4><SCENE 3><48%>
+	I fear these stubborn lines lack power to move.
+	O sweet Maria, empress of my love!
+	These numbers will I tear, and write in prose.
+<SPEECH 18><ACT 4><SCENE 3><48%>
+	This same shall go.
+	Did not the heavenly rhetoric of thine eye,
+	'Gainst whom the world cannot hold argument,
+	Persuade my heart to this false perjury?
+	Vows for thee broke deserve not punishment.
+	A woman I forswore; but I will prove,
+	Thou being a goddess, I forswore not thee:
+	My vow was earthly, thou a heavenly love;
+	Thy grace, being gain'd, cures all disgrace in me.
+	Vows are but breath, and breath a vapour is:
+	Then thou, fair sun, which on my earth dost shine,
+	Exhal'st this vapour-vow; in thee it is:
+	If broken, then, it is no fault of mine:
+	If by me broke, what fool is not so wise
+	To lose an oath to win a paradise!
+<SPEECH 19><ACT 4><SCENE 3><49%>
+	By whom shall I send this?—Company! stay.
+<SPEECH 20><ACT 4><SCENE 3><50%>
+	And I had mine!
+<SPEECH 21><ACT 4><SCENE 3><51%>
+	</STAGE DIR> Dumaine, thy love is far from charity,
+	That in love's grief desir'st society:
+	You may look pale, but I should blush, I know,
+	To be o'erheard and taken napping so.
+<SPEECH 22><ACT 4><SCENE 3><54%>
+	It did move him to passion, and therefore let's hear it.
+<SPEECH 23><ACT 4><SCENE 3><56%>
+	And since her time are colliers counted bright.
+<SPEECH 24><ACT 4><SCENE 3><56%>
+	Look, here's thy love: <STAGE DIR>
+	</STAGE DIR> my foot and her face see.
+<SPEECH 25><ACT 4><SCENE 3><57%>
+	O! some authority how to proceed;
+	Some tricks, some quillets, how to cheat the devil.
+<SPEECH 26><ACT 4><SCENE 3><60%>
+	Now to plain-dealing; lay these glozes by;
+	Shall we resolve to woo these girls of France?
+<SPEECH 27><ACT 5><SCENE 2><75%>
+	I know the reason, lady, why you ask.
+<SPEECH 28><ACT 5><SCENE 2><75%>
+	You have a double tongue within your mask,
+	And would afford my speechless visor half.
+<SPEECH 29><ACT 5><SCENE 2><75%>
+	A calf, fair lady!
+<SPEECH 30><ACT 5><SCENE 2><75%>
+	Let's part the word.
+<SPEECH 31><ACT 5><SCENE 2><75%>
+	Look, how you butt yourself in these sharp mocks.
+	Will you give horns, chaste lady? do not so.
+<SPEECH 32><ACT 5><SCENE 2><76%>
+	One word in private with you, ere I die.
+<SPEECH 33><ACT 5><SCENE 2><89%>
+	The face of an old Roman coin, scarce seen.
+<SPEECH 34><ACT 5><SCENE 2><90%>
+	His calf is too big for Hector.
+<SPEECH 35><ACT 5><SCENE 2><90%>
+	Stuck with cloves.
+<SPEECH 36><ACT 5><SCENE 2><91%>
+	That columbine.
+<SPEECH 37><ACT 5><SCENE 2><91%>
+	I must rather give it the rein, for it runs against Hector.
+<SPEECH 38><ACT 5><SCENE 2><95%>
+	So did our looks.
+<SPEECH 39><ACT 5><SCENE 2><97%>
+	What says Maria?
+<SPEECH 40><ACT 5><SCENE 2><97%>
+	I'll stay with patience; but the time is long.

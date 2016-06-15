@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 2><SCENE 1><31%>
+	Barely in title, not in revenue.
+<SPEECH 2><ACT 2><SCENE 1><32%>
+	Tends that thou'dst speak to the Duke of Hereford?
+	If it be so, out with it boldly, man;
+	Quick is mine ear to hear of good towards him.
+<SPEECH 3><ACT 2><SCENE 1><32%>
+	And daily new exactions are devis'd;
+	As blanks, benevolences, and I wot not what:
+	But what, o' God's name, doth become of this?
+<SPEECH 4><ACT 2><SCENE 1><33%>
+	The king's grown bankrupt, like a broken man.
+<SPEECH 5><ACT 2><SCENE 1><33%>
+	Nay, let us share thy thoughts, as thou dost ours.
+<SPEECH 6><ACT 2><SCENE 1><34%>
+	Hold out my horse, and I will first be there.
+<SPEECH 7><ACT 2><SCENE 3><42%>
+	And far surmounts our labour to attain it.
+<SPEECH 8><ACT 2><SCENE 3><44%>
+	Base men by his endowments are made great.

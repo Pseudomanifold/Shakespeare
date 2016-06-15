@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 4><SCENE 1><52%>
+	That labour may you save: see where he comes.
+<SPEECH 2><ACT 4><SCENE 1><55%>
+	I do;
+	And charge you in the duke's name to obey me.
+<SPEECH 3><ACT 4><SCENE 1><55%>
+	I do arrest you, sir: you hear the suit.
+<SPEECH 4><ACT 4><SCENE 4><68%>
+	Good sir, be patient.
+<SPEECH 5><ACT 4><SCENE 4><68%>
+	Good now, hold thy tongue.
+<SPEECH 6><ACT 4><SCENE 4><73%>
+	Masters, let him go:
+	He is my prisoner, and you shall not have him.
+<SPEECH 7><ACT 4><SCENE 4><74%>
+	He is my prisoner: if I let him go,
+	The debt he owes will be requir'd of me.
+<SPEECH 8><ACT 4><SCENE 4><75%>
+	One Angelo, a goldsmith; do you know him?
+<SPEECH 9><ACT 4><SCENE 4><75%>
+	Two hundred ducats.
+<SPEECH 10><ACT 4><SCENE 4><75%>
+	Due for a chain your husband had of him.
+<SPEECH 11><ACT 4><SCENE 4><76%>
+	Away! they'll kill us.

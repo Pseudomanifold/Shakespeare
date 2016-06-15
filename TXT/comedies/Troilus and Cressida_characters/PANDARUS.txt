@@ -1,0 +1,357 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Will this gear ne'er be mended?
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Well, I have told you enough of this: for my part, I'll not meddle nor make no further. He that will have a cake out of the wheat must tarry the grinding.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Ay, the grinding; but you must tarry the bolting.
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	Ay, the bolting; but you must tarry the leavening.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	Ay, to the leavening; but here's yet in the word 'hereafter' the kneading, the making of the cake, the heating of the oven, and the baking; nay, you must stay the cooling too, or you may chance to burn your lips.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Well, she looked yesternight fairer than ever I saw her look, or any woman else.
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	An her hair were not somewhat darker than Helen's,—well, go to,—there were no more comparison between the women: but, for my part, she is my kins woman; I would not, as they term it, praise her, but I would somebody had heard her talk yesterday, as I did: I will not dispraise your sister Cassandra's wit, but—
+<SPEECH 8><ACT 1><SCENE 1><3%>
+	I speak no more than truth.
+<SPEECH 9><ACT 1><SCENE 1><3%>
+	Faith, I'll not meddle in't. Let her be as she is: if she be fair, 'tis the better for her; an she be not, she has the mends in her own hands.
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	I have had my labour for my travail; ill-thought on of her, and ill-thought on of you: gone between, and between, but small thanks for my labour.
+<SPEECH 11><ACT 1><SCENE 1><3%>
+	Because she's kin to me, therefore she's not so fair as Helen: an she were not kin to me, she would be as fair on Friday as Helen is on Sunday. But what care I? I care not an she were a black-a-moor; 'tis all one to me.
+<SPEECH 12><ACT 1><SCENE 1><3%>
+	I do not care whether you do or no. She's a fool to stay behind her father: let her to the Greeks; and so I'll tell her the next time I see her. For my part, I'll meddle nor make no more i' the matter.
+<SPEECH 13><ACT 1><SCENE 1><3%>
+	Not I.
+<SPEECH 14><ACT 1><SCENE 1><4%>
+	Pray you, speak no more to me! I will leave all as I found it, and there an end.
+<SPEECH 15><ACT 1><SCENE 2><6%>
+	What's that? what's that?
+<SPEECH 16><ACT 1><SCENE 2><6%>
+	Good morrow, cousin Cressid. What do you talk of? Good morrow, Alexander.
+	How do you, cousin? When were you at Ilium?
+<SPEECH 17><ACT 1><SCENE 2><6%>
+	What were you talking of when I came? Was Hector armed and gone ere ye came to Ilium? Helen was not up, was she?
+<SPEECH 18><ACT 1><SCENE 2><6%>
+	E'en so: Hector was stirring early.
+<SPEECH 19><ACT 1><SCENE 2><6%>
+	Was he angry?
+<SPEECH 20><ACT 1><SCENE 2><6%>
+	True, he was so; I know the cause too: he'll lay about him to-day, I can tell them that: and there's Troilus will not come far behind him; let them take heed of Troilus, I can tell them that too.
+<SPEECH 21><ACT 1><SCENE 2><6%>
+	Who, Troilus? Troilus is the better man of the two.
+<SPEECH 22><ACT 1><SCENE 2><6%>
+	What! not between Troilus and Hector?
+	Do you know a man if you see him?
+<SPEECH 23><ACT 1><SCENE 2><6%>
+	Well, I say Troilus is Troilus.
+<SPEECH 24><ACT 1><SCENE 2><6%>
+	No, nor Hector is not Troilus in some degrees.
+<SPEECH 25><ACT 1><SCENE 2><6%>
+	Himself! Alas, poor Troilus, I would he were.
+<SPEECH 26><ACT 1><SCENE 2><7%>
+	Condition, I had gone bare-foot to India.
+<SPEECH 27><ACT 1><SCENE 2><7%>
+	Himself! no, he's not himself. Would a' were himself: well, the gods are above; time must friend or end: well, Troilus, well, I would my heart were in her body. No, Hector is not a better man than Troilus.
+<SPEECH 28><ACT 1><SCENE 2><7%>
+	He is elder.
+<SPEECH 29><ACT 1><SCENE 2><7%>
+	Th' other's not come to't; you shall tell me another tale when the other's come to't. Hector shall not have his wit this year.
+<SPEECH 30><ACT 1><SCENE 2><7%>
+	Nor his qualities.
+<SPEECH 31><ACT 1><SCENE 2><7%>
+	Nor his beauty.
+<SPEECH 32><ACT 1><SCENE 2><7%>
+	You have no judgment, niece: Helen herself swore th' other day, that Troilus, for a brown favour,—for so 'tis I must confess,—not brown neither,—
+<SPEECH 33><ACT 1><SCENE 2><7%>
+	Faith, to say truth, brown and not brown.
+<SPEECH 34><ACT 1><SCENE 2><7%>
+	She prais'd his complexion above Paris.
+<SPEECH 35><ACT 1><SCENE 2><7%>
+	So he has.
+<SPEECH 36><ACT 1><SCENE 2><7%>
+	I swear to you, I think Helen loves him better than Paris.
+<SPEECH 37><ACT 1><SCENE 2><7%>
+	Nay, I am sure she does. She came to him th' other day into the compassed window, and, you know, he has not past three or four hairs on his chin,—
+<SPEECH 38><ACT 1><SCENE 2><8%>
+	Why, he is very young; and yet will he, within three pound, lift as much as his brother Hector.
+<SPEECH 39><ACT 1><SCENE 2><8%>
+	But to prove to you that Helen loves him: she came and puts me her white hand to his cloven chin,—
+<SPEECH 40><ACT 1><SCENE 2><8%>
+	Why, you know, 'tis dimpled. I think his smiling becomes him better than any man in all Phrygia.
+<SPEECH 41><ACT 1><SCENE 2><8%>
+	Does he not?
+<SPEECH 42><ACT 1><SCENE 2><8%>
+	Why, go to, then. But to prove to you that Helen loves Troilus,—
+<SPEECH 43><ACT 1><SCENE 2><8%>
+	Troilus! why he esteems her no more than I esteem an addle egg.
+<SPEECH 44><ACT 1><SCENE 2><8%>
+	I cannot choose but laugh, to think how she tickled his chin: indeed, she has a marvell's white hand, I must needs confess,—
+<SPEECH 45><ACT 1><SCENE 2><8%>
+	And she takes upon her to spy a white hair on his chin.
+<SPEECH 46><ACT 1><SCENE 2><8%>
+	But there was such laughing: Queen Hecuba laughed that her eyes ran o'er.
+<SPEECH 47><ACT 1><SCENE 2><8%>
+	And Cassandra laughed.
+<SPEECH 48><ACT 1><SCENE 2><8%>
+	And Hector laughed.
+<SPEECH 49><ACT 1><SCENE 2><8%>
+	Marry, at the white hair that Helen spied on Troilus' chin.
+<SPEECH 50><ACT 1><SCENE 2><9%>
+	They laughed not so much at the hair as at his pretty answer.
+<SPEECH 51><ACT 1><SCENE 2><9%>
+	Quoth she, 'Here's but one-and-fifty hairs on your chin, and one of them is white.'
+<SPEECH 52><ACT 1><SCENE 2><9%>
+	That's true; make no question of that. 'One-and-fifty hairs,' quoth he, 'and one white: that white hair is my father, and all the rest are his sons.' 'Jupiter!' quoth she, 'which of these hairs is Paris, my husband?' 'The forked one,' quoth he; 'pluck't out, and give it him.' But there was such laughing, and Helen so blushed, and Paris so chafed, and all the rest so laughed, that it passed.
+<SPEECH 53><ACT 1><SCENE 2><9%>
+	Well, cousin, I told you a thing yesterday; think on't.
+<SPEECH 54><ACT 1><SCENE 2><9%>
+	I'll be sworn 'tis true: he will weep you, an 'twere a man born in April.
+<SPEECH 55><ACT 1><SCENE 2><9%>
+	Hark! they are coming from the field. Shall we stand up here, and see them as they pass toward Ilium? good niece, do; sweet niece, Cressida.
+<SPEECH 56><ACT 1><SCENE 2><9%>
+	Here, here; here's an excellent place: here we may see most bravely. I'll tell you them all by their names as they pass by, but mark Troilus above the rest.
+<SPEECH 57><ACT 1><SCENE 2><9%>
+	That's Æneas: is not that a brave man? he's one of the flowers of Troy, I can tell you: but mark Troilus; you shall see anon.
+<SPEECH 58><ACT 1><SCENE 2><10%>
+	That's Antenor: he has a shrewd wit, I can tell you; and he's a man good enough: he's one o' the soundest judgments in Troy, whosoever, and a proper man of person. When comes Troilus? I'll show you Troilus anon: if he see me, you shall see him nod at me.
+<SPEECH 59><ACT 1><SCENE 2><10%>
+	You shall see.
+<SPEECH 60><ACT 1><SCENE 2><10%>
+	That's Hector, that, that, look you, that; there's a fellow! Go thy way, Hector! There's a brave man, niece. O brave Hector! Look how he looks! there's a countenance! Is't not a brave man?
+<SPEECH 61><ACT 1><SCENE 2><10%>
+	Is a' not? It does a man's heart good. Look you what hacks are on his helmet! look you yonder, do you see? look you there: there's no jesting; there's laying on, take't off who will, as they say: there be hacks!
+<SPEECH 62><ACT 1><SCENE 2><10%>
+	Swords? any thing, he cares not; an the devil come to him, it's all one: by God's lid, it does one's heart good. Yonder comes Paris, yonder comes Paris.
+	Look ye yonder, niece: is't not a gallant man too, is't not? Why, this is brave now. Who said he came hurt home to-day? he's not hurt: why, this will do Helen's heart good now, ha! Would I could see Troilus now! You shall see Troilus anon.
+<SPEECH 63><ACT 1><SCENE 2><10%>
+	That's Helenus. I marvel where Troilus is. That's Helenus. I think he went not forth to-day. That's Helenus.
+<SPEECH 64><ACT 1><SCENE 2><11%>
+	Helenus? no, yes, he'll fight indifferent well. I marvel where Troilus is. Hark! do you not hear the people cry, 'Troilus?' Helenus is a priest.
+<SPEECH 65><ACT 1><SCENE 2><11%>
+	Where? yonder? that's Deiphobus.
+	Tis Troilus! there's a man, niece! Hem! Brave
+	Troilus! the prince of chivalry!
+<SPEECH 66><ACT 1><SCENE 2><11%>
+	Mark him; note him: O brave Troilus! look well upon him, niece: look you how his sword is bloodied, and his helmet more hacked than Hector's; and how he looks, and how he goes! O admirable youth! he ne'er saw three-and-twenty. Go thy way, Troilus, go thy way! Had I a sister were a grace, or a daughter a goddess, he should take his choice. O admirable man! Paris? Paris is dirt to him; and, I warrant, Helen, to change, would give an eye to boot.
+<SPEECH 67><ACT 1><SCENE 2><11%>
+	Asses, fools, dolts! chaff and bran, chaff and bran! porridge after meat! I could live and die i' the eyes of Troilus. Ne'er look, ne'er look; the eagles are gone: crows and daws, crows and daws! I had rather be such a man as Troilus than Agamemnon and all Greece.
+<SPEECH 68><ACT 1><SCENE 2><11%>
+	Achilles! a drayman, a porter, a very camel.
+<SPEECH 69><ACT 1><SCENE 2><11%>
+	'Well, well!' Why, have you any discretion? have you any eyes? Do you know what a man is? Is not birth, beauty, good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and so forth, the spice and salt that season a man?
+<SPEECH 70><ACT 1><SCENE 2><12%>
+	You are such a woman! one knows not at what ward you lie.
+<SPEECH 71><ACT 1><SCENE 2><12%>
+	Say one of your watches.
+<SPEECH 72><ACT 1><SCENE 2><12%>
+	You are such another!
+<SPEECH 73><ACT 1><SCENE 2><12%>
+	Where?
+<SPEECH 74><ACT 1><SCENE 2><12%>
+	Good boy, tell him I come. <STAGE DIR>
+	</STAGE DIR> I doubt he be hurt. Fare ye well, good niece.
+<SPEECH 75><ACT 1><SCENE 2><12%>
+	I'll be with you, niece, by and by.
+<SPEECH 76><ACT 1><SCENE 2><12%>
+	Ay, a token from Troilus.
+<SPEECH 77><ACT 3><SCENE 1><41%>
+	Friend! you! pray you, a word: do not you follow the young Lord Paris?
+<SPEECH 78><ACT 3><SCENE 1><41%>
+	You depend upon him, I mean?
+<SPEECH 79><ACT 3><SCENE 1><41%>
+	You depend upon a noble gentleman;
+	I must needs praise him.
+<SPEECH 80><ACT 3><SCENE 1><41%>
+	You know me, do you not?
+<SPEECH 81><ACT 3><SCENE 1><41%>
+	Friend, know me better. I am the
+	Lord Pandarus.
+<SPEECH 82><ACT 3><SCENE 1><41%>
+	I do desire it.
+<SPEECH 83><ACT 3><SCENE 1><41%>
+	Grace! not so, friend; honour and lordship are my titles. <STAGE DIR>
+	</STAGE DIR> What music is this?
+<SPEECH 84><ACT 3><SCENE 1><41%>
+	Know you the musicians?
+<SPEECH 85><ACT 3><SCENE 1><41%>
+	Who play they to?
+<SPEECH 86><ACT 3><SCENE 1><41%>
+	At whose pleasure, friend?
+<SPEECH 87><ACT 3><SCENE 1><41%>
+	Command, I mean, friend.
+<SPEECH 88><ACT 3><SCENE 1><41%>
+	Friend, we understand not one another:
+	I am too courtly, and thou art too cunning. At whose request do these men play?
+<SPEECH 89><ACT 3><SCENE 1><42%>
+	Who, my cousin Cressida?
+<SPEECH 90><ACT 3><SCENE 1><42%>
+	It should seem, fellow, that thou hast not seen the Lady Cressida. I come to speak with Paris from the Prince Troilus: I will make a complimental assault upon him, for my business seethes.
+<SPEECH 91><ACT 3><SCENE 1><42%>
+	Fair be to you, my lord, and to all this fair company! fair desires, in all fair measures, fairly guide them! especially to you, fair queen! fair thoughts be your fair pillow!
+<SPEECH 92><ACT 3><SCENE 1><42%>
+	You speak your fair pleasure, sweet queen. Fair prince, here is good broken music.
+<SPEECH 93><ACT 3><SCENE 1><42%>
+	Truly, lady, no.
+<SPEECH 94><ACT 3><SCENE 1><42%>
+	Rude, in sooth; in good sooth, very rude.
+<SPEECH 95><ACT 3><SCENE 1><42%>
+	I have business to my lord, dear queen.
+	My lord, will you vouchsafe me a word?
+<SPEECH 96><ACT 3><SCENE 1><42%>
+	Well, sweet queen, you are pleasant with me. But, marry, thus, my lord. My dear lord and most esteemed friend, your brother Troilus—
+<SPEECH 97><ACT 3><SCENE 1><42%>
+	Go to, sweet queen, go to: commends himself most affectionately to you.
+<SPEECH 98><ACT 3><SCENE 1><43%>
+	Sweet queen, sweet queen! that's a sweet queen, i' faith.
+<SPEECH 99><ACT 3><SCENE 1><43%>
+	Nay, that shall not serve your turn; that shall it not, in truth, la! Nay, I care not for such words: no, no. And, my lord, he desires you, that if the king call for him at supper, you will make his excuse.
+<SPEECH 100><ACT 3><SCENE 1><43%>
+	What says my sweet queen, my very sweet queen?
+<SPEECH 101><ACT 3><SCENE 1><43%>
+	What says my sweet queen! My cousin will fall out with you. You must know where he sups.
+<SPEECH 102><ACT 3><SCENE 1><43%>
+	No, no, no such matter; you are wide. Come, your disposer is sick.
+<SPEECH 103><ACT 3><SCENE 1><43%>
+	Ay, good my lord. Why should you say Cressida? no, your poor disposer's sick.
+<SPEECH 104><ACT 3><SCENE 1><43%>
+	You spy! what do you spy? Come, give me an instrument. Now, sweet queen.
+<SPEECH 105><ACT 3><SCENE 1><43%>
+	My niece is horribly in love with a thing you have, sweet queen.
+<SPEECH 106><ACT 3><SCENE 1><43%>
+	He! no, she'll none of him; they two are twain.
+<SPEECH 107><ACT 3><SCENE 1><43%>
+	Come, come, I'll hear no more of this.
+	I'll sing you a song now.
+<SPEECH 108><ACT 3><SCENE 1><43%>
+	Ay, you may, you may.
+<SPEECH 109><ACT 3><SCENE 1><43%>
+	Love! ay, that it shall, i' faith.
+<SPEECH 110><ACT 3><SCENE 1><44%>
+	In good troth, it begins so:
+	Love, love, nothing but love, still more!
+	For, oh! love's bow
+	Shoots buck and doe:
+	The shaft confounds,
+	Not that it wounds,
+	But tickles still the sore.
+	These lovers cry O! O! they die!
+	Yet that which seems the wound to kill,
+	Doth turn O! O! to ha! ha! he!
+	So dying love lives still:
+	O! O! a while, but ha! ha! ha!
+	O! O! groans out for ha! ha! ha!
+	Heigh-ho!
+<SPEECH 111><ACT 3><SCENE 1><44%>
+	Is this the generation of love? hot blood? hot thoughts, and hot deeds? Why, they are vipers: is love a generation of vipers? Sweet lord, who's a-field to-day?
+<SPEECH 112><ACT 3><SCENE 1><44%>
+	Not I, honey-sweet queen. I long to hear how they sped to-day. You'll remember your brother's excuse?
+<SPEECH 113><ACT 3><SCENE 1><44%>
+	Farewell, sweet queen.
+<SPEECH 114><ACT 3><SCENE 1><44%>
+	I will, sweet queen.
+<SPEECH 115><ACT 3><SCENE 2><45%>
+	How now! where's thy master? at my cousin Cressida's?
+<SPEECH 116><ACT 3><SCENE 2><45%>
+	O! here he comes. How now, how now!
+<SPEECH 117><ACT 3><SCENE 2><45%>
+	Have you seen my cousin?
+<SPEECH 118><ACT 3><SCENE 2><45%>
+	Walk here i' the orchard. I'll bring her straight.
+<SPEECH 119><ACT 3><SCENE 2><46%>
+	She's making her ready: she'll come straight: you must be witty now. She does so blush, and fetches her wind so short, as if she were frayed with a sprite: I'll fetch her. It is the prettiest villain: she fetches her breath as short as a new-ta'en sparrow.
+<SPEECH 120><ACT 3><SCENE 2><46%>
+	Come, come, what need you blush? shame's a baby. Here she is now: swear the oaths now to her that you have sworn to me. What! are you gone again? you must be watched ere you be made tame, must you? Come your ways, come your ways; an you draw backward, we'll put you i' the fills. Why do you not speak to her? Come, draw this curtain, and let's see your picture. Alas the day, how loath you are to offend day-light! an 'twere dark, you'd close sooner. So, so; rub on, and kiss the mistress. How now! a kiss in fee-farm! build there, carpenter; the air is sweet. Nay, you shall fight your hearts out ere I part you. The falcon as the tercel, for all the ducks i' the river: go to, go to.
+<SPEECH 121><ACT 3><SCENE 2><46%>
+	Words pay no debts, give her deeds; but she'll bereave you of the deeds too if she call your activity in question. What! billing again? Here's 'In witness whereof the parties interchangeably'—Come in, come in: I'll go get a fire.
+<SPEECH 122><ACT 3><SCENE 2><48%>
+	What! blushing still? have you not done talking yet?
+<SPEECH 123><ACT 3><SCENE 2><48%>
+	I thank you for that: if my lord get a boy of you, you'll give him me. Be true to my lord; if he flinch, chide me for it.
+<SPEECH 124><ACT 3><SCENE 2><48%>
+	Nay, I'll give my word for her too. Our kindred, though they be long ere they are wooed, they are constant being won: they are burrs, I can tell you; they'll stick where they are thrown.
+<SPEECH 125><ACT 3><SCENE 2><49%>
+	Pretty, i' faith.
+<SPEECH 126><ACT 3><SCENE 2><49%>
+	Leave! an you take leave till to-morrow morning,—
+<SPEECH 127><ACT 3><SCENE 2><50%>
+	Go to, a bargain made; seal it, seal it: I'll be the witness. Here I hold your hand, here my cousin's. If ever you prove false one to another, since I have taken such pains to bring you together, let all pitiful goers-between be called to the world's end after my name; call them all Pandars; let all constant men be Troiluses, all false women Cressids, and all brokers-between Pandars! say, Amen.
+<SPEECH 128><ACT 3><SCENE 2><51%>
+	Amen. Whereupon I will show you a chamber and a bed; which bed, because it shall not speak of your pretty encounters, press it to death: away!
+	And Cupid grant all tongue-tied maidens here
+	Bed, chamber, Pandar to provide this gear!
+<SPEECH 129><ACT 4><SCENE 2><62%>
+	</STAGE DIR> What! are all the doors open here?
+<SPEECH 130><ACT 4><SCENE 2><63%>
+	How now, how now! how go maiden-heads?
+	Here, you maid! where's my cousin Cressid?
+<SPEECH 131><ACT 4><SCENE 2><63%>
+	To do what? to do what? let her say what: what have I brought you to do?
+<SPEECH 132><ACT 4><SCENE 2><63%>
+	Ha, ha! Alas, poor wretch! a poor capocchia! hast not slept to-night? would he not, a naughty man, let it sleep? a bugbear take him!
+<SPEECH 133><ACT 4><SCENE 2><63%>
+	</STAGE DIR> Who's there? what's the matter? will you beat down the door? How now! what's the matter?
+<SPEECH 134><ACT 4><SCENE 2><63%>
+	Who's there? my Lord Æneas! By my troth,
+	I knew you not: what news with you so early?
+<SPEECH 135><ACT 4><SCENE 2><63%>
+	Here! what should he do here?
+<SPEECH 136><ACT 4><SCENE 2><64%>
+	Is he here, say you? 'tis more than I know, I'll be sworn: for my own part, I came in late. What should he do here?
+<SPEECH 137><ACT 4><SCENE 2><64%>
+	Is't possible? no sooner got but lost?
+	The devil take Antenor! the young prince will go mad: a plague upon Antenor! I would they had broke's neck!
+<SPEECH 138><ACT 4><SCENE 2><64%>
+	Ah! ah!
+<SPEECH 139><ACT 4><SCENE 2><64%>
+	Would I were as deep under the earth as I am above!
+<SPEECH 140><ACT 4><SCENE 2><65%>
+	Prithee, get thee in. Would thou hadst ne'er been born! I knew thou wouldst be his death. O poor gentleman! A plague upon Antenor!
+<SPEECH 141><ACT 4><SCENE 2><65%>
+	Thou must be gone, wench, thou must be gone; thou art changed for Antenor. Thou must to thy father, and be gone from Troilus: 'twill be his death; 'twill be his bane; he cannot bear it.
+<SPEECH 142><ACT 4><SCENE 2><65%>
+	Thou must.
+<SPEECH 143><ACT 4><SCENE 2><65%>
+	Do, do.
+<SPEECH 144><ACT 4><SCENE 4><66%>
+	Be moderate, be moderate.
+<SPEECH 145><ACT 4><SCENE 4><66%>
+	Here, here, here he comes. Ah! sweet ducks.
+<SPEECH 146><ACT 4><SCENE 4><66%>
+	What a pair of spectacles is here! Let me embrace too. 'O heart,' as the goodly saying is,—
+	O heart, heavy heart,
+	Why sigh'st thou without breaking?
+	when he answers again,
+	Because thou canst not ease thy smart
+	By friendship nor by speaking.
+	There was never a truer rime. Let us cast away nothing, for we may live to have need of such a verse: we see it, we see it. How now, lambs!
+<SPEECH 147><ACT 4><SCENE 4><66%>
+	Ay, ay, ay, ay; 'tis too plain a case.
+<SPEECH 148><ACT 4><SCENE 4><67%>
+	Where are my tears? rain, to lay this wind, or my heart will be blown up by the root!
+<SPEECH 149><ACT 5><SCENE 3><91%>
+	Do you hear, my lord? do you hear?
+<SPEECH 150><ACT 5><SCENE 3><91%>
+	Here's a letter come from yond poor girl.
+<SPEECH 151><ACT 5><SCENE 3><92%>
+	A whoreson tisick, a whoreson rascally tisick so troubles me, and the foolish fortune of this girl; and what one thing, what another, that I shall leave you one o' these days: and I have a rheum in mine eyes too, and such an ache in my bones that, unless a man were cursed, I cannot tell what to think on't. What says she there?
+<SPEECH 152><ACT 5><SCENE X.— ><99%>
+	But hear you, hear you!
+<SPEECH 153><ACT 5><SCENE X.— ><99%>
+	A goodly medicine for my aching bones! O world! world! world! thus is the poor agent despised. O traitors and bawds, how earnestly are you set a-work, and how ill requited! why should our endeavour be so loved, and the performance so loathed? what verse for it? what instance for it?—Let me see!—
+	Full merrily the humble-bee doth sing,
+	Till he hath lost his honey and his sting;
+	And being once subdu'd in armed tail,
+	Sweet honey and sweet notes together fail.
+	Good traders in the flesh, set this in your painted cloths.
+	As many as be here of pander's hall,
+	Your eyes, half out, weep out at Pandar's fall;
+	Or if you cannot weep, yet give some groans,
+	Though not for me, yet for your aching bones.
+	Brethren and sisters of the hold-door trade,
+	Some two months hence my will shall here be made.
+	It should be now, but that my fear is this,
+	Some galled goose of Winchester would hiss.
+	Till then I'll sweat, and seek about for eases;
+	And at that time bequeath you my diseases

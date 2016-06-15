@@ -1,0 +1,54 @@
+<SPEECH 1><ACT 3><SCENE 2><34%>
+	Captain Fluellen, you must come presently to the mines: the Duke of Gloucester would speak with you.
+<SPEECH 2><ACT 3><SCENE 2><35%>
+	The Duke of Gloucester, to whom the order of the siege is given, is altogether directed by an Irishman, a very valiant gentleman, i' faith.
+<SPEECH 3><ACT 3><SCENE 2><35%>
+	I think it be.
+<SPEECH 4><ACT 3><SCENE 2><35%>
+	Here a' comes; and the Scots captain, Captain Jamy, with him.
+<SPEECH 5><ACT 3><SCENE 2><35%>
+	How now, Captain Macmorris! have you quit the mines? have the pioners given o'er?
+<SPEECH 6><ACT 3><SCENE 2><37%>
+	Gentlemen both, you will mistake each other.
+<SPEECH 7><ACT 3><SCENE 2><37%>
+	The town sounds a parley.
+<SPEECH 8><ACT 3><SCENE 6><43%>
+	How now, Captain Fluellen! come you from the bridge?
+<SPEECH 9><ACT 3><SCENE 6><43%>
+	Is the Duke of Exeter safe?
+<SPEECH 10><ACT 3><SCENE 6><43%>
+	What do you call him?
+<SPEECH 11><ACT 3><SCENE 6><43%>
+	I know him not.
+<SPEECH 12><ACT 3><SCENE 6><45%>
+	Why, this is an arrant counterfeit rascal: I remember him now; a bawd, a cutpurse.
+<SPEECH 13><ACT 3><SCENE 6><45%>
+	Why, 'tis a gull, a fool, a rogue, that now and then goes to the wars to grace himself at his return into London under the form of a soldier. And such fellows are perfect in the great commanders' names, and they will learn you by rote where services were done; at such and such a sconce, at such a breach, at such a convoy; who came off bravely, who was shot, who disgraced, what terms the enemy stood on; and this they con perfectly in the phrase of war, which they trick up with new-tuned oaths: and what a beard of the general's cut and a horrid suit of the camp will do among foaming bottles and ale-washed wits, is wonderful to be thought on. But you must learn to know such slanders of the age, or else you may be marvellously mistook.
+<SPEECH 14><ACT 4><SCENE 1><56%>
+	Captain Fluellen!
+<SPEECH 15><ACT 4><SCENE 1><57%>
+	Why, the enemy is loud; you heard him all night.
+<SPEECH 16><ACT 4><SCENE 1><57%>
+	I will speak lower.
+<SPEECH 17><ACT 4><SCENE 7><74%>
+	'Tis certain, there's not a boy left alive; and the cowardly rascals that ran from the battle have done this slaughter: besides, they have burned and carried away all that was in the king's tent; wherefore the king most worthily hath caused every soldier to cut his prisoner's throat. O! 'tis a gallant king.
+<SPEECH 18><ACT 4><SCENE 7><75%>
+	Alexander the Great.
+<SPEECH 19><ACT 4><SCENE 7><75%>
+	I think Alexander the Great was born in Macedon: his father was called Philip of Macedon, as I take it.
+<SPEECH 20><ACT 4><SCENE 7><75%>
+	Our king is not like him in that: he never killed any of his friends.
+<SPEECH 21><ACT 4><SCENE 7><76%>
+	Sir John Falstaff.
+<SPEECH 22><ACT 4><SCENE 7><76%>
+	Here comes his majesty.
+<SPEECH 23><ACT 4><SCENE 8><80%>
+	How now, sir! you villain!
+<SPEECH 24><ACT 5><SCENE 1><85%>
+	Nay, that's right; but why wear you your leek to-day? Saint Davy's day is past.
+<SPEECH 25><ACT 5><SCENE 1><86%>
+	Why, here he comes, swelling like a turkey-cock.
+<SPEECH 26><ACT 5><SCENE 1><86%>
+	Enough, captain: you have astonished him.
+<SPEECH 27><ACT 5><SCENE 1><87%>
+	Go, go; you are a counterfeit cowardly knave. Will you mock at an ancient tradition, begun upon an honourable respect, and worn as a memorable trophy of predeceased valour, and dare not a vouch in your deeds any of your words? I have seen you gleeking and galling at this gentleman twice or thrice. You thought, because he could not speak English in the native garb, he could not therefore handle an English cudgel: you find it otherwise; and henceforth let a Welsh correction teach you a good English condition. Fare ye well.

@@ -1,0 +1,92 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	Of honourable reckoning are you both;
+	And pity 'tis you liv'd at odds so long.
+	But now, my lord, what say you to my suit?
+<SPEECH 2><ACT 1><SCENE 2><9%>
+	Younger than she are happy mothers made.
+<SPEECH 3><ACT 3><SCENE 4><63%>
+	These times of woe afford no time to woo.
+	Madam, good-night: commend me to your daughter.
+<SPEECH 4><ACT 3><SCENE 4><63%>
+	Monday, my lord.
+<SPEECH 5><ACT 3><SCENE 4><64%>
+	My lord, I would that Thursday were to-morrow.
+<SPEECH 6><ACT 4><SCENE 1><72%>
+	My father Capulet will have it so;
+	And I am nothing slow to slack his haste.
+<SPEECH 7><ACT 4><SCENE 1><72%>
+	Immoderately she weeps for Tybalt's death,
+	And therefore have I little talk'd of love;
+	For Venus smiles not in a house of tears.
+	Now, sir, her father counts it dangerous
+	That she doth give her sorrow so much sway,
+	And in his wisdom hastes our marriage
+	To stop the inundation of her tears;
+	Which, too much minded by herself alone,
+	May be put from her by society.
+	Now do you know the reason of this haste.
+<SPEECH 8><ACT 4><SCENE 1><72%>
+	Happily met, my lady and my wife!
+<SPEECH 9><ACT 4><SCENE 1><72%>
+	That may be must be, love, on Thursday next.
+<SPEECH 10><ACT 4><SCENE 1><73%>
+	Come you to make confession to this father?
+<SPEECH 11><ACT 4><SCENE 1><73%>
+	Do not deny to him that you love me.
+<SPEECH 12><ACT 4><SCENE 1><73%>
+	So will ye, I am sure, that you love me.
+<SPEECH 13><ACT 4><SCENE 1><73%>
+	Poor soul, thy face is much abus'd with tears.
+<SPEECH 14><ACT 4><SCENE 1><73%>
+	Thou wrong'st it, more than tears, with that report.
+<SPEECH 15><ACT 4><SCENE 1><73%>
+	Thy face is mine, and thou hast slander'd it.
+<SPEECH 16><ACT 4><SCENE 1><73%>
+	God shield, I should disturb devotion!
+	Juliet, on Thursday early will I rouse you:
+	Till then, adieu; and keep this holy kiss.
+<SPEECH 17><ACT 4><SCENE 5><82%>
+	Have I thought long to see this morning's face,
+	And doth it give me such a sight as this?
+<SPEECH 18><ACT 4><SCENE 5><83%>
+	Beguil'd, divorced, wronged, spited, slain!
+	Most detestable death, by thee beguil'd,
+	By cruel cruel thee quite overthrown!
+	O love! O life! not life, but love in death!
+<SPEECH 19><ACT 5><SCENE 3><89%>
+	Give me thy torch, boy: hence, and stand aloof;
+	Yet put it out, for I would not be seen.
+	Under yond yew-trees lay thee all along,
+	Holding thine ear close to the hollow ground:
+	So shall no foot upon the churchyard tread,
+	Being loose, unfirm with digging up of graves,
+	But thou shalt hear it: whistle then to me,
+	As signal that thou hear'st something approach.
+	Give me those flowers. Do as I bid thee; go.
+<SPEECH 20><ACT 5><SCENE 3><90%>
+	Sweet flower, with flowers thy bridal bed I strew,
+	O woe! thy canopy is dust and stones;
+	Which with sweet water nightly I will dew,
+	Or, wanting that, with tears distill'd by moans:
+	The obsequies that I for thee will keep
+	Nightly shall be to strew thy grave and weep.
+	The boy gives warning something doth approach.
+	What cursed foot wanders this way to-night,
+	To cross my obsequies and true love's rite?
+	What! with a torch?—muffle me, night, awhile.
+<SPEECH 21><ACT 5><SCENE 3><91%>
+	This is that banish'd haughty Montague,
+	That murder'd my love's cousin, with which grief
+	It is supposed the fair creature died;
+	And here is come to do some villanous shame
+	To the dead bodies: I will apprehend him.—
+	Stop thy unhallow'd toil, vile Montague,
+	Can vengeance be pursu'd further than death?
+	Condemned villain, I do apprehend thee:
+	Obey, and go with me; for thou must die.
+<SPEECH 22><ACT 5><SCENE 3><92%>
+	I do defy thy conjurations,
+	And apprehend thee for a felon here.
+<SPEECH 23><ACT 5><SCENE 3><92%>
+	</STAGE DIR> O, I am slain!—If thou be merciful,
+	Open the tomb, lay me with Juliet.

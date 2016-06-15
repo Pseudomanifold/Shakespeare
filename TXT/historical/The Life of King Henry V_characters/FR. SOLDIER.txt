@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 4><SCENE 4><70%>
+	Je pense que vous estes le gentilhomme de bonne qualité.
+<SPEECH 2><ACT 4><SCENE 4><70%>
+	O Seigneur Dieu!
+<SPEECH 3><ACT 4><SCENE 4><70%>
+	O, prenez misericorde! ayez pitié de moy!
+<SPEECH 4><ACT 4><SCENE 4><70%>
+	Est-il impossible d'eschapper la force de ton bras?
+<SPEECH 5><ACT 4><SCENE 4><70%>
+	O pardonnez moy!
+<SPEECH 6><ACT 4><SCENE 4><71%>
+	Monsieur le Fer.
+<SPEECH 7><ACT 4><SCENE 4><71%>
+	Que dit-il, monsieur?
+<SPEECH 8><ACT 4><SCENE 4><71%>
+	O! je vous supplie pour l'amour de
+	Dieu, me pardonner! Je suis le gentilhomme de bonne maison: gardez ma vie, et je vous donneray deux cents escus.
+<SPEECH 9><ACT 4><SCENE 4><71%>
+	Petit monsieur, que dit-il?
+<SPEECH 10><ACT 4><SCENE 4><71%>
+	Sur mes genoux, je vous donne mille remerciemens; et je m'estime heureux que je suis tombé entre les mains d'un chevalier, je pense, le plus brave, valiant, et très distingué seigneur d'Angleterre.

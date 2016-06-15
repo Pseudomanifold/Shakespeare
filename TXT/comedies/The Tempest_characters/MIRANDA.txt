@@ -1,0 +1,192 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	All lost! to prayers, to prayers! all lost!
+<SPEECH 2><ACT 1><SCENE 2><4%>
+	If by your art, my dearest father, you have
+	Put the wild waters in this roar, allay them.
+	The sky, it seems, would pour down stinking pitch,
+	But that the sea, mounting to th' welkin's cheek,
+	Dashes the fire out. O! I have suffer'd
+	With those that I saw suffer: a brave vessel,
+	Who had, no doubt, some noble creatures in her,
+	Dash'd all to pieces. O! the cry did knock
+	Against my very heart. Poor souls, they perish'd.
+	Had I been any god of power, I would
+	Have sunk the sea within the earth, or e'er
+	It should the good ship so have swallow'd and
+	The fraughting souls within her.
+<SPEECH 3><ACT 1><SCENE 2><5%>
+	O, woe the day!
+<SPEECH 4><ACT 1><SCENE 2><5%>
+	More to know
+	Did never meddle with my thoughts.
+<SPEECH 5><ACT 1><SCENE 2><6%>
+	You have often
+	Begun to tell me what I am, but stopp'd,
+	And left me to a bootless inquisition,
+	Concluding, 'Stay; not yet.'
+<SPEECH 6><ACT 1><SCENE 2><6%>
+	Certainly, sir, I can.
+<SPEECH 7><ACT 1><SCENE 2><6%>
+	'Tis far off;
+	And rather like a dream than an assurance
+	That my remembrance warrants. Had I not
+	Four or five women once that tended me?
+<SPEECH 8><ACT 1><SCENE 2><7%>
+	But that I do not.
+<SPEECH 9><ACT 1><SCENE 2><7%>
+	Sir, are not you my father?
+<SPEECH 10><ACT 1><SCENE 2><7%>
+	O, the heavens!
+	What foul play had we that we came from thence?
+	Or blessed was't we did?
+<SPEECH 11><ACT 1><SCENE 2><7%>
+	O! my heart bleeds
+	To think o' the teen that I have turn'd you to,
+	Which is from my remembrance. Please you, further.
+<SPEECH 12><ACT 1><SCENE 2><8%>
+	Sir, most heedfully.
+<SPEECH 13><ACT 1><SCENE 2><8%>
+	O, good sir! I do.
+<SPEECH 14><ACT 1><SCENE 2><9%>
+	Your tale, sir, would cure deafness.
+<SPEECH 15><ACT 1><SCENE 2><10%>
+	O the heavens!
+<SPEECH 16><ACT 1><SCENE 2><10%>
+	I should sin
+	To think but nobly of my grandmother:
+	Good wombs have borne bad sons.
+<SPEECH 17><ACT 1><SCENE 2><10%>
+	Alack, for pity!
+	I, not rememb'ring how I cried out then,
+	Will cry it o'er again: it is a hint,
+	That wrings mine eyes to 't.
+<SPEECH 18><ACT 1><SCENE 2><11%>
+	Wherefore did they not
+	That hour destroy us?
+<SPEECH 19><ACT 1><SCENE 2><11%>
+	Alack! what trouble
+	Was I then to you!
+<SPEECH 20><ACT 1><SCENE 2><11%>
+	How came we ashore?
+<SPEECH 21><ACT 1><SCENE 2><12%>
+	Would I might
+	But ever see that man!
+<SPEECH 22><ACT 1><SCENE 2><12%>
+	Heavens thank you for't! And now, I pray you, sir,—
+	For still 'tis beating in my mind,—your reason
+	For raising this sea-storm?
+<SPEECH 23><ACT 1><SCENE 2><19%>
+	</STAGE DIR> The strangeness of your story put
+	Heaviness in me.
+<SPEECH 24><ACT 1><SCENE 2><19%>
+	'Tis a villain, sir,
+	I do not love to look on.
+<SPEECH 25><ACT 1><SCENE 2><24%>
+	What is't? a spirit?
+	Lord, how it looks about! Believe me, sir,
+	It carries a brave form:—but 'tis a spirit.
+<SPEECH 26><ACT 1><SCENE 2><24%>
+	I might call him
+	A thing divine; for nothing natural
+	I ever saw so noble.
+<SPEECH 27><ACT 1><SCENE 2><24%>
+	No wonder, sir;
+	But certainly a maid.
+<SPEECH 28><ACT 1><SCENE 2><25%>
+	Alack, for mercy!
+<SPEECH 29><ACT 1><SCENE 2><25%>
+	</STAGE DIR> Why speaks my father so ungently? This
+	Is the third man that e'er I saw; the first
+	That e'er I sigh'd for: pity move my father
+	To be inclin'd my way!
+<SPEECH 30><ACT 1><SCENE 2><26%>
+	There's nothing ill can dwell in such a temple:
+	If the ill spirit have so fair a house,
+	Good things will strive to dwell with't.
+<SPEECH 31><ACT 1><SCENE 2><27%>
+	O dear father!
+	Make not too rash a trial of him, for
+	He's gentle, and not fearful.
+<SPEECH 32><ACT 1><SCENE 2><27%>
+	Beseech you, father!
+<SPEECH 33><ACT 1><SCENE 2><27%>
+	Sir, have pity:
+	I'll be his surety.
+<SPEECH 34><ACT 1><SCENE 2><27%>
+	My affections
+	Are then most humble; I have no ambition
+	To see a goodlier man.
+<SPEECH 35><ACT 1><SCENE 2><28%>
+	Be of comfort;
+	My father's of a better nature, sir,
+	Than he appears by speech: this is unwonted,
+	Which now came from him.
+<SPEECH 36><ACT 3><SCENE 1><53%>
+	Alas! now, pray you,
+	Work not so hard: I would the lightning had
+	Burnt up those logs that you are enjoin'd to pile!
+	Pray, set it down and rest you: when this burns,
+	'Twill weep for having wearied you. My father
+	Is hard at study; pray now, rest yourself:
+	He's safe for these three hours.
+<SPEECH 37><ACT 3><SCENE 1><53%>
+	If you'll sit down,
+	I'll bear your logs the while. Pray, give me that;
+	I'll carry it to the pile.
+<SPEECH 38><ACT 3><SCENE 1><54%>
+	It would become me
+	As well as it does you: and I should do it
+	With much more ease; for my good will is to it,
+	And yours it is against.
+<SPEECH 39><ACT 3><SCENE 1><54%>
+	You look wearily.
+<SPEECH 40><ACT 3><SCENE 1><54%>
+	Miranda.—O my father!
+	I have broke your hest to say so.
+<SPEECH 41><ACT 3><SCENE 1><55%>
+	I do not know
+	One of my sex; no woman's face remember,
+	Save, from my glass, mine own; nor have I seen
+	More that I may call men than you, good friend,
+	And my dear father: how features are abroad,
+	I am skill-less of; but, by my modesty,—
+	The jewel in my dower,—I would not wish
+	Any companion in the world but you;
+	Nor can imagination form a shape,
+	Besides yourself, to like of. But I prattle
+	Something too wildly and my father's precepts
+	I therein do forget.
+<SPEECH 42><ACT 3><SCENE 1><55%>
+	Do you love me?
+<SPEECH 43><ACT 3><SCENE 1><56%>
+	I am a fool
+	To weep at what I am glad of.
+<SPEECH 44><ACT 3><SCENE 1><56%>
+	At mine unworthiness, that dare not offer
+	What I desire to give; and much less take
+	What I shall die to want. But this is trifling;
+	And all the more it seeks to hide itself
+	The bigger bulk it shows. Hence, bashful cunning!
+	And prompt me, plain and holy innocence!
+	I am your wife, if you will marry me;
+	If not, I'll die your maid: to be your fellow
+	You may deny me; but I'll be your servant
+	Whether you will or no.
+<SPEECH 45><ACT 3><SCENE 1><56%>
+	My husband then?
+<SPEECH 46><ACT 3><SCENE 1><57%>
+	And mine, with my heart in't: and now farewell
+	Till half an hour hence.
+<SPEECH 47><ACT 4><SCENE 1><77%>
+	Never till this day
+	Saw I him touch'd with anger so distemper'd.
+<SPEECH 48><ACT 5><SCENE 1><92%>
+	Sweet lord, you play me false.
+<SPEECH 49><ACT 5><SCENE 1><92%>
+	Yes, for a score of kingdoms you should wrangle,
+	And I would call it fair play.
+<SPEECH 50><ACT 5><SCENE 1><92%>
+	O, wonder!
+	How many goodly creatures are there here!
+	How beauteous mankind is! O brave new world,
+	That has such people in't!

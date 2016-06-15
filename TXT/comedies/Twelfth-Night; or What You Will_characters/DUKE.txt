@@ -1,0 +1,274 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	If music be the food of love, play on;
+	Give me excess of it, that, surfeiting,
+	The appetite may sicken, and so die.
+	That strain again! it had a dying fall:
+	O! it came o'er my ear like the sweet sound
+	That breathes upon a bank of violets,
+	Stealing and giving odour. Enough! no more:
+	'Tis not so sweet now as it was before.
+	O spirit of love! how quick and fresh art thou,
+	That, notwithstanding thy capacity
+	Receiveth as the sea, nought enters there,
+	Of what validity and pitch soe'er,
+	But falls into abatement and low price,
+	Even in a minute: so full of shapes is fancy,
+	That it alone is high fantastical.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	What, Curio?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Why, so I do, the noblest that I have.
+	O! when mine eyes did see Olivia first,
+	Methought she purg'd the air of pestilence.
+	That instant was I turn'd into a hart,
+	And my desires, like fell and cruel hounds,
+	E'er since pursue me.
+	How now! what news from her?
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	O! she that hath a heart of that fine frame
+	To pay this debt of love but to a brother,
+	How will she love, when the rich golden shaft
+	Hath kill'd the flock of all affections else
+	That live in her; when liver, brain, and heart,
+	These sovereign thrones, are all supplied, and fill'd
+	Her sweet perfections with one self king.
+	Away before me to sweet beds of flowers;
+	Love-thoughts lie rich when canopied with bowers.
+<SPEECH 5><ACT 1><SCENE 4><10%>
+	Who saw Cesario? ho!
+<SPEECH 6><ACT 1><SCENE 4><10%>
+	Stand you awhile aloof. Cesario,
+	Thou know'st no less but all; I have unclasp'd
+	To thee the book even of my secret soul:
+	Therefore, good youth, address thy gait unto her,
+	Be not denied access, stand at her doors,
+	And tell them, there thy fixed foot shall grow
+	Till thou have audience.
+<SPEECH 7><ACT 1><SCENE 4><11%>
+	Be clamorous and leap all civil bounds
+	Rather than make unprofited return.
+<SPEECH 8><ACT 1><SCENE 4><11%>
+	O! then unfold the passion of my love;
+	Surprise her with discourse of my dear faith:
+	It shall become thee well to act my woes;
+	She will attend it better in thy youth
+	Than in a nuncio of more grave aspect.
+<SPEECH 9><ACT 1><SCENE 4><11%>
+	Dear lad, believe it;
+	For they shall yet belie thy happy years
+	That say thou art a man: Diana's lip
+	Is not more smooth and rubious; thy small pipe
+	Is as the maiden's organ, shrill and sound;
+	And all is semblative a woman's part.
+	I know thy constellation is right apt
+	For this affair. Some four or five attend him;
+	All, if you will; for I myself am best
+	When least in company. Prosper well in this,
+	And thou shalt live as freely as thy lord,
+	To call his fortunes thine.
+<SPEECH 10><ACT 2><SCENE 4><34%>
+	Give me some music. Now, good morrow, friends:
+	Now, good Cesario, but that piece of song,
+	That old and antique song we heard last night;
+	Methought it did relieve my passion much,
+	More than light airs and recollected terms
+	Of these most brisk and giddy-paced times:
+	Come; but one verse.
+<SPEECH 11><ACT 2><SCENE 4><35%>
+	Who was it?
+<SPEECH 12><ACT 2><SCENE 4><35%>
+	Seek him out, and play the tune the while.
+	Come hither, boy: if ever thou shalt love,
+	In the sweet pangs of it remember me;
+	For such as I am all true lovers are:
+	Unstaid and skittish in all motions else
+	Save in the constant image of the creature
+	That is belov'd. How dost thou like this tune?
+<SPEECH 13><ACT 2><SCENE 4><35%>
+	Thou dost speak masterly.
+	My life upon't, young though thou art, thine eye
+	Hath stay'd upon some favour that it loves;
+	Hath it not, boy?
+<SPEECH 14><ACT 2><SCENE 4><35%>
+	What kind of woman is't?
+<SPEECH 15><ACT 2><SCENE 4><35%>
+	She is not worth thee, then. What years, i' faith?
+<SPEECH 16><ACT 2><SCENE 4><36%>
+	Too old, by heaven. Let still the woman take
+	An elder than herself, so wears she to him,
+	So sways she level in her husband's heart:
+	For, boy, however we do praise ourselves,
+	Our fancies are more giddy and unfirm,
+	More longing, wavering, sooner lost and worn,
+	Than women's are.
+<SPEECH 17><ACT 2><SCENE 4><36%>
+	Then, let thy love be younger than thyself,
+	Or thy affection cannot hold the bent;
+	For women are as roses, whose fair flower
+	Being once display'd, doth fall that very hour.
+<SPEECH 18><ACT 2><SCENE 4><36%>
+	O, fellow! come, the song we had last night.
+	Mark it, Cesario; it is old and plain;
+	The spinsters and the knitters in the sun,
+	And the free maids that weave their thread with bones,
+	Do use to chant it: it is silly sooth,
+	And dallies with the innocence of love,
+	Like the old age.
+<SPEECH 19><ACT 2><SCENE 4><36%>
+	Ay; prithee, sing.
+<SPEECH 20><ACT 2><SCENE 4><37%>
+	There's for thy pains.
+<SPEECH 21><ACT 2><SCENE 4><37%>
+	I'll pay thy pleasure then.
+<SPEECH 22><ACT 2><SCENE 4><37%>
+	Give me now leave to leave thee.
+<SPEECH 23><ACT 2><SCENE 4><37%>
+	Let all the rest give place.
+	Once more, Cesario,
+	Get thee to yond same sovereign cruelty:
+	Tell her, my love, more noble than the world,
+	Prizes not quantity of dirty lands;
+	The parts that fortune hath bestow'd upon her,
+	Tell her, I hold as giddily as fortune;
+	But 'tis that miracle and queen of gems
+	That nature pranks her in attracts my soul.
+<SPEECH 24><ACT 2><SCENE 4><38%>
+	I cannot be so answer'd.
+<SPEECH 25><ACT 2><SCENE 4><38%>
+	There is no woman's sides
+	Can bide the beating of so strong a passion
+	As love doth give my heart; no woman's heart
+	So big, to hold so much; they lack retention.
+	Alas! their love may be call'd appetite,
+	No motion of the liver, but the palate,
+	That suffer surfeit, cloyment, and revolt;
+	But mine is all as hungry as the sea,
+	And can digest as much. Make no compare
+	Between that love a woman can bear me
+	And that I owe Olivia.
+<SPEECH 26><ACT 2><SCENE 4><38%>
+	What dost thou know?
+<SPEECH 27><ACT 2><SCENE 4><38%>
+	And what's her history?
+<SPEECH 28><ACT 2><SCENE 4><39%>
+	But died thy sister of her love, my boy?
+<SPEECH 29><ACT 2><SCENE 4><39%>
+	Ay, that's the theme.
+	To her in haste; give her this jewel; say
+	My love can give no place, bide no denay.
+<SPEECH 30><ACT 5><SCENE 1><84%>
+	Belong you to the Lady Olivia, friends?
+<SPEECH 31><ACT 5><SCENE 1><84%>
+	I know thee well: how dost thou, my good fellow?
+<SPEECH 32><ACT 5><SCENE 1><85%>
+	Just the contrary; the better for thy friends.
+<SPEECH 33><ACT 5><SCENE 1><85%>
+	How can that be?
+<SPEECH 34><ACT 5><SCENE 1><85%>
+	Why, this is excellent.
+<SPEECH 35><ACT 5><SCENE 1><85%>
+	Thou shalt not be the worse for me: there's gold.
+<SPEECH 36><ACT 5><SCENE 1><85%>
+	O, you give me ill counsel.
+<SPEECH 37><ACT 5><SCENE 1><85%>
+	Well, I will be so much a sinner to be a double-dealer: there's another.
+<SPEECH 38><ACT 5><SCENE 1><86%>
+	You can fool no more money out of me at this throw: if you will let your lady know I am here to speak with her, and bring her along with you, it may awake my bounty further.
+<SPEECH 39><ACT 5><SCENE 1><86%>
+	That face of his I do remember well;
+	Yet when I saw it last, it was besmear'd
+	As black as Vulcan in the smoke of war.
+	A bawbling vessel was he captain of,
+	For shallow draught and hulk unprizable;
+	With which such scathful grapple did he make
+	With the most noble bottom of our fleet,
+	That very envy and the tongue of loss
+	Cried fame and honour on him. What's the matter?
+<SPEECH 40><ACT 5><SCENE 1><87%>
+	Notable pirate! thou salt-water thief!
+	What foolish boldness brought thee to their mercies
+	Whom thou, in terms so bloody and so dear,
+	Hast made thine enemies?
+<SPEECH 41><ACT 5><SCENE 1><88%>
+	When came he to this town?
+<SPEECH 42><ACT 5><SCENE 1><88%>
+	Here comes the countess: now heaven walks on earth!
+	But for thee, fellow; fellow, thy words are madness:
+	Three months this youth hath tended upon me;
+	But more of that anon. Take him aside.
+<SPEECH 43><ACT 5><SCENE 1><88%>
+	Gracious Olivia.—
+<SPEECH 44><ACT 5><SCENE 1><88%>
+	Still so cruel?
+<SPEECH 45><ACT 5><SCENE 1><88%>
+	What, to perverseness? you uncivil lady,
+	To whose ingrate and unauspicious altars
+	My soul the faithfull'st offerings hath breath'd out
+	That e'er devotion tender'd! What shall I do?
+<SPEECH 46><ACT 5><SCENE 1><88%>
+	Why should I not, had I the heart to do it,
+	Like to the Egyptian thief at point of death,
+	Kill what I love? a savage jealousy
+	That sometimes savours nobly. But hear me this:
+	Since you to non-regardance cast my faith,
+	And that I partly know the instrument
+	That screws me from my true place in your favour,
+	Live you, the marble-breasted tyrant still;
+	But this your minion, whom I know you love,
+	And whom, by heaven I swear, I tender dearly,
+	Him will I tear out of that cruel eye,
+	Where he sits crowned in his master's spite.
+	Come, boy, with me; my thoughts are ripe in mischief;
+	I'll sacrifice the lamb that I do love,
+	To spite a raven's heart within a dove.
+<SPEECH 47><ACT 5><SCENE 1><90%>
+	</STAGE DIR> Come away.
+<SPEECH 48><ACT 5><SCENE 1><90%>
+	Husband?
+<SPEECH 49><ACT 5><SCENE 1><90%>
+	Her husband, sirrah?
+<SPEECH 50><ACT 5><SCENE 1><90%>
+	O, thou dissembling cub! what wilt thou be
+	When time hath sow'd a grizzle on thy case?
+	Or will not else thy craft so quickly grow
+	That thine own trip shall be thine overthrow?
+	Farewell, and take her; but direct thy feet
+	Where thou and I henceforth may never meet.
+<SPEECH 51><ACT 5><SCENE 1><91%>
+	My gentleman, Cesario?
+<SPEECH 52><ACT 5><SCENE 1><92%>
+	How now, gentleman! how is't with you?
+<SPEECH 53><ACT 5><SCENE 1><93%>
+	One face, one voice, one habit, and two persons;
+	A natural perspective, that is, and is not!
+<SPEECH 54><ACT 5><SCENE 1><94%>
+	Be not amaz'd; right noble is his blood.
+	If this be so, as yet the glass seems true,
+	I shall have share in this most happy wrack.
+	</STAGE DIR> Boy, thou hast said to me a thousand times
+	Thou never shouldst love woman like to me.
+<SPEECH 55><ACT 5><SCENE 1><95%>
+	Give me thy hand;
+	And let me see thee in thy woman's weeds.
+<SPEECH 56><ACT 5><SCENE 1><96%>
+	This savours not much of distraction.
+<SPEECH 57><ACT 5><SCENE 1><97%>
+	Madam, I am most apt to embrace your offer.
+	</STAGE DIR> Your master quits you; and, for your service done him,
+	So much against the mettle of your sex,
+	So far beneath your soft and tender breeding;
+	And since you call'd me master for so long,
+	Here is my hand: you shall from this time be
+	Your master's mistress.
+<SPEECH 58><ACT 5><SCENE 1><97%>
+	Is this the madman?
+<SPEECH 59><ACT 5><SCENE 1><99%>
+	Pursue him, and entreat him to a peace;—
+	He hath not told us of the captain yet:
+	When that is known and golden time convents,
+	A solemn combination shall be made
+	Of our dear souls. Meantime, sweet sister,
+	We will not part from hence. Cesario, come;
+	For so you shall be, while you are a man;
+	But when in other habits you are seen,
+	Orsino's mistress, and his fancy's queen.

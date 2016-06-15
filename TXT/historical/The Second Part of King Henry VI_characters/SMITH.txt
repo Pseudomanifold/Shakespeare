@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 4><SCENE 2><69%>
+	</STAGE DIR> But now of late, not able to travel with her furred pack, she washes bucks here at home.
+<SPEECH 2><ACT 4><SCENE 2><70%>
+	</STAGE DIR> A' must needs, for beggary is valiant.
+<SPEECH 3><ACT 4><SCENE 2><70%>
+	</STAGE DIR> He need not fear the sword, for his coat is of proof.
+<SPEECH 4><ACT 4><SCENE 2><71%>
+	The clerk of Chatham: he can write and read and cast accompt.
+<SPEECH 5><ACT 4><SCENE 2><71%>
+	We took him setting of boys' copies.
+<SPEECH 6><ACT 4><SCENE 2><71%>
+	Has a book in his pocket with red letters in't.
+<SPEECH 7><ACT 4><SCENE 2><73%>
+	Sir, he made a chimney in my father's house, and the bricks are alive at this day to testify it; therefore deny it not.
+<SPEECH 8><ACT 4><SCENE 6><78%>
+	If this fellow be wise, he'll never call you Jack Cade more: I think he hath a very fair warning.
+<SPEECH 9><ACT 4><SCENE 7><78%>
+	</STAGE DIR> Nay, John, it will be stinking law; for his breath stinks with eating toasted cheese.

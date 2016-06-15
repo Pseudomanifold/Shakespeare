@@ -1,0 +1,27 @@
+<SPEECH 1><ACT 4><SCENE 3><76%>
+	You bid me make it orderly and well,
+	According to the fashion and the time.
+<SPEECH 2><ACT 4><SCENE 3><76%>
+	She says your worship means to make a puppet of her.
+<SPEECH 3><ACT 4><SCENE 3><76%>
+	Your worship is deceiv'd: the gown is made
+	Just as my master had direction.
+	Grumio gave order how it should be done.
+<SPEECH 4><ACT 4><SCENE 3><77%>
+	But how did you desire it should be made?
+<SPEECH 5><ACT 4><SCENE 3><77%>
+	But did you not request to have it cut?
+<SPEECH 6><ACT 4><SCENE 3><77%>
+	I have.
+<SPEECH 7><ACT 4><SCENE 3><77%>
+	Why, here is the note of the fashion to testify.
+<SPEECH 8><ACT 4><SCENE 3><77%>
+	Imprimis. A loose-bodied gown.
+<SPEECH 9><ACT 4><SCENE 3><77%>
+	With a small compassed cape.
+<SPEECH 10><ACT 4><SCENE 3><77%>
+	With a trunk sleeve.
+<SPEECH 11><ACT 4><SCENE 3><77%>
+	The sleeves curiously cut.
+<SPEECH 12><ACT 4><SCENE 3><78%>
+	This is true that I say: an I had thee in place where thou shouldst know it.

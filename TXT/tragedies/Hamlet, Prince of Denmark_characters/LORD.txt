@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 5><SCENE 2><94%>
+	My lord, his majesty commended him to you by young Osric, who brings back to him, that you attend him in the hall; he sends to know if your pleasure hold to play with Laertes, or that you will take longer time.
+<SPEECH 2><ACT 5><SCENE 2><94%>
+	The king, and queen, and all are coming down.
+<SPEECH 3><ACT 5><SCENE 2><94%>
+	The queen desires you to use some gentle entertainment to Laertes before you fall to play.

@@ -1,0 +1,42 @@
+<SPEECH 1><ACT 3><SCENE 2><56%>
+	I will hear Cassius; and compare their reasons,
+	When severally we hear them rendered.
+<SPEECH 2><ACT 3><SCENE 2><57%>
+	Give him a statue with his ancestors.
+<SPEECH 3><ACT 3><SCENE 2><58%>
+	Peace! silence! Brutus speaks.
+<SPEECH 4><ACT 3><SCENE 2><58%>
+	Peace! let us hear what Antony can say.
+<SPEECH 5><ACT 3><SCENE 2><60%>
+	If thou consider rightly of the matter,
+	Cæsar has had great wrong.
+<SPEECH 6><ACT 3><SCENE 2><60%>
+	Poor soul! his eyes are red as fire with weeping.
+<SPEECH 7><ACT 3><SCENE 2><62%>
+	They were villains, murderers. The will! read the will.
+<SPEECH 8><ACT 3><SCENE 2><62%>
+	Descend.
+<SPEECH 9><ACT 3><SCENE 2><62%>
+	Room for Antony; most noble Antony.
+<SPEECH 10><ACT 3><SCENE 2><63%>
+	O noble Cæsar!
+<SPEECH 11><ACT 3><SCENE 2><63%>
+	We will be revenged.
+<SPEECH 12><ACT 3><SCENE 2><64%>
+	We'll hear him, we'll follow him, we'll die with him.
+<SPEECH 13><ACT 3><SCENE 2><65%>
+	Most noble Cæsar! we'll revenge his death.
+<SPEECH 14><ACT 3><SCENE 2><65%>
+	Go fetch fire.
+<SPEECH 15><ACT 3><SCENE 3><66%>
+	Whither are you going?
+<SPEECH 16><ACT 3><SCENE 3><66%>
+	Answer every man directly.
+<SPEECH 17><ACT 3><SCENE 3><67%>
+	That's as much as to say, they are fools that marry; you'll bear me a bang for that, I fear. Proceed; directly.
+<SPEECH 18><ACT 3><SCENE 3><67%>
+	That matter is answered directly.
+<SPEECH 19><ACT 3><SCENE 3><67%>
+	Tear him to pieces; he's a conspirator.
+<SPEECH 20><ACT 3><SCENE 3><67%>
+	It is no matter, his name's Cinna; pluck but his name out of his heart, and turn him going.

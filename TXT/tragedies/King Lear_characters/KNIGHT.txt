@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 1><SCENE 4><17%>
+	He says, my lord, your daughter is not well.
+<SPEECH 2><ACT 1><SCENE 4><17%>
+	Sir, he answered me in the roundest manner, he would not.
+<SPEECH 3><ACT 1><SCENE 4><17%>
+	My lord, I know not what the matter is; but, to my judgment, your highness is not entertained with that ceremonious affection as you were wont; there's a great abatement of kindness appears as well in the general dependants as in the duke himself also and your daughter.
+<SPEECH 4><ACT 1><SCENE 4><18%>
+	I beseech you, pardon me, my lord, if I be mistaken; for my duty cannot be silent when I think your highness wronged.
+<SPEECH 5><ACT 1><SCENE 4><18%>
+	Since my young lady's going into France, sir, the fool hath much pined him away.

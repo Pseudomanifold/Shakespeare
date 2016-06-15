@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 5><SCENE 1><93%>
+	And if words will not, then our weapons shall.
+<SPEECH 2><ACT 5><SCENE 1><94%>
+	Oft have I seen a hot o'erweening cur
+	Run back and bite, because he was withheld;
+	Who, being suffer'd with the bear's fell paw,
+	Hath clapp'd his tail between his legs, and cried:
+	And such a piece of service will you do,
+	If you oppose yourselves to match Lord Warwick.
+<SPEECH 3><ACT 5><SCENE 1><96%>
+	Fie! charity! for shame! speak not in spite,
+	For you shall sup with Jesu Christ to-night.
+<SPEECH 4><ACT 5><SCENE 1><96%>
+	If not in heaven, you'll surely sup in hell.
+<SPEECH 5><ACT 5><SCENE 2><98%>
+	So, lie thou there;
+	For underneath an alehouse' paltry sign,
+	The Castle in Saint Alban's, Somerset
+	Hath made the wizard famous in his death.
+	Sword, hold thy temper; heart, be wrathful still:
+	Priests pray for enemies, but princes kill.
+<SPEECH 6><ACT 5><SCENE 3><99%>
+	My noble father,
+	Three times to-day I holp him to his horse,
+	Three times bestrid him; thrice I led him off,
+	Persuaded him from any further act:
+	But still, where danger was, still there I met him;
+	And like rich hangings in a homely house,
+	So was his will in his old feeble body.
+	But, noble as he is, look where he comes.

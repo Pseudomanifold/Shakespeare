@@ -1,0 +1,393 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	Good signiors both, when shall we laugh? say when?
+	You grow exceeding strange: must it be so?
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	I will not fail you.
+<SPEECH 3><ACT 1><SCENE 1><5%>
+	Gratiano speaks an infinite deal of nothing, more than any man in all Venice. His reasons are as two grains of wheat hid in two bushels of chaff: you shall seek all day ere you find them, and, when you have them, they are not worth the search.
+<SPEECH 4><ACT 1><SCENE 1><5%>
+	'Tis not unknown to you, Antonio,
+	How much I have disabled mine estate,
+	By something showing a more swelling port
+	Than my faint means would grant continuance:
+	Nor do I now make moan to be abridg'd
+	From such a noble rate; but my chief care
+	Is, to come fairly off from the great debts
+	Wherein my time, something too prodigal,
+	Hath left me gag'd. To you, Antonio,
+	I owe the most, in money and in love;
+	And from your love I have a warranty
+	To unburthen all my plots and purposes
+	How to get clear of all the debts I owe.
+<SPEECH 5><ACT 1><SCENE 1><6%>
+	In my school-days, when I had lost one shaft,
+	I shot his fellow of the self-same flight
+	The self-same way with more advised watch,
+	To find the other forth, and by adventuring both,
+	I oft found both. I urge this childhood proof,
+	Because what follows is pure innocence.
+	I owe you much, and, like a wilful youth,
+	That which I owe is lost; but if you please
+	To shoot another arrow that self way
+	Which you did shoot the first, I do not doubt,
+	As I will watch the aim, or to find both,
+	Or bring your latter hazard back again,
+	And thankfully rest debtor for the first.
+<SPEECH 6><ACT 1><SCENE 1><6%>
+	In Belmont is a lady richly left,
+	And she is fair, and, fairer than that word,
+	Of wondrous virtues: sometimes from her eyes
+	I did receive fair speechless messages:
+	Her name is Portia; nothing undervalu'd
+	To Cato's daughter, Brutus' Portia:
+	Nor is the wide world ignorant of her worth,
+	For the four winds blow in from every coast
+	Renowned suitors; and her sunny locks
+	Hang on her temples like a golden fleece;
+	Which makes her seat of Belmont Colchos' strond,
+	And many Jasons come in quest of her.
+	O my Antonio! had I but the means
+	To hold a rival place with one of them,
+	I have a mind presages me such thrift,
+	That I should questionless be fortunate.
+<SPEECH 7><ACT 1><SCENE 3><12%>
+	Ay, sir, for three months.
+<SPEECH 8><ACT 1><SCENE 3><12%>
+	For the which, as I told you, Antonio shall be bound.
+<SPEECH 9><ACT 1><SCENE 3><13%>
+	May you stead me? Will you pleasure me? Shall I know your answer?
+<SPEECH 10><ACT 1><SCENE 3><13%>
+	Your answer to that.
+<SPEECH 11><ACT 1><SCENE 3><13%>
+	Have you heard any imputation to the contrary?
+<SPEECH 12><ACT 1><SCENE 3><13%>
+	Be assured you may.
+<SPEECH 13><ACT 1><SCENE 3><13%>
+	If it please you to dine with us.
+<SPEECH 14><ACT 1><SCENE 3><14%>
+	This is Signior Antonio.
+<SPEECH 15><ACT 1><SCENE 3><14%>
+	Shylock, do you hear?
+<SPEECH 16><ACT 1><SCENE 3><18%>
+	You shall not seal to such a bond for me:
+	I'll rather dwell in my necessity.
+<SPEECH 17><ACT 1><SCENE 3><19%>
+	I like not fair terms and a villain's mind.
+<SPEECH 18><ACT 2><SCENE 2><25%>
+	You may do so; but let it be so hasted that supper be ready at the very furthest by five of the clock. See these letters delivered; put the liveries to making; and desire Gratiano to come anon to my lodging.
+<SPEECH 19><ACT 2><SCENE 2><25%>
+	Gramercy! wouldst thou aught with me?
+<SPEECH 20><ACT 2><SCENE 2><26%>
+	One speak for both. What would you?
+<SPEECH 21><ACT 2><SCENE 2><26%>
+	I know thee well; thou hast obtain'd thy suit:
+	Shylock thy master spoke with me this day,
+	And hath preferr'd thee, if it be preferment
+	To leave a rich Jew's service, to become
+	The follower of so poor a gentleman.
+<SPEECH 22><ACT 2><SCENE 2><27%>
+	Thou speak'st it well. Go, father, with thy son.
+	Take leave of thy old master, and inquire
+	My lodging out. <STAGE DIR>
+	</STAGE DIR> Give him a livery
+	More guarded than his fellows': see it done.
+<SPEECH 23><ACT 2><SCENE 2><27%>
+	I pray thee, good Leonardo, think on this:
+	These things being bought, and orderly bestow'd,
+	Return in haste, for I do feast to-night
+	My best-esteem'd acquaintance: hie thee, go.
+<SPEECH 24><ACT 2><SCENE 2><28%>
+	Gratiano!
+<SPEECH 25><ACT 2><SCENE 2><28%>
+	You have obtain'd it.
+<SPEECH 26><ACT 2><SCENE 2><28%>
+	Why, then you must. But hear thee, Gratiano;
+	Thou art too wild, too rude and bold of voice;
+	Parts that become thee happily enough,
+	And in such eyes as ours appear not faults;
+	But where thou art not known, why, there they show
+	Something too liberal. Pray thee, take pain
+	To allay with some cold drops of modesty
+	Thy skipping spirit, lest, through thy wild behaviour,
+	I be misconstru'd in the place I go to,
+	And lose my hopes.
+<SPEECH 27><ACT 2><SCENE 2><28%>
+	Well, we shall see your bearing.
+<SPEECH 28><ACT 2><SCENE 2><29%>
+	No, that were pity:
+	I would entreat you rather to put on
+	Your boldest suit of mirth, for we have friends
+	That purpose merriment. But fare you well:
+	I have some business.
+<SPEECH 29><ACT 3><SCENE 2><51%>
+	Let me choose;
+	For as I am, I live upon the rack.
+<SPEECH 30><ACT 3><SCENE 2><51%>
+	None but that ugly treason of mistrust,
+	Which makes me fear th' enjoying of my love:
+	There may as well be amity and life
+	'Tween snow and fire, as treason and my love.
+<SPEECH 31><ACT 3><SCENE 2><51%>
+	Promise me life, and I'll confess the truth.
+<SPEECH 32><ACT 3><SCENE 2><51%>
+	'Confess' and 'love'
+	Had been the very sum of my confession:
+	O happy torment, when my torturer
+	Doth teach me answers for deliverance!
+	But let me to my fortune and the caskets.
+<SPEECH 33><ACT 3><SCENE 2><53%>
+	So may the outward shows be least themselves:
+	The world is still deceiv'd with ornament.
+	In law, what plea so tainted and corrupt
+	But, being season'd with a gracious voice,
+	Obscures the show of evil? In religion,
+	What damned error, but some sober brow
+	Will bless it and approve it with a text,
+	Hiding the grossness with fair ornament?
+	There is no vice so simple but assumes
+	Some mark of virtue on his outward parts.
+	How many cowards, whose hearts are all as false
+	As stairs of sand, wear yet upon their chins
+	The beards of Hercules and frowning Mars,
+	Who, inward search'd, have livers white as milk;
+	And these assume but valour's excrement
+	To render them redoubted! Look on beauty,
+	And you shall see 'tis purchas'd by the weight;
+	Which therein works a miracle in nature,
+	Making them lightest that wear most of it:
+	So are those crisped snaky golden locks
+	Which make such wanton gambols with the wind,
+	Upon supposed fairness, often known
+	To be the dowry of a second head,
+	The skull that bred them, in the sepulchre.
+	Thus ornament is but the guiled shore
+	To a most dangerous sea; the beauteous scarf
+	Veiling an Indian beauty; in a word,
+	The seeming truth which cunning times put on
+	To entrap the wisest. Therefore, thou gaudy gold,
+	Hard food for Midas, I will none of thee;
+	Nor none of thee, thou pale and common drudge
+	'Tween man and man: but thou, thou meagre lead,
+	Which rather threat'nest than dost promise aught,
+	Thy plainness moves me more than eloquence,
+	And here choose I: joy be the consequence!
+<SPEECH 34><ACT 3><SCENE 2><54%>
+	What find I here?
+	Fair Portia's counterfeit! What demi-god
+	Hath come so near creation? Move these eyes?
+	Or whether, riding on the balls of mine,
+	Seem they in motion? Here are sever'd lips,
+	Parted with sugar breath; so sweet a bar
+	Should sunder such sweet friends. Here, in her hairs
+	The painter plays the spider, and hath woven
+	A golden mesh to entrap the hearts of men
+	Faster than gnats in cobwebs: but her eyes!—
+	How could he see to do them? having made one,
+	Methinks it should have power to steal both his
+	And leave itself unfurnish'd: yet look, how far
+	The substance of my praise doth wrong this shadow
+	In underprizing it, so far this shadow
+	Doth limp behind the substance. Here's the scroll,
+	The continent and summary of my fortune.
+	You that choose not by the view,
+	Chance as fair and choose as true!
+	Since this fortune falls to you,
+	Be content and seek no new.
+	If you be well pleas'd with this
+	And hold your fortune for your bliss,
+	Turn you where your lady is
+	And claim her with a loving kiss.
+	A gentle scroll. Fair lady, by your leave;
+	I come by note, to give and to receive.
+	Like one of two contending in a prize,
+	That thinks he hath done well in people's eyes,
+	Hearing applause and universal shout,
+	Giddy in spirit, still gazing in a doubt
+	Whether those peals of praise be his or no;
+	So, thrice-fair lady, stand I, even so,
+	As doubtful whether what I see be true,
+	Until confirm'd, sign'd, ratified by you.
+<SPEECH 35><ACT 3><SCENE 2><56%>
+	Madam, you have bereft me of all words,
+	Only my blood speaks to you in my veins;
+	And there is such confusion in my powers,
+	As, after some oration fairly spoke
+	By a beloved prince, there doth appear
+	Among the buzzing pleased multitude;
+	Where every something, being blent together,
+	Turns to a wild of nothing, save of joy,
+	Express'd and not express'd. But when this ring
+	Parts from this finger, then parts life from hence:
+	O! then be bold to say Bassanio's dead.
+<SPEECH 36><ACT 3><SCENE 2><57%>
+	With all my heart, so thou canst get a wife.
+<SPEECH 37><ACT 3><SCENE 2><58%>
+	And do you, Gratiano, mean good faith?
+<SPEECH 38><ACT 3><SCENE 2><58%>
+	Our feast shall be much honour'd in your marriage.
+<SPEECH 39><ACT 3><SCENE 2><58%>
+	Lorenzo, and Salanio, welcome hither,
+	If that the youth of my new interest here
+	Have power to bid you welcome. By your leave,
+	I bid my very friends and countrymen,
+	Sweet Portia, welcome.
+<SPEECH 40><ACT 3><SCENE 2><58%>
+	Ere I ope his letter,
+	I pray you, tell me how my good friend doth.
+<SPEECH 41><ACT 3><SCENE 2><59%>
+	O sweet Portia!
+	Here are a few of the unpleasant'st words
+	That ever blotted paper. Gentle lady,
+	When I did first impart my love to you,
+	I freely told you all the wealth I had
+	Ran in my veins, I was a gentleman:
+	And then I told you true; and yet, dear lady,
+	Rating myself at nothing, you shall see
+	How much I was a braggart. When I told you
+	My state was nothing, I should then have told you
+	That I was worse than nothing; for, indeed,
+	I have engag'd myself to a dear friend,
+	Engag'd my friend to his mere enemy,
+	To feed my means. Here is a letter, lady;
+	The paper as the body of my friend,
+	And every word in it a gaping wound,
+	Issuing life-blood. But is it true, Salanio?
+	Hath all his ventures fail'd? What, not one hit?
+	From Tripolis, from Mexico, and England,
+	From Lisbon, Barbary, and India?
+	And not one vessel 'scape the dreadful touch
+	Of merchant-marring rocks?
+<SPEECH 42><ACT 3><SCENE 2><61%>
+	The dearest friend to me, the kindest man,
+	The best-condition'd and unwearied spirit
+	In doing courtesies, and one in whom
+	The ancient Roman honour more appears
+	Than any that draws breath in Italy.
+<SPEECH 43><ACT 3><SCENE 2><61%>
+	For me, three thousand ducats.
+<SPEECH 44><ACT 3><SCENE 2><61%>
+	Sweet Bassanio, my ships have all miscarried, my creditors grow cruel, my estate is very low, my bond to the Jew is forfeit; and since, in paying it, it is impossible I should live, all debts are cleared between you and I, if I might but see you at my death. Notwithstanding, use your pleasure: if your love do not persuade you to come, let not my letter.
+<SPEECH 45><ACT 3><SCENE 2><62%>
+	Since I have your good leave to go away,
+	I will make haste; but, till I come again,
+	No bed shall e'er be guilty of my stay,
+	Nor rest be interposer 'twixt us twain.
+<SPEECH 46><ACT 4><SCENE 1><72%>
+	This is no answer, thou unfeeling man,
+	To excuse the current of thy cruelty.
+<SPEECH 47><ACT 4><SCENE 1><72%>
+	Do all men kill the things they do not love?
+<SPEECH 48><ACT 4><SCENE 1><72%>
+	Every offence is not a hate at first.
+<SPEECH 49><ACT 4><SCENE 1><73%>
+	For thy three thousand ducats here is six.
+<SPEECH 50><ACT 4><SCENE 1><74%>
+	Good cheer, Antonio! What, man, courage yet!
+	The Jew shall have my flesh, blood, bones, and all,
+	Ere thou shalt lose for me one drop of blood.
+<SPEECH 51><ACT 4><SCENE 1><75%>
+	Why dost thou whet thy knife so earnestly?
+<SPEECH 52><ACT 4><SCENE 1><78%>
+	Yes, here I tender it for him in the court;
+	Yea, twice the sum: if that will not suffice,
+	I will be bound to pay it ten times o'er,
+	On forfeit of my hands, my head, my heart.
+	If this will not suffice, it must appear
+	That malice bears down truth. And, I beseech you,
+	Wrest once the law to your authority:
+	To do a great right, do a little wrong,
+	And curb this cruel devil of his will.
+<SPEECH 53><ACT 4><SCENE 1><81%>
+	Antonio, I am married to a wife
+	Which is as dear to me as life itself;
+	But life itself, my wife, and all the world,
+	Are not with me esteem'd above thy life:
+	I would lose all, ay, sacrifice them all,
+	Here to this devil, to deliver you.
+<SPEECH 54><ACT 4><SCENE 1><82%>
+	Here is the money.
+<SPEECH 55><ACT 4><SCENE 1><83%>
+	I have it ready for thee; here it is.
+<SPEECH 56><ACT 4><SCENE 1><85%>
+	Most worthy gentleman, I and my friend
+	Have by your wisdom been this day acquitted
+	Of grievous penalties; in lieu whereof,
+	Three thousand ducats, due unto the Jew,
+	We freely cope your courteous pains withal.
+<SPEECH 57><ACT 4><SCENE 1><86%>
+	Dear sir, of force I must attempt you further:
+	Take some remembrance of us, as a tribute,
+	Not as a fee. Grant me two things, I pray you,
+	Not to deny me, and to pardon me.
+<SPEECH 58><ACT 4><SCENE 1><86%>
+	This ring, good sir? alas! it is a trifle;
+	I will not shame myself to give you this.
+<SPEECH 59><ACT 4><SCENE 1><86%>
+	There's more depends on this than on the value.
+	The dearest ring in Venice will I give you,
+	And find it out by proclamation:
+	Only for this, I pray you, pardon me.
+<SPEECH 60><ACT 4><SCENE 1><87%>
+	Good sir, this ring was given me by my wife;
+	And, when she put it on, she made me vow
+	That I should never sell nor give nor lose it.
+<SPEECH 61><ACT 4><SCENE 1><87%>
+	Go, Gratiano; run and overtake him;
+	Give him the ring, and bring him, if thou canst,
+	Unto Antonio's house. Away! make haste.
+	Come, you and I will thither presently,
+	And in the morning early will we both
+	Fly toward Belmont. Come, Antonio.
+<SPEECH 62><ACT 5><SCENE 1><93%>
+	We should hold day with the Antipodes,
+	If you would walk in absence of the sun.
+<SPEECH 63><ACT 5><SCENE 1><93%>
+	I thank you, madam. Give welcome to my friend:
+	This is the man, this is Antonio,
+	To whom I am so infinitely bound.
+<SPEECH 64><ACT 5><SCENE 1><95%>
+	</STAGE DIR> Why, I were best to cut my left hand off,
+	And swear I lost the ring defending it.
+<SPEECH 65><ACT 5><SCENE 1><96%>
+	If I could add a lie unto a fault,
+	I would deny it; but you see my finger
+	Hath not the ring upon it; it is gone.
+<SPEECH 66><ACT 5><SCENE 1><96%>
+	Sweet Portia,
+	If you did know to whom I gave the ring,
+	If you did know for whom I gave the ring,
+	And would conceive for what I gave the ring,
+	And how unwillingly I left the ring,
+	When naught would be accepted but the ring,
+	You would abate the strength of your displeasure.
+<SPEECH 67><ACT 5><SCENE 1><96%>
+	No, by my honour, madam, by my soul,
+	No woman had it; but a civil doctor,
+	Which did refuse three thousand ducats of me,
+	And begg'd the ring, the which I did deny him,
+	And suffer'd him to go displeas'd away;
+	Even he that did uphold the very life
+	Of my dear friend. What should I say, sweet lady?
+	I was enforc'd to send it after him;
+	I was beset with shame and courtesy;
+	My honour would not let ingratitude
+	So much besmear it. Pardon me, good lady,
+	For, by these blessed candles of the night,
+	Had you been there, I think you would have begg'd
+	The ring of me to give the worthy doctor.
+<SPEECH 68><ACT 5><SCENE 1><97%>
+	Portia, forgive me this enforced wrong;
+	And in the hearing of these many friends,
+	I swear to thee, even by thine own fair eyes,
+	Wherein I see myself,—
+<SPEECH 69><ACT 5><SCENE 1><98%>
+	Nay, but hear me:
+	Pardon this fault, and by my soul I swear
+	I never more will break an oath with thee.
+<SPEECH 70><ACT 5><SCENE 1><98%>
+	By heaven! it is the same I gave the doctor!
+<SPEECH 71><ACT 5><SCENE 1><99%>
+	Were you the doctor and I knew you not?
+<SPEECH 72><ACT 5><SCENE 1><99%>
+	Sweet doctor, you shall be my bedfellow:
+	When I am absent, then, lie with my wife.

@@ -1,0 +1,256 @@
+<SPEECH 1><ACT 2><SCENE 1><19%>
+	Ill met by moonlight, proud Titania.
+<SPEECH 2><ACT 2><SCENE 1><20%>
+	Tarry, rash wanton! am not I thy lord?
+<SPEECH 3><ACT 2><SCENE 1><20%>
+	How canst thou thus for shame, Titania,
+	Glance at my credit with Hippolyta,
+	Knowing I know thy love to Theseus?
+	Didst thou not lead him through the glimmering night
+	From Perigouna, whom he ravished?
+	And make him with fair Ægle break his faith,
+	With Ariadne, and Antiopa?
+<SPEECH 4><ACT 2><SCENE 1><22%>
+	Do you amend it then; it lies in you.
+	Why should Titania cross her Oberon?
+	I do but beg a little changeling boy,
+	To be my henchman.
+<SPEECH 5><ACT 2><SCENE 1><23%>
+	How long within this wood intend you stay?
+<SPEECH 6><ACT 2><SCENE 1><23%>
+	Give me that boy, and I will go with thee.
+<SPEECH 7><ACT 2><SCENE 1><23%>
+	Well, go thy way: thou shalt not from this grove
+	Till I torment thee for this injury.
+	My gentle Puck, come hither. Thou remember'st
+	Since once I sat upon a promontory,
+	And heard a mermaid on a dolphin's back
+	Uttering such dulcet and harmonious breath,
+	That the rude sea grew civil at her song,
+	And certain stars shot madly from their spheres
+	To hear the sea-maid's music.
+<SPEECH 8><ACT 2><SCENE 1><24%>
+	That very time I saw, but thou couldst not,
+	Flying between the cold moon and the earth,
+	Cupid all arm'd: a certain aim he took
+	At a fair vestal throned by the west,
+	And loos'd his love-shaft smartly from his bow,
+	As it should pierce a hundred thousand hearts;
+	But I might see young Cupid's fiery shaft
+	Quench'd in the chaste beams of the wat'ry moon,
+	And the imperial votaress passed on,
+	In maiden meditation, fancy-free.
+	Yet mark'd I where the bolt of Cupid fell:
+	It fell upon a little western flower,
+	Before milk-white, now purple with love's wound,
+	And maidens call it, Love-in-idleness.
+	Fetch me that flower; the herb I show'd thee once:
+	The juice of it on sleeping eyelids laid
+	Will make or man or woman madly dote
+	Upon the next live creature that it sees.
+	Fetch me this herb; and be thou here again
+	Ere the leviathan can swim a league.
+<SPEECH 9><ACT 2><SCENE 1><25%>
+	Having once this juice
+	I'll watch Titania when she is asleep,
+	And drop the liquor of it in her eyes:
+	The next thing then she waking looks upon,
+	Be it on lion, bear, or wolf, or bull,
+	On meddling monkey, or on busy ape,
+	She shall pursue it with the soul of love:
+	And ere I take this charm off from her sight,
+	As I can take it with another herb,
+	I'll make her render up her page to me.
+	But who comes here? I am invisible,
+	And I will overhear their conference.
+<SPEECH 10><ACT 2><SCENE 1><28%>
+	Fare thee well, nymph: ere he do leave this grove,
+	Thou shalt fly him, and he shall seek thy love.
+	Hast thou the flower there? Welcome, wanderer.
+<SPEECH 11><ACT 2><SCENE 1><28%>
+	I pray thee, give it me.
+	I know a bank whereon the wild thyme blows,
+	Where oxlips and the nodding violet grows
+	Quite over-canopied with luscious woodbine,
+	With sweet musk-roses, and with eglantine:
+	There sleeps Titania some time of the night,
+	Lull'd in these flowers with dances and delight;
+	And there the snake throws her enamell'd skin,
+	Weed wide enough to wrap a fairy in:
+	And with the juice of this I'll streak her eyes,
+	And make her full of hateful fantasies.
+	Take thou some of it, and seek through this grove:
+	A sweet Athenian lady is in love
+	With a disdainful youth: anoint his eyes;
+	But do it when the next thing he espies
+	May be the lady. Thou shalt know the man
+	By the Athenian garments he hath on.
+	Effect it with some care, that he may prove
+	More fond on her than she upon her love.
+	And look thou meet me ere the first cock crow.
+<SPEECH 12><ACT 2><SCENE 2><30%>
+	What thou seest when thou dost wake,
+	Do it for thy true-love take;
+	Love and languish for his sake:
+	Be it ounce, or cat, or bear,
+	Pard, or boar with bristled hair,
+	In thy eye that shall appear
+	When thou wak'st, it is thy dear.
+	Wake when some vile thing is near.
+<SPEECH 13><ACT 3><SCENE 2><46%>
+	I wonder if Titania be awak'd;
+	Then, what it was that next came in her eye,
+	Which she must dote on in extremity.
+	Here comes my messenger.
+	How now, mad spirit!
+	What night-rule now about this haunted grove?
+<SPEECH 14><ACT 3><SCENE 2><47%>
+	This falls out better than I could devise.
+	But hast thou yet latch'd the Athenian's eyes
+	With the love-juice, as I did bid thee do?
+<SPEECH 15><ACT 3><SCENE 2><48%>
+	Stand close: this is the same Athenian.
+<SPEECH 16><ACT 3><SCENE 2><50%>
+	What hast thou done? thou hast mistaken quite,
+	And laid the love-juice on some true-love's sight:
+	Of thy misprision must perforce ensue
+	Some true-love turn'd, and not a false turn'd true.
+<SPEECH 17><ACT 3><SCENE 2><50%>
+	About the wood go swifter than the wind,
+	And Helena of Athens look thou find:
+	All fancy-sick she is, and pale of cheer
+	With sighs of love, that cost the fresh blood dear.
+	By some illusion see thou bring her here:
+	I'll charm his eyes against she do appear.
+<SPEECH 18><ACT 3><SCENE 2><51%>
+	Flower of this purple dye,
+	Hit with Cupid's archery,
+	Sink in apple of his eye.
+	When his love he doth espy,
+	Let her shine as gloriously
+	As the Venus of the sky.
+	When thou wak'st, if she be by,
+	Beg of her for remedy.
+<SPEECH 19><ACT 3><SCENE 2><51%>
+	Stand aside: the noise they make
+	Will cause Demetrius to awake.
+<SPEECH 20><ACT 3><SCENE 2><62%>
+	This is thy negligence: still thou mistak'st,
+	Or else commit'st thy knaveries wilfully.
+<SPEECH 21><ACT 3><SCENE 2><62%>
+	Thou see'st these lovers seek a place to fight:
+	Hie therefore, Robin, overcast the night;
+	The starry welking cover thou anon
+	With drooping fog as black as Acheron;
+	And lead these testy rivals so astray,
+	As one come not within another's way.
+	Like to Lysander sometime frame thy tongue,
+	Then stir Demetrius up with bitter wrong;
+	And sometime rail thou like Demetrius;
+	And from each other look thou lead them thus,
+	Till o'er their brows death-counterfeiting sleep
+	With leaden legs and batty wings doth creep:
+	Then crush this herb into Lysander's eye;
+	Whose liquor hath this virtuous property,
+	To take from thence all error with his might,
+	And make his eyeballs roll with wonted sight.
+	When they next wake, all this derision
+	Shall seem a dream and fruitless vision;
+	And back to Athens shall the lovers wend,
+	With league whose date till death shall never end.
+	Whiles I in this affair do thee employ,
+	I'll to my queen and beg her Indian boy;
+	And then I will her charmed eye release
+	From monster's view, and all things shall be peace.
+<SPEECH 22><ACT 3><SCENE 2><64%>
+	But we are spirits of another sort.
+	I with the morning's love have oft made sport;
+	And, like a forester, the groves may tread,
+	Even till the eastern gate, all fiery-red,
+	Opening on Neptune with fair blessed beams,
+	Turns into yellow gold his salt green-streams.
+	But, notwithstanding, haste; make no delay:
+	We may effect this business yet ere day.
+<SPEECH 23><ACT 4><SCENE 1><70%>
+	</STAGE DIR> Welcome, good Robin. See'st thou this sweet sight?
+	Her dotage now I do begin to pity:
+	For, meeting her of late behind the wood,
+	Seeking sweet favours for this hateful fool,
+	I did upbraid her and fall out with her;
+	For she his hairy temples then had rounded
+	With coronet of fresh and fragrant flowers;
+	And that same dew, which sometime on the buds
+	Was wont to swell like round and orient pearls,
+	Stood now within the pretty flowerets' eyes
+	Like tears that did their own disgrace bewail.
+	When I had at my pleasure taunted her,
+	And she in mild terms begg'd my patience,
+	I then did ask of her her changeling child;
+	Which straight she gave me, and her fairy sent
+	To bear him to my bower in fairy land.
+	And now I have the boy, I will undo
+	This hateful imperfection of her eyes:
+	And, gentle Puck, take this transformed scalp
+	From off the head of this Athenian swain,
+	That he, awaking when the other do,
+	May all to Athens back again repair,
+	And think no more of this night's accidents
+	But as the fierce vexation of a dream.
+	But first I will release the fairy queen.
+	Be as thou wast wont to be;
+	See as thou wast wont to see:
+	Dian's bud o'er Cupid's flower
+	Hath such force and blessed power.
+	Now, my Titania; wake you, my sweet queen.
+<SPEECH 24><ACT 4><SCENE 1><72%>
+	There lies your love.
+<SPEECH 25><ACT 4><SCENE 1><72%>
+	Silence, awhile. Robin, take off this head.
+	Titania, music call; and strike more dead
+	Than common sleep of all these five the sense.
+<SPEECH 26><ACT 4><SCENE 1><72%>
+	Sound, music! <STAGE DIR>
+	</STAGE DIR> Come, my queen, take hands with me,
+	And rock the ground whereon these sleepers be.
+	Now thou and I are new in amity,
+	And will to-morrow midnight solemnly
+	Dance in Duke Theseus' house triumphantly,
+	And bless it to all fair prosperity.
+	There shall the pairs of faithful lovers be
+	Wedded, with Theseus, all in jollity.
+<SPEECH 27><ACT 4><SCENE 1><72%>
+	Then, my queen, in silence sad,
+	Trip we after the night's shade;
+	We the globe can compass soon,
+	Swifter than the wandering moon.
+<SPEECH 28><ACT 5><SCENE 2><98%>
+	Through the house give glimmering light
+	By the dead and drowsy fire;
+	Every elf and fairy sprite
+	Hop as light as bird from brier;
+	And this ditty after me
+	Sing and dance it trippingly.
+<SPEECH 29><ACT 5><SCENE 2><99%>
+	Now, until the break of day,
+	Through this house each fairy stray.
+	To the best bride-bed will we,
+	Which by us shall blessed be;
+	And the issue there create
+	Ever shall be fortunate.
+	So shall all the couples three
+	Ever true in loving be;
+	And the blots of Nature's hand
+	Shall not in their issue stand:
+	Never mole, hare-lip, nor scar,
+	Nor mark prodigious, such as are
+	Despised in nativity,
+	Shall upon their children be.
+	With this field-dew consecrate,
+	Every fairy take his gait,
+	And each several chamber bless,
+	Through this palace, with sweet peace;
+	Ever shall in safety rest,
+	And the owner of it blest.
+	Trip away;
+	Make no stay;
+	Meet me all by break of day.

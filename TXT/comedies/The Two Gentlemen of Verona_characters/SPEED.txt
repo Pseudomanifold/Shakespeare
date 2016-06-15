@@ -1,0 +1,249 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	Sir Proteus, save you! Saw you my master?
+<SPEECH 2><ACT 1><SCENE 1><4%>
+	Twenty to one, then, he is shipp'd already,
+	And I have play'd the sheep, in losing him.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	You conclude that my master is a shepherd, then, and I a sheep?
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	Why then my horns are his horns, whether I wake or sleep.
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	This proves me still a sheep.
+<SPEECH 6><ACT 1><SCENE 1><4%>
+	Nay, that I can deny by a circumstance.
+<SPEECH 7><ACT 1><SCENE 1><4%>
+	The shepherd seeks the sheep, and not the sheep the shepherd; but I seek my master, and my master seeks not me: therefore I am no sheep.
+<SPEECH 8><ACT 1><SCENE 1><5%>
+	Such another proof will make me cry 'baa.'
+<SPEECH 9><ACT 1><SCENE 1><5%>
+	Ay, sir: I, a lost mutton, gave your letter to her, a laced mutton; and she, a laced mutton, gave me, a lost mutton, nothing for my labour.
+<SPEECH 10><ACT 1><SCENE 1><5%>
+	If the ground be overcharged, you were best stick her.
+<SPEECH 11><ACT 1><SCENE 1><5%>
+	Nay, sir, less than a pound shall serve me for carrying your letter.
+<SPEECH 12><ACT 1><SCENE 1><5%>
+	From a pound to a pin? fold it over and over,
+	'Tis threefold too little for carrying a letter to your lover.
+<SPEECH 13><ACT 1><SCENE 1><5%>
+	Ay.
+<SPEECH 14><ACT 1><SCENE 1><5%>
+	You mistook, sir: I say she did nod; and you ask me if she did nod; and I say, Ay.
+<SPEECH 15><ACT 1><SCENE 1><5%>
+	Now you have taken the pains to set it together, take it for your pains.
+<SPEECH 16><ACT 1><SCENE 1><6%>
+	Well, I perceive I must be fain to bear with you.
+<SPEECH 17><ACT 1><SCENE 1><6%>
+	Marry, sir, the letter very orderly; having nothing but the word 'noddy' for my pains.
+<SPEECH 18><ACT 1><SCENE 1><6%>
+	And yet it cannot overtake your slow purse.
+<SPEECH 19><ACT 1><SCENE 1><6%>
+	Open your purse, that the money and the matter may be both at once delivered.
+<SPEECH 20><ACT 1><SCENE 1><6%>
+	Truly, sir, I think you'll hardly win her.
+<SPEECH 21><ACT 1><SCENE 1><6%>
+	Sir, I could perceive nothing at all from her; no, not so much as a ducat for delivering your letter. And being so hard to me that brought your mind, I fear she'll prove as hard to you in telling your mind. Give her no token but stones, for she's as hard as steel.
+<SPEECH 22><ACT 1><SCENE 1><7%>
+	No, not so much as 'Take this for thy pains.' To testify your bounty, I thank you, you have testerned me; in requital whereof, henceforth carry your letters yourself. And so, sir, I'll commend you to my master.
+<SPEECH 23><ACT 2><SCENE 1><18%>
+	Sir, your glove.
+<SPEECH 24><ACT 2><SCENE 1><18%>
+	Why, then this may be yours, for this is but one.
+<SPEECH 25><ACT 2><SCENE 1><18%>
+	</STAGE DIR> Madam Silvia! Madam Silvia!
+<SPEECH 26><ACT 2><SCENE 1><18%>
+	She is not within hearing, sir.
+<SPEECH 27><ACT 2><SCENE 1><18%>
+	Your worship, sir; or else I mistook.
+<SPEECH 28><ACT 2><SCENE 1><18%>
+	And yet I was last chidden for being too slow.
+<SPEECH 29><ACT 2><SCENE 1><18%>
+	She that your worship loves?
+<SPEECH 30><ACT 2><SCENE 1><19%>
+	Marry, by these special marks: first, you have learned, like Sir Proteus, to wreathe your arms, like a malecontent; to relish a love-song, like a robin-redbreast; to walk alone, like one that had the pestilence; to sigh, like a schoolboy that had lost his A B C; to weep, like a young wench that had buried her grandam; to fast, like one that takes diet; to watch, like one that fears robbing; to speak puling, like a beggar at Hallowmas. You were wont, when you laughed, to crow like a cock; when you walked, to walk like one of the lions; when you fasted, it was presently after dinner; when you looked sadly, it was for want of money: and now you are metamorphosed with a mistress, that, when I look on you, I can hardly think you my master.
+<SPEECH 31><ACT 2><SCENE 1><19%>
+	They are all perceived without ye.
+<SPEECH 32><ACT 2><SCENE 1><19%>
+	Without you? nay, that's certain; for, without you were so simple, none else would: but you are so without these follies, that these follies are within you and shine through you like the water in an urinal, that not an eye that sees you but is a physician to comment on your malady.
+<SPEECH 33><ACT 2><SCENE 1><20%>
+	She that you gaze on so as she sits at supper?
+<SPEECH 34><ACT 2><SCENE 1><20%>
+	Why, sir, I know her not.
+<SPEECH 35><ACT 2><SCENE 1><20%>
+	Is she not hard-favoured, sir?
+<SPEECH 36><ACT 2><SCENE 1><20%>
+	Sir, I know that well enough.
+<SPEECH 37><ACT 2><SCENE 1><20%>
+	That she is not so fair, as, of you, well-favoured.
+<SPEECH 38><ACT 2><SCENE 1><20%>
+	That's because the one is painted and the other out of all count.
+<SPEECH 39><ACT 2><SCENE 1><20%>
+	Marry, sir, so painted to make her fair, that no man counts of her beauty.
+<SPEECH 40><ACT 2><SCENE 1><20%>
+	You never saw her since she was deformed.
+<SPEECH 41><ACT 2><SCENE 1><21%>
+	Ever since you loved her.
+<SPEECH 42><ACT 2><SCENE 1><21%>
+	If you love her you cannot see her.
+<SPEECH 43><ACT 2><SCENE 1><21%>
+	Because Love is blind. O! that you had mine eyes; or your own eyes had the lights they were wont to have when you chid at Sir Proteus for going ungartered!
+<SPEECH 44><ACT 2><SCENE 1><21%>
+	Your own present folly and her passing deformity: for he, being in love, could not see to garter his hose; and you, being in love, cannot see to put on your hose.
+<SPEECH 45><ACT 2><SCENE 1><21%>
+	True, sir; I was in love with my bed. I thank you, you swinged me for my love, which makes me the bolder to chide you for yours.
+<SPEECH 46><ACT 2><SCENE 1><21%>
+	I would you were set, so your affection would cease.
+<SPEECH 47><ACT 2><SCENE 1><21%>
+	And have you?
+<SPEECH 48><ACT 2><SCENE 1><21%>
+	Are they not lamely writ?
+<SPEECH 49><ACT 2><SCENE 1><22%>
+	</STAGE DIR> O excellent motion! O exceeding puppet! now will he interpret to her.
+<SPEECH 50><ACT 2><SCENE 1><22%>
+	</STAGE DIR> O! give ye good even: here's a million of manners.
+<SPEECH 51><ACT 2><SCENE 1><22%>
+	</STAGE DIR> He should give her interest, and she gives it him.
+<SPEECH 52><ACT 2><SCENE 1><23%>
+	</STAGE DIR> And yet you will; and yet another yet.
+<SPEECH 53><ACT 2><SCENE 1><24%>
+	O jest unseen, inscrutable, invisible,
+	As a nose on a man's face, or a weathercock on a steeple!
+	My master sues to her, and she hath taught her suitor,
+	He being her pupil, to become her tutor.
+	O excellent device! was there ever heard a better,
+	That my master, being scribe, to himself should write the letter?
+<SPEECH 54><ACT 2><SCENE 1><24%>
+	Nay, I was riming: 'tis you that have the reason.
+<SPEECH 55><ACT 2><SCENE 1><24%>
+	To be a spokesman from Madam Silvia.
+<SPEECH 56><ACT 2><SCENE 1><24%>
+	To yourself. Why, she wooes you by a figure.
+<SPEECH 57><ACT 2><SCENE 1><24%>
+	By a letter, I should say.
+<SPEECH 58><ACT 2><SCENE 1><24%>
+	What need she, when she hath made you write to yourself? Why, do you not perceive the jest?
+<SPEECH 59><ACT 2><SCENE 1><24%>
+	No believing you, indeed, sir. But did you perceive her earnest?
+<SPEECH 60><ACT 2><SCENE 1><24%>
+	Why, she hath given you a letter.
+<SPEECH 61><ACT 2><SCENE 1><25%>
+	And that letter hath she delivered, and there an end.
+<SPEECH 62><ACT 2><SCENE 1><25%>
+	I'll warrant you, 'tis as well:
+	'For often have you writ to her, and she, in modesty,
+	Or else for want of idle time, could not again reply;
+	Or fearing else some messenger that might her mind discover,
+	Herself hath taught her love himself to write unto her lover.'
+	All this I speak in print, for in print I found it.
+	Why muse you, sir? 'tis dinner-time.
+<SPEECH 63><ACT 2><SCENE 1><25%>
+	Ay, but hearken, sir: though the chameleon Love can feed on the air, I am one that am nourished by my victuals and would fain have meat. O! be not like your mistress: be moved, be moved.
+<SPEECH 64><ACT 2><SCENE 4><29%>
+	Master, Sir Thurio frowns on you.
+<SPEECH 65><ACT 2><SCENE 4><29%>
+	Not of you.
+<SPEECH 66><ACT 2><SCENE 4><30%>
+	'Twere good you knock'd him.
+<SPEECH 67><ACT 2><SCENE 5><38%>
+	Launce! by mine honesty, welcome to Milan!
+<SPEECH 68><ACT 2><SCENE 5><39%>
+	Come on, you madcap, I'll to the alehouse with you presently; where, for one shot of five pence, thou shalt have five thousand welcomes. But, sirrah, how did thy master part with Madam Julia?
+<SPEECH 69><ACT 2><SCENE 5><39%>
+	But shall she marry him?
+<SPEECH 70><ACT 2><SCENE 5><39%>
+	How then? Shall he marry her?
+<SPEECH 71><ACT 2><SCENE 5><39%>
+	What, are they broken?
+<SPEECH 72><ACT 2><SCENE 5><39%>
+	Why then, how stands the matter with them?
+<SPEECH 73><ACT 2><SCENE 5><39%>
+	What an ass art thou! I understand thee not.
+<SPEECH 74><ACT 2><SCENE 5><39%>
+	What thou sayest?
+<SPEECH 75><ACT 2><SCENE 5><40%>
+	It stands under thee, indeed.
+<SPEECH 76><ACT 2><SCENE 5><40%>
+	But tell me true, will't be a match?
+<SPEECH 77><ACT 2><SCENE 5><40%>
+	The conclusion is, then, that it will.
+<SPEECH 78><ACT 2><SCENE 5><40%>
+	'Tis well that I get it so. But, Launce, how sayest thou, that my master is become a notable lover?
+<SPEECH 79><ACT 2><SCENE 5><40%>
+	Than how?
+<SPEECH 80><ACT 2><SCENE 5><40%>
+	Why, thou whoreson ass, thou mistakest me.
+<SPEECH 81><ACT 2><SCENE 5><40%>
+	I tell thee, my master is become a hot lover.
+<SPEECH 82><ACT 2><SCENE 5><41%>
+	Why?
+<SPEECH 83><ACT 2><SCENE 5><41%>
+	At thy service.
+<SPEECH 84><ACT 3><SCENE 1><59%>
+	How now, Signior Launce! what news with your mastership?
+<SPEECH 85><ACT 3><SCENE 1><59%>
+	Well, your old vice still; mistake the word. What news, then, in your paper?
+<SPEECH 86><ACT 3><SCENE 1><59%>
+	Why, man, how black?
+<SPEECH 87><ACT 3><SCENE 1><59%>
+	Let me read them.
+<SPEECH 88><ACT 3><SCENE 1><59%>
+	Thou liest; I can.
+<SPEECH 89><ACT 3><SCENE 1><59%>
+	Marry, the son of my grandfather.
+<SPEECH 90><ACT 3><SCENE 1><59%>
+	Come, fool, come: try me in thy paper.
+<SPEECH 91><ACT 3><SCENE 1><59%>
+	Imprimis, She can milk.
+<SPEECH 92><ACT 3><SCENE 1><59%>
+	Item, She brews good ale.
+<SPEECH 93><ACT 3><SCENE 1><60%>
+	Item, She can sew.
+<SPEECH 94><ACT 3><SCENE 1><60%>
+	Item, She can knit.
+<SPEECH 95><ACT 3><SCENE 1><60%>
+	Item, She can wash and scour.
+<SPEECH 96><ACT 3><SCENE 1><60%>
+	Item, She can spin.
+<SPEECH 97><ACT 3><SCENE 1><60%>
+	Item, She hath many nameless virtues.
+<SPEECH 98><ACT 3><SCENE 1><60%>
+	Here follow her vices.
+<SPEECH 99><ACT 3><SCENE 1><60%>
+	Item, She is not to be kissed fasting, in respect of her breath.
+<SPEECH 100><ACT 3><SCENE 1><60%>
+	Item, She hath a sweet mouth.
+<SPEECH 101><ACT 3><SCENE 1><60%>
+	Item, She doth talk in her sleep.
+<SPEECH 102><ACT 3><SCENE 1><61%>
+	Item, She is slow in words.
+<SPEECH 103><ACT 3><SCENE 1><61%>
+	Item, She is proud.
+<SPEECH 104><ACT 3><SCENE 1><61%>
+	Item, She hath no teeth.
+<SPEECH 105><ACT 3><SCENE 1><61%>
+	Item, She is curst.
+<SPEECH 106><ACT 3><SCENE 1><61%>
+	Item, She will often praise her liquor.
+<SPEECH 107><ACT 3><SCENE 1><61%>
+	Item, She is too liberal.
+<SPEECH 108><ACT 3><SCENE 1><61%>
+	Item, She hath more hair than wit, and more faults than hairs, and more wealth than faults.
+<SPEECH 109><ACT 3><SCENE 1><62%>
+	Item, She hath more hair than wit.—
+<SPEECH 110><ACT 3><SCENE 1><62%>
+	And more faults than hairs.—
+<SPEECH 111><ACT 3><SCENE 1><62%>
+	And more wealth than faults.
+<SPEECH 112><ACT 3><SCENE 1><62%>
+	What then?
+<SPEECH 113><ACT 3><SCENE 1><62%>
+	For me?
+<SPEECH 114><ACT 3><SCENE 1><62%>
+	And must I go to him?
+<SPEECH 115><ACT 3><SCENE 1><62%>
+	Why didst not tell me sooner? pox of your love-letters!
+<SPEECH 116><ACT 4><SCENE 1><67%>
+	Sir, we are undone: these are the villains
+	That all the travellers do fear so much.
+<SPEECH 117><ACT 4><SCENE 1><69%>
+	Master, be one of them;
+	It is an honourable kind of thievery.

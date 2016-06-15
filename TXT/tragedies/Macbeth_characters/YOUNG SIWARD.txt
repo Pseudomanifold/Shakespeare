@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 5><SCENE 7><95%>
+	What is thy name?
+<SPEECH 2><ACT 5><SCENE 7><95%>
+	No; though thou call'st thyself a hotter name
+	Than any is in hell.
+<SPEECH 3><ACT 5><SCENE 7><95%>
+	The devil himself could not pronounce a title
+	More hateful to mine ear.
+<SPEECH 4><ACT 5><SCENE 7><95%>
+	Thou liest, abhorred tyrant; with my sword
+	I'll prove the lie thou speak'st.

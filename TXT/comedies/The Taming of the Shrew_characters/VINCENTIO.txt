@@ -1,0 +1,55 @@
+<SPEECH 1><ACT 4><SCENE 5><85%>
+	Fair sir, and you my merry mistress,
+	That with your strange encounter much amaz'd me,
+	My name is called Vincentio; my dwelling, Pisa;
+	And bound I am to Padua, there to visit
+	A son of mine, which long I have not seen.
+<SPEECH 2><ACT 4><SCENE 5><86%>
+	Lucentio, gentle sir.
+<SPEECH 3><ACT 4><SCENE 5><86%>
+	But is this true? or is it else your pleasure,
+	Like pleasant travellers, to break a jest
+	Upon the company you overtake?
+<SPEECH 4><ACT 5><SCENE 1><87%>
+	You shall not choose but drink before you go.
+	I think I shall command your welcome here,
+	And, by all likelihood, some cheer is toward.
+<SPEECH 5><ACT 5><SCENE 1><87%>
+	Is Signior Lucentio within, sir?
+<SPEECH 6><ACT 5><SCENE 1><87%>
+	What if a man bring him a hundred pound or two, to make merry withal?
+<SPEECH 7><ACT 5><SCENE 1><88%>
+	Art thou his father?
+<SPEECH 8><ACT 5><SCENE 1><88%>
+	</STAGE DIR> Come hither, crack-hemp.
+<SPEECH 9><ACT 5><SCENE 1><88%>
+	Come hither, you rogue. What, have you forgot me?
+<SPEECH 10><ACT 5><SCENE 1><88%>
+	What, you notorious villain! didst thou never see thy master's father, Vincentio?
+<SPEECH 11><ACT 5><SCENE 1><88%>
+	Is't so, indeed?
+<SPEECH 12><ACT 5><SCENE 1><89%>
+	What am I, sir! nay, what are you, sir? O immortal gods! O fine villain! A silken doublet! a velvet hose! a scarlet cloak! and a copatain hat! O, I am undone! I am undone! while I play the good husband at home, my son and my servant spend all at the university.
+<SPEECH 13><ACT 5><SCENE 1><89%>
+	Thy father! O villain! he is a sailmaker in Bergamo.
+<SPEECH 14><ACT 5><SCENE 1><89%>
+	His name! as if I knew not his name: I have brought him up ever since he was three years old, and his name is Tranio.
+<SPEECH 15><ACT 5><SCENE 1><90%>
+	Lucentio! O! he hath murdered his master. Lay hold on him, I charge you in the duke's name. O my son, my son! tell me, thou villain, where is my son Lucentio?
+<SPEECH 16><ACT 5><SCENE 1><90%>
+	Carry me to the gaol!
+<SPEECH 17><ACT 5><SCENE 1><90%>
+	Thus strangers may be haled and abused: O monstrous villain!
+<SPEECH 18><ACT 5><SCENE 1><91%>
+	Lives my sweetest son?
+<SPEECH 19><ACT 5><SCENE 1><91%>
+	Where is that damned villain Tranio,
+	That fac'd and brav'd me in this matter so?
+<SPEECH 20><ACT 5><SCENE 1><91%>
+	I'll slit the villain's nose, that would have sent me to the gaol.
+<SPEECH 21><ACT 5><SCENE 1><91%>
+	Fear not, Baptista; we will content you, go to: but I will in, to be revenged for this villany.
+<SPEECH 22><ACT 5><SCENE 2><94%>
+	Ay, mistress bride, hath that awaken'd you?
+<SPEECH 23><ACT 5><SCENE 2><100%>
+	'Tis a good hearing when children are toward.

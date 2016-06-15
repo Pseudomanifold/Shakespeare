@@ -1,0 +1,96 @@
+<SPEECH 1><ACT 1><SCENE 1><14%>
+	Sister, content you in my discontent.
+	Sir, to your pleasure humbly I subscribe:
+	My books and instruments shall be my company,
+	On them to look and practise by myself.
+<SPEECH 2><ACT 2><SCENE 1><31%>
+	Good sister, wrong me not, nor wrong yourself,
+	To make a bondmaid and a slave of me;
+	That I disdain: but for these other gawds,
+	Unbind my hands, I'll pull them off myself,
+	Yea, all my raiment, to my petticoat;
+	Or what you will command me will I do,
+	So well I know my duty to my elders.
+<SPEECH 3><ACT 2><SCENE 1><31%>
+	Believe me, sister, of all the men alive
+	I never yet beheld that special face
+	Which I could fancy more than any other.
+<SPEECH 4><ACT 2><SCENE 1><31%>
+	If you affect him, sister, here I swear
+	I'll plead for you myself, but you shall have him.
+<SPEECH 5><ACT 2><SCENE 1><31%>
+	Is it for him you do envy me so?
+	Nay, then you jest; and now I well perceive
+	You have but jested with me all this while:
+	I prithee, sister Kate, untie my hands.
+<SPEECH 6><ACT 3><SCENE 1><47%>
+	Why, gentlemen, you do me double wrong,
+	To strive for that which resteth in my choice.
+	I am no breeching scholar in the schools;
+	I'll not be tied to hours nor 'pointed times,
+	But learn my lessons as I please myself.
+	And, to cut off all strife, here sit we down:
+	Take you your instrument, play you the whiles;
+	His lecture will be done ere you have tun'd.
+<SPEECH 7><ACT 3><SCENE 1><48%>
+	Where left we last?
+<SPEECH 8><ACT 3><SCENE 1><48%>
+	Construe them.
+<SPEECH 9><ACT 3><SCENE 1><48%>
+	Let's hear.—
+	O fie! the treble jars.
+<SPEECH 10><ACT 3><SCENE 1><48%>
+	Now let me see if I can construe it: Hac ibat Simois, I know you not, hic est Sigeia tellus, I trust you not; Hic steterat Priami, take heed he hear us not, regia, presume not; celsa senis, despair not.
+<SPEECH 11><ACT 3><SCENE 1><48%>
+	In time I may believe, yet I mistrust.
+<SPEECH 12><ACT 3><SCENE 1><49%>
+	I must believe my master; else, I promise you,
+	I should be arguing still upon that doubt:
+	But let it rest. Now, Licio, to you.
+	Good masters, take it not unkindly, pray,
+	That I have been thus pleasant with you both.
+<SPEECH 13><ACT 3><SCENE 1><49%>
+	Why, I am past my gamut long ago.
+<SPEECH 14><ACT 3><SCENE 1><49%>
+	'Gamut' I am, the ground of all accord,
+	'A re,' to plead Hortensio's passion;
+	'B mi,' Bianca, take him for thy lord,
+	'C fa ut,' that loves with all affection:
+	'D sol re,' one clef, two notes have I:
+	'E la mi,' show pity, or I die.
+	Call you this gamut? tut, I like it not:
+	Old fashions please me best; I am not so nice,
+	To change true rules for odd inventions.
+<SPEECH 15><ACT 3><SCENE 1><50%>
+	Farewell, sweet masters both: I must be gone.
+<SPEECH 16><ACT 3><SCENE 2><59%>
+	That, being mad herself, she's madly mated.
+<SPEECH 17><ACT 4><SCENE 2><68%>
+	What, master, read you? first resolve me that.
+<SPEECH 18><ACT 4><SCENE 2><68%>
+	And may you prove, sir, master of your art!
+<SPEECH 19><ACT 4><SCENE 2><69%>
+	Tranio, you jest. But have you both forsworn me?
+<SPEECH 20><ACT 4><SCENE 2><69%>
+	God give him joy!
+<SPEECH 21><ACT 4><SCENE 2><69%>
+	He says so, Tranio.
+<SPEECH 22><ACT 4><SCENE 2><69%>
+	The taming-school! what, is there such a place?
+<SPEECH 23><ACT 5><SCENE 1><91%>
+	</STAGE DIR> Pardon, dear father.
+<SPEECH 24><ACT 5><SCENE 1><91%>
+	Cambio is chang'd into Lucentio.
+<SPEECH 25><ACT 5><SCENE 2><94%>
+	Head and butt! a hasty-witted body
+	Would say your head and butt were head and horn.
+<SPEECH 26><ACT 5><SCENE 2><94%>
+	Ay, but not frighted me; therefore I'll sleep again.
+<SPEECH 27><ACT 5><SCENE 2><94%>
+	Am I your bird? I mean to shift my bush;
+	And then pursue me as you draw your bow.
+	You are welcome all.
+<SPEECH 28><ACT 5><SCENE 2><98%>
+	Fie! what a foolish duty call you this?
+<SPEECH 29><ACT 5><SCENE 2><98%>
+	The more fool you for laying on my duty.

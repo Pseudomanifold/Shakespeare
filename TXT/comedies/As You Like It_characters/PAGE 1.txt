@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 5><SCENE 3><90%>
+	Well met, honest gentleman.
+<SPEECH 2><ACT 5><SCENE 3><90%>
+	Shall we clap into't roundly, without hawking or spitting, or saying we are hoarse, which are the only prologues to a bad voice?
+<SPEECH 3><ACT 5><SCENE 3><91%>
+	You are deceived, sir: we kept time; we lost not our time.

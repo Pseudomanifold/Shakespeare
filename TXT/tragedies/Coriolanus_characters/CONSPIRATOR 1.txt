@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 5><SCENE 5><96%>
+	How is it with our general?
+<SPEECH 2><ACT 5><SCENE 5><97%>
+	So he did, my lord:
+	The army marvell'd at it; and, in the last,
+	When we had carried Rome, and that we look'd
+	For no less spoil than glory,—
+<SPEECH 3><ACT 5><SCENE 5><97%>
+	Your native town you enter'd like a post,
+	And had no welcomes home; but he returns,
+	Splitting the air with noise.

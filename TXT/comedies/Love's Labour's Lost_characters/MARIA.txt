@@ -1,0 +1,71 @@
+<SPEECH 1><ACT 2><SCENE 1><18%>
+	I know him, madam: at a marriage feast,
+	Between Lord Perigort and the beauteous heir
+	Of Jacques Falconbridge, solemnized
+	In Normandy, saw I this Longaville.
+	A man of sovereign parts he is esteem'd;
+	Well fitted in the arts, glorious in arms:
+	Nothing becomes him ill that he would well.
+	The only soil of his fair virtue's gloss,—
+	If virtue's gloss will stain with any soil,—
+	Is a sharp wit match'd with too blunt a will;
+	Whose edge hath power to cut, whose will still wills
+	It should none spare that come within his power.
+<SPEECH 2><ACT 2><SCENE 1><19%>
+	They say so most that most his humours know.
+<SPEECH 3><ACT 2><SCENE 1><24%>
+	That last is Berowne, the merry mad-cap lord:
+	Not a word with him but a jest.
+<SPEECH 4><ACT 2><SCENE 1><25%>
+	Two hot sheeps, marry!
+<SPEECH 5><ACT 2><SCENE 1><25%>
+	You sheep, and I pasture: shall that finish the jest?
+<SPEECH 6><ACT 2><SCENE 1><25%>
+	Not so, gentle beast.
+	My lips are no common, though several they be.
+<SPEECH 7><ACT 2><SCENE 1><25%>
+	To my fortunes and me.
+<SPEECH 8><ACT 2><SCENE 1><26%>
+	He is Cupid's grandfather and learns news of him.
+<SPEECH 9><ACT 2><SCENE 1><26%>
+	No.
+<SPEECH 10><ACT 4><SCENE 1><38%>
+	You still wrangle with her, Boyet, and she strikes at the brow.
+<SPEECH 11><ACT 4><SCENE 1><39%>
+	A mark marvellous well shot, for they both did hit it.
+<SPEECH 12><ACT 4><SCENE 1><39%>
+	Wide o' the bow hand! i' faith your hand is out.
+<SPEECH 13><ACT 4><SCENE 1><39%>
+	Come, come, you talk greasily; your lips grow foul.
+<SPEECH 14><ACT 5><SCENE 2><68%>
+	This, and these pearls to me sent Longaville:
+	The letter is too long by half a mile.
+<SPEECH 15><ACT 5><SCENE 2><68%>
+	Ay, or I would these hands might never part.
+<SPEECH 16><ACT 5><SCENE 2><68%>
+	Folly in fools bears not so strong a note
+	As foolery in the wise, when wit doth dote;
+	Since all the power thereof it doth apply
+	To prove, by wit, worth in simplicity.
+<SPEECH 17><ACT 5><SCENE 2><75%>
+	Name it.
+<SPEECH 18><ACT 5><SCENE 2><75%>
+	Say you so? Fair lord,
+	Take that for your fair lady.
+<SPEECH 19><ACT 5><SCENE 2><76%>
+	Dumaine was at my service, and his sword:
+	'No point,' quoth I: my servant straight was mute.
+<SPEECH 20><ACT 5><SCENE 2><77%>
+	Dumaine is mine, as sure as bark on tree.
+<SPEECH 21><ACT 5><SCENE 2><93%>
+	God save you, madam!
+<SPEECH 22><ACT 5><SCENE 2><93%>
+	I am sorry, madam; for the news I bring
+	Is heavy in my tongue. The king your father—
+<SPEECH 23><ACT 5><SCENE 2><93%>
+	Even so: my tale is told.
+<SPEECH 24><ACT 5><SCENE 2><97%>
+	At the twelvemonth's end
+	I'll change my black gown for a faithful friend.
+<SPEECH 25><ACT 5><SCENE 2><97%>
+	The liker you; few taller are so young.

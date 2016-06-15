@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 2><SCENE 1><34%>
+	Vouchsafe good morrow from a feeble tongue.
+<SPEECH 2><ACT 2><SCENE 1><34%>
+	I am not sick if Brutus have in hand
+	Any exploit worthy the name of honour.
+<SPEECH 3><ACT 2><SCENE 1><35%>
+	By all the gods that Romans bow before
+	I here discard my sickness. Soul of Rome!
+	Brave son, deriv'd from honourable loins!
+	Thou, like an exorcist, hast conjur'd up
+	My mortified spirit. Now bid me run,
+	And I will strive with things impossible;
+	Yea, get the better of them. What's to do?
+<SPEECH 4><ACT 2><SCENE 1><35%>
+	But are not some whole that we must make sick?
+<SPEECH 5><ACT 2><SCENE 1><35%>
+	Set on your foot,
+	And with a heart new-fir'd I follow you,
+	To do I know not what; but it sufficeth
+	That Brutus leads me on.

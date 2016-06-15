@@ -1,0 +1,23 @@
+<SPEECH 1><ACT 2><SCENE 4><46%>
+	Stay yet another day, thou trusty Welshman:
+	The king reposeth all his confidence in thee.
+<SPEECH 2><ACT 2><SCENE 4><46%>
+	Ah, Richard! with the eyes of heavy mind
+	I see thy glory like a shooting star
+	Fall to the base earth from the firmament.
+	Thy sun sets weeping in the lowly west,
+	Witnessing storms to come, woe, and unrest.
+	Thy friends are fled to wait upon thy foes,
+	And crossly to thy good all fortune goes.
+<SPEECH 3><ACT 3><SCENE 2><50%>
+	Nor near nor further off, my gracious lord,
+	Than this weak arm: discomfort guides my tongue
+	And bids me speak of nothing but despair.
+	One day too late, I fear me, noble lord,
+	Hath clouded all thy happy days on earth.
+	O! call back yesterday, bid time return,
+	And thou shalt have twelve thousand fighting men:
+	To-day, to-day, unhappy day too late,
+	O'erthrows thy joys, friends, fortune, and thy state;
+	For all the Welshmen, hearing thou wert dead,
+	Are gone to Bolingbroke, dispers'd, and fled.

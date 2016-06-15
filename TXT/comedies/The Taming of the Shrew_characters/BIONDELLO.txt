@@ -1,0 +1,96 @@
+<SPEECH 1><ACT 1><SCENE 1><19%>
+	Where have I been! Nay, how now! where are you?
+	Master, has my fellow Tranio stol'n your clothes,
+	Or you stol'n his? or both? pray, what's the news?
+<SPEECH 2><ACT 1><SCENE 1><20%>
+	I, sir! ne'er a whit.
+<SPEECH 3><ACT 1><SCENE 1><20%>
+	The better for him: would I were so too!
+<SPEECH 4><ACT 1><SCENE 2><28%>
+	He that has the two fair daughters: is't he you mean?
+<SPEECH 5><ACT 1><SCENE 2><31%>
+	O excellent motion! Fellows, let's be gone.
+<SPEECH 6><ACT 3><SCENE 2><51%>
+	Master, master! news! old news, and such news as you never heard of!
+<SPEECH 7><ACT 3><SCENE 2><52%>
+	Why, is it not news to hear of Petruchio's coming?
+<SPEECH 8><ACT 3><SCENE 2><52%>
+	Why, no, sir.
+<SPEECH 9><ACT 3><SCENE 2><52%>
+	He is coming.
+<SPEECH 10><ACT 3><SCENE 2><52%>
+	When he stands where I am and sees you there.
+<SPEECH 11><ACT 3><SCENE 2><52%>
+	Why, Petruchio is coming, in a new hat and an old jerkin; a pair of old breeches thrice turned; a pair of boots that have been candle-cases, one buckled, another laced; an old rusty sword ta'en out of the town-armoury, with a broken hilt, and chapeless; with two broken points: his horse hipped with an old mothy saddle and stirrups of no kindred; besides, possessed with the glanders and like to mose in the chine; troubled with the lampass, infected with the fashions, full of windgalls, sped with spavins, rayed with the yellows, past cure of the fives, stark spoiled with the staggers, begnawn with the bots, swayed in the back, and shoulder-shotten; near-legged before, and with a half-checked bit, and a head-stall of sheep's leather, which, being restrained to keep him from stumbling, hath been often burst and now repaired with knots; one girth six times pieced, and a woman's crupper of velure, which hath two letters for her name fairly set down in studs, and here and there pieced with packthread.
+<SPEECH 12><ACT 3><SCENE 2><53%>
+	O, sir! his lackey, for all the world caparisoned like the horse; with a linen stock on one leg and a kersey boot-hose on the other, gartered with a red and blue list; an old hat, and the 'humour of forty fancies' pricked in't for a feather: a monster, a very monster in apparel, and not like a Christian footboy or a gentleman's lackey.
+<SPEECH 13><ACT 3><SCENE 2><53%>
+	Why, sir, he comes not.
+<SPEECH 14><ACT 3><SCENE 2><53%>
+	Who? that Petruchio came?
+<SPEECH 15><ACT 3><SCENE 2><53%>
+	No, sir; I say his horse comes, with him on his back.
+<SPEECH 16><ACT 3><SCENE 2><53%>
+	Nay, by Saint Jamy,
+	I hold you a penny,
+	A horse and a man
+	Is more than one,
+	And yet not many.
+<SPEECH 17><ACT 4><SCENE 2><70%>
+	O master, master! I have watch'd so long
+	That I'm dog-weary; but at last I spied
+	An ancient angel coming down the hill
+	Will serve the turn.
+<SPEECH 18><ACT 4><SCENE 2><70%>
+	Master, a mercatante, or a pedant,
+	I know not what; but formal in apparel,
+	In gait and countenance surely like a father.
+<SPEECH 19><ACT 4><SCENE 2><71%>
+	</STAGE DIR> As much as an apple doth an oyster, and all one.
+<SPEECH 20><ACT 4><SCENE 4><80%>
+	Tut! fear not me.
+<SPEECH 21><ACT 4><SCENE 4><80%>
+	I told him that your father was at Venice,
+	And that you look'd for him this day in Padua.
+<SPEECH 22><ACT 4><SCENE 4><82%>
+	Cambio!
+<SPEECH 23><ACT 4><SCENE 4><82%>
+	You saw my master wink and laugh upon you?
+<SPEECH 24><ACT 4><SCENE 4><82%>
+	Faith, nothing; but he has left me here behind to expound the meaning or moral of his signs and tokens.
+<SPEECH 25><ACT 4><SCENE 4><82%>
+	Then thus. Baptista is safe, talking with the deceiving father of a deceitful son.
+<SPEECH 26><ACT 4><SCENE 4><82%>
+	His daughter is to be brought by you to the supper.
+<SPEECH 27><ACT 4><SCENE 4><82%>
+	The old priest at Saint Luke's church is at your command at all hours.
+<SPEECH 28><ACT 4><SCENE 4><83%>
+	I cannot tell, expect they are busied about a counterfeit assurance: take you assurance of her, cum privilegio ad imprimendum solum. To the church! take the priest, clerk, and some sufficient honest witnesses.
+	If this be not that you look for, I have no more to say,
+	But bid Bianca farewell for ever and a day.
+<SPEECH 29><ACT 4><SCENE 4><83%>
+	I cannot tarry: I knew a wench married in an afternoon as she went to the garden for parsley to stuff a rabbit; and so may you, sir; and so, adieu, sir. My master hath appointed me to go to Saint Luke's, to bid the priest be ready to come against you come with your appendix.
+<SPEECH 30><ACT 5><SCENE 1><86%>
+	Softly and swiftly, sir, for the priest is ready.
+<SPEECH 31><ACT 5><SCENE 1><87%>
+	Nay, faith, I'll see the church o' your back; and then come back to my master as soon as I can.
+<SPEECH 32><ACT 5><SCENE 1><88%>
+	I have seen them in the church together: God send 'em good shipping! But who is here? mine old master, Vincentio! now we are undone and brought to nothing.
+<SPEECH 33><ACT 5><SCENE 1><88%>
+	I hope I may choose, sir.
+<SPEECH 34><ACT 5><SCENE 1><88%>
+	Forgot you! no, sir: I could not forget you, for I never saw you before in all my life.
+<SPEECH 35><ACT 5><SCENE 1><88%>
+	What, my old, worshipful old master? yes, marry, sir: see where he looks out of the window.
+<SPEECH 36><ACT 5><SCENE 1><89%>
+	Help, help, help! here's a madman will murder me.
+<SPEECH 37><ACT 5><SCENE 1><90%>
+	O! we are spoiled; and yonder he is: deny him, forswear him, or else we are all undone.
+<SPEECH 38><ACT 5><SCENE 2><95%>
+	I go.
+<SPEECH 39><ACT 5><SCENE 2><96%>
+	Sir, my mistress sends you word
+	That she is busy and she cannot come.
+<SPEECH 40><ACT 5><SCENE 2><96%>
+	She says you have some goodly jest in hand:
+	She will not come: she bids you come to her.

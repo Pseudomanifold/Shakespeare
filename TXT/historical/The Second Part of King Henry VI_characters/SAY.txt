@@ -1,0 +1,61 @@
+<SPEECH 1><ACT 4><SCENE 4><75%>
+	Ay, but I hope your highness shall have his.
+<SPEECH 2><ACT 4><SCENE 4><76%>
+	So might your Grace's person be in danger.
+	The sight of me is odious in their eyes;
+	And therefore in this city will I stay,
+	And live alone as secret as I may.
+<SPEECH 3><ACT 4><SCENE 4><77%>
+	The trust I have is in mine innocence,
+	And therefore am I bold and resolute.
+<SPEECH 4><ACT 4><SCENE 7><79%>
+	What of that?
+<SPEECH 5><ACT 4><SCENE 7><80%>
+	You men of Kent,—
+<SPEECH 6><ACT 4><SCENE 7><80%>
+	Nothing but this: 'tis bona terra, mala gens.
+<SPEECH 7><ACT 4><SCENE 7><80%>
+	Hear me but speak, and bear me where you will.
+	Kent, in the Commentaries Cæsar writ,
+	Is term'd the civil'st place of all this isle:
+	Sweet is the country, because full of riches;
+	The people liberal, valiant, active, wealthy;
+	Which makes me hope you are not void of pity.
+	I sold not Maine, I lost not Normandy;
+	Yet, to recover them, would lose my life.
+	Justice with favour have I always done;
+	Prayers and tears have mov'd me, gifts could never.
+	When have I aught exacted at your hands,
+	But to maintain the king, the realm, and you?
+	Large gifts have I bestow'd on learned clerks,
+	Because my book preferr'd me to the king,
+	And seeing ignorance is the curse of God,
+	Knowledge the wing wherewith we fly to heaven,
+	Unless you be possess'd with devilish spirits,
+	You cannot but forbear to murder me:
+	This tongue hath parley'd unto foreign kings
+	For your behoof,—
+<SPEECH 8><ACT 4><SCENE 7><80%>
+	Great men have reaching hands: oft have I struck
+	Those that I never saw, and struck them dead.
+<SPEECH 9><ACT 4><SCENE 7><80%>
+	These cheeks are pale for watching for your good.
+<SPEECH 10><ACT 4><SCENE 7><80%>
+	Long sitting, to determine poor men's causes,
+	Hath made me full of sickness and diseases.
+<SPEECH 11><ACT 4><SCENE 7><81%>
+	The palsy, and not fear, provokes me.
+<SPEECH 12><ACT 4><SCENE 7><81%>
+	Tell me wherein have I offended most?
+	Have I affected wealth, or honour? speak.
+	Are my chests fill'd up with extorted gold?
+	Is my apparel sumptuous to behold?
+	Whom have I injur'd, that ye seek my death?
+	These hands are free from guiltless bloodshedding,
+	This breast from harbouring foul deceitful thoughts.
+	O! let me live.
+<SPEECH 13><ACT 4><SCENE 7><81%>
+	Ah, countrymen! if when you make your prayers,
+	God should be so obdurate as yourselves,
+	How would it fare with your departed souls?
+	And therefore yet relent, and save my life.

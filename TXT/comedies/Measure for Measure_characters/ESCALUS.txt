@@ -1,0 +1,208 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	My lord?
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	If any in Vienna be of worth
+	To undergo such ample grace and honour,
+	It is Lord Angelo.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Lead forth and bring you back in happiness!
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	I shall desire you, sir, to give me leave
+	To have free speech with you; and it concerns me
+	To look into the bottom of my place:
+	A power I have, but of what strength and nature
+	I am not yet instructed.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	I'll wait upon your honour.
+<SPEECH 6><ACT 2><SCENE 1><15%>
+	Ay, but yet
+	Let us be keen and rather cut a little,
+	Than fall, and bruise to death. Alas! this gentleman,
+	Whom I would save, had a most noble father.
+	Let but your honour know,—
+	Whom I believe to be most strait in virtue,—
+	That, in the working of your own affections,
+	Had time coher'd with place or place with wishing,
+	Or that the resolute acting of your blood
+	Could have attain'd the effect of your own purpose,
+	Whether you had not, some time in your life,
+	Err'd in this point which now you censure him,
+	And pull'd the law upon you.
+<SPEECH 7><ACT 2><SCENE 1><16%>
+	Be it as your wisdom will.
+<SPEECH 8><ACT 2><SCENE 1><17%>
+	Well, heaven forgive him, and forgive us all!
+	Some rise by sin, and some by virtue fall:
+	Some run from brakes of ice, and answer none,
+	And some condemned for a fault alone.
+<SPEECH 9><ACT 2><SCENE 1><17%>
+	This comes off well: here's a wise officer.
+<SPEECH 10><ACT 2><SCENE 1><18%>
+	How know you that?
+<SPEECH 11><ACT 2><SCENE 1><18%>
+	How! thy wife?
+<SPEECH 12><ACT 2><SCENE 1><18%>
+	Dost thou detest her therefore?
+<SPEECH 13><ACT 2><SCENE 1><18%>
+	How dost thou know that, constable?
+<SPEECH 14><ACT 2><SCENE 1><18%>
+	By the woman's means?
+<SPEECH 15><ACT 2><SCENE 1><18%>
+	</STAGE DIR> Do you hear how he misplaces?
+<SPEECH 16><ACT 2><SCENE 1><19%>
+	Go to, go to: no matter for the dish, sir.
+<SPEECH 17><ACT 2><SCENE 1><19%>
+	Come, you are a tedious fool: to the purpose. What was done to Elbow's wife, that he hath cause to complain of? Come me to what was done to her.
+<SPEECH 18><ACT 2><SCENE 1><19%>
+	No, sir, nor I mean it not.
+<SPEECH 19><ACT 2><SCENE 1><20%>
+	I think no less. Good morrow to your lordship.
+	Now, sir, come on: what was done to Elbow's wife, once more?
+<SPEECH 20><ACT 2><SCENE 1><20%>
+	Well, sir, what did this gentleman to her?
+<SPEECH 21><ACT 2><SCENE 1><20%>
+	Ay, sir, very well.
+<SPEECH 22><ACT 2><SCENE 1><20%>
+	Well, I do so.
+<SPEECH 23><ACT 2><SCENE 1><21%>
+	Why, no.
+<SPEECH 24><ACT 2><SCENE 1><21%>
+	He's in the right. Constable, what say you to it?
+<SPEECH 25><ACT 2><SCENE 1><21%>
+	Which is the wiser here? Justice, or Iniquity? Is this true?
+<SPEECH 26><ACT 2><SCENE 1><21%>
+	If he took you a box o' th' ear, you might have your action of slander too.
+<SPEECH 27><ACT 2><SCENE 1><22%>
+	Truly, officer, because he hath some offences in him that thou wouldest discover if thou couldst, let him continue in his courses till thou knowest what they are.
+<SPEECH 28><ACT 2><SCENE 1><22%>
+	Where were you born, friend?
+<SPEECH 29><ACT 2><SCENE 1><22%>
+	Are you of fourscore pounds a year?
+<SPEECH 30><ACT 2><SCENE 1><22%>
+	So. <STAGE DIR>
+	</STAGE DIR> What trade are you of, sir?
+<SPEECH 31><ACT 2><SCENE 1><22%>
+	Your mistress' name?
+<SPEECH 32><ACT 2><SCENE 1><22%>
+	Hath she had any more than one husband?
+<SPEECH 33><ACT 2><SCENE 1><22%>
+	Nine!—Come hither to me, Master Froth. Master Froth, I would not have you acquainted with tapsters; they will draw you, Master Froth, and you will hang them. Get you gone, and let me hear no more of you.
+<SPEECH 34><ACT 2><SCENE 1><22%>
+	Well: no more of it, Master Froth: farewell. <STAGE DIR>
+	</STAGE DIR>—Come you hither to me, Master tapster. What's your name, Master tapster?
+<SPEECH 35><ACT 2><SCENE 1><23%>
+	What else?
+<SPEECH 36><ACT 2><SCENE 1><23%>
+	Troth, and your bum is the greatest thing about you, so that, in the beastliest sense, you are Pompey the Great. Pompey, you are partly a bawd, Pompey, howsoever you colour it in being a tapster, are you not? come, tell me true: it shall be the better for you.
+<SPEECH 37><ACT 2><SCENE 1><23%>
+	How would you live, Pompey? by being a bawd? What do you think of the trade, Pompey? is it a lawful trade?
+<SPEECH 38><ACT 2><SCENE 1><23%>
+	But the law will not allow it, Pompey; nor it shall not be allowed in Vienna.
+<SPEECH 39><ACT 2><SCENE 1><23%>
+	No, Pompey.
+<SPEECH 40><ACT 2><SCENE 1><23%>
+	There are pretty orders beginning, I can tell you: it is but heading and hanging.
+<SPEECH 41><ACT 2><SCENE 1><23%>
+	Thank you, good Pompey; and, in requital of your prophecy, hark you: I advise you, let me not find you before me again upon any complaint whatsoever; no, not for dwelling where you do: if I do, Pompey, I shall beat you to your tent, and prove a shrewd Cæsar to you. In plain dealing, Pompey, I shall have you whipt. So, for this time, Pompey, fare you well.
+<SPEECH 42><ACT 2><SCENE 1><24%>
+	Come hither to me, Master Elbow; come hither, Master constable. How long have you been in this place of constable?
+<SPEECH 43><ACT 2><SCENE 1><24%>
+	I thought, by your readiness in the office, you had continued in it some time. You say, seven years together?
+<SPEECH 44><ACT 2><SCENE 1><24%>
+	Alas! it hath been great pains to you! They do you wrong to put you so oft upon 't. Are there not men in your ward sufficient to serve it?
+<SPEECH 45><ACT 2><SCENE 1><24%>
+	Look you bring me in the names of some six or seven, the most sufficient of your parish.
+<SPEECH 46><ACT 2><SCENE 1><25%>
+	To my house. Fare you well.
+	What's o'clock, think you?
+<SPEECH 47><ACT 2><SCENE 1><25%>
+	I pray you home to dinner with me.
+<SPEECH 48><ACT 2><SCENE 1><25%>
+	It grieves me for the death of Claudio;
+	But there is no remedy.
+<SPEECH 49><ACT 2><SCENE 1><25%>
+	It is but needful:
+	Mercy is not itself, that oft looks so;
+	Pardon is still the nurse of second woe.
+	But yet, poor Claudio! There's no remedy.
+	Come, sir.
+<SPEECH 50><ACT 3><SCENE 2><57%>
+	Go; away with her to prison!
+<SPEECH 51><ACT 3><SCENE 2><57%>
+	Double and treble admonition, and still forfeit in the same kind? This would make mercy swear, and play the tyrant.
+<SPEECH 52><ACT 3><SCENE 2><58%>
+	That fellow is a fellow of much licence: let him be called before us. Away with her to prison! Go to; no more words. <STAGE DIR>
+	</STAGE DIR> Provost, my brother Angelo will not be altered; Claudio must die to-morrow. Let him be furnished with divines, and have all charitable preparation: if my brother wrought by my pity, it should not be so with him.
+<SPEECH 53><ACT 3><SCENE 2><58%>
+	Good even, good father.
+<SPEECH 54><ACT 3><SCENE 2><58%>
+	Of whence are you?
+<SPEECH 55><ACT 3><SCENE 2><58%>
+	What news abroad i' the world?
+<SPEECH 56><ACT 3><SCENE 2><59%>
+	One that, above all other strifes, contended especially to know himself.
+<SPEECH 57><ACT 3><SCENE 2><59%>
+	Rather rejoicing to see another merry, than merry at anything which professed to make him rejoice: a gentleman of all temperance. But leave we him to his events, with a prayer they may prove prosperous; and let me desire to know how you find Claudio prepared. I am made to understand, that you have lent him visitation.
+<SPEECH 58><ACT 3><SCENE 2><59%>
+	You have paid the heavens your function, and the prisoner the very debt of your calling. I have laboured for the poor gentleman to the extremest shore of my modesty; but my brother justice have I found so severe, that he hath forced me to tell him he is indeed Justice.
+<SPEECH 59><ACT 3><SCENE 2><59%>
+	I am going to visit the prisoner. Fare you well.
+<SPEECH 60><ACT 4><SCENE 4><78%>
+	Every letter he hath writ hath disvouched other.
+<SPEECH 61><ACT 4><SCENE 4><78%>
+	I guess not.
+<SPEECH 62><ACT 4><SCENE 4><78%>
+	He shows his reason for that: to have a dispatch of complaints, and to deliver us from devices hereafter, which shall then have no power to stand against us.
+<SPEECH 63><ACT 4><SCENE 4><78%>
+	I shall, sir: fare you well.
+<SPEECH 64><ACT 5><SCENE 1><81%>
+	Happy return be to your royal Grace!
+<SPEECH 65><ACT 5><SCENE 1><90%>
+	My lord, we'll do it throughly.—
+	Signior Lucio, did not you say you knew that
+	Friar Lodowick to be a dishonest person?
+<SPEECH 66><ACT 5><SCENE 1><90%>
+	We shall entreat you to abide here till he come and enforce them against him. We shall find this friar a notable fellow.
+<SPEECH 67><ACT 5><SCENE 1><90%>
+	Call that same Isabel here once again:
+	I would speak with her. <STAGE DIR>
+	Pray you, my lord, give me leave to question; you shall see how I'll handle her.
+<SPEECH 68><ACT 5><SCENE 1><90%>
+	Say you?
+<SPEECH 69><ACT 5><SCENE 1><90%>
+	I will go darkly to work with her.
+<SPEECH 70><ACT 5><SCENE 1><90%>
+	</STAGE DIR> Come on, mistress: here's a gentlewoman denies all that you have said.
+<SPEECH 71><ACT 5><SCENE 1><91%>
+	In very good time: speak not you to him, till we call upon you.
+<SPEECH 72><ACT 5><SCENE 1><91%>
+	Come, sir. Did you set these women on to slander Lord Angelo? they have confessed you did.
+<SPEECH 73><ACT 5><SCENE 1><91%>
+	How! know you where you are?
+<SPEECH 74><ACT 5><SCENE 1><91%>
+	The duke's in us, and we will hear you speak:
+	Look you speak justly.
+<SPEECH 75><ACT 5><SCENE 1><91%>
+	Why, thou unreverend and unhallow'd friar!
+	Is't not enough thou hast suborn'd these women
+	To accuse this worthy man, but, in foul mouth,
+	And in the witness of his proper ear,
+	To call him villain?
+	And then to glance from him to the duke himself.
+	To tax him with injustice? take him hence;
+	To the rack with him! We'll touse you joint by joint,
+	But we will know his purpose. What! 'unjust'?
+<SPEECH 76><ACT 5><SCENE 1><92%>
+	Slander to the state! Away with him to prison!
+<SPEECH 77><ACT 5><SCENE 1><93%>
+	Such a fellow is not to be talk'd withal.
+	Away with him to prison! Where is the provost?
+	Away with him to prison! Lay bolts enough on him, let him speak no more. Away with those giglots too, and with the other confederate companion!
+<SPEECH 78><ACT 5><SCENE 1><94%>
+	My lord, I am more amaz'd at his dishonour
+	Than at the strangeness of it.
+<SPEECH 79><ACT 5><SCENE 1><97%>
+	I am sorry, one so learned and so wise
+	As you, Lord Angelo, have still appear'd,
+	Should slip so grossly, both in the heat of blood,
+	And lack of temper'd judgment afterward.

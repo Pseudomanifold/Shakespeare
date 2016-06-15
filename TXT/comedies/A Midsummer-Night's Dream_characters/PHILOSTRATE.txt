@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 5><SCENE 1><83%>
+	Here, mighty Theseus.
+<SPEECH 2><ACT 5><SCENE 1><83%>
+	There is a brief how many sports are ripe;
+	Make choice of which your highness will see first.
+<SPEECH 3><ACT 5><SCENE 1><84%>
+	A play there is, my lord, some ten words long,
+	Which is as brief as I have known a play;
+	But by ten words, my lord, it is too long,
+	Which makes it tedious; for in all the play
+	There is not one word apt, one player fitted.
+	And tragical, my noble lord, it is;
+	For Pyramus therein doth kill himself.
+	Which when I saw rehears'd, I must confess,
+	Made mine eyes water; but more merry tears
+	The passion of loud laughter never shed.
+<SPEECH 4><ACT 5><SCENE 1><84%>
+	Hard-handed men, that work in Athens here,
+	Which never labour'd in their minds till now,
+	And now have toil'd their unbreath'd memories
+	With this same play, against your nuptial.
+<SPEECH 5><ACT 5><SCENE 1><84%>
+	No, my noble lord;
+	It is not for you: I have heard it over,
+	And it is nothing, nothing in the world;
+	Unless you can find sport in their intents,
+	Extremely stretch'd and conn'd with cruel pain,
+	To do you service.
+<SPEECH 6><ACT 5><SCENE 1><86%>
+	So please your Grace, the Prologue is address'd.

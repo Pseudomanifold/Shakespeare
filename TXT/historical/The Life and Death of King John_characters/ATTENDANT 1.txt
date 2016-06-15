@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 4><SCENE 1><58%>
+	I hope your warrant will bear out the deed.
+<SPEECH 2><ACT 4><SCENE 1><61%>
+	I am best pleas'd to be from such a deed.

@@ -1,0 +1,401 @@
+<SPEECH 1><ACT 3><SCENE 2><47%>
+	Brother of Gloucester, at Saint Alban's field
+	This lady's husband, Sir John Grey, was slain,
+	His lands then seiz'd on by the conqueror:
+	Her suit is now, to repossess those lands;
+	Which we in justice cannot well deny,
+	Because in quarrel of the house of York
+	The worthy gentleman did lose his life.
+<SPEECH 2><ACT 3><SCENE 2><47%>
+	It were no less: but yet I'll make a pause.
+<SPEECH 3><ACT 3><SCENE 2><47%>
+	Widow, we will consider of your suit,
+	And come some other time to know our mind.
+<SPEECH 4><ACT 3><SCENE 2><48%>
+	How many children hast thou, widow? tell me.
+<SPEECH 5><ACT 3><SCENE 2><48%>
+	'Twere pity they should lose their father's lands.
+<SPEECH 6><ACT 3><SCENE 2><48%>
+	Lords, give us leave: I'll try this widow's wit.
+<SPEECH 7><ACT 3><SCENE 2><48%>
+	Now, tell me, madam, do you love your children?
+<SPEECH 8><ACT 3><SCENE 2><48%>
+	And would you not do much to do them good?
+<SPEECH 9><ACT 3><SCENE 2><48%>
+	Then get your husband's lands, to do them good.
+<SPEECH 10><ACT 3><SCENE 2><48%>
+	I'll tell you how these lands are to be got.
+<SPEECH 11><ACT 3><SCENE 2><49%>
+	What service wilt thou do me, if I give them?
+<SPEECH 12><ACT 3><SCENE 2><49%>
+	But you will take exceptions to my boon.
+<SPEECH 13><ACT 3><SCENE 2><49%>
+	Ay, but thou canst do what I mean to ask.
+<SPEECH 14><ACT 3><SCENE 2><49%>
+	An easy task: 'tis but to love a king.
+<SPEECH 15><ACT 3><SCENE 2><49%>
+	Why then, thy husband's lands I freely give thee.
+<SPEECH 16><ACT 3><SCENE 2><49%>
+	But stay thee; 'tis the fruits of love I mean.
+<SPEECH 17><ACT 3><SCENE 2><49%>
+	Ay, but, I fear me, in another sense.
+	What love think'st thou I sue so much to get?
+<SPEECH 18><ACT 3><SCENE 2><49%>
+	No, by my troth, I did not mean such love.
+<SPEECH 19><ACT 3><SCENE 2><49%>
+	But now you partly may perceive my mind.
+<SPEECH 20><ACT 3><SCENE 2><50%>
+	To tell thee plain, I aim to lie with thee.
+<SPEECH 21><ACT 3><SCENE 2><50%>
+	Why, then thou shalt not have thy husband's lands.
+<SPEECH 22><ACT 3><SCENE 2><50%>
+	Therein thou wrong'st thy children mightily.
+<SPEECH 23><ACT 3><SCENE 2><50%>
+	Ay, if thou wilt say 'ay' to my request;
+	No, if thou dost say 'no' to my demand.
+<SPEECH 24><ACT 3><SCENE 2><50%>
+	</STAGE DIR> Her looks do argue her replete with modesty;
+	Her words do show her wit incomparable;
+	All her perfections challenge sovereignty:
+	One way or other, she is for a king;
+	And she shall be my love, or else my queen.
+	Say that King Edward take thee for his queen?
+<SPEECH 25><ACT 3><SCENE 2><50%>
+	Sweet widow, by my state I swear to thee,
+	I speak no more than what my soul intends;
+	And that is, to enjoy thee for my love.
+<SPEECH 26><ACT 3><SCENE 2><51%>
+	You cavil, widow: I did mean, my queen.
+<SPEECH 27><ACT 3><SCENE 2><51%>
+	No more than when my daughters call thee mother.
+	Thou art a widow, and thou hast some children;
+	And, by God's mother, I, being but a bachelor,
+	Have other some: why, 'tis a happy thing
+	To be the father unto many sons.
+	Answer no more, for thou shalt be my queen.
+<SPEECH 28><ACT 3><SCENE 2><51%>
+	Brothers, you muse what chat we two have had.
+<SPEECH 29><ACT 3><SCENE 2><51%>
+	You'd think it strange if I should marry her.
+<SPEECH 30><ACT 3><SCENE 2><51%>
+	Why, Clarence, to myself.
+<SPEECH 31><ACT 3><SCENE 2><51%>
+	Well, jest on, brothers: I can tell you both
+	Her suit is granted for her husband's lands.
+<SPEECH 32><ACT 3><SCENE 2><51%>
+	See that he be convey'd unto the Tower:
+	And go we, brothers, to the man that took him,
+	To question of his apprehension.
+	Widow, go you along. Lords, use her honourably.
+<SPEECH 33><ACT 4><SCENE 1><63%>
+	Now, brother Clarence, how like you our choice,
+	That you stand pensive, as half malcontent?
+<SPEECH 34><ACT 4><SCENE 1><63%>
+	Suppose they take offence without a cause,
+	They are but Lewis and Warwick: I am Edward,
+	Your king and Warwick's, and must have my will.
+<SPEECH 35><ACT 4><SCENE 1><63%>
+	Yea, brother Richard, are you offended too?
+<SPEECH 36><ACT 4><SCENE 1><63%>
+	Setting your scorns and your mislike aside,
+	Tell me some reason why the Lady Grey
+	Should not become my wife and England's queen:
+	And you too, Somerset and Montague,
+	Speak freely what you think.
+<SPEECH 37><ACT 4><SCENE 1><64%>
+	What if both Lewis and Warwick be appeas'd
+	By such invention as I can devise?
+<SPEECH 38><ACT 4><SCENE 1><64%>
+	Ay, what of that? it was my will and grant;
+	And for this once my will shall stand for law.
+<SPEECH 39><ACT 4><SCENE 1><65%>
+	Alas, poor Clarence, is it for a wife
+	That thou art malcontent? I will provide thee.
+<SPEECH 40><ACT 4><SCENE 1><65%>
+	Leave me, or tarry, Edward will be king,
+	And not be tied unto his brother's will.
+<SPEECH 41><ACT 4><SCENE 1><65%>
+	My love, forbear to fawn upon their frowns:
+	What danger or what sorrow can befall thee,
+	So long as Edward is thy constant friend,
+	And their true sovereign, whom they must obey?
+	Nay, whom they shall obey, and love thee too,
+	Unless they seek for hatred at my hands;
+	Which if they do, yet will I keep thee safe,
+	And they shall feel the vengeance of my wrath.
+<SPEECH 42><ACT 4><SCENE 1><65%>
+	Now, messenger, what letters or what news
+	From France?
+<SPEECH 43><ACT 4><SCENE 1><65%>
+	Go to, we pardon thee: therefore, in brief,
+	Tell me their words as near as thou canst guess them.
+	What answer makes King Lewis unto our letters?
+<SPEECH 44><ACT 4><SCENE 1><66%>
+	Is Lewis so brave? belike he thinks me Henry.
+	But what said Lady Bona to my marriage?
+<SPEECH 45><ACT 4><SCENE 1><66%>
+	I blame not her, she could say little less;
+	She had the wrong. But what said Henry's queen?
+	For I have heard that she was there in place.
+<SPEECH 46><ACT 4><SCENE 1><66%>
+	Belike she minds to play the Amazon.
+	But what said Warwick to these injuries?
+<SPEECH 47><ACT 4><SCENE 1><66%>
+	Ha! durst the traitor breathe out so proud words?
+	Well, I will arm me, being thus forewarn'd:
+	They shall have wars, and pay for their presumption.
+	But say, is Warwick friends with Margaret?
+<SPEECH 48><ACT 4><SCENE 1><67%>
+	Clarence and Somerset both gone to Warwick!
+	Yet am I arm'd against the worst can happen,
+	And haste is needful in this desperate case.
+	Pembroke and Stafford, you in our behalf
+	Go levy men, and make prepare for war:
+	They are already, or quickly will be landed:
+	Myself in person will straight follow you,
+	But ere I go, Hastings and Montague,
+	Resolve my doubt. You twain, of all the rest,
+	Are near to Warwick by blood, and by alliance:
+	Tell me if you love Warwick more than me?
+	If it be so, then both depart to him;
+	I rather wish you foes than hollow friends:
+	But if you mind to hold your true obedience,
+	Give me assurance with some friendly vow
+	That I may never have you in suspect.
+<SPEECH 49><ACT 4><SCENE 1><67%>
+	Now, brother Richard, will you stand by us?
+<SPEECH 50><ACT 4><SCENE 1><67%>
+	Why, so! then am I sure of victory.
+	Now therefore let us hence; and lose no hour
+	Till we meet Warwick with his foreign power.
+<SPEECH 51><ACT 4><SCENE 3><70%>
+	The duke! Why, Warwick, when we parted last,
+	Thou call'dst me king!
+<SPEECH 52><ACT 4><SCENE 3><70%>
+	Yea, brother of Clarence, art thou here too?
+	Nay, then, I see that Edward needs must down.
+	Yet, Warwick, in despite of all mischance,
+	Of thee thyself, and all thy complices,
+	Edward will always bear himself as king:
+	Though Fortune's malice overthrow my state,
+	My mind exceeds the compass of her wheel.
+<SPEECH 53><ACT 4><SCENE 3><71%>
+	What fates impose, that men must needs abide;
+	It boots not to resist both wind and tide.
+<SPEECH 54><ACT 4><SCENE 5><73%>
+	Nay, this way, man: see where the huntsmen stand.
+	Now, brother of Gloucester, Lord Hastings, and the rest,
+	Stand you thus close, to steal the bishop's deer?
+<SPEECH 55><ACT 4><SCENE 5><73%>
+	But whither shall we then?
+<SPEECH 56><ACT 4><SCENE 5><73%>
+	Stanley, I will requite thy forwardness.
+<SPEECH 57><ACT 4><SCENE 5><73%>
+	Huntsman, what sayst thou? wilt thou go along?
+<SPEECH 58><ACT 4><SCENE 5><73%>
+	Bishop, farewell: shield thee from Warwick's frown,
+	And pray that I may repossess the crown.
+<SPEECH 59><ACT 4><SCENE 7><77%>
+	Now, brother Richard, Lord Hastings, and the rest,
+	Yet thus far Fortune maketh us amends,
+	And says, that once more I shall interchange
+	My waned state for Henry's regal crown.
+	Well have we pass'd, and now repass'd the seas,
+	And brought desired help from Burgundy:
+	What then remains, we being thus arriv'd
+	From Ravenspurgh haven before the gates of York,
+	But that we enter, as into our dukedom?
+<SPEECH 60><ACT 4><SCENE 7><77%>
+	Tush, man! abodements must not now affright us.
+	By fair or foul means we must enter in,
+	For hither will our friends repair to us.
+<SPEECH 61><ACT 4><SCENE 7><77%>
+	But, Master Mayor, if Henry be your king,
+	Yet Edward, at the least, is Duke of York.
+<SPEECH 62><ACT 4><SCENE 7><78%>
+	Why, and I challenge nothing but my dukedom,
+	As being well content with that alone.
+<SPEECH 63><ACT 4><SCENE 7><78%>
+	So, Master Mayor: these gates must not be shut
+	But in the night, or in the time of war.
+	What! fear not, man, but yield me up the keys;
+	For Edward will defend the town and thee,
+	And all those friends that deign to follow me.
+<SPEECH 64><ACT 4><SCENE 7><78%>
+	Welcome, Sir John! but why come you in arms?
+<SPEECH 65><ACT 4><SCENE 7><78%>
+	Thanks, good Montgomery; but we now forget
+	Our title to the crown, and only claim
+	Our dukedom till God please to send the rest.
+<SPEECH 66><ACT 4><SCENE 7><79%>
+	Nay, stay, Sir John, awhile; and we'll debate
+	By what safe means the crown may be recover'd.
+<SPEECH 67><ACT 4><SCENE 7><79%>
+	When we grow stronger then we'll make our claim;
+	Till then, 'tis wisdom to conceal our meaning.
+<SPEECH 68><ACT 4><SCENE 7><79%>
+	Then be it as you will; for 'tis my right,
+	And Henry but usurps the diadem.
+<SPEECH 69><ACT 4><SCENE 7><80%>
+	Thanks, brave Montgomery;—and thanks unto you all:
+	If Fortune serve me, I'll requite this kindness.
+	Now, for this night, let's harbour here in York;
+	And when the morning sun shall raise his car
+	Above the border of this horizon,
+	We'll forward towards Warwick, and his mates;
+	For well I wot that Henry is no soldier.
+	Ah, froward Clarence, how evil it beseems thee
+	To flatter Henry, and forsake thy brother!
+	Yet, as we may, we'll meet both thee and Warwick.
+	Come on, brave soldiers: doubt not of the day;
+	And, that once gotten, doubt not of large pay.
+<SPEECH 70><ACT 4><SCENE 8><82%>
+	Seize on the shame-fac'd Henry! bear him hence:
+	And once again proclaim us King of England.
+	You are the fount that makes small brooks to flow:
+	Now stops thy spring; my sea shall suck them dry,
+	And swell so much the higher by their ebb.
+	Hence with him to the Tower! let him not speak.
+	And, lords, towards Coventry bend we our course,
+	Where peremptory Warwick now remains:
+	The sun shines hot; and, if we use delay,
+	Cold biting winter mars our hop'd-for hay.
+<SPEECH 71><ACT 5><SCENE 1><83%>
+	Go, trumpet, to the walls, and sound a parle.
+<SPEECH 72><ACT 5><SCENE 1><83%>
+	Now, Warwick, wilt thou ope the city gates,
+	Speak gentle words, and humbly bend thy knee?—
+	Call Edward king, and at his hands beg mercy?
+	And he shall pardon thee these outrages.
+<SPEECH 73><ACT 5><SCENE 1><84%>
+	Why then 'tis mine, if but by Warwick's gift.
+<SPEECH 74><ACT 5><SCENE 1><84%>
+	But Warwick's king is Edward's prisoner;
+	And, gallant Warwick, do but answer this,
+	What is the body, when the head is off?
+<SPEECH 75><ACT 5><SCENE 1><84%>
+	'Tis even so: yet you are Warwick still.
+<SPEECH 76><ACT 5><SCENE 1><84%>
+	Sail how thou canst, have wind and tide thy friend;
+	This hand, fast wound about thy coal-black hair,
+	Shall, whiles thy head is warm and new cut off,
+	Write in the dust this sentence with thy blood:
+	'Wind-changing Warwick now can change no more.'
+<SPEECH 77><ACT 5><SCENE 1><85%>
+	So other foes may set upon our backs.
+	Stand we in good array; for they no doubt
+	Will issue out again and bid us battle:
+	If not, the city being but of small defence,
+	We'll quickly rouse the traitors in the same.
+<SPEECH 78><ACT 5><SCENE 1><85%>
+	The harder match'd, the greater victory:
+	My mind presageth happy gain, and conquest.
+<SPEECH 79><ACT 5><SCENE 1><86%>
+	Now welcome more, and ten times more belov'd,
+	Than if thou never hadst deserv'd our hate.
+<SPEECH 80><ACT 5><SCENE 1><86%>
+	What, Warwick, wilt thou leave the town, and fight?
+	Or shall we beat the stones about thine ears?
+<SPEECH 81><ACT 5><SCENE 1><86%>
+	Yes, Warwick, Edward dares, and leads the way.
+	Lords, to the field; Saint George and victory!
+<SPEECH 82><ACT 5><SCENE 2><87%>
+	So, lie thou there: die thou, and die our fear;
+	For Warwick was a bug that fear'd us all.
+	Now Montague, sit fast; I seek for thee,
+	That Warwick's bones may keep thine company.
+<SPEECH 83><ACT 5><SCENE 3><88%>
+	Thus far our fortune keeps an upward course,
+	And we are grac'd with wreaths of victory.
+	But in the midst of this bright-shining day,
+	I spy a black, suspicious, threat'ning cloud,
+	That will encounter with our glorious sun,
+	Ere he attain his easeful western bed:
+	I mean, my lords, those powers that the queen
+	Hath rais'd in Gallia, have arriv'd our coast,
+	And, as we hear, march on to fight with us.
+<SPEECH 84><ACT 5><SCENE 3><89%>
+	We are advertis'd by our loving friends
+	That they do hold their course toward Tewksbury.
+	We, having now the best at Barnet field,
+	Will thither straight, for willingness rids way;
+	And, as we march, our strength will be augmented
+	In every county as we go along.
+	Strike up the drum! cry 'Courage!' and away.
+<SPEECH 85><ACT 5><SCENE 4><91%>
+	Brave followers, yonder stands the thorny wood,
+	Which, by the heavens' assistance, and your strength,
+	Must by the roots be hewn up yet ere night.
+	I need not add more fuel to your fire,
+	For well I wot ye blaze to burn them out:
+	Give signal to the fight, and to it, lords.
+<SPEECH 86><ACT 5><SCENE 5><92%>
+	Now, here a period of tumultuous broils.
+	Away with Oxford to Hames Castle straight:
+	For Somerset, off with his guilty head.
+	Go, bear them hence; I will not hear them speak.
+<SPEECH 87><ACT 5><SCENE 5><92%>
+	Is proclamation made, that who finds Edward
+	Shall have a high reward, and he his life?
+<SPEECH 88><ACT 5><SCENE 5><93%>
+	Bring forth the gallant: let us hear him speak.
+	What! can so young a thorn begin to prick?
+	Edward, what satisfaction canst thou make,
+	For bearing arms, for stirring up my subjects,
+	And all the trouble thou hast turn'd me to?
+<SPEECH 89><ACT 5><SCENE 5><93%>
+	Peace, wilful boy, or I will charm your tongue.
+<SPEECH 90><ACT 5><SCENE 5><93%>
+	Take that, the likeness of this railer here.
+<SPEECH 91><ACT 5><SCENE 5><94%>
+	Hold, Richard, hold! for we have done too much.
+<SPEECH 92><ACT 5><SCENE 5><94%>
+	What! doth she swoon? use means for her recovery.
+<SPEECH 93><ACT 5><SCENE 5><94%>
+	Away with her! go, bear her hence perforce.
+<SPEECH 94><ACT 5><SCENE 5><95%>
+	Away, I say! I charge ye, bear her hence.
+<SPEECH 95><ACT 5><SCENE 5><95%>
+	Where's Richard gone?
+<SPEECH 96><ACT 5><SCENE 5><95%>
+	He's sudden if a thing comes in his head.
+	Now march we hence: discharge the common sort
+	With pay and thanks, and let's away to London
+	And see our gentle queen how well she fares;
+	By this, I hope, she hath a son for me.
+<SPEECH 97><ACT 5><SCENE 7><98%>
+	Once more we sit in England's royal throne,
+	Re-purchas'd with the blood of enemies.
+	What valiant foemen like to autumn's corn,
+	Have we mow'd down, in tops of all their pride!
+	Three Dukes of Somerset, threefold renown'd
+	For hardy and undoubted champions;
+	Two Cliffords, as the father and the son;
+	And two Northumberlands: two braver men
+	Ne'er spurr'd their coursers at the trumpet's sound;
+	With them, the two brave bears, Warwick and Montague,
+	That in their chains fetter'd the kingly lion,
+	And made the forest tremble when they roar'd.
+	Thus have we swept suspicion from our seat,
+	And made our footstool of security.
+	Come hither, Bess, and let me kiss my boy.
+	Young Ned, for thee thine uncles and myself
+	Have in our armours watch'd the winter's night;
+	Went all a-foot in summer's scalding heat,
+	That thou might'st repossess the crown in peace;
+	And of our labours thou shalt reap the gain.
+<SPEECH 98><ACT 5><SCENE 7><99%>
+	Clarence and Gloucester, love my lovely queen;
+	And kiss your princely nephew, brothers both.
+<SPEECH 99><ACT 5><SCENE 7><99%>
+	Thanks, noble Clarence; worthy brother, thanks.
+<SPEECH 100><ACT 5><SCENE 7><100%>
+	Now am I seated as my soul delights,
+	Having my country's peace and brothers' loves.
+<SPEECH 101><ACT 5><SCENE 7><100%>
+	Away with her, and waft her hence to France.
+	And now what rests but that we spend the time
+	With stately triumphs, mirthful comic shows,
+	Such as befit the pleasure of the court?
+	Sound, drums and trumpets! farewell, sour annoy!
+	For here, I hope, begins our lasting joy.

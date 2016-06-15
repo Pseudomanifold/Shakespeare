@@ -1,0 +1,966 @@
+<SPEECH 1><ACT 1><SCENE 2><4%>
+	Where is my gracious lord of Canterbury?
+<SPEECH 2><ACT 1><SCENE 2><4%>
+	Send for him, good uncle.
+<SPEECH 3><ACT 1><SCENE 2><4%>
+	Not yet, my cousin: we would be resolv'd,
+	Before we hear him, of some things of weight
+	That task our thoughts, concerning us and France.
+<SPEECH 4><ACT 1><SCENE 2><5%>
+	Sure, we thank you.
+	My learned lord, we pray you to proceed,
+	And justly and religiously unfold
+	Why the law Salique that they have in France
+	Or should, or should not, bar us in our claim.
+	And God forbid, my dear and faithful lord,
+	That you should fashion, wrest, or bow your reading,
+	Or nicely charge your understanding soul
+	With opening titles miscreate, whose right
+	Suits not in native colours with the truth;
+	For God doth know how many now in health
+	Shall drop their blood in approbation
+	Of what your reverence shall incite us to.
+	Therefore take heed how you impawn our person,
+	How you awake the sleeping sword of war:
+	We charge you in the name of God, take heed;
+	For never two such kingdoms did contend
+	Without much fall of blood; whose guiltless drops
+	Are every one a woe, a sore complaint,
+	'Gainst him whose wrongs give edge unto the swords
+	That make such waste in brief mortality.
+	Under this conjuration speak, my lord,
+	And we will hear, note, and believe in heart,
+	That what you speak is in your conscience wash'd
+	As pure as sin with baptism.
+<SPEECH 5><ACT 1><SCENE 2><7%>
+	May I with right and conscience make this claim?
+<SPEECH 6><ACT 1><SCENE 2><8%>
+	We must not only arm to invade the French,
+	But lay down our proportions to defend
+	Against the Scot, who will make road upon us
+	With all advantages.
+<SPEECH 7><ACT 1><SCENE 2><8%>
+	We do not mean the coursing snatchers only,
+	But fear the main intendment of the Scot,
+	Who hath been still a giddy neighbour to us;
+	For you shall read that my great-grandfather
+	Never went with his forces into France
+	But that the Scot on his unfurnish'd kingdom
+	Came pouring, like the tide into a breach,
+	With ample and brim fulness of his force,
+	Galling the gleaned land with hot essays,
+	Girding with grievous siege castles and towns;
+	That England, being empty of defence,
+	Hath shook and trembled at the ill neighbourhood.
+<SPEECH 8><ACT 1><SCENE 2><10%>
+	Call in the messengers sent from the Dauphin.
+	Now are we well resolv'd; and by God's help,
+	And yours, the noble sinews of our power,
+	France being ours, we'll bend it to our awe
+	Or break it all to pieces: or there we'll sit,
+	Ruling in large and ample empery
+	O'er France and all her almost kingly dukedoms,
+	Or lay these bones in an unworthy urn,
+	Tombless, with no remembrance over them:
+	Either our history shall with full mouth
+	Speak freely of our acts, or else our grave,
+	Like Turkish mute, shall have a tongueless mouth,
+	Not worshipp'd with a waxen epitaph.
+	Now are we well prepar'd to know the pleasure
+	Of our fair cousin Dauphin; for we hear
+	Your greeting is from him, not from the king.
+<SPEECH 9><ACT 1><SCENE 2><11%>
+	We are no tyrant, but a Christian king;
+	Unto whose grace our passion is as subject
+	As are our wretches fetter'd in our prisons:
+	Therefore with frank and with uncurbed plainness
+	Tell us the Dauphin's mind.
+<SPEECH 10><ACT 1><SCENE 2><12%>
+	What treasure, uncle?
+<SPEECH 11><ACT 1><SCENE 2><12%>
+	We are glad the Dauphin is so pleasant with us:
+	His present and your pains we thank you for:
+	When we have match'd our rackets to these balls,
+	We will in France, by God's grace, play a set
+	Shall strike his father's crown into the hazard.
+	Tell him he hath made a match with such a wrangler
+	That all the courts of France will be disturb'd
+	With chaces. And we understand him well,
+	How he comes o'er us with our wilder days,
+	Not measuring what use we made of them.
+	We never valu'd this poor seat of England;
+	And therefore, living hence, did give ourself
+	To barbarous licence; as 'tis ever common
+	That men are merriest when they are from home.
+	But tell the Dauphin I will keep my state,
+	Be like a king and show my sail of greatness
+	When I do rouse me in my throne of France:
+	For that I have laid by my majesty
+	And plodded like a man for working-days,
+	But I will rise there with so full a glory
+	That I will dazzle all the eyes of France,
+	Yea, strike the Dauphin blind to look on us.
+	And tell the pleasant prince this mock of his
+	Hath turn'd his balls to gun-stones; and his soul
+	Shall stand sore-charged for the wasteful vengeance
+	That shall fly with them: for many a thousand widows
+	Shall this his mock mock out of their dear husbands;
+	Mock mothers from their sons, mock castles down;
+	And some are yet ungotten and unborn
+	That shall have cause to curse the Dauphin's scorn.
+	But this lies all within the will of God,
+	To whom I do appeal; and in whose name
+	Tell you the Dauphin I am coming on,
+	To venge me as I may and to put forth
+	My rightful hand in a well-hallow'd cause.
+	So get you hence in peace; and tell the Dauphin
+	His jest will savour but of shallow wit
+	When thousands weep more than did laugh at it.
+	Convey them with safe conduct. Fare you well.
+<SPEECH 12><ACT 1><SCENE 2><13%>
+	We hope to make the sender blush at it.
+	Therefore, my lords, omit no happy hour
+	That may give furtherance to our expedition;
+	For we have now no thought in us but France,
+	Save those to God, that run before our business.
+	Therefore let our proportions for these wars
+	Be soon collected, and all things thought upon
+	That may with reasonable swiftness add
+	More feathers to our wings; for, God before,
+	We'll chide this Dauphin at his father's door.
+	Therefore let every man now task his thought,
+	That this fair action may on foot be brought.
+<SPEECH 13><ACT 2><SCENE 2><19%>
+	Now sits the wind fair, and we will aboard.
+	My Lord of Cambridge, and my kind Lord of Masham,
+	And you, my gentle knight, give me your thoughts:
+	Think you not that the powers we bear with us
+	Will cut their passage through the force of France,
+	Doing the execution and the act
+	For which we have in head assembled them?
+<SPEECH 14><ACT 2><SCENE 2><19%>
+	I doubt not that; since we are well persuaded
+	We carry not a heart with us from hence
+	That grows not in a fair consent with ours;
+	Nor leave not one behind that doth not wish
+	Success and conquest to attend on us.
+<SPEECH 15><ACT 2><SCENE 2><20%>
+	We therefore have great cause of thankfulness,
+	And shall forget the office of our hand,
+	Sooner than quittance of desert and merit
+	According to the weight and worthiness.
+<SPEECH 16><ACT 2><SCENE 2><20%>
+	We judge no less. Uncle of Exeter,
+	Enlarge the man committed yesterday
+	That rail'd against our person: we consider
+	It was excess of wine that set him on;
+	And on his more advice we pardon him.
+<SPEECH 17><ACT 2><SCENE 2><20%>
+	O! let us yet be merciful.
+<SPEECH 18><ACT 2><SCENE 2><20%>
+	Alas! your too much love and care of me
+	Are heavy orisons 'gainst this poor wretch.
+	If little faults, proceeding on distemper,
+	Shall not be wink'd at, how shall we stretch our eye
+	When capital crimes, chew'd, swallow'd, and digested,
+	Appear before us? We'll yet enlarge that man,
+	Though Cambridge, Scroop, and Grey, in their dear care,
+	And tender preservation of our person,
+	Would have him punish'd. And now to our French causes:
+	Who are the late commissioners?
+<SPEECH 19><ACT 2><SCENE 2><20%>
+	Then, Richard, Earl of Cambridge, there is yours;
+	There yours, Lord Scroop of Masham; and, sir knight,
+	Grey of Northumberland, this same is yours:
+	Read them; and know, I know your worthiness.
+	My Lord of Westmoreland, and uncle Exeter,
+	We will aboard to-night. Why, how now, gentlemen!
+	What see you in those papers that you lose
+	So much complexion? Look ye, how they change!
+	Their cheeks are paper. Why, what read you there,
+	That hath so cowarded and chas'd your blood
+	Out of appearance?
+<SPEECH 20><ACT 2><SCENE 2><21%>
+	The mercy that was quick in us but late
+	By your own counsel is suppress'd and kill'd:
+	You must not dare, for shame, to talk of mercy;
+	For your own reasons turn into your bosoms,
+	As dogs upon their masters, worrying you.
+	See you, my princes and my noble peers,
+	These English monsters! My Lord of Cambridge here,
+	You know how apt our love was to accord
+	To furnish him with all appertinents
+	Belonging to his honour; and this man
+	Hath, for a few light crowns, lightly conspir'd,
+	And sworn unto the practices of France,
+	To kill us here in Hampton: to the which
+	This knight, no less for bounty bound to us
+	Than Cambridge is, hath likewise sworn. But O!
+	What shall I say to thee, Lord Scroop? thou cruel,
+	Ingrateful, savage and inhuman creature!
+	Thou that didst bear the key of all my counsels,
+	That knew'st the very bottom of my soul,
+	That almost mightst have coin'd me into gold
+	Wouldst thou have practis'd on me for thy use!
+	May it be possible that foreign hire
+	Could out of thee extract one spark of evil
+	That might annoy my finger? 'tis so strange
+	That, though the truth of it stands off as gross
+	As black from white, my eye will scarcely see it.
+	Treason and murder ever kept together,
+	As two yoke-devils sworn to either's purpose,
+	Working so grossly in a natural cause
+	That admiration did not whoop at them:
+	But thou, 'gainst all proportion, didst bring in
+	Wonder to wait on treason and on murder:
+	And whatsoever cunning fiend it was
+	That wrought upon thee so preposterously
+	Hath got the voice in hell for excellence:
+	And other devils that suggest by treasons
+	Do botch and bungle up damnation
+	With patches, colours, and with forms, being fetch'd
+	From glistering semblances of piety;
+	But he that temper'd thee bade thee stand up,
+	Gave thee no instance why thou shouldst do treason,
+	Unless to dub thee with the name of traitor.
+	If that same demon that hath gull'd thee thus
+	Should with his lion gait walk the whole world,
+	He might return to vasty Tartar back,
+	And tell the legions, 'I can never win
+	A soul so easy as that Englishman's.'
+	O! how hast thou with jealousy infected
+	The sweetness of affiance. Show men dutiful?
+	Why, so didst thou: seem they grave and learned?
+	Why, so didst thou: come they of noble family?
+	Why, so didst thou: seem they religious?
+	Why, so didst thou: or are they spare in diet,
+	Free from gross passion or of mirth or anger,
+	Constant in spirit, not swerving with the blood,
+	Garnish'd and deck'd in modest complement,
+	Not working with the eye without the ear,
+	And but in purged judgment trusting neither?
+	Such and so finely bolted didst thou seem:
+	And thus thy fall hath left a kind of blot,
+	To mark the full-fraught man and best indu'd
+	With some suspicion. I will weep for thee;
+	For this revolt of thine, methinks, is like
+	Another fall of man. Their faults are open:
+	Arrest them to the answer of the law;
+	And God acquit them of their practices!
+<SPEECH 21><ACT 2><SCENE 2><23%>
+	God quit you in his mercy! Hear your sentence.
+	You have conspir'd against our royal person,
+	Join'd with an enemy proclaim'd, and from his coffers
+	Receiv'd the golden earnest of our death;
+	Wherein you would have sold your king to slaughter,
+	His princes and his peers to servitude,
+	His subjects to oppression and contempt,
+	And his whole kingdom into desolation.
+	Touching our person seek we no revenge;
+	But we our kingdom's safety must so tender,
+	Whose ruin you have sought, that to her laws
+	We do deliver you. Get you therefore hence,
+	Poor miserable wretches, to your death;
+	The taste whereof, God of his mercy give you
+	Patience to endure, and true repentance
+	Of all your dear offences! Bear them hence.
+	Now, lords, for France! the enterprise whereof
+	Shall be to you, as us, like glorious.
+	We doubt not of a fair and lucky war,
+	Since God so graciously hath brought to light
+	This dangerous treason lurking in our way
+	To hinder our beginnings. We doubt not now
+	But every rub is smoothed on our way.
+	Then forth, dear countrymen: let us deliver
+	Our puissance into the hand of God,
+	Putting it straight in expedition.
+	Cheerly to sea! the signs of war advance:
+	No king of England, if not king of France.
+<SPEECH 22><ACT 3><SCENE 1><32%>
+	Once more unto the breach, dear friends, once more;
+	Or close the wall up with our English dead!
+	In peace there's nothing so becomes a man
+	As modest stillness and humility:
+	But when the blast of war blows in our ears,
+	Then imitate the action of the tiger;
+	Stiffen the sinews, summon up the blood,
+	Disguise fair nature with hard-favour'd rage;
+	Then lend the eye a terrible aspect;
+	Let it pry through the portage of the head
+	Like the brass cannon; let the brow o'erwhelm it
+	As fearfully as doth a galled rock
+	O'erhang and jutty his confounded base,
+	Swill'd with the wild and wasteful ocean.
+	Now set the teeth and stretch the nostril wide,
+	Hold hard the breath, and bend up every spirit
+	To his full height! On, on, you noblest English!
+	Whose blood is fet from fathers of war-proof;
+	Fathers that, like so many Alexanders,
+	Have in these parts from morn till even fought,
+	And sheath'd their swords for lack of argument.
+	Dishonour not your mothers; now attest
+	That those whom you call'd fathers did beget you.
+	Be copy now to men of grosser blood,
+	And teach them how to war. And you, good yeomen,
+	Whose limbs were made in England, show us here
+	The mettle of your pasture; let us swear
+	That you are worth your breeding; which I doubt not;
+	For there is none of you so mean and base
+	That hath not noble lustre in your eyes.
+	I see you stand like greyhounds in the slips,
+	Straining upon the start. The game's afoot:
+	Follow your spirit; and, upon this charge
+	Cry 'God for Harry! England and Saint George!'
+<SPEECH 23><ACT 3><SCENE 3><37%>
+	How yet resolves the governor of the town?
+	This is the latest parle we will admit:
+	Therefore to our best mercy give yourselves;
+	Or like to men proud of destruction
+	Defy us to our worst: for, as I am a soldier,—
+	A name that in my thoughts, becomes me best,—
+	If I begin the battery once again,
+	I will not leave the half-achieved Harfleur
+	Till in her ashes she lie buried.
+	The gates of mercy shall be all shut up,
+	And the flesh'd soldier, rough and hard of heart,
+	In liberty of bloody hand shall range
+	With conscience wide as hell, mowing like grass
+	Your fresh-fair virgins and your flowering infants.
+	What is it then to me, if impious war,
+	Array'd in flames like to the prince of fiends,
+	Do, with his smirch'd complexion, all fell feats
+	Enlink'd to waste and desolation?
+	What is't to me, when you yourselves are cause,
+	If your pure maidens fall into the hand
+	Of hot and forcing violation?
+	What rein can hold licentious wickedness
+	When down the hill he holds his fierce career?
+	We may as bootless spend our vain command
+	Upon the enraged soldiers in their spoil
+	As send precepts to the leviathan
+	To come ashore. Therefore, you men of Harfleur,
+	Take pity of your town and of your people,
+	Whiles yet my soldiers are in my command;
+	Whiles yet the cool and temperate wind of grace
+	O'erblows the filthy and contagious clouds
+	Of heady murder, spoil, and villany.
+	If not, why, in a moment, look to see
+	The blind and bloody soldier with foul hand
+	Defile the locks of your shrill-shrieking daughters;
+	Your fathers taken by the silver beards,
+	And their most reverend heads dash'd to the walls;
+	Your naked infants spitted upon pikes,
+	Whiles the mad mothers with their howls confus'd
+	Do break the clouds, as did the wives of Jewry
+	At Herod's bloody-hunting slaughtermen.
+	What say you? will you yield, and this avoid?
+	Or, guilty in defence, be thus destroy'd?
+<SPEECH 24><ACT 3><SCENE 3><39%>
+	Open your gates! Come, uncle Exeter,
+	Go you and enter Harfleur; there remain,
+	And fortify it strongly 'gainst the French:
+	Use mercy to them all. For us, dear uncle,
+	The winter coming on and sickness growing
+	Upon our soldiers, we will retire to Calais.
+	To-night in Harfleur will we be your guest;
+	To-morrow for the march are we addrest.
+<SPEECH 25><ACT 3><SCENE 6><46%>
+	How now, Fluellen! cam'st thou from the bridge?
+<SPEECH 26><ACT 3><SCENE 6><46%>
+	What men have you lost, Fluellen?
+<SPEECH 27><ACT 3><SCENE 6><46%>
+	We would have all such offenders so cut off: and we give express charge that in our marches through the country there be nothing compelled from the villages, nothing taken but paid for, none of the French upbraided or abused in disdainful language; for when lenity and cruelty play for a kingdom, the gentler gamester is the soonest winner.
+<SPEECH 28><ACT 3><SCENE 6><46%>
+	Well then I know thee: what shall I know of thee?
+<SPEECH 29><ACT 3><SCENE 6><46%>
+	Unfold it.
+<SPEECH 30><ACT 3><SCENE 6><47%>
+	What is thy name? I know thy quality.
+<SPEECH 31><ACT 3><SCENE 6><47%>
+	Thou dost thy office fairly. Turn thee back,
+	And tell thy king I do not seek him now,
+	But could be willing to march on to Calais
+	Without impeachment; for, to say the sooth,—
+	Though 'tis no wisdom to confess so much
+	Unto an enemy of craft and vantage,—
+	My people are with sickness much enfeebled,
+	My numbers lessen'd, and those few I have
+	Almost no better than so many French:
+	Who, when they were in health, I tell thee, herald,
+	I thought upon one pair of English legs
+	Did march three Frenchmen. Yet, forgive me, God,
+	That I do brag thus! this your air of France
+	Hath blown that vice in me; I must repent.
+	Go therefore, tell thy master here I am:
+	My ransom is this frail and worthless trunk,
+	My army but a weak and sickly guard;
+	Yet, God before, tell him we will come on,
+	Though France himself and such another neighbour
+	Stand in our way. There's for thy labour, Montjoy.
+	Go, bid thy master well advise himself:
+	If we may pass, we will; if we be hinder'd,
+	We shall your tawny ground with your red blood
+	Discolour: and so, Montjoy, fare you well.
+	The sum of all our answer is but this:
+	We would not seek a battle as we are;
+	Nor, as we are, we say we will not shun it:
+	So tell your master.
+<SPEECH 32><ACT 3><SCENE 6><48%>
+	We are in God's hand, brother, not in theirs.
+	March to the bridge; it now draws toward night:
+	Beyond the river we'll encamp ourselves,
+	And on to-morrow bid them march away.
+<SPEECH 33><ACT 4><SCENE 1><54%>
+	Gloucester, 'tis true that we are in great danger;
+	The greater therefore should our courage be.
+	Good morrow, brother Bedford. God Almighty!
+	There is some soul of goodness in things evil,
+	Would men observingly distil it out;
+	For our bad neighbour makes us early stirrers,
+	Which is both healthful, and good husbandry:
+	Besides, they are our outward consciences,
+	And preachers to us all; admonishing
+	That we should dress us fairly for our end.
+	Thus may we gather honey from the weed,
+	And make a moral of the devil himself.
+	Good morrow, old Sir Thomas Erpingham:
+	A good soft pillow for that good white head
+	Were better than a churlish turf of France.
+<SPEECH 34><ACT 4><SCENE 1><55%>
+	'Tis good for men to love their present pains
+	Upon example; so the spirit is eas'd:
+	And when the mind is quicken'd, out of doubt,
+	The organs, though defunct and dead before,
+	Break up their drowsy grave, and newly move
+	With casted slough and fresh legerity.
+	Lend me thy cloak, Sir Thomas. Brothers both,
+	Commend me to the princes in our camp;
+	Do my good morrow to them; and anon
+	Desire them all to my pavilion.
+<SPEECH 35><ACT 4><SCENE 1><55%>
+	No, my good knight;
+	Go with my brothers to my lords of England:
+	I and my bosom must debate awhile,
+	And then I would no other company.
+<SPEECH 36><ACT 4><SCENE 1><55%>
+	God-a-mercy, old heart! thou speak'st cheerfully.
+<SPEECH 37><ACT 4><SCENE 1><55%>
+	A friend.
+<SPEECH 38><ACT 4><SCENE 1><55%>
+	I am a gentleman of a company.
+<SPEECH 39><ACT 4><SCENE 1><55%>
+	Even so. What are you?
+<SPEECH 40><ACT 4><SCENE 1><56%>
+	Then you are a better than the king.
+<SPEECH 41><ACT 4><SCENE 1><56%>
+	Harry le Roy.
+<SPEECH 42><ACT 4><SCENE 1><56%>
+	No, I am a Welshman.
+<SPEECH 43><ACT 4><SCENE 1><56%>
+	Yes.
+<SPEECH 44><ACT 4><SCENE 1><56%>
+	Do not you wear your dagger in your cap that day, lest he knock that about yours.
+<SPEECH 45><ACT 4><SCENE 1><56%>
+	And his kinsman too.
+<SPEECH 46><ACT 4><SCENE 1><56%>
+	I thank you. God be with you!
+<SPEECH 47><ACT 4><SCENE 1><56%>
+	It sorts well with your fierceness.
+<SPEECH 48><ACT 4><SCENE 1><57%>
+	Though it appear a little out of fashion,
+	There is much care and valour in this Welshman.
+<SPEECH 49><ACT 4><SCENE 1><57%>
+	A friend.
+<SPEECH 50><ACT 4><SCENE 1><57%>
+	Under Sir Thomas Erpingham.
+<SPEECH 51><ACT 4><SCENE 1><57%>
+	Even as men wracked upon a sand, that look to be washed off the next tide.
+<SPEECH 52><ACT 4><SCENE 1><57%>
+	No; nor it is not meet he should. For, though I speak it to you, I think the king is but a man, as I am: the violet smells to him as it doth to me; the element shows to him as it doth to me; all his senses have but human conditions: his ceremonies laid by, in his nakedness he appears but a man; and though his affections are higher mounted than ours, yet when they stoop, they stoop with the like wing. Therefore when he sees reason of fears, as we do, his fears, out of doubt, be of the same relish as ours are: yet, in reason, no man should possess him with any appearance of fear, lest he, by showing it, should dishearten his army.
+<SPEECH 53><ACT 4><SCENE 1><58%>
+	By my troth, I will speak my conscience of the king: I think he would not wish himself any where but where he is.
+<SPEECH 54><ACT 4><SCENE 1><58%>
+	I dare say you love him not so ill to wish him here alone, howsoever you speak this to feel other men's minds. Methinks I could not die any where so contented as in the king's company, his cause being just and his quarrel honourable.
+<SPEECH 55><ACT 4><SCENE 1><59%>
+	So, if a son that is by his father sent about merchandise do sinfully miscarry upon the sea, the imputation of his wickedness, by your rule, should be imposed upon his father that sent him: or if a servant, under his master's command transporting a sum of money, be assailed by robbers and die in many irreconciled iniquities, you may call the business of the master the author of the servant's damnation. But this is not so: the king is not bound to answer the particular endings of his soldiers, the father of his son, nor the master of his servant; for they purpose not their death when they purpose their services. Besides, there is no king, be his cause never so spotless, if it come to the arbitrement of swords, can try it out with all unspotted soldiers. Some, peradventure, have on them the guilt of premeditated and contrived murder; some, of beguiling virgins with the broken seals of perjury; some, making the wars their bulwark, that have before gored the gentle bosom of peace with pillage and robbery. Now, if these men have defeated the law and outrun native punishment, though they can outstrip men, they have no wings to fly from God: war is his beadle, war is his vengeance; so that here men are punished for before-breach of the king's laws in now the king's quarrel: where they feared the death they have borne life away, and where they would be safe they perish. Then, if they die unprovided, no more is the king guilty of their damnation than he was before guilty of those impieties for the which they are now visited. Every subject's duty is the king's; but every subject's soul is his own. Therefore should every soldier in the wars do as every sick man in his bed, wash every mote out of his conscience; and dying so, death is to him advantage; or not dying, the time was blessedly lost wherein such preparation was gained: and in him that escapes, it were not sin to think, that making God so free an offer, he let him outlive that day to see his greatness, and to teach others how they should prepare.
+<SPEECH 56><ACT 4><SCENE 1><60%>
+	I myself heard the king say he would not be ransomed.
+<SPEECH 57><ACT 4><SCENE 1><60%>
+	If I live to see it, I will never trust his word after.
+<SPEECH 58><ACT 4><SCENE 1><61%>
+	Your reproof is something too round; I should be angry with you if the time were convenient.
+<SPEECH 59><ACT 4><SCENE 1><61%>
+	I embrace it.
+<SPEECH 60><ACT 4><SCENE 1><61%>
+	Give me any gage of thine, and I will wear it in my bonnet: then, if ever thou darest acknowledge it, I will make it my quarrel.
+<SPEECH 61><ACT 4><SCENE 1><61%>
+	There.
+<SPEECH 62><ACT 4><SCENE 1><61%>
+	If ever I live to see it, I will challenge it.
+<SPEECH 63><ACT 4><SCENE 1><61%>
+	Well, I will do it, though I take thee in the king's company.
+<SPEECH 64><ACT 4><SCENE 1><61%>
+	Indeed, the French may lay twenty French crowns to one, they will beat us; for they bear them on their shoulders: but it is no English treason to cut French crowns, and to-morrow the king himself will be a clipper.
+	Upon the king! let us our lives, our souls,
+	Our debts, our careful wives,
+	Our children, and our sins lay on the king!
+	We must bear all. O hard condition!
+	Twin-born with greatness, subject to the breath
+	Of every fool, whose sense no more can feel
+	But his own wringing. What infinite heart's ease
+	Must kings neglect that private men enjoy!
+	And what have kings that privates have not too,
+	Save ceremony, save general ceremony?
+	And what art thou, thou idle ceremony?
+	What kind of god art thou, that suffer'st more
+	Of mortal griefs than do thy worshippers?
+	What are thy rents? what are thy comings-in?
+	O ceremony! show me but thy worth:
+	What is thy soul of adoration?
+	Art thou aught else but place, degree, and form,
+	Creating awe and fear in other men?
+	Wherein thou art less happy, being fear'd,
+	Than they in fearing.
+	What drink'st thou oft, instead of homage sweet,
+	But poison'd flattery? O! be sick, great greatness,
+	And bid thy ceremony give thee cure.
+	Think'st thou the fiery fever will go out
+	With titles blown from adulation?
+	Will it give place to flexure and low-bending?
+	Canst thou, when thou command'st the beggar's knee,
+	Command the health of it? No, thou proud dream,
+	That play'st so subtly with a king's repose;
+	I am a king that find thee; and I know
+	'Tis not the balm, the sceptre and the ball,
+	The sword, the mace, the crown imperial,
+	The intertissued robe of gold and pearl,
+	The farced title running 'fore the king,
+	The throne he sits on, nor the tide of pomp
+	That beats upon the high shore of this world,
+	No, not all these, thrice-gorgeous ceremony,
+	Not all these, laid in bed majestical,
+	Can sleep so soundly as the wretched slave,
+	Who with a body fill'd and vacant mind
+	Gets him to rest, cramm'd with distressful bread;
+	Never sees horrid night, the child of hell,
+	But, like a lackey, from the rise to set
+	Sweats in the eye of Phœbus, and all night
+	Sleeps in Elysium; next day after dawn,
+	Doth rise and help Hyperion to his horse,
+	And follows so the ever-running year
+	With profitable labour to his grave:
+	And, but for ceremony, such a wretch,
+	Winding up days with toil and nights with sleep,
+	Had the fore-hand and vantage of a king.
+	The slave, a member of the country's peace,
+	Enjoys it; but in gross brain little wots
+	What watch the king keeps to maintain the peace,
+	Whose hours the peasant best advantages.
+<SPEECH 65><ACT 4><SCENE 1><63%>
+	Good old knight,
+	Collect them all together at my tent:
+	I'll be before thee.
+<SPEECH 66><ACT 4><SCENE 1><63%>
+	O God of battles! steel my soldiers' hearts;
+	Possess them not with fear; take from them now
+	The sense of reckoning, if the opposed numbers
+	Pluck their hearts from them. Not to-day, O Lord!
+	O! not to-day, think not upon the fault
+	My father made in compassing the crown.
+	I Richard's body have interr'd anew,
+	And on it have bestow'd more contrite tears
+	Than from it issu'd forced drops of blood.
+	Five hundred poor I have in yearly pay,
+	Who twice a day their wither'd hands hold up
+	Toward heaven, to pardon blood; and I have built
+	Two chantries, where the sad and solemn priests
+	Sing still for Richard's soul. More will I do;
+	Though all that I can do is nothing worth,
+	Since that my penitence comes after all,
+	Imploring pardon.
+<SPEECH 67><ACT 4><SCENE 1><64%>
+	My brother Gloucester's voice! Ay;
+	I know thy errand, I will go with thee:
+	The day, my friends, and all things stay for me.
+<SPEECH 68><ACT 4><SCENE 3><66%>
+	What's he that wishes so?
+	My cousin Westmoreland? No, my fair cousin:
+	If we are mark'd to die, we are enow
+	To do our country loss; and if to live,
+	The fewer men, the greater share of honour.
+	God's will! I pray thee, wish not one man more.
+	By Jove, I am not covetous for gold,
+	Nor care I who doth feed upon my cost;
+	It yearns me not if men my garments wear;
+	Such outward things dwell not in my desires:
+	But if it be a sin to covet honour,
+	I am the most offending soul alive.
+	No, faith, my coz, wish not a man from England:
+	God's peace! I would not lose so great an honour
+	As one man more, methinks, would share from me,
+	For the best hope I have. O! do not wish one more:
+	Rather proclaim it, Westmoreland, through my host,
+	That he which hath no stomach to this fight,
+	Let him depart; his passport shall be made,
+	And crowns for convoy put into his purse:
+	We would not die in that man's company
+	That fears his fellowship to die with us.
+	This day is call'd the feast of Crispian:
+	He that outlives this day, and comes safe home,
+	Will stand a tip-toe when this day is nam'd,
+	And rouse him at the name of Crispian.
+	He that shall live this day, and see old age,
+	Will yearly on the vigil feast his neighbours,
+	And say, 'To-morrow is Saint Crispian:'
+	Then will he strip his sleeve and show his scars,
+	And say, 'These wounds I had on Crispin's day.'
+	Old men forget: yet all shall be forgot,
+	But he'll remember with advantages
+	What feats he did that day. Then shall our names,
+	Familiar in his mouth as household words,
+	Harry the king, Bedford and Exeter,
+	Warwick and Talbot, Salisbury and Gloucester,
+	Be in their flowing cups freshly remember'd.
+	This story shall the good man teach his son;
+	And Crispin Crispian shall ne'er go by,
+	From this day to the ending of the world,
+	But we in it shall be remembered;
+	We few, we happy few, we band of brothers;
+	For he to-day that sheds his blood with me
+	Shall be my brother; be he ne'er so vile
+	This day shall gentle his condition:
+	And gentlemen in England, now a-bed
+	Shall think themselves accurs'd they were not here,
+	And hold their manhoods cheap whiles any speaks
+	That fought with us upon Saint Crispin's day.
+<SPEECH 69><ACT 4><SCENE 3><68%>
+	All things are ready, if our minds be so.
+<SPEECH 70><ACT 4><SCENE 3><68%>
+	Thou dost not wish more help from England, coz?
+<SPEECH 71><ACT 4><SCENE 3><68%>
+	Why, now thou hast unwish'd five thousand men;
+	Which likes me better than to wish us one.
+	You know your places: God be with you all!
+<SPEECH 72><ACT 4><SCENE 3><68%>
+	Who hath sent thee now?
+<SPEECH 73><ACT 4><SCENE 3><69%>
+	I pray thee, bear my former answer back:
+	Bid them achieve me and then sell my bones.
+	Good God! why should they mock poor fellows thus?
+	The man that once did sell the lion's skin
+	While the beast liv'd, was kill'd with hunting him.
+	A many of our bodies shall no doubt
+	Find native graves; upon the which, I trust,
+	Shall witness live in brass of this day's work;
+	And those that leave their valiant bones in France,
+	Dying like men, though buried in your dung-hills,
+	They shall be fam'd; for there the sun shall greet them,
+	And draw their honours reeking up to heaven,
+	Leaving their earthly parts to choke your clime,
+	The smell whereof shall breed a plague in France.
+	Mark then abounding valour in our English,
+	That being dead, like to the bullet's grazing,
+	Break out into a second course of mischief,
+	Killing in relapse of mortality.
+	Let me speak proudly: tell the constable,
+	We are but warriors for the working-day;
+	Our gayness and our gilt are all besmirch'd
+	With rainy marching in the painful field;
+	There's not a piece of feather in our host—
+	Good argument, I hope, we will not fly—
+	And time hath worn us into slovenry:
+	But, by the mass, our hearts are in the trim;
+	And my poor soldiers tell me, yet ere night
+	They'll be in fresher robes, or they will pluck
+	The gay new coats o'er the French soldiers' heads,
+	And turn them out of service. If they do this,—
+	As, if God please, they shall,—my ransom then
+	Will soon be levied. Herald, save thou thy labour;
+	Come thou no more for ransom, gentle herald:
+	They shall have none, I swear, but these my joints;
+	Which if they have as I will leave 'em them,
+	Shall yield them little, tell the constable.
+<SPEECH 74><ACT 4><SCENE 3><70%>
+	I fear thou'lt once more come again for ransom.
+<SPEECH 75><ACT 4><SCENE 3><70%>
+	Take it, brave York. Now, soldiers, march away:
+	And how thou pleasest, God, dispose the day!
+<SPEECH 76><ACT 4><SCENE 6><73%>
+	Well have we done, thrice-valiant countrymen:
+	But all's not done; yet keep the French the field.
+<SPEECH 77><ACT 4><SCENE 6><73%>
+	Lives he, good uncle? thrice within this hour
+	I saw him down; thrice up again, and fighting;
+	From helmet to the spur all blood he was.
+<SPEECH 78><ACT 4><SCENE 6><74%>
+	I blame you not;
+	For, hearing this, I must perforce compound
+	With mistful eyes, or they will issue too.
+	But hark! what new alarum is this same?
+	The French have reinforc'd their scatter'd men:
+	Then every soldier kill his prisoners!
+	Give the word through.
+<SPEECH 79><ACT 4><SCENE 7><76%>
+	I was not angry since I came to France
+	Until this instant. Take a trumpet, herald;
+	Ride thou unto the horsemen on yon hill:
+	If they will fight with us, bid them come down,
+	Or void the field; they do offend our sight.
+	If they'll do neither, we will come to them,
+	And make them skirr away, as swift as stones
+	Enforced from the old Assyrian slings.
+	Besides, we'll cut the throats of those we have,
+	And not a man of them that we shall take
+	Shall taste our mercy. Go and tell them so.
+<SPEECH 80><ACT 4><SCENE 7><76%>
+	How now! what means this, herald? know'st thou not
+	That I have fin'd these bones of mine for ransom?
+	Com'st thou again for ransom?
+<SPEECH 81><ACT 4><SCENE 7><77%>
+	I tell thee truly, herald,
+	I know not if the day be ours or no;
+	For yet a many of your horsemen peer
+	And gallop o'er the field.
+<SPEECH 82><ACT 4><SCENE 7><77%>
+	Praised be God, and not our strength, for it!
+	What is this castle call'd that stands hard by?
+<SPEECH 83><ACT 4><SCENE 7><77%>
+	Then call we this the field of Agincourt,
+	Fought on the day of Crispin Crispianus.
+<SPEECH 84><ACT 4><SCENE 7><77%>
+	They did, Fluellen.
+<SPEECH 85><ACT 4><SCENE 7><77%>
+	I wear it for a memorable honour; For I am Welsh, you know, good countryman.
+<SPEECH 86><ACT 4><SCENE 7><78%>
+	Thanks, good my countryman.
+<SPEECH 87><ACT 4><SCENE 7><78%>
+	God keep me so! Our heralds go with him:
+	Bring me just notice of the numbers dead
+	On both our parts. Call yonder fellow hither.
+<SPEECH 88><ACT 4><SCENE 7><78%>
+	Soldier, why wear'st thou that glove in thy cap?
+<SPEECH 89><ACT 4><SCENE 7><78%>
+	An Englishman?
+<SPEECH 90><ACT 4><SCENE 7><78%>
+	What think you, Captain Fluellen? is it fit this soldier keep his oath?
+<SPEECH 91><ACT 4><SCENE 7><78%>
+	It may be his enemy is a gentleman of great sort, quite from the answer of his degree.
+<SPEECH 92><ACT 4><SCENE 7><79%>
+	Then keep thy vow, sirrah, when thou meetest the fellow.
+<SPEECH 93><ACT 4><SCENE 7><79%>
+	Who servest thou under?
+<SPEECH 94><ACT 4><SCENE 7><79%>
+	Call him hither to me, soldier.
+<SPEECH 95><ACT 4><SCENE 7><79%>
+	Here, Fluellen; wear thou this favour for me and stick it in thy cap. When Alençon and myself were down together I plucked this glove from his helm: if any man challenge this, he is a friend to Alençon, and an enemy to our person; if thou encounter any such, apprehend him, an thou dost me love.
+<SPEECH 96><ACT 4><SCENE 7><79%>
+	Knowest thou Gower?
+<SPEECH 97><ACT 4><SCENE 7><79%>
+	Pray thee, go seek him, and bring him to my tent.
+<SPEECH 98><ACT 4><SCENE 7><79%>
+	My Lord of Warwick, and my brother Gloucester,
+	Follow Fluellen closely at the heels.
+	The glove which I have given him for a favour,
+	May haply purchase him a box o' the ear;
+	It is the soldier's; I by bargain should
+	Wear it myself. Follow, good cousin Warwick:
+	If that the soldier strike him,—as, I judge
+	By his blunt bearing he will keep his word,—
+	Some sudden mischief may arise of it;
+	For I do know Fluellen valiant,
+	And touch'd with choler, hot as gunpowder,
+	And quickly will return an injury:
+	Follow and see there be no harm between them.
+	Go you with me, uncle of Exeter.
+<SPEECH 99><ACT 4><SCENE 8><81%>
+	How now! what's the matter?
+<SPEECH 100><ACT 4><SCENE 8><81%>
+	Give me thy glove, soldier: look, here is the fellow of it.
+	'Twas I, indeed, thou promisedst to strike;
+	And thou hast given me most bitter terms.
+<SPEECH 101><ACT 4><SCENE 8><81%>
+	How canst thou make me satisfaction?
+<SPEECH 102><ACT 4><SCENE 8><81%>
+	It was ourself thou didst abuse.
+<SPEECH 103><ACT 4><SCENE 8><82%>
+	Here, uncle Exeter, fill this glove with crowns,
+	And give it to this fellow. Keep it, fellow;
+	And wear it for an honour in thy cap
+	Till I do challenge it. Give him the crowns:
+	And, captain, you must needs be friends with him.
+<SPEECH 104><ACT 4><SCENE 8><82%>
+	Now, herald, are the dead number'd?
+<SPEECH 105><ACT 4><SCENE 8><82%>
+	What prisoners of good sort are taken, uncle?
+<SPEECH 106><ACT 4><SCENE 8><82%>
+	This note doth tell me of ten thousand French
+	That in the field lie slain: of princes, in this number,
+	And nobles bearing banners, there lie dead
+	One hundred twenty-six: added to these,
+	Of knights, esquires, and gallant gentlemen,
+	Eight thousand and four hundred; of the which
+	Five hundred were but yesterday dubb'd knights:
+	So that, in these ten thousand they have lost,
+	There are but sixteen hundred mercenaries;
+	The rest are princes, barons, lords, knights, squires,
+	And gentlemen of blood and quality.
+	The names of those their nobles that lie dead:
+	Charles Delabreth, High Constable of France;
+	Jaques of Chatillon, Admiral of France;
+	The master of the cross-bows, Lord Rambures;
+	Great-master of France, the brave Sir Guischard Dauphin;
+	John Duke of Alençon; Antony Duke of Brabant,
+	The brother to the Duke of Burgundy,
+	And Edward Duke of Bar: of lusty earls,
+	Grandpré and Roussi, Fauconberg and Foix,
+	Beaumont and Marle, Vaudemont and Lestrale.
+	Here was a royal fellowship of death!
+	Where is the number of our English dead?
+	Edward the Duke of York, the Earl of Suffolk,
+	Sir Richard Ketly, Davy Gam, esquire:
+	None else of name: and of all other men
+	But five and twenty. O God! thy arm was here;
+	And not to us, but to thy arm alone,
+	Ascribe we all. When, without stratagem,
+	But in plain shock and even play of battle,
+	Was ever known so great and little loss
+	On one part and on the other? Take it, God,
+	For it is none but thine!
+<SPEECH 107><ACT 4><SCENE 8><83%>
+	Come, go we in procession to the village:
+	And be it death proclaimed through our host
+	To boast of this or take the praise from God
+	Which is his only.
+<SPEECH 108><ACT 4><SCENE 8><84%>
+	Yes, captain; but with this acknowledgment,
+	That God fought for us.
+<SPEECH 109><ACT 4><SCENE 8><84%>
+	Do we all holy rites:
+	Let there be sung Non nobis and Te Deum;
+	The dead with charity enclos'd in clay.
+	We'll then to Calais; and to England then,
+	Where ne'er from France arriv'd more happy men.
+<SPEECH 110><ACT 5><SCENE 2><88%>
+	Peace to this meeting, wherefore we are met!
+	Unto our brother France, and to our sister,
+	Health and fair time of day; joy and good wishes
+	To our most fair and princely cousin Katharine;
+	And, as a branch and member of this royalty,
+	By whom this great assembly is contriv'd,
+	We do salute you, Duke of Burgundy;
+	And, princes French, and peers, health to you all!
+<SPEECH 111><ACT 5><SCENE 2><89%>
+	To cry amen to that, thus we appear.
+<SPEECH 112><ACT 5><SCENE 2><90%>
+	If, Duke of Burgundy, you would the peace,
+	Whose want gives growth to the imperfections
+	Which you have cited, you must buy that peace
+	With full accord to all our just demands;
+	Whose tenours and particular effects
+	You have, enschedul'd briefly, in your hands.
+<SPEECH 113><ACT 5><SCENE 2><90%>
+	Well then the peace,
+	Which you before so urg'd, lies in his answer.
+<SPEECH 114><ACT 5><SCENE 2><91%>
+	Brother, we shall. Go, uncle Exeter,
+	And brother Clarence, and you, brother Gloucester,
+	Warwick and Huntingdon, go with the king;
+	And take with you free power to ratify,
+	Augment, or alter, as your wisdoms best
+	Shall see advantageable for our dignity,
+	Anything in or out of our demands,
+	And we'll consign thereto. Will you, fair sister,
+	Go with the princes, or stay here with us?
+<SPEECH 115><ACT 5><SCENE 2><91%>
+	Yet leave our cousin Katharine here with us:
+	She is our capital demand, compris'd
+	Within the fore-rank of our articles.
+<SPEECH 116><ACT 5><SCENE 2><91%>
+	Fair Katharine, and most fair!
+	Will you vouchsafe to teach a soldier terms,
+	Such as will enter at a lady's ear,
+	And plead his love-suit to her gentle heart?
+<SPEECH 117><ACT 5><SCENE 2><91%>
+	O fair Katharine! if you will love me soundly with your French heart, I will be glad to hear you confess it brokenly with your English tongue. Do you like me, Kate?
+<SPEECH 118><ACT 5><SCENE 2><91%>
+	An angel is like you, Kate; and you are like an angel.
+<SPEECH 119><ACT 5><SCENE 2><91%>
+	I said so, dear Katharine; and I must not blush to affirm it.
+<SPEECH 120><ACT 5><SCENE 2><92%>
+	What says she, fair one? that the tongues of men are full of deceits?
+<SPEECH 121><ACT 5><SCENE 2><92%>
+	The princess is the better Englishwoman. I' faith, Kate, my wooing is fit for thy understanding: I am glad thou canst speak no better English; for, if thou couldst, thou wouldst find me such a plain king that thou wouldst think I had sold my farm to buy my crown. I know no ways to mince it in love, but directly to say 'I love you:' then, if you urge me further than to say 'Do you in faith?' I wear out my suit. Give me your answer; i' faith do: and so clap hands and a bargain. How say you, lady?
+<SPEECH 122><ACT 5><SCENE 2><92%>
+	Marry, if you would put me to verses, or to dance for your sake, Kate, why you undid me: for the one, I have neither words nor measure, and for the other, I have no strength in measure, yet a reasonable measure in strength. If I could win a lady at leap-frog, or by vaulting into my saddle with my armour on my back, under the correction of bragging be it spoken, I should quickly leap into a wife. Or if I might buffet for my love, or bound my horse for her favours, I could lay on like a butcher and sit like a jack-an-apes, never off. But before God, Kate, I cannot look greenly nor gasp out my eloquence, nor I have no cunning in protestation; only downright oaths, which I never use till urged, nor never break for urging. If thou caust love a fellow of this temper, Kate. whose face is not worth sun-burning, that never looks in his glass for love of anything he sees there, let thine eye be thy cook. I speak to thee plain soldier: if thou canst love me for this, take me; if not, to say to thee that I shall die, is true; but for thy love, by the Lord, no; yet I love thee too. And while thou livest, dear Kate, take a fellow of plain and uncoined constancy, for he perforce must do thee right, because he hath not the gift to woo in other places; for these fellows of infinite tongue, that can rime themselves into ladies' favours, they do always reason themselves out again. What! a speaker is but a prater; a rime is but a ballad. A good leg will fall, a straight back will stoop, a black beard will turn white, a curled pate will grow bald, a fair face will wither, a full eye will wax hollow, but a good heart, Kate, is the sun and the moon; or, rather, the sun, and not the moon; for it shines bright and never changes, but keeps his course truly. If thou would have such a one, take me; and take me, take a soldier; take a soldier, take a king. And what sayest thou then to my love? speak, my fair, and fairly, I pray thee.
+<SPEECH 123><ACT 5><SCENE 2><93%>
+	No; it is not possible you should love the enemy of France, Kate; but, in loving me, you should love the friend of France; for I love France so well, that I will not part with a village of it; I will have it all mine: and, Kate, when France is mine and I am yours, then yours is France and you are mine.
+<SPEECH 124><ACT 5><SCENE 2><93%>
+	No, Kate? I will tell thee in French, which I am sure will hang upon my tongue like a new-married wife about her husband's neck, hardly to be shook off. Je quand sur le possession de France, et quand vous avez le possession de moy,—let me see, what then? Saint Denis be my speed!—donc vostre est France, et vous estes mienne. It is as easy for me, Kate, to conquer the kingdom, as to speak so much more French: I shall never move thee in French, unless it be to laugh at me.
+<SPEECH 125><ACT 5><SCENE 2><94%>
+	No, faith, is't not, Kate; but thy speaking of my tongue, and I thine, most truly falsely, must needs be granted to be much at one. But, Kate, dost thou understand thus much English, Canst thou love me?
+<SPEECH 126><ACT 5><SCENE 2><94%>
+	Can any of your neighbours tell, Kate? I'll ask them. Come, I know thou lovest me; and at night when you come into your closet you'll question this gentlewoman about me; and I know, Kate, you will to her dispraise those parts in me that you love with your heart: but, good Kate, mock me mercifully; the rather, gentle princess, because I love thee cruelly. If ever thou be'st mine, Kate,—as I have a saving faith within me tells me thou shalt,—I get thee with scambling, and thou must therefore needs prove a good soldier-breeder. Shall not thou and I, between Saint Denis and Saint George, compound a boy, half French, half English, that shall go to Constantinople and take the Turk by the beard? shall we not? what sayest thou, my fair flower-de-luce?
+<SPEECH 127><ACT 5><SCENE 2><95%>
+	No; 'tis hereafter to know, but now to promise: do but now promise, Kate, you will endeavour for your French part of such a boy, and for my English moiety take the word of a king and a bachelor. How answer you, la plus belle Katharine du monde, mon très cher et divine déesse?
+<SPEECH 128><ACT 5><SCENE 2><95%>
+	Now, fie upon my false French! By mine honour, in true English I love thee, Kate: by which honour I dare not swear thou lovest me; yet my blood begins to flatter me that thou dost, notwithstanding the poor and untempering effect of my visage. Now beshrew my father's ambition! he was thinking of civil wars when he got me: therefore was I created with a stubborn outside, with an aspect of iron, that, when I come to woo ladies I fright them. But, in faith, Kate, the elder I wax the better I shall appear: my comfort is, that old age, that ill layer-up of beauty, can do no more spoil upon my face: thou hast me, if thou hast me, at the worst; and thou shalt wear me, if thou wear me, better and better. And therefore tell me, most fair Katharine, will you have me? Put off your maiden blushes; avouch the thoughts of your heart with the looks of an empress; take me by the hand, and say 'Harry of England, I am thine:' which word thou shalt no sooner bless mine ear withal, but I will tell thee aloud—'England is thine, Ireland is thine, France is thine, and Henry Plantagenet is thine;' who, though I speak it before his face, if he be not fellow with the best king, thou shalt find the best king of good fellows. Come, your answer in broken music; for thy voice is music, and thy English broken; therefore, queen of all, Katharine, break thy mind to me in broken English: wilt thou have me?
+<SPEECH 129><ACT 5><SCENE 2><96%>
+	Nay, it will please him well, Kate; it shall please him, Kate.
+<SPEECH 130><ACT 5><SCENE 2><96%>
+	Upon that I kiss your hand, and I call you my queen.
+<SPEECH 131><ACT 5><SCENE 2><96%>
+	Then I will kiss your lips, Kate.
+<SPEECH 132><ACT 5><SCENE 2><96%>
+	Madam my interpreter, what says she?
+<SPEECH 133><ACT 5><SCENE 2><96%>
+	To kiss.
+<SPEECH 134><ACT 5><SCENE 2><96%>
+	It is not a fashion for the maids in France to kiss before they are married, would she say?
+<SPEECH 135><ACT 5><SCENE 2><96%>
+	O Kate! nice customs curtsy to great kings. Dear Kate, you and I cannot be confined within the weak list of a country's fashion: we are the makers of manners, Kate; and the liberty that follows our places stops the mouths of all find-faults, as I will do yours, for upholding the nice fashion of your country in denying me a kiss: therefore, patiently, and yielding <STAGE DIR>
+	</STAGE DIR>. You have witchcraft in your lips, Kate: there is more eloquence in a sugar touch of them, than in the tongues of the French council; and they should sooner persuade Harry of England than a general petition of monarchs. Here comes your father.
+<SPEECH 136><ACT 5><SCENE 2><97%>
+	I would have her learn, my fair cousin, how perfectly I love her; and that is good English.
+<SPEECH 137><ACT 5><SCENE 2><97%>
+	Our tongue is rough, coz, and my condition is not smooth; so that, having neither the voice nor the heart of flattery about me, I cannot so conjure up the spirit of love in her, that he will appear in his true likeness.
+<SPEECH 138><ACT 5><SCENE 2><97%>
+	Yet they do wink and yield, as love is blind and enforces.
+<SPEECH 139><ACT 5><SCENE 2><97%>
+	Then, good my lord, teach your cousin to consent winking.
+<SPEECH 140><ACT 5><SCENE 2><98%>
+	This moral ties me over to time and a hot summer; and so I shall catch the fly, your cousin, in the latter end, and she must be blind too.
+<SPEECH 141><ACT 5><SCENE 2><98%>
+	It is so: and you may, some of you, thank love for my blindness, who cannot see many a fair French city for one fair French maid that stands in my way.
+<SPEECH 142><ACT 5><SCENE 2><98%>
+	Shall Kate be my wife?
+<SPEECH 143><ACT 5><SCENE 2><98%>
+	I am content; so the maiden cities you talk of may wait on her: so the maid that stood in the way for my wish shall show me the way to my will.
+<SPEECH 144><ACT 5><SCENE 2><98%>
+	Is't so, my lords of England?
+<SPEECH 145><ACT 5><SCENE 2><99%>
+	I pray you then, in love and dear alliance,
+	Let that one article rank with the rest;
+	And thereupon give me your daughter.
+<SPEECH 146><ACT 5><SCENE 2><99%>
+	Now, welcome, Kate: and bear me witness all,
+	That here I kiss her as my sovereign queen.
+<SPEECH 147><ACT 5><SCENE 2><99%>
+	Prepare we for our marriage: on which day,
+	My Lord of Burgundy, we'll take your oath,
+	And all the peers', for surety of our leagues.
+	Then shall I swear to Kate, and you to me;
+	And may our oaths well kept and prosperous be!
+	Thus far, with rough and all-unable pen,
+	Our bending author hath pursu'd the story;
+	In little room confining mighty men,
+	Mangling by starts the full course of their glory.
+	Small time, but in that small most greatly liv'd
+	This star of England: Fortune made his sword,
+	By which the world's best garden he achiev'd,
+	And of it left his son imperial lord.
+	Henry the Sixth, in infant bands crown'd King
+	Of France and England, did this king succeed;
+	Whose state so many had the managing,
+	That they lost France and made his England bleed:
+	Which oft our stage hath shown; and, for their sake,
+	In your fair minds let this acceptance take.

@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 4><SCENE 3><82%>
+	Calls my lord?
+<SPEECH 2><ACT 4><SCENE 3><82%>
+	So please you, we will stand and watch your pleasure.
+<SPEECH 3><ACT 4><SCENE 3><84%>
+	My lord!
+<SPEECH 4><ACT 4><SCENE 3><84%>
+	Did we, my lord?
+<SPEECH 5><ACT 4><SCENE 3><84%>
+	No, my lord, I saw nothing.
+<SPEECH 6><ACT 4><SCENE 3><85%>
+	It shall be done, my lord.

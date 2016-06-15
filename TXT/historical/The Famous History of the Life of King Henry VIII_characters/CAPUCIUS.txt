@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 4><SCENE 2><77%>
+	Madam, the same; your servant.
+<SPEECH 2><ACT 4><SCENE 2><77%>
+	Noble lady,
+	First, mine own service to your Grace; the next,
+	The king's request that I would visit you;
+	Who grieves much for your weakness, and by me
+	Sends you his princely commendations,
+	And heartily entreats you take good comfort.
+<SPEECH 3><ACT 4><SCENE 2><78%>
+	Madam, in good health.
+<SPEECH 4><ACT 4><SCENE 2><78%>
+	Most willing, madam.
+<SPEECH 5><ACT 4><SCENE 2><79%>
+	By heaven, I will,
+	Or let me lose the fashion of a man!

@@ -1,0 +1,542 @@
+<SPEECH 1><ACT 1><SCENE 3><14%>
+	My noble father,
+	I do perceive here a divided duty:
+	To you I am bound for life and education;
+	My life and education both do learn me
+	How to respect you; you are the lord of duty,
+	I am hitherto your daughter: but here's my husband;
+	And so much duty as my mother show'd
+	To you, preferring you before her father,
+	So much I challenge that I may profess
+	Due to the Moor my lord.
+<SPEECH 2><ACT 1><SCENE 3><16%>
+	Nor I; I would not there reside,
+	To put my father in impatient thoughts
+	By being in his eye. Most gracious duke,
+	To my unfolding lend your gracious ear;
+	And let me find a charter in your voice
+	To assist my simpleness.
+<SPEECH 3><ACT 1><SCENE 3><16%>
+	That I did love the Moor to live with him,
+	My downright violence and storm of fortunes
+	May trumpet to the world; my heart's subdu'd
+	Even to the very quality of my lord;
+	I saw Othello's visage in his mind,
+	And to his honours and his valiant parts
+	Did I my soul and fortunes consecrate.
+	So that, dear lords, if I be left behind,
+	A moth of peace, and he go to the war,
+	The rites for which I love him are bereft me,
+	And I a heavy interim shall support
+	By his dear absence. Let me go with him.
+<SPEECH 4><ACT 2><SCENE 1><24%>
+	I thank you, valiant Cassio.
+	What tidings can you tell me of my lord?
+<SPEECH 5><ACT 2><SCENE 1><24%>
+	O! but I fear—How lost you company?
+<SPEECH 6><ACT 2><SCENE 1><24%>
+	Alas! she has no speech.
+<SPEECH 7><ACT 2><SCENE 1><25%>
+	O! fie upon thee, slanderer.
+<SPEECH 8><ACT 2><SCENE 1><25%>
+	What wouldst thou write of me, if thou shouldst praise me?
+<SPEECH 9><ACT 2><SCENE 1><25%>
+	Come on; assay. There's one gone to the harbour?
+<SPEECH 10><ACT 2><SCENE 1><25%>
+	I am not merry, but I do beguile
+	The thing I am by seeming otherwise.
+	Come, how wouldst thou praise me?
+<SPEECH 11><ACT 2><SCENE 1><25%>
+	Well prais'd! How if she be black and witty?
+<SPEECH 12><ACT 2><SCENE 1><25%>
+	Worse and worse.
+<SPEECH 13><ACT 2><SCENE 1><25%>
+	These are old fond paradoxes to make fools laugh i' the alehouse. What miserable praise hast thou for her that's foul and foolish?
+<SPEECH 14><ACT 2><SCENE 1><25%>
+	O heavy ignorance! thou praisest the worst best. But what praise couldst thou bestow on a deserving woman indeed, one that, in the authority of her merit, did justly put on the vouch of very malice itself?
+<SPEECH 15><ACT 2><SCENE 1><26%>
+	To do what?
+<SPEECH 16><ACT 2><SCENE 1><26%>
+	O most lame and impotent conclusion! Do not learn of him, Emilia, though he be thy husband. How say you, Cassio? is he not a most profane and liberal counsellor?
+<SPEECH 17><ACT 2><SCENE 1><26%>
+	Let's meet him and receive him.
+<SPEECH 18><ACT 2><SCENE 1><27%>
+	My dear Othello!
+<SPEECH 19><ACT 2><SCENE 1><27%>
+	The heavens forbid
+	But that our loves and comforts should increase
+	Even as our days do grow!
+<SPEECH 20><ACT 2><SCENE 3><38%>
+	What's the matter?
+<SPEECH 21><ACT 3><SCENE 3><45%>
+	Be thou assur'd, good Cassio, I will do
+	All my abilities in thy behalf.
+<SPEECH 22><ACT 3><SCENE 3><45%>
+	O! that's an honest fellow. Do not doubt, Cassio,
+	But I will have my lord and you again
+	As friendly as you were.
+<SPEECH 23><ACT 3><SCENE 3><45%>
+	I know 't; I thank you. You do love my lord;
+	You have known him long; and be you well assur'd
+	He shall in strangeness stand no further off
+	Than in a politic distance.
+<SPEECH 24><ACT 3><SCENE 3><45%>
+	Do not doubt that; before Emilia here
+	I give thee warrant of thy place. Assure thee,
+	If I do vow a friendship, I'll perform it
+	To the last article; my lord shall never rest;
+	I'll watch him tame, and talk him out of patience;
+	His bed shall seem a school, his board a shrift;
+	I'll intermingle every thing he does
+	With Cassio's suit. Therefore be merry, Cassio;
+	For thy solicitor shall rather die
+	Than give thy cause away.
+<SPEECH 25><ACT 3><SCENE 3><45%>
+	Why, stay, and hear me speak.
+<SPEECH 26><ACT 3><SCENE 3><45%>
+	Well, do your discretion.
+<SPEECH 27><ACT 3><SCENE 3><46%>
+	How now, my lord!
+	I have been talking with a suitor here,
+	A man that languishes in your displeasure.
+<SPEECH 28><ACT 3><SCENE 3><46%>
+	Why, your lieutenant, Cassio. Good my lord,
+	If I have any grace or power to move you,
+	His present reconciliation take;
+	For if he be not one that truly loves you,
+	That errs in ignorance and not in cunning,
+	I have no judgment in an honest face.
+	I prithee call him back.
+<SPEECH 29><ACT 3><SCENE 3><46%>
+	Ay, sooth; so humbled,
+	That he hath left part of his grief with me,
+	To suffer with him. Good love, call him back.
+<SPEECH 30><ACT 3><SCENE 3><46%>
+	But shall 't be shortly?
+<SPEECH 31><ACT 3><SCENE 3><46%>
+	Shall 't be to-night at supper?
+<SPEECH 32><ACT 3><SCENE 3><46%>
+	To-morrow dinner then?
+<SPEECH 33><ACT 3><SCENE 3><46%>
+	Why then, to-morrow night; or Tuesday morn;
+	On Tuesday noon, or night; on Wednesday morn:
+	I prithee name the time, but let it not
+	Exceed three days: in faith, he's penitent;
+	And yet his trespass, in our common reason,—
+	Save that they say, the wars must make examples
+	Out of their best,—is not almost a fault
+	To incur a private check. When shall he come?
+	Tell me, Othello: I wonder in my soul,
+	What you could ask me that I should deny,
+	Or stand so mammering on. What! Michael Cassio,
+	That came a wooing with you, and so many a time,
+	When I have spoke of you dispraisingly,
+	Hath ta'en your part; to have so much to do
+	To bring him in! Trust me, I could do much.—
+<SPEECH 34><ACT 3><SCENE 3><47%>
+	Why, this is not a boon;
+	'Tis as I should entreat you wear your gloves,
+	Or feed on nourishing dishes, or keep you warm,
+	Or sue to you to do a peculiar profit
+	To your own person; nay, when I have a suit
+	Wherein I mean to touch your love indeed,
+	It shall be full of poise and difficult weight,
+	And fearful to be granted.
+<SPEECH 35><ACT 3><SCENE 3><47%>
+	Shall I deny you? no: farewell, my lord.
+<SPEECH 36><ACT 3><SCENE 3><47%>
+	Emilia, come. Be as your fancies teach you;
+	Whate'er you be, I am obedient.
+<SPEECH 37><ACT 3><SCENE 3><53%>
+	How now, my dear Othello!
+	Your dinner and the generous islanders
+	By you invited, do attend your presence.
+<SPEECH 38><ACT 3><SCENE 3><53%>
+	Why do you speak so faintly?
+	Are you not well?
+<SPEECH 39><ACT 3><SCENE 3><53%>
+	Faith, that's with watching; 'twill away again:
+	Let me but bind it hard, within this hour
+	It will be well.
+<SPEECH 40><ACT 3><SCENE 3><53%>
+	I am very sorry that you are not well.
+<SPEECH 41><ACT 3><SCENE 4><59%>
+	Do you know, sirrah, where Lieutenant Cassio lies?
+<SPEECH 42><ACT 3><SCENE 4><59%>
+	Why, man?
+<SPEECH 43><ACT 3><SCENE 4><59%>
+	Go to; where lodges he?
+<SPEECH 44><ACT 3><SCENE 4><59%>
+	Can anything be made of this?
+<SPEECH 45><ACT 3><SCENE 4><59%>
+	Can you inquire him out, and be edified by report?
+<SPEECH 46><ACT 3><SCENE 4><59%>
+	Seek him, bid him come hither; tell him I have moved my lord in his behalf, and hope all will be well.
+<SPEECH 47><ACT 3><SCENE 4><59%>
+	Where should I lose that handkerchief, Emilia?
+<SPEECH 48><ACT 3><SCENE 4><59%>
+	Believe me, I had rather have lost my purse
+	Full of cruzadoes; and, but my noble Moor
+	Is true of mind, and made of no such baseness
+	As jealous creatures are, it were enough
+	To put him to ill thinking.
+<SPEECH 49><ACT 3><SCENE 4><60%>
+	Who! he? I think the sun where he was born
+	Drew all such humours from him.
+<SPEECH 50><ACT 3><SCENE 4><60%>
+	I will not leave him now till Cassio
+	Be call'd to him.
+	How is 't with you, my lord?
+<SPEECH 51><ACT 3><SCENE 4><60%>
+	Well, my good lord.
+<SPEECH 52><ACT 3><SCENE 4><60%>
+	It yet has felt no age nor known no sorrow.
+<SPEECH 53><ACT 3><SCENE 4><60%>
+	You may, indeed, say so;
+	For 'twas that hand that gave away my heart.
+<SPEECH 54><ACT 3><SCENE 4><60%>
+	I cannot speak of this. Come now, your promise.
+<SPEECH 55><ACT 3><SCENE 4><60%>
+	I have sent to bid Cassio come speak with you.
+<SPEECH 56><ACT 3><SCENE 4><60%>
+	Here, my lord.
+<SPEECH 57><ACT 3><SCENE 4><60%>
+	I have it not about me.
+<SPEECH 58><ACT 3><SCENE 4><60%>
+	No, indeed, my lord.
+<SPEECH 59><ACT 3><SCENE 4><61%>
+	Is 't possible?
+<SPEECH 60><ACT 3><SCENE 4><61%>
+	Indeed! is 't true?
+<SPEECH 61><ACT 3><SCENE 4><61%>
+	Then would to heaven that I had never seen it!
+<SPEECH 62><ACT 3><SCENE 4><61%>
+	Why do you speak so startingly and rash?
+<SPEECH 63><ACT 3><SCENE 4><61%>
+	Heaven bless us!
+<SPEECH 64><ACT 3><SCENE 4><61%>
+	It is not lost: but what an if it were?
+<SPEECH 65><ACT 3><SCENE 4><61%>
+	I say, it is not lost.
+<SPEECH 66><ACT 3><SCENE 4><61%>
+	Why, so I can, sir, but I will not now.
+	This is a trick to put me from my suit:
+	Pray you let Cassio be receiv'd again.
+<SPEECH 67><ACT 3><SCENE 4><61%>
+	Come, come;
+	You'll never meet a more sufficient man.
+<SPEECH 68><ACT 3><SCENE 4><61%>
+	I pray, talk me of Cassio.
+<SPEECH 69><ACT 3><SCENE 4><61%>
+	A man that all his time
+	Hath founded his good fortunes on your love,
+	Shar'd dangers with you,—
+<SPEECH 70><ACT 3><SCENE 4><62%>
+	In sooth you are to blame.
+<SPEECH 71><ACT 3><SCENE 4><62%>
+	I ne'er saw this before.
+	Sure, there's some wonder in this handkerchief;
+	I am most unhappy in the loss of it.
+<SPEECH 72><ACT 3><SCENE 4><62%>
+	How now, good Cassio! what's the news with you?
+<SPEECH 73><ACT 3><SCENE 4><62%>
+	Alas! thrice-gentle Cassio!
+	My advocation is not now in tune;
+	My lord is not my lord; nor should I know him,
+	Were he in favour as in humour alter'd.
+	So help me every spirit sanctified,
+	As I have spoken for you all my best
+	And stood within the blank of his displeasure
+	For my free speech. You must awhile be patient;
+	What I can do I will, and more I will
+	Than for myself I dare: let that suffice you.
+<SPEECH 74><ACT 3><SCENE 4><63%>
+	I prithee, do so. <STAGE DIR>
+	</STAGE DIR> Something, sure, of state,
+	Either from Venice, or some unhatch'd practice
+	Made demonstrable here in Cyprus to him,
+	Hath puddled his clear spirit; and, in such cases
+	Men's natures wrangle with inferior things,
+	Though great ones are their object. 'Tis even so;
+	For let our finger ache, and it indues
+	Our other healthful members ev'n to that sense
+	Of pain. Nay, we must think men are not gods,
+	Nor of them look for such observancy
+	As fits the bridal. Beshrew me much, Emilia,
+	I was—unhandsome warrior as I am—
+	Arraigning his unkindness with my soul;
+	But now I find I had suborn'd the witness,
+	And he's indicted falsely.
+<SPEECH 75><ACT 3><SCENE 4><63%>
+	Alas the day! I never gave him cause.
+<SPEECH 76><ACT 3><SCENE 4><63%>
+	Heaven keep that monster from Othello's mind!
+<SPEECH 77><ACT 3><SCENE 4><63%>
+	I will go seek him. Cassio, walk hereabout;
+	If I do find him fit, I'll move your suit
+	And seek to effect it to my uttermost.
+<SPEECH 78><ACT 4><SCENE 1><71%>
+	And what's the news, good cousin Lodovico?
+<SPEECH 79><ACT 4><SCENE 1><71%>
+	Cousin, there's fall'n between him and my lord
+	An unkind breach; but you shall make all well.
+<SPEECH 80><ACT 4><SCENE 1><71%>
+	My lord?
+<SPEECH 81><ACT 4><SCENE 1><72%>
+	A most unhappy one; I would do much
+	To atone them, for the love I bear to Cassio.
+<SPEECH 82><ACT 4><SCENE 1><72%>
+	My lord?
+<SPEECH 83><ACT 4><SCENE 1><72%>
+	What! is he angry?
+<SPEECH 84><ACT 4><SCENE 1><72%>
+	Trust me, I am glad on 't.
+<SPEECH 85><ACT 4><SCENE 1><72%>
+	My lord?
+<SPEECH 86><ACT 4><SCENE 1><72%>
+	Why, sweet Othello?
+<SPEECH 87><ACT 4><SCENE 1><72%>
+	I have not deserved this.
+<SPEECH 88><ACT 4><SCENE 1><72%>
+	I will not stay to offend you.
+<SPEECH 89><ACT 4><SCENE 1><72%>
+	My lord?
+<SPEECH 90><ACT 4><SCENE 2><74%>
+	My lord, what is your will?
+<SPEECH 91><ACT 4><SCENE 2><74%>
+	What is your pleasure?
+<SPEECH 92><ACT 4><SCENE 2><74%>
+	What horrible fancy's this?
+<SPEECH 93><ACT 4><SCENE 2><74%>
+	Upon my knees, what doth your speech import?
+	I understand a fury in your words,
+	But not the words.
+<SPEECH 94><ACT 4><SCENE 2><74%>
+	Your wife, my lord; your true
+	And loyal wife.
+<SPEECH 95><ACT 4><SCENE 2><75%>
+	Heaven doth truly know it.
+<SPEECH 96><ACT 4><SCENE 2><75%>
+	To whom, my lord? with whom? how am I false?
+<SPEECH 97><ACT 4><SCENE 2><75%>
+	Alas, the heavy day!—Why do you weep?
+	Am I the motive of these tears, my lord?
+	If haply you my father do suspect
+	An instrument of this your calling back,
+	Lay not your blame on me; if you have lost him,
+	Why, I have lost him too.
+<SPEECH 98><ACT 4><SCENE 2><75%>
+	I hope my noble lord esteems me honest.
+<SPEECH 99><ACT 4><SCENE 2><75%>
+	Alas! what ignorant sin have I committed?
+<SPEECH 100><ACT 4><SCENE 2><76%>
+	By heaven, you do me wrong.
+<SPEECH 101><ACT 4><SCENE 2><76%>
+	No, as I am a Christian.
+	If to preserve this vessel for my lord
+	From any other foul unlawful touch
+	Be not to be a strumpet, I am none.
+<SPEECH 102><ACT 4><SCENE 2><76%>
+	No, as I shall be sav'd.
+<SPEECH 103><ACT 4><SCENE 2><76%>
+	O! heaven forgive us.
+<SPEECH 104><ACT 4><SCENE 2><76%>
+	Faith, half asleep.
+<SPEECH 105><ACT 4><SCENE 2><76%>
+	With who?
+<SPEECH 106><ACT 4><SCENE 2><76%>
+	Who is thy lord?
+<SPEECH 107><ACT 4><SCENE 2><76%>
+	I have none; do not talk to me, Emilia;
+	I cannot weep, nor answer have I none,
+	But what should go by water. Prithee, to-night
+	Lay on my bed my wedding sheets: remember:
+	And call thy husband hither.
+<SPEECH 108><ACT 4><SCENE 2><77%>
+	'Tis meet I should be us'd so, very meet.
+	How have I been behav'd, that he might stick
+	The small'st opinion on my least misuse?
+<SPEECH 109><ACT 4><SCENE 2><77%>
+	I cannot tell. Those that do teach young babes
+	Do it with gentle means and easy tasks;
+	He might have chid me so; for, in good faith,
+	I am a child to chiding.
+<SPEECH 110><ACT 4><SCENE 2><77%>
+	Am I that name, Iago?
+<SPEECH 111><ACT 4><SCENE 2><77%>
+	Such as she says my lord did say I was.
+<SPEECH 112><ACT 4><SCENE 2><77%>
+	I do not know; I am sure I am none such.
+<SPEECH 113><ACT 4><SCENE 2><77%>
+	It is my wretched fortune.
+<SPEECH 114><ACT 4><SCENE 2><77%>
+	Nay, heaven doth know.
+<SPEECH 115><ACT 4><SCENE 2><77%>
+	If any such there be, heaven pardon him!
+<SPEECH 116><ACT 4><SCENE 2><78%>
+	O good Iago,
+	What shall I do to win my lord again?
+	Good friend, go to him; for, by this light of heaven,
+	I know not how I lost him. Here I kneel:
+	If e'er my will did trespass 'gainst his love,
+	Either in discourse of thought or actual deed,
+	Or that mine eyes, mine ears, or any sense,
+	Delighted them in any other form;
+	Or that I do not yet, and ever did,
+	And ever will, though he do shake me off
+	To beggarly divorcement, love him dearly,
+	Comfort forswear me! Unkindness may do much;
+	And his unkindness may defeat my life,
+	But never taint my love. I cannot say 'whore:'
+	It does abhor me now I speak the word;
+	To do the act that might the addition earn
+	Not the world's mass of vanity could make me.
+<SPEECH 117><ACT 4><SCENE 2><78%>
+	If 'twere no other,—
+<SPEECH 118><ACT 4><SCENE 3><81%>
+	Your honour is most welcome.
+<SPEECH 119><ACT 4><SCENE 3><81%>
+	My lord?
+<SPEECH 120><ACT 4><SCENE 3><81%>
+	I will, my lord.
+<SPEECH 121><ACT 4><SCENE 3><81%>
+	He says he will return incontinent;
+	He hath commanded me to go to bed,
+	And bade me to dismiss you.
+<SPEECH 122><ACT 4><SCENE 3><81%>
+	It was his bidding; therefore, good Emilia,
+	Give me my nightly wearing, and adieu:
+	We must not now displease him.
+<SPEECH 123><ACT 4><SCENE 3><81%>
+	So would not I; my love doth so approve him,
+	That even his stubbornness, his checks and frowns,—
+	Prithee, unpin me,—have grace and favour in them.
+<SPEECH 124><ACT 4><SCENE 3><82%>
+	All's one. Good faith! how foolish are our minds!
+	If I do die before thee, prithee, shroud me
+	In one of those same sheets.
+<SPEECH 125><ACT 4><SCENE 3><82%>
+	My mother had a maid call'd Barbara;
+	She was in love, and he she lov'd prov'd mad
+	And did forsake her; she had a song of 'willow;'
+	An old thing 'twas, but it express'd her fortune,
+	And she died singing it; that song to-night
+	Will not go from my mind; I have much to do
+	But to go hang my head all at one side,
+	And sing it like poor Barbara. Prithee, dispatch.
+<SPEECH 126><ACT 4><SCENE 3><82%>
+	No, unpin me here.
+	This Lodovico is a proper man.
+<SPEECH 127><ACT 4><SCENE 3><82%>
+	He speaks well.
+<SPEECH 128><ACT 4><SCENE 3><82%>
+	The poor soul sat sighing by a sycamore tree,
+	Sing all a green willow;
+	Her hand on her bosom, her head on her knee,
+	Sing willow, willow, willow:
+	The fresh streams ran by her, and murmur'd her moans;
+	Sing willow, willow, willow:
+	Her salt tears fell from her, and soften'd the stones;—
+	Lay by these:—
+	Sing willow, willow, willow:
+	Prithee, hie thee; he'll come anon.—
+	Sing all a green willow must be my garland.
+	Let nobody blame him, his scorn I approve,—
+	Nay, that's not next. Hark! who is it that knocks?
+<SPEECH 129><ACT 4><SCENE 3><82%>
+	I call'd my love false love; but what said he then?
+	Sing willow, willow, willow:
+	If I court moe women, you'll couch with moe men.
+	So, get thee gone; good night. Mine eyes do itch;
+	Doth that bode weeping?
+<SPEECH 130><ACT 4><SCENE 3><83%>
+	I have heard it said so. O! these men, these men!
+	Dost thou in conscience think, tell me, Emilia,
+	That there be women do abuse their husbands
+	In such gross kind?
+<SPEECH 131><ACT 4><SCENE 3><83%>
+	Wouldst thou do such a deed for all the world?
+<SPEECH 132><ACT 4><SCENE 3><83%>
+	No, by this heavenly light!
+<SPEECH 133><ACT 4><SCENE 3><83%>
+	Wouldst thou do such a deed for all the world?
+<SPEECH 134><ACT 4><SCENE 3><83%>
+	In troth, I think thou wouldst not.
+<SPEECH 135><ACT 4><SCENE 3><83%>
+	Beshrew me, if I would do such a wrong
+	For the whole world.
+<SPEECH 136><ACT 4><SCENE 3><83%>
+	I do not think there is any such woman.
+<SPEECH 137><ACT 4><SCENE 3><84%>
+	Good night, good night; heaven me such usage send,
+	Not to pick bad from bad, but by bad mend!
+<SPEECH 138><ACT 5><SCENE 2><89%>
+	Who's there? Othello?
+<SPEECH 139><ACT 5><SCENE 2><89%>
+	Will you come to bed, my lord?
+<SPEECH 140><ACT 5><SCENE 2><89%>
+	Ay, my lord.
+<SPEECH 141><ACT 5><SCENE 2><89%>
+	Alas! my lord, what may you mean by that?
+<SPEECH 142><ACT 5><SCENE 2><89%>
+	Talk you of killing?
+<SPEECH 143><ACT 5><SCENE 2><89%>
+	Then heaven
+	Have mercy on me!
+<SPEECH 144><ACT 5><SCENE 2><90%>
+	If you say so, I hope you will not kill me.
+<SPEECH 145><ACT 5><SCENE 2><90%>
+	And yet I fear you; for you are fatal then
+	When your eyes roll so. Why I should fear I know not,
+	Since guiltiness I know not; but yet I feel I fear.
+<SPEECH 146><ACT 5><SCENE 2><90%>
+	They are loves I bear to you.
+<SPEECH 147><ACT 5><SCENE 2><90%>
+	That death's unnatural that kills for loving.
+	Alas! why gnaw you so your nether lip?
+	Some bloody passion shakes your very frame;
+	These are portents, but yet, I hope, I hope
+	They do not point on me.
+<SPEECH 148><ACT 5><SCENE 2><90%>
+	I will so. What's the matter?
+<SPEECH 149><ACT 5><SCENE 2><90%>
+	No, by my life and soul!
+	Send for the man and ask him.
+<SPEECH 150><ACT 5><SCENE 2><90%>
+	Ay, but not yet to die.
+<SPEECH 151><ACT 5><SCENE 2><90%>
+	Then Lord have mercy on me!
+<SPEECH 152><ACT 5><SCENE 2><90%>
+	And have you mercy too! I never did
+	Offend you in my life; never lov'd Cassio
+	But with such general warranty of heaven
+	As I might love; I never gave him token.
+<SPEECH 153><ACT 5><SCENE 2><90%>
+	He found it then;
+	I never gave it him. Send for him hither;
+	Let him confess a truth.
+<SPEECH 154><ACT 5><SCENE 2><91%>
+	What, my lord?
+<SPEECH 155><ACT 5><SCENE 2><91%>
+	How? unlawfully?
+<SPEECH 156><ACT 5><SCENE 2><91%>
+	He will not say so.
+<SPEECH 157><ACT 5><SCENE 2><91%>
+	O! my fear interprets. What! is he dead?
+<SPEECH 158><ACT 5><SCENE 2><91%>
+	Alas! he is betray'd and I undone.
+<SPEECH 159><ACT 5><SCENE 2><91%>
+	O! banish me, my lord, but kill me not!
+<SPEECH 160><ACT 5><SCENE 2><91%>
+	Kill me to-morrow; let me live to-night!
+<SPEECH 161><ACT 5><SCENE 2><91%>
+	But half an hour!
+<SPEECH 162><ACT 5><SCENE 2><91%>
+	But while I say one prayer!
+<SPEECH 163><ACT 5><SCENE 2><92%>
+	O! falsely, falsely murder'd.
+<SPEECH 164><ACT 5><SCENE 2><92%>
+	A guiltless death I die.
+<SPEECH 165><ACT 5><SCENE 2><92%>
+	Nobody; I myself; farewell:
+	Commend me to my kind lord. O! farewell!

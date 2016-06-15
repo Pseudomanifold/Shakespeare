@@ -1,0 +1,38 @@
+<SPEECH 1><ACT 2><SCENE 2><22%>
+	Master young man, you; I pray you, which is the way to Master Jew's?
+<SPEECH 2><ACT 2><SCENE 2><22%>
+	Master young gentleman, I pray you, which is the way to Master Jew's?
+<SPEECH 3><ACT 2><SCENE 2><23%>
+	By God's sonties, 'twill be a hard way to hit. Can you tell me whether one Launcelot, that dwells with him, dwell with him or no?
+<SPEECH 4><ACT 2><SCENE 2><23%>
+	No master, sir, but a poor man's son: his father, though I say it, is an honest, exceeding poor man, and, God be thanked, well to live.
+<SPEECH 5><ACT 2><SCENE 2><23%>
+	Your worship's friend, and Launcelot, sir.
+<SPEECH 6><ACT 2><SCENE 2><23%>
+	Of Launcelot, an't please your mastership.
+<SPEECH 7><ACT 2><SCENE 2><23%>
+	Marry, God forbid! the boy was the very staff of my age, my very prop.
+<SPEECH 8><ACT 2><SCENE 2><24%>
+	Alack the day! I know you not, young gentleman: but I pray you, tell me, is my boy,—God rest his soul!—alive or dead?
+<SPEECH 9><ACT 2><SCENE 2><24%>
+	Alack, sir, I am sand-blind; I know you not.
+<SPEECH 10><ACT 2><SCENE 2><24%>
+	Pray you, sir, stand up. I am sure you are not Launcelot, my boy.
+<SPEECH 11><ACT 2><SCENE 2><24%>
+	I cannot think you are my son.
+<SPEECH 12><ACT 2><SCENE 2><24%>
+	Her name is Margery, indeed: I'll be sworn, if thou be Launcelot, thou art mine own flesh and blood. Lord worshipped might he be! what a beard hast thou got! thou hast got more hair on thy chin than Dobbin my thill-horse has on his tail.
+<SPEECH 13><ACT 2><SCENE 2><25%>
+	Lord! how art thou changed. How dost thou and thy master agree? I have brought him a present. How 'gree you now?
+<SPEECH 14><ACT 2><SCENE 2><25%>
+	God bless your worship!
+<SPEECH 15><ACT 2><SCENE 2><26%>
+	Here's my son, sir, a poor boy,—
+<SPEECH 16><ACT 2><SCENE 2><26%>
+	He hath a great infection, sir, as one would say, to serve—
+<SPEECH 17><ACT 2><SCENE 2><26%>
+	His master and he, saving your worship's reverence, are scarce cater-cousins,—
+<SPEECH 18><ACT 2><SCENE 2><26%>
+	I have here a dish of doves that I would bestow upon your worship, and my suit is,—
+<SPEECH 19><ACT 2><SCENE 2><26%>
+	That is the very defect of the matter, sir.

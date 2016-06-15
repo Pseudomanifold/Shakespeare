@@ -1,0 +1,77 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Romans, friends, followers, favourers of my right,
+	If ever Bassianus, Cæsar's son,
+	Were gracious in the eyes of royal Rome,
+	Keep then this passage to the Capitol,
+	And suffer not dishonour to approach
+	The imperial seat, to virtue consecrate,
+	To justice, continence, and nobility;
+	But let desert in pure election shine,
+	And, Romans, fight for freedom in your choice.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	Marcus Andronicus, so I do affy
+	In thy uprightness and integrity,
+	And so I love and honour thee and thine,
+	Thy noble brother Titus and his sons,
+	And her to whom my thoughts are humbled all,
+	Gracious Lavinia, Rome's rich ornament,
+	That I will here dismiss my loving friends,
+	And to my fortunes and the people's favour
+	Commit my cause in balance to be weigh'd.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Tribunes, and me, a poor competitor.
+<SPEECH 4><ACT 1><SCENE 1><9%>
+	Andronicus, I do not flatter thee,
+	But honour thee, and will do till I die:
+	My faction if thou strengthen with thy friends,
+	I will most thankful be; and thanks to men
+	Of noble minds is honourable meed.
+<SPEECH 5><ACT 1><SCENE 1><11%>
+	Lord Titus, by your leave, this maid is mine.
+<SPEECH 6><ACT 1><SCENE 1><11%>
+	Ay, noble Titus; and resolv'd withal
+	To do myself this reason and this right.
+<SPEECH 7><ACT 1><SCENE 1><12%>
+	By him that justly may
+	Bear his betroth'd from all the world away.
+<SPEECH 8><ACT 1><SCENE 1><17%>
+	And you of yours, my lord! I say no more,
+	Nor wish no less; and so I take my leave.
+<SPEECH 9><ACT 1><SCENE 1><17%>
+	Rape call you it, my lord, to seize my own,
+	My true-betrothed love and now my wife?
+	But let the laws of Rome determine all;
+	Meanwhile, I am possess'd of that is mine.
+<SPEECH 10><ACT 1><SCENE 1><17%>
+	My lord, what I have done, as best I may,
+	Answer I must and shall do with my life.
+	Only thus much I give your Grace to know:
+	By all the duties that I owe to Rome,
+	This noble gentleman, Lord Titus here,
+	Is in opinion and in honour wrong'd;
+	That, in the rescue of Lavinia,
+	With his own hand did slay his youngest son,
+	In zeal to you and highly mov'd to wrath
+	To be controll'd in that he frankly gave:
+	Receive him then to favour, Saturnine,
+	That hath express'd himself in all his deeds
+	A father and a friend to thee and Rome.
+<SPEECH 11><ACT 2><SCENE 2><26%>
+	Lavinia, how say you?
+<SPEECH 12><ACT 2><SCENE 3><28%>
+	Who have we here? Rome's royal empress,
+	Unfurnish'd of her well-beseeming troop?
+	Or is it Dian, habited like her,
+	Who hath abandoned her holy groves,
+	To see the general hunting in this forest?
+<SPEECH 13><ACT 2><SCENE 3><29%>
+	Believe me, queen, your swarth Cimmerian
+	Doth make your honour of his body's hue,
+	Spotted, detested, and abominable.
+	Why are you sequester'd from all your train,
+	Dismounted from your snow-white goodly steed,
+	And wander'd hither to an obscure plot,
+	Accompanied but with a barbarous Moor,
+	If foul desire had not conducted you?
+<SPEECH 14><ACT 2><SCENE 3><29%>
+	The king my brother shall have note of this.

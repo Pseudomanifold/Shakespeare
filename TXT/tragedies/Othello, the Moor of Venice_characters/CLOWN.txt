@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 3><SCENE 1><42%>
+	Why, masters, have your instruments been in Naples, that they speak i' the nose thus?
+<SPEECH 2><ACT 3><SCENE 1><43%>
+	Are these, I pray you, wind-instruments?
+<SPEECH 3><ACT 3><SCENE 1><43%>
+	O! thereby hangs a tail.
+<SPEECH 4><ACT 3><SCENE 1><43%>
+	Marry, sir, by many a wind-instrument that I know. But, masters, here's money for you; and the general so likes your music, that he desires you, for love's sake, to make no more noise with it.
+<SPEECH 5><ACT 3><SCENE 1><43%>
+	If you have any music that may not be heard, to 't again; but, as they say, to hear music the general does not greatly care.
+<SPEECH 6><ACT 3><SCENE 1><43%>
+	Then put up your pipes in your bag, for
+	I'll away. Go; vanish into air; away!
+<SPEECH 7><ACT 3><SCENE 1><43%>
+	No, I hear not your honest friend; I hear you.
+<SPEECH 8><ACT 3><SCENE 1><43%>
+	She is stirring, sir: if she will stir hither,
+	I shall seem to notify unto her.
+<SPEECH 9><ACT 3><SCENE 4><59%>
+	I dare not say he lies any where.
+<SPEECH 10><ACT 3><SCENE 4><59%>
+	He is a soldier; and for one to say a soldier lies, is stabbing.
+<SPEECH 11><ACT 3><SCENE 4><59%>
+	To tell you where he lodges is to tell you where I lie.
+<SPEECH 12><ACT 3><SCENE 4><59%>
+	I know not where he lodges, and for me to devise a lodging, and say he lies here or he lies there, were to lie in mine own throat.
+<SPEECH 13><ACT 3><SCENE 4><59%>
+	I will catechize the world for him; that is, make questions, and by them answer.
+<SPEECH 14><ACT 3><SCENE 4><59%>
+	To do this is within the compass of man's wit, and therefore I will attempt the doing it.

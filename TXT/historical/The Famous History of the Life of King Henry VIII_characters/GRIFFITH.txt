@@ -1,0 +1,72 @@
+<SPEECH 1><ACT 2><SCENE 4><43%>
+	Madam, you are call'd back.
+<SPEECH 2><ACT 4><SCENE 2><73%>
+	How does your Grace?
+<SPEECH 3><ACT 4><SCENE 2><73%>
+	Yes, madam; but I think your Grace,
+	Out of the pain you suffer'd, gave no ear to't.
+<SPEECH 4><ACT 4><SCENE 2><73%>
+	Well, the voice goes, madam:
+	For after the stout Earl Northumberland
+	Arrested him at York, and brought him forward,
+	As a man sorely tainted, to his answer,
+	He fell sick suddenly, and grew so ill
+	He could not sit his mule.
+<SPEECH 5><ACT 4><SCENE 2><73%>
+	At last, with easy roads, he came to Leicester;
+	Lodg'd in the abbey, where the reverend abbot,
+	With all his covent, honourably receiv'd him:
+	To whom he gave these words: 'O! father abbot,
+	An old man, broken with the storms of state,
+	Is come to lay his weary bones among ye;
+	Give him a little earth for charity.'
+	So went to bed, where eagerly his sickness
+	Pursu'd him still; and three nights after this,
+	About the hour of eight,—which he himself
+	Foretold should be his last,—full of repentance,
+	Continual meditations, tears, and sorrows,
+	He gave his honours to the world again,
+	His blessed part to heaven, and slept in peace.
+<SPEECH 6><ACT 4><SCENE 2><74%>
+	Noble madam,
+	Men's evil manners live in brass; their virtues
+	We write in water. May it please your highness
+	To hear me speak his good now?
+<SPEECH 7><ACT 4><SCENE 2><74%>
+	This cardinal,
+	Though from a humble stock, undoubtedly
+	Was fashion'd to much honour from his cradle.
+	He was a scholar, and a ripe and good one;
+	Exceeding wise, fair-spoken, and persuading;
+	Lofty and sour to them that lov'd him not;
+	But, to those men that sought him sweet as summer.
+	And though he were unsatisfied in getting,—
+	Which was a sin,—yet in bestowing, madam,
+	He was most princely. Ever witness for him
+	Those twins of learning that he rais'd in you,
+	Ipswich, and Oxford! one of which fell with him,
+	Unwilling to outlive the good that did it;
+	The other, though unfinish'd, yet so famous,
+	So excellent in art, and still so rising,
+	That Christendom shall ever speak his virtue.
+	His overthrow heap'd happiness upon him;
+	For then, and not till then, he felt himself,
+	And found the blessedness of being little:
+	And, to add greater honours to his age
+	Than man could give him, he died fearing God.
+<SPEECH 8><ACT 4><SCENE 2><75%>
+	She is asleep: good wench, let's sit down quiet,
+	For fear we wake her: softly, gentle Patience.
+<SPEECH 9><ACT 4><SCENE 2><76%>
+	Madam, we are here.
+<SPEECH 10><ACT 4><SCENE 2><76%>
+	None, madam.
+<SPEECH 11><ACT 4><SCENE 2><77%>
+	I am most joyful, madam, such good dreams
+	Possess your fancy.
+<SPEECH 12><ACT 4><SCENE 2><77%>
+	She is going, wench. Pray, pray.
+<SPEECH 13><ACT 4><SCENE 2><77%>
+	You are to blame,
+	Knowing she will not lose her wonted greatness,
+	To use so rude behaviour; go to, kneel.

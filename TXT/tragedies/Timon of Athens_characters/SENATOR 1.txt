@@ -1,0 +1,108 @@
+<SPEECH 1><ACT 3><SCENE 5><49%>
+	My lord, you have my voice to it; the fault's
+	Bloody; 'tis necessary he should die;
+	Nothing emboldens sin so much as mercy.
+<SPEECH 2><ACT 3><SCENE 5><49%>
+	Now, captain.
+<SPEECH 3><ACT 3><SCENE 5><50%>
+	You undergo too strict a paradox,
+	Striving to make an ugly deed look fair:
+	Your words have took such pains as if they labour'd
+	To bring manslaughter into form, and set quarrelling
+	Upon the head of valour; which indeed
+	Is valour misbegot, and came into the world
+	When sects and factions were newly born.
+	He's truly valiant that can wisely suffer
+	The worst that man can breathe, and make his wrongs
+	His outsides, to wear them like his raiment, carelessly,
+	And ne'er prefer his injuries to his heart,
+	To bring it into danger.
+	If wrongs be evils and enforce us kill,
+	What folly 'tis to hazard life for ill!
+<SPEECH 4><ACT 3><SCENE 5><50%>
+	You cannot make gross sins look clear;
+	To revenge is no valour, but to bear.
+<SPEECH 5><ACT 3><SCENE 5><51%>
+	What's that?
+<SPEECH 6><ACT 3><SCENE 5><52%>
+	He dies.
+<SPEECH 7><ACT 3><SCENE 5><52%>
+	We are for law; he dies: urge it no more,
+	On height of our displeasure. Friend, or brother,
+	He forfeits his own blood that spills another.
+<SPEECH 8><ACT 3><SCENE 5><53%>
+	Do you dare our anger?
+	'Tis in few words, but spacious in effect;
+	We banish thee for ever.
+<SPEECH 9><ACT 3><SCENE 5><53%>
+	If, after two days' shine, Athens contain thee,
+	Attend our weightier judgment. And, not to swell our spirit,
+	He shall be executed presently.
+<SPEECH 10><ACT 5><SCENE 1><90%>
+	Bring us to his cave:
+	It is our part and promise to the Athenians
+	To speak with Timon.
+<SPEECH 11><ACT 5><SCENE 1><91%>
+	Worthy Timon,—
+<SPEECH 12><ACT 5><SCENE 1><91%>
+	O! forget
+	What we are sorry for ourselves in thee.
+	The senators with one consent of love
+	Entreat thee back to Athens; who have thought
+	On special dignities, which vacant lie
+	For thy best use and wearing.
+<SPEECH 13><ACT 5><SCENE 1><92%>
+	Therefore so please thee to return with us,
+	And of our Athens—thine and ours—to take
+	The captainship, thou shalt be met with thanks,
+	Allow'd with absolute power, and thy good name
+	Live with authority: so soon we shall drive back
+	Of Alcibiades the approaches wild;
+	Who, like a boar too savage, doth root up
+	His country's peace.
+<SPEECH 14><ACT 5><SCENE 1><92%>
+	Therefore, Timon,—
+<SPEECH 15><ACT 5><SCENE 1><93%>
+	We speak in vain.
+<SPEECH 16><ACT 5><SCENE 1><93%>
+	That's well spoke.
+<SPEECH 17><ACT 5><SCENE 1><93%>
+	These words become your lips as they pass through them.
+<SPEECH 18><ACT 5><SCENE 1><95%>
+	His discontents are unremovably Coupled to nature.
+<SPEECH 19><ACT 5><SCENE 1><95%>
+	It requires swift foot.
+<SPEECH 20><ACT 5><SCENE 2><95%>
+	Thou hast painfully discover'd: are his files
+	As full as thy report?
+<SPEECH 21><ACT 5><SCENE 2><95%>
+	Here come our brothers.
+<SPEECH 22><ACT 5><SCENE 4><97%>
+	Noble and young,
+	When thy first griefs were but a mere conceit,
+	Ere thou hadst power or we had cause of fear,
+	We sent to thee, to give thy rages balm,
+	To wipe out our ingratitude with loves
+	Above their quantity.
+<SPEECH 23><ACT 5><SCENE 4><97%>
+	These walls of ours
+	Were not erected by their hands from whom
+	You have receiv'd your grief; nor are they such
+	That these great towers, trophies, and schools should fall
+	For private faults in them.
+<SPEECH 24><ACT 5><SCENE 4><98%>
+	All have not offended;
+	For those that were, it is not square to take
+	On those that are, revenges: crimes, like lands,
+	Are not inherited. Then, dear countryman,
+	Bring in thy ranks, but leave without thy rage:
+	Spare thyAthenian cradle, and those kin
+	Which in the bluster of thy wrath must fall
+	With those that have offended: like a shepherd,
+	Approach the fold and cull th' infected forth,
+	But kill not all together.
+<SPEECH 25><ACT 5><SCENE 4><98%>
+	Set but thy foot
+	Against our rampir'd gates, and they shall ope,
+	So thou wilt send thy gentle heart before,
+	To say thou'lt enter friendly.

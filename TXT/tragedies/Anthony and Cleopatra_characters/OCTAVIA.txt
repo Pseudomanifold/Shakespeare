@@ -1,0 +1,51 @@
+<SPEECH 1><ACT 2><SCENE 3><26%>
+	All which time
+	Before the gods my knee shall bow my prayers
+	To them for you.
+<SPEECH 2><ACT 2><SCENE 3><26%>
+	Good night, sir.
+<SPEECH 3><ACT 3><SCENE 2><43%>
+	My noble brother!
+<SPEECH 4><ACT 3><SCENE 2><43%>
+	Sir, look well to my husband's house; and—
+<SPEECH 5><ACT 3><SCENE 2><43%>
+	I'll tell you in your ear.
+<SPEECH 6><ACT 3><SCENE 4><46%>
+	O my good lord!
+	Believe not all; or, if you must believe,
+	Stomach not all. A more unhappy lady,
+	If this division chance, ne'er stood between,
+	Praying for both parts:
+	The good gods will mock me presently,
+	When I shall pray, 'O! bless my lord and husband;'
+	Undo that prayer, by crying out as loud,
+	'O! bless my brother!' Husband win, win brother,
+	Prays, and destroys the prayer; no midway
+	'Twixt these extremes at all.
+<SPEECH 7><ACT 3><SCENE 4><46%>
+	Thanks to my lord.
+	The Jove of power make me most weak, most weak,
+	Your reconciler! Wars 'twixt you twain would be
+	As if the world should cleave, and that slain men
+	Should solder up the rift.
+<SPEECH 8><ACT 3><SCENE 6><49%>
+	Hail, Cæsar, and my lord! hail, most dear Cæsar!
+<SPEECH 9><ACT 3><SCENE 6><49%>
+	You have not call'd me so, nor have you cause.
+<SPEECH 10><ACT 3><SCENE 6><49%>
+	Good my lord,
+	To come thus was I not constrain'd, but did it
+	On my free-will. My lord, Mark Antony,
+	Hearing that you prepar'd for war, acquainted
+	My grieved ear withal; whereon, I begg'd
+	His pardon for return.
+<SPEECH 11><ACT 3><SCENE 6><49%>
+	Do not say so, my lord.
+<SPEECH 12><ACT 3><SCENE 6><49%>
+	My lord, in Athens.
+<SPEECH 13><ACT 3><SCENE 6><50%>
+	Ay me, most wretched,
+	That have my heart parted betwixt two friends
+	That do afflict each other!
+<SPEECH 14><ACT 3><SCENE 6><50%>
+	Is it so, sir?

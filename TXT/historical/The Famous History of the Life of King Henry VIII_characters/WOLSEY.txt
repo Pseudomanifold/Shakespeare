@@ -1,0 +1,515 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+	The Duke of Buckingham's surveyor, ha?
+	Where's his examination?
+<SPEECH 2><ACT 1><SCENE 1><5%>
+	Is he in person ready?
+<SPEECH 3><ACT 1><SCENE 1><5%>
+	Well, we shall then know more; and Buckingham
+	Shall lessen this big look.
+<SPEECH 4><ACT 1><SCENE 2><10%>
+	Please you, sir,
+	I know but of a single part in aught
+	Pertains to the state; and front but in that file
+	Where others tell steps with me.
+<SPEECH 5><ACT 1><SCENE 2><11%>
+	And for me,
+	I have no further gone in this than by
+	A single voice, and that not pass'd me but
+	By learned approbation of the judges. If I am
+	Traduc'd by ignorant tongues, which neither know
+	My faculties nor person, yet will be
+	The chronicles of my doing, let me say
+	'Tis but the fate of place, and the rough brake
+	That virtue must go through. We must not stint
+	Our necessary actions, in the fear
+	To cope malicious censurers; which ever,
+	As rav'nous fishes, do a vessel follow
+	That is new-trimm'd, but benefit no further
+	Than vainly longing. What we oft do best,
+	By sick interpreters, once weak ones, is
+	Not ours, or not allow'd; what worst, as oft,
+	Hitting a grosser quality, is cried up
+	For our best act. If we shall stand still,
+	In fear our motion will be mock'd or carp'd at,
+	We should take root here where we sit, or sit
+	State-statues only.
+<SPEECH 6><ACT 1><SCENE 2><12%>
+	</STAGE DIR> A word with you.
+	Let there be letters writ to every shire,
+	Of the king's grace and pardon. The griev'd commons
+	Hardly conceive of me; let it be nois'd
+	That through our intercession this revokement
+	And pardon comes: I shall anon advise you
+	Further in the proceeding.
+<SPEECH 7><ACT 1><SCENE 2><13%>
+	Stand forth; and with bold spirit relate what you,
+	Most like a careful subject, have collected
+	Out of the Duke of Buckingham.
+<SPEECH 8><ACT 1><SCENE 2><14%>
+	Please your highness, note
+	This dangerous conception in this point.
+	Not friended by his wish, to your high person
+	His will is most malignant; and it stretches
+	Beyond you, to your friends.
+<SPEECH 9><ACT 1><SCENE 2><16%>
+	Now, madam, may his highness live in freedom,
+	And this man out of prison?
+<SPEECH 10><ACT 1><SCENE 4><20%>
+	You're welcome, my fair guests: that noble lady,
+	Or gentleman, that is not freely merry,
+	Is not my friend: this, to confirm my welcome;
+	And to you all, good health.
+<SPEECH 11><ACT 1><SCENE 4><20%>
+	My Lord Sands,
+	I am beholding to you: cheer your neighbours.
+	Ladies, you are not merry: gentlemen,
+	Whose fault is this?
+<SPEECH 12><ACT 1><SCENE 4><21%>
+	What's that?
+<SPEECH 13><ACT 1><SCENE 4><21%>
+	What war-like voice,
+	And to what end, is this? Nay, ladies, fear not;
+	By all the laws of war you're privileg'd.
+<SPEECH 14><ACT 1><SCENE 4><21%>
+	Good Lord Chamberlain,
+	Go, give 'em welcome; you can speak the French tongue;
+	And, pray, receive 'em nobly, and conduct 'em
+	Into our presence, where this heaven of beauty
+	Shall shine at full upon them. Some attend him.
+	You have now a broken banquet; but we'll mend it.
+	A good digestion to you all; and once more
+	I shower a welcome on ye; welcome all.
+	A noble company! what are their pleasures?
+<SPEECH 15><ACT 1><SCENE 4><22%>
+	Say, Lord Chamberlain,
+	They have done my poor house grace; for which I pay 'em
+	A thousand thanks, and pray 'em take their pleasures.
+<SPEECH 16><ACT 1><SCENE 4><22%>
+	My lord.
+<SPEECH 17><ACT 1><SCENE 4><22%>
+	Pray tell them thus much from me:
+	There should be one amongst 'em, by his person,
+	More worthy this place than myself; to whom,
+	If I but knew him, with my love and duty
+	I would surrender it.
+<SPEECH 18><ACT 1><SCENE 4><22%>
+	What say they?
+<SPEECH 19><ACT 1><SCENE 4><22%>
+	Let me see then.
+	By all your good leaves, gentlemen, here I'll make
+	My royal choice.
+<SPEECH 20><ACT 1><SCENE 4><22%>
+	I am glad
+	Your Grace is grown so pleasant.
+<SPEECH 21><ACT 1><SCENE 4><23%>
+	Sir Thomas Lovell, is the banquest ready
+	I' the privy chamber?
+<SPEECH 22><ACT 1><SCENE 4><23%>
+	Your Grace,
+	I fear, with dancing is a little heated.
+<SPEECH 23><ACT 1><SCENE 4><23%>
+	There's fresher air, my lord,
+	In the next chamber.
+<SPEECH 24><ACT 2><SCENE 2><32%>
+	Sir, you cannot.
+	I would your Grace would give us but an hour
+	Of private conference.
+<SPEECH 25><ACT 2><SCENE 2><32%>
+	Your Grace has given a precedent of wisdom
+	Above all princes, in committing freely
+	Your scruple to the voice of Christendom.
+	Who can be angry now? what envy reach you?
+	The Spaniard, tied by blood and favour to her,
+	Must now confess, if they have any goodness,
+	The trial just and noble. All the clerks,
+	I mean the learned ones, in Christian kingdoms
+	Have their free voices: Rome, the nurse of judgment,
+	Invited by your noble self, hath sent
+	One general tongue unto us, this good man,
+	This just and learned priest, Cardinal Campeius;
+	Whom once more I present unto your highness.
+<SPEECH 26><ACT 2><SCENE 2><33%>
+	I know your majesty has always lov'd her
+	So dear in heart, not to deny her that
+	A woman of less place might ask by law,
+	Scholars, allow'd freely to argue for her.
+<SPEECH 27><ACT 2><SCENE 2><33%>
+	</STAGE DIR> Give me your hand; much joy and favour to you;
+	You are the king's now.
+<SPEECH 28><ACT 2><SCENE 2><34%>
+	Yes, he was.
+<SPEECH 29><ACT 2><SCENE 2><34%>
+	Yes, surely.
+<SPEECH 30><ACT 2><SCENE 2><34%>
+	How! of me?
+<SPEECH 31><ACT 2><SCENE 2><34%>
+	Heaven's peace be with him!
+	That's Christian care enough: for living murmurers
+	There's places of rebuke. He was a fool,
+	For he would needs be virtuous: that good fellow,
+	If I command him, follows my appointment:
+	I will have none so near else. Learn this, brother,
+	We live not to be grip'd by meaner persons.
+<SPEECH 32><ACT 2><SCENE 4><39%>
+	Whilst our commission from Rome is read,
+	Let silence be commanded.
+<SPEECH 33><ACT 2><SCENE 4><39%>
+	Be't so. Proceed.
+<SPEECH 34><ACT 2><SCENE 4><41%>
+	You have here, lady,—
+	And of your choice,—these reverend fathers; men
+	Of singular integrity and learning,
+	Yea, the elect o' the land, who are assembled
+	To plead your cause. It shall be therefore bootless
+	That longer you desire the court, as well
+	For your own quiet, as to rectify
+	What is unsettled in the king.
+<SPEECH 35><ACT 2><SCENE 4><41%>
+	Your pleasure, madam?
+<SPEECH 36><ACT 2><SCENE 4><41%>
+	Be patient yet.
+<SPEECH 37><ACT 2><SCENE 4><42%>
+	I do profess
+	You speak not like yourself; who ever yet
+	Have stood to charity, and display'd the effects
+	Of disposition gentle, and of wisdom
+	O'ertopping woman's power. Madam, you do me wrong:
+	I have no spleen against you; nor injustice
+	For you or any: how far I have proceeded,
+	Or how far further shall, is warranted
+	By a commission from the consistory,
+	Yea, the whole consistory of Rome. You charge me
+	That I have blown this coal: I do deny it.
+	The king is present: if it be known to him
+	That I gainsay my deed, how may he wound,
+	And worthily, my falsehood; yea, as much
+	As you have done my truth. If he know
+	That I am free of your report, he knows
+	I am not of your wrong. Therefore in him
+	It lies to cure me; and the cure is, to
+	Remove these thoughts from you: the which before
+	His highness shall speak in, I do beseech
+	You, gracious madam, to unthink your speaking,
+	And to say so no more.
+<SPEECH 38><ACT 2><SCENE 4><43%>
+	Most gracious sir,
+	In humblest manner I require your highness,
+	That it shall please you to declare, in hearing
+	Of all these ears,—for where I am robb'd and bound
+	There must I be unloos'd, although not there
+	At once, and fully satisfied,—whether ever I
+	Did broach this business to your highness, or
+	Laid any scruple in your way, which might
+	Induce you to the question on't? or ever
+	Have to you, but with thanks to God for such
+	A royal lady, spake one the least word that might
+	Be to the prejudice of her present state,
+	Or touch of her good person?
+<SPEECH 39><ACT 3><SCENE 1><47%>
+	Peace to your highness!
+<SPEECH 40><ACT 3><SCENE 1><48%>
+	May it please you, noble madam, to withdraw
+	Into your private chamber, we shall give you
+	The full cause of our coming.
+<SPEECH 41><ACT 3><SCENE 1><48%>
+	Tanta est erga te mentis integritas, regina serenissima,—
+<SPEECH 42><ACT 3><SCENE 1><48%>
+	Noble lady,
+	I am sorry my integrity should breed,—
+	And service to his majesty and you,—
+	So deep suspicion, where all faith was meant.
+	We come not by the way of accusation,
+	To taint that honour every good tongue blesses,
+	Nor to betray you any way to sorrow,
+	You have too much, good lady; but to know
+	How you stand minded in the weighty difference
+	Between the king and you; and to deliver,
+	Like free and honest men, our just opinions
+	And comforts to your cause.
+<SPEECH 43><ACT 3><SCENE 1><49%>
+	Madam, you wrong the king's love with these fears:
+	Your hopes and friends are infinite.
+<SPEECH 44><ACT 3><SCENE 1><50%>
+	He tells you rightly.
+<SPEECH 45><ACT 3><SCENE 1><50%>
+	Madam, this is a mere distraction;
+	You turn the good we offer into envy.
+<SPEECH 46><ACT 3><SCENE 1><51%>
+	Madam, you wander from the good we aim at.
+<SPEECH 47><ACT 3><SCENE 1><51%>
+	Pray hear me.
+<SPEECH 48><ACT 3><SCENE 1><52%>
+	If your Grace
+	Could but be brought to know our ends are honest,
+	You'd feel more comfort. Why should we, good lady,
+	Upon what cause, wrong you? alas! our places,
+	The way of our profession is against it:
+	We are to cure such sorrows, not to sow them.
+	For goodness' sake, consider what you do;
+	How you may hurt yourself, ay, utterly
+	Grow from the king's acquaintance, by this carriage.
+	The hearts of princes kiss obedience,
+	So much they love it; but to stubborn spirits
+	They swell, and grow as terrible as storms.
+	I know you have a gentle, noble temper,
+	A soul as even as a calm: pray think us
+	Those we profess, peace-makers, friends, and servants.
+<SPEECH 49><ACT 3><SCENE 2><55%>
+	The packet, Cromwell,
+	Gave't you the king?
+<SPEECH 50><ACT 3><SCENE 2><55%>
+	Look'd he o' the inside of the paper?
+<SPEECH 51><ACT 3><SCENE 2><55%>
+	Is he ready
+	To come abroad?
+<SPEECH 52><ACT 3><SCENE 2><55%>
+	Leave me awhile.
+	</STAGE DIR> It shall be to the Duchess of Alençon,
+	The French King's sister; he shall marry her.
+	Anne Bullen! No; I'll no Anne Bullens for him:
+	There's more in't than fair visage. Bullen!
+	No, we'll no Bullens. Speedily I wish
+	To hear from Rome. The Marchioness of Pembroke!
+<SPEECH 53><ACT 3><SCENE 2><56%>
+	The late queen's gentlewoman, a knight's daughter,
+	To be her mistress' mistress! the queen's queen!
+	This candle burns not clear: 'tis I must snuff it;
+	Then, out it goes. What though I know her virtuous
+	And well deserving? yet I know her for
+	A spleeny Lutheran; and not wholesome to
+	Our cause, that she should lie i' the bosom of
+	Our hard-rul'd king. Again, there is sprung up
+	A heretic, an arch one, Cranmer; one
+	Hath crawl'd into the favour of the king,
+	And is his oracle.
+<SPEECH 54><ACT 3><SCENE 2><57%>
+	Heaven forgive me!
+	Ever God bless your highness!
+<SPEECH 55><ACT 3><SCENE 2><57%>
+	Sir,
+	For holy offices I have a time; a time
+	To think upon the part of business which
+	I bear i' the state; and nature does require
+	Her times of preservation, which perforce
+	I, her frail son, amongst my brethren mortal,
+	Must give my tendance to.
+<SPEECH 56><ACT 3><SCENE 2><58%>
+	And ever may your highness yoke together,
+	As I will lend you cause, my doing well
+	With my well saying!
+<SPEECH 57><ACT 3><SCENE 2><58%>
+	</STAGE DIR> What should this mean?
+<SPEECH 58><ACT 3><SCENE 2><58%>
+	My sovereign, I confess your royal graces,
+	Shower'd on me daily, have been more than could
+	My studied purposes requite; which went
+	Beyond all man's endeavours: my endeavours
+	Have ever come too short of my desires,
+	Yet fil'd with my abilities. Mine own ends
+	Have been mine so, that evermore they pointed
+	To the good of your most sacred person and
+	The profit of the state. For your great graces
+	Heap'd upon me, poor undeserver, I
+	Can nothing render but allegiant thanks,
+	My prayers to heaven for you, my loyalty,
+	Which ever has and ever shall be growing,
+	Till death, that winter, kill it.
+<SPEECH 59><ACT 3><SCENE 2><59%>
+	I do profess,
+	That for your highness' good I ever labour'd
+	More than mine own; that am, have, and will be.
+	Though all the world should crack their duty to you,
+	And throw it from their soul; though perils did
+	Abound as thick as thought could make 'em, and
+	Appear in forms more horrid, yet my duty,
+	As doth a rock against the chiding flood,
+	Should the approach of this wild river break,
+	And stand unshaken yours.
+<SPEECH 60><ACT 3><SCENE 2><59%>
+	What should this mean?
+	What sudden anger's this? how have I reap'd it?
+	He parted frowning from me, as if ruin
+	Leap'd from his eyes: so looks the chafed lion
+	Upon the daring huntsman that has gall'd him;
+	Then makes him nothing. I must read this paper;
+	I fear, the story of his anger. 'Tis so;
+	This paper has undone me! 'Tis the account
+	Of all that world of wealth I have drawn together
+	For mine own ends; indeed, to gain the popedom,
+	And fee my friends in Rome. O negligence!
+	Fit for a fool to fall by: what cross devil
+	Made me put this main secret in the packet
+	I sent the king? Is there no way to cure this?
+	No new device to beat this from his brains?
+	I know 'twill stir him strongly; yet I know
+	A way, if it take right, in spite of fortune
+	Will bring me off again. What's this?—'To the Pope!'
+	The letter, as I live, with all the business
+	I writ to's holiness. Nay then, farewell!
+	I have touch'd the highest point of all my greatness;
+	And from that full meridian of my glory,
+	I haste now to my setting: I shall fall
+	Like a bright exhalation in the evening,
+	And no man see me more.
+<SPEECH 61><ACT 3><SCENE 2><60%>
+	Stay,
+	Where's your commission, lord? words cannot carry
+	Authority so weighty.
+<SPEECH 62><ACT 3><SCENE 2><60%>
+	Till I find more than will or words to do it,
+	I mean your malice, know, officious lords,
+	I dare and must deny it. Now I feel
+	Of what coarse metal ye are moulded, envy:
+	How eagerly ye follow my disgraces,
+	As if it fed ye! and how sleek and wanton
+	Ye appear in every thing may bring my ruin
+	Follow your envious courses, men of malice;
+	You have Christian warrant for 'em, and, no doubt,
+	In time will find their fit rewards. That seal
+	You ask with such a violence, the king—
+	Mine and your master—with his own hand gave me;
+	Bade me enjoy it with the place and honours
+	During my life; and to confirm his goodness,
+	Tied it by letters-patents: now who'll take it?
+<SPEECH 63><ACT 3><SCENE 2><61%>
+	It must be himself then.
+<SPEECH 64><ACT 3><SCENE 2><61%>
+	Proud lord, thou liest:
+	Within these forty hours Surrey durst better
+	Have burnt that tongue than said so.
+<SPEECH 65><ACT 3><SCENE 2><61%>
+	This and all else
+	This talking lord can lay upon my credit,
+	I answer is most false. The duke by law
+	Found his deserts: how innocent I was
+	From any private malice in his end,
+	His noble jury and foul cause can witness.
+	If I lov'd many words, lord, I should tell you,
+	You have as little honesty as honour,
+	That in the way of loyalty and truth
+	Toward the king, my ever royal master,
+	Dare mate a sounder man than Surrey can be,
+	And all that love his follies.
+<SPEECH 66><ACT 3><SCENE 2><62%>
+	All goodness
+	Is poison to thy stomach.
+<SPEECH 67><ACT 3><SCENE 2><62%>
+	How much, methinks, I could despise this man,
+	But that I am bound in charity against it!
+<SPEECH 68><ACT 3><SCENE 2><62%>
+	So much fairer
+	And spotless shall mine innocence arise
+	When the king knows my truth.
+<SPEECH 69><ACT 3><SCENE 2><63%>
+	Speak on, sir;
+	I dare your worst objections; if I blush,
+	It is to see a nobleman want manners.
+<SPEECH 70><ACT 3><SCENE 2><64%>
+	So farewell to the little good you bear me.
+	Farewell! a long farewell, to all my greatness!
+	This is the state of man: to-day be puts forth
+	The tender leaves of hopes; to-morrow blossoms,
+	And bears his blushing honours thick upon him;
+	The third day comes a frost, a killing frost;
+	And, when he thinks, good easy man, full surely
+	His greatness is a-ripening, nips his root,
+	And then he falls, as I do. I have ventur'd,
+	Like little wanton boys that swim on bladders,
+	This many summers in a sea of glory,
+	But far beyond my depth: my high-blown pride
+	At length broke under me, and now has left me,
+	Weary and old with service, to the mercy
+	Of a rude stream, that must for ever hide me.
+	Vain pomp and glory of this world, I hate yo:
+	I feel my heart new open'd. O! how wretched
+	Is that poor man that hangs on princes' favours!
+	There is, betwixt that smile we would aspire to,
+	That sweet aspect of princes, and their ruin,
+	More pangs and fears than wars or women have;
+	And when he falls, he falls like Lucifer,
+	Never to hope again.
+	Why, how now, Cromwell!
+<SPEECH 71><ACT 3><SCENE 2><65%>
+	What! amaz'd
+	At my misfortunes? can thy spirit wonder
+	A great man should decline? Nay, an you weep,
+	I am fall'n indeed.
+<SPEECH 72><ACT 3><SCENE 2><65%>
+	Why, well;
+	Never so truly happy, my good Cromwell.
+	I know myself now; and I feel within me
+	A peace above all earthly dignities,
+	A still and quiet conscience. The king has cur'd me,
+	I humbly thank his Grace; and from these shoulders,
+	These ruin'd pillars, out of pity taken
+	A load would sink a navy, too much honour:
+	O! 'tis a burden, Cromwell, 'tis a burden
+	Too heavy for a man that hopes for heaven.
+<SPEECH 73><ACT 3><SCENE 2><65%>
+	I hope I have: I am able now, methinks,—
+	Out of a fortitude of soul I feel,—
+	To endure more miseries and greater far
+	Than my weak-hearted enemies dare offer.
+	What news abroad?
+<SPEECH 74><ACT 3><SCENE 2><65%>
+	God bless him!
+<SPEECH 75><ACT 3><SCENE 2><66%>
+	That's somewhat sudden:
+	But he's a learned man. May he continue
+	Long in his highness' favour, and do justice
+	For truth's sake and his conscience; that his bones,
+	When he has run his course and sleeps in blessings,
+	May have a tomb of orphans' tears wept on 'em!
+	What more?
+<SPEECH 76><ACT 3><SCENE 2><66%>
+	That's news indeed.
+<SPEECH 77><ACT 3><SCENE 2><66%>
+	There was the weight that pull'd me down. O Cromwell!
+	The king has gone beyond me: all my glories
+	In that one woman I have lost for ever.
+	No sun shall ever usher forth mine honours,
+	Or gild again the noble troops that waited
+	Upon my smiles. Go, get thee from me, Cromwell;
+	I am a poor fall'n man, unworthy now
+	To be thy lord and master: seek the king;—
+	That sun, I pray, may never set!—I have told him
+	What, and how true thou art: he will advance thee;
+	Some little memory of me will stir him—
+	I know his noble nature—not to let
+	Thy hopeful service perish too. Good Cromwell,
+	Neglect him not; make use now, and provide
+	For thine own future safety.
+<SPEECH 78><ACT 3><SCENE 2><67%>
+	Cromwell, I did not think to shed a tear
+	In all my miseries; but thou hast forc'd me,
+	Out of thy honest truth, to play the woman.
+	Let's dry our eyes: and thus far hear me, Cromwell;
+	And, when I am forgotten, as I shall be,
+	And sleep in dull cold marble, where no mention
+	Of me more must be heard of, say, I taught thee,
+	Say, Wolsey, that once trod the ways of glory,
+	And sounded all the depths and shoals of honour,
+	Found thee a way, out of his wrack, to rise in;
+	A sure and safe one, though thy master miss'd it.
+	Mark but my fall, and that that ruin'd me.
+	Cromwell, I charge thee, fling away ambition:
+	By that sin fell the angels; how can man then,
+	The image of his Maker, hope to win by't?
+	Love thyself last: cherish those hearts that hate thee;
+	Corruption wins not more than honesty.
+	Still in thy right hand carry gentle peace,
+	To silence envious tongues: be just, and fear not.
+	Let all the ends thou aim'st at be thy country's,
+	Thy God's, and truth's; then if thou fall'st, O Cromwell!
+	Thou fall'st a blessed martyr. Serve the king;
+	And,—prithee, lead me in:
+	There take an inventory of all I have,
+	To the last penny; 'tis the king's: my robe,
+	And my integrity to heaven is all
+	I dare now call mine own. O Cromwell, Cromwell!
+	Had I but serv'd my God with half the zeal
+	I serv'd my king, he would not in mine age
+	Have left me naked to mine enemies.
+<SPEECH 79><ACT 3><SCENE 2><68%>
+	So I have. Farewell
+	The hopes of court! my hopes in heaven do dwell.

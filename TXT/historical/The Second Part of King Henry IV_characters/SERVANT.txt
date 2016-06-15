@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 1><SCENE 2><10%>
+	Falstaff, an't please your lordship.
+<SPEECH 2><ACT 1><SCENE 2><10%>
+	He, my lord; but he hath since done good service at Shrewsbury, and, as I hear, is now going with some charge to the Lord John of Lancaster.
+<SPEECH 3><ACT 1><SCENE 2><10%>
+	Sir John Falstaff!
+<SPEECH 4><ACT 1><SCENE 2><10%>
+	Sir John!
+<SPEECH 5><ACT 1><SCENE 2><11%>
+	You mistake me, sir.
+<SPEECH 6><ACT 1><SCENE 2><11%>
+	I pray you, sir, then set your knighthood and your soldiership aside, and give me leave to tell you you lie in your throat if you say I am any other than an honest man.
+<SPEECH 7><ACT 1><SCENE 2><11%>
+	Sir, my lord would speak with you.

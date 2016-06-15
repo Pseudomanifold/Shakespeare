@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 2><SCENE 2><19%>
+	True: those that were your father's enemies
+	Have steep'd their galls in honey, and do serve you
+	With hearts create of duty and of zeal.
+<SPEECH 2><ACT 2><SCENE 2><20%>
+	Sir,
+	You show great mercy, if you give him life
+	After the taste of much correction.
+<SPEECH 3><ACT 2><SCENE 2><20%>
+	And I, my royal sovereign.
+<SPEECH 4><ACT 2><SCENE 2><21%>
+	To which we all appeal.
+<SPEECH 5><ACT 2><SCENE 2><23%>
+	Never did faithful subject more rejoice
+	At the discovery of most dangerous treason
+	Than I do at this hour joy o'er myself,
+	Prevented from a damned enterprise.
+	My fault, but not my body; pardon, sovereign.

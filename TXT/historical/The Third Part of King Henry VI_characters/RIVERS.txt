@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 4><SCENE 4><71%>
+	Madam, what makes you in this sudden change?
+<SPEECH 2><ACT 4><SCENE 4><71%>
+	What! loss of some pitch'd battle against Warwick?
+<SPEECH 3><ACT 4><SCENE 4><71%>
+	Then is my sovereign slain?
+<SPEECH 4><ACT 4><SCENE 4><72%>
+	These news, I must confess, are full of grief;
+	Yet, gracious madam, bear it as you may:
+	Warwick may lose, that now hath won the day.
+<SPEECH 5><ACT 4><SCENE 4><72%>
+	But, madam, where is Warwick then become?

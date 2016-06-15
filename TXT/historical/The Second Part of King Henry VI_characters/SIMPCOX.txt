@@ -1,0 +1,41 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+	Born blind, an't please your Grace.
+<SPEECH 2><ACT 2><SCENE 1><24%>
+	At Berwick in the north, an't like your Grace.
+<SPEECH 3><ACT 2><SCENE 1><25%>
+	God knows, of pure devotion; being call'd
+	A hundred times and oft'ner in my sleep,
+	By good Saint Alban; who said, 'Simpcox, come;
+	Come, offer at my shrine, and I will help thee.'
+<SPEECH 4><ACT 2><SCENE 1><25%>
+	Ay, God Almighty help me!
+<SPEECH 5><ACT 2><SCENE 1><25%>
+	A fall off of a tree.
+<SPEECH 6><ACT 2><SCENE 1><25%>
+	O! born so, master.
+<SPEECH 7><ACT 2><SCENE 1><25%>
+	But that in all my life, when I was a youth.
+<SPEECH 8><ACT 2><SCENE 1><25%>
+	Alas! master, my wife desir'd some damsons,
+	And made me climb with danger of my life.
+<SPEECH 9><ACT 2><SCENE 1><25%>
+	Yes, master, clear as day; I thank God and Saint Alban.
+<SPEECH 10><ACT 2><SCENE 1><25%>
+	Red, master; red as blood.
+<SPEECH 11><ACT 2><SCENE 1><25%>
+	Black, forsooth; coal-black, as jet.
+<SPEECH 12><ACT 2><SCENE 1><25%>
+	Alas! master, I know not.
+<SPEECH 13><ACT 2><SCENE 1><26%>
+	I know not.
+<SPEECH 14><ACT 2><SCENE 1><26%>
+	No, indeed, master.
+<SPEECH 15><ACT 2><SCENE 1><26%>
+	Saunder Simpcox, an if it please you, master.
+<SPEECH 16><ACT 2><SCENE 1><26%>
+	O, master, that you could!
+<SPEECH 17><ACT 2><SCENE 1><26%>
+	Alas! master, I am not able to stand alone:
+	You go about to torture me in vain.
+<SPEECH 18><ACT 2><SCENE 1><26%>
+	Alas! master, what shall I do? I am not able to stand.

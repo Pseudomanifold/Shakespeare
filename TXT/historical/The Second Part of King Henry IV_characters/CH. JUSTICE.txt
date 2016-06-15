@@ -1,0 +1,158 @@
+<SPEECH 1><ACT 1><SCENE 2><10%>
+	What's he that goes there?
+<SPEECH 2><ACT 1><SCENE 2><10%>
+	He that was in question for the robbery?
+<SPEECH 3><ACT 1><SCENE 2><10%>
+	What, to York? Call him back again.
+<SPEECH 4><ACT 1><SCENE 2><10%>
+	I am sure he is, to the hearing of anything good. Go, pluck him by the elbow; I must speak with him.
+<SPEECH 5><ACT 1><SCENE 2><11%>
+	Sir John Falstaff, a word with you.
+<SPEECH 6><ACT 1><SCENE 2><11%>
+	Sir John, I sent for you before your expedition to Shrewsbury.
+<SPEECH 7><ACT 1><SCENE 2><11%>
+	I talk not of his majesty. You would not come when I sent for you.
+<SPEECH 8><ACT 1><SCENE 2><11%>
+	Well, heaven mend him! I pray you, let me speak with you.
+<SPEECH 9><ACT 1><SCENE 2><12%>
+	What tell you me of it? be it as it is.
+<SPEECH 10><ACT 1><SCENE 2><12%>
+	I think you are fallen into the disease, for you hear not what I say to you.
+<SPEECH 11><ACT 1><SCENE 2><12%>
+	To punish you by the heels would amend the attention of your ears; and I care not if I do become your physician.
+<SPEECH 12><ACT 1><SCENE 2><12%>
+	I sent for you, when there were matters against you for your life, to come speak with me.
+<SPEECH 13><ACT 1><SCENE 2><12%>
+	Well, the truth is, Sir John, you live in great infamy.
+<SPEECH 14><ACT 1><SCENE 2><12%>
+	Your means are very slender, and your waste is great.
+<SPEECH 15><ACT 1><SCENE 2><12%>
+	You have misled the youthful prince.
+<SPEECH 16><ACT 1><SCENE 2><12%>
+	Well, I am loath to gall a new-healed wound: your day's service at Shrewsbury hath a little gilded over your night's exploit on Gadshill: you may thank the unquiet time for your quiet o'er-posting that action.
+<SPEECH 17><ACT 1><SCENE 2><13%>
+	But since all is well, keep it so: wake not a sleeping wolf.
+<SPEECH 18><ACT 1><SCENE 2><13%>
+	What! you are as a candle, the better part burnt out.
+<SPEECH 19><ACT 1><SCENE 2><13%>
+	There is not a white hair on your face but should have his effect of gravity.
+<SPEECH 20><ACT 1><SCENE 2><13%>
+	You follow the young prince up and down, like his ill angel.
+<SPEECH 21><ACT 1><SCENE 2><13%>
+	Do you set down your name in the scroll of youth, that are written down old with all the characters of age? Have you not a moist eye, a dry hand, a yellow cheek, a white beard, a decreasing leg, an increasing belly? Is not your voice broken, your wind short, your chin double, your wit single, and every part about you blasted with antiquity, and will you yet call yourself young? Fie, fie, fie, Sir John!
+<SPEECH 22><ACT 1><SCENE 2><14%>
+	Well, God send the prince a better companion!
+<SPEECH 23><ACT 1><SCENE 2><14%>
+	Well, the king hath severed you and Prince Harry. I hear you are going with Lord John of Lancaster against the archbishop and the Earl of Northumberland.
+<SPEECH 24><ACT 1><SCENE 2><15%>
+	Well, be honest, be honest; and God bless your expedition.
+<SPEECH 25><ACT 1><SCENE 2><15%>
+	Not a penny; not a penny; you are too impatient to bear crosses. Fare you well: commend me to my cousin Westmoreland.
+<SPEECH 26><ACT 2><SCENE 1><21%>
+	What is the matter? keep the peace here, ho!
+<SPEECH 27><ACT 2><SCENE 1><21%>
+	How now, Sir John! what! are you brawling here?
+	Doth this become your place, your time and business?
+	You should have been well on your way to York.
+	Stand from him, fellow: wherefore hang'st upon him?
+<SPEECH 28><ACT 2><SCENE 1><21%>
+	For what sum?
+<SPEECH 29><ACT 2><SCENE 1><21%>
+	How comes this, Sir John? Fie! what man of good temper would endure this tempest of exclamation? Are you not ashamed to enforce a poor widow to so rough a course to come by her own?
+<SPEECH 30><ACT 2><SCENE 1><22%>
+	Sir John, Sir John, I am well acquainted with your manner of wrenching the true cause the false way. It is not a confident brow, nor the throng of words that come with such more than impudent sauciness from you, can thrust me from a level consideration; you have, as it appears to me, practised upon the easy-yielding spirit of this woman, and made her serve your uses both in purse and in person.
+<SPEECH 31><ACT 2><SCENE 1><23%>
+	Prithee, peace. Pay her the debt you owe her, and unpay the villany you have done her: the one you may do with sterling money, and the other with current repentance.
+<SPEECH 32><ACT 2><SCENE 1><23%>
+	You speak as having power to do wrong: but answer in the effect of your reputation, and satisfy the poor woman.
+<SPEECH 33><ACT 2><SCENE 1><23%>
+	Now, Master Gower! what news?
+<SPEECH 34><ACT 2><SCENE 1><24%>
+	I have heard better news.
+<SPEECH 35><ACT 2><SCENE 1><24%>
+	Where lay the king last night?
+<SPEECH 36><ACT 2><SCENE 1><24%>
+	Come all his forces back?
+<SPEECH 37><ACT 2><SCENE 1><24%>
+	You shall have letters of me presently.
+	Come, go along with me, good Master Gower.
+<SPEECH 38><ACT 2><SCENE 1><24%>
+	What's the matter?
+<SPEECH 39><ACT 2><SCENE 1><24%>
+	Sir John, you loiter here too long, being you are to take soldiers up in counties as you go.
+<SPEECH 40><ACT 2><SCENE 1><25%>
+	What foolish master taught you these manners, Sir John?
+<SPEECH 41><ACT 2><SCENE 1><25%>
+	Now the Lord lighten thee! thou art a great fool.
+<SPEECH 42><ACT 5><SCENE 2><86%>
+	How doth the king?
+<SPEECH 43><ACT 5><SCENE 2><86%>
+	I hope not dead.
+<SPEECH 44><ACT 5><SCENE 2><86%>
+	I would his majesty had call'd me with him:
+	The service that I truly did his life
+	Hath left me open to all injuries.
+<SPEECH 45><ACT 5><SCENE 2><86%>
+	I know he doth not, and do arm myself,
+	To welcome the condition of the time;
+	Which cannot look more hideously upon me
+	Than I have drawn it in my fantasy.
+<SPEECH 46><ACT 5><SCENE 2><87%>
+	O God! I fear all will be overturn'd.
+<SPEECH 47><ACT 5><SCENE 2><87%>
+	Peace be with us, lest we be heavier!
+<SPEECH 48><ACT 5><SCENE 2><87%>
+	Sweet princes, what I did, I did in honour,
+	Led by the impartial conduct of my soul;
+	And never shall you see that I will beg
+	A ragged and forestall'd remission.
+	If truth and upright innocency fail me,
+	I'll to the king my master that is dead,
+	And tell him who hath sent me after him.
+<SPEECH 49><ACT 5><SCENE 2><87%>
+	Good morrow, and God save your majesty!
+<SPEECH 50><ACT 5><SCENE 2><88%>
+	I am assur'd, if I be measur'd rightly,
+	Your majesty hath no just cause to hate me.
+<SPEECH 51><ACT 5><SCENE 2><88%>
+	I then did use the person of your father;
+	The image of his power lay then in me:
+	And, in the administration of his law,
+	Whiles I was busy for the commonwealth,
+	Your highness pleased to forget my place,
+	The majesty and power of law and justice,
+	The image of the king whom I presented,
+	And struck me in my very seat of judgment;
+	Whereon, as an offender to your father,
+	I gave bold way to my authority,
+	And did commit you. If the deed were ill,
+	Be you contented, wearing now the garland,
+	To have a son set your decrees at nought,
+	To pluck down justice from your awful bench,
+	To trip the course of law, and blunt the sword
+	That guards the peace and safety of your person:
+	Nay, more, to spurn at your most royal image
+	And mock your workings in a second body.
+	Question your royal thoughts, make the case yours;
+	Be now the father and propose a son,
+	Hear your own dignity so much profan'd,
+	See your most dreadful laws so loosely slighted,
+	Behold yourself so by a son disdain'd;
+	And then imagine me taking your part,
+	And in your power soft silencing your son:
+	After this cold considerance, sentence me;
+	And, as you are a king, speak in your state
+	What I have done that misbecame my place,
+	My person, or my liege's sov'reignty.
+<SPEECH 52><ACT 5><SCENE 5><97%>
+	Have you your wits? know you what 'tis you speak?
+<SPEECH 53><ACT 5><SCENE 5><98%>
+	Go, carry Sir John Falstaff to the Fleet;
+	Take all his company along with him.
+<SPEECH 54><ACT 5><SCENE 5><98%>
+	I cannot now speak: I will hear you soon.
+	Take them away.
+<SPEECH 55><ACT 5><SCENE 5><99%>
+	And so they are.
+<SPEECH 56><ACT 5><SCENE 5><99%>
+	He hath.

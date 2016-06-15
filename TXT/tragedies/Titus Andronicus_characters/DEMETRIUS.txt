@@ -1,0 +1,133 @@
+<SPEECH 1><ACT 1><SCENE 1><6%>
+	Oppose not Scythia to ambitious Rome.
+	Alarbus goes to rest, and we survive
+	To tremble under Titus' threatening look.
+	Then, madam, stand resolv'd; but hope withal
+	The self-same gods, that arm'd the Queen of Troy
+	With opportunity of sharp revenge
+	Upon the Thracian tyrant in his tent,
+	May favour Tamora, the Queen of Goths—
+	When Goths were Goths, and Tamora was queen—
+	To quit the bloody wrongs upon her foes.
+<SPEECH 2><ACT 2><SCENE 1><21%>
+	Chiron, thy years want wit, thy wit wants edge
+	And manners, to intrude where I am grac'd,
+	And may, for aught thou know'st, affected be.
+<SPEECH 3><ACT 2><SCENE 1><21%>
+	Why, boy, although our mother, unadvis'd,
+	Gave you a dancing-rapier by your side,
+	Are you so desperate grown, to threat your friends?
+	Go to; have your lath glu'd within your sheath
+	Till you know better how to handle it.
+<SPEECH 4><ACT 2><SCENE 1><22%>
+	Ay, boy, grow ye so brave?
+<SPEECH 5><ACT 2><SCENE 1><22%>
+	Not I, till I have sheath'd
+	My rapier in his bosom, and withal
+	Thrust those reproachful speeches down his throat
+	That he hath breath'd in my dishonour here.
+<SPEECH 6><ACT 2><SCENE 1><23%>
+	Youngling, learn thou to make some meaner choice:
+	Lavinia is thine elder brother's hope.
+<SPEECH 7><ACT 2><SCENE 1><23%>
+	Why mak'st thou it so strange?
+	She is a woman, therefore may be woo'd;
+	She is a woman, therefore may be won;
+	She is Lavinia, therefore must be lov'd.
+	What, man! more water glideth by the mill
+	Than wots the miller of; and easy it is
+	Of a cut loaf to steal a shive, we know:
+	Though Bassianus be the emperor's brother,
+	Better than he have worn Vulcan's badge.
+<SPEECH 8><ACT 2><SCENE 1><23%>
+	Then why should he despair that knows to court it
+	With words, fair looks, and liberality?
+	What! hast thou not full often struck a doe,
+	And borne her cleanly by the keeper's nose?
+<SPEECH 9><ACT 2><SCENE 1><24%>
+	Aaron, thou hast hit it.
+<SPEECH 10><ACT 2><SCENE 1><24%>
+	Nor me, so I were one.
+<SPEECH 11><ACT 2><SCENE 1><25%>
+	Sit fas aut nefas, till I find the stream
+	To cool this heat, a charm to calm these fits,
+	Per Styga, per manes vehor.
+<SPEECH 12><ACT 2><SCENE 2><26%>
+	</STAGE DIR> Chiron, we hunt not, we, with horse nor hound,
+	But hope to pluck a dainty doe to ground.
+<SPEECH 13><ACT 2><SCENE 3><30%>
+	How now, dear sovereign, and our gracious mother!
+	Why doth your highness look so pale and wan?
+<SPEECH 14><ACT 2><SCENE 3><31%>
+	This is a witness that I am thy son.
+<SPEECH 15><ACT 2><SCENE 3><31%>
+	Stay, madam; here is more belongs to her:
+	First thrash the corn, than after burn the straw.
+	This minion stood upon her chastity,
+	Upon her nuptial vow, her loyalty,
+	And with that painted hope she braves your mightiness:
+	And shall she carry this unto her grave?
+<SPEECH 16><ACT 2><SCENE 3><32%>
+	Listen, fair madam: let it be your glory
+	To see her tears; but be your heart to them
+	As unrelenting flint to drops of rain.
+<SPEECH 17><ACT 2><SCENE 3><33%>
+	Away! for thou hast stay'd us here too long.
+<SPEECH 18><ACT 2><SCENE 4><38%>
+	So, now go tell, an if thy tongue can speak,
+	Who 'twas that cut thy tongue and ravish'd thee.
+<SPEECH 19><ACT 2><SCENE 4><39%>
+	See, how with signs and tokens she can scrowl.
+<SPEECH 20><ACT 2><SCENE 4><39%>
+	She hath no tongue to call, nor hands to wash;
+	And so let's leave her to her silent walks.
+<SPEECH 21><ACT 2><SCENE 4><39%>
+	If thou hadst hands to help thee knit the cord.
+<SPEECH 22><ACT 4><SCENE 2><61%>
+	Gramercy, lovely Lucius: what's the news?
+<SPEECH 23><ACT 4><SCENE 2><62%>
+	What's here? A scroll; and written round about?
+	Let's see:—
+	</STAGE DIR> 'Integer vitæ, scelerisque purus,
+	Non eget Mauri jaculis, nec arcu.
+<SPEECH 24><ACT 4><SCENE 2><63%>
+	But me more good, to see so great a lord
+	Basely insinuate and send us gifts.
+<SPEECH 25><ACT 4><SCENE 2><63%>
+	I would we had a thousand Roman dames
+	At such a bay, by turn to serve our lust.
+<SPEECH 26><ACT 4><SCENE 2><63%>
+	Come, let us go and pray to all the gods
+	For our beloved mother in her pains.
+<SPEECH 27><ACT 4><SCENE 2><63%>
+	Why do the emperor's trumpets flourish thus?
+<SPEECH 28><ACT 4><SCENE 2><63%>
+	Soft! who comes here?
+<SPEECH 29><ACT 4><SCENE 2><64%>
+	Villain, what hast thou done?
+<SPEECH 30><ACT 4><SCENE 2><64%>
+	And therein, hellish dog, thou hast undone.
+	Woe to her chance, and damn'd her loathed choice!
+	Accurs'd the offspring of so foul a fiend!
+<SPEECH 31><ACT 4><SCENE 2><65%>
+	I'll broach the tadpole on my rapier's point:
+	Nurse, give it me; my sword shall soon dispatch it.
+<SPEECH 32><ACT 4><SCENE 2><65%>
+	Wilt thou betray thy noble mistress thus?
+<SPEECH 33><ACT 4><SCENE 2><66%>
+	By this our mother is for ever sham'd.
+<SPEECH 34><ACT 4><SCENE 2><66%>
+	Advise thee, Aaron, what is to be done,
+	And we will all subscribe to thy advice:
+	Save thou the child, so we may all be safe.
+<SPEECH 35><ACT 4><SCENE 2><66%>
+	How many women saw this child of his?
+<SPEECH 36><ACT 4><SCENE 2><67%>
+	What mean'st thou, Aaron? Wherefore didst thou this?
+<SPEECH 37><ACT 4><SCENE 2><68%>
+	For this care of Tamora,
+	Herself and hers are highly hound to thee.
+<SPEECH 38><ACT 5><SCENE 2><87%>
+	Show me a murderer, I'll deal with him.
+<SPEECH 39><ACT 5><SCENE 2><89%>
+	</STAGE DIR> Madam, depart at pleasure; leave us here.

@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 2><SCENE 4><38%>
+	Last night, I hear, they lay at Northampton;
+	At Stony-Stratford they do rest to-night:
+	To-morrow, or next day, they will be here.
+<SPEECH 2><ACT 2><SCENE 4><39%>
+	And so, no doubt, he is, my gracious madam.
+<SPEECH 3><ACT 2><SCENE 4><39%>
+	Good madam, be not angry with the child.
+<SPEECH 4><ACT 2><SCENE 4><39%>
+	Here comes a messenger. What news?
+<SPEECH 5><ACT 2><SCENE 4><39%>
+	For what offence?
+<SPEECH 6><ACT 2><SCENE 4><40%>
+	</STAGE DIR> My gracious lady, go;
+	And thither bear your treasure and your goods.
+	For my part, I'll resign unto your Grace
+	The seal I keep: and so betide to me
+	As well I tender you and all of yours!
+	Come; I'll conduct you to the sanctuary.

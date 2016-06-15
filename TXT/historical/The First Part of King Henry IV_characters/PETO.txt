@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 2><SCENE 2><25%>
+	How many be there of them?
+<SPEECH 2><ACT 2><SCENE 4><37%>
+	No, no, they were not bound.
+<SPEECH 3><ACT 2><SCENE 4><41%>
+	Why he hacked it with his dagger, and said he would swear truth out of England but he would make you believe it was done in fight, and persuaded us to do the like.
+<SPEECH 4><ACT 2><SCENE 4><48%>
+	Falstaff! fast asleep behind the arras, and snorting like a horse.
+<SPEECH 5><ACT 2><SCENE 4><49%>
+	Nothing but papers, my lord.
+<SPEECH 6><ACT 2><SCENE 4><49%>
+	Good morrow, good my lord.

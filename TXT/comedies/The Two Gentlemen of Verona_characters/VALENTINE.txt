@@ -1,0 +1,523 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Cease to persuade, my loving Proteus:
+	Home-keeping youth have ever homely wits.
+	Were't not affection chains thy tender days
+	To the sweet glances of thy honour'd love,
+	I rather would entreat thy company
+	To see the wonders of the world abroad
+	Than, living dully sluggardiz'd at home,
+	Wear out thy youth with shapeless idleness.
+	But since thou lov'st, love still, and thrive therein,
+	Even as I would when I to love begin.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	And on a love-book pray for my success?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	That's on some shallow story of deep love,
+	How young Leander cross'd the Hellespont.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	'Tis true; for you are over boots in love,
+	And yet you never swum the Hellespont.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	No, I will not, for it boots thee not.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	To be in love, where scorn is bought with groans;
+	Coy looks with heart-sore sighs; one fading moment's mirth
+	With twenty watchful, weary, tedious nights:
+	If haply won, perhaps a hapless gain;
+	If lost, why then a grievous labour won:
+	However, but a folly bought with wit,
+	Or else a wit by folly vanquished.
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	So, by your circumstance, I fear you'll prove.
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	Love is your master, for he masters you;
+	And he that is so yoked by a fool,
+	Methinks, should not be chronicled for wise.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	And writers say, as the most forward bud
+	Is eaten by the canker ere it blow,
+	Even so by love the young and tender wit
+	Is turned to folly; blasting in the bud,
+	Losing his verdure even in the prime,
+	And all the fair effects of future hopes.
+	But wherefore waste I time to counsel thee
+	That art a votary to fond desire?
+	Once more adieu! my father at the road
+	Expects my coming, there to see me shipp'd.
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	Sweet Proteus, no; now let us take our leave.
+	To Milan let me hear from thee by letters
+	Of thy success in love, and what news else
+	Betideth here in absence of thy friend;
+	And I likewise will visit thee with mine.
+<SPEECH 11><ACT 1><SCENE 1><3%>
+	As much to you at home! and so, farewell.
+<SPEECH 12><ACT 2><SCENE 1><18%>
+	Not mine; my gloves are on.
+<SPEECH 13><ACT 2><SCENE 1><18%>
+	Ha! let me see: ay, give it me, it's mine;
+	Sweet ornament that decks a thing divine!
+	Ah Silvia! Silvia!
+<SPEECH 14><ACT 2><SCENE 1><18%>
+	How now, sirrah?
+<SPEECH 15><ACT 2><SCENE 1><18%>
+	Why, sir, who bade you call her?
+<SPEECH 16><ACT 2><SCENE 1><18%>
+	Well, you'll still be too forward.
+<SPEECH 17><ACT 2><SCENE 1><18%>
+	Go to, sir. Tell me, do you know Madam Silvia?
+<SPEECH 18><ACT 2><SCENE 1><18%>
+	Why, how know you that I am in love?
+<SPEECH 19><ACT 2><SCENE 1><19%>
+	Are all these things perceived in me?
+<SPEECH 20><ACT 2><SCENE 1><19%>
+	Without me? they cannot.
+<SPEECH 21><ACT 2><SCENE 1><20%>
+	But tell me, dost thou know my lady Silvia?
+<SPEECH 22><ACT 2><SCENE 1><20%>
+	Hast thou observed that? even she, I mean.
+<SPEECH 23><ACT 2><SCENE 1><20%>
+	Dost thou know her by my gazing on her, and yet knowest her not?
+<SPEECH 24><ACT 2><SCENE 1><20%>
+	Not so fair, boy, as well-favoured.
+<SPEECH 25><ACT 2><SCENE 1><20%>
+	What dost thou know?
+<SPEECH 26><ACT 2><SCENE 1><20%>
+	I mean that her beauty is exquisite, but her favour infinite.
+<SPEECH 27><ACT 2><SCENE 1><20%>
+	How painted? and how out of count?
+<SPEECH 28><ACT 2><SCENE 1><20%>
+	How esteemest thou me? I account of her beauty.
+<SPEECH 29><ACT 2><SCENE 1><20%>
+	How long hath she been deformed?
+<SPEECH 30><ACT 2><SCENE 1><21%>
+	I have loved her ever since I saw her, and still I see her beautiful.
+<SPEECH 31><ACT 2><SCENE 1><21%>
+	Why?
+<SPEECH 32><ACT 2><SCENE 1><21%>
+	What should I see then?
+<SPEECH 33><ACT 2><SCENE 1><21%>
+	Belike, boy, then, you are in love; for last morning you could not see to wipe my shoes.
+<SPEECH 34><ACT 2><SCENE 1><21%>
+	In conclusion, I stand affected to her.
+<SPEECH 35><ACT 2><SCENE 1><21%>
+	Last night she enjoined me to write some lines to one she loves.
+<SPEECH 36><ACT 2><SCENE 1><21%>
+	I have.
+<SPEECH 37><ACT 2><SCENE 1><22%>
+	No, boy, but as well as I can do them.
+	Peace! here she comes.
+<SPEECH 38><ACT 2><SCENE 1><22%>
+	Madam and mistress, a thousand good morrows.
+<SPEECH 39><ACT 2><SCENE 1><22%>
+	As you enjoin'd me, I have writ your letter
+	Unto the secret nameless friend of yours;
+	Which I was much unwilling to proceed in
+	But for my duty to your ladyship.
+<SPEECH 40><ACT 2><SCENE 1><22%>
+	Now, trust me, madam, it came hardly off;
+	For, being ignorant to whom it goes
+	I writ at random, very doubtfully.
+<SPEECH 41><ACT 2><SCENE 1><22%>
+	No, madam; so it stead you, I will write,
+	Please you command, a thousand times as much.
+	And yet—
+<SPEECH 42><ACT 2><SCENE 1><23%>
+	What means your ladyship? do you not like it?
+<SPEECH 43><ACT 2><SCENE 1><23%>
+	Madam, they are for you.
+<SPEECH 44><ACT 2><SCENE 1><23%>
+	Please you, I'll write your ladyship another.
+<SPEECH 45><ACT 2><SCENE 1><23%>
+	If it please me, madam, what then?
+<SPEECH 46><ACT 2><SCENE 1><24%>
+	How now, sir! what are you reasoning with yourself?
+<SPEECH 47><ACT 2><SCENE 1><24%>
+	To do what?
+<SPEECH 48><ACT 2><SCENE 1><24%>
+	To whom?
+<SPEECH 49><ACT 2><SCENE 1><24%>
+	What figure?
+<SPEECH 50><ACT 2><SCENE 1><24%>
+	Why, she hath not writ to me?
+<SPEECH 51><ACT 2><SCENE 1><24%>
+	No, believe me.
+<SPEECH 52><ACT 2><SCENE 1><24%>
+	She gave me none, except an angry word.
+<SPEECH 53><ACT 2><SCENE 1><24%>
+	That's the letter I writ to her friend.
+<SPEECH 54><ACT 2><SCENE 1><25%>
+	I would it were no worse.
+<SPEECH 55><ACT 2><SCENE 1><25%>
+	I have dined.
+<SPEECH 56><ACT 2><SCENE 4><29%>
+	Mistress?
+<SPEECH 57><ACT 2><SCENE 4><29%>
+	Ay, boy, it's for love.
+<SPEECH 58><ACT 2><SCENE 4><29%>
+	Of my mistress, then.
+<SPEECH 59><ACT 2><SCENE 4><30%>
+	Indeed, madam, I seem so.
+<SPEECH 60><ACT 2><SCENE 4><30%>
+	Haply I do.
+<SPEECH 61><ACT 2><SCENE 4><30%>
+	So do you.
+<SPEECH 62><ACT 2><SCENE 4><30%>
+	Wise.
+<SPEECH 63><ACT 2><SCENE 4><30%>
+	Your folly.
+<SPEECH 64><ACT 2><SCENE 4><30%>
+	I quote it in your jerkin.
+<SPEECH 65><ACT 2><SCENE 4><30%>
+	Well, then, I'll double your folly.
+<SPEECH 66><ACT 2><SCENE 4><30%>
+	Give him leave, madam; he is a kind of chameleon.
+<SPEECH 67><ACT 2><SCENE 4><30%>
+	You have said, sir.
+<SPEECH 68><ACT 2><SCENE 4><30%>
+	I know it well, sir: you always end ere you begin.
+<SPEECH 69><ACT 2><SCENE 4><30%>
+	'Tis indeed, madam; we thank the giver.
+<SPEECH 70><ACT 2><SCENE 4><30%>
+	Yourself, sweet lady; for you gave the fire. Sir Thurio borrows his wit from your ladyship's looks, and spends what he borrows kindly in your company.
+<SPEECH 71><ACT 2><SCENE 4><31%>
+	I know it well, sir: you have an exchequer of words, and, I think, no other treasure to give your followers; for it appears by their bare liveries that they live by your bare words.
+<SPEECH 72><ACT 2><SCENE 4><31%>
+	My lord, I will be thankful
+	To any happy messenger from thence.
+<SPEECH 73><ACT 2><SCENE 4><31%>
+	Ay, my good lord; I know the gentleman
+	To be of worth and worthy estimation,
+	And not without desert so well reputed.
+<SPEECH 74><ACT 2><SCENE 4><31%>
+	Ay, my good lord; a son that well deserves
+	The honour and regard of such a father.
+<SPEECH 75><ACT 2><SCENE 4><32%>
+	I know him as myself; for from our infancy
+	We have convers'd and spent our hours together:
+	And though myself have been an idle truant,
+	Omitting the sweet benefit of time
+	To clothe mine age with angel-like perfection,
+	Yet hath Sir Proteus,—for that's his name,—
+	Made use and fair advantage of his days:
+	His years but young, but his experience old;
+	His head unmellow'd, but his judgment ripe;
+	And, in a word,—for far behind his worth
+	Come all the praises that I now bestow,—
+	He is complete in feature and in mind
+	With all good grace to grace a gentleman.
+<SPEECH 76><ACT 2><SCENE 4><32%>
+	Should I have wish'd a thing, it had been he.
+<SPEECH 77><ACT 2><SCENE 4><33%>
+	This is the gentleman I told your ladyship
+	Had come along with me, but that his mistress
+	Did hold his eyes lock'd in her crystal looks.
+<SPEECH 78><ACT 2><SCENE 4><33%>
+	Nay, sure, I think she holds them prisoners still.
+<SPEECH 79><ACT 2><SCENE 4><33%>
+	Why, lady, Love hath twenty pairs of eyes.
+<SPEECH 80><ACT 2><SCENE 4><33%>
+	To see such lovers, Thurio, as yourself:
+	Upon a homely object Love can wink.
+<SPEECH 81><ACT 2><SCENE 4><33%>
+	Welcome, dear Proteus! Mistress, I beseech you,
+	Confirm his welcome with some special favour.
+<SPEECH 82><ACT 2><SCENE 4><33%>
+	Mistress, it is: sweet lady, entertain him
+	To be my fellow-servant to your ladyship.
+<SPEECH 83><ACT 2><SCENE 4><34%>
+	Leave off discourse of disability:
+	Sweet lady, entertain him for your servant.
+<SPEECH 84><ACT 2><SCENE 4><34%>
+	Now, tell me, how do all from whence you came?
+<SPEECH 85><ACT 2><SCENE 4><35%>
+	And how do yours?
+<SPEECH 86><ACT 2><SCENE 4><35%>
+	How does your lady and how thrives your love?
+<SPEECH 87><ACT 2><SCENE 4><35%>
+	Ay, Proteus, but that life is alter'd now:
+	I have done penance for contemning love;
+	Whose high imperious thoughts have punish'd me
+	With bitter fasts, with penitential groans,
+	With nightly tears and daily heart-sore sighs;
+	For, in revenge of my contempt of love,
+	Love hath chas'd sleep from my enthralled eyes,
+	And made them watchers of mine own heart's sorrow.
+	O, gentle Proteus! Love's a mighty lord,
+	And hath so humbled me as I confess,
+	There is no woe to his correction,
+	Nor to his service no such joy on earth.
+	Now no discourse, except it be of love;
+	Now can I break my fast, dine, sup and sleep,
+	Upon the very naked name of love.
+<SPEECH 88><ACT 2><SCENE 4><35%>
+	Even she; and is she not a heavenly saint?
+<SPEECH 89><ACT 2><SCENE 4><36%>
+	Call her divine.
+<SPEECH 90><ACT 2><SCENE 4><36%>
+	O! flatter me, for love delights in praises.
+<SPEECH 91><ACT 2><SCENE 4><36%>
+	Then speak the truth by her; if not divine,
+	Yet let her be a principality,
+	Sovereign to all the creatures on the earth.
+<SPEECH 92><ACT 2><SCENE 4><36%>
+	Sweet, except not any,
+	Except thou wilt except against my love.
+<SPEECH 93><ACT 2><SCENE 4><36%>
+	And I will help thee to prefer her too:
+	She shall be dignified with this high honour,—
+	To bear my lady's train, lest the base earth
+	Should from her vesture chance to steal a kiss,
+	And, of so great a favour growing proud,
+	Disdain to root the summer-swelling flower,
+	And make rough winter everlastingly.
+<SPEECH 94><ACT 2><SCENE 4><36%>
+	Pardon me, Proteus: all I can is nothing
+	To her whose worth makes other worthies nothing.
+	She is alone.
+<SPEECH 95><ACT 2><SCENE 4><36%>
+	Not for the world: why, man, she is mine own,
+	And I as rich in having such a jewel
+	As twenty seas, if all their sand were pearl,
+	The water nectar, and the rocks pure gold.
+	Forgive me that I do not dream on thee,
+	Because thou see'st me dote upon my love.
+	My foolish rival, that her father likes
+	Only for his possessions are so huge,
+	Is gone with her along, and I must after,
+	For love, thou know'st, is full of jealousy.
+<SPEECH 96><ACT 2><SCENE 4><37%>
+	Ay, and we are betroth'd: nay, more, our marriage-hour,
+	With all the cunning manner of our flight,
+	Determin'd of: how I must climb her window,
+	The ladder made of cords, and all the means
+	Plotted and 'greed on for my happiness.
+	Good Proteus, go with me to my chamber,
+	In these affairs to aid me with thy counsel.
+<SPEECH 97><ACT 2><SCENE 4><37%>
+	Will you make haste?
+<SPEECH 98><ACT 3><SCENE 1><49%>
+	Please it your Grace, there is a messenger
+	That stays to bear my letters to my friends,
+	And I am going to deliver them.
+<SPEECH 99><ACT 3><SCENE 1><49%>
+	The tenour of them doth but signify
+	My health and happy being at your court.
+<SPEECH 100><ACT 3><SCENE 1><49%>
+	I know it well, my lord; and sure, the match
+	Were rich and honourable; besides, the gentleman
+	Is full of virtue, bounty, worth, and qualities
+	Beseeming such a wife as your fair daughter.
+	Cannot your Grace win her to fancy him?
+<SPEECH 101><ACT 3><SCENE 1><50%>
+	What would your Grace have me to do in this?
+<SPEECH 102><ACT 3><SCENE 1><50%>
+	Win her with gifts, if she respect not words:
+	Dumb jewels often in their silent kind
+	More than quick words do move a woman's mind.
+<SPEECH 103><ACT 3><SCENE 1><51%>
+	A woman sometime scorns what best contents her.
+	Send her another; never give her o'er,
+	For scorn at first makes after-love the more.
+	If she do frown, 'tis not in hate of you,
+	But rather to beget more love in you;
+	If she do chide, 'tis not to have you gone;
+	For why the fools are mad if left alone.
+	Take no repulse, whatever she doth say;
+	For, 'get you gone,' she doth not mean, 'away!'
+	Flatter and praise, commend, extol their graces;
+	Though ne'er so black, say they have angels' faces.
+	That man that hath a tongue, I say, is no man,
+	If with his tongue he cannot win a woman.
+<SPEECH 104><ACT 3><SCENE 1><51%>
+	Why then, I would resort to her by night.
+<SPEECH 105><ACT 3><SCENE 1><51%>
+	What lets but one may enter at her window?
+<SPEECH 106><ACT 3><SCENE 1><52%>
+	Why then, a ladder quaintly made of cords,
+	To cast up, with a pair of anchoring hooks,
+	Would serve to scale another Hero's tower,
+	So bold Leander would adventure it.
+<SPEECH 107><ACT 3><SCENE 1><52%>
+	When would you use it? pray, sir, tell me that.
+<SPEECH 108><ACT 3><SCENE 1><52%>
+	By seven o'clock I'll get you such a ladder.
+<SPEECH 109><ACT 3><SCENE 1><52%>
+	It will be light, my lord, that you may bear it
+	Under a cloak that is of any length.
+<SPEECH 110><ACT 3><SCENE 1><52%>
+	Ay, my good lord.
+<SPEECH 111><ACT 3><SCENE 1><52%>
+	Why, any cloak will serve the turn, my lord.
+<SPEECH 112><ACT 3><SCENE 1><54%>
+	And why not death rather than living torment?
+	To die is to be banish'd from myself;
+	And Silvia is myself: banish'd from her
+	Is self from self,—a deadly banishment!
+	What light is light, if Silvia be not seen?
+	What joy is joy, if Silvia be not by?
+	Unless it be to think that she is by
+	And feed upon the shadow of perfection.
+	Except I be by Silvia in the night,
+	There is no music in the nightingale;
+	Unless I look on Silvia in the day,
+	There is no day for me to look upon.
+	She is my essence; and I leave to be,
+	If I be not by her fair influence
+	Foster'd, illumin'd, cherish'd, kept alive.
+	I fly not death, to fly his deadly doom:
+	Tarry I here, I but attend on death;
+	But, fly I hence, I fly away from life.
+<SPEECH 113><ACT 3><SCENE 1><55%>
+	No.
+<SPEECH 114><ACT 3><SCENE 1><55%>
+	Neither.
+<SPEECH 115><ACT 3><SCENE 1><55%>
+	Nothing.
+<SPEECH 116><ACT 3><SCENE 1><55%>
+	My ears are stopp'd and cannot hear good news,
+	So much of bad already hath possess'd them.
+<SPEECH 117><ACT 3><SCENE 1><56%>
+	Is Silvia dead?
+<SPEECH 118><ACT 3><SCENE 1><56%>
+	No Valentine, indeed, for sacred Silvia!
+	Hath she forsworn me?
+<SPEECH 119><ACT 3><SCENE 1><56%>
+	No Valentine, if Silvia have forsworn me!
+	What is your news?
+<SPEECH 120><ACT 3><SCENE 1><56%>
+	O, I have fed upon this woe already,
+	And now excess of it will make me surfeit.
+	Doth Silvia know that I am banished?
+<SPEECH 121><ACT 3><SCENE 1><57%>
+	No more; unless the next word that thou speak'st
+	Have some malignant power upon my life:
+	If so, I pray thee, breathe it in mine ear,
+	As ending anthem of my endless dolour.
+<SPEECH 122><ACT 3><SCENE 1><58%>
+	I pray thee, Launce, and if thou seest my boy,
+	Bid him make haste and meet me at the North-gate.
+<SPEECH 123><ACT 3><SCENE 1><58%>
+	O my dear Silvia! hapless Valentine!
+<SPEECH 124><ACT 4><SCENE 1><68%>
+	My friends,—
+<SPEECH 125><ACT 4><SCENE 1><68%>
+	Then know, that I have little wealth to lose.
+	A man I am cross'd with adversity:
+	My riches are these poor habiliments,
+	Of which if you should here disfurnish me,
+	You take the sum and substance that I have.
+<SPEECH 126><ACT 4><SCENE 1><68%>
+	To Verona.
+<SPEECH 127><ACT 4><SCENE 1><68%>
+	From Milan.
+<SPEECH 128><ACT 4><SCENE 1><68%>
+	Some sixteen months; and longer might have stay'd
+	If crooked fortune had not thwarted me.
+<SPEECH 129><ACT 4><SCENE 1><68%>
+	I was.
+<SPEECH 130><ACT 4><SCENE 1><68%>
+	For that which now torments me to rehearse.
+	I kill'd a man, whose death I much repent;
+	But yet I slew him manfully, in fight,
+	Without false vantage or base treachery.
+<SPEECH 131><ACT 4><SCENE 1><69%>
+	I was, and held me glad of such a doom.
+<SPEECH 132><ACT 4><SCENE 1><69%>
+	My youthful travel therein made me happy,
+	Or else I often had been miserable.
+<SPEECH 133><ACT 4><SCENE 1><69%>
+	Peace, villain!
+<SPEECH 134><ACT 4><SCENE 1><69%>
+	Nothing, but my fortune.
+<SPEECH 135><ACT 4><SCENE 1><70%>
+	I take your offer and will live with you,
+	Provided that you do no outrages
+	On silly women, or poor passengers.
+<SPEECH 136><ACT 5><SCENE 4><92%>
+	How use doth breed a habit in a man!
+	This shadowy desart, unfrequented woods,
+	I better brook than flourishing peopled towns.
+	Here can I sit alone, unseen of any,
+	And to the nightingale's complaining notes
+	Tune my distresses and record my woes.
+	O thou that dost inhabit in my breast,
+	Leave not the mansion so long tenantless,
+	Lest, growing ruinous, the building fall
+	And leave no memory of what it was!
+	Repair me with thy presence, Silvia!
+	Thou gentle nymph, cherish thy forlorn swain!
+	What halloing and what stir is this to-day?
+	These are my mates, that make their wills their law,
+	Have some unhappy passenger in chase.
+	They love me well; yet I have much to do
+	To keep them from uncivil outrages.
+	Withdraw thee, Valentine: who's this comes here?
+<SPEECH 137><ACT 5><SCENE 4><93%>
+	</STAGE DIR> How like a dream is this I see and hear!
+	Love, lend me patience to forbear awhile.
+<SPEECH 138><ACT 5><SCENE 4><95%>
+	</STAGE DIR> Ruffian, let go that rude uncivil touch;
+	Thou friend of an ill fashion!
+<SPEECH 139><ACT 5><SCENE 4><95%>
+	Thou common friend, that's without faith or love—
+	For such is a friend now—treach'rous man!
+	Thou hast beguil'd my hopes: naught but mine eye
+	Could have persuaded me. Now I dare not say
+	I have one friend alive: thou wouldst disprove me.
+	Who should be trusted now, when one's right hand
+	Is perjur'd to the bosom? Proteus,
+	I am sorry I must never trust thee more,
+	But count the world a stranger for thy sake.
+	The private wound is deep'st. O time most curst!
+	'Mongst all foes that a friend should be the worst!
+<SPEECH 140><ACT 5><SCENE 4><96%>
+	Then, I am paid;
+	And once again I do receive thee honest.
+	Who by repentance is not satisfied
+	Is nor of heaven, nor earth; for these are pleas'd.
+	By penitence the Eternal's wrath's appeas'd:
+	And, that my love may appear plain and free,
+	All that was mine in Silvia I give thee.
+<SPEECH 141><ACT 5><SCENE 4><96%>
+	Why, boy! why, wag! how now! what's the matter?
+	Look up; speak.
+<SPEECH 142><ACT 5><SCENE 4><97%>
+	Come, come, a hand from either.
+	Let me be blest to make this happy close:
+	'Twere pity two such friends should be long foes.
+<SPEECH 143><ACT 5><SCENE 4><98%>
+	Forbear, forbear, I say; it is my lord the duke.
+	Your Grace is welcome to a man disgrac'd,
+	Banished Valentine.
+<SPEECH 144><ACT 5><SCENE 4><98%>
+	Thurio, give back, or else embrace thy death;
+	Come not within the measure of my wrath;
+	Do not name Silvia thine; if once again,
+	Verona shall not hold thee. Here she stands;
+	Take but possession of her with a touch;
+	I dare thee but to breathe upon my love.
+<SPEECH 145><ACT 5><SCENE 4><99%>
+	I thank your Grace; the gift hath made me happy.
+	I now beseech you, for your daughter's sake,
+	To grant one boon that I shall ask of you.
+<SPEECH 146><ACT 5><SCENE 4><99%>
+	These banish'd men, that I have kept withal
+	Are men endu'd with worthy qualities:
+	Forgive them what they have committed here,
+	And let them be recall'd from their exile.
+	They are reformed, civil, full of good,
+	And fit for great employment, worthy lord.
+<SPEECH 147><ACT 5><SCENE 4><99%>
+	And as we walk along, I dare be bold
+	With our discourse to make your Grace to smile.
+	What think you of this page, my lord?
+<SPEECH 148><ACT 5><SCENE 4><100%>
+	I warrant you, my lord, more grace than boy.
+<SPEECH 149><ACT 5><SCENE 4><100%>
+	Please you, I'll tell you as we pass along,
+	That you will wonder what hath fortuned.
+	Come, Proteus; 'tis your penance, but to hear
+	The story of your loves discovered:
+	That done, our day of marriage shall be yours;
+	One feast, one house, one mutual happiness.

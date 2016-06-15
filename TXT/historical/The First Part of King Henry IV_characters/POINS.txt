@@ -1,0 +1,79 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	Good morrow, sweet Hal. What says Monsieur Remorse? What says Sir John Sack-and-Sugar? Jack! how agrees the devil and thee about thy soul, that thou soldest him on Good-Friday last for a cup of Madeira and a cold capon's leg?
+<SPEECH 2><ACT 1><SCENE 2><7%>
+	Then art thou damned for keeping thy word with the devil.
+<SPEECH 3><ACT 1><SCENE 2><8%>
+	But my lads, my lads, to-morrow morning, by four o'clock, early at Gadshill! There are pilgrims going to Canterbury with rich offerings, and traders riding to London with fat purses: I have vizards for you all; you have horses for yourselves. Gadshill lies to night in Rochester; I have bespoke supper to-morrow night in Eastcheap: we may do it as secure as sleep. If you will go I will stuff your purses full of crowns; if you will not, tarry at home and be hanged.
+<SPEECH 4><ACT 1><SCENE 2><8%>
+	You will, chops?
+<SPEECH 5><ACT 1><SCENE 2><8%>
+	Sir John, I prithee, leave the prince and me alone: I will lay him down such reasons for this adventure that he shall go.
+<SPEECH 6><ACT 1><SCENE 2><9%>
+	Now, my good sweet honey lord, ride with us to-morrow: I have a jest to execute that I cannot manage alone. Falstaff, Bardolph, Peto, and Gadshill shall rob those men that we have already waylaid; yourself and I will not be there; and when they have the booty, if you and I do not rob them, cut this head from my shoulders.
+<SPEECH 7><ACT 1><SCENE 2><9%>
+	Why, we will set forth before or after them, and appoint them a place of meeting, wherein it is at our pleasure to fail; and then will they adventure upon the exploit themselves, which they shall have no sooner achieved but we'll set upon them.
+<SPEECH 8><ACT 1><SCENE 2><9%>
+	Tut! our horses they shall not see, I'll tie them in the wood; our vizards we will change after we leave them; and, sirrah, I have cases of buckram for the nonce, to inmask our noted outward garments.
+<SPEECH 9><ACT 1><SCENE 2><9%>
+	Well, for two of them, I know them to be as true-bred cowards as ever turned back; and for the third, if he fight longer than he sees reason, I'll forswear arms. The virtue of this jest will be, the incomprehensible lies that this same fat rogue will tell us when we meet at supper: how thirty, at least, he fought with; what wards, what blows, what extremities he endured; and in the reproof of this lies the jest.
+<SPEECH 10><ACT 1><SCENE 2><10%>
+	Farewell, my lord.
+<SPEECH 11><ACT 2><SCENE 2><23%>
+	Come, shelter, shelter: I have removed Falstaff's horse, and he frets like a gummed velvet.
+<SPEECH 12><ACT 2><SCENE 2><25%>
+	O! 'tis our setter: I know his voice.
+<SPEECH 13><ACT 2><SCENE 2><25%>
+	Sirrah Jack, thy horse stands behind the hedge: when thou needst him there thou shalt find him. Farewell, and stand fast.
+<SPEECH 14><ACT 2><SCENE 2><26%>
+	Here, hard by; stand close.
+<SPEECH 15><ACT 2><SCENE 2><26%>
+	Stand close; I hear them coming.
+<SPEECH 16><ACT 2><SCENE 2><27%>
+	Villains!
+<SPEECH 17><ACT 2><SCENE 2><27%>
+	How the rogue roar'd!
+	But for mine own part, my lord, I could be well contented to be there, in respect of the love I bear your house.
+	He could be contented; why is he not then? In respect of the love he bears our house: he shows in this he loves his own barn better than he loves our house. Let me see some more.
+	The purpose you undertake is dangerous;—
+	Why, that's certain: 'tis dangerous to take a cold, to sleep, to drink; but I tell you, my lord fool, out of this nettle, danger, we pluck this flower, safety.
+	The purpose you undertake is dangerous; the friends you have named uncertain; the time itself unsorted; and your whole plot too light for the counterpoise of so great an opposition.
+	Say you so, say you so? I say unto you again, you are a shallow cowardly hind, and you lie. What a lack-brain is this! By the Lord, our plot is a good plot as ever was laid; our friends true and constant: a good plot, good friends, and full of expectation; an excellent plot, very good friends. What a frosty-spirited rogue is this! Why, my Lord of York commends the plot and the general course of the action. 'Zounds! an I were now by this rascal, I could brain him with his lady's fan. Is there not my father, my uncle, and myself? Lord Edmund Mortimer, my Lord of York, and Owen Glendower? Is there not besides the Douglas? Have I not all their letters to meet me in arms by the ninth of the next month, and are they not some of them set forward already? What a pagan rascal is this! an infidel! Ha! you shall see now in very sincerity of fear and cold heart, will he to the king and lay open all our proceedings. O! I could divide myself and go to buffets, for moving such a dish of skim milk with so honourable an action. Hang him! let him tell the king; we are prepared. I will set forward to-night.
+	How now, Kate! I must leave you within these two hours.
+<SPEECH 18><ACT 2><SCENE 4><31%>
+	Where hast been, Hal?
+<SPEECH 19><ACT 2><SCENE 4><32%>
+	Francis!
+<SPEECH 20><ACT 2><SCENE 4><32%>
+	Francis!
+<SPEECH 21><ACT 2><SCENE 4><33%>
+	</STAGE DIR> Francis!
+<SPEECH 22><ACT 2><SCENE 4><33%>
+	</STAGE DIR> Francis!
+<SPEECH 23><ACT 2><SCENE 4><33%>
+	</STAGE DIR> Francis!
+<SPEECH 24><ACT 2><SCENE 4><33%>
+	</STAGE DIR> Francis!
+<SPEECH 25><ACT 2><SCENE 4><34%>
+	</STAGE DIR> Francis!
+<SPEECH 26><ACT 2><SCENE 4><34%>
+	Anon, anon, sir.
+<SPEECH 27><ACT 2><SCENE 4><34%>
+	As merry as crickets, my lad. But hark ye; what cunning match have you made with this jest of the drawer? come, what's the issue?
+<SPEECH 28><ACT 2><SCENE 4><35%>
+	Welcome, Jack: where hast thou been?
+<SPEECH 29><ACT 2><SCENE 4><36%>
+	'Zounds! ye fat paunch, an ye call me coward, I'll stab thee.
+<SPEECH 30><ACT 2><SCENE 4><38%>
+	Ay, ay, he said four.
+<SPEECH 31><ACT 2><SCENE 4><38%>
+	Ay, four, in buckram suits.
+<SPEECH 32><ACT 2><SCENE 4><38%>
+	Down fell their hose.
+<SPEECH 33><ACT 2><SCENE 4><39%>
+	Come, your reason, Jack, your reason.
+<SPEECH 34><ACT 2><SCENE 4><39%>
+	Mark, Jack.
+<SPEECH 35><ACT 2><SCENE 4><40%>
+	Come, let's hear, Jack; what trick hast thou now?
+<SPEECH 36><ACT 2><SCENE 4><42%>
+	Owen Glendower.

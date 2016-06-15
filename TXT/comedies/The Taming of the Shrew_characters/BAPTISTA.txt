@@ -1,0 +1,237 @@
+<SPEECH 1><ACT 1><SCENE 1><13%>
+	Gentlemen, importune me no further,
+	For how I firmly am resolv'd you know;
+	That is, not to bestow my youngest daughter
+	Before I have a husband for the elder.
+	If either of you both love Katharina,
+	Because I know you well and love you well,
+	Leave shall you have to court her at your pleasure.
+<SPEECH 2><ACT 1><SCENE 1><14%>
+	Gentlemen, that I may soon make good
+	What I have said,—Bianca, get you in:
+	And let it not displease thee, good Bianca,
+	For I will love thee ne'er the less, my girl.
+<SPEECH 3><ACT 1><SCENE 1><14%>
+	Gentlemen, content ye; I am resolv'd.
+	Go in, Bianca.
+	And for I know she taketh most delight
+	In music, instruments, and poetry,
+	Schoolmasters will I keep within my house,
+	Fit to instruct her youth. If you, Hortensio,
+	Or Signior Gremio, you, know any such,
+	Prefer them hither; for to cunning men
+	I will be very kind, and liberal
+	To mine own children in good bringing up;
+	And so, farewell. Katharina, you may stay;
+	For I have more to commune with Bianca.
+<SPEECH 4><ACT 2><SCENE 1><32%>
+	Why, how now, dame! whence grows this insolence?
+	Bianca, stand aside. Poor girl! she weeps.
+	Go ply thy needle; meddle not with her.
+	For shame, thou hilding of a devilish spirit,
+	Why dost thou wrong her that did ne'er wrong thee?
+	When did she cross thee with a bitter word?
+<SPEECH 5><ACT 2><SCENE 1><32%>
+	What! in my sight? Bianca, get thee in.
+<SPEECH 6><ACT 2><SCENE 1><32%>
+	Was ever gentleman thus griev'd as I?
+	But who comes here?
+<SPEECH 7><ACT 2><SCENE 1><33%>
+	Good morrow, neighbour Gremio. God save you, gentlemen!
+<SPEECH 8><ACT 2><SCENE 1><33%>
+	I have a daughter, sir, call'd Katharina.
+<SPEECH 9><ACT 2><SCENE 1><33%>
+	You're welcome, sir; and he, for your good sake.
+	But for my daughter Katharine, this I know,
+	She is not for your turn, the more my grief.
+<SPEECH 10><ACT 2><SCENE 1><34%>
+	Mistake me not; I speak but as I find.
+	Whence are you, sir? what may I call your name?
+<SPEECH 11><ACT 2><SCENE 1><34%>
+	I know him well: you are welcome for his sake.
+<SPEECH 12><ACT 2><SCENE 1><34%>
+	A thousand thanks, Signior Gremio; welcome, good Cambio.—<STAGE DIR>
+	</STAGE DIR> But, gentle sir, methinks you walk like a stranger: may I be so bold to know the cause of your coming?
+<SPEECH 13><ACT 2><SCENE 1><35%>
+	Lucentio is your name, of whence, I pray?
+<SPEECH 14><ACT 2><SCENE 1><35%>
+	A mighty man of Pisa; by report
+	I know him well: you are very welcome, sir.
+	</STAGE DIR> and you the set of books;
+	You shall go see your pupils presently.
+	Holla, within!
+	Sirrah, lead these gentlemen
+	To my two daughters, and then tell them both
+	These are their tutors: bid them use them well.
+	We will go walk a little in the orchard,
+	And then to dinner. You are passing welcome,
+	And so I pray you all to think yourselves.
+<SPEECH 15><ACT 2><SCENE 1><36%>
+	After my death the one half of my lands,
+	And in possession twenty thousand crowns.
+<SPEECH 16><ACT 2><SCENE 1><36%>
+	Ay, when the special thing is well obtain'd,
+	That is, her love; for that is all in all.
+<SPEECH 17><ACT 2><SCENE 1><36%>
+	Well mayst thou woo, and happy be thy speed!
+	But be thou arm'd for some unhappy words.
+<SPEECH 18><ACT 2><SCENE 1><36%>
+	How now, my friend! why dost thou look so pale?
+<SPEECH 19><ACT 2><SCENE 1><37%>
+	What, will my daughter prove a good musician?
+<SPEECH 20><ACT 2><SCENE 1><37%>
+	Why, then thou canst not break her to the lute?
+<SPEECH 21><ACT 2><SCENE 1><37%>
+	</STAGE DIR> Well, go with me, and be not so discomfited:
+	Proceed in practice with my younger daughter;
+	She's apt to learn, and thankful for good turns.
+	Signior Petruchio, will you go with us,
+	Or shall I send my daughter Kate to you?
+<SPEECH 22><ACT 2><SCENE 1><42%>
+	Now, Signior Petruchio, how speed you with my daughter?
+<SPEECH 23><ACT 2><SCENE 1><42%>
+	Why, how now, daughter Katharine! in your dumps?
+<SPEECH 24><ACT 2><SCENE 1><43%>
+	I know not what to say; but give me your hands.
+	God send you joy, Petruchio! 'tis a match.
+<SPEECH 25><ACT 2><SCENE 1><43%>
+	Faith, gentlemen, now I play a merchant's part,
+	And venture madly on a desperate mart.
+<SPEECH 26><ACT 2><SCENE 1><44%>
+	The gain I seek is, quiet in the match.
+<SPEECH 27><ACT 2><SCENE 1><44%>
+	Content you, gentlemen; I'll compound this strife:
+	'Tis deeds must win the prize; and he, of both,
+	That can assure my daughter greatest dower
+	Shall have my Bianca's love.
+	Say, Signior Gremio, what can you assure her?
+<SPEECH 28><ACT 2><SCENE 1><46%>
+	I must confess your offer is the best;
+	And, let your father make her the assurance,
+	She is your own; else, you must pardon me:
+	If you should die before him, where's her dower?
+<SPEECH 29><ACT 2><SCENE 1><46%>
+	Well, gentlemen,
+	I am thus resolv'd. On Sunday next, you know,
+	My daughter Katharine is to be married:
+	Now, on the Sunday following, shall Bianca
+	Be bride to you, if you make this assurance;
+	If not, to Signior Gremio:
+	And so, I take my leave, and thank you both.
+<SPEECH 30><ACT 3><SCENE 2><50%>
+	</STAGE DIR> Signior Lucentio, this is the 'pointed day
+	That Katharine and Petruchio should be married,
+	And yet we hear not of our son-in-law.
+	What will be said? what mockery will it be
+	To want the bridegroom when the priest attends
+	To speak the ceremonial rites of marriage!
+	What says Lucentio to this shame of ours?
+<SPEECH 31><ACT 3><SCENE 2><51%>
+	Go, girl: I cannot blame thee now to weep,
+	For such an injury would vex a very saint,
+	Much more a shrew of thy impatient humour.
+<SPEECH 32><ACT 3><SCENE 2><51%>
+	Is it new and old too? how may that be?
+<SPEECH 33><ACT 3><SCENE 2><52%>
+	Is he come?
+<SPEECH 34><ACT 3><SCENE 2><52%>
+	What then?
+<SPEECH 35><ACT 3><SCENE 2><52%>
+	When will he be here?
+<SPEECH 36><ACT 3><SCENE 2><53%>
+	Who comes with him?
+<SPEECH 37><ACT 3><SCENE 2><53%>
+	I am glad he is come, howsoe'er he comes.
+<SPEECH 38><ACT 3><SCENE 2><53%>
+	Didst thou not say he comes?
+<SPEECH 39><ACT 3><SCENE 2><53%>
+	Ay, that Petruchio came.
+<SPEECH 40><ACT 3><SCENE 2><53%>
+	Why, that's all one.
+<SPEECH 41><ACT 3><SCENE 2><53%>
+	You are welcome, sir.
+<SPEECH 42><ACT 3><SCENE 2><53%>
+	And yet you halt not.
+<SPEECH 43><ACT 3><SCENE 2><54%>
+	Why, sir, you know this is your weddingday:
+	First were we sad, fearing you would not come;
+	Now sadder, that you come so unprovided.
+	Fie! doff this habit, shame to your estate,
+	An eye-sore to our solemn festival.
+<SPEECH 44><ACT 3><SCENE 2><54%>
+	But thus, I trust, you will not marry her.
+<SPEECH 45><ACT 3><SCENE 2><55%>
+	I'll after him, and see the event of this.
+<SPEECH 46><ACT 3><SCENE 2><57%>
+	Is't possible you will away to-night?
+<SPEECH 47><ACT 3><SCENE 2><59%>
+	Nay, let them go, a couple of quiet ones.
+<SPEECH 48><ACT 3><SCENE 2><59%>
+	Neighbours and friends, though bride and bridegroom wants
+	For to supply the places at the table,
+	You know there wants no junkets at the feast.
+	Lucentio, you shall supply the bridegroom's place,
+	And let Bianca take her sister's room.
+<SPEECH 49><ACT 3><SCENE 2><59%>
+	She shall, Lucentio. Come, gentlemen, let's go.
+<SPEECH 50><ACT 4><SCENE 4><81%>
+	Sir, pardon me in what I have to say:
+	Your plainness and your shortness please me well.
+	Right true it is, your son Lucentio here
+	Doth love my daughter and she loveth him,
+	Or both dissemble deeply their affections:
+	And therefore, if you say no more than this,
+	That like a father you will deal with him
+	And pass my daughter a sufficient dower,
+	The match is made, and all is done:
+	Your son shall have my daughter with consent.
+<SPEECH 51><ACT 4><SCENE 4><81%>
+	Not in my house, Lucentio; for, you know,
+	Pitchers have ears, and I have many servants.
+	Besides, old Gremio is hearkening still,
+	And happily we might be interrupted.
+<SPEECH 52><ACT 4><SCENE 4><82%>
+	It likes me well. Cambio, hie you home,
+	And bid Bianca make her ready straight;
+	And, if you will, tell what hath happened:
+	Lucentio's father is arriv'd in Padua,
+	And how she's like to be Lucentio's wife.
+<SPEECH 53><ACT 4><SCENE 4><82%>
+	I follow you.
+<SPEECH 54><ACT 5><SCENE 1><89%>
+	What, is the man lunatic?
+<SPEECH 55><ACT 5><SCENE 1><89%>
+	You mistake, sir, you mistake, sir. Pray, what do you think is his name?
+<SPEECH 56><ACT 5><SCENE 1><90%>
+	Talk not, Signior Gremio: I say he shall go to prison.
+<SPEECH 57><ACT 5><SCENE 1><90%>
+	Away with the dotard! to the gaol with him!
+<SPEECH 58><ACT 5><SCENE 1><91%>
+	How hast thou offended?
+	Where is Lucentio?
+<SPEECH 59><ACT 5><SCENE 1><91%>
+	Why, tell me, is not this my Cambio?
+<SPEECH 60><ACT 5><SCENE 1><91%>
+	</STAGE DIR> But do you hear, sir?
+	Have you married my daughter without asking my good will?
+<SPEECH 61><ACT 5><SCENE 1><92%>
+	And I, to sound the depth of this knavery.
+<SPEECH 62><ACT 5><SCENE 2><93%>
+	Padua affords this kindness, son Petruchio.
+<SPEECH 63><ACT 5><SCENE 2><94%>
+	How likes Gremio these quick-witted folks?
+<SPEECH 64><ACT 5><SCENE 2><95%>
+	O ho, Petruchio! Tranio hits you now.
+<SPEECH 65><ACT 5><SCENE 2><95%>
+	Now, in good sadness, son Petruchio,
+	I think thou hast the veriest shrew of all.
+<SPEECH 66><ACT 5><SCENE 2><95%>
+	Son, I will be your half, Bianca comes.
+<SPEECH 67><ACT 5><SCENE 2><96%>
+	Now, by my holidame, here comes Katharina!
+<SPEECH 68><ACT 5><SCENE 2><97%>
+	Now fair befall thee, good Petruchio!
+	The wager thou hast won; and I will add
+	Unto their losses twenty thousand crowns;
+	Another dowry to another daughter,
+	For she is chang'd, as she had never been.

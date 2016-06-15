@@ -1,0 +1,103 @@
+<SPEECH 1><ACT 3><SCENE 1><45%>
+	Many good morrows to your majesty!
+<SPEECH 2><ACT 3><SCENE 1><45%>
+	'Tis one o'clock, and past.
+<SPEECH 3><ACT 3><SCENE 1><45%>
+	We have, my liege.
+<SPEECH 4><ACT 3><SCENE 1><45%>
+	It is but as a body, yet, distemper'd,
+	Which to his former strength may be restor'd
+	With good advice and little medicine:
+	My Lord Northumberland will soon be cool'd.
+<SPEECH 5><ACT 3><SCENE 1><46%>
+	There is a history in all men's lives,
+	Figuring the nature of the times deceas'd;
+	The which observ'd, a man may prophesy,
+	With a near aim, of the main chance of things
+	As yet not come to life, which in their seeds
+	And weak leginnings lie intreasured.
+	Such things become the hatch and brood of time;
+	And by the necessary form of this
+	King Richard might create a perfect guess
+	That great Northumberland, then false to him,
+	Would of that seed grow to a greater falseness,
+	Which should not find a ground to root upon,
+	Unless on you.
+<SPEECH 6><ACT 3><SCENE 1><47%>
+	It cannot be, my lord!
+	Rumour doth double, like the voice and echo,
+	The numbers of the fear'd. Please it your Grace
+	To go to bed: upon my soul, my lord,
+	The powers that you already have sent forth
+	Shall bring this prize in very easily.
+	To comfort you the more, I have receiv'd
+	A certain instance that Glendower is dead.
+	Your majesty hath been this fortnight ill,
+	And these unseason'd hours perforce must add
+	Unto your sickness.
+<SPEECH 7><ACT 4><SCENE 4><72%>
+	Both which we doubt not but your majesty
+	Shall soon enjoy.
+<SPEECH 8><ACT 4><SCENE 4><74%>
+	My gracious lord, you look beyond him quite:
+	The prince but studies his companions
+	Like a strange tongue, wherein, to gain the language,
+	'Tis needful that the most immodest word
+	Be look'd upon, and learn'd; which once attain'd,
+	Your highness knows, comes to no further use
+	But to be known and hated. So, like gross terms,
+	The prince will in the perfectness of time
+	Cast off his followers; and their memory
+	Shall as a pattern or a measure live,
+	By which his Grace must mete the lives of others,
+	Turning past evils to advantages.
+<SPEECH 9><ACT 4><SCENE 4><75%>
+	Be patient, princes: you do know these fits
+	Are with his highness very ordinary:
+	Stand from him, give him air; he'll straight be well.
+<SPEECH 10><ACT 4><SCENE 4><76%>
+	Speak lower, princes, for the king recovers.
+<SPEECH 11><ACT 4><SCENE 5><76%>
+	Call for the music in the other room.
+<SPEECH 12><ACT 4><SCENE 5><76%>
+	Less noise, less noise!
+<SPEECH 13><ACT 4><SCENE 5><76%>
+	Not so much noise, my lords. Sweet prince, speak low;
+	The king your father is dispos'd to sleep.
+<SPEECH 14><ACT 4><SCENE 5><77%>
+	Will't please your Grace to go along with us?
+<SPEECH 15><ACT 4><SCENE 5><78%>
+	What would your majesty? How fares your Grace?
+<SPEECH 16><ACT 4><SCENE 5><78%>
+	This door is open; he is gone this way.
+<SPEECH 17><ACT 4><SCENE 5><78%>
+	When we withdrew, my liege, we left it here.
+<SPEECH 18><ACT 4><SCENE 5><79%>
+	My lord, I found the prince in the next room,
+	Washing with kindly tears his gentle cheeks,
+	With such a deep demeanour in great sorrow
+	That tyranny, which never quaff'd but blood,
+	Would, by beholding him, have wash'd his knife
+	With gentle eye-drops. He is coming hither.
+<SPEECH 19><ACT 4><SCENE 5><83%>
+	'Tis call'd Jerusalem, my noble lord.
+<SPEECH 20><ACT 5><SCENE 2><86%>
+	How now, my Lord Chief Justice! whither away?
+<SPEECH 21><ACT 5><SCENE 2><86%>
+	Exceeding well: his cares are now all ended.
+<SPEECH 22><ACT 5><SCENE 2><86%>
+	He's walk'd the way of nature;
+	And to our purposes he lives no more.
+<SPEECH 23><ACT 5><SCENE 2><86%>
+	Indeed I think the young king loves you not.
+<SPEECH 24><ACT 5><SCENE 2><87%>
+	Here come the heavy issue of dead Harry:
+	O! that the living Harry had the temper
+	Of him, the worst of these three gentlemen.
+	How many nobles then should hold their places,
+	That must strike sail to spirits of vile sort!
+<SPEECH 25><ACT 5><SCENE 2><87%>
+	We do remember; but our argument
+	Is all too heavy to admit much talk.
+<SPEECH 26><ACT 5><SCENE 2><87%>
+	Here comes the prince.

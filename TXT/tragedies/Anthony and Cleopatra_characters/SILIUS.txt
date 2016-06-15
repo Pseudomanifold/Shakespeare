@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 3><SCENE 1><41%>
+	Noble Ventidius,
+	Whilst yet with Parthian blood thy sword is warm,
+	The fugitive Parthians follow; spur through Media,
+	Mesopotamia, and the shelters whither
+	The routed fly; so thy grand captain Antony
+	Shall set thee on triumphant chariots and
+	Put garlands on thy head.
+<SPEECH 2><ACT 3><SCENE 1><41%>
+	Thou hast, Ventidius, that
+	Without the which a soldier, and his sword,
+	Grants scarce distinction. Thou wilt write to Antony?
+<SPEECH 3><ACT 3><SCENE 1><41%>
+	Where is he now?

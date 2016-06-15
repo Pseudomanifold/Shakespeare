@@ -1,0 +1,120 @@
+<SPEECH 1><ACT 1><SCENE 2><5%>
+	Fulvia thy wife first came into the field.
+<SPEECH 2><ACT 1><SCENE 2><5%>
+	Ay:
+	But soon that war had end, and the time's state
+	Made friends of them, jointing their force 'gainst Cæsar,
+	Whose better issue in the war, from Italy
+	Upon the first encounter drave them.
+<SPEECH 3><ACT 1><SCENE 2><5%>
+	The nature of bad news infects the teller.
+<SPEECH 4><ACT 1><SCENE 2><5%>
+	Labienus—
+	This is stiff news—hath, with his Parthian force
+	Extended Asia; from Euphrates
+	His conquering banner shook from Syria
+	To Lydia and to Ionia: whilst—
+<SPEECH 5><ACT 1><SCENE 2><5%>
+	O! my lord.
+<SPEECH 6><ACT 1><SCENE 2><6%>
+	At your noble pleasure.
+<SPEECH 7><ACT 1><SCENE 4><13%>
+	Thy biddings have been done, and every hour,
+	Most noble Cæsar, shalt thou have report
+	How 'tis abroad. Pompey is strong at sea,
+	And it appears he is belov'd of those
+	That only have fear'd Cæsar; to the ports
+	The discontents repair, and men's reports
+	Give him much wrong'd.
+<SPEECH 8><ACT 1><SCENE 4><13%>
+	Cæsar, I bring thee word,
+	Menecrates and Menas, famous pirates,
+	Make the sea serve them, which they ear and wound
+	With keels of every kind: many hot inroads
+	They make in Italy; the borders maritime
+	Lack blood to think on't, and flush youth revolt;
+	No vessel can peep forth, but 'tis as soon
+	Taken as seen; for Pompey's name strikes more
+	Than could his war resisted.
+<SPEECH 9><ACT 2><SCENE 5><28%>
+	Madam, madam,—
+<SPEECH 10><ACT 2><SCENE 5><28%>
+	First, madam, he is well.
+<SPEECH 11><ACT 2><SCENE 5><29%>
+	Good madam, hear me.
+<SPEECH 12><ACT 2><SCENE 5><29%>
+	Will't please you hear me?
+<SPEECH 13><ACT 2><SCENE 5><29%>
+	Madam, he's well.
+<SPEECH 14><ACT 2><SCENE 5><29%>
+	And friends with Cæsar.
+<SPEECH 15><ACT 2><SCENE 5><29%>
+	Cæsar and he are greater friends than ever.
+<SPEECH 16><ACT 2><SCENE 5><29%>
+	But yet, madam,—
+<SPEECH 17><ACT 2><SCENE 5><29%>
+	Free, madam! no; I made no such report:
+	He's bound unto Octavia.
+<SPEECH 18><ACT 2><SCENE 5><29%>
+	For the best turn i' the bed.
+<SPEECH 19><ACT 2><SCENE 5><29%>
+	Madam, he's married to Octavia.
+<SPEECH 20><ACT 2><SCENE 5><30%>
+	Good madam, patience.
+<SPEECH 21><ACT 2><SCENE 5><30%>
+	Gracious madam,
+	I, that do bring the news made not the match.
+<SPEECH 22><ACT 2><SCENE 5><30%>
+	He's married, madam.
+<SPEECH 23><ACT 2><SCENE 5><30%>
+	Nay, then I'll run.
+	What mean you, madam? I have made no fault.
+<SPEECH 24><ACT 2><SCENE 5><31%>
+	I have done my duty.
+<SPEECH 25><ACT 2><SCENE 5><31%>
+	He's married, madam.
+<SPEECH 26><ACT 2><SCENE 5><31%>
+	Should I lie, madam?
+<SPEECH 27><ACT 2><SCENE 5><31%>
+	I crave your highness' pardon.
+<SPEECH 28><ACT 2><SCENE 5><31%>
+	Take no offence that I would not offend you;
+	To punish me for what you make me do
+	Seems much unequal; he's married to Octavia.
+<SPEECH 29><ACT 3><SCENE 3><44%>
+	Most gracious majesty!
+<SPEECH 30><ACT 3><SCENE 3><44%>
+	Ay, dread queen.
+<SPEECH 31><ACT 3><SCENE 3><44%>
+	Madam, in Rome;
+	I look'd her in the face, and saw her led
+	Between her brother and Mark Antony.
+<SPEECH 32><ACT 3><SCENE 3><44%>
+	She is not, madam.
+<SPEECH 33><ACT 3><SCENE 3><44%>
+	Madam, I heard her speak; she is low-voic'd.
+<SPEECH 34><ACT 3><SCENE 3><45%>
+	She creeps;
+	Her motion and her station are as one;
+	She shows a body rather than a life,
+	A statue than a breather.
+<SPEECH 35><ACT 3><SCENE 3><45%>
+	Or I have no observance.
+<SPEECH 36><ACT 3><SCENE 3><45%>
+	Madam,
+	She was a widow,—
+<SPEECH 37><ACT 3><SCENE 3><45%>
+	And I do think she's thirty.
+<SPEECH 38><ACT 3><SCENE 3><45%>
+	Round even to faultiness.
+<SPEECH 39><ACT 3><SCENE 3><45%>
+	Brown, madam; and her forehead
+	As low as she would wish it.
+<SPEECH 40><ACT 3><SCENE 7><52%>
+	The news is true, my lord; he is descried;
+	Cæsar has taken Toryne.
+<SPEECH 41><ACT 3><SCENE 7><53%>
+	The emperor calls Canidius.
+<SPEECH 42><ACT 4><SCENE 6><71%>
+	Antony
+	Is come into the field.

@@ -1,0 +1,31 @@
+<SPEECH 1><ACT 1><SCENE 1><6%>
+	Here, at your lordship's service.
+<SPEECH 2><ACT 1><SCENE 1><6%>
+	Ay, my good lord, and she accepts of it.
+<SPEECH 3><ACT 1><SCENE 1><7%>
+	Humbly I thank your lordship: never may
+	That state or fortune fall into my keeping
+	Which is not ow'd to you!
+<SPEECH 4><ACT 3><SCENE 2><38%>
+	Who, the Lord Timon? he is my very good friend, and an honourable gentleman.
+<SPEECH 5><ACT 3><SCENE 2><38%>
+	Fie, no, do not believe it; he cannot want for money.
+<SPEECH 6><ACT 3><SCENE 2><39%>
+	How!
+<SPEECH 7><ACT 3><SCENE 2><39%>
+	What a strange case was that! now, before the gods, I am ashamed on 't. Denied that honourable man! there was very little honour showed in 't. For my own part, I must needs confess, I have received some small kindnesses from him, as money, plate, jewels, and such like trifles, nothing comparing to his; yet, had he mistook him, and sent to me, I should ne'er have denied his occasion so many talents.
+<SPEECH 8><ACT 3><SCENE 2><39%>
+	Servilius! you are kindly met, sir. Fare thee well: commend me to thy honourable virtuous lord, my very exquisite friend.
+<SPEECH 9><ACT 3><SCENE 2><39%>
+	Ha! what has he sent? I am so much endeared to that lord; he's ever sending: how shall I thank him, thinkest thou? And what has he sent now?
+<SPEECH 10><ACT 3><SCENE 2><40%>
+	I know his lordship is but merry with me;
+	He cannot want fifty-five hundred talents.
+<SPEECH 11><ACT 3><SCENE 2><40%>
+	Dost thou speak seriously, Servilius?
+<SPEECH 12><ACT 3><SCENE 2><40%>
+	What a wicked beast was I to disfurnish myself against such a good time, when I might ha' shown myself honourable! how unluckily it happened, that I should purchase the day before for a little part, and undo a great deal of honour! Servilius, now, before the gods, I am not able to do; the more beast, I say; I was sending to use Lord Timon myself, these gentlemen can witness; but I would not, for the wealth of Athens, I had done it now. Commend me bountifully to his good lordship; and I hope his honour will conceive the fairest of me, because I have no power to be kind: and tell him this from me, I count it one of my greatest afflictions say, that I cannot pleasure such an honourable gentleman. Good Servilius, will you befriend me so far as to use mine own words to him?
+<SPEECH 13><ACT 3><SCENE 2><41%>
+	I'll look you out a good turn, Servilius.
+	True, as you said, Timon is shrunk indeed;
+	And he that's once denied will hardly speed.

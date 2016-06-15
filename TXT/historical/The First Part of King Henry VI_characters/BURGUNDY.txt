@@ -1,0 +1,61 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+	Traitors have never other company.
+	But what's that Pucelle whom they term so pure?
+<SPEECH 2><ACT 2><SCENE 1><24%>
+	Pray God she prove not masculine ere long;
+	If underneath the standard of the French
+	She carry armour, as she hath begun.
+<SPEECH 3><ACT 2><SCENE 1><24%>
+	And I to this.
+<SPEECH 4><ACT 2><SCENE 2><27%>
+	Myself—as far as I could well discern
+	For smoke and dusky vapours of the night—
+	Am sure I scar'd the Dauphin and his trull,
+	When arm in arm they both came swiftly running,
+	Like to a pair of loving turtle-doves
+	That could not live asunder day or night.
+	After that things are set in order here,
+	We'll follow them with all the power we have.
+<SPEECH 5><ACT 2><SCENE 2><28%>
+	Is it even so? Nay, then, I see our wars
+	Will turn into a peaceful comic sport,
+	When ladies crave to be encounter'd with.
+	You may not, my lord, despise her gentle suit.
+<SPEECH 6><ACT 3><SCENE 2><50%>
+	Scoff on, vile fiend and shameless courtezan!
+	I trust ere long to choke thee with thine own,
+	And make thee curse the harvest of that corn.
+<SPEECH 7><ACT 3><SCENE 2><52%>
+	My vows are equal partners with thy vows.
+<SPEECH 8><ACT 3><SCENE 2><52%>
+	Courageous Bedford, let us now persuade you.
+<SPEECH 9><ACT 3><SCENE 2><53%>
+	Warlike and martial Talbot, Burgundy
+	Enshrines thee in his heart, and there erects
+	Thy noble deeds as valour's monument.
+<SPEECH 10><ACT 3><SCENE 2><54%>
+	What wills Lord Talbot pleaseth Burgundy.
+<SPEECH 11><ACT 3><SCENE 3><55%>
+	Who craves a parley with the Burgundy?
+<SPEECH 12><ACT 3><SCENE 3><55%>
+	What sayst thou, Charles? for I am marching hence.
+<SPEECH 13><ACT 3><SCENE 3><56%>
+	Speak on; but be not over-tedious.
+<SPEECH 14><ACT 3><SCENE 3><56%>
+	Either she hath bewitch'd me with her words,
+	Or nature makes me suddenly relent.
+<SPEECH 15><ACT 3><SCENE 3><57%>
+	I am vanquished; these haughty words of hers
+	Have batter'd me like roaring cannon-shot,
+	And made me almost yield upon my knees.
+	Forgive me, country, and sweet countrymen!
+	And, lords, accept this hearty kind embrace:
+	My forces and my power of men are yours.
+	So, farewell, Talbot; I'll no longer trust thee.
+<SPEECH 16><ACT 4><SCENE 7><78%>
+	Doubtless he would have made a noble knight;
+	See, where he lies inhearsed in the arms
+	Of the most bloody nurser of his harms.
+<SPEECH 17><ACT 5><SCENE 2><82%>
+	I trust the ghost of Talbot is not there:
+	Now he is gone, my lord, you need not fear.

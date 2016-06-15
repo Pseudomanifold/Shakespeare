@@ -1,0 +1,52 @@
+<SPEECH 1><ACT 1><SCENE 4><23%>
+	Old John of Gaunt is grievous sick, my lord,
+	Suddenly taken, and hath sent post-haste
+	To entreat your majesty to visit him.
+<SPEECH 2><ACT 1><SCENE 4><23%>
+	At Ely House.
+<SPEECH 3><ACT 2><SCENE 2><34%>
+	Madam, your majesty is too much sad:
+	You promis'd, when you parted with the king,
+	To lay aside life-harming heaviness,
+	And entertain a cheerful disposition.
+<SPEECH 4><ACT 2><SCENE 2><35%>
+	Each substance of a grief hath twenty shadows,
+	Which show like grief itself, but are not so.
+	For sorrow's eye, glazed with blinding tears,
+	Divides one thing entire to many objects;
+	Like perspectives, which rightly gaz'd upon
+	Show nothing but confusion; ey'd awry
+	Distinguish form: so your sweet majesty,
+	Looking awry upon your lord's departure,
+	Finds shapes of grief more than himself to wail;
+	Which, look'd on as it is, is nought but shadows
+	Of what it is not. Then, thrice-gracious queen,
+	More than your lord's departure weep not: more's not seen;
+	Or if it be, 'tis with false sorrow's eye,
+	Which for things true weeps things imaginary.
+<SPEECH 5><ACT 2><SCENE 2><35%>
+	'Tis nothing but conceit, my gracious lady.
+<SPEECH 6><ACT 2><SCENE 2><36%>
+	Why have you not proclaim'd Northumberland
+	And all the rest of the revolted faction traitors?
+<SPEECH 7><ACT 2><SCENE 2><36%>
+	Despair not, madam.
+<SPEECH 8><ACT 2><SCENE 2><38%>
+	The wind sits fair for news to go to Ireland,
+	But none returns. For us to levy power
+	Proportionable to the enemy
+	Is all unpossible.
+<SPEECH 9><ACT 2><SCENE 2><39%>
+	Wherein the king stands generally condemn'd.
+<SPEECH 10><ACT 2><SCENE 2><39%>
+	Thither will I with you; for little office
+	Will the hateful commons perform for us,
+	Except like curs to tear us all to pieces.
+	Will you go along with us?
+<SPEECH 11><ACT 2><SCENE 2><39%>
+	That's as York thrives to beat back Bolingbroke.
+<SPEECH 12><ACT 2><SCENE 2><39%>
+	Well, we may meet again.
+<SPEECH 13><ACT 3><SCENE 1><47%>
+	More welcome is the stroke of death to me
+	Than Bolingbroke to England. Lords, farewell.

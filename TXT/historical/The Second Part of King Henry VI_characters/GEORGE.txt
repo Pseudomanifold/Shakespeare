@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 4><SCENE 2><68%>
+	Come, and get thee a sword, though made of a lath: they have been up these two days.
+<SPEECH 2><ACT 4><SCENE 2><68%>
+	I tell thee, Jack Cade the clothier means to dress the commonwealth, and turn it, and set a new nap upon it.
+<SPEECH 3><ACT 4><SCENE 2><68%>
+	O miserable age! Virtue is not regarded in handicrafts-men.
+<SPEECH 4><ACT 4><SCENE 2><69%>
+	Nay, more; the king's council are no good workmen.
+<SPEECH 5><ACT 4><SCENE 2><69%>
+	Thou hast hit it; for there's no better sign of a brave mind than a hard hand.
+<SPEECH 6><ACT 4><SCENE 2><69%>
+	He shall have the skins of our enemies to make dog's-leather of.
+<SPEECH 7><ACT 4><SCENE 2><69%>
+	Then is sin struck down like an ox, and iniquity's throat cut like a calf.
+<SPEECH 8><ACT 4><SCENE 2><69%>
+	Argo, their thread of life is spun.
+<SPEECH 9><ACT 4><SCENE 7><80%>
+	O monstrous coward! what, to come behind folks!

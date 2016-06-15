@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 4><SCENE 3><65%>
+	Thy lips rot off!
+<SPEECH 2><ACT 4><SCENE 3><68%>
+	Give us some gold, good Timon: hast thou more?
+<SPEECH 3><ACT 4><SCENE 3><69%>
+	Well, more gold. What then?
+<SPEECH 4><ACT 4><SCENE 3><70%>
+	More counsel with more money, bounteous Timon.

@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 1><SCENE 3><8%>
+	The queen, madam,
+	Desires your highness' company.
+<SPEECH 2><ACT 2><SCENE 2><24%>
+	Please you, madam.
+<SPEECH 3><ACT 2><SCENE 2><24%>
+	Almost midnight, madam.
+<SPEECH 4><ACT 2><SCENE 3><28%>
+	Who's there, that knocks?
+<SPEECH 5><ACT 2><SCENE 3><28%>
+	No more?
+<SPEECH 6><ACT 2><SCENE 3><28%>
+	</STAGE DIR> That's more
+	Than some whose tailors are as dear as yours
+	Can justly boast of. What's your lordship's pleasure?
+<SPEECH 7><ACT 2><SCENE 3><28%>
+	Ay,
+	To keep her chamber.
+<SPEECH 8><ACT 2><SCENE 3><28%>
+	How! my good name? or to report of you
+	What I shall think is good?—The princess!

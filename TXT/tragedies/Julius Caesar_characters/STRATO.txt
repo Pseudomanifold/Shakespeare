@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 5><SCENE 5><99%>
+	Give me your hand first: fare you well, my lord.
+<SPEECH 2><ACT 5><SCENE 5><99%>
+	Free from the bondage you are in, Messala;
+	The conquerors can but make a fire of him;
+	For Brutus only overcame himself,
+	And no man else hath honour by his death.
+<SPEECH 3><ACT 5><SCENE 5><99%>
+	Ay, if Messala will prefer me to you.
+<SPEECH 4><ACT 5><SCENE 5><99%>
+	I held the sword, and he did run on it.

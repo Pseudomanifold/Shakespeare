@@ -1,0 +1,22 @@
+<SPEECH 1><ACT 4><SCENE 1><68%>
+	Two.
+<SPEECH 2><ACT 4><SCENE 1><68%>
+	Pulcher.
+<SPEECH 3><ACT 4><SCENE 1><68%>
+	A stone.
+<SPEECH 4><ACT 4><SCENE 1><68%>
+	A pebble.
+<SPEECH 5><ACT 4><SCENE 1><68%>
+	Lapis.
+<SPEECH 6><ACT 4><SCENE 1><68%>
+	Articles are borrowed of the pronoun, and be thus declined, Singulariter, nominativo, hic, hæc, hoc.
+<SPEECH 7><ACT 4><SCENE 1><69%>
+	Accusativo, hinc.
+<SPEECH 8><ACT 4><SCENE 1><69%>
+	O vocativo, O.
+<SPEECH 9><ACT 4><SCENE 1><69%>
+	Genitive case?
+<SPEECH 10><ACT 4><SCENE 1><69%>
+	Genitive, horum, harum, horum.
+<SPEECH 11><ACT 4><SCENE 1><69%>
+	Forsooth, I have forgot.

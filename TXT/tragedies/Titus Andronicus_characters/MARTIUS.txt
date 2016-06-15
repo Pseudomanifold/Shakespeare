@@ -1,0 +1,42 @@
+<SPEECH 1><ACT 1><SCENE 1><15%>
+	And shall, or him we will accompany.
+<SPEECH 2><ACT 1><SCENE 1><15%>
+	He is not with himself; let us withdraw.
+<SPEECH 3><ACT 2><SCENE 3><34%>
+	And mine, I promise you: were't not for shame,
+	Well could I leave our sport to sleep awhile.
+<SPEECH 4><ACT 2><SCENE 3><34%>
+	O brother! with the dismall'st object hurt
+	That ever eye with sight made heart lament.
+<SPEECH 5><ACT 2><SCENE 3><35%>
+	Why dost not comfort me, and help me out
+	From this unhallow'd and blood-stained hole?
+<SPEECH 6><ACT 2><SCENE 3><35%>
+	To prove thou hast a true-divining heart,
+	Aaron and thou look down into this den,
+	And see a fearful sight of blood and death.
+<SPEECH 7><ACT 2><SCENE 3><35%>
+	Lord Bassianus lies embrewed here,
+	All on a heap, like to a slaughter'd lamb,
+	In this detested, dark, blood-drinking pit.
+<SPEECH 8><ACT 2><SCENE 3><35%>
+	Upon his bloody finger he doth wear
+	A precious ring, that lightens all the hole,
+	Which, like a taper in some monument,
+	Doth shine upon the dead man's earthy cheeks,
+	And shows the ragged entrails of the pit:
+	So pale did shine the moon on Pyramus
+	When he by night lay bath'd in maiden blood.
+	O brother! help me with thy fainting hand,
+	If fear hath made thee faint, as me it hath,
+	Out of this fell devouring receptacle,
+	As hateful as Cocytus' misty mouth.
+<SPEECH 9><ACT 2><SCENE 3><36%>
+	Nor I no strength to climb without thy help.
+<SPEECH 10><ACT 2><SCENE 3><36%>
+	The unhappy son of old Andronicus;
+	Brought hither in a most unlucky hour,
+	To find thy brother Bassianus dead.
+<SPEECH 11><ACT 2><SCENE 3><36%>
+	We know not where you left him all alive;
+	But, out alas! here have we found him dead.

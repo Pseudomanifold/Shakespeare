@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 1><SCENE 2><8%>
+	He said, sir, the water itself was a good healthy water; but, for the party that owed it, he might have more diseases than he knew for.
+<SPEECH 2><ACT 1><SCENE 2><9%>
+	He said, sir, you should procure him better assurance than Bardolph; he would not take his bond and yours: he liked not the security.
+<SPEECH 3><ACT 1><SCENE 2><10%>
+	He's gone into Smithfield to buy your worship a horse.
+<SPEECH 4><ACT 1><SCENE 2><10%>
+	Sir, here comes the nobleman that committed the prince for striking him about Bardolph.
+<SPEECH 5><ACT 1><SCENE 2><10%>
+	You must speak louder, my master is deaf.
+<SPEECH 6><ACT 1><SCENE 2><15%>
+	Sir!
+<SPEECH 7><ACT 1><SCENE 2><15%>
+	Seven groats and twopence.
+<SPEECH 8><ACT 2><SCENE 2><27%>
+	A' calls me even now, my lord, through a red lattice, and I could discern no part of his face from the window: at last, I spied his eyes, and methought he had made two holes in the ale-wife's new petticoat, and peeped through.
+<SPEECH 9><ACT 2><SCENE 2><27%>
+	Away, you rascally Althea's dream, away!
+<SPEECH 10><ACT 2><SCENE 2><27%>
+	Marry, my lord, Althea dreamed she was delivered of a firebrand; and therefore I call him her dream.
+<SPEECH 11><ACT 2><SCENE 2><29%>
+	Ephesians, my lord, of the old church.
+<SPEECH 12><ACT 2><SCENE 2><29%>
+	None, my lord, but old Mistress Quickly and Mistress Doll Tearsheet.
+<SPEECH 13><ACT 2><SCENE 2><29%>
+	A proper gentlewoman, sir, and a kinswoman of my master's.
+<SPEECH 14><ACT 2><SCENE 2><30%>
+	And for mine, sir, I will govern it.
+<SPEECH 15><ACT 2><SCENE 4><37%>
+	Pray thee, go down.
+<SPEECH 16><ACT 2><SCENE 4><39%>
+	The music is come, sir.

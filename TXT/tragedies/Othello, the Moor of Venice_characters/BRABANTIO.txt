@@ -1,0 +1,169 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	What is the reason of this terrible summons?
+	What is the matter there?
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	Why? wherefore ask you this?
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	What! have you lost your wits?
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	Not I, what are you?
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	The worser welcome:
+	I have charg'd thee not to haunt about my doors:
+	In honest plainness thou hast heard me say
+	My daughter is not for thee; and now, in madness,
+	Being full of supper and distempering draughts,
+	Upon malicious knavery dost thou come
+	To start my quiet.
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	But thou must needs be sure
+	My spirit and my place have in them power
+	To make this bitter to thee.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	What tell'st thou me of robbing? this is Venice;
+	My house is not a grange.
+<SPEECH 8><ACT 1><SCENE 1><4%>
+	What profane wretch art thou?
+<SPEECH 9><ACT 1><SCENE 1><4%>
+	Thou art a villain.
+<SPEECH 10><ACT 1><SCENE 1><4%>
+	This thou shalt answer; I know thee, Roderigo.
+<SPEECH 11><ACT 1><SCENE 1><4%>
+	Strike on the tinder, ho!
+	Give me a taper! call up all my people!
+	This accident is not unlike my dream;
+	Belief of it oppresses me already.
+	Light, I say! light!
+<SPEECH 12><ACT 1><SCENE 1><5%>
+	It is too true an evil: gone she is,
+	And what's to come of my despised time
+	Is nought but bitterness. Now, Roderigo,
+	Where didst thou see her? O, unhappy girl!
+	With the Moor, sayst thou? Who would be a father!
+	How didst thou know 'twas she? O, she deceives me
+	Past thought. What said she to you? Get more tapers!
+	Raise all my kindred! Are they married, think you?
+<SPEECH 13><ACT 1><SCENE 1><5%>
+	O heaven! How got she out? O, treason of the blood:
+	Fathers, from hence trust not your daughters' minds
+	By what you see them act. Are there not charms
+	By which the property of youth and maidhood
+	May be abus'd? Have you not read, Roderigo,
+	Of some such thing?
+<SPEECH 14><ACT 1><SCENE 1><5%>
+	Call up my brother. O! that you had had her.
+	Some one way, some another! Do you know
+	Where we may apprehend her and the Moor?
+<SPEECH 15><ACT 1><SCENE 1><6%>
+	Pray you, lead on. At every house I'll call;
+	I may command at most. Get weapons, ho!
+	And raise some special officers of night.
+	On, good Roderigo; I'll deserve your pains.
+<SPEECH 16><ACT 1><SCENE 2><8%>
+	Down with him, thief!
+<SPEECH 17><ACT 1><SCENE 2><8%>
+	O thou foul thief! where hast thou stow'd my daughter?
+	Damn'd as thou art, thou hast enchanted her;
+	For I'll refer me to all things of sense,
+	If she in chains of magic were not bound,
+	Whether a maid so tender, fair, and happy,
+	So opposite to marriage that she shunn'd
+	The wealthy curled darlings of our nation,
+	Would ever have, to incur a general mock,
+	Run from her guardage to the sooty bosom
+	Of such a thing as thou; to fear, not to delight.
+	Judge me the world, if 'tis not gross in sense
+	That thou hast practis'd on her with foul charms,
+	Abus'd her delicate youth with drugs or minerals
+	That weaken motion: I'll have 't disputed on;
+	'Tis probable, and palpable to thinking.
+	I therefore apprehend and do attach thee
+	For an abuser of the world, a practiser
+	Of arts inhibited and out of warrant.
+	Lay hold upon him: if he do resist,
+	Subdue him at his peril.
+<SPEECH 18><ACT 1><SCENE 2><9%>
+	To prison; till fit time
+	Of law and course of direct session
+	Call thee to answer.
+<SPEECH 19><ACT 1><SCENE 2><9%>
+	How! the duke in council!
+	In this time of the night! Bring him away.
+	Mine's not an idle cause: the duke himself,
+	Or any of my brothers of the state,
+	Cannot but feel this wrong as 'twere their own;
+	For if such actions may have passage free,
+	Bond-slaves and pagans shall our statesmen be.
+<SPEECH 20><ACT 1><SCENE 3><11%>
+	So did I yours. Good your grace, pardon me;
+	Neither my place nor aught I heard of business
+	Hath rais'd me from my bed, nor doth the general care
+	Take hold of me, for my particular grief
+	Is of so flood-gate and o'erbearing nature
+	That it engluts and swallows other sorrows
+	And it is still itself.
+<SPEECH 21><ACT 1><SCENE 3><11%>
+	My daughter! O! my daughter.
+<SPEECH 22><ACT 1><SCENE 3><11%>
+	Ay, to me;
+	She is abus'd, stol'n from me, and corrupted
+	By spells and medicines bought of mounte-banks;
+	For nature so preposterously to err,
+	Being not deficient, blind, or lame of sense,
+	Sans witchcraft could not.
+<SPEECH 23><ACT 1><SCENE 3><11%>
+	Humbly I thank your Grace.
+	Here is the man, this Moor; whom now, it seems,
+	Your special mandate for the state affairs,
+	Hath hither brought.
+<SPEECH 24><ACT 1><SCENE 3><11%>
+	Nothing, but this is so.
+<SPEECH 25><ACT 1><SCENE 3><12%>
+	A maiden never bold;
+	Of spirit so still and quiet, that her motion
+	Blush'd at herself; and she, in spite of nature,
+	Of years, of country, credit, every thing,
+	To fall in love with what she fear'd to look on!
+	It is a judgment maim'd and most imperfect
+	That will confess perfection so could err
+	Against all rules of nature, and must be driven
+	To find out practices of cunning hell,
+	Why this should be. I therefore vouch again
+	That with some mixtures powerful o'er the blood,
+	Or with some dram conjur'd to this effect,
+	He wrought upon her.
+<SPEECH 26><ACT 1><SCENE 3><14%>
+	I pray you, hear her speak:
+	If she confess that she was half the wooer,
+	Destruction on my head, if my bad blame
+	Light on the man! Come hither, gentle mistress:
+	Do you perceive in all this noble company
+	Where most you owe obedience?
+<SPEECH 27><ACT 1><SCENE 3><15%>
+	God be with you! I have done.
+	Please it your Grace, on to the state affairs:
+	I had rather to adopt a child than get it.
+	Come hither, Moor:
+	I here do give thee that with all my heart
+	Which, but thou hast already, with all my heart
+	I would keep from thee. For your sake, jewel,
+	I am glad at soul I have no other child;
+	For thy escape would teach me tyranny,
+	To hang clogs on them. I have done, my lord.
+<SPEECH 28><ACT 1><SCENE 3><15%>
+	So let the Turk of Cyprus us beguile;
+	We lose it not so long as we can smile.
+	He bears the sentence well that nothing bears
+	But the free comfort which from thence he hears;
+	But he bears both the sentence and the sorrow
+	That, to pay grief, must of poor patience borrow.
+	These sentences, to sugar, or to gall,
+	Being strong on both sides, are equivocal:
+	But words are words; I never yet did hear
+	That the bruis'd heart was pierced through the ear.
+	I humbly beseech you, proceed to the affairs of state.
+<SPEECH 29><ACT 1><SCENE 3><16%>
+	I'll not have it so.
+<SPEECH 30><ACT 1><SCENE 3><18%>
+	Look to her, Moor, if thou hast eyes to see:
+	She has deceiv'd her father, and may thee.

@@ -1,0 +1,109 @@
+<SPEECH 1><ACT 1><SCENE 5><17%>
+	Mark me.
+<SPEECH 2><ACT 1><SCENE 5><17%>
+	My hour is almost come,
+	When I to sulphurous and tormenting flames
+	Must render up myself.
+<SPEECH 3><ACT 1><SCENE 5><18%>
+	Pity me not, but lend thy serious hearing
+	To what I shall unfold.
+<SPEECH 4><ACT 1><SCENE 5><18%>
+	So art thou to revenge, when thou shalt hear.
+<SPEECH 5><ACT 1><SCENE 5><18%>
+	I am thy father's spirit;
+	Doom'd for a certain term to walk the night,
+	And for the day confin'd to fast in fires,
+	Till the foul crimes done in my days of nature
+	Are burnt and purg'd away. But that I am forbid
+	To tell the secrets of my prison-house,
+	I could a tale unfold whose lightest word
+	Would harrow up thy soul, freeze thy young blood,
+	Make thy two eyes, like stars, start from their spheres,
+	Thy knotted and combined locks to part,
+	And each particular hair to stand an end,
+	Like quills upon the fretful porpentine:
+	But this eternal blazon must not be
+	To ears of flesh and blood. List, list, O list!
+	If thou didst ever thy dear father love—
+<SPEECH 6><ACT 1><SCENE 5><18%>
+	Revenge his foul and most unnatural murder.
+<SPEECH 7><ACT 1><SCENE 5><18%>
+	Murder most foul, as in the best it is;
+	But this most foul, strange, and unnatural.
+<SPEECH 8><ACT 1><SCENE 5><18%>
+	I find thee apt;
+	And duller shouldst thou be than the fat weed
+	That rots itself in ease on Lethe wharf,
+	Wouldst thou not stir in this. Now, Hamlet, hear:
+	'Tis given out that, sleeping in mine orchard,
+	A serpent stung me; so the whole ear of Denmark
+	Is by a forged process of my death
+	Rankly abus'd; but know, thou noble youth,
+	The serpent that did sting thy father's life
+	Now wears his crown.
+<SPEECH 9><ACT 1><SCENE 5><18%>
+	Ay, that incestuous, that adulterate beast,
+	With witchcraft of his wit, with traitorous gifts,—
+	O wicked wit and gifts, that have the power
+	So to seduce!—won to his shameful lust
+	The will of my most seeming-virtuous queen.
+	O Hamlet! what a falling-off was there;
+	From me, whose love was of that dignity
+	That it went hand in hand even with the vow
+	I made to her in marriage; and to decline
+	Upon a wretch whose natural gifts were poor
+	To those of mine!
+	But virtue, as it never will be mov'd,
+	Though lewdness court it in a shape of heaven,
+	So lust, though to a radiant angel link'd,
+	Will sate itself in a celestial bed,
+	And prey on garbage.
+	But, soft! methinks I scent the morning air;
+	Brief let me be. Sleeping within mine orchard,
+	My custom always in the afternoon,
+	Upon my secure hour thy uncle stole,
+	With juice of cursed hebona in a vial,
+	And in the porches of mine ears did pour
+	The leperous distilment; whose effect
+	Holds such an enmity with blood of man
+	That swift as quicksilver it courses through
+	The natural gates and alleys of the body,
+	And with a sudden vigour it doth posset
+	And curd, like eager droppings into milk,
+	The thin and wholesome blood: so did it mine;
+	And a most instant tetter bark'd about,
+	Most lazar-like, with vile and loathsome crust,
+	All my smooth body.
+	Thus was I, sleeping, by a brother's hand,
+	Of life, of crown, of queen, at once dispatch'd;
+	Cut off even in the blossoms of my sin,
+	Unhousel'd, disappointed, unanel'd,
+	No reckoning made, but sent to my account
+	With all my imperfections on my head:
+	O, horrible! O, horrible! most horrible!
+	If thou hast nature in thee, bear it not;
+	Let not the royal bed of Denmark be
+	A couch for luxury and damned incest.
+	But, howsoever thou pursu'st this act,
+	Taint not thy mind, nor let thy soul contrive
+	Against thy mother aught; leave her to heaven,
+	And to those thorns that in her bosom lodge,
+	To prick and sting her. Fare thee well at once!
+	The glow-worm shows the matin to be near,
+	And 'gins to pale his uneffectual fire;
+	Adieu, adieu! Hamlet, remember me.
+<SPEECH 10><ACT 1><SCENE 5><21%>
+	</STAGE DIR> Swear.
+<SPEECH 11><ACT 1><SCENE 5><21%>
+	</STAGE DIR> Swear.
+<SPEECH 12><ACT 1><SCENE 5><21%>
+	</STAGE DIR> Swear.
+<SPEECH 13><ACT 1><SCENE 5><22%>
+	</STAGE DIR> Swear.
+<SPEECH 14><ACT 3><SCENE 4><62%>
+	Do not forget: this visitation
+	Is but to whet thy almost blunted purpose.
+	But, look! amazement on thy mother sits;
+	O! step between her and her fighting soul;
+	Conceit in weakest bodies strongest works:
+	Speak to her, Hamlet.

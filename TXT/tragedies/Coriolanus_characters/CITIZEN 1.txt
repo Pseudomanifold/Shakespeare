@@ -1,0 +1,88 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	Before we proceed any further, hear me speak.
+<SPEECH 2><ACT 1><SCENE 1><0%>
+	You are all resolved rather to die than to famish?
+<SPEECH 3><ACT 1><SCENE 1><0%>
+	First, you know Caius Marcius is chief enemy to the people.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	Let us kill him, and we'll have corn at our own price. Is't a verdict?
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	We are accounted poor citizens, the patricians good. What authority surfeits on would relieve us. If they would yield us but the superfluity, while it were wholesome, we might guess they relieved us humanely; but they think we are too dear: the leanness that afflicts us, the object of our misery, is as an inventory to particularise their abundance; our sufferance is a gain to them. Let us revenge this with our pikes, ere we become rakes: for the gods know I speak this in hunger for bread, not in thirst for revenge.
+<SPEECH 6><ACT 1><SCENE 1><1%>
+	Against him first: he's a very dog to the commonalty.
+<SPEECH 7><ACT 1><SCENE 1><1%>
+	Very well; and could be content to give him good report for't, but that he pays himself with being proud.
+<SPEECH 8><ACT 1><SCENE 1><1%>
+	I say unto you, what he hath done famously, he did it to that end: though soft-conscienced men can be content to say it was for his country, he did it to please his mother, and to be partly proud; which he is, even to the altitude of his virtue.
+<SPEECH 9><ACT 1><SCENE 1><1%>
+	If I must not, I need not be barren of accusations: he hath faults, with surplus, to tire in repetition. <STAGE DIR>
+	</STAGE DIR> What shouts are these? The other side o' the city is risen: why stay we prating here? to the Capitol!
+<SPEECH 10><ACT 1><SCENE 1><2%>
+	Soft! who comes here?
+<SPEECH 11><ACT 1><SCENE 1><2%>
+	He's one honest enough: would all the rest were so!
+<SPEECH 12><ACT 1><SCENE 1><2%>
+	Our business is not unknown to the senate; they have had inkling this fortnight what we intend to do, which now we'll show 'em in deeds. They say poor suitors have strong breaths: they shall know we have strong arms too.
+<SPEECH 13><ACT 1><SCENE 1><2%>
+	We cannot, sir; we are undone already.
+<SPEECH 14><ACT 1><SCENE 1><2%>
+	Care for us! True, indeed! They ne'er cared for us yet: suffer us to famish, and their storehouses crammed with grain; make edicts for usury, to support usurers; repeal daily any wholesome act established against the rich, and provide more piercing statutes daily to chain up and restrain the poor. If the wars eat us not up, they will; and there's all the love they bear us.
+<SPEECH 15><ACT 1><SCENE 1><3%>
+	Well, I'll hear it, sir; yet you must not think to fob off our disgrace with a tale; but, an't please you, deliver.
+<SPEECH 16><ACT 1><SCENE 1><3%>
+	Well, sir, what answer made the belly?
+<SPEECH 17><ACT 1><SCENE 1><3%>
+	Your belly's answer? What!
+	The kingly crowned head, the vigilant eye,
+	The counsellor heart, the arm our soldier,
+	Our steed the leg, the tongue our trumpeter,
+	With other muniments and petty helps
+	In this our fabric, if that they—
+<SPEECH 18><ACT 1><SCENE 1><3%>
+	Should by the cormorant belly be restrain'd,
+	Who is the sink o' the body,—
+<SPEECH 19><ACT 1><SCENE 1><4%>
+	The former agents, if they did complain,
+	What could the belly answer?
+<SPEECH 20><ACT 1><SCENE 1><4%>
+	You're long about it.
+<SPEECH 21><ACT 1><SCENE 1><4%>
+	Ay, sir; well, well.
+<SPEECH 22><ACT 1><SCENE 1><4%>
+	It was an answer: how apply you this?
+<SPEECH 23><ACT 1><SCENE 1><4%>
+	I the great toe? Why the great toe?
+<SPEECH 24><ACT 1><SCENE 1><5%>
+	We have ever your good word.
+<SPEECH 25><ACT 2><SCENE 3><36%>
+	Once, if he do require our voices, we ought not to deny him.
+<SPEECH 26><ACT 2><SCENE 3><37%>
+	And to make us no better thought of, a little help will serve; for once we stood up about the corn, he himself stuck not to call us the many-headed multitude.
+<SPEECH 27><ACT 2><SCENE 3><38%>
+	We do, sir; tell us what hath brought you to 't.
+<SPEECH 28><ACT 2><SCENE 3><38%>
+	How! not your own desire?
+<SPEECH 29><ACT 2><SCENE 3><38%>
+	You must think, if we give you any thing, we hope to gain by you.
+<SPEECH 30><ACT 2><SCENE 3><38%>
+	The price is, to ask it kindly.
+<SPEECH 31><ACT 2><SCENE 3><39%>
+	But this is something odd.
+<SPEECH 32><ACT 2><SCENE 3><41%>
+	He has our voices, sir.
+<SPEECH 33><ACT 2><SCENE 3><41%>
+	No, 'tis his kind of speech; he did not mock us.
+<SPEECH 34><ACT 2><SCENE 3><42%>
+	Ay, twice five hundred and their friends to piece 'em.
+<SPEECH 35><ACT 3><SCENE 1><52%>
+	He shall well know
+	The noble tribunes are the people's mouths,
+	And we their hands.
+<SPEECH 36><ACT 4><SCENE 6><76%>
+	Ourselves, our wives, and children, on our knees,
+	Are bound to pray for you both.
+<SPEECH 37><ACT 4><SCENE 6><79%>
+	For mine own part,
+	When I said banish him, I said 'twas pity.
+<SPEECH 38><ACT 4><SCENE 6><80%>
+	The gods be good to us! Come, masters, let's home. I ever said we were i' the wrong when we banished him.

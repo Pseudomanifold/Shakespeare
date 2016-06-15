@@ -1,0 +1,390 @@
+<SPEECH 1><ACT 1><SCENE 5><13%>
+	Take the fool away.
+<SPEECH 2><ACT 1><SCENE 5><13%>
+	Go to, you're a dry fool; I'll no more of you: besides, you grow dishonest.
+<SPEECH 3><ACT 1><SCENE 5><14%>
+	Sir, I bade them take away you.
+<SPEECH 4><ACT 1><SCENE 5><14%>
+	Can you do it?
+<SPEECH 5><ACT 1><SCENE 5><14%>
+	Make your proof.
+<SPEECH 6><ACT 1><SCENE 5><14%>
+	Well, sir, for want of other idleness, I'll bide your proof.
+<SPEECH 7><ACT 1><SCENE 5><14%>
+	Good fool, for my brother's death.
+<SPEECH 8><ACT 1><SCENE 5><14%>
+	I know his soul is in heaven, fool.
+<SPEECH 9><ACT 1><SCENE 5><14%>
+	What think you of this fool, Malvolio? doth he not mend?
+<SPEECH 10><ACT 1><SCENE 5><14%>
+	How say you to that, Malvolio?
+<SPEECH 11><ACT 1><SCENE 5><15%>
+	O! you are sick of self-love, Malvolio, and taste with a distempered appetite. To be generous, guiltless, and of free disposition, is to take those things for bird-bolts that you deem cannon-bullets. There is no slander in an allowed fool, though he do nothing but rail; nor no railing in a known discreet man, though he do nothing but reprove.
+<SPEECH 12><ACT 1><SCENE 5><15%>
+	From the Count Orsino, is it?
+<SPEECH 13><ACT 1><SCENE 5><15%>
+	Who of my people hold him in delay?
+<SPEECH 14><ACT 1><SCENE 5><15%>
+	Fetch him off, I pray you: he speaks nothing but madman. Fie on him! <STAGE DIR>
+	</STAGE DIR> Now you see, sir, how your fooling grows old, and people dislike it.
+<SPEECH 15><ACT 1><SCENE 5><16%>
+	By mine honour, half drunk. What is he at the gate, cousin?
+<SPEECH 16><ACT 1><SCENE 5><16%>
+	A gentleman! what gentleman?
+<SPEECH 17><ACT 1><SCENE 5><16%>
+	Cousin, cousin, how have you come so early by this lethargy?
+<SPEECH 18><ACT 1><SCENE 5><16%>
+	What's a drunken man like, fool?
+<SPEECH 19><ACT 1><SCENE 5><17%>
+	Go thou and seek the crowner, and let him sit o' my coz; for he's in the third degree of drink, he's drowned: go, look after him.
+<SPEECH 20><ACT 1><SCENE 5><17%>
+	Tell him he shall not speak with me.
+<SPEECH 21><ACT 1><SCENE 5><17%>
+	What kind o' man is he?
+<SPEECH 22><ACT 1><SCENE 5><17%>
+	What manner of man?
+<SPEECH 23><ACT 1><SCENE 5><17%>
+	Of what personage and years is he?
+<SPEECH 24><ACT 1><SCENE 5><18%>
+	Let him approach. Call in my gentlewoman.
+<SPEECH 25><ACT 1><SCENE 5><18%>
+	Give me my veil: come, throw it o'er my face.
+	We'll once more hear Orsino's embassy.
+<SPEECH 26><ACT 1><SCENE 5><18%>
+	Speak to me; I shall answer for her.
+	Your will?
+<SPEECH 27><ACT 1><SCENE 5><18%>
+	Whence came you, sir?
+<SPEECH 28><ACT 1><SCENE 5><19%>
+	Are you a comedian?
+<SPEECH 29><ACT 1><SCENE 5><19%>
+	If I do not usurp myself, I am.
+<SPEECH 30><ACT 1><SCENE 5><19%>
+	Come to what is important in't: I forgive you the praise.
+<SPEECH 31><ACT 1><SCENE 5><19%>
+	It is the more like to be feigned: I pray you keep it in. I heard you were saucy at my gates, and allowed your approach rather to wonder at you than to hear you. If you be not mad, be gone; if you have reason, be brief: 'tis not that time of moon with me to make one in so skipping a dialogue.
+<SPEECH 32><ACT 1><SCENE 5><19%>
+	Tell me your mind.
+<SPEECH 33><ACT 1><SCENE 5><19%>
+	Sure, you have some hideous matter to deliver, when the courtesy of it is so fearful. Speak your office.
+<SPEECH 34><ACT 1><SCENE 5><20%>
+	Yet you began rudely. What are you? what would you?
+<SPEECH 35><ACT 1><SCENE 5><20%>
+	Give us the place alone: we will hear this divinity. <STAGE DIR>
+	</STAGE DIR> Now, sir; what is your text?
+<SPEECH 36><ACT 1><SCENE 5><20%>
+	A comfortable doctrine, and much may be said of it. Where lies your text?
+<SPEECH 37><ACT 1><SCENE 5><20%>
+	In his bosom! In what chapter of his bosom?
+<SPEECH 38><ACT 1><SCENE 5><20%>
+	O! I have read it: it is heresy. Have you no more to say?
+<SPEECH 39><ACT 1><SCENE 5><20%>
+	Have you any commission from your lord to negotiate with my face? you are now out of your text: but we will draw the curtain and show you the picture. <STAGE DIR>
+	</STAGE DIR> Look you, sir, such a one I was as this present: is't not well done?
+<SPEECH 40><ACT 1><SCENE 5><21%>
+	'Tis in grain, sir; 'twill endure wind and weather.
+<SPEECH 41><ACT 1><SCENE 5><21%>
+	O! sir, I will not be so hard-hearted; I will give out divers schedules of my beauty: it shall be inventoried, and every particle and utensil labelled to my will: as Item, Two lips, indifferent red; Item, Two grey eyes, with lids to them; Item, One neck, one chin, and so forth. Were you sent hither to praise me?
+<SPEECH 42><ACT 1><SCENE 5><21%>
+	How does he love me?
+<SPEECH 43><ACT 1><SCENE 5><21%>
+	Your lord does know my mind; I cannot love him;
+	Yet I suppose him virtuous, know him noble,
+	Of great estate, of fresh and stainless youth;
+	In voices well divulg'd, free, learn'd, and valiant;
+	And, in dimension and the shape of nature
+	A gracious person; but yet I cannot love him:
+	He might have took his answer long ago.
+<SPEECH 44><ACT 1><SCENE 5><22%>
+	Why, what would you?
+<SPEECH 45><ACT 1><SCENE 5><22%>
+	You might do much. What is your parentage?
+<SPEECH 46><ACT 1><SCENE 5><22%>
+	Get you to your lord:
+	I cannot love him. Let him send no more,
+	Unless, perchance, you come to me again,
+	To tell me how he takes it. Fare you well:
+	I thank you for your pains: spend this for me.
+<SPEECH 47><ACT 1><SCENE 5><23%>
+	'What is your parentage?'
+	'Above my fortunes, yet my state is well:
+	I am a gentleman.' I'll be sworn thou art:
+	Thy tongue, thy face, thy limbs, actions, and spirit,
+	Do give thee five-fold blazon. Not too fast: soft! soft!
+	Unless the master were the man. How now!
+	Even so quickly may one catch the plague?
+	Methinks I feel this youth's perfections
+	With an invisible and subtle stealth
+	To creep in at mine eyes. Well, let it be.
+	What, ho! Malvolio!
+<SPEECH 48><ACT 1><SCENE 5><23%>
+	Run after that same peevish messenger,
+	The county's man: he left this ring behind him,
+	Would I, or not: tell him I'll none of it.
+	Desire him not to flatter with his lord,
+	Nor hold him up with hopes: I'm not for him.
+	If that the youth will come this way to-morrow,
+	I'll give him reasons for't. Hie thee, Malvolio.
+<SPEECH 49><ACT 1><SCENE 5><23%>
+	I do I know not what, and fear to find
+	Mine eye too great a flatterer for my mind.
+	Fate, show thy force: ourselves we do not owe;
+	What is decreed must be, and be this so!
+<SPEECH 50><ACT 3><SCENE 1><51%>
+	Let the garden door be shut, and leave me to my hearing.
+	Give me your hand, sir.
+<SPEECH 51><ACT 3><SCENE 1><51%>
+	What is your name?
+<SPEECH 52><ACT 3><SCENE 1><51%>
+	My servant, sir! 'Twas never merry world
+	Since lowly feigning was call'd compliment.
+	You're servant to the Count Orsino, youth.
+<SPEECH 53><ACT 3><SCENE 1><51%>
+	For him, I think not on him: for his thoughts,
+	Would they were blanks rather than fill'd with me!
+<SPEECH 54><ACT 3><SCENE 1><51%>
+	O! by your leave, I pray you,
+	I bade you never speak again of him:
+	But, would you undertake another suit,
+	I had rather hear you to solicit that
+	Than music from the spheres.
+<SPEECH 55><ACT 3><SCENE 1><51%>
+	Give me leave, beseech you. I did send,
+	After the last enchantment you did here,
+	A ring in chase of you: so did I abuse
+	Myself, my servant, and, I fear me, you:
+	Under your hard construction must I sit,
+	To force that on you, in a shameful cunning,
+	Which you knew none of yours: what might you think?
+	Have you not set mine honour at the stake,
+	And baited it with all th' unmuzzled thoughts
+	That tyrannous heart can think? To one of your receiving
+	Enough is shown; a cypress, not a bosom,
+	Hideth my heart. So, let me hear you speak.
+<SPEECH 56><ACT 3><SCENE 1><52%>
+	That's a degree to love.
+<SPEECH 57><ACT 3><SCENE 1><52%>
+	Why, then methinks 'tis time to smile again.
+	O world! how apt the poor are to be proud.
+	If one should be a prey, how much the better
+	To fall before the lion than the wolf!
+	The clock upbraids me with the waste of time.
+	Be not afraid, good youth, I will not have you:
+	And yet, when wit and youth is come to harvest,
+	Your wife is like to reap a proper man:
+	There lies your way, due west.
+<SPEECH 58><ACT 3><SCENE 1><52%>
+	Stay:
+	I prithee, tell me what thou think'st of me.
+<SPEECH 59><ACT 3><SCENE 1><53%>
+	If I think so, I think the same of you.
+<SPEECH 60><ACT 3><SCENE 1><53%>
+	I would you were as I would have you be!
+<SPEECH 61><ACT 3><SCENE 1><53%>
+	O! what a deal of scorn looks beautiful
+	In the contempt and anger of his lip.
+	A murderous guilt shows not itself more soon
+	Than love that would seem hid; love's night is noon.
+	Cesario, by the roses of the spring,
+	By maidhood, honour, truth, and every thing,
+	I love thee so, that, maugre all thy pride,
+	Nor wit nor reason can my passion hide.
+	Do not extort thy reasons from this clause,
+	For that I woo, thou therefore hast no cause;
+	But rather reason thus with reason fetter,
+	Love sought is good, but giv'n unsought is better.
+<SPEECH 62><ACT 3><SCENE 1><53%>
+	Yet come again, for thou perhaps mayst move
+	That heart, which now abhors, to like his love.
+<SPEECH 63><ACT 3><SCENE 4><59%>
+	I have sent after him: he says he'll come;
+	How shall I feast him? what bestow of him?
+	For youth is bought more oft than begg'd or borrow'd.
+	I speak too loud.
+	Where is Malvolio? he is sad, and civil,
+	And suits well for a servant with my fortunes:
+	Where is Malvolio?
+<SPEECH 64><ACT 3><SCENE 4><59%>
+	Why, what's the matter? does he rave?
+<SPEECH 65><ACT 3><SCENE 4><59%>
+	Go call him hither.
+	I am as mad as he,
+	If sad and merry madness equal be.
+	How now, Malvolio!
+<SPEECH 66><ACT 3><SCENE 4><60%>
+	Smil'st thou?
+	I sent for thee upon a sad occasion.
+<SPEECH 67><ACT 3><SCENE 4><60%>
+	Why, how dost thou, man? what is the matter with thee?
+<SPEECH 68><ACT 3><SCENE 4><60%>
+	Wilt thou go to bed, Malvolio?
+<SPEECH 69><ACT 3><SCENE 4><60%>
+	God comfort thee! Why dost thou smile so and kiss thy hand so oft?
+<SPEECH 70><ACT 3><SCENE 4><60%>
+	What meanest thou by that, Malvolio?
+<SPEECH 71><ACT 3><SCENE 4><60%>
+	Ha!
+<SPEECH 72><ACT 3><SCENE 4><61%>
+	What sayst thou?
+<SPEECH 73><ACT 3><SCENE 4><61%>
+	Heaven restore thee!
+<SPEECH 74><ACT 3><SCENE 4><61%>
+	Thy yellow stockings!
+<SPEECH 75><ACT 3><SCENE 4><61%>
+	Cross-gartered!
+<SPEECH 76><ACT 3><SCENE 4><61%>
+	Am I made?
+<SPEECH 77><ACT 3><SCENE 4><61%>
+	Why, this is very midsummer madness.
+<SPEECH 78><ACT 3><SCENE 4><61%>
+	I'll come to him. <STAGE DIR>
+	</STAGE DIR> Good Maria, let this fellow be looked to. Where's my cousin Toby? Let some of my people have a special care of him: I would not have him miscarry for the half of my dowry.
+<SPEECH 79><ACT 3><SCENE 4><67%>
+	I have said too much unto a heart of stone,
+	And laid mine honour too unchary out:
+	There's something in me that reproves my fault,
+	But such a headstrong potent fault it is
+	That it but mocks reproof.
+<SPEECH 80><ACT 3><SCENE 4><67%>
+	Here; wear this jewel for me, 'tis my picture;
+	Refuse it not; it hath no tongue to vex you;
+	And I beseech you come again to-morrow.
+	What shall you ask of me that I'll deny,
+	That honour sav'd may upon asking give?
+<SPEECH 81><ACT 3><SCENE 4><67%>
+	How with mine honour may I give him that
+	Which I have given to you?
+<SPEECH 82><ACT 3><SCENE 4><67%>
+	Well, come again to-morrow: fare thee well:
+	A fiend like thee might bear my soul to hell.
+<SPEECH 83><ACT 4><SCENE 1><77%>
+	Hold, Toby! on thy life I charge thee, hold!
+<SPEECH 84><ACT 4><SCENE 1><77%>
+	Will it be ever thus? Ungracious wretch!
+	Fit for the mountains and the barbarous caves,
+	Where manners ne'er were preach'd. Out of my sight!
+	Be not offended, dear Cesario.
+	Rudesby, be gone!
+	I prithee, gentle friend,
+	Let thy fair wisdom, not thy passion, sway
+	In this uncivil and unjust extent
+	Against thy peace. Go with me to my house,
+	And hear thou there how many fruitless pranks
+	This ruffian hath botch'd up, that thou thereby
+	Mayst smile at this. Thou shalt not choose but go:
+	Do not deny. Beshrew his soul for me,
+	He started one poor heart of mine in thee.
+<SPEECH 85><ACT 4><SCENE 1><78%>
+	Nay; come, I prithee. Would thou'dst be rul'd by me!
+<SPEECH 86><ACT 4><SCENE 1><78%>
+	O! say so, and so be!
+<SPEECH 87><ACT 4><SCENE 3><83%>
+	Blame not this haste of mine. If you mean well,
+	Now go with me and with this holy man
+	Into the chantry by; there, before him,
+	And underneath that consecrated roof,
+	Plight me the full assurance of your faith;
+	That my most jealous and too doubtful soul
+	May live at peace. He shall conceal it
+	Whiles you are willing it shall come to note,
+	What time we will our celebration keep
+	According to my birth. What do you say?
+<SPEECH 88><ACT 4><SCENE 3><84%>
+	Then lead the way, good father; and heavens so shine
+	That they may fairly note this act of mine!
+<SPEECH 89><ACT 5><SCENE 1><88%>
+	What would my lord, but that he may not have,
+	Wherein Olivia may seem serviceable?
+	Cesario, you do not keep promise with me.
+<SPEECH 90><ACT 5><SCENE 1><88%>
+	What do you say, Cesario? Good my lord,—
+<SPEECH 91><ACT 5><SCENE 1><88%>
+	If it be aught to the old tune, my lord,
+	It is as fat and fulsome to mine ear
+	As howling after music.
+<SPEECH 92><ACT 5><SCENE 1><88%>
+	Still so constant, lord.
+<SPEECH 93><ACT 5><SCENE 1><88%>
+	Even what it please my lord, that shall become him.
+<SPEECH 94><ACT 5><SCENE 1><89%>
+	Where goes Cesario?
+<SPEECH 95><ACT 5><SCENE 1><89%>
+	Ah me, detested! how am I beguil'd!
+<SPEECH 96><ACT 5><SCENE 1><89%>
+	Hast thou forgot thyself? Is it so long?
+	Call forth the holy father.
+<SPEECH 97><ACT 5><SCENE 1><90%>
+	Whither, my lord? Cesario, husband, stay.
+<SPEECH 98><ACT 5><SCENE 1><90%>
+	Ay, husband: can he that deny?
+<SPEECH 99><ACT 5><SCENE 1><90%>
+	Alas! it is the baseness of thy fear
+	That makes thee strangle thy propriety.
+	Fear not, Cesario; take thy fortunes up;
+	Be that thou know'st thou art, and then thou art
+	As great as that thou fear'st.
+	O, welcome, father!
+	Father, I charge thee, by thy reverence,
+	Here to unfold,—though lately we intended
+	To keep in darkness what occasion now
+	Reveals before 'tis ripe,—what thou dost know
+	Hath newly pass'd between this youth and me.
+<SPEECH 100><ACT 5><SCENE 1><91%>
+	O! do not swear:
+	Hold little faith, though thou hast too much fear.
+<SPEECH 101><ACT 5><SCENE 1><91%>
+	What's the matter?
+<SPEECH 102><ACT 5><SCENE 1><91%>
+	Who has done this, Sir Andrew?
+<SPEECH 103><ACT 5><SCENE 1><92%>
+	Away with him! Who hath made this havoc with them?
+<SPEECH 104><ACT 5><SCENE 1><92%>
+	Get him to bed, and let his hurt be look'd to.
+<SPEECH 105><ACT 5><SCENE 1><93%>
+	Most wonderful!
+<SPEECH 106><ACT 5><SCENE 1><95%>
+	He shall enlarge him. Fetch Malvolio hither.
+	And yet, alas, now I remember me,
+	They say, poor gentleman, he's much distract.
+	A most extracting frenzy of mine own
+	From my remembrance clearly banish'd his.
+	How does he, sirrah?
+<SPEECH 107><ACT 5><SCENE 1><95%>
+	Open it, and read it.
+<SPEECH 108><ACT 5><SCENE 1><95%>
+	How now! art thou mad?
+<SPEECH 109><ACT 5><SCENE 1><96%>
+	Prithee, read i' thy right wits.
+<SPEECH 110><ACT 5><SCENE 1><96%>
+	</STAGE DIR> Read it you, sirrah.
+<SPEECH 111><ACT 5><SCENE 1><96%>
+	Did he write this?
+<SPEECH 112><ACT 5><SCENE 1><96%>
+	See him deliver'd, Fabian; bring him hither.
+	My lord, so please you, these things further thought on,
+	To think me as well a sister as a wife,
+	One day shall crown the alliance on't, so please you,
+	Here at my house and at my proper cost.
+<SPEECH 113><ACT 5><SCENE 1><97%>
+	A sister! you are she.
+<SPEECH 114><ACT 5><SCENE 1><97%>
+	Ay, my lord, this same.
+	How now, Malvolio!
+<SPEECH 115><ACT 5><SCENE 1><97%>
+	Have I, Malvolio? no.
+<SPEECH 116><ACT 5><SCENE 1><98%>
+	Alas! Malvolio, this is not my writing,
+	Though, I confess, much like the character;
+	But, out of question, 'tis Maria's hand:
+	And now I do bethink me, it was she
+	First told me thou wast mad; then cam'st in smiling,
+	And in such forms which here were presuppos'd
+	Upon thee in the letter. Prithee, be content:
+	This practice hath most shrewdly pass'd upon thee;
+	But when we know the grounds and authors of it,
+	Thou shalt be both the plaintiff and the judge
+	Of thine own cause.
+<SPEECH 117><ACT 5><SCENE 1><98%>
+	Alas, poor fool, how have they baffled thee!
+<SPEECH 118><ACT 5><SCENE 1><99%>
+	He hath been most notoriously abus'd.

@@ -1,0 +1,136 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	Now, sir! what make you here?
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	What mar you then, sir?
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Marry, sir, be better employed, and be naught awhile.
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	Know you where you are, sir?
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	Know you before whom, sir?
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	What, boy!
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	Wilt thou lay hands on me, villain?
+<SPEECH 8><ACT 1><SCENE 1><3%>
+	Let me go, I say.
+<SPEECH 9><ACT 1><SCENE 1><3%>
+	And what wilt thou do? beg, when that is spent? Well, sir, get you in: I will not long be troubled with you; you shall have some part of your will: I pray you, leave me.
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	Get you with him, you old dog.
+<SPEECH 11><ACT 1><SCENE 1><3%>
+	Is it even so? begin you to grow upon me? I will physic your rankness, and yet give no thousand crowns neither. Holla, Dennis!
+<SPEECH 12><ACT 1><SCENE 1><4%>
+	Was not Charles the duke's wrestler here to speak with me?
+<SPEECH 13><ACT 1><SCENE 1><4%>
+	Call him in. <STAGE DIR>
+	</STAGE DIR> 'Twill be a good way; and to-morrow the wrestling is.
+<SPEECH 14><ACT 1><SCENE 1><4%>
+	Good Monsieur Charles, what's the new news at the new court?
+<SPEECH 15><ACT 1><SCENE 1><4%>
+	Can you tell if Rosalind, the duke's daughter, be banished with her father?
+<SPEECH 16><ACT 1><SCENE 1><4%>
+	Where will the old duke live?
+<SPEECH 17><ACT 1><SCENE 1><5%>
+	What, you wrestle to-morrow before the new duke?
+<SPEECH 18><ACT 1><SCENE 1><5%>
+	Charles, I thank thee for thy love to me, which thou shalt find I will most kindly requite. I had myself notice of my brother's purpose herein, and have by underhand means laboured to dissuade him from it, but he is resolute. I'll tell thee, Charles, it is the stubbornest young fellow of France; full of ambition, an envious emulator of every man's good parts, a secret and villanous contriver against me his natural brother: therefore use thy discretion. I had as lief thou didst break his neck as his finger. And thou wert best look to't; for if thou dost him any slight disgrace, or if he do not mightily grace himself on thee, he will practise against thee by poison, entrap thee by some treacherous device, and never leave thee till he hath ta'en thy life by some indirect means or other; for, I assure thee,—and almost with tears I speak it,—there is not one so young and so villanous this day living. I speak but brotherly of him; but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder.
+<SPEECH 19><ACT 1><SCENE 1><6%>
+	Farewell, good Charles. Now will I stir this gamester. I hope I shall see an end of him; for my soul, yet I know not why, hates nothing more than he. Yet he's gentle, never schooled and yet learned, full of noble device, of all sorts enchantingly beloved, and, indeed so much in the heart of the world, and especially of my own people, who best know him, that I am altogether misprised. But it shall not be so long; this wrestler shall clear all: nothing remains but that I kindle the boy thither, which now I'll go about.
+<SPEECH 20><ACT 3><SCENE 1><42%>
+	O that your highness knew my heart in this!
+	I never lov'd my brother in my life.
+<SPEECH 21><ACT 4><SCENE 3><79%>
+	Good morrow, fair ones. Pray you if you know,
+	Where in the purlieus of this forest stands
+	A sheepcote fenc'd about with olive-trees?
+<SPEECH 22><ACT 4><SCENE 3><79%>
+	If that an eye may profit by a tongue,
+	Then should I know you by description;
+	Such garments, and such years: 'The boy is fair,
+	Of female favour, and bestows himself
+	Like a ripe sister: but the woman low,
+	And browner than her brother.' Are not you
+	The owner of the house I did inquire for?
+<SPEECH 23><ACT 4><SCENE 3><80%>
+	Orlando doth commend him to you both,
+	And to that youth he calls his Rosalind
+	He sends this bloody napkin. Are you he?
+<SPEECH 24><ACT 4><SCENE 3><80%>
+	Some of my shame; if you will know of me
+	What man I am, and how, and why, and where
+	This handkercher was stain'd.
+<SPEECH 25><ACT 4><SCENE 3><80%>
+	When last the young Orlando parted from you
+	He left a promise to return again
+	Within an hour; and, pacing through the forest,
+	Chewing the food of sweet and bitter fancy,
+	Lo, what befell! he threw his eye aside,
+	And mark what object did present itself:
+	Under an oak, whose boughs were moss'd with age,
+	And high top bald with dry antiquity,
+	A wretched ragged man, o'ergrown with hair,
+	Lay sleeping on his back: about his neck
+	A green and gilded snake had wreath'd itself,
+	Who with her head nimble in threats approach'd
+	The opening of his mouth; but suddenly,
+	Seeing Orlando, it unlink'd itself,
+	And with indented glides did slip away
+	Into a bush; under which bush's shade
+	A lioness, with udders all drawn dry,
+	Lay couching, head on ground, with catlike watch,
+	When that the sleeping man should stir; for 'tis
+	The royal disposition of that beast
+	To prey on nothing that doth seem as dead:
+	This seen, Orlando did approach the man,
+	And found it was his brother, his elder brother.
+<SPEECH 26><ACT 4><SCENE 3><81%>
+	And well he might so do,
+	For well I know he was unnatural.
+<SPEECH 27><ACT 4><SCENE 3><81%>
+	Twice did he turn his back and purpos'd so;
+	But kindness, nobler ever than revenge,
+	And nature, stronger than his just occasion,
+	Made him give battle to the lioness,
+	Who quickly fell before him: in which hurtling
+	From miserable slumber I awak'd.
+<SPEECH 28><ACT 4><SCENE 3><81%>
+	'Twas I; but 'tis not I. I do not shame
+	To tell you what I was, since my conversion
+	So sweetly tastes, being the thing I am.
+<SPEECH 29><ACT 4><SCENE 3><81%>
+	By and by.
+	When from the first to last, betwixt us two,
+	Tears our recountments had most kindly bath'd,
+	As how I came into that desert place:—
+	In brief, he led me to the gentle duke,
+	Who gave me fresh array and entertainment,
+	Committing me unto my brother's love;
+	Who led me instantly unto his cave,
+	There stripp'd himself; and here, upon his arm
+	The lioness had torn some flesh away,
+	Which all this while had bled; and now he fainted,
+	And cried, in fainting, upon Rosalind.
+	Brief, I recover'd him, bound up his wound;
+	And, after some small space, being strong at heart,
+	He sent me hither, stranger as I am,
+	To tell this story, that you might excuse
+	His broken promise; and to give this napkin,
+	Dy'd in his blood, unto the shepherd youth
+	That he in sport doth call his Rosalind.
+<SPEECH 30><ACT 4><SCENE 3><82%>
+	Many will swoon when they do look on blood.
+<SPEECH 31><ACT 4><SCENE 3><82%>
+	Look, he recovers.
+<SPEECH 32><ACT 4><SCENE 3><82%>
+	Be of good cheer, youth. You a man! You lack a man's heart.
+<SPEECH 33><ACT 4><SCENE 3><82%>
+	This was not counterfeit: there is too great testimony in your complexion that it was a passion of earnest.
+<SPEECH 34><ACT 4><SCENE 3><82%>
+	Well then, take a good heart and counterfeit to be a man.
+<SPEECH 35><ACT 4><SCENE 3><83%>
+	That will I, for I must bear answer back How you excuse my brother, Rosalind.
+<SPEECH 36><ACT 5><SCENE 2><85%>
+	Neither call the giddiness of it in question, the poverty of her, the small acquaintance, my sudden wooing, nor her sudden consenting; but say with me, I love Aliena; say with her, that she loves me; consent with both, that we may enjoy each other: it shall be to your good; for my father's house and all the revenue that was old Sir Rowland's will I estate upon you, and here live and die a shepherd.
+<SPEECH 37><ACT 5><SCENE 2><86%>
+	And you, fair sister.

@@ -1,0 +1,60 @@
+<SPEECH 1><ACT 4><SCENE 3><79%>
+	Myself have letters of the self-same tenour.
+<SPEECH 2><ACT 4><SCENE 3><79%>
+	That by proscription and bills of outlawry,
+	Octavius, Antony, and Lepidus,
+	Have put to death an hundred senators.
+<SPEECH 3><ACT 4><SCENE 3><79%>
+	Cicero is dead,
+	And by that order of proscription.
+	Had you your letters from your wife, my lord?
+<SPEECH 4><ACT 4><SCENE 3><79%>
+	Nor nothing in your letters writ of her?
+<SPEECH 5><ACT 4><SCENE 3><79%>
+	That, methinks, is strange.
+<SPEECH 6><ACT 4><SCENE 3><79%>
+	No, my lord.
+<SPEECH 7><ACT 4><SCENE 3><80%>
+	Then like a Roman bear the truth I tell:
+	For certain she is dead, and by strange manner.
+<SPEECH 8><ACT 4><SCENE 3><80%>
+	Even so great men great losses should endure.
+<SPEECH 9><ACT 4><SCENE 3><82%>
+	Good-night, Lord Brutus.
+<SPEECH 10><ACT 5><SCENE 1><88%>
+	What says my general?
+<SPEECH 11><ACT 5><SCENE 1><88%>
+	Believe not so.
+<SPEECH 12><ACT 5><SCENE 3><92%>
+	It is but change, Titinius; for Octavius
+	Is overthrown by noble Brutus' power,
+	As Cassius' legions are by Antony.
+<SPEECH 13><ACT 5><SCENE 3><93%>
+	Where did you leave him?
+<SPEECH 14><ACT 5><SCENE 3><93%>
+	Is not that he that lies upon the ground?
+<SPEECH 15><ACT 5><SCENE 3><93%>
+	Is not that he?
+<SPEECH 16><ACT 5><SCENE 3><93%>
+	Mistrust of good success hath done this deed.
+	O hateful error, melancholy's child!
+	Why dost thou show to the apt thoughts of men
+	The things that are not? O error! soon conceiv'd,
+	Thou never com'st unto a happy birth,
+	But kill'st the mother that engender'd thee.
+<SPEECH 17><ACT 5><SCENE 3><93%>
+	Seek him, Titinius, whilst I go to meet
+	The noble Brutus, thrusting this report
+	Into his ears; I may say, thrusting it;
+	For piercing steel and darts envenomed
+	Shall be as welcome to the ears of Brutus
+	As tidings of this sight.
+<SPEECH 18><ACT 5><SCENE 3><94%>
+	Lo, yonder: and Titinius mourning it.
+<SPEECH 19><ACT 5><SCENE 5><99%>
+	My master's man. Strato, where is thy master?
+<SPEECH 20><ACT 5><SCENE 5><99%>
+	How died my master, Strato?
+<SPEECH 21><ACT 5><SCENE 5><99%>
+	Octavius, then take him to follow thee,
+	That did the latest service to my master.

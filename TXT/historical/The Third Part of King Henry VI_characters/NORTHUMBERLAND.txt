@@ -1,0 +1,45 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	If I be not, heavens be reveng'd on me!
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	Well hast thou spoken, cousin: be it so.
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	Yes, Warwick, I remember it to my grief;
+	And, by his soul, thou and thy house shall rue it.
+<SPEECH 4><ACT 1><SCENE 1><6%>
+	Plantagenet, for all the claim thou lay'st,
+	Think not that Henry shall be so depos'd.
+<SPEECH 5><ACT 1><SCENE 1><6%>
+	Thou art deceiv'd: 'tis not thy southern power,
+	Of Essex, Norfolk, Suffolk, nor of Kent,
+	Which makes thee thus presumptuous and proud,
+	Can set the duke up in despite of me.
+<SPEECH 6><ACT 1><SCENE 1><7%>
+	Nor I.
+<SPEECH 7><ACT 1><SCENE 1><7%>
+	Be thou a prey unto the house of York,
+	And die in bands for this unmanly deed!
+<SPEECH 8><ACT 1><SCENE 4><16%>
+	Yield to our mercy, proud Plantagenet.
+<SPEECH 9><ACT 1><SCENE 4><16%>
+	Hold, Clifford! do not honour him so much
+	To prick thy finger, though to wound his heart.
+	What valour were it, when a cur doth grin,
+	For one to thrust his hand between his teeth,
+	When he might spurn him with his foot away?
+	It is war's prize to take all vantages,
+	And ten to one is no impeach of valour.
+<SPEECH 10><ACT 1><SCENE 4><17%>
+	So doth the cony struggle in the net.
+<SPEECH 11><ACT 1><SCENE 4><17%>
+	What would your Grace have done unto him now?
+<SPEECH 12><ACT 1><SCENE 4><19%>
+	Beshrew me, but his passion moves me so
+	That hardly can I check my eyes from tears.
+<SPEECH 13><ACT 1><SCENE 4><20%>
+	Had he been slaughter-man to all my kin,
+	I should not for my life but weep with him,
+	To see how inly sorrow gripes his soul.
+<SPEECH 14><ACT 2><SCENE 2><29%>
+	Be it with resolution then to fight.
+<SPEECH 15><ACT 2><SCENE 2><31%>
+	No, nor your manhood that durst make you stay.

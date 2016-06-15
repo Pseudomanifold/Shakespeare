@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 4><SCENE 3><80%>
+	Let us make the assay upon him: if he care not for 't, he will supply us easily; if he covetously reserve it, how shall's get it?
+<SPEECH 2><ACT 4><SCENE 3><80%>
+	He; I know him.
+<SPEECH 3><ACT 4><SCENE 3><82%>
+	He has almost charmed me from my profession, by persuading me to it.

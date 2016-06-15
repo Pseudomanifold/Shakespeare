@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 2><SCENE 4><45%>
+	Very well, my liege.
+<SPEECH 2><ACT 2><SCENE 4><46%>
+	So please your highness,
+	The question did at first so stagger me,
+	Bearing a state of mighty moment in't,
+	And consequence of dread, that I committed
+	The daring'st counsel that I had to doubt;
+	And did entreat your highness to this course
+	Which you are running here.

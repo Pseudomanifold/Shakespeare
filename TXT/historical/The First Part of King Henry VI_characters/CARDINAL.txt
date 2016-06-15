@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 5><SCENE 4><94%>
+	Lord regent, I do greet your excellence
+	With letters of commission from the king.
+	For know, my lords, the states of Christendom,
+	Mov'd with remorse of these outrageous broils,
+	Have earnestly implor'd a general peace
+	Betwixt our nation and the aspiring French;
+	And here at hand the Dauphin, and his train,
+	Approacheth to confer about some matter.
+<SPEECH 2><ACT 5><SCENE 4><95%>
+	Charles, and the rest, it is enacted thus:
+	That, in regard King Henry gives consent,
+	Of mere compassion and of lenity,
+	To ease your country of distressful war,
+	And suffer you to breathe in fruitful peace,
+	You shall become true liegemen to his crown:
+	And, Charles, upon-condition thou wilt swear
+	To pay him tribute, and submit thyself,
+	Thou shalt be plac'd as viceroy under him,
+	And still enjoy thy regal dignity.

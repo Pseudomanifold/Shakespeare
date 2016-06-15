@@ -1,0 +1,214 @@
+<SPEECH 1><ACT 2><SCENE 1><24%>
+	Well, I hope it be not so.
+<SPEECH 2><ACT 2><SCENE 1><24%>
+	Why, sir, my wife is not young.
+<SPEECH 3><ACT 2><SCENE 1><24%>
+	Love my wife!
+<SPEECH 4><ACT 2><SCENE 1><24%>
+	What name, sir?
+<SPEECH 5><ACT 2><SCENE 1><25%>
+	</STAGE DIR> I will be patient: I will find out this.
+<SPEECH 6><ACT 2><SCENE 1><25%>
+	I will seek out Falstaff.
+<SPEECH 7><ACT 2><SCENE 1><25%>
+	If I do find it: well.
+<SPEECH 8><ACT 2><SCENE 1><25%>
+	'Twas a good sensible fellow: well.
+<SPEECH 9><ACT 2><SCENE 1><25%>
+	I melancholy! I am not melancholy. Get you home, go.
+<SPEECH 10><ACT 2><SCENE 1><26%>
+	You heard what this knave told me, did you not?
+<SPEECH 11><ACT 2><SCENE 1><26%>
+	Do you think there is truth in them?
+<SPEECH 12><ACT 2><SCENE 1><26%>
+	Were they his men?
+<SPEECH 13><ACT 2><SCENE 1><26%>
+	I like it never the better for that. Does he lie at the Garter?
+<SPEECH 14><ACT 2><SCENE 1><26%>
+	I do not misdoubt my wife, but I would be loth to turn them together. A man may be too confident: I would have nothing 'lie on my head:' I cannot be thus satisfied.
+<SPEECH 15><ACT 2><SCENE 1><27%>
+	Good mine host o' the Garter, a word with you.
+<SPEECH 16><ACT 2><SCENE 1><27%>
+	None, I protest: but I'll give you a pottle of burnt sack to give me recourse to him and tell him my name is Brook, only for a jest.
+<SPEECH 17><ACT 2><SCENE 1><28%>
+	Though Page be a secure fool, and stands so firmly on his wife's frailty, yet I cannot put off my opinion so easily. She was in his company at Page's house, and what they made there, I know not. Well, I will look further into't; and I have a disguise to sound Falstaff. If I find her honest, I lose not my labour; if she be otherwise, 'tis labour well bestowed.
+<SPEECH 18><ACT 2><SCENE 2><34%>
+	Bless your, sir!
+<SPEECH 19><ACT 2><SCENE 2><34%>
+	I make bold to press with so little preparation upon you.
+<SPEECH 20><ACT 2><SCENE 2><34%>
+	Sir, I am a gentleman that have spent much: my name is Brook.
+<SPEECH 21><ACT 2><SCENE 2><34%>
+	Good Sir John, I sue for yours: not to charge you; for I must let you understand I think myself in better plight for a lender than you are: the which hath something emboldened me to this unseasoned intrusion; for, they say, if money go before, all ways do lie open.
+<SPEECH 22><ACT 2><SCENE 2><34%>
+	Troth, and I have a bag of money here troubles me: if you will help to bear it, Sir John, take all, or half, for easing me of the carriage.
+<SPEECH 23><ACT 2><SCENE 2><34%>
+	I will tell you, sir, if you will give me the hearing.
+<SPEECH 24><ACT 2><SCENE 2><34%>
+	Sir, I hear you are a scholar,—I will be brief with you, and you have been a man long known to me, though I had never so good means, as desire, to make myself acquainted with you. I shall discover a thing to you, wherein I must very much lay open mine own imperfection; but, good Sir John, as you have one eye upon my follies, as you hear them unfolded, turn another into the register of your own, that I may pass with a reproof the easier, sith you yourself know how easy it is to be such an offender.
+<SPEECH 25><ACT 2><SCENE 2><35%>
+	There is a gentlewoman in this town, her husband's name is Ford.
+<SPEECH 26><ACT 2><SCENE 2><35%>
+	I have long loved her, and, I protest to you, bestowed much on her; followed her with a doting observance; engrossed opportunities to meet her; fee'd every slight occasion that could but niggardly give me sight of her; not only bought many presents to give her, but have given largely to many to know what she would have given. Briefly, I have pursued her as love hath pursued me; which hath been on the wing of all occasions. But whatsoever I have merited, either in my mind or in my means, meed, I am sure, I have received none; unless experience be a jewel that I have purchased at an infinite rate; and that hath taught me to say this,
+	Love like a shadow flies when substance love pursues;
+	Pursuing that that flies, and flying what pursues
+<SPEECH 27><ACT 2><SCENE 2><36%>
+	Never.
+<SPEECH 28><ACT 2><SCENE 2><36%>
+	Never.
+<SPEECH 29><ACT 2><SCENE 2><36%>
+	Like a fair house built upon another man's ground; so that I have lost my edifice by mistaking the place where I erected it.
+<SPEECH 30><ACT 2><SCENE 2><36%>
+	When I have told you that, I have told you all. Some say, that though she appear honest to me, yet in other places she enlargeth her mirth so far that there is shrewd construction made of her. Now, Sir John, here is the heart of my purpose: you are a gentleman of excellent breeding, admirable discourse, of great admittance, authentic in your place and person, generally allowed for your many war-like, court-like, and learned preparations.
+<SPEECH 31><ACT 2><SCENE 2><36%>
+	Believe it, for you know it. There is money; spend it, spend it; spend more; spend all I have; only give me so much of your time in exchange of it, as to lay an amiable siege to the honesty of this Ford's wife: use your art of wooing, win her to consent to you; if any man may, you may as soon as any.
+<SPEECH 32><ACT 2><SCENE 2><36%>
+	O, understand my drift. She dwells so securely on the excellency of her honour, that the folly of my soul dares not present itself: she is too bright to be looked against. Now, could I come to her with any detection in my hand, my desires had instance and argument to commend themselves: I could drive her then from the ward of her purity, her reputation, her marriage vow, and a thousand other her defences, which now are too-too strongly embattled against me. What say you to't, Sir John?
+<SPEECH 33><ACT 2><SCENE 2><37%>
+	O good sir!
+<SPEECH 34><ACT 2><SCENE 2><37%>
+	Want no money, Sir John; you shall want none.
+<SPEECH 35><ACT 2><SCENE 2><37%>
+	I am blest in your acquaintance. Do you know Ford, sir?
+<SPEECH 36><ACT 2><SCENE 2><38%>
+	I would you knew Ford, sir, that you might avoid him, if you saw him.
+<SPEECH 37><ACT 2><SCENE 2><38%>
+	What a damned Epicurean rascal is this! My heart is ready to crack with impatience. Who says this is improvident jealousy? my wife hath sent to him, the hour is fixed, the match is made. Would any man have thought this? See the hell of having a false woman! My bed shall be abused, my coffers ransacked, my reputation gnawn at; and I shall not only receive this villanous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong. Terms! names! Amaimon sounds well; Lucifer, well; Barbason, well; yet they are devils' additions, the names of fiends: but Cuckold! Wittol!—Cuckold! the devil himself hath not such a name. Page is an ass, a secure ass: he will trust his wife; he will not be jealous. I will rather trust a Fleming with my butter, Parson Hugh the Welshman with my cheese, an Irishman with my aqua-vitæ bottle, or a thief to walk my ambling gelding, than my wife with herself: then she plots, then she ruminates, then she devises; and what they think in their hearts they may effect, they will break their hearts but they will effect. God be praised for my jealousy! Eleven o'clock the hour: I will prevent this, detect my wife, be revenged on Falstaff, and laugh at Page. I will about it; better three hours too soon than a minute too late. Fie, fie, fie! cuckold! cuckold! cuckold!
+<SPEECH 38><ACT 3><SCENE 2><47%>
+	Well met, Mistress Page. Whither go you?
+<SPEECH 39><ACT 3><SCENE 2><47%>
+	Ay; and as idle as she may hang together, for want of company. I think, if your husbands were dead, you two would marry.
+<SPEECH 40><ACT 3><SCENE 2><47%>
+	Where had you this pretty weathercock?
+<SPEECH 41><ACT 3><SCENE 2><47%>
+	Sir John Falstaff!
+<SPEECH 42><ACT 3><SCENE 2><47%>
+	Indeed she is.
+<SPEECH 43><ACT 3><SCENE 2><47%>
+	Has Page any brains? hath he any eyes? hath he any thinking? Sure, they sleep; he hath no use of them. Why, this boy will carry a letter twenty mile, as easy as a cannon will shoot point-blank twelve score. He pieces out his wife's inclination; he gives her folly motion and advantage: and now she's going to my wife, and Falstaff's boy with her. A man may hear this shower sing in the wind: and Falstaff's boy with her! Good plots! they are laid; and our revolted wives share damnation together. Well; I will take him, then torture my wife, pluck the borrowed veil of modesty from the so seeming Mistress Page, divulge Page himself for a secure and wilful Actæon; and to these violent proceedings all my neighbours shall cry aim. <STAGE DIR>
+	</STAGE DIR> The clock gives me my cue, and my assurance bids me search; there I shall find Falstaff. I shall be rather praised for this than mocked; for it is as positive as the earth is firm, that Falstaff is there: I will go.
+<SPEECH 44><ACT 3><SCENE 2><48%>
+	Trust me, a good knot. I have good cheer at home; and I pray you all go with me.
+<SPEECH 45><ACT 3><SCENE 2><49%>
+	I beseech you heartily, some of you go home with me to dinner: besides your cheer, you shall have sport; I will show you a monster. Master doctor, you shall go; so shall you, Master Page; and you, Sir Hugh.
+<SPEECH 46><ACT 3><SCENE 2><49%>
+	</STAGE DIR> I think I shall drink in pipewine first with him; I'll make him dance. Will you go, gentles?
+<SPEECH 47><ACT 3><SCENE 3><55%>
+	Pray you, come near: if I suspect without cause, why then make sport at me; then let me be your jest; I deserve it. How now! what goes here? whither bear you this?
+<SPEECH 48><ACT 3><SCENE 3><55%>
+	Buck! I would I could wash myself of the buck! Buck, buck, buck! Ay, buck; I warrant you, buck; and of the season too, it shall appear. <STAGE DIR>
+	</STAGE DIR> Gentlemen, I have dreamed to-night; I'll tell you my dream. Here, here, here be my keys: ascend my chambers; search, seek, find out: I'll warrant we'll unkennel the fox. Let me stop this way first. <span class="stage>[Locking the door.] So, now uncape.
+<SPEECH 49><ACT 3><SCENE 3><55%>
+	True, Master Page. Up, gentlemen; you shall see sport anon: follow me, gentlemen.
+<SPEECH 50><ACT 3><SCENE 3><57%>
+	I cannot find him: may be the knave bragged of that he could not compass.
+<SPEECH 51><ACT 3><SCENE 3><57%>
+	Ay, I do so.
+<SPEECH 52><ACT 3><SCENE 3><57%>
+	Amen!
+<SPEECH 53><ACT 3><SCENE 3><57%>
+	Ay, ay; I must bear it.
+<SPEECH 54><ACT 3><SCENE 3><57%>
+	'Tis my fault, Master Page: I suffer for it.
+<SPEECH 55><ACT 3><SCENE 3><57%>
+	Well; I promised you a dinner. Come, come, walk in the Park: I pray you, pardon me; I will hereafter make known to you why I have done this. Come, wife; come, Mistress Page. I pray you, pardon me; pray heartily, pardon me.
+<SPEECH 56><ACT 3><SCENE 3><58%>
+	Any thing.
+<SPEECH 57><ACT 3><SCENE 3><58%>
+	Pray you go, Master Page.
+<SPEECH 58><ACT 3><SCENE 5><64%>
+	Bless you, sir!
+<SPEECH 59><ACT 3><SCENE 5><64%>
+	That, indeed, Sir John, is my business.
+<SPEECH 60><ACT 3><SCENE 5><64%>
+	And how sped you, sir?
+<SPEECH 61><ACT 3><SCENE 5><64%>
+	How so, sir? did she change her determination?
+<SPEECH 62><ACT 3><SCENE 5><65%>
+	What! while you were there?
+<SPEECH 63><ACT 3><SCENE 5><65%>
+	And did he search for you, and could not find you?
+<SPEECH 64><ACT 3><SCENE 5><65%>
+	A buck-basket!
+<SPEECH 65><ACT 3><SCENE 5><65%>
+	And how long lay you there?
+<SPEECH 66><ACT 3><SCENE 5><66%>
+	In good sadness, sir, I am sorry that for my sake you have suffered all this. My suit then is desperate; you'll undertake her no more?
+<SPEECH 67><ACT 3><SCENE 5><66%>
+	'Tis past eight already, sir.
+<SPEECH 68><ACT 3><SCENE 5><67%>
+	Hum! ha! is this a vision? is this a dream? do I sleep? Master Ford, awake! awake, Master Ford! there's a hole made in your best coat, Master Ford. This 'tis to be married: this 'tis to have linen and buck-baskets! Well, I will proclaim myself what I am: I will now take the lecher; he is at my house; he cannot 'scape me; 'tis impossible he should; he cannot creep into a half-penny purse, nor into a pepper-box; but, lest the devil that guides him should aid him, I will search impossible places. Though what I am I cannot avoid, yet to be what I would not, shall not make me tame: if I have horns to make me mad, let the proverb go with me; I'll be horn-mad.
+<SPEECH 69><ACT 4><SCENE 2><74%>
+	Ay, but if it prove true, Master Page, have you any way then to unfool me again? Set down the basket, villains. Somebody call my wife. Youth in a basket! O you panderly rascals! there's a knot, a ging, a pack, a conspiracy against me: now shall the devil be shamed. What, wife, I say! Come, come forth! Behold what honest clothes you send forth to bleaching!
+<SPEECH 70><ACT 4><SCENE 2><74%>
+	So say I too, sir.—
+	Come hither, Mistress Ford, the honest woman, the modest wife, the virtuous creature, that hath the jealous fool to her husband! I suspect without cause, mistress, do I?
+<SPEECH 71><ACT 4><SCENE 2><74%>
+	Well said, brazen-face! hold it out. Come forth, sirrah!
+<SPEECH 72><ACT 4><SCENE 2><74%>
+	I shall find you anon.
+<SPEECH 73><ACT 4><SCENE 2><75%>
+	Empty the basket, I say!
+<SPEECH 74><ACT 4><SCENE 2><75%>
+	Master Page, as I am an honest man, there was one conveyed out of my house yesterday in this basket: why may not he be there again? In my house I am sure he is; my intelligence is true; my jealousy is reasonable. Pluck me out all the linen.
+<SPEECH 75><ACT 4><SCENE 2><75%>
+	Well, he's not here I seek for.
+<SPEECH 76><ACT 4><SCENE 2><75%>
+	Help to search my house this one time: if I find not what I seek, show no colour for my extremity; let me for ever be your table-sport; let them say of me, 'As jealous as Ford, that searched a hollow walnut for his wife's leman.' Satisfy me once more; once more search with me.
+<SPEECH 77><ACT 4><SCENE 2><75%>
+	Old woman! What old woman's that?
+<SPEECH 78><ACT 4><SCENE 2><75%>
+	A witch, a quean, an old cozening quean! Have I not forbid her my house? She comes of errands, does she? We are simple men; we do not know what's brought to pass under the profession of fortune-telling. She works by charms, by spells, by the figure, and such daubery as this is, beyond our element: we know nothing. Come down, you witch, you hag, you; come down, I say!
+<SPEECH 79><ACT 4><SCENE 2><76%>
+	I'll 'prat' her.—<STAGE DIR>
+	</STAGE DIR> Out of my door, you witch, you rag, you baggage, you polecat, you ronyon! out, out! I'll conjure you, I'll fortune-tell you.
+<SPEECH 80><ACT 4><SCENE 2><76%>
+	Hang her, witch!
+<SPEECH 81><ACT 4><SCENE 2><76%>
+	Will you follow, gentlemen? I beseech you, follow: see but the issue of my jealousy. If I cry out thus upon no trail, never trust me when I open again.
+<SPEECH 82><ACT 4><SCENE 4><78%>
+	Pardon me, wife. Henceforth do what thou wilt;
+	I rather will suspect the sun with cold
+	Than thee with wantonness: now doth thy honour stand,
+	In him that was of late an heretic,
+	As firm as faith.
+<SPEECH 83><ACT 4><SCENE 4><79%>
+	There is no better way than that they spoke of.
+<SPEECH 84><ACT 4><SCENE 4><80%>
+	The children must
+	Be practis'd well to this, or they'll ne'er do't.
+<SPEECH 85><ACT 4><SCENE 4><80%>
+	That will be excellent. I'll go buy them vizards.
+<SPEECH 86><ACT 4><SCENE 4><81%>
+	Nay, I'll to him again in name of Brook;
+	He'll tell me all his purpose. Sure, he'll come.
+<SPEECH 87><ACT 5><SCENE 1><88%>
+	Went you not to her yesterday, sir, as you told me you had appointed?
+<SPEECH 88><ACT 5><SCENE 5><95%>
+	Now sir, who's a cuckold now? Master Brook, Falstaff's a knave, a cuckoldly knave; here are his horns, Master Brook: and, Master Brook, he hath enjoyed nothing of Ford's but his buck-basket, his cudgel, and twenty pounds of money, which must be paid too, Master Brook; his horses are arrested for it, Master Brook.
+<SPEECH 89><ACT 5><SCENE 5><96%>
+	Ay, and an ox too; both the proofs are extant.
+<SPEECH 90><ACT 5><SCENE 5><96%>
+	Well said, fairy Hugh.
+<SPEECH 91><ACT 5><SCENE 5><96%>
+	I will never mistrust my wife again, till thou art able to woo her in good English.
+<SPEECH 92><ACT 5><SCENE 5><97%>
+	What, a hodge-pudding? a bag of flax?
+<SPEECH 93><ACT 5><SCENE 5><97%>
+	And one that is as slanderous as Satan?
+<SPEECH 94><ACT 5><SCENE 5><97%>
+	And as wicked as his wife?
+<SPEECH 95><ACT 5><SCENE 5><97%>
+	Marry, sir, we'll bring you to Windsor, to one Master Brook, that you have cozened of money, to whom you should have been a pander: over and above that you have suffered, I think, to repay that money will be a biting affliction.
+<SPEECH 96><ACT 5><SCENE 5><97%>
+	Well, here's my hand: all is forgiven at last.
+<SPEECH 97><ACT 5><SCENE 5><99%>
+	This is strange. Who hath got the right Anne?
+<SPEECH 98><ACT 5><SCENE 5><99%>
+	Stand not amaz'd: here is no remedy:
+	In love the heavens themselves do guide the state:
+	Money buys lands, and wives are sold by fate.
+<SPEECH 99><ACT 5><SCENE 5><100%>
+	Let it be so. Sir John,
+	To Master Brook you yet shall hold your word;
+	For he to-night shall lie with Mistress Ford.

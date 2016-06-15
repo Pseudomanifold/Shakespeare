@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 2><SCENE 4><37%>
+	So am I given in charge, may't please your Grace.
+<SPEECH 2><ACT 2><SCENE 4><37%>
+	Why, madam, that is to the Isle of Man;
+	There to be us'd according to your state.
+<SPEECH 3><ACT 2><SCENE 4><37%>
+	Like to a duchess, and Duke Humphrey's lady:
+	According to that state you shall be us'd.
+<SPEECH 4><ACT 2><SCENE 4><38%>
+	Madam, your penance done, throw off this sheet,
+	And go we to attire you for our journey.

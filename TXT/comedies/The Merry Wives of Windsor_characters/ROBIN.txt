@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 2><SCENE 2><30%>
+	Sir, here's a woman would speak with you.
+<SPEECH 2><ACT 3><SCENE 2><47%>
+	I had rather, forsooth, go before you like a man than follow him like a dwarf.
+<SPEECH 3><ACT 3><SCENE 2><47%>
+	Sir John Falstaff.
+<SPEECH 4><ACT 3><SCENE 3><50%>
+	My master, Sir John, is come in at your back-door, Mistress Ford, and requests your company.
+<SPEECH 5><ACT 3><SCENE 3><51%>
+	Ay, I'll be sworn. My master knows not of your being here, and hath threatened to put me into everlasting liberty if I tell you of it; for he swears he'll turn me away.
+<SPEECH 6><ACT 3><SCENE 3><53%>
+	</STAGE DIR> Mistress Ford! Mistress Ford! here's Mistress Page at the door, sweating and blowing and looking wildly, and would needs speak with you presently.

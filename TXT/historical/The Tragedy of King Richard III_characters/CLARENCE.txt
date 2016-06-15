@@ -1,0 +1,195 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	His majesty,
+	Tendering my person's safety, hath appointed
+	This conduct to convey me to the Tower.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Because my name is George.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Yea, Richard, when I know; for I protest
+	As yet I do not: but, as I can learn,
+	He hearkens after prophecies and dreams;
+	And from the cross-row plucks the letter G,
+	And says a wizard told him that by G
+	His issue disinherited should be;
+	And, for my name of George begins with G,
+	It follows in his thought that I am he.
+	These, as I learn, and such like toys as these,
+	Have mov'd his highness to commit me now.
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	By heaven, I think there is no man secure
+	But the queen's kindred and night-walking heralds
+	That trudge betwixt the king and Mistress Shore.
+	Heard you not what a humble suppliant
+	Lord Hastings was to her for his delivery?
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	We know thy charge, Brakenbury, and will obey.
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	I know it pleaseth neither of us well.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	I must perforce: farewell.
+<SPEECH 8><ACT 1><SCENE 4><21%>
+	O, I have pass'd a miserable night,
+	So full of ugly sights, of ghastly dreams,
+	That, as I am a Christian faithful man,
+	I would not spend another such a night,
+	Though 'twere to buy a world of happy days,
+	So full of dismal terror was the time.
+<SPEECH 9><ACT 1><SCENE 4><21%>
+	Methought that I had broken from the Tower,
+	And was embark'd to cross to Burgundy;
+	And in my company my brother Gloucester,
+	Who from my cabin tempted me to walk
+	Upon the hatches: thence we look'd toward England,
+	And cited up a thousand heavy times,
+	During the wars of York and Lancaster,
+	That had befall'n us. As we pac'd along
+	Upon the giddy footing of the hatches,
+	Methought that Gloucester stumbled; and, in falling,
+	Struck me, that thought to stay him, overboard,
+	Into the tumbling billows of the main.
+	Lord, Lord! methought what pain it was to drown:
+	What dreadful noise of water in mine ears!
+	What sights of ugly death within mine eyes!
+	Methought I saw a thousand fearful wracks;
+	A thousand men that fishes gnaw'd upon;
+	Wedges of gold, great anchors, heaps of pearl,
+	Inestimable stones, unvalu'd jewels,
+	All scatter'd in the bottom of the sea.
+	Some lay in dead men's skulls; and in those holes
+	Where eyes did once inhabit, there were crept,
+	As 'twere in scorn of eyes, reflecting gems,
+	That woo'd the slimy bottom of the deep,
+	And mock'd the dead bones that lay scatter'd by.
+<SPEECH 10><ACT 1><SCENE 4><22%>
+	Methought I had; and often did I strive
+	To yield the ghost; but still the envious flood
+	Stopt in my soul, and would not let it forth
+	To find the empty, vast, and wandering air;
+	But smother'd it within my panting bulk,
+	Which almost burst to belch it in the sea.
+<SPEECH 11><ACT 1><SCENE 4><22%>
+	No, no, my dream was lengthen'd after life;
+	O! then began the tempest to my soul.
+	I pass'd, methought, the melancholy flood,
+	With that grim ferryman which poets write of,
+	Unto the kingdom of perpetual night.
+	The first that there did greet my stranger soul,
+	Was my great father-in-law, renowned Warwick;
+	Who cried aloud, 'What scourge for perjury
+	Can this dark monarchy afford false Clarence?'
+	And so he vanish'd: then came wandering by
+	A shadow like an angel, with bright hair
+	Dabbled in blood; and he shriek'd out aloud,
+	'Clarence is come,—false, fleeting, perjur'd Clarence,
+	That stabb'd me in the field by Tewksbury;—
+	Seize on him! Furies, take him unto torment.'
+	With that, methought, a legion of foul fiends
+	Environ'd me, and howled in mine ears
+	Such hideous cries, that, with the very noise
+	I trembling wak'd, and, for a season after
+	Could not believe but that I was in hell,
+	Such terrible impression made my dream.
+<SPEECH 12><ACT 1><SCENE 4><23%>
+	O Brakenbury! I have done these things
+	That now give evidence against my soul,
+	For Edward's sake; and see how he requites me.
+	O God! if my deep prayers cannot appease thee,
+	But thou wilt be aveng'd on my misdeeds,
+	Yet execute thy wrath on me alone:
+	O! spare my guiltless wife and my poor children.
+	I pray thee, gentle keeper, stay by me;
+	My soul is heavy, and I fain would sleep.
+<SPEECH 13><ACT 1><SCENE 4><25%>
+	Where art thou, keeper? give me a cup of wine.
+<SPEECH 14><ACT 1><SCENE 4><25%>
+	In God's name, what art thou?
+<SPEECH 15><ACT 1><SCENE 4><25%>
+	But not, as I am, royal.
+<SPEECH 16><ACT 1><SCENE 4><25%>
+	Thy voice is thunder, but thy looks are humble.
+<SPEECH 17><ACT 1><SCENE 4><25%>
+	How darkly, and how deadly dost thou speak!
+	Your eyes do menace me: why look you pale?
+	Who sent you hither? Wherefore do you come?
+<SPEECH 18><ACT 1><SCENE 4><25%>
+	To murder me?
+<SPEECH 19><ACT 1><SCENE 4><26%>
+	You scarcely have the hearts to tell me so,
+	And therefore cannot have the hearts to do it.
+	Wherein, my friends, have I offended you?
+<SPEECH 20><ACT 1><SCENE 4><26%>
+	I shall be reconcil'd to him again.
+<SPEECH 21><ACT 1><SCENE 4><26%>
+	Are you call'd forth from out a world of men
+	To slay the innocent? What is my offence?
+	Where is the evidence that doth accuse me?
+	What lawful quest have given their verdict up
+	Unto the frowning judge? or who pronounc'd
+	The bitter sentence of poor Clarence' death?
+	Before I be convict by course of law,
+	To threaten me with death is most unlawful.
+	I charge you, as you hope to have redemption
+	By Christ's dear blood shed for our grievous sins,
+	That you depart and lay no hands on me;
+	The deed you undertake is damnable.
+<SPEECH 22><ACT 1><SCENE 4><26%>
+	Erroneous vassal! the great King of kings
+	Hath in the table of his law commanded
+	That thou shalt do no murder: will you, then,
+	Spurn at his edict and fulfil a man's?
+	Take heed; for he holds vengeance in his hand,
+	To hurl upon their heads that break his law.
+<SPEECH 23><ACT 1><SCENE 4><26%>
+	Alas! for whose sake did I that ill deed?
+	For Edward, for my brother, for his sake:
+	He sends you not to murder me for this;
+	For in that sin he is as deep as I.
+	If God will be avenged for the deed,
+	O! know you yet, he doth it publicly:
+	Take not the quarrel from his powerful arm;
+	He needs no indirect or lawless course
+	To cut off those that have offended him.
+<SPEECH 24><ACT 1><SCENE 4><27%>
+	My brother's love, the devil, and my rage.
+<SPEECH 25><ACT 1><SCENE 4><27%>
+	If you do love my brother, hate not me;
+	I am his brother, and I love him well.
+	If you are hir'd for meed, go back again,
+	And I will send you to my brother Gloucester,
+	Who shall reward you better for my life
+	Than Edward will for tidings of my death.
+<SPEECH 26><ACT 1><SCENE 4><27%>
+	O, no! he loves me, and he holds me dear:
+	Go you to him from me.
+<SPEECH 27><ACT 1><SCENE 4><27%>
+	Tell him, when that our princely father York
+	Bless'd his three sons with his victorious arm,
+	And charg'd us from his soul to love each other,
+	He little thought of this divided friendship:
+	Bid Gloucester think on this, and he will weep.
+<SPEECH 28><ACT 1><SCENE 4><27%>
+	O! do not slander him, for he is kind.
+<SPEECH 29><ACT 1><SCENE 4><27%>
+	It cannot be; for he bewept my fortune,
+	And hugg'd me in his arms, and swore, with sobs,
+	That he would labour my delivery.
+<SPEECH 30><ACT 1><SCENE 4><28%>
+	Hast thou that holy feeling in thy soul,
+	To counsel me to make my peace with God,
+	And art thou yet to thy own soul so blind,
+	That thou wilt war with God by murdering me?
+	O! sirs, consider, he that set you on
+	To do this deed, will hate you for the deed.
+<SPEECH 31><ACT 1><SCENE 4><28%>
+	Relent and save your souls.
+<SPEECH 32><ACT 1><SCENE 4><28%>
+	Not to relent, is beastly, savage, devilish.
+	Which of you, if you were a prince's son,
+	Being pent from liberty, as I am now,
+	If two such murd'rers as yourselves came to you,
+	Would not entreat for life?
+	My friend, I spy some pity in thy looks;
+	O! if thine eye be not a flatterer,
+	Come thou on my side, and entreat for me,
+	As you would beg, were you in my distress:
+	A begging prince what beggar pities not?

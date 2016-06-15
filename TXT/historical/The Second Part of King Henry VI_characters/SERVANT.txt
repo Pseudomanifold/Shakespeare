@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 2><SCENE 4><34%>
+	Ten, my lord.
+<SPEECH 2><ACT 2><SCENE 4><35%>
+	So please your Grace, we'll take her from the sheriff.

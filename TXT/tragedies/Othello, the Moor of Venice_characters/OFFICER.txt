@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	'Tis true, most worthy signior;
+	The duke's in council, and your noble self,
+	I am sure, is sent for.
+<SPEECH 2><ACT 1><SCENE 3><9%>
+	A messenger from the galleys.
+<SPEECH 3><ACT 1><SCENE 3><10%>
+	Here is more news.

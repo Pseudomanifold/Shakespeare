@@ -1,0 +1,184 @@
+<SPEECH 1><ACT 1><SCENE 3><16%>
+	Is't possible the spells of France should juggle
+	Men into such strange mysteries?
+<SPEECH 2><ACT 1><SCENE 3><16%>
+	As far as I see, all the good our English
+	Have got by the late voyage is but merely
+	A fit or two o' the face; but they are shrewd ones;
+	For when they hold 'em, you would swear directly
+	Their very noses had been counsellors
+	To Pepin or Clotharius, they keep state so.
+<SPEECH 3><ACT 1><SCENE 3><17%>
+	Death! my lord,
+	Their clothes are after such a pagan cut too,
+	That, sure, they've worn out Christendom.
+	How now!
+	What news, Sir Thomas Lovell?
+<SPEECH 4><ACT 1><SCENE 3><17%>
+	What is't for?
+<SPEECH 5><ACT 1><SCENE 3><17%>
+	I am glad 'tis there: now I would pray our monsieurs
+	To think an English courtier may be wise,
+	And never see the Louvre.
+<SPEECH 6><ACT 1><SCENE 3><17%>
+	What a loss our ladies
+	Will have of these trim vanities!
+<SPEECH 7><ACT 1><SCENE 3><18%>
+	Well said, Lord Sands;
+	Your colt's tooth is not cast yet.
+<SPEECH 8><ACT 1><SCENE 3><18%>
+	Sir Thomas,
+	Whither were you a-going?
+<SPEECH 9><ACT 1><SCENE 3><18%>
+	O! 'tis true:
+	This night he makes a supper, and a great one,
+	To many lords and ladies; there will be
+	The beauty of this kingdom, I'll assure you.
+<SPEECH 10><ACT 1><SCENE 3><18%>
+	No doubt he's noble;
+	He had a black mouth that said other of him.
+<SPEECH 11><ACT 1><SCENE 3><18%>
+	True, they are so;
+	But few now give so great ones. My barge stays;
+	Your lordship shall along. Come, good Sir Thomas,
+	We shall be late else; which I would not be,
+	For I was spoke to, with Sir Henry Guildford,
+	This night to be comptrollers.
+<SPEECH 12><ACT 1><SCENE 4><19%>
+	You are young, Sir Harry Guildford.
+<SPEECH 13><ACT 1><SCENE 4><19%>
+	Sweet ladies, will it please you sit? Sir Harry,
+	Place you that side, I'll take the charge of this;
+	His Grace is ent'ring. Nay you must not freeze;
+	Two women plac'd together makes cold weather:
+	My Lord Sands, you are one will keep 'em waking;
+	Pray, sit between these ladies.
+<SPEECH 14><ACT 1><SCENE 4><20%>
+	Well said, my lord.
+	So, now you're fairly seated. Gentlemen,
+	The penance lies on you, if these fair ladies
+	Pass away frowning.
+<SPEECH 15><ACT 1><SCENE 4><21%>
+	Look out there, some of ye.
+<SPEECH 16><ACT 1><SCENE 4><21%>
+	How now, what is't?
+<SPEECH 17><ACT 1><SCENE 4><21%>
+	Because they speak no English, thus they pray'd
+	To tell your Grace: that, having heard by fame
+	Of this so noble and so fair assembly
+	This night to meet here, they could do no less,
+	Out of the great respect they bear to beauty,
+	But leave their flocks; and, under your fair conduct,
+	Crave leave to view these ladies, and entreat
+	An hour of revels with 'em.
+<SPEECH 18><ACT 1><SCENE 4><22%>
+	Your Grace?
+<SPEECH 19><ACT 1><SCENE 4><22%>
+	I will, my lord.
+<SPEECH 20><ACT 1><SCENE 4><22%>
+	Such a one, they all confess,
+	There is, indeed; which they would have your Grace
+	Find out, and he will take it.
+<SPEECH 21><ACT 1><SCENE 4><23%>
+	An't please your Grace, Sir Thomas Bullen's daughter,
+	The Viscount Rochford, one of her highness' women.
+<SPEECH 22><ACT 2><SCENE 2><29%>
+	My lord, The horses your lordship sent for, with all the care I had, I saw well chosen, ridden, and furnished. They were young and handsome, and of the best breed in the north. When they were ready to set out for London, a man of my Lord Cardinal's, by commission and main power, took them from me; with this reason: His master would be served before a subject, if not before the king; which stopped our mouths, sir.
+	I fear he will indeed. Well, let him have them:
+	He will have all, I think.
+<SPEECH 23><ACT 2><SCENE 2><30%>
+	Good day to both your Graces.
+<SPEECH 24><ACT 2><SCENE 2><30%>
+	I left him private,
+	Full of sad thoughts and troubles.
+<SPEECH 25><ACT 2><SCENE 2><30%>
+	It seems the marriage with his brother's wife
+	Has crept too near his conscience.
+<SPEECH 26><ACT 2><SCENE 2><30%>
+	Heaven keep me from such counsel! 'Tis most true
+	These news are every where; every tongue speaks 'em,
+	And every true heart weeps for't. All that dare
+	Look into these affairs, see this main end,
+	The French king's sister. Heaven will one day open
+	The king's eyes, that so long have slept upon
+	This bold bad man.
+<SPEECH 27><ACT 2><SCENE 2><31%>
+	Excuse me;
+	The king hath sent me otherwhere: besides,
+	You'll find a most unfit time to disturb him:
+	Health to your lordships.
+<SPEECH 28><ACT 2><SCENE 3><36%>
+	Good morrow, ladies. What were't worth to know
+	The secret of your conference?
+<SPEECH 29><ACT 2><SCENE 3><36%>
+	It was a gentle business, and becoming
+	The action of good women: there is hope
+	All will be well.
+<SPEECH 30><ACT 2><SCENE 3><36%>
+	You bear a gentle mind, and heavenly blessings
+	Follow such creatures. That you may, fair lady,
+	Perceive I speak sincerely, and high note's
+	Ta'en of your many virtues, the king's majesty
+	Commends his good opinion of you, and
+	Does purpose honour to you no less flowing
+	Than Marchioness of Pembroke; to which title
+	A thousand pound a year, annual support,
+	Out of his grace he adds.
+<SPEECH 31><ACT 2><SCENE 3><37%>
+	Lady,
+	I shall not fail to approve the fair conceit
+	The king hath of you. <STAGE DIR>
+	</STAGE DIR> I have perus'd her well;
+	Beauty and honour in her are so mingled
+	That they have caught the king; and who knows yet
+	But from this lady may proceed a gem
+	To lighten all this isle? <STAGE DIR>
+	</STAGE DIR> I'll to the king,
+	And say, I spoke with you.
+<SPEECH 32><ACT 3><SCENE 2><53%>
+	My lords, you speak your pleasures:
+	What he deserves of you and me, I know;
+	What we can do to him,—though now the time
+	Gives way to us,—I much fear. If you cannot
+	Bar his access to the king, never attempt
+	Any thing on him, for he hath a witchcraft
+	Over the king in's tongue.
+<SPEECH 33><ACT 3><SCENE 2><54%>
+	The king in this perceives him, how he coasts
+	And hedges his own way. But in this point
+	All his tricks founder, and he brings his physic
+	After his patient's death: the king already
+	Hath married the fair lady.
+<SPEECH 34><ACT 3><SCENE 2><55%>
+	Now, God incense him,
+	And let him cry Ha! louder.
+<SPEECH 35><ACT 3><SCENE 2><64%>
+	O my lord!
+	Press not a falling man too far; 'tis virtue:
+	His faults lie open to the laws; let them,
+	Not you, correct him. My heart weeps to see him
+	So little of his great self.
+<SPEECH 36><ACT 5><SCENE 3><91%>
+	'Tis now too certain:
+	How much more is his life in value with him?
+	Would I were fairly out on't.
+<SPEECH 37><ACT 5><SCENE 4><96%>
+	Mercy o' me, what a multitude are here!
+	They grow still too, from all parts they are coming,
+	As if we kept a fair here! Where are these porters,
+	These lazy knaves? Ye have made a fine hand, fellows:
+	There's a trim rabble let in. Are all these
+	Your faithful friends o' the suburbs? We shall have
+	Great store of room, no doubt, left for the ladies,
+	When they pass back from the christening.
+<SPEECH 38><ACT 5><SCENE 4><96%>
+	As I live,
+	If the king blame me for't, I'll lay ye all
+	By the heels, and suddenly; and on your heads
+	Clap round fines for neglect: ye're lazy knaves;
+	And here ye lie baiting of bombards, when
+	Ye should do service. Hark! the trumpets sound;
+	They're come already from the christening.
+	Go, break among the press, and find a way out
+	To let the troop pass fairly, or I'll find
+	A Marshalsea shall hold ye play these two months.

@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 1><SCENE 2><14%>
+	Here, Peter Quince.
+<SPEECH 2><ACT 3><SCENE 1><37%>
+	I believe we must leave the killing out, when all is done.
+<SPEECH 3><ACT 3><SCENE 1><38%>
+	I fear it, I promise you.
+<SPEECH 4><ACT 4><SCENE 2><79%>
+	He cannot be heard of. Out of doubt he is transported.

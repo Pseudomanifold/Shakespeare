@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 3><SCENE 3><58%>
+	Your grant, or your denial, shall be mine:
+	</STAGE DIR> Yet I confess that often ere this day,
+	When I have heard your king's desert recounted,
+	Mine ear hath tempted judgment to desire.
+<SPEECH 2><ACT 3><SCENE 3><61%>
+	Dear brother, how shall Bona be reveng'd,
+	But by thy help to this distressed queen?
+<SPEECH 3><ACT 3><SCENE 3><61%>
+	My quarrel and this English queen's are one.
+<SPEECH 4><ACT 3><SCENE 3><61%>
+	Tell him, in hope he'll prove a widower shortly,
+	I'll wear the willow garland for his sake.

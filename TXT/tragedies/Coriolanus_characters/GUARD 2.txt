@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 5><SCENE 2><84%>
+	Stand! and go back.
+<SPEECH 2><ACT 5><SCENE 2><84%>
+	You'll see your Rome embrac'd with fire before
+	You'll speak with Coriolanus.
+<SPEECH 3><ACT 5><SCENE 2><85%>
+	Howsoever you have been his liar—as you say you have—I am one that, telling true under him, must say you cannot pass. Therefore go back.
+<SPEECH 4><ACT 5><SCENE 2><85%>
+	Come, my captain knows you not.
+<SPEECH 5><ACT 5><SCENE 2><87%>
+	'Tis a spell, you see, of much power. You know the way home again.
+<SPEECH 6><ACT 5><SCENE 2><87%>
+	What cause, do you think, I have to swound?
+<SPEECH 7><ACT 5><SCENE 2><87%>
+	The worthy fellow is our general: he is the rock, the oak not to be wind-shaken.

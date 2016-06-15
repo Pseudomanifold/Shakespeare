@@ -1,0 +1,108 @@
+<SPEECH 1><ACT 2><SCENE 1><31%>
+	Brutus, my lord!
+<SPEECH 2><ACT 2><SCENE 1><31%>
+	Nor for yours neither. You've ungently, Brutus,
+	Stole from my bed; and yesternight at supper
+	You suddenly arose, and walk'd about,
+	Musing and sighing, with your arms across,
+	And when I ask'd you what the matter was,
+	You star'd upon me with ungentle looks.
+	I urg'd you further; then you scratch'd your head,
+	And too impatiently stamp'd with your foot;
+	Yet I insisted, yet you answer'd not,
+	But, with an angry wafture of your hand.
+	Gave sign for me to leave you. So I did,
+	Fearing to strengthen that impatience
+	Which seem'd too much enkindled, and withal
+	Hoping it was but an effect of humour,
+	Which sometime hath his hour with every man.
+	It will not let you eat, nor talk, nor sleep,
+	And could it work so much upon your shape
+	As it hath much prevail'd on your condition,
+	I should not know you, Brutus. Dear my lord,
+	Make me acquainted with your cause of grief.
+<SPEECH 3><ACT 2><SCENE 1><32%>
+	Brutus is wise, and were he not in health,
+	He would embrace the means to come by it.
+<SPEECH 4><ACT 2><SCENE 1><32%>
+	Is Brutus sick, and is it physical
+	To walk unbraced and suck up the humours
+	Of the dank morning? What! is Brutus sick,
+	And will he steal out of his wholesome bed
+	To dare the vile contagion of the night,
+	And tempt the rheumy and unpurged air
+	To add unto his sickness? No, my Brutus;
+	You have some sick offence within your mind,
+	Which, by the right and virtue of my place,
+	I ought to know of; and, upon my knees,
+	I charm you, by my once-commended beauty,
+	By all your vows of love, and that great vow
+	Which did incorporate and make us one,
+	That you unfold to me, your self, your half,
+	Why are you heavy, and what men to-night
+	Have had resort to you; for here have been
+	Some six or seven, who did hide their faces
+	Even from darkness.
+<SPEECH 5><ACT 2><SCENE 1><33%>
+	I should not need, if you were gentle Brutus.
+	Within the bond of marriage, tell me, Brutus,
+	Is it excepted, I should know no secrets
+	That appertain to you? Am I yourself
+	But, as it were, in sort of limitation,
+	To keep with you at meals, comfort your bed,
+	And talk to you sometimes? Dwell I but in the suburbs
+	Of your good pleasure? If it be no more,
+	Portia is Brutus' harlot, not his wife.
+<SPEECH 6><ACT 2><SCENE 1><33%>
+	If this were true then should I know this secret.
+	I grant I am a woman, but, withal,
+	A woman that Lord Brutus took to wife;
+	I grant I am a woman, but, withal,
+	A woman well-reputed, Cato's daughter.
+	Think you I am no stronger than my sex,
+	Being so father'd and so husbanded?
+	Tell me your counsels, I will not disclose 'em.
+	I have made strong proof of my constancy,
+	Giving myself a voluntary wound
+	Here, in the thigh: can I bear that with patience
+	And not my husband's secrets?
+<SPEECH 7><ACT 2><SCENE 4><41%>
+	I prithee, boy, run to the senate-house;
+	Stay not to answer me, but get thee gone.
+	Why dost thou stay?
+<SPEECH 8><ACT 2><SCENE 4><41%>
+	I would have had thee there, and here again,
+	Ere I can tell thee what thou shouldst do there.
+	O constancy! be strong upon my side;
+	Set a huge mountain 'tween my heart and tongue;
+	I have a man's mind, but a woman's might.
+	How hard it is for women to keep counsel!
+	Art thou here yet?
+<SPEECH 9><ACT 2><SCENE 4><42%>
+	Yes, bring me word, boy, if thy lord look well,
+	For he went sickly forth; and take good note
+	What Cæsar doth, what suitors press to him.
+	Hark, boy! what noise is that?
+<SPEECH 10><ACT 2><SCENE 4><42%>
+	Prithee, listen well:
+	I heard a bustling rumour, like a fray,
+	And the wind brings it from the Capitol.
+<SPEECH 11><ACT 2><SCENE 4><42%>
+	Come hither, fellow: which way hast thou been?
+<SPEECH 12><ACT 2><SCENE 4><42%>
+	What is 't o'clock?
+<SPEECH 13><ACT 2><SCENE 4><42%>
+	Is Cæsar yet gone to the Capitol?
+<SPEECH 14><ACT 2><SCENE 4><42%>
+	Thou hast some suit to Cæsar, hast thou not?
+<SPEECH 15><ACT 2><SCENE 4><43%>
+	Why, know'st thou any harm's intended towards him?
+<SPEECH 16><ACT 2><SCENE 4><43%>
+	I must go in. Ay me! how weak a thing
+	The heart of woman is. O Brutus!
+	The heavens speed thee in thine enterprise.
+	Sure, the boy heard me: Brutus hath a suit
+	That Cæsar will not grant. O! I grow faint.
+	Run, Lucius, and commend me to my lord;
+	Say I am merry: come to me again,
+	And bring me word what he doth say to thee.

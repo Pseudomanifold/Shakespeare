@@ -1,0 +1,44 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+	Sir, I would advise you to shift a shirt; the violence of action hath made you reek as a sacrifice. Where air comes out, air comes in; there's none abroad so wholesome as that you vent.
+<SPEECH 2><ACT 1><SCENE 2><6%>
+	Hurt him! his body's a passable carcass if he be not hurt; it is a throughfare for steel if it be not hurt.
+<SPEECH 3><ACT 1><SCENE 2><6%>
+	Stand you! You have land enough of your own; but he added to your having, gave you some ground.
+<SPEECH 4><ACT 1><SCENE 2><7%>
+	Sir, as I told you always, her beauty and her brain go not together; she's a good sign, but I have seen small reflection of her wit.
+<SPEECH 5><ACT 1><SCENE 2><7%>
+	I'll attend your lordship.
+<SPEECH 6><ACT 2><SCENE 1><22%>
+	What got he by that? You have broke his pate with your bowl.
+<SPEECH 7><ACT 2><SCENE 1><23%>
+	Did you hear of a stranger that's come to court to-night?
+<SPEECH 8><ACT 2><SCENE 1><23%>
+	There's an Italian come; and 'tis thought, one of Leonatus' friends.
+<SPEECH 9><ACT 2><SCENE 1><23%>
+	One of your lordship's pages.
+<SPEECH 10><ACT 2><SCENE 1><23%>
+	You cannot derogate, my lord.
+<SPEECH 11><ACT 2><SCENE 3><26%>
+	Your lordship is the most patient man in loss, the most coldest that ever turned up ace.
+<SPEECH 12><ACT 2><SCENE 3><26%>
+	But not every man patient after the noble temper of your lordship. You are most hot and furious when you win.
+<SPEECH 13><ACT 2><SCENE 3><26%>
+	Day, my lord.
+<SPEECH 14><ACT 4><SCENE 3><72%>
+	Good my liege,
+	The day that she was missing he was here;
+	I dare be bound he's true and shall perform
+	All parts of his subjection loyally. For Cloten,
+	There wants no diligence in seeking him,
+	And will, no doubt, be found.
+<SPEECH 15><ACT 4><SCENE 3><72%>
+	So please-your majesty,
+	The Roman legions, all from Gallia drawn,
+	Are landed on your coast, with a supply
+	Of Roman gentlemen, by the senate sent.
+<SPEECH 16><ACT 4><SCENE 3><72%>
+	Good my liege,
+	Your preparation can affront no less
+	Than what you hear of; come more, for more you're ready:
+	The want is, but to put those powers in motion
+	That long to move.

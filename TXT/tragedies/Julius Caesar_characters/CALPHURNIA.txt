@@ -1,0 +1,33 @@
+<SPEECH 1><ACT 1><SCENE 2><4%>
+	Here, my lord.
+<SPEECH 2><ACT 2><SCENE 2><36%>
+	What mean you, Cæsar? Think you to walk forth?
+	You shall not stir out of your house to-day.
+<SPEECH 3><ACT 2><SCENE 2><36%>
+	Cæsar, I never stood on ceremonies,
+	Yet now they fright me. There is one within,
+	Besides the things that we have heard and seen,
+	Recounts most horrid sights seen by the watch.
+	A lioness hath whelped in the streets;
+	And graves have yawn'd and yielded up their dead;
+	Fierce fiery warriors fought upon the clouds,
+	In ranks and squadrons and right form of war,
+	Which drizzled blood upon the Capitol;
+	The noise of battle hurtled in the air,
+	Horses did neigh, and dying men did groan,
+	And ghosts did shriek and squeal about the streets.
+	O Cæsar! these things are beyond all use,
+	And I do fear them.
+<SPEECH 4><ACT 2><SCENE 2><37%>
+	When beggars die there are no comets seen;
+	The heavens themselves blaze forth the death of princes.
+<SPEECH 5><ACT 2><SCENE 2><37%>
+	Alas! my lord,
+	Your wisdom is consum'd in confidence.
+	Do not go forth to-day: call it my fear
+	That keeps you in the house, and not your own.
+	We'll send Mark Antony to the senate-house,
+	And he shall say you are not well to-day:
+	Let me, upon my knee, prevail in this.
+<SPEECH 6><ACT 2><SCENE 2><38%>
+	Say he is sick.

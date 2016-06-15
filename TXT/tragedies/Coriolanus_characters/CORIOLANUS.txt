@@ -1,0 +1,809 @@
+<SPEECH 1><ACT 1><SCENE 1><22%>
+	I will go wash;
+	And when my face is fair, you shall perceive
+	Whether I blush, or no: howbeit, I thank you.
+	I mean to stride your steed, and at all times
+	To undercrest your good addition
+	To the fairness of my power.
+<SPEECH 2><ACT 1><SCENE 1><22%>
+	The gods begin to mock me. I, that now
+	Refus'd most princely gifts, am bound to beg
+	Of my lord general.
+<SPEECH 3><ACT 1><SCENE 1><22%>
+	I sometime lay here in Corioli
+	At a poor man's house; he us'd me kindly:
+	He cried to me; I saw him prisoner;
+	But then Aufidius was within my view,
+	And wrath o'erwhelm'd my pity: I request you
+	To give my poor host freedom.
+<SPEECH 4><ACT 1><SCENE 1><23%>
+	By Jupiter! forgot.
+	I am weary; yea, my memory is tir'd.
+	Have we no wine here?
+<SPEECH 5><ACT 2><SCENE 1><28%>
+	No more of this; it does offend my heart:
+	Pray now, no more.
+<SPEECH 6><ACT 2><SCENE 1><28%>
+	O!
+	You have, I know, petition'd all the gods
+	For my prosperity.
+<SPEECH 7><ACT 2><SCENE 1><29%>
+	My gracious silence, hail!
+	Wouldst thou have laugh'd had I come coffin'd home,
+	That weep'st to see me triumph? Ah! my dear,
+	Such eyes the widows in Corioli wear,
+	And mothers that lack sons.
+<SPEECH 8><ACT 2><SCENE 1><29%>
+	And live you yet? <STAGE DIR>
+	</STAGE DIR> O my sweet lady, pardon.
+<SPEECH 9><ACT 2><SCENE 1><29%>
+	Menenius, ever, ever.
+<SPEECH 10><ACT 2><SCENE 1><29%>
+	</STAGE DIR> Your hand, and yours:
+	Ere in our own house I do shade my head,
+	The good patricians must be visited;
+	From whom I have receiv'd not only greetings,
+	But with them change of honours.
+<SPEECH 11><ACT 2><SCENE 1><29%>
+	Know, good mother,
+	I had rather be their servant in my way
+	Than sway with them in theirs.
+<SPEECH 12><ACT 2><SCENE 2><34%>
+	Your honours' pardon:
+	I had rather have my wounds to heal again
+	Than hear say how I got them.
+<SPEECH 13><ACT 2><SCENE 2><34%>
+	No, sir: yet oft,
+	When blows have made me stay, I fled from words.
+	You sooth'd not, therefore hurt not. But your people,
+	I love them as they weigh.
+<SPEECH 14><ACT 2><SCENE 2><34%>
+	I had rather have one scratch my head i' the sun
+	When the alarum were struck than idly sit
+	To hear my nothings monster'd.
+<SPEECH 15><ACT 2><SCENE 2><35%>
+	I do owe them still
+	My life and services.
+<SPEECH 16><ACT 2><SCENE 2><35%>
+	I do beseech you,
+	Let me o'erleap that custom, for I cannot
+	Put on the gown, stand naked, and entreat them,
+	For my wounds' sake, to give their suffrage: please you,
+	That I may pass this doing.
+<SPEECH 17><ACT 2><SCENE 2><36%>
+	It is a part
+	That I shall blush in acting, and might well
+	Be taken from the people.
+<SPEECH 18><ACT 2><SCENE 2><36%>
+	To brag unto them, thus I did, and thus;
+	Show them the unaching scars which I should hide,
+	As if I had receiv'd them for the hire
+	Of their breath only!
+<SPEECH 19><ACT 2><SCENE 3><38%>
+	What must I say?
+	'I pray, sir,'—Plague upon't! I cannot bring
+	My tongue to such a pace. 'Look, sir, my wounds!
+	I got them in my country's service, when
+	Some certain of your brethren roar'd and ran
+	From the noise of our own drums.'
+<SPEECH 20><ACT 2><SCENE 3><38%>
+	Think upon me! Hang 'em!
+	I would they would forget me, like the virtues
+	Which our divines lose by 'em.
+<SPEECH 21><ACT 2><SCENE 3><38%>
+	Bid them wash their faces,
+	And keep their teeth clean.
+	So, here comes a brace.
+	You know the cause, sir, of my standing here?
+<SPEECH 22><ACT 2><SCENE 3><38%>
+	Mine own desert.
+<SPEECH 23><ACT 2><SCENE 3><38%>
+	Ay, not mine own desire.
+<SPEECH 24><ACT 2><SCENE 3><38%>
+	No, sir, 'twas never my desire yet to trouble the poor with begging.
+<SPEECH 25><ACT 2><SCENE 3><38%>
+	Well, then, I pray, your price o' the consulship?
+<SPEECH 26><ACT 2><SCENE 3><38%>
+	Kindly! sir, I pray, let me ha 't: I have wounds to show you, which shall be yours in private. Your good voice, sir; what say you?
+<SPEECH 27><ACT 2><SCENE 3><39%>
+	A match, sir. There is in all two worthy voices begged. I have your alms: adieu.
+<SPEECH 28><ACT 2><SCENE 3><39%>
+	Pray you now, if it may stand with the tune of your voices that I may be consul, I have here the customary gown.
+<SPEECH 29><ACT 2><SCENE 3><39%>
+	Your enigma?
+<SPEECH 30><ACT 2><SCENE 3><39%>
+	You should account me the more virtuous that I have not been common in my love. I will, sir, flatter my sworn brother the people, to earn a dearer estimation of them; 'tis a condition they account gentle: and since the wisdom of their choice is rather to have my hat than my heart, I will practise the insinuating nod, and be off to them most counterfeitly; that is, sir, I will counterfeit the bewitchment of some popular man, and give it bountifully to the desirers. Therefore, beseech you, I may be consul.
+<SPEECH 31><ACT 2><SCENE 3><39%>
+	I will not seal your knowledge with showing them. I will make much of your voices, and so trouble you no further.
+<SPEECH 32><ACT 2><SCENE 3><40%>
+	Most sweet voices!
+	Better it is to die, better to starve,
+	Than crave the hire which first we do deserve.
+	Why in this woolvish toge should I stand here,
+	To beg of Hob and Dick, that do appear,
+	Their needless vouches? Custom calls me to 't:
+	What custom wills, in all things should we do 't,
+	The dust on antique time would lie unswept,
+	And mountainous error be too highly heap'd
+	For truth to o'er-peer. Rather than fool it so,
+	Let the high office and the honour go
+	To one that would do thus. I am half through;
+	The one part suffer'd, the other will I do.
+	Here come more voices.
+	Your voices: for your voices I have fought;
+	Watch'd for your voices; for your voices bear
+	Of wounds two dozen odd; battles thrice six
+	I have seen and heard of; for your voices have
+	Done many things, some less, some more; your voices:
+	Indeed, I would be consul.
+<SPEECH 33><ACT 2><SCENE 3><40%>
+	Worthy voices!
+<SPEECH 34><ACT 2><SCENE 3><40%>
+	Is this done?
+<SPEECH 35><ACT 2><SCENE 3><40%>
+	Where? at the senate-house?
+<SPEECH 36><ACT 2><SCENE 3><41%>
+	May I change these garments?
+<SPEECH 37><ACT 2><SCENE 3><41%>
+	That I'll straight do; and, knowing myself again,
+	Repair to the senate-house.
+<SPEECH 38><ACT 3><SCENE 1><44%>
+	Tullus Aufidius then had made new head?
+<SPEECH 39><ACT 3><SCENE 1><44%>
+	So then the Volsces stand but as at first,
+	Ready, when time shall prompt them, to make road
+	Upon 's again.
+<SPEECH 40><ACT 3><SCENE 1><44%>
+	Saw you Aufidius?
+<SPEECH 41><ACT 3><SCENE 1><44%>
+	Spoke he of me?
+<SPEECH 42><ACT 3><SCENE 1><44%>
+	How? what?
+<SPEECH 43><ACT 3><SCENE 1><44%>
+	At Antium lives he?
+<SPEECH 44><ACT 3><SCENE 1><45%>
+	I wish I had a cause to seek him there,
+	To oppose his hatred fully. Welcome home.
+	Behold! these are the tribunes of the people,
+	The tongues o' the common mouth: I do despise them;
+	For they do prank them in authority
+	Against all noble sufferance.
+<SPEECH 45><ACT 3><SCENE 1><45%>
+	Ha! what is that?
+<SPEECH 46><ACT 3><SCENE 1><45%>
+	What makes this change?
+<SPEECH 47><ACT 3><SCENE 1><45%>
+	Have I had children's voices?
+<SPEECH 48><ACT 3><SCENE 1><45%>
+	Are these your herd?
+	Must these have voices, that can yield them now,
+	And straight disclaim their tongues? What are your offices?
+	You being their mouths, why rule you not their teeth?
+	Have you not set them on?
+<SPEECH 49><ACT 3><SCENE 1><45%>
+	It is a purpos'd thing, and grows by plot,
+	To curb the will of the nobility:
+	Suffer't, and live with such as cannot rule
+	Nor ever will be rul'd.
+<SPEECH 50><ACT 3><SCENE 1><45%>
+	Why, this was known before.
+<SPEECH 51><ACT 3><SCENE 1><45%>
+	Have you inform'd them sithence?
+<SPEECH 52><ACT 3><SCENE 1><45%>
+	You are like to do such business.
+<SPEECH 53><ACT 3><SCENE 1><45%>
+	Why then should I be consul? By yond clouds,
+	Let me deserve so ill as you, and make me
+	Your fellow tribune.
+<SPEECH 54><ACT 3><SCENE 1><46%>
+	Tell me of corn!
+	This was my speech, and I will speak't again,—
+<SPEECH 55><ACT 3><SCENE 1><46%>
+	Now, as I live, I will. My nobler friends,
+	I crave their pardons:
+	For the mutable, rank-scented many, let them
+	Regard me as I do not flatter, and
+	Therein behold themselves: I say again,
+	In soothing them we nourish 'gainst our senate
+	The cockle of rebellion, insolence, sedition,
+	Which we ourselves have plough'd for, sow'd and scatter'd,
+	By mingling them with us, the honour'd number;
+	Who lack'd not virtue, no, nor power, but that
+	Which they have given to beggars.
+<SPEECH 56><ACT 3><SCENE 1><46%>
+	How! no more!
+	As for my country I have shed my blood,
+	Not fearing outward force, so shall my lungs
+	Coin words till they decay against those measles,
+	Which we disdain should tetter us, yet sought
+	The very way to catch them.
+<SPEECH 57><ACT 3><SCENE 1><46%>
+	Choler!
+	Were I as patient as the midnight sleep,
+	By Jove, 'twould be my mind!
+<SPEECH 58><ACT 3><SCENE 1><47%>
+	Shall remain!
+	Hear you this Triton of the minnows? mark you
+	His absolute 'shall?'
+<SPEECH 59><ACT 3><SCENE 1><47%>
+	'Shall!'
+	O good but most unwise patricians! why,
+	You grave but reckless senators, have you thus
+	Given Hydra here to choose an officer,
+	That with his peremptory 'shall,' being but
+	The horn and noise o' the monster's, wants not spirit
+	To say he'll turn your current in a ditch,
+	And make your channel his? If he have power,
+	Then vail your ignorance; if none, awake
+	Your dangerous lenity. If you are learned,
+	Be not as common fools; if you are not,
+	Let them have cushions by you. You are plebeians
+	If they be senators; and they are no less,
+	When, both your voices blended, the great'st taste
+	Most palates theirs. They choose their magistrate,
+	And such a one as he, who puts his 'shall,'
+	His popular 'shall,' against a graver bench
+	Than ever frown'd in Greece. By Jove himself!
+	It makes the consuls base; and my soul aches
+	To know, when two authorities are up;
+	Neither supreme, how soon confusion
+	May enter 'twixt the gap of both and take
+	The one by the other.
+<SPEECH 60><ACT 3><SCENE 1><47%>
+	Whoever gave that counsel, to give forth
+	The corn o' the store-house gratis, as 'twas us'd
+	Sometime in Greece,—
+<SPEECH 61><ACT 3><SCENE 1><47%>
+	Though there the people had more absolute power,
+	I say, they nourish'd disobedience, fed
+	The ruin of the state.
+<SPEECH 62><ACT 3><SCENE 1><47%>
+	I'll give my reasons,
+	More worthier than their voices. They know the corn
+	Was not our recompense, resting well assur'd
+	They ne'er did service for 't. Being press'd to the war,
+	Even when the navel of the state was touch'd,
+	They would not thread the gates: this kind of service
+	Did not deserve corn gratis. Being i' the war,
+	Their mutinies and revolts, wherein they show'd
+	Most valour, spoke not for them. The accusation
+	Which they have often made against the senate,
+	All cause unborn, could never be the motive
+	Of our so frank donation. Well, what then?
+	How shall this bisson multitude digest
+	The senate's courtesy? Let deeds express
+	What's like to be their words: 'We did request it;
+	We are the greater poll, and in true fear
+	They gave us our demands.' Thus we debase
+	The nature of our seats, and make the rabble
+	Call our cares, fears; which will in time break ope
+	The locks o' the senate, and bring in the crows
+	To peck the eagles.
+<SPEECH 63><ACT 3><SCENE 1><48%>
+	No, take more:
+	What may be sworn by, both divine and human,
+	Seal what I end withal! This double worship,
+	Where one part does disdain with cause, the other
+	Insult without all reason; where gentry, title, wisdom,
+	Cannot conclude, but by the yea and no
+	Of general ignorance,—it must omit
+	Real necessities, and give way the while
+	To unstable slightness: purpose so barr'd, it follows
+	Nothing is done to purpose. Therefore, beseech you,—
+	You that will be less fearful than discreet,
+	That love the fundamental part of state
+	More than you doubt the change on 't, that prefer
+	A noble life before a long, and wish
+	To jump a body with a dangerous physic
+	That's sure of death without it, at once pluck out
+	The multitudinous tongue; let them not lick
+	The sweet which is their poison. Your dishonour
+	Mangles true judgment, and bereaves the state
+	Of that integrity which should become it,
+	Not having the power to do the good it would,
+	For the ill which doth control 't.
+<SPEECH 64><ACT 3><SCENE 1><49%>
+	Thou wretch! despite o'erwhelm thee!
+	What should the people do with these bald tribunes?
+	On whom depending, their obedience fails
+	To the greater bench. In a rebellion,
+	When what's not meet, but what must be, was law,
+	Then were they chosen: in a better hour,
+	Let what is meet be said it must be meet,
+	And throw their power i' the dust.
+<SPEECH 65><ACT 3><SCENE 1><49%>
+	Hence, old goat!
+<SPEECH 66><ACT 3><SCENE 1><49%>
+	Hence, rotten thing! or I shall shake thy bones
+	Out of thy garments.
+<SPEECH 67><ACT 3><SCENE 1><50%>
+	No, I'll die here.
+	There's some among you have beheld me fighting:
+	Come, try upon yourselves what you have seen me.
+<SPEECH 68><ACT 3><SCENE 1><51%>
+	Stand fast;
+	We have as many friends as enemies.
+<SPEECH 69><ACT 3><SCENE 1><51%>
+	I would they were barbarians,—as they are,
+	Though in Rome litter'd,—not Romans,—as they are not,
+	Though calv'd i' the porch o' the Capitol,—
+<SPEECH 70><ACT 3><SCENE 1><51%>
+	On fair ground
+	I could beat forty of them.
+<SPEECH 71><ACT 3><SCENE 2><54%>
+	Let them pull all about mine ears; present me
+	Death on the wheel, or at wild horses' heels;
+	Or pile ten hills on the Tarpeian rock,
+	That the precipitation might down stretch
+	Below the beam of sight; yet will I still
+	Be thus to them.
+<SPEECH 72><ACT 3><SCENE 2><54%>
+	I muse my mother
+	Does not approve me further, who was wont
+	To call them woollen vassals, things created
+	To buy and sell with groats, to show bare heads
+	In congregations, to yawn, be still, and wonder,
+	When one but of my ordinance stood up
+	To speak of peace or war.
+	I talk of you:
+	Why did you wish me milder? Would you have me
+	False to my nature? Rather say I play
+	The man I am.
+<SPEECH 73><ACT 3><SCENE 2><55%>
+	Let go.
+<SPEECH 74><ACT 3><SCENE 2><55%>
+	Let them hang.
+<SPEECH 75><ACT 3><SCENE 2><55%>
+	What must I do?
+<SPEECH 76><ACT 3><SCENE 2><55%>
+	Well, what then? what then?
+<SPEECH 77><ACT 3><SCENE 2><55%>
+	For them! I cannot do it to the gods;
+	Must I then do't to them?
+<SPEECH 78><ACT 3><SCENE 2><55%>
+	Tush, tush!
+<SPEECH 79><ACT 3><SCENE 2><56%>
+	Why force you this?
+<SPEECH 80><ACT 3><SCENE 2><57%>
+	Must I go show them my unbarbed sconce?
+	Must I with my base tongue give to my noble heart
+	A lie that it must bear? Well, I will do't:
+	Yet, were there but this single plot to lose,
+	This mould of Marcius, they to dust should grind it,
+	And throw 't against the wind. To the market-place!
+	You have put me now to such a part which never
+	I shall discharge to the life.
+<SPEECH 81><ACT 3><SCENE 2><57%>
+	Well, I must do 't:
+	Away, my disposition, and possess me
+	Some harlot's spirit! My throat of war be turn'd,
+	Which quired with my drum, into a pipe
+	Small as a eunuch, or the virgin voice
+	That babies lulls asleep! The smiles of knaves
+	Tent in my cheeks, and school-boys' tears take up
+	The glasses of my sight! A beggar's tongue
+	Make motion through my lips, and my arm'd knees,
+	Who bow'd but in my stirrup, bend like his
+	That hath receiv'd an alms! I will not do 't,
+	Lest I surcease to honour mine own truth,
+	And by my body's action teach my mind
+	A most inherent baseness.
+<SPEECH 82><ACT 3><SCENE 2><58%>
+	Pray, be content:
+	Mother, I am going to the market-place;
+	Chide me no more. I'll mountebank their loves,
+	Cog their hearts from them, and come home belov'd
+	Of all the trades in Rome. Look, I am going:
+	Commend me to my wife. I'll return consul,
+	Or never trust to what my tongue can do
+	I' the way of flattery further.
+<SPEECH 83><ACT 3><SCENE 2><58%>
+	Pray you, let us go:
+	Let them accuse me by invention, I
+	Will answer in mine honour.
+<SPEECH 84><ACT 3><SCENE 2><58%>
+	Well, mildly be it then. Mildly!
+<SPEECH 85><ACT 3><SCENE 3><59%>
+	Ay, as an ostler, that for the poorest piece
+	Will bear the knave by the volume. The honour'd gods
+	Keep Rome in safety, and the chairs of justice
+	Supplied with worthy men! plant love among us!
+	Throng our large temples with the shows of peace,
+	And not our streets with war!
+<SPEECH 86><ACT 3><SCENE 3><60%>
+	First, hear me speak.
+<SPEECH 87><ACT 3><SCENE 3><60%>
+	Shall I be charg'd no further than this present?
+	Must all determine here?
+<SPEECH 88><ACT 3><SCENE 3><60%>
+	I am content.
+<SPEECH 89><ACT 3><SCENE 3><60%>
+	Scratches with briers,
+	Scars to move laughter only.
+<SPEECH 90><ACT 3><SCENE 3><60%>
+	What is the matter,
+	That being pass'd for consul with full voice
+	I am so dishonour'd that the very hour
+	You take it off again?
+<SPEECH 91><ACT 3><SCENE 3><60%>
+	Say, then: 'tis true, I ought so.
+<SPEECH 92><ACT 3><SCENE 3><60%>
+	How! Traitor!
+<SPEECH 93><ACT 3><SCENE 3><60%>
+	The fires i' the lowest hell fold-in the people!
+	Call me their traitor! Thou injurious tribune!
+	Within thine eyes sat twenty thousand deaths,
+	In thy hands clutch'd as many millions, in
+	Thy lying tongue both numbers, I would say
+	'Thou liest' unto thee with a voice as free
+	As I do pray the gods.
+<SPEECH 94><ACT 3><SCENE 3><61%>
+	What do you prate of service?
+<SPEECH 95><ACT 3><SCENE 3><61%>
+	You!
+<SPEECH 96><ACT 3><SCENE 3><61%>
+	I'll know no further:
+	Let them pronounce the steep Tarpeian death,
+	Vagabond exile, flaying, pent to linger
+	But with a grain a day, I would not buy
+	Their mercy at the price of one fair word,
+	Nor check my courage for what they can give,
+	To have 't with saying 'Good morrow.'
+<SPEECH 97><ACT 3><SCENE 3><62%>
+	You common cry of curs! whose breath I hate
+	As reek o' the rotten fens, whose loves I prize
+	As the dead carcases of unburied men
+	That do corrupt my air, I banish you;
+	And here remain with your uncertainty!
+	Let every feeble rumour shake your hearts!
+	Your enemies, with nodding of their plumes,
+	Fan you into despair! Have the power still
+	To banish your defenders; till at length
+	Your ignorance,—which finds not, till it feels,—
+	Making but reservation of yourselves,—
+	Still your own foes,—deliver you as most
+	Abated captives to some nation
+	That won you without blows! Despising,
+	For you, the city, thus I turn my back:
+	There is a world elsewhere.
+<SPEECH 98><ACT 4><SCENE 1><63%>
+	Come, leave your tears: a brief farewell: the beast
+	With many heads butts me away. Nay, mother,
+	Where is your ancient courage? you were us'd,
+	To say extremity was the trier of spirits;
+	That common chances common men could bear;
+	That when the sea was calm all boats alike
+	Show'd mastership in floating; fortune's blows,
+	When most struck home, being gentle wounded, craves
+	A noble cunning: you were us'd to load me
+	With precepts that would make invincible
+	The heart that conn'd them.
+<SPEECH 99><ACT 4><SCENE 1><63%>
+	Nay, I prithee, woman,—
+<SPEECH 100><ACT 4><SCENE 1><63%>
+	What, what, what!
+	I shall be lov'd when I am lack'd. Nay, mother,
+	Resume that spirit, when you were wont to say,
+	If you had been the wife of Hercules,
+	Six of his labours you'd have done, and sav'd
+	Your husband so much sweat. Cominius,
+	Droop not; adieu. Farewell, my wife! my mother!
+	I'll do well yet. Thou old and true Menenius,
+	Thy tears are salter than a younger man's.
+	And venomous to thine eyes. My sometime general,
+	I have seen thee stern, and thou hast oft beheld
+	Heart-hardening spectacles; tell these sad women
+	'Tis fond to wail inevitable strokes
+	As 'tis to laugh at them. My mother, you wot well
+	My hazards still have been your solace; and
+	Believe 't not lightly,—though I go alone
+	Like to a lonely dragon, that his fen
+	Makes fear'd and talk'd of more than seen,—your son
+	Will or exceed the common or be caught
+	With cautelous baits and practice.
+<SPEECH 101><ACT 4><SCENE 1><64%>
+	O the gods!
+<SPEECH 102><ACT 4><SCENE 1><64%>
+	Fare ye well:
+	Thou hast years upon thee; and thou art too full
+	Of the wars' surfeits, to go rove with one
+	That's yet unbruis'd: bring me but out at gate.
+	Come, my sweet wife, my dearest mother, and
+	My friends of noble touch, when I am forth,
+	Bid me farewell, and smile. I pray you, come.
+	While I remain above the ground you shall
+	Hear from me still; and never of me aught
+	But what is like me formerly.
+<SPEECH 103><ACT 4><SCENE 1><64%>
+	Give me thy hand:
+	Come.
+<SPEECH 104><ACT 4><SCENE 4><68%>
+	A goodly city is this Antium. City,
+	'Tis I that made thy widows: many an heir
+	Of these fair edifices 'fore my wars
+	Have I heard groan and drop: then, know me not,
+	Lest that thy wives with spits and boys with stones
+	In puny battle slay me.
+	Save you, sir.
+<SPEECH 105><ACT 4><SCENE 4><68%>
+	Direct me, if it be your will,
+	Where great Aufidius lies. Is he in Antium?
+<SPEECH 106><ACT 4><SCENE 4><68%>
+	Which is his house, beseech you?
+<SPEECH 107><ACT 4><SCENE 4><68%>
+	Thank you, sir. Farewell.
+	O world! thy slippery turns. Friends now fast sworn,
+	Whose double bosoms seem to wear one heart,
+	Whose hours, whose bed, whose meal, and exercise,
+	Are still together, who twin, as 'twere, in love
+	Unseparable, shall within this hour,
+	On a dissension of a doit, break out
+	To bitterest enmity: so, fellest foes,
+	Whose passions and whose plots have broke their sleep
+	To take the one the other, by some chance,
+	Some trick not worth an egg, shall grow dear friends
+	And interjoin their issues. So with me:
+	My birth-place hate I, and my love's upon
+	This enemy town. I'll enter: if he slay me,
+	He does fair justice; if he give me way,
+	I'll do his country service.
+<SPEECH 108><ACT 4><SCENE 5><69%>
+	A goodly house: the feast smells well; but I
+	Appear not like a guest.
+<SPEECH 109><ACT 4><SCENE 5><69%>
+	I have deserv'd no better entertainment,
+	In being Coriolanus.
+<SPEECH 110><ACT 4><SCENE 5><69%>
+	Away!
+<SPEECH 111><ACT 4><SCENE 5><69%>
+	Now, thou art troublesome.
+<SPEECH 112><ACT 4><SCENE 5><69%>
+	Let me but stand; I will not hurt your hearth.
+<SPEECH 113><ACT 4><SCENE 5><69%>
+	A gentleman.
+<SPEECH 114><ACT 4><SCENE 5><69%>
+	True, so I am.
+<SPEECH 115><ACT 4><SCENE 5><69%>
+	Follow your function; go, and batten on cold bits.
+<SPEECH 116><ACT 4><SCENE 5><70%>
+	Under the canopy.
+<SPEECH 117><ACT 4><SCENE 5><70%>
+	Ay.
+<SPEECH 118><ACT 4><SCENE 5><70%>
+	I' the city of kites and crows.
+<SPEECH 119><ACT 4><SCENE 5><70%>
+	No; I serve not thy master.
+<SPEECH 120><ACT 4><SCENE 5><70%>
+	Ay; 'tis an honester service than to meddle with thy mistress.
+	Thou prat'st, and prat'st: serve with thy trencher. Hence.
+<SPEECH 121><ACT 4><SCENE 5><70%>
+	</STAGE DIR> If, Tullus,
+	Not yet thou know'st me, and, seeing me, dost not
+	Think me for the man I am, necessity
+	Commands me name myself.
+<SPEECH 122><ACT 4><SCENE 5><70%>
+	A name unmusical to the Volscians' ears,
+	And harsh in sound to thine.
+<SPEECH 123><ACT 4><SCENE 5><70%>
+	Prepare thy brow to frown. Know'st thou me yet?
+<SPEECH 124><ACT 4><SCENE 5><70%>
+	My name is Caius Marcius, who hath done
+	To thee particularly, and to all the Volsces,
+	Great hurt and mischief; thereto witness may
+	My surname, Coriolanus: the painful service,
+	The extreme dangers, and the drops of blood
+	Shed for my thankless country, are requited
+	But with that surname; a good memory,
+	And witness of the malice and displeasure
+	Which thou shouldst bear me: only that name remains;
+	The cruelty and envy of the people,
+	Permitted by our dastard nobles, who
+	Have all forsook me, hath devour'd the rest;
+	And suffer'd me by the voice of slaves to be
+	Whoop'd out of Rome. Now this extremity
+	Hath brought me to thy hearth; not out of hope,
+	Mistake me not, to save my life; for if
+	I had fear'd death, of all the men i' the world
+	I would have 'voided thee; but in mere spite,
+	To be full quit of those my banishers,
+	Stand I before thee here. Then if thou hast
+	A heart of wreak in thee, that will revenge
+	Thine own particular wrongs and stop those maims
+	Of shame seen through thy country, speed thee straight,
+	And make my misery serve thy turn: so use it,
+	That my revengeful services may prove
+	As benefits to thee, for I will fight
+	Against my canker'd country with the spleen
+	Of all the under fiends. But if so be
+	Thou dar'st not this, and that to prove more fortunes
+	Thou art tir'd, then, in a word, I also am
+	Longer to live most weary, and present
+	My throat to thee and to thy ancient malice;
+	Which not to cut would show thee but a fool,
+	Since I have ever follow'd thee with hate,
+	Drawn tuns of blood out of thy country's breast,
+	And cannot live but to thy shame, unless
+	It be to do thee service.
+<SPEECH 125><ACT 4><SCENE 5><72%>
+	You bless me, gods!
+<SPEECH 126><ACT 5><SCENE 2><85%>
+	What's the matter?
+<SPEECH 127><ACT 5><SCENE 2><86%>
+	Away!
+<SPEECH 128><ACT 5><SCENE 2><86%>
+	Wife, mother, child, I know not. My affairs
+	Are servanted to others: though I owe
+	My revenge properly, my remission lies
+	In Volscian breasts. That we have been familiar,
+	Ingrate forgetfulness shall poison, rather
+	Than pity note how much. Therefore, be gone:
+	Mine ears against your suits are stronger than
+	Your gates against my force. Yet, for I lov'd thee,
+	Take this along; I writ it for thy sake,
+	And would have sent it. Another word, Menenius,
+	I will not hear thee speak. This man, Aufidius,
+	Was my belov'd in Rome: yet thou behold'st!
+<SPEECH 129><ACT 5><SCENE 3><87%>
+	We will before the walls of Rome to-morrow
+	Set down our host. My partner in this action,
+	You must report to the Volscian lords, how plainly
+	I have borne this business.
+<SPEECH 130><ACT 5><SCENE 3><87%>
+	This last old man,
+	Whom with a crack'd heart I have sent to Rome,
+	Lov'd me above the measure of a father;
+	Nay, godded me indeed. Their latest refuge
+	Was to send him; for whose old love I have,
+	Though I show'd sourly to him, once more offer'd
+	The first conditions, which they did refuse,
+	And cannot now accept, to grace him only
+	That thought he could do more. A very little
+	I have yielded to; fresh embassies and suits,
+	Nor from the state, nor private friends, hereafter
+	Will I lend ear to. <STAGE DIR>
+	</STAGE DIR> Ha! what shout is this?
+	Shall I be tempted to infringe my vow
+	In the same time 'tis made? I will not.
+	My wife comes foremost; then the honour'd mould
+	Wherein this trunk was fram'd, and in her hand
+	The grandchild to her blood. But out, affection!
+	All bond and privilege of nature, break!
+	Let it be virtuous to be obstinate.
+	What is that curtsy worth? or those doves' eyes,
+	Which can make gods forsworn? I melt, and am not
+	Of stronger earth than others. My mother bows,
+	As if Olympus to a molehill should
+	In supplication nod; and my young boy
+	Hath an aspect of intercession, which
+	Great nature cries, 'Deny not.' Let the Volsces
+	Plough Rome, and harrow Italy; I'll never
+	Be such a gosling to obey instinct, but stand
+	As if a man were author of himself
+	And knew no other kin.
+<SPEECH 131><ACT 5><SCENE 3><88%>
+	These eyes are not the same I wore in Rome.
+<SPEECH 132><ACT 5><SCENE 3><88%>
+	Like a dull actor now,
+	I have forgot my part, and I am out,
+	Even to a full disgrace. Best of my flesh,
+	Forgive my tyranny; but do not say
+	For that, 'Forgive our Romans.' O! a kiss
+	Long as my exile, sweet as my revenge!
+	Now, by the jealous queen of heaven, that kiss
+	I carried from thee, dear, and my true lip
+	Hath virgin'd it e'er since. You gods! I prate,
+	And the most noble mother of the world
+	Leave unsaluted. Sink, my knee, i' the earth;
+	Of thy deep duty more impression show
+	Than that of common sons.
+<SPEECH 133><ACT 5><SCENE 3><89%>
+	What is this?
+	Your knees to me! to your corrected son!
+	Then let the pebbles on the hungry beach
+	Fillip the stars; then let the mutinous winds
+	Strike the proud cedars 'gainst the fiery sun,
+	Murd'ring impossibility, to make
+	What cannot be, slight work.
+<SPEECH 134><ACT 5><SCENE 3><89%>
+	The noble sister of Publicola,
+	The moon of Rome; chaste as the icicle
+	That's curdied by the frost from purest snow,
+	And hangs on Dian's temple: dear Valeria!
+<SPEECH 135><ACT 5><SCENE 3><89%>
+	The god of soldiers,
+	With the consent of supreme Jove, inform
+	Thy thoughts with nobleness; that thou mayst prove
+	To shame unvulnerable, and stick i' the wars
+	Like a great sea-mark, standing every flaw,
+	And saving those that eye thee!
+<SPEECH 136><ACT 5><SCENE 3><89%>
+	That's my brave boy!
+<SPEECH 137><ACT 5><SCENE 3><89%>
+	I beseech you, peace:
+	Or, if you'd ask, remember this before:
+	The things I have forsworn to grant may never
+	Be held by you denials. Do not bid me
+	Dismiss my soldiers, or capitulate
+	Again with Rome's mechanics: tell me not
+	Wherein I seem unnatural: desire not
+	To allay my rages and revenges with
+	Your colder reasons.
+<SPEECH 138><ACT 5><SCENE 3><90%>
+	Aufidius, and you Volsces, mark; for we'll
+	Hear nought from Rome in private. Your request?
+<SPEECH 139><ACT 5><SCENE 3><91%>
+	Not of a woman's tenderness to be,
+	Requires nor child nor woman's face to see.
+	I have sat too long.
+<SPEECH 140><ACT 5><SCENE 3><92%>
+	O, mother, mother!
+	What have you done? Behold! the heavens do ope,
+	The gods look down, and this unnatural scene
+	They laugh at. O my mother! mother! O!
+	You have won a happy victory to Rome;
+	But, for your son, believe it, O! believe it,
+	Most dangerously you have with him prevail'd,
+	If not most mortal to him. But let it come.
+	Aufidius, though I cannot make true wars,
+	I'll frame convenient peace. Now, good Aufidius,
+	Were you in my stead, would you have heard
+	A mother less, or granted less, Aufidius?
+<SPEECH 141><ACT 5><SCENE 3><92%>
+	I dare be sworn you were:
+	And, sir, it is no little thing to make
+	Mine eyes to sweat compassion. But, good sir,
+	What peace you'll make, advise me: for my part,
+	I'll not to Rome, I'll back with you; and pray you,
+	Stand to me in this cause. O mother! wife!
+<SPEECH 142><ACT 5><SCENE 3><93%>
+	Ay, by and by;
+	But we will drink together; and you shall bear
+	A better witness back than words, which we,
+	On like conditions, would have counter-seal'd.
+	Come, enter with us. Ladies, you deserve
+	To have a temple built you: all the swords
+	In Italy, and her confederate arms,
+	Could not have made this peace.
+<SPEECH 143><ACT 5><SCENE 5><98%>
+	Hail, lords! I am return'd your soldier;
+	No more infected with my country's love
+	Than when I parted hence, but still subsisting
+	Under your great command. You are to know,
+	That prosperously I have attempted and
+	With bloody passage led your wars even to
+	The gates of Rome. Our spoils we have brought home
+	Do more than counterpoise a full third part
+	The charges of the action. We have made peace
+	With no less honour to the Antiates
+	Than shame to the Romans; and we here deliver,
+	Subscrib'd by the consuls and patricians,
+	Together with the seal o' the senate, what
+	We have compounded on.
+<SPEECH 144><ACT 5><SCENE 5><98%>
+	Traitor! How now?
+<SPEECH 145><ACT 5><SCENE 5><98%>
+	Marcius!
+<SPEECH 146><ACT 5><SCENE 5><98%>
+	Hear'st thou, Mars?
+<SPEECH 147><ACT 5><SCENE 5><98%>
+	Ha!
+<SPEECH 148><ACT 5><SCENE 5><98%>
+	Measureless liar, thou hast made my heart
+	Too great for what contains it. Boy! O slave!
+	Pardon me, lords, 'tis the first time that ever
+	I was forc'd to scold. Your judgments, my grave lords,
+	Must give this cur the lie: and his own notion—
+	Who wears my stripes impress'd upon him, that
+	Must bear my beating to his grave—shall join
+	To thrust the lie unto him.
+<SPEECH 149><ACT 5><SCENE 5><99%>
+	Cut me to pieces, Volsces; men and lads,
+	Stain all your edges on me. Boy! False hound!
+	If you have writ your annals true, 'tis there,
+	That, like an eagle in a dove-cote, I
+	Flutter'd your Volscians in Corioli:
+	Alone I did it. Boy!
+<SPEECH 150><ACT 5><SCENE 5><99%>
+	O! that I had him,
+	With six Aufidiuses, or more, his tribe,
+	To use my lawful sword!

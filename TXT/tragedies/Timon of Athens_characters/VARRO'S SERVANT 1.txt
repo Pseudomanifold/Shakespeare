@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 3><SCENE 4><44%>
+	Well met; good morrow, Titus and Hortensius.
+<SPEECH 2><ACT 3><SCENE 4><45%>
+	Yes, mine's three thousand crowns; what's yours?
+<SPEECH 3><ACT 3><SCENE 4><45%>
+	'Tis much deep: and it should seem by the sum,
+	Your master's confidence was above mine;
+	Else, surely, his had equall'd.
+<SPEECH 4><ACT 3><SCENE 4><47%>
+	How! what does his cashiered worship mutter?
+<SPEECH 5><ACT 3><SCENE 4><48%>
+	My lord,—

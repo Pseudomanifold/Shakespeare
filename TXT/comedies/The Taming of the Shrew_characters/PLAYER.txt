@@ -1,0 +1,7 @@
+<SPEECH 1><SCENE 1><4%>
+	So please your lordship to accept our duty.
+<SPEECH 2><SCENE 1><4%>
+	I think 'twas Soto that your honour means.
+<SPEECH 3><SCENE 1><4%>
+	Fear not, my lord: we can contain ourselves
+	Were he the veriest antick in the world.

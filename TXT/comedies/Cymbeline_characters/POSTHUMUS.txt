@@ -1,0 +1,474 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	Please your highness,
+	I will from hence to-day.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	My queen! my mistress!
+	O lady, weep no more, lest I give cause
+	To be suspected of more tenderness
+	Than doth become a man. I will remain
+	The loyal'st husband that did e'er plight troth.
+	My residence in Rome at one Philario's,
+	Who to my father was a friend, to me
+	Known but by letter; thither write, my queen,
+	And with mine eyes I'll drink the words you send,
+	Though ink be made of gall.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Should we be taking leave
+	As long a term as yet we have to live,
+	The loathness to depart would grow. Adieu!
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	How! how! another?
+	You gentle gods, give me but this I have,
+	And sear up my embracements from a next
+	With bonds of death!—Remain, remain thou here
+	While sense can keep it on! And, sweetest, fairest,
+	As I my poor self did exchange for you,
+	To your so infinite loss, so in our trifles
+	I still win of you; for my sake wear this;
+	It is a manacle of love; I'll place it
+	Upon this fairest prisoner.
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	Alack! the king!
+<SPEECH 6><ACT 1><SCENE 1><4%>
+	The gods protect you
+	And bless the good remainders of the court!
+	I am gone.
+<SPEECH 7><ACT 1><SCENE 4><9%>
+	Since when I have been debtor to you for courtesies, which I will be ever to pay and yet pay still.
+<SPEECH 8><ACT 1><SCENE 4><10%>
+	By your pardon, sir, I was then a young traveller; rather shunned to go even with what I heard than in my every action to be guided by others' experiences; but, upon my mended judgment,—if I offend not to say it is mended,—my quarrel was not altogether slight.
+<SPEECH 9><ACT 1><SCENE 4><10%>
+	She holds her virtue still and I my mind.
+<SPEECH 10><ACT 1><SCENE 4><10%>
+	Being so far provoked as I was in France, I would abate her nothing, though I profess myself her adorer, not her friend.
+<SPEECH 11><ACT 1><SCENE 4><11%>
+	I praised her as I rated her; so do I my stone.
+<SPEECH 12><ACT 1><SCENE 4><11%>
+	More than the world enjoys.
+<SPEECH 13><ACT 1><SCENE 4><11%>
+	You are mistaken; the one may be sold, or given; or if there were wealth enough for the purchase, or merit for the gift; the other is not a thing for sale, and only the gift of the gods.
+<SPEECH 14><ACT 1><SCENE 4><11%>
+	Which, by their graces, I will keep.
+<SPEECH 15><ACT 1><SCENE 4><11%>
+	Your Italy contains none so accomplished a courtier to convince the honour of my mistress, if, in the holding or loss of that, you term her frail. I do nothing doubt you have store of thieves; notwithstanding I fear not my ring.
+<SPEECH 16><ACT 1><SCENE 4><11%>
+	Sir, with all my heart. This worthy signior, I thank him, makes no stranger of me; we are familiar at first.
+<SPEECH 17><ACT 1><SCENE 4><11%>
+	No, no.
+<SPEECH 18><ACT 1><SCENE 4><12%>
+	You are a great deal abused in too bold a persuasion; and I doubt not you sustain what you're worthy of by your attempt.
+<SPEECH 19><ACT 1><SCENE 4><12%>
+	A repulse; though your attempt, as you call it, deserves more,—a punishment too.
+<SPEECH 20><ACT 1><SCENE 4><12%>
+	What lady would you choose to assail?
+<SPEECH 21><ACT 1><SCENE 4><12%>
+	I will wage against your gold, gold to it: my ring I hold dear as my finger; 'tis part of it.
+<SPEECH 22><ACT 1><SCENE 4><12%>
+	This is but a custom in your tongue; you bear a graver purpose, I hope.
+<SPEECH 23><ACT 1><SCENE 4><12%>
+	Will you? I shall but lend my diamond till your return. Let there be covenants drawn between 's: my mistress exceeds in goodness the hugeness of your unworthy thinking; I dare you to this match. Here's my ring.
+<SPEECH 24><ACT 1><SCENE 4><13%>
+	I embrace these conditions; let us have articles betwixt us. Only, thus far you shall answer: if you make your voyage upon her and give me directly to understand that you have prevailed, I am no further your enemy; she is not worth our debate: if she remain unseduced,—you not making it appear otherwise,—for your ill opinion, and the assault you have made to her chastity, you shall answer me with your sword.
+<SPEECH 25><ACT 1><SCENE 4><13%>
+	Agreed.
+<SPEECH 26><ACT 2><SCENE 4><31%>
+	Fear it not, sir; I would I were so sure
+	To win the king as I am bold her honour
+	Will remain hers.
+<SPEECH 27><ACT 2><SCENE 4><31%>
+	Not any, but abide the change of time,
+	Quake in the present winter's state and wish
+	That warmer days would come; in these sear'd hopes,
+	I barely gratify your love; they failing,
+	I must die much your debtor.
+<SPEECH 28><ACT 2><SCENE 4><31%>
+	I do believe—
+	Statist though I am none, nor like to be—
+	That this will prove a war; and you shall hear
+	The legions now in Gallia sooner landed
+	In our not-fearing Britain, than have tidings
+	Of any penny tribute paid. Our countrymen
+	Are men more order'd than when Julius Cæsar
+	Smil'd at their lack of skill, but found their courage
+	Worthy his frowning at: their discipline,—
+	Now winged,—with their courage will make known
+	To their approvers they are people such
+	That mend upon the world.
+<SPEECH 29><ACT 2><SCENE 4><31%>
+	The swiftest harts have posted you by land,
+	And winds of all the corners kiss'd your sails,
+	To make your vessel nimble.
+<SPEECH 30><ACT 2><SCENE 4><31%>
+	I hope the briefness of your answer made
+	The speediness of your return.
+<SPEECH 31><ACT 2><SCENE 4><31%>
+	And therewithal the best; or let her beauty
+	Look through a casement to allure false hearts
+	And be false with them.
+<SPEECH 32><ACT 2><SCENE 4><32%>
+	Their tenour good, I trust.
+<SPEECH 33><ACT 2><SCENE 4><32%>
+	All is well yet.
+	Sparkles this stone as it was wont? or is't not
+	Too dull for your good wearing?
+<SPEECH 34><ACT 2><SCENE 4><32%>
+	The stone's too hard to come by.
+<SPEECH 35><ACT 2><SCENE 4><32%>
+	Make not, sir,
+	Your loss your sport: I hope you know that we
+	Must not continue friends.
+<SPEECH 36><ACT 2><SCENE 4><32%>
+	If you can make 't apparent
+	That you have tasted her in bed, my hand
+	And ring is yours; if not, the foul opinion
+	You had of her pure honour gains or loses
+	Your sword or mine or masterless leaves both
+	To who shall find them.
+<SPEECH 37><ACT 2><SCENE 4><32%>
+	Proceed.
+<SPEECH 38><ACT 2><SCENE 4><33%>
+	This is true;
+	And this you might have heard of here, by me,
+	Or by some other.
+<SPEECH 39><ACT 2><SCENE 4><33%>
+	So they must,
+	Or do your honour injury.
+<SPEECH 40><ACT 2><SCENE 4><33%>
+	This is a thing
+	Which you might from relation likewise reap,
+	Being, as it is, much spoke of.
+<SPEECH 41><ACT 2><SCENE 4><33%>
+	This is her honour!
+	Let it be granted you have seen all this,—and praise
+	Be given to your remembrance,—the description
+	Of what is in her chamber nothing saves
+	The wager you have laid.
+<SPEECH 42><ACT 2><SCENE 4><33%>
+	Jove!
+	Once more let me behold it. Is it that
+	Which I left with her?
+<SPEECH 43><ACT 2><SCENE 4><34%>
+	May be she pluck'd it off
+	To send it me.
+<SPEECH 44><ACT 2><SCENE 4><34%>
+	O! no, no, no, 'tis true. Here, take this too;
+	It is a basilisk unto mine eye,
+	Kills me to look on 't. Let there be no honour
+	Where there is beauty; truth where semblance; love
+	Where there's another man; the vows of women
+	Of no more bondage be to where they are made
+	Than they are to their virtues, which is nothing.
+	O! above measure false.
+<SPEECH 45><ACT 2><SCENE 4><34%>
+	Very true;
+	And so I hope he came by 't. Back my ring.
+	Render to me some corporal sign about her,
+	More evident than this; for this was stol'n.
+<SPEECH 46><ACT 2><SCENE 4><34%>
+	Hark you, he swears; by Jupiter he swears.
+	'Tis true; nay, keep the ring; 'tis true: I am sure
+	She would not lose it; her attendants are
+	All sworn and honourable; they induc'd to steal it!
+	And by a stranger! No, he hath enjoy'd her;
+	The cognizance of her incontinency
+	Is this; she hath bought the name of whore thus dearly.
+	There, take thy hire; and all the fiends of hell
+	Divide themselves between you!
+<SPEECH 47><ACT 2><SCENE 4><34%>
+	Never talk on 't;
+	She hath been colted by him.
+<SPEECH 48><ACT 2><SCENE 4><35%>
+	Ay, and it doth confirm
+	Another stain, as big as hell can hold,
+	Were there no more but it.
+<SPEECH 49><ACT 2><SCENE 4><35%>
+	Spare your arithmetic; never count the turns;
+	Once, and a million!
+<SPEECH 50><ACT 2><SCENE 4><35%>
+	No swearing.
+	If you will swear you have not done 't, you lie;
+	And I will kill thee if thou dost deny
+	Thou'st made me cuckold.
+<SPEECH 51><ACT 2><SCENE 4><35%>
+	O! that I had her here, to tear her limb-meal.
+	I will go there and do 't, i' the court, before
+	Her father. I'll do something—
+<SPEECH 52><ACT 2><SCENE 5><35%>
+	Is there no way for men to be, but women
+	Must be half-workers? We are all bastards; all,
+	And that most venerable man which I
+	Did call my father was I know not where
+	When I was stamp'd; some coiner with his tools
+	Made me a counterfeit; yet my mother seem'd
+	The Dian of that time; so doth my wife
+	The nonpareil of this. O! vengeance, vengeance;
+	Me of my lawful pleasure she restrain'd
+	And pray'd me oft forbearance; did it with
+	A pudency so rosy the sweet view on 't
+	Might well have warm'd old Saturn; that I thought her
+	As chaste as unsunn'd snow. O! all the devils!
+	This yellow Iachimo, in an hour,—was 't not?
+	Or less—at first?—perchance he spoke not, but
+	Like a full-acorn'd boar, a German one,
+	Cried 'O!' and mounted; found no opposition
+	But what he look'd for should oppose and she
+	Should from encounter guard. Could I find out
+	The woman's part in me! For there's no motion
+	That tends to vice in man but I affirm
+	It is the woman's part; be it lying, note it,
+	The woman's; flattering, hers; deceiving, hers;
+	Lust and rank thoughts, hers, hers; revenges, hers;
+	Ambitions, covetings, change of prides, disdain,
+	Nice longing, slanders, mutability,
+	All faults that man may name, nay, that hell knows,
+	Why, hers, in part, or all; but rather, all;
+	For even to vice
+	They are not constant, but are changing still
+	One vice but of a minute old for one
+	Not half so old as that. I'll write against them,
+	Detest them, curse them. Yet 'tis greater skill
+	In a true hate to pray they have their will:
+	The very devils cannot plague them better.
+<SPEECH 53><ACT 5><SCENE 1><75%>
+	Yea, bloody cloth, I'll keep thee, for I wish'd
+	Thou shouldst be colour'd thus. You married ones,
+	If each of you should take this course, how many
+	Must murder wives much better than themselves
+	For wrying but a little! O Pisanio!
+	Every good servant does not all commands;
+	No bond but to do just ones. Gods! if you
+	Should have ta'en vengeance on my faults, I never
+	Had liv'd to put on this; so had you sav'd
+	The noble Imogen to repent, and struck
+	Me, wretch more worth your vengeance. But, alack!
+	You snatch some hence for little faults; that's love,
+	To have them fall no more; you some permit
+	To second ills with ills, each elder worse,
+	And make them dread it, to the doers' thrift.
+	But Imogen is your own; do your best wills,
+	And make me bless'd to obey. I am brought hither
+	Among the Italian gentry, and to fight
+	Against my lady's kingdom; 'tis enough
+	That, Britain, I have kill'd thy mistress-piece!
+	I'll give no wound to thee. Therefore good heavens,
+	Hear patiently my purpose: I'll disrobe me
+	Of these Italian weeds, and suit myself
+	As does a Briton peasant; so I'll fight
+	Against the part I come with, so I'll die
+	For thee, O Imogen! even for whom my life
+	Is, every breath, a death: and thus, unknown,
+	Pitied nor hated, to the face of peril
+	Myself I'll dedicate. Let me make men know
+	More valour in me than my habits show.
+	Gods! put the strength o' the Leonati in me.
+	To shame the guise o' the world, I will begin
+	The fashion, less without and more within.
+<SPEECH 54><ACT 5><SCENE 3><77%>
+	I did:
+	Though you, it seems, come from the fliers.
+<SPEECH 55><ACT 5><SCENE 3><77%>
+	No blame be to you, sir; for all was lost,
+	But that the heavens fought. The king himself
+	Of his wings destitute, the army broken,
+	And but the backs of Britons seen, all flying
+	Through a strait lane; the enemy full-hearted,
+	Lolling the tongue with slaughtering, having work
+	More plentiful than tools to do 't, struck down
+	Some mortally, some slightly touch'd, some falling
+	Merely through fear; that the strait pass was damm'd
+	With dead men hurt behind, and cowards living
+	To die with lengthen'd shame.
+<SPEECH 56><ACT 5><SCENE 3><77%>
+	Close by the battle, ditch'd, and wall'd with turf;
+	Which gave advantage to an ancient soldier,
+	An honest one, I warrant; who deserv'd
+	So long a breeding as his white beard came to,
+	In doing this for his country; athwart the lane,
+	He, with two striplings,—lads more like to run
+	The country base than to commit such slaughter,—
+	With faces fit for masks, or rather fairer
+	Than those for preservation cas'd, or shame,
+	Made good the passage; cried to those that fled,
+	'Our Britain's harts die flying, not our men:
+	To darkness fleet souls that fly backwards. Stand!
+	Or we are Romans, and will give you that
+	Like beasts which you shun beastly, and may save,
+	But to look back in frown: stand, stand!' These three,
+	Three thousand confident, in act as many,—
+	For three performers are the file when all
+	The rest do nothing,—with this word, 'Stand, stand!'
+	Accommodated by the place, more charming
+	With their own nobleness,—which could have turn'd
+	A distaff to a lance,—gilded pale looks,
+	Part shame, part spirit renew'd; that some, turn'd coward
+	But by example,—O! a sin of war,
+	Damn'd in the first beginners,—'gan to look
+	The way that they did, and to grin like lions
+	Upon the pikes o' the hunters. Then began
+	A stop i' the chaser, a retire, anon,
+	A rout, confusion thick; forthwith they fly
+	Chickens, the way which they stoop'd eagles; slaves,
+	The strides they victors made. And now our cowards—
+	Like fragments in hard voyages—became
+	The life o' the need; having found the back door open
+	Of the unguarded hearts, Heavens! how they wound;
+	Some slain before; some dying; some their friends
+	O'er-borne i' the former wave; ten, chas'd by one,
+	Are now each one the slaughter-man of twenty;
+	Those that would die or ere resist are grown
+	The mortal bugs o' the field.
+<SPEECH 57><ACT 5><SCENE 3><78%>
+	Nay, do not wonder at it; you are made
+	Rather to wonder at the things you hear
+	Than to work any. Will you rime upon 't,
+	And vent it for a mockery? Here is one:
+	'Two boys, an old man twice a boy, a lane,
+	Preserv'd the Britons, was the Romans' bane.'
+<SPEECH 58><ACT 5><SCENE 3><78%>
+	'Lack! to what end?
+	Who dares not stand his foe, I'll be his friend;
+	For if he'll do, as he is made to do,
+	I know he'll quickly fly my friendship too.
+	You have put me into rime.
+<SPEECH 59><ACT 5><SCENE 3><79%>
+	Still going?—This is a lord! O noble misery!
+	To be i' the field, and ask, 'what news?' of me!
+	To-day how many would have given their honours
+	To have sav'd their carcases! took heel to do 't,
+	And yet died too! I, in mine own woe charm'd,
+	Could not find death where I did hear him groan,
+	Nor feel him where he struck: being an ugly monster,
+	'Tis strange he hides him in fresh cups, soft beds,
+	Sweet words; or hath more ministers than we
+	That draw his knives i' the war. Well, I will find him;
+	For being now a favourer to the Briton,
+	No more a Briton, I have resum'd again
+	The part I came in; fight I will no more,
+	But yield me to the veriest hind that shall
+	Once touch my shoulder. Great the slaughter is
+	Here made by the Roman; great the answer be
+	Britons must take. For me, my ransom's death;
+	On either side I come to spend my breath,
+	Which neither here I'll keep nor bear agen,
+	But end it by some means for Imogen.
+<SPEECH 60><ACT 5><SCENE 3><79%>
+	A Roman,
+	Who had not now been drooping here, if seconds
+	Had answer'd him.
+<SPEECH 61><ACT 5><SCENE 4><80%>
+	Most welcome, bondage! for thou art a way,
+	I think, to liberty. Yet am I better
+	Than one that's sick o' the gout, since he had rather
+	Groan so in perpetuity than be cur'd
+	By the sure physician death; who is the key
+	To unbar these locks. My conscience, thou art fetter'd
+	More than my shanks and wrists: you good gods, give me
+	The penitent instrument to pick that bolt;
+	Then, free for ever! Is 't enough I am sorry?
+	So children temporal fathers do appease;
+	Gods are more full of mercy. Must I repent?
+	I cannot do it better than in gyves,
+	Desir'd more than constrain'd; to satisfy,
+	If of my freedom 'tis the main part, take
+	No stricter render of me than my all.
+	I know you are more clement than vile men,
+	Who of their broken debtors take a third,
+	A sixth, a tenth, letting them thrive again
+	On their abatement: that's not my desire;
+	For Imogen's dear life take mine; and though
+	'Tis not so dear, yet 'tis a life; you coin'd it;
+	'Tween man and man they weigh not every stamp;
+	Though light, take pieces for the figure's sake:
+	You rather mine, being yours; and so great powers,
+	If you will take this audit, take this life,
+	And cancel these cold bonds. O Imogen!
+	I'll speak to thee in silence.
+<SPEECH 62><ACT 5><SCENE 4><83%>
+	</STAGE DIR> Sleep, thou hast been a grandsire, and begot
+	A father to me; and thou hast created
+	A mother and two brothers. But—O scorn!—
+	Gone! they went hence so soon as they were born:
+	And so I am awake. Poor wretches, that depend
+	On greatness' favour dream as I have done;
+	Wake, and find nothing. But, alas! I swerve:
+	Many dream not to find, neither deserve,
+	And yet are steep'd in favours; so am I,
+	That have this golden chance and know not why.
+	What fairies haunt this ground? A book? O rare one!
+	Be not, as is our fangled world, a garment
+	Nobler than that it covers: let thy effects
+	So follow, to be most unlike our courtiers,
+	As good as promise.
+	Whenas a lion's whelp shall, to himself unknown, without seeking find, and be embraced by a piece of tender air; and when from a stately cedar shall be lopped branches, which, being dead many years, shall after revive, be jointed to the old stock, and freshly grow, then shall Posthumus end his miseries, Britain be fortunate, and flourish in peace and plenty.
+	'Tis still a dream, or else such stuff as madmen
+	Tongue and brain not; either both or nothing;
+	Or senseless speaking, or a speaking such
+	As sense cannot untie. Be what it is,
+	The action of my life is like it, which
+	I'll keep, if but for sympathy.
+<SPEECH 63><ACT 5><SCENE 4><84%>
+	Over-roasted rather; ready long ago.
+<SPEECH 64><ACT 5><SCENE 4><84%>
+	So, if I prove a good repast to the spectators, the dish pays the shot.
+<SPEECH 65><ACT 5><SCENE 4><84%>
+	I am merrier to die than thou art to live.
+<SPEECH 66><ACT 5><SCENE 4><85%>
+	Yes, indeed do I, fellow.
+<SPEECH 67><ACT 5><SCENE 4><85%>
+	I tell thee, fellow, there are none want eyes to direct them the way I am going but such as wink and will not use them.
+<SPEECH 68><ACT 5><SCENE 4><85%>
+	Thou bring'st good news; I am called to be made free.
+<SPEECH 69><ACT 5><SCENE 4><85%>
+	Thou shalt be then freer than a gaoler; no bolts for the dead.
+<SPEECH 70><ACT 5><SCENE 5><90%>
+	</STAGE DIR> What's that to him?
+<SPEECH 71><ACT 5><SCENE 5><92%>
+	</STAGE DIR> Ay, so thou dost,
+	Italian fiend!—Ay me, most credulous fool,
+	Egregious murderer, thief, any thing
+	That's due to all the villains past, in being,
+	To come. O! give me cord, or knife, or poison,
+	Some upright justicer. Thou king, send out
+	For torturers ingenious; it is I
+	That all the abhorred things o' the earth amend
+	By being worse than they. I am Posthumus,
+	That kill'd thy daughter; villain-like, I lie;
+	That caus'd a lesser villain than myself,
+	A sacrilegious thief, to do 't; the temple
+	Of virtue was she; yea, and she herself.
+	Spit, and throw stones, cast mire upon me, set
+	The dogs o' the street to bay me; every villain
+	Be call'd Posthumus Leonatus; and
+	Be villany less than 'twas! O Imogen!
+	My queen, my life, my wife! O Imogen,
+	Imogen, Imogen!
+<SPEECH 72><ACT 5><SCENE 5><92%>
+	Shall 's have a play of this? Thou scornful page,
+	There lie thy part.
+<SPEECH 73><ACT 5><SCENE 5><93%>
+	How come these staggers on me?
+<SPEECH 74><ACT 5><SCENE 5><94%>
+	Hang there like fruit, my soul,
+	Till the tree die!
+<SPEECH 75><ACT 5><SCENE 5><98%>
+	I am, sir,
+	The soldier that did company these three
+	In poor beseeming; 'twas a fitment for
+	The purpose I then follow'd. That I was he,
+	Speak, Iachimo; I had you down and might
+	Have made you finish.
+<SPEECH 76><ACT 5><SCENE 5><98%>
+	Kneel not to me:
+	The power that I have on you is to spare you;
+	The malice towards you to forgive you. Live,
+	And deal with others better.
+<SPEECH 77><ACT 5><SCENE 5><98%>
+	Your servant, princes. Good my lord of Rome,
+	Call forth your soothsayer. As I slept, methought
+	Great Jupiter, upon his eagle back'd,
+	Appear'd to me, with other spritely shows
+	Of mine own kindred: when I wak'd, I found
+	This label on my bosom; whose containing
+	Is so from sense in hardness that I can
+	Make no collection of it; let him show
+	His skill in the construction.

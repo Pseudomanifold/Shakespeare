@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 2><SCENE 2><31%>
+	Come, come, they are almost here.
+	How many stand for consulships?
+<SPEECH 2><ACT 2><SCENE 2><32%>
+	That's a brave fellow; but he's vengeance proud, and loves not the common people.
+<SPEECH 3><ACT 2><SCENE 2><32%>
+	If he did not care whether he had their love or no, he waved indifferently 'twixt doing them neither good nor harm; but he seeks their hate with greater devotion than they can render it him; and leaves nothing undone that may fully discover him their opposite. Now, to seem to affect the malice and displeasure of the people is as bad as that which he dislikes, to flatter them for their love.
+<SPEECH 4><ACT 2><SCENE 2><32%>
+	No more of him; he is a worthy man: make way, they are coming.

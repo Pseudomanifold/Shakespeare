@@ -1,0 +1,42 @@
+<SPEECH 1><ACT 5><SCENE 1><87%>
+	Cæsar, I shall.
+<SPEECH 2><ACT 5><SCENE 2><88%>
+	Cæsar sends greeting to the Queen of Egypt;
+	And bids thee study on what fair demands
+	Thou mean'st to have him grant thee.
+<SPEECH 3><ACT 5><SCENE 2><88%>
+	My name is Proculeius.
+<SPEECH 4><ACT 5><SCENE 2><88%>
+	Be of good cheer;
+	You're fall'n into a princely hand, fear nothing.
+	Make your full reference freely to my lord,
+	Who is so full of grace, that it flows over
+	On all that need; let me report to him
+	Your sweet dependancy, and you shall find
+	A conqueror that will pray in aid for kindness
+	Where he for grace is kneel'd to.
+<SPEECH 5><ACT 5><SCENE 2><89%>
+	This I'll report, dear lady:
+	Have comfort, for I know your plight is pitied
+	Of him that caus'd it.
+<SPEECH 6><ACT 5><SCENE 2><89%>
+	Hold, worthy lady, hold!
+	Do not yourself such wrong, who are in this
+	Reliev'd, but not betray'd.
+<SPEECH 7><ACT 5><SCENE 2><89%>
+	Cleopatra,
+	Do not abuse my master's bounty by
+	The undoing of yourself; let the world see
+	His nobleness well acted, which your death
+	Will never let come forth.
+<SPEECH 8><ACT 5><SCENE 2><90%>
+	O! temperance, lady.
+<SPEECH 9><ACT 5><SCENE 2><90%>
+	You do extend
+	These thoughts of horror further than you shall
+	Find cause in Cæsar.
+<SPEECH 10><ACT 5><SCENE 2><90%>
+	So, Dolabella,
+	It shall content me best; be gentle to her.
+	</STAGE DIR> To Cæsar I will speak what you shall please,
+	If you'll employ me to him.

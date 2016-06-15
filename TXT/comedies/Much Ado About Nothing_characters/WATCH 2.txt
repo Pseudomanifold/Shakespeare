@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 3><SCENE 3><51%>
+	Both which, Master constable,—
+<SPEECH 2><ACT 3><SCENE 3><52%>
+	We will rather sleep than talk: we know what belongs to a watch.
+<SPEECH 3><ACT 3><SCENE 3><52%>
+	If we know him to be a thief, shall we not lay hands on him?
+<SPEECH 4><ACT 3><SCENE 3><53%>
+	How if the nurse be asleep and will not hear us?
+<SPEECH 5><ACT 3><SCENE 3><53%>
+	Well, masters, we hear our charge: let us go sit here upon the church-bench till two, and then all go to bed.
+<SPEECH 6><ACT 3><SCENE 3><56%>
+	Call up the right Master constable. We have here recovered the most dangerous piece of lechery that ever was known in the commonwealth.
+<SPEECH 7><ACT 3><SCENE 3><56%>
+	You'll be made bring Deformed forth, I warrant you.
+<SPEECH 8><ACT 4><SCENE 2><76%>
+	Marry, that he had received a thousand ducats of Don John for accusing the Lady Hero wrongfully.
+<SPEECH 9><ACT 4><SCENE 2><76%>
+	This is all.

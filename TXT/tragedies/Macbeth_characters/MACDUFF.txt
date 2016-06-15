@@ -1,0 +1,238 @@
+<SPEECH 1><ACT 2><SCENE 3><31%>
+	Was it so late, friend, ere you went to bed,
+	That you do lie so late?
+<SPEECH 2><ACT 2><SCENE 3><31%>
+	What three things does drink especially provoke?
+<SPEECH 3><ACT 2><SCENE 3><31%>
+	I believe drink gave thee the lie last night.
+<SPEECH 4><ACT 2><SCENE 3><32%>
+	Is thy master stirring?
+	Our knocking has awak'd him; here he comes.
+<SPEECH 5><ACT 2><SCENE 3><32%>
+	Is the king stirring, worthy thane?
+<SPEECH 6><ACT 2><SCENE 3><32%>
+	He did command me to call timely on him:
+	I have almost slipp'd the hour.
+<SPEECH 7><ACT 2><SCENE 3><32%>
+	I know this is a joyful trouble to you;
+	But yet 'tis one.
+<SPEECH 8><ACT 2><SCENE 3><32%>
+	I'll make so bold to call,
+	For 'tis my limited service.
+<SPEECH 9><ACT 2><SCENE 3><33%>
+	O horror! horror! horror! Tongue nor heart
+	Cannot conceive nor name thee!
+<SPEECH 10><ACT 2><SCENE 3><33%>
+	Confusion now hath made his masterpiece!
+	Most sacrilegious murder hath broke ope
+	The Lord's anointed temple, and stole thence
+	The life o' the building!
+<SPEECH 11><ACT 2><SCENE 3><33%>
+	Approach the chamber, and destroy your sight
+	With a new Gorgon: do not bid me speak;
+	See, and then speak yourselves.
+	Awake! awake!
+	Ring the alarum-bell. Murder and treason!
+	Banquo and Donalbain! Malcolm! awake!
+	Shake off this downy sleep, death's counterfeit,
+	And look on death itself! up, up, and see
+	The great doom's image! Malcolm! Banquo!
+	As from your graves rise up, and walk like sprites,
+	To countenance this horror! Ring the bell.
+<SPEECH 12><ACT 2><SCENE 3><34%>
+	O gentle lady!
+	'Tis not for you to hear what I can speak;
+	The repetition in a woman's ear
+	Would murder as it fell.
+	O Banquo! Banquo!
+	Our royal master's murder'd!
+<SPEECH 13><ACT 2><SCENE 3><35%>
+	Your royal father's murder'd.
+<SPEECH 14><ACT 2><SCENE 3><35%>
+	Wherefore did you so?
+<SPEECH 15><ACT 2><SCENE 3><35%>
+	Look to the lady.
+<SPEECH 16><ACT 2><SCENE 3><36%>
+	And so do I.
+<SPEECH 17><ACT 2><SCENE 4><38%>
+	Why, see you not?
+<SPEECH 18><ACT 2><SCENE 4><38%>
+	Those that Macbeth hath slain.
+<SPEECH 19><ACT 2><SCENE 4><38%>
+	They were suborn'd.
+	Malcolm and Donalbain, the king's two sons,
+	Are stol'n away and fled, which puts upon them
+	Suspicion of the deed.
+<SPEECH 20><ACT 2><SCENE 4><39%>
+	He is already nam'd, and gone to Scone
+	To be invested.
+<SPEECH 21><ACT 2><SCENE 4><39%>
+	Carried to Colmekill;
+	The sacred storehouse of his predecessors
+	And guardian of their bones.
+<SPEECH 22><ACT 2><SCENE 4><39%>
+	No, cousin, I'll to Fife.
+<SPEECH 23><ACT 2><SCENE 4><39%>
+	Well, may you see things well done there: adieu!
+	Lest our old robes sit easier than our new!
+<SPEECH 24><ACT 4><SCENE 3><72%>
+	Let us rather
+	Hold fast the mortal sword, and like good men
+	Bestride our down-fall'n birthdom; each new morn
+	New widowshowl, new orphans cry, new sorrows
+	Strike heaven on the face, that it resounds
+	As if it felt with Scotland and yell'd out
+	Like syllable of dolour.
+<SPEECH 25><ACT 4><SCENE 3><72%>
+	I am not treacherous.
+<SPEECH 26><ACT 4><SCENE 3><73%>
+	I have lost my hopes.
+<SPEECH 27><ACT 4><SCENE 3><73%>
+	Bleed, bleed, poor country!
+	Great tyranny, lay thou thy basis sure,
+	For goodness dares not check thee! wear thou thy wrongs;
+	The title is affeer'd! Fare thee well, lord:
+	I would not be the villain that thou think'st
+	For the whole space that's in the tyrant's grasp,
+	And the rich East to boot.
+<SPEECH 28><ACT 4><SCENE 3><74%>
+	What should he be?
+<SPEECH 29><ACT 4><SCENE 3><74%>
+	Not in the legions
+	Of horrid hell can come a devil more damn'd
+	In evils to top Macbeth.
+<SPEECH 30><ACT 4><SCENE 3><75%>
+	Boundless intemperance
+	In nature is a tyranny; it hath been
+	Th' untimely emptying of the happy throne,
+	And fall of many kings. But fear not yet
+	To take upon you what is yours; you may
+	Convey your pleasures in a spacious plenty,
+	And yet seem cold, the time you may so hoodwink.
+	We have willing dames enough; there cannot be
+	That vulture in you, to devour so many
+	As will to greatness dedicate themselves,
+	Finding it so inclin'd.
+<SPEECH 31><ACT 4><SCENE 3><75%>
+	This avarice
+	Sticks deeper, grows with more pernicious root
+	Than summer-seeming lust, and it hath been
+	The sword of our slain kings: yet do not fear;
+	Scotland hath foisons to fill up your will,
+	Of your mere own; all these are portable,
+	With other graces weigh'd.
+<SPEECH 32><ACT 4><SCENE 3><76%>
+	O Scotland, Scotland!
+<SPEECH 33><ACT 4><SCENE 3><76%>
+	Fit to govern!
+	No, not to live. O nation miserable,
+	With an untitled tyrant bloody-scepter'd,
+	When shalt thou see thy wholesome days again,
+	Since that the truest issue of thy throne
+	By his own interdiction stands accurs'd,
+	And does blaspheme his breed? Thy royal father
+	Was a most sainted king; the queen that bore thee,
+	Oft'ner upon her knees than on her feet,
+	Died every day she liv'd. Fare thee well!
+	These evils thou repeat'st upon thyself
+	Have banish'd me from Scotland. O my breast,
+	Thy hope ends here!
+<SPEECH 34><ACT 4><SCENE 3><77%>
+	Such welcome and unwelcome things at once
+	'Tis hard to reconcile.
+<SPEECH 35><ACT 4><SCENE 3><78%>
+	What's the disease he means?
+<SPEECH 36><ACT 4><SCENE 3><78%>
+	See, who comes here?
+<SPEECH 37><ACT 4><SCENE 3><79%>
+	My ever-gentle cousin, welcome hither.
+<SPEECH 38><ACT 4><SCENE 3><79%>
+	Stands Scotland where it did?
+<SPEECH 39><ACT 4><SCENE 3><79%>
+	O! relation
+	Too nice, and yet too true!
+<SPEECH 40><ACT 4><SCENE 3><79%>
+	How does my wife?
+<SPEECH 41><ACT 4><SCENE 3><79%>
+	And all my children?
+<SPEECH 42><ACT 4><SCENE 3><79%>
+	The tyrant has not batter'd at their peace?
+<SPEECH 43><ACT 4><SCENE 3><80%>
+	Be not a niggard of your speech: how goes 't?
+<SPEECH 44><ACT 4><SCENE 3><80%>
+	What concern they?
+	The general cause? or is it a fee-grief
+	Due to some single breast?
+<SPEECH 45><ACT 4><SCENE 3><80%>
+	If it be mine
+	Keep it not from me; quickly let me have it.
+<SPEECH 46><ACT 4><SCENE 3><81%>
+	Hum! I guess at it.
+<SPEECH 47><ACT 4><SCENE 3><81%>
+	My children too?
+<SPEECH 48><ACT 4><SCENE 3><81%>
+	And I must be from thence!
+	My wife kill'd too?
+<SPEECH 49><ACT 4><SCENE 3><81%>
+	He has no children. All my pretty ones?
+	Did you say all? O hell-kite! All?
+	What! all my pretty chickens and their dam
+	At one fell swoop?
+<SPEECH 50><ACT 4><SCENE 3><81%>
+	I shall do so;
+	But I must also feel it as a man:
+	I cannot but remember such things were,
+	That were most precious to me. Did heaven look on,
+	And would not take their part? Sinful Macduff!
+	They were all struck for thee. Naught that I am,
+	Not for their own demerits, but for mine,
+	Fell slaughter on their souls. Heaven rest them now!
+<SPEECH 51><ACT 4><SCENE 3><82%>
+	O! I could play the woman with mine eyes,
+	And braggart with my tongue. But, gentle heavens,
+	Cut short all intermission; front to front
+	Bring thou this fiend of Scotland and myself;
+	Within my sword's length set him; if he 'scape,
+	Heaven forgive him too!
+<SPEECH 52><ACT 5><SCENE 4><91%>
+	Let our just censures
+	Attend the true event, and put we on
+	Industrious soldiership.
+<SPEECH 53><ACT 5><SCENE 6><94%>
+	Make all our trumpets speak; give them all breath,
+	Those clamorous harbingers of blood and death.
+<SPEECH 54><ACT 5><SCENE 7><95%>
+	That way the noise is. Tyrant, show thy face:
+	If thou be'st slain and with no stroke of mine,
+	My wife and children's ghosts will haunt me still.
+	I cannot strike at wretched kerns, whose arms
+	Are hir'd to bear their staves: either thou, Macbeth,
+	Or else my sword with an unbatter'd edge
+	I sheathe again undeeded. There thou shouldst be;
+	By this great clatter, one of greatest note
+	Seems bruited. Let me find him, fortune!
+	And more I beg not.
+<SPEECH 55><ACT 5><SCENE 7><96%>
+	Turn, hell-hound, turn!
+<SPEECH 56><ACT 5><SCENE 7><97%>
+	I have no words;
+	My voice is in my sword, thou bloodier villain
+	Than terms can give thee out!
+<SPEECH 57><ACT 5><SCENE 7><97%>
+	Despair thy charm;
+	And let the angel whom thou still hast serv'd
+	Tell thee, Macduff was from his mother's womb
+	Untimely ripp'd.
+<SPEECH 58><ACT 5><SCENE 7><97%>
+	Then yield thee, coward,
+	And live to be the show and gaze o' the time:
+	We'll have thee, as our rarer monsters are,
+	Painted upon a pole, and underwrit,
+	'Here may you see the tyrant.'
+<SPEECH 59><ACT 5><SCENE 7><99%>
+	Hail, king! for so thou art. Behold, where stands
+	The usurper's cursed head: the time is free:
+	I see thee compass'd with thy kingdom's pearl,
+	That speak my salutation in their minds;
+	Whose voices I desire aloud with mine;
+	Hail, King of Scotland!

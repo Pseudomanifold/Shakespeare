@@ -1,0 +1,79 @@
+<SPEECH 1><ACT 2><SCENE 2><44%>
+	Here's neither bush nor shrub to bear off any weather at all, and another storm brewing; I hear it sing i' the wind: yond same black cloud, yond huge one, looks like a foul bombard that would shed his liquor. If it should thunder as it did before, I know not where to hide my head: yond same cloud cannot choose but fall by pailfuls.—What have we here? a man or a fish? Dead or alive? A fish: he smells like a fish; a very ancient and fish-like smell; a kind of not of the newest Poor-John. A strange fish! Were I in England now,—as once I was,—and had but this fish painted, not a holiday fool there but would give a piece of silver: there would this monster make a man; any strange beast there makes a man. When they will not give a doit to relieve a lame beggar, they will lay out ten to see a dead Indian. Legg'd like a man! and his fins like arms! Warm, o' my troth! I do now let loose my opinion, hold it no longer; this is no fish, but an islander, that hath lately suffered by a thunderbolt. <STAGE DIR>
+	</STAGE DIR> Alas! the storm is come again: my best way is to creep under his gaberdine; there is no other shelter hereabout: misery acquaints a man with strange bedfellows. I will here shroud till the dregs of the storm be past.
+<SPEECH 2><ACT 2><SCENE 2><48%>
+	I should know that voice: it should be—but he is drowned, and these are devils. O! defend me.
+<SPEECH 3><ACT 2><SCENE 2><48%>
+	Stephano!
+<SPEECH 4><ACT 2><SCENE 2><48%>
+	Stephano!—if thou beest Stephano, touch me, and speak to me; for I am Trinculo:—be not afeard—thy good friend Trinculo.
+<SPEECH 5><ACT 2><SCENE 2><49%>
+	I took him to be killed with a thunderstroke. But art thou not drowned, Stephano? I hope now thou art not drowned. Is the storm overblown? I hid me under the dead mooncalf's gaberdine for fear of the storm. And art thou living, Stephano? O Stephano! two Neapolitans 'scaped!
+<SPEECH 6><ACT 2><SCENE 2><50%>
+	Swam ashore, man, like a duck: I can swim like a duck, I'll be sworn.
+<SPEECH 7><ACT 2><SCENE 2><50%>
+	O Stephano! hast any more of this?
+<SPEECH 8><ACT 2><SCENE 2><50%>
+	By this good light, this is a very shallow monster.—I afeard of him!—a very weak monster.—The man i' the moon! a most poor credulous monster!—Well drawn, monster, in good sooth.
+<SPEECH 9><ACT 2><SCENE 2><51%>
+	By this light, a most perfidious and drunken monster: when his god's asleep, he'll rob his bottle.
+<SPEECH 10><ACT 2><SCENE 2><51%>
+	I shall laugh myself to death at this puppy-headed monster. A most scurvy monster! I could find in my heart to beat him,—
+<SPEECH 11><ACT 2><SCENE 2><51%>
+	But that the poor monster's in drink: an abominable monster!
+<SPEECH 12><ACT 2><SCENE 2><51%>
+	A most ridiculous monster, to make a wonder of a poor drunkard!
+<SPEECH 13><ACT 2><SCENE 2><52%>
+	A howling monster, a drunken monster.
+<SPEECH 14><ACT 3><SCENE 2><57%>
+	Servant-monster! the folly of this island! They say there's but five upon this isle: we are three of them; if th' other two be brained like us, the state totters.
+<SPEECH 15><ACT 3><SCENE 2><58%>
+	Where should they be set else? he were a brave monster indeed, if they were set in his tail.
+<SPEECH 16><ACT 3><SCENE 2><58%>
+	Your lieutenant, if you list; he's no standard.
+<SPEECH 17><ACT 3><SCENE 2><58%>
+	Nor go neither: but you'll lie, like dogs; and yet say nothing neither.
+<SPEECH 18><ACT 3><SCENE 2><58%>
+	Thou hest, most ignorant monster: I am in case to justle a constable. Why, thou deboshed fish thou, was there ever a man a coward that hath drunk so much sack as I to-day? Wilt thou tell a monstrous lie, being but half a fish and half a monster?
+<SPEECH 19><ACT 3><SCENE 2><58%>
+	'Lord' quoth he!—that a monster should be such a natural!
+<SPEECH 20><ACT 3><SCENE 2><59%>
+	Why, I said nothing.
+<SPEECH 21><ACT 3><SCENE 2><60%>
+	Why, what did I? I did nothing. I'll go further off.
+<SPEECH 22><ACT 3><SCENE 2><61%>
+	I did not give thee the he:—Out o' your wits and hearing too?—A pox o' your bottle! this can sack and drinking do.—A murrain on your monster, and the devil take your fingers!
+<SPEECH 23><ACT 3><SCENE 2><62%>
+	Excellent.
+<SPEECH 24><ACT 3><SCENE 2><63%>
+	This is the tune of our catch, played by the picture of Nobody.
+<SPEECH 25><ACT 3><SCENE 2><63%>
+	O, forgive me my sins!
+<SPEECH 26><ACT 3><SCENE 2><64%>
+	The sound is going away: let's follow it, and after do our work.
+<SPEECH 27><ACT 3><SCENE 2><64%>
+	I'll follow, Stephano.
+<SPEECH 28><ACT 4><SCENE 1><80%>
+	Monster, I do smell all horse-piss; at which my nose is in great indignation.
+<SPEECH 29><ACT 4><SCENE 1><80%>
+	Thou wert but a lost monster.
+<SPEECH 30><ACT 4><SCENE 1><81%>
+	Ay, but to lose our bottles in the pool,—
+<SPEECH 31><ACT 4><SCENE 1><81%>
+	That's more to me than my wetting: yet this is your harmless fairy, monster.
+<SPEECH 32><ACT 4><SCENE 1><81%>
+	O king Stephano! O peer! O worthy Stephano! look, what a wardrobe here is for thee!
+<SPEECH 33><ACT 4><SCENE 1><81%>
+	O, ho, monster! we know what belongs to a frippery.—O king Stephano!
+<SPEECH 34><ACT 4><SCENE 1><81%>
+	Thy grace shall have it.
+<SPEECH 35><ACT 4><SCENE 1><82%>
+	Do, do: we steal by line and level, an't like your grace.
+<SPEECH 36><ACT 4><SCENE 1><82%>
+	Monster, come, put some lime upon your fingers, and away with the rest.
+<SPEECH 37><ACT 4><SCENE 1><82%>
+	And this.
+<SPEECH 38><ACT 5><SCENE 1><96%>
+	If these be true spies which I wear in my head, here's a goodly sight.
+<SPEECH 39><ACT 5><SCENE 1><97%>
+	I have been in such a pickle since I saw you last that, I fear me, will never out of my bones: I shall not fear fly-blowing.

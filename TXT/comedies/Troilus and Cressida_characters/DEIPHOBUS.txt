@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 4><SCENE 1><60%>
+	It is the Lord Æneas.
+<SPEECH 2><ACT 4><SCENE 4><70%>
+	Let us make ready straight.

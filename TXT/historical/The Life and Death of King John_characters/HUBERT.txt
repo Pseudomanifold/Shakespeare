@@ -1,0 +1,193 @@
+<SPEECH 1><ACT 3><SCENE 3><49%>
+	I am much bounden to your majesty.
+<SPEECH 2><ACT 3><SCENE 3><50%>
+	So well, that what you bid me undertake,
+	Though that my death were adjunct to my act,
+	By heaven, I would do it.
+<SPEECH 3><ACT 3><SCENE 3><50%>
+	And I'll keep him so
+	That he shall not offend your majesty.
+<SPEECH 4><ACT 3><SCENE 3><50%>
+	My lord?
+<SPEECH 5><ACT 3><SCENE 3><50%>
+	He shall not live.
+<SPEECH 6><ACT 4><SCENE 1><58%>
+	Heat me these irons hot; and look thou stand
+	Within the arras: when I strike my foot
+	Upon the bosom of the ground, rush forth,
+	And bind the boy which you shall find with me
+	Fast to the chair: be heedful. Hence, and watch.
+<SPEECH 7><ACT 4><SCENE 1><58%>
+	Uncleanly scruples! fear not you: look to't.
+	Young lad, come forth; I have to say with you.
+<SPEECH 8><ACT 4><SCENE 1><58%>
+	Good morrow, little prince.
+<SPEECH 9><ACT 4><SCENE 1><58%>
+	Indeed, I have been merrier.
+<SPEECH 10><ACT 4><SCENE 1><59%>
+	</STAGE DIR> If I talk to him with his innocent prate
+	He will awake my mercy which lies dead:
+	Therefore I will be sudden and dispatch.
+<SPEECH 11><ACT 4><SCENE 1><59%>
+	</STAGE DIR> His words do take possession of my bosom.
+	Read here, young Arthur.
+	</STAGE DIR> How now, foolish rheum!
+	Turning dispiteous torture out of door!
+	I must be brief, lest resolution drop
+	Out at mine eyes in tender womanish tears.
+	Can you not read it? is it not fair writ?
+<SPEECH 12><ACT 4><SCENE 1><59%>
+	Young boy, I must.
+<SPEECH 13><ACT 4><SCENE 1><59%>
+	And I will.
+<SPEECH 14><ACT 4><SCENE 1><60%>
+	I have sworn to do it;
+	And with hot irons must I burn them out.
+<SPEECH 15><ACT 4><SCENE 1><60%>
+	</STAGE DIR> Come forth.
+	Do as I bid you do.
+<SPEECH 16><ACT 4><SCENE 1><61%>
+	Give me the iron, I say, and bind him here.
+<SPEECH 17><ACT 4><SCENE 1><61%>
+	Go, stand within: let me alone with him.
+<SPEECH 18><ACT 4><SCENE 1><61%>
+	Come, boy, prepare yourself.
+<SPEECH 19><ACT 4><SCENE 1><61%>
+	None, but to lose your eyes.
+<SPEECH 20><ACT 4><SCENE 1><61%>
+	Is this your promise? go to, hold your tongue.
+<SPEECH 21><ACT 4><SCENE 1><62%>
+	I can heat it, boy.
+<SPEECH 22><ACT 4><SCENE 1><62%>
+	But with my breath I can revive it, boy.
+<SPEECH 23><ACT 4><SCENE 1><62%>
+	Well, see to live; I will not touch thine eyes
+	For all the treasure that thine uncle owes:
+	Yet am I sworn and I did purpose, boy,
+	With this same very iron to burn them out.
+<SPEECH 24><ACT 4><SCENE 1><63%>
+	Peace! no more. Adieu.
+	Your uncle must not know but you are dead;
+	I'll fill these dogged spies with false reports:
+	And, pretty child, sleep doubtless and secure,
+	That Hubert for the wealth of all the world
+	Will not offend thee.
+<SPEECH 25><ACT 4><SCENE 1><63%>
+	Silence! no more, go closely in with me:
+	Much danger do I undergo for thee.
+<SPEECH 26><ACT 4><SCENE 2><70%>
+	My lord, they say five moons were seen to-night:
+	Four fixed, and the fifth did whirl about
+	The other four in wondrous motion.
+<SPEECH 27><ACT 4><SCENE 2><70%>
+	Old men and beldams in the streets
+	Do prophesy upon it dangerously:
+	Young Arthur's death is common in their mouths;
+	And when they talk of him, they shake their heads
+	And whisper one another in the ear;
+	And he that speaks, doth gripe the hearer's wrist
+	Whilst he that hears makes fearful action,
+	With wrinkled brows, with nods, with rolling eyes.
+	I saw a smith stand with his hammer, thus,
+	The whilst his iron did on the anvil cool,
+	With open mouth swallowing a tailor's news;
+	Who, with his shears and measure in his hand,
+	Standing on slippers,—which his nimble haste
+	Had falsely thrust upon contrary feet,—
+	Told of a many thousand warlike French,
+	That were embattailed and rank'd in Kent.
+	Another lean unwash'd artificer
+	Cuts off his tale and talks of Arthur's death.
+<SPEECH 28><ACT 4><SCENE 2><71%>
+	No had, my lord! why, did you not provoke me?
+<SPEECH 29><ACT 4><SCENE 2><71%>
+	Here is your hand and seal for what I did.
+<SPEECH 30><ACT 4><SCENE 2><72%>
+	My lord,—
+<SPEECH 31><ACT 4><SCENE 2><72%>
+	Arm you against your other enemies,
+	I'll make a peace between your soul and you.
+	Young Arthur is alive: this hand of mine
+	Is yet a maiden and an innocent hand,
+	Not painted with the crimson spots of blood.
+	Within this bosom never enter'd yet
+	The dreadful motion of a murderous thought;
+	And you have slander'd nature in my form,
+	Which, howsoever rude exteriorly,
+	Is yet the cover of a fairer mind
+	Than to be butcher of an innocent child.
+<SPEECH 32><ACT 4><SCENE 3><76%>
+	Lords, I am hot with haste in seeking you:
+	Arthur doth live: the king hath sent for you.
+<SPEECH 33><ACT 4><SCENE 3><76%>
+	I am no villain.
+<SPEECH 34><ACT 4><SCENE 3><77%>
+	Stand back, Lord Salisbury, stand back, I say:
+	By heaven, I think my sword's as sharp as yours.
+	I would not have you, lord, forget yourself,
+	Nor tempt the danger of my true defence;
+	Lest I, by marking of your rage, forget
+	Your worth, your greatness, and nobility.
+<SPEECH 35><ACT 4><SCENE 3><77%>
+	Not for my life; but yet I dare defend
+	My innocent life against an emperor.
+<SPEECH 36><ACT 4><SCENE 3><77%>
+	Do not prove me so;
+	Yet I am none. Whose tongue soe'er speaks false,
+	Not truly speaks; who speaks not truly, lies.
+<SPEECH 37><ACT 4><SCENE 3><77%>
+	Lord Bigot, I am none.
+<SPEECH 38><ACT 4><SCENE 3><78%>
+	'Tis not an hour since I left him well:
+	I honour'd him, I lov'd him; and will weep
+	My date of life out for his sweet life's loss.
+<SPEECH 39><ACT 4><SCENE 3><78%>
+	Do but hear me, sir.
+<SPEECH 40><ACT 4><SCENE 3><78%>
+	Upon my soul,—
+<SPEECH 41><ACT 4><SCENE 3><79%>
+	If I in act, consent, or sin of thought,
+	Be guilty of the stealing that sweet breath
+	Which was embounded in this beauteous clay,
+	Let hell want pains enough to torture me.
+	I left him well.
+<SPEECH 42><ACT 5><SCENE 3><89%>
+	Badly, I fear. How fares your majesty?
+<SPEECH 43><ACT 5><SCENE 6><94%>
+	Who's there? speak, ho! speak quickly, or I shoot.
+<SPEECH 44><ACT 5><SCENE 6><94%>
+	Of the part of England.
+<SPEECH 45><ACT 5><SCENE 6><94%>
+	What's that to thee? Why may not I demand
+	Of thine affairs as well as thou of mine?
+<SPEECH 46><ACT 5><SCENE 6><94%>
+	Thou hast a perfect thought:
+	I will upon all hazards well believe
+	Thou art my friend, that know'st my tongue so well.
+	Who art thou?
+<SPEECH 47><ACT 5><SCENE 6><94%>
+	Unkind remembrance! thou and eyeless night
+	Have done me shame: brave soldier, pardon me,
+	That any accent breaking from thy tongue
+	Should 'scape the true acquaintance of mine ear.
+<SPEECH 48><ACT 5><SCENE 6><94%>
+	Why, here walk I in the black brow of night,
+	To find you out.
+<SPEECH 49><ACT 5><SCENE 6><94%>
+	O! my sweet sir, news fitting to the night,
+	Black, fearful, comfortless, and horrible.
+<SPEECH 50><ACT 5><SCENE 6><95%>
+	The king, I fear, is poison'd by a monk:
+	I left him almost speechless; and broke out
+	To acquaint you with this evil, that you might
+	The better arm you to the sudden time
+	Than if you had at leisure known of this.
+<SPEECH 51><ACT 5><SCENE 6><95%>
+	A monk, I tell you; a resolved villain,
+	Whose bowels suddenly burst out: the king
+	Yet speaks, and peradventure may recover.
+<SPEECH 52><ACT 5><SCENE 6><95%>
+	Why, know you not? the lords are all come back,
+	And brought Prince Henry in their company;
+	At whose request the king hath pardon'd them,
+	And they are all about his majesty.

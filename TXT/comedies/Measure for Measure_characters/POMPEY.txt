@@ -1,0 +1,125 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+	Yonder man is carried to prison.
+<SPEECH 2><ACT 1><SCENE 2><6%>
+	A woman.
+<SPEECH 3><ACT 1><SCENE 2><6%>
+	Groping for trouts in a peculiar river.
+<SPEECH 4><ACT 1><SCENE 2><6%>
+	No; but there's a woman with maid by him. You have not heard of the proclamation, have you?
+<SPEECH 5><ACT 1><SCENE 2><6%>
+	All houses of resort in the suburbs of Vienna must be plucked down
+<SPEECH 6><ACT 1><SCENE 2><7%>
+	They shall stand for seed: they had gone down too, but that a wise burgher put in for them.
+<SPEECH 7><ACT 1><SCENE 2><7%>
+	To the ground, mistress.
+<SPEECH 8><ACT 1><SCENE 2><7%>
+	Come; fear not you: good counsellors lack no clients: though you change your place, you need not change your trade; I'll be your tapster still. Courage! there will be pity taken on you; you that have worn your eyes almost out in the service, you will be considered.
+<SPEECH 9><ACT 1><SCENE 2><7%>
+	Here comes Signior Claudio, led by the provost to prison; and there's Madam Juliet.
+<SPEECH 10><ACT 2><SCENE 1><17%>
+	He cannot, sir: he's out at elbow.
+<SPEECH 11><ACT 2><SCENE 1><18%>
+	Sir, if it please your honour, this is not so.
+<SPEECH 12><ACT 2><SCENE 1><18%>
+	Sir, she came in, great with child, and longing,—saving your honour's reverence,—for stewed prunes. Sir, we had but two in the house, which at that very distant time stood, as it were, in a fruit-dish, a dish of some three-pence; your honours have seen such dishes; they are not China dishes, but very good dishes.
+<SPEECH 13><ACT 2><SCENE 1><19%>
+	No, indeed, sir, not of a pin; you are therein in the right: but to the point. As I say, this Mistress Elbow, being, as I say, with child, and being great-bellied, and longing, as I said, for prunes, and having but two in the dish, as I said, Master Froth here, this very man, having eaten the rest, as I said, and, as I say, paying for them very honestly; for, as you know, Master Froth, I could not give you three-pence again.
+<SPEECH 14><ACT 2><SCENE 1><19%>
+	Very well: you being then, if you be remembered, cracking the stones of the foresaid prunes,—
+<SPEECH 15><ACT 2><SCENE 1><19%>
+	Why, very well: I telling you then, if you be remembered, that such a one and such a one were past cure of the thing you wot of, unless they kept very good diet, as I told you,—
+<SPEECH 16><ACT 2><SCENE 1><19%>
+	Why, very well then.—
+<SPEECH 17><ACT 2><SCENE 1><19%>
+	Sir, your honour cannot come to that yet.
+<SPEECH 18><ACT 2><SCENE 1><19%>
+	Sir, but you shall come to it, by your honour's leave. And, I beseech you, look into Master Froth here, sir; a man of fourscore pound a year, whose father died at Hallowmas. Was't not at Hallowmas, Master Froth?
+<SPEECH 19><ACT 2><SCENE 1><20%>
+	Why, very well: I hope here be truths. He, sir, sitting, as I say, in a lower chair, sir; 'twas in the Bunch of Grapes, where indeed, you have a delight to sit, have you not?
+<SPEECH 20><ACT 2><SCENE 1><20%>
+	Why, very well then: I hope here be truths.
+<SPEECH 21><ACT 2><SCENE 1><20%>
+	Once, sir? there was nothing done to her once.
+<SPEECH 22><ACT 2><SCENE 1><20%>
+	I beseech your honour, ask me.
+<SPEECH 23><ACT 2><SCENE 1><20%>
+	I beseech you, sir, look in this gentleman's face. Good Master Froth, look upon his honour; 'tis for a good purpose. Doth your honour mark his face?
+<SPEECH 24><ACT 2><SCENE 1><20%>
+	Nay, I beseech you, mark it well.
+<SPEECH 25><ACT 2><SCENE 1><21%>
+	Doth your honour see any harm in his face?
+<SPEECH 26><ACT 2><SCENE 1><21%>
+	I'll be supposed upon a book, his face is the worst thing about him. Good, then; if his face be the worst thing about him, how could Master Froth do the constable's wife any harm? I would know that of your honour.
+<SPEECH 27><ACT 2><SCENE 1><21%>
+	By this hand, sir, his wife is a more respected person than any of us all.
+<SPEECH 28><ACT 2><SCENE 1><21%>
+	Sir, she was respected with him before he married with her.
+<SPEECH 29><ACT 2><SCENE 1><22%>
+	A tapster; a poor widow's tapster.
+<SPEECH 30><ACT 2><SCENE 1><22%>
+	Mistress Overdone.
+<SPEECH 31><ACT 2><SCENE 1><22%>
+	Nine, sir; Overdone by the last.
+<SPEECH 32><ACT 2><SCENE 1><22%>
+	Pompey.
+<SPEECH 33><ACT 2><SCENE 1><23%>
+	Bum, sir.
+<SPEECH 34><ACT 2><SCENE 1><23%>
+	Truly, sir, I am a poor fellow that would live.
+<SPEECH 35><ACT 2><SCENE 1><23%>
+	If the law would allow it, sir.
+<SPEECH 36><ACT 2><SCENE 1><23%>
+	Does your worship mean to geld and splay all the youth of the city?
+<SPEECH 37><ACT 2><SCENE 1><23%>
+	Truly, sir, in my humble opinion, they will to't then. If your worship will take order for the drabs and the knaves, you need not to fear the bawds.
+<SPEECH 38><ACT 2><SCENE 1><23%>
+	If you head and hang all that offend that way but for ten year together, you'll be glad to give out a commission for more heads. If this law hold in Vienna ten year, I'll rent the fairest house in it after threepence a bay. If you live to see this come to pass, say, Pompey told you so.
+<SPEECH 39><ACT 2><SCENE 1><24%>
+	I thank your worship for your good counsel;—<STAGE DIR>
+	</STAGE DIR> but I shall follow it as the flesh and fortune shall better determine.
+	Whip me! No, no; let carman whip his jade;
+	The valiant heart's not whipt out of his trade.
+<SPEECH 40><ACT 3><SCENE 2><51%>
+	'Twas never merry world, since, of two usuries, the merriest was put down, and the worser allowed by order of law a furred gown to keep him warm; and furred with fox and lamb skins too, to signify that craft, being richer than innocency, stands for the facing.
+<SPEECH 41><ACT 3><SCENE 2><51%>
+	Indeed, it does stink in some sort, sir; but yet, sir, I would prove—
+<SPEECH 42><ACT 3><SCENE 2><52%>
+	I spy comfort: I cry, bail. Here's a gentleman and a friend of mine.
+<SPEECH 43><ACT 3><SCENE 2><52%>
+	Troth, sir, she hath eaten up all her beef, and she is herself in the tub.
+<SPEECH 44><ACT 3><SCENE 2><53%>
+	Yes, faith, sir.
+<SPEECH 45><ACT 3><SCENE 2><53%>
+	I hope, sir, your good worship will be my bail.
+<SPEECH 46><ACT 3><SCENE 2><53%>
+	You will not bail me then, sir?
+<SPEECH 47><ACT 4><SCENE 2><63%>
+	If the man be a bachelor, sir, I can; but if he be a married man, he is his wife's head, and I can never cut off a woman's head.
+<SPEECH 48><ACT 4><SCENE 2><64%>
+	Sir, I have been an unlawful bawd time out of mind; but yet I will be content to be a lawful hangman. I would be glad to receive some instruction from my fellow partner.
+<SPEECH 49><ACT 4><SCENE 2><64%>
+	Pray, sir, by your good favour—for surely, sir, a good favour you have, but that you have a hanging look,—do you call, sir, your occupation a mystery?
+<SPEECH 50><ACT 4><SCENE 2><64%>
+	Painting, sir, I have heard say, is a mystery; and your whores, sir, being members of my occupation, using painting, do prove my occupation a mystery: but what mystery there should be in hanging, if I should be hanged, I cannot imagine.
+<SPEECH 51><ACT 4><SCENE 2><65%>
+	Proof?
+<SPEECH 52><ACT 4><SCENE 2><65%>
+	If it be too little for your thief, your true man thinks it big enough; if it be too big for your thief, your thief thinks it little enough: so, every true man's apparel fits your thief.
+<SPEECH 53><ACT 4><SCENE 2><65%>
+	Sir, I will serve him; for I do find that your hangman is a more penitent trade than your bawd, he doth often ask forgiveness.
+<SPEECH 54><ACT 4><SCENE 2><65%>
+	I do desire to learn, sir; and, I hope, if you have occasion to use me for your own turn, you shall find me yare; for, truly, sir, for your kindness I owe you a good turn.
+<SPEECH 55><ACT 4><SCENE 3><71%>
+	I am as well acquainted here as I was in our house of profession: one would think it were Mistress Overdone's own house, for here be many of her old customers. First, here's young Master Rash; he's in for a commodity of brown paper and old ginger, nine-score and seventeen pounds, of which he made five marks, ready money: marry, then ginger was not much in request, for the old women were all dead. Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-colour'd satin, which now peaches him a beggar. Then have we young Dizy, and young Master Deep-vow, and Master Copperspur, and Master Starve-lackey the rapier and dagger man, and young Drop-heir that kill'd lusty Pudding, and Master Forthlight, the tilter, and brave Master Shoe-tie the great traveller, and wild Half-can that stabbed Pots, and, I think, forty more; all great doers in our trade, and are now 'for the Lord's sake.'
+<SPEECH 56><ACT 4><SCENE 3><72%>
+	Master Barnardine! you must rise and be hanged, Master Barnardine.
+<SPEECH 57><ACT 4><SCENE 3><72%>
+	Your friends, sir; the hangman. You must be so good, sir, to rise and be put to death.
+<SPEECH 58><ACT 4><SCENE 3><72%>
+	Pray, Master Barnardine, awake till you are executed, and sleep afterwards.
+<SPEECH 59><ACT 4><SCENE 3><72%>
+	He is coming, sir, he is coming; I hear his straw rustle.
+<SPEECH 60><ACT 4><SCENE 3><72%>
+	Very ready, sir.
+<SPEECH 61><ACT 4><SCENE 3><73%>
+	O, the better, sir; for he that drinks all night, and is hang'd betimes in the morning, may sleep the sounder all the next day.

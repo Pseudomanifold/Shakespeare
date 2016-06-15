@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 3><SCENE 1><50%>
+	Which way ran he that kill'd Mercutio?
+	Tybalt, that murderer, which way ran he?
+<SPEECH 2><ACT 3><SCENE 1><51%>
+	Up, sir, go with me.
+	I charge thee in the prince's name, obey.

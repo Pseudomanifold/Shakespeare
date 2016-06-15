@@ -1,0 +1,196 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Speak thou for me, and tell them what I did.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Thus do I hope to shake King Henry's head.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Arm'd as we are, let's stay within this house.
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	You are old enough now, and yet, methinks, you lose.
+	Father, tear the crown from the usurper's head.
+<SPEECH 5><ACT 1><SCENE 1><5%>
+	Sound drums and trumpets, and the king will fly.
+<SPEECH 6><ACT 1><SCENE 2><10%>
+	Brother, though I be youngest, give me leave.
+<SPEECH 7><ACT 1><SCENE 2><10%>
+	About that which concerns your Grace and us;
+	The crown of England, father, which is yours.
+<SPEECH 8><ACT 1><SCENE 2><11%>
+	Your right depends not on his life or death.
+<SPEECH 9><ACT 1><SCENE 2><11%>
+	No; God forbid your Grace should be forsworn.
+<SPEECH 10><ACT 1><SCENE 2><11%>
+	I'll prove the contrary, if you'll hear me speak.
+<SPEECH 11><ACT 1><SCENE 2><11%>
+	An oath is of no moment, being not took
+	Before a true and lawful magistrate
+	That hath authority over him that swears:
+	Henry had none, but did usurp the place;
+	Then, seeing 'twas he that made you to depose,
+	Your oath, my lord, is vain and frivolous.
+	Therefore, to arms! And, father, do but think
+	How sweet a thing it is to wear a crown,
+	Within whose circuit is Elysium,
+	And all that poets feign of bliss and joy.
+	Why do we linger thus? I cannot rest
+	Until the white rose that I wear be dy'd
+	Even in the lukewarm blood of Henry's heart.
+<SPEECH 12><ACT 1><SCENE 2><12%>
+	Ay, with five hundred, father, for a need:
+	A woman's general; what should we fear?
+<SPEECH 13><ACT 2><SCENE 1><21%>
+	I cannot joy until I be resolv'd
+	Where our right valiant father is become.
+	I saw him in the battle range about,
+	And watch'd him how he singled Clifford forth.
+	Methought he bore him in the thickest troop
+	As doth a lion in a herd of neat;
+	Or as a bear, encompass'd round with dogs,
+	Who having pinch'd a few and made them cry,
+	The rest stand all aloof and bark at him.
+	So far'd our father with his enemies;
+	So fled his enemies my war-like father:
+	Methinks, 'tis prize enough to be his son.
+	See how the morning opes her golden gates,
+	And takes her farewell of the glorious sun;
+	How well resembles it the prime of youth,
+	Trimm'd like a younker prancing to his love.
+<SPEECH 14><ACT 2><SCENE 1><21%>
+	Three glorious suns, each one a perfect sun;
+	Not separated with the racking clouds,
+	But sever'd in a pale clear-shining sky.
+	See, see! they join, embrace, and seem to kiss,
+	As if they vow'd some league inviolable:
+	Now are they but one lamp, one light, one sun.
+	In this the heaven figures some event.
+<SPEECH 15><ACT 2><SCENE 1><22%>
+	Nay, bear three daughters: by your leave I speak it,
+	You love the breeder better than the male.
+	But what art thou, whose heavy looks foretell
+	Some dreadful story hanging on thy tongue?
+<SPEECH 16><ACT 2><SCENE 1><22%>
+	Say how he died, for I will hear it all.
+<SPEECH 17><ACT 2><SCENE 1><23%>
+	I cannot weep, for all my body's moisture
+	Scarce serves to quench my furnace-burning heart:
+	Nor can my tongue unload my heart's great burden;
+	For self-same wind, that I should speak withal
+	Is kindling coals that fire all my breast,
+	And burn me up with flames, that tears would quench.
+	To weep is to make less the depth of grief:
+	Tears then, for babes; blows and revenge for me!
+	Richard, I bear thy name; I'll venge thy death,
+	Or die renowned by attempting it.
+<SPEECH 18><ACT 2><SCENE 1><23%>
+	Nay, if thou be that princely eagle's bird,
+	Show thy descent by gazing 'gainst the sun:
+	For chair and dukedom, throne and kingdom say;
+	Either that is thine, or else thou wert not his.
+<SPEECH 19><ACT 2><SCENE 1><24%>
+	Great Lord of Warwick, if we should recount
+	Our baleful news, and at each word's deliv'rance
+	Stab poniards in our flesh till all were told,
+	The words would add more anguish than the wounds.
+	O valiant lord! the Duke of York is slain.
+<SPEECH 20><ACT 2><SCENE 1><25%>
+	'Twas odds, belike, when valiant Warwick fled:
+	Oft have I heard his praises in pursuit,
+	But ne'er till now his scandal of retire.
+<SPEECH 21><ACT 2><SCENE 1><25%>
+	I know it well, Lord Warwick; blame me not:
+	'Tis love I bear thy glories makes me speak.
+	But, in this troublous time what's to be done?
+	Shall we go throw away our coats of steel,
+	And wrap our bodies in black mourning gowns,
+	Numb'ring our Ave-Maries with our beads?
+	Or shall we on the helmets of our foes
+	Tell our devotion with revengeful arms?
+	If for the last, say 'Ay,' and to it, lords.
+<SPEECH 22><ACT 2><SCENE 1><26%>
+	Ay, now methinks I hear great Warwick speak:
+	Ne'er may he live to see a sunshine day,
+	That cries 'Retire,' if Warwick bid him stay.
+<SPEECH 23><ACT 2><SCENE 1><27%>
+	Then, Clifford, were thy heart as hard as steel,—
+	As thou hast shown it flinty by thy deeds,—
+	I come to pierce it, or to give thee mine.
+<SPEECH 24><ACT 2><SCENE 2><30%>
+	Are you there, butcher? O! I cannot speak.
+<SPEECH 25><ACT 2><SCENE 2><30%>
+	'Twas you that kill'd young Rutland, was it not?
+<SPEECH 26><ACT 2><SCENE 2><30%>
+	For God's sake, lords, give signal to the fight.
+<SPEECH 27><ACT 2><SCENE 2><31%>
+	Northumberland, I hold thee reverently.
+	Break off the parley; for scarce I can refrain
+	The execution of my big-swoln heart
+	Upon that Clifford, that cruel child-killer.
+<SPEECH 28><ACT 2><SCENE 2><31%>
+	Ay, like a dastard and a treacherous coward,
+	As thou didst kill our tender brother Rutland;
+	But ere sun-set I'll make thee curse the deed.
+<SPEECH 29><ACT 2><SCENE 2><31%>
+	Then, executioner, unsheathe thy sword.
+	By him that made us all, I am resolv'd
+	That Clifford's manhood lies upon his tongue.
+<SPEECH 30><ACT 2><SCENE 2><31%>
+	Whoever got thee, there thy mother stands;
+	For well I wot thou hast thy mother's tongue.
+<SPEECH 31><ACT 2><SCENE 2><32%>
+	Iron of Naples hid with English gilt,
+	Whose father bears the title of a king,—
+	As if a channel should be call'd the sea,—
+	Sham'st thou not, knowing whence thou art extraught,
+	To let thy tongue detect thy base-born heart?
+<SPEECH 32><ACT 2><SCENE 3><33%>
+	Ah! Warwick, why hast thou withdrawn thyself?
+	Thy brother's blood the thirsty earth hath drunk,
+	Broach'd with the steely point of Clifford's lance;
+	And in the very pangs of death he cried,
+	Like to a dismal clangor heard from far,
+	'Warwick, revenge! brother, revenge my death!'
+	So, underneath the belly of their steeds,
+	That stain'd their fetlocks in his smoking blood,
+	The noble gentleman gave up the ghost.
+<SPEECH 33><ACT 2><SCENE 3><34%>
+	Brother, give me thy hand; and, gentle Warwick,
+	Let me embrace thee in my weary arms:
+	I, that did never weep, now melt with woe
+	That winter should cut off our spring-time so.
+<SPEECH 34><ACT 2><SCENE 4><35%>
+	Now, Clifford, I have singled thee alone.
+	Suppose this arm is for the Duke of York,
+	And this for Rutland; both bound to revenge,
+	Wert thou environ'd with a brazen wall.
+<SPEECH 35><ACT 2><SCENE 4><35%>
+	Nay, Warwick, single out some other chase;
+	For I myself will hunt this wolf to death.
+<SPEECH 36><ACT 2><SCENE 6><41%>
+	A deadly groan, like life and death's departing.
+<SPEECH 37><ACT 2><SCENE 6><41%>
+	Revoke that doom of mercy, for 'tis Clifford;
+	Who not contented that he lopp'd the branch
+	In hewing Rutland when his leaves put forth,
+	But set his murd'ring knife unto the root
+	From whence that tender spray did sweetly spring,
+	I mean our princely father, Duke of York.
+<SPEECH 38><ACT 2><SCENE 6><42%>
+	O! would he did; and so perhaps he doth:
+	'Tis but his policy to counterfeit,
+	Because he would avoid such bitter taunts
+	Which in the time of death he gave our father.
+<SPEECH 39><ACT 2><SCENE 6><42%>
+	Clifford! ask mercy and obtain no grace.
+<SPEECH 40><ACT 2><SCENE 6><42%>
+	Thou didst love York, and I am son to York.
+<SPEECH 41><ACT 2><SCENE 6><42%>
+	What! not an oath? nay, then the world goes hard
+	When Clifford cannot spare his friends an oath.
+	I know by that he's dead; and, by my soul,
+	If this right hand would buy two hours' life,
+	That I in all despite might rail at him,
+	This hand should chop it off, and with the issuing blood
+	Stifle the villain whose unstaunched thirst
+	York and young Rutland could not satisfy.
+<SPEECH 42><ACT 2><SCENE 6><43%>
+	Let me be Duke of Clarence, George of Gloucester,
+	For Gloucester's dukedom is too ominous.

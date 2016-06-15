@@ -1,0 +1,13 @@
+<SPEECH 1><SCENE 1><1%>
+	Why, Bellman is as good as he, my lord;
+	He cried upon it at the merest loss,
+	And twice to-day pick'd out the dullest scent:
+	Trust me, I take him for the better dog.
+<SPEECH 2><SCENE 1><2%>
+	I will, my lord.
+<SPEECH 3><SCENE 1><2%>
+	Believe me, lord, I think he cannot choose.
+<SPEECH 4><SCENE 1><3%>
+	My lord, I warrant you we will play our part,
+	As he shall think, by our true diligence,
+	He is no less than what we say he is.

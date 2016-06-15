@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 4><SCENE 3><84%>
+	My lord!
+<SPEECH 2><ACT 4><SCENE 3><84%>
+	Did we, my lord?
+<SPEECH 3><ACT 4><SCENE 3><84%>
+	Nor I, my lord.
+<SPEECH 4><ACT 4><SCENE 3><85%>
+	It shall be done, my lord.

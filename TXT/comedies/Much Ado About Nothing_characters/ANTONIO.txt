@@ -1,0 +1,67 @@
+<SPEECH 1><ACT 1><SCENE 2><12%>
+	He is very busy about it. But, brother, I can tell you strange news that you yet dreaint not of.
+<SPEECH 2><ACT 1><SCENE 2><12%>
+	As the event stamps them: but they have a good cover; they show well outward. The prince and Count Claudio, walking in a thick-pleached alley in my orchard, were thus much overheard by a man of mine: the prince discovered to Claudio that he loved my niece your daughter, and meant to acknowledge it this night in a dance; and, if he found her accordant, he meant to take the present time by the top and instantly break with you of it.
+<SPEECH 3><ACT 1><SCENE 2><12%>
+	A good sharp fellow: I will send for him; and question him yourself.
+<SPEECH 4><ACT 2><SCENE 1><16%>
+	I saw him not.
+<SPEECH 5><ACT 2><SCENE 1><16%>
+	In faith, she's too curst.
+<SPEECH 6><ACT 2><SCENE 1><17%>
+	</STAGE DIR> Well, niece, I trust you will be ruled by your father.
+<SPEECH 7><ACT 2><SCENE 1><19%>
+	At a word, I am not.
+<SPEECH 8><ACT 2><SCENE 1><19%>
+	To tell you true, I counterfeit him.
+<SPEECH 9><ACT 2><SCENE 1><20%>
+	At a word, I am not.
+<SPEECH 10><ACT 5><SCENE 1><77%>
+	If you go on thus, you will kill yourself;
+	And 'tis not wisdom thus to second grief
+	Against yourself.
+<SPEECH 11><ACT 5><SCENE 1><79%>
+	Therein do men from children nothing differ.
+<SPEECH 12><ACT 5><SCENE 1><79%>
+	Yet bend not all the harm upon yourself;
+	Make those that do offend you suffer too.
+<SPEECH 13><ACT 5><SCENE 1><79%>
+	Here come the prince and Claudio hastily.
+<SPEECH 14><ACT 5><SCENE 1><79%>
+	If he could right himself with quarrelling,
+	Some of us would lie low.
+<SPEECH 15><ACT 5><SCENE 1><80%>
+	He shall kill two of us, and men indeed:
+	But that's no matter; let him kill one first:
+	Win me and wear me; let him answer me.
+	Come, follow me, boy; come, sir boy, come, follow me.
+	Sir boy, I'll whip you from your foining fence;
+	Nay, as I am a gentleman, I will.
+<SPEECH 16><ACT 5><SCENE 1><81%>
+	Content yourself. God knows I lov'd my niece;
+	And she is dead, slander'd to death by villains,
+	That dare as well answer a man indeed
+	As I dare take a serpent by the tongue.
+	Boys, apes, braggarts, Jacks, milksops!
+<SPEECH 17><ACT 5><SCENE 1><81%>
+	Hold you content. What, man! I know them, yea,
+	And what they weigh, even to the utmost scruple,
+	Scrambling, out-facing, fashion-monging boys,
+	That lie and cog and flout, deprave and slander,
+	Go antickly, show outward hideousness,
+	And speak off half a dozen dangerous words,
+	How they might hurt their enemies, if they durst;
+	And this is all!
+<SPEECH 18><ACT 5><SCENE 1><81%>
+	Come, 'tis no matter:
+	Do not you meddle, let me deal in this.
+<SPEECH 19><ACT 5><SCENE 1><81%>
+	And shall, or some of us will smart for it.
+<SPEECH 20><ACT 5><SCENE 1><90%>
+	Farewell, my lords: we look for you to-morrow.
+<SPEECH 21><ACT 5><SCENE 4><95%>
+	Well, I am glad that all things sort so well.
+<SPEECH 22><ACT 5><SCENE 4><95%>
+	Which I will do with confirm'd countenance.
+<SPEECH 23><ACT 5><SCENE 4><97%>
+	This same is she, and I do give you her.

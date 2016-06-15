@@ -1,0 +1,231 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	England ne'er had a king until his time.
+	Virtue he had, deserving to command:
+	His brandish'd sword did blind men with his beams;
+	His arms spread wider than a dragon's wings;
+	His sparkling eyes, replete with wrathful fire,
+	More dazzled and drove back his enemies
+	Than mid-day sun fierce bent against their faces.
+	What should I say? his deeds exceed all speech:
+	He ne'er lift up his hand but conquered.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	The church! where is it? Had not churchmen pray'd
+	His thread of life had not so soon decay'd:
+	None do you like but an effeminate prince,
+	Whom like a school-boy you may over-awe.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Name not religion, for thou lov'st the flesh,
+	And ne'er throughout the year to church thou go'st,
+	Except it be to pray against thy foes.
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	Is Paris lost? is Roan yielded up?
+	If Henry were recall'd to life again
+	These news would cause him once more yield the ghost.
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	We will not fly, but to our enemies' throats.
+	Bedford, if thou be slack, I'll fight it out.
+<SPEECH 6><ACT 1><SCENE 1><6%>
+	I'll to the Tower with all the haste I can,
+	To view the artillery and munition;
+	And then I will proclaim young Henry king.
+<SPEECH 7><ACT 1><SCENE 3><12%>
+	I am come to survey the Tower this day;
+	Since Henry's death, I fear, there is conveyance.
+	Where be these warders that they wait not here?
+	Open the gates! 'Tis Gloucester that calls.
+<SPEECH 8><ACT 1><SCENE 3><13%>
+	Who willed you? or whose will stands but mine?
+	There's none protector of the realm but I.
+	Break up the gates, I'll be your warrantize:
+	Shall I be flouted thus by dunghill grooms?
+<SPEECH 9><ACT 1><SCENE 3><13%>
+	Lieutenant, is it you whose voice I hear?
+	Open the gates! here's Gloucester that would enter.
+<SPEECH 10><ACT 1><SCENE 3><13%>
+	Faint-hearted Woodvile, prizest him 'fore me?
+	Arrogant Winchester, that haughty prelate,
+	Whom Henry, our late sovereign, ne'er could brook?
+	Thou art no friend to God or to the king:
+	Open the gates, or I'll shut thee out shortly.
+<SPEECH 11><ACT 1><SCENE 3><14%>
+	Peel'd priest, dost thou command me to be shut out?
+<SPEECH 12><ACT 1><SCENE 3><14%>
+	Stand back, thou manifest conspirator,
+	Thou that contriv'dst to murder our dead lord;
+	Thou that giv'st whores indulgences to sin:
+	I'll canvass thee in thy broad cardinal's hat,
+	If thou proceed in this thy insolence.
+<SPEECH 13><ACT 1><SCENE 3><14%>
+	I will not slay thee, but I'll drive thee back:
+	Thy scarlet robes as a child's bearing-cloth
+	I'll use to carry thee out of this place.
+<SPEECH 14><ACT 1><SCENE 3><14%>
+	What! am I dar'd and bearded to my face?—
+	Draw, men, for all this privileged place;
+	Blue coats to tawny-coats. Priest, beware your beard;
+	I mean to tug it and to cuff you soundly.
+	Under my feet I stamp thy cardinal's hat,
+	In spite of pope or dignities of church,
+	Here by the cheeks I'll drag thee up and down.
+<SPEECH 15><ACT 1><SCENE 3><14%>
+	Winchester goose! I cry a rope! a rope!
+	Now beat them hence; why do you let them stay?
+	Thee I'll chase hence, thou wolf in sheep's array.
+	Out, tawny coats! out, scarlet hypocrite!
+<SPEECH 16><ACT 1><SCENE 3><15%>
+	Peace, mayor! thou know'st little of my wrongs:
+	Here's Beaufort, that regards nor God nor King,
+	Hath here distrain'd the Tower to his use.
+<SPEECH 17><ACT 1><SCENE 3><15%>
+	I will not answer thee with words, but blows.
+<SPEECH 18><ACT 1><SCENE 3><15%>
+	Cardinal, I'll be no breaker of the law;
+	But we shall meet and break our minds at large.
+<SPEECH 19><ACT 1><SCENE 3><16%>
+	Mayor, farewell: thou dost but what thou mayst.
+<SPEECH 20><ACT 3><SCENE 1><41%>
+	Presumptuous priest! this place commands my patience
+	Or thou shouldst find thou hast dishonour'd me.
+	Think not, although in writing I preferr'd
+	The manner of thy vile outrageous crimes,
+	That therefore I have forg'd, or am not able
+	Verbatim to rehearse the method of my pen:
+	No, prelate; such is thy audacious wickedness,
+	Thy lewd, pestiferous, and dissentious pranks,
+	As very infants prattle of thy pride.
+	Thou art a most pernicious usurer,
+	Froward by nature, enemy to peace;
+	Lascivious, wanton, more than well beseems
+	A man of thy profession and degree;
+	And for thy treachery, what's more manifest?
+	In that thou laid'st a trap to take my life
+	As well at London Bridge as at the Tower.
+	Beside, I fear me, if thy thoughts were sifted,
+	The king, thy sov'reign, is not quite exempt
+	From envious malice of thy swelling heart.
+<SPEECH 21><ACT 3><SCENE 1><42%>
+	As good!
+	Thou bastard of my grandfather!
+<SPEECH 22><ACT 3><SCENE 1><42%>
+	Am I not protector, saucy priest?
+<SPEECH 23><ACT 3><SCENE 1><42%>
+	Yes, as an outlaw in a castle keeps,
+	And useth it to patronage his theft.
+<SPEECH 24><ACT 3><SCENE 1><43%>
+	Thou art reverent,
+	Touching thy spiritual function, not thy life.
+<SPEECH 25><ACT 3><SCENE 1><44%>
+	You of my household, leave this peevish broil,
+	And set this unaccustom'd fight aside.
+<SPEECH 26><ACT 3><SCENE 1><45%>
+	Stay, stay, I say!
+	And, if you love me, as you say you do,
+	Let me persuade you to forbear a while.
+<SPEECH 27><ACT 3><SCENE 1><45%>
+	Compassion on the king commands me stoop;
+	Or I would see his heart out ere the priest
+	Should ever get that privilege of me.
+<SPEECH 28><ACT 3><SCENE 1><45%>
+	Here, Winchester, I offer thee my hand.
+<SPEECH 29><ACT 3><SCENE 1><46%>
+	</STAGE DIR> Ay; but I fear me, with a hollow heart.
+	See here, my friends and loving countrymen,
+	This token serveth for a flag of truce,
+	Betwixt ourselves and all our followers.
+	So help me God, as I dissemble not!
+<SPEECH 30><ACT 3><SCENE 1><46%>
+	Well urg'd, my Lord of Warwick: for, sweet prince,
+	An if your Grace mark every circumstance,
+	You have great reason to do Richard right;
+	Especially for those occasions
+	At Eltham-place I told your majesty.
+<SPEECH 31><ACT 3><SCENE 1><47%>
+	Now, will it best avail your majesty
+	To cross the seas and to be crown'd in France.
+	The presence of a king engenders love
+	Amongst his subjects and his loyal friends,
+	As it disanimates his enemies.
+<SPEECH 32><ACT 3><SCENE 1><48%>
+	Your ships already are in readiness.
+<SPEECH 33><ACT 3><SCENE 4><58%>
+	Yes, if it please your majesty, my liege.
+<SPEECH 34><ACT 4><SCENE 1><59%>
+	Lord bishop, set the crown upon his head.
+<SPEECH 35><ACT 4><SCENE 1><59%>
+	Now, Governor of Paris, take your oath,—
+	That you elect no other king but him,
+	Esteem none friends but such as are his friends,
+	And none your foes but such as shall pretend
+	Malicious practices against his state:
+	This shall ye do, so help you righteous God!
+<SPEECH 36><ACT 4><SCENE 1><60%>
+	To say the truth, this fact was infamous
+	And ill beseeming any common man,
+	Much more a knight, a captain and a leader.
+<SPEECH 37><ACT 4><SCENE 1><61%>
+	</STAGE DIR> What means his Grace, that he hath chang'd his style?
+	No more, but plain and bluntly, To the King!
+	Hath he forgot he is his sovereign?
+	Or doth this churlish superscription
+	Pretend some alteration in good will?
+	What's here? I have, upon especial cause,
+	Mov'd with compassion of my country's wrack,
+	Together with the pitiful complaints
+	Of such as your oppression feeds upon,
+	Forsaken your pernicious faction,
+	And join'd with Charles, the rightful King of France.
+	O, monstrous treachery! Can this be so,
+	That in alliance, amity, and oaths,
+	There should be found such false dissembling guile?
+<SPEECH 38><ACT 4><SCENE 1><62%>
+	He doth, my lord, and is become your foe.
+<SPEECH 39><ACT 4><SCENE 1><62%>
+	It is the worst, and all, my lord, he writes.
+<SPEECH 40><ACT 4><SCENE 1><64%>
+	Confirm it so! Confounded be your strife!
+	And perish ye, with your audacious prate!
+	Presumptuous vassals! are you not asham'd,
+	With this immodest clamorous outrage
+	To trouble and disturb the king and us?—
+	And you, my lords, methinks you do not well
+	To bear with their perverse objections;
+	Much less to take occasion from their mouths
+	To raise a mutiny betwixt yourselves:
+	Let me persuade you take a better course.
+<SPEECH 41><ACT 5><SCENE 1><80%>
+	I have, my lord; and their intent is this:
+	They humbly sue unto your excellence
+	To have a godly peace concluded of
+	Between the realms of England and of France.
+<SPEECH 42><ACT 5><SCENE 1><80%>
+	Well, my good lord; and as the only means
+	To stop effusion of our Christian blood,
+	And stablish quietness on every side.
+<SPEECH 43><ACT 5><SCENE 1><80%>
+	Beside, my lord, the sooner to effect
+	And surer bind this knot of amity,
+	The Earl of Armagnac, near knit to Charles,
+	A man of great authority in France,
+	Proffers his only daughter to your Grace
+	In marriage, with a large and sumptuous dowry.
+<SPEECH 44><ACT 5><SCENE 1><81%>
+	And for the proffer of my lord your master,
+	I have inform'd his highness so at large,
+	As,—liking of the lady's virtuous gifts,
+	Her beauty, and the value of her dower,—
+	He doth intend she shall be England's queen.
+<SPEECH 45><ACT 5><SCENE 5><97%>
+	So should I give consent to flatter sin.
+	You know, my lord, your highness is betroth'd
+	Unto another lady of esteem;
+	How shall we then dispense with that contract,
+	And not deface your honour with reproach?
+<SPEECH 46><ACT 5><SCENE 5><98%>
+	Why, what, I pray, is Margaret more than that?
+	Her father is no better than an earl,
+	Although in glorious titles he excel.
+<SPEECH 47><ACT 5><SCENE 5><98%>
+	And so the Earl of Armagnac may do,
+	Because he is near kinsman unto Charles.
+<SPEECH 48><ACT 5><SCENE 5><100%>
+	Ay, grief, I fear me, both at first and last.

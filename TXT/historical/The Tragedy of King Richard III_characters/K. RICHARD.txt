@@ -1,0 +1,606 @@
+<SPEECH 1><ACT 4><SCENE 2><66%>
+	Stand all apart. Cousin of Buckingham.
+<SPEECH 2><ACT 4><SCENE 2><66%>
+	Give me thy hand. <STAGE DIR>
+	</STAGE DIR> Thus high, by thy advice,
+	And thy assistance, is King Richard seated:
+	But shall we wear these glories for a day?
+	Or shall they last, and we rejoice in them?
+<SPEECH 3><ACT 4><SCENE 2><66%>
+	Ah! Buckingham, now do I play the touch,
+	To try if thou be current gold indeed:
+	Young Edward lives: think now what I would speak.
+<SPEECH 4><ACT 4><SCENE 2><66%>
+	Why, Buckingham, I say, I would be king.
+<SPEECH 5><ACT 4><SCENE 2><66%>
+	Ha! am I king? 'Tis so: but Edward lives.
+<SPEECH 6><ACT 4><SCENE 2><66%>
+	O bitter consequence,
+	That Edward still should live! 'True, noble prince!'
+	Cousin, thou wast not wont to be so dull:
+	Shall I be plain? I wish the bastards dead;
+	And I would have it suddenly perform'd.
+	What sayst thou now? speak suddenly, be brief.
+<SPEECH 7><ACT 4><SCENE 2><66%>
+	Tut, tut! thou art all ice, thy kindness freezes:
+	Say, have I thy consent that they shall die?
+<SPEECH 8><ACT 4><SCENE 2><67%>
+	</STAGE DIR> I will converse with iron-witted fools
+	And unrespective boys: none are for me
+	That look into me with considerate eyes.
+	High-reaching Buckingham grows circumspect.
+	Boy!
+<SPEECH 9><ACT 4><SCENE 2><67%>
+	Know'st thou not any whom corrupting gold
+	Will tempt unto a close exploit of death?
+<SPEECH 10><ACT 4><SCENE 2><67%>
+	What is his name?
+<SPEECH 11><ACT 4><SCENE 2><67%>
+	I partly know the man: go, call him hither.
+	The deep-revolving witty Buckingham
+	No more shall be the neighbour to my counsel.
+	Hath he so long held out with me untir'd,
+	And stops he now for breath? well, be it so.
+	How now, Lord Stanley! what's the news?
+<SPEECH 12><ACT 4><SCENE 2><67%>
+	Come hither, Catesby: rumour it abroad,
+	That Anne my wife is very grievous sick;
+	I will take order for her keeping close.
+	Inquire me out some mean poor gentleman,
+	Whom I will marry straight to Clarence' daughter:
+	The boy is foolish, and I fear not him.
+	Look, how thou dream'st! I say again, give out
+	That Anne my queen is sick, and like to die:
+	About it; for it stands me much upon,
+	To stop all hopes whose growth may damage me.
+	I must be married to my brother's daughter,
+	Or else my kingdom stands on brittle glass.
+	Murder her brothers, and then marry her!
+	Uncertain way of gain! But I am in
+	So far in blood, that sin will pluck on sin:
+	Tear-falling pity dwells not in this eye.
+	Is thy name Tyrrell?
+<SPEECH 13><ACT 4><SCENE 2><68%>
+	Art thou, indeed?
+<SPEECH 14><ACT 4><SCENE 2><68%>
+	Dar'st thou resolve to kill a friend of mine?
+<SPEECH 15><ACT 4><SCENE 2><68%>
+	Why, then thou hast it: two deep enemies,
+	Foes to my rest, and my sweet sleep's disturbers,
+	Are they that I would have thee deal upon.
+	Tyrrell, I mean those bastards in the Tower.
+<SPEECH 16><ACT 4><SCENE 2><68%>
+	Thou sing'st sweet music. Hark, come hither, Tyrrell:
+	Go, by this token: rise, and lend thine ear.
+	There is no more but so: say it is done,
+	And I will love thee, and prefer thee for it.
+<SPEECH 17><ACT 4><SCENE 2><68%>
+	Well, let that rest. Dorset is fled to Richmond.
+<SPEECH 18><ACT 4><SCENE 2><68%>
+	Stanley, he is your wife's son: well, look to it.
+<SPEECH 19><ACT 4><SCENE 2><68%>
+	Stanley, look to your wife: if she convey
+	Letters to Richmond, you shall answer it.
+<SPEECH 20><ACT 4><SCENE 2><68%>
+	I do remember me, Henry the Sixth
+	Did prophesy that Richmond should be king,
+	When Richmond was a little peevish boy.
+	A king! perhaps—
+<SPEECH 21><ACT 4><SCENE 2><69%>
+	How chance the prophet could not at that time
+	Have told me, I being by, that I should kill him?
+<SPEECH 22><ACT 4><SCENE 2><69%>
+	Richmond! When last I was at Exeter,
+	The mayor in courtesy show'd me the castle,
+	And call'd it Rougemont: at which name I started,
+	Because a bard of Ireland told me once
+	I should not live long after I saw Richmond.
+<SPEECH 23><ACT 4><SCENE 2><69%>
+	Ay, what's o'clock?
+<SPEECH 24><ACT 4><SCENE 2><69%>
+	Well, but what is't o'clock?
+<SPEECH 25><ACT 4><SCENE 2><69%>
+	Well, let it strike.
+<SPEECH 26><ACT 4><SCENE 2><69%>
+	Because that, like a Jack, thou keep'st the stroke
+	Betwixt thy begging and my meditation.
+	I am not in the giving vein to-day.
+<SPEECH 27><ACT 4><SCENE 2><69%>
+	Thou troublest me: I am not in the vein.
+<SPEECH 28><ACT 4><SCENE 3><70%>
+	Kind Tyrrell, am I happy in thy news?
+<SPEECH 29><ACT 4><SCENE 3><70%>
+	But didst thou see them dead?
+<SPEECH 30><ACT 4><SCENE 3><70%>
+	And buried, gentle Tyrrell?
+<SPEECH 31><ACT 4><SCENE 3><70%>
+	Come to me, Tyrrell, soon at after-supper,
+	When thou shalt tell the process of their death.
+	Meantime, but think how I may do thee good,
+	And be inheritor of thy desire.
+	Farewell till then.
+<SPEECH 32><ACT 4><SCENE 3><70%>
+	The son of Clarence have I pent up close;
+	His daughter meanly have I match'd in marriage;
+	The sons of Edward sleep in Abraham's bosom,
+	And Anne my wife hath bid the world good night.
+	Now, for I know the Breton Richmond aims
+	At young Elizabeth, my brother's daughter,
+	And, by that knot, looks proudly on the crown,
+	To her go I, a jolly thriving wooer.
+<SPEECH 33><ACT 4><SCENE 3><70%>
+	Good or bad news, that thou com'st in so bluntly?
+<SPEECH 34><ACT 4><SCENE 3><71%>
+	Ely with Richmond troubles me more near
+	Than Buckingham and his rash-levied strength.
+	Come; I have learn'd that fearful commenting
+	Is leaden servitor to dull delay:
+	Delay leads impotent and snail-pac'd beggary:
+	Then fiery expedition be my wing,
+	Jove's Mercury, and herald for a king!
+	Go, muster men: my counsel is my shield;
+	We must be brief when traitors brave the field.
+<SPEECH 35><ACT 4><SCENE 4><74%>
+	Who intercepts me in my expedition?
+<SPEECH 36><ACT 4><SCENE 4><75%>
+	A flourish, trumpets! strike alarum, drums!
+	Let not the heavens hear these tell-tale women
+	Rail on the Lord's anointed. Strike, I say!
+	Either be patient, and entreat me fair,
+	Or with the clamorous report of war
+	Thus will I drown your exclamations.
+<SPEECH 37><ACT 4><SCENE 4><75%>
+	Ay; I thank God, my father, and yourself.
+<SPEECH 38><ACT 4><SCENE 4><75%>
+	Madam, I have a touch of your condition,
+	That cannot brook the accent of reproof.
+<SPEECH 39><ACT 4><SCENE 4><75%>
+	Do, then; but I'll not hear.
+<SPEECH 40><ACT 4><SCENE 4><75%>
+	And brief, good mother; for I am in haste.
+<SPEECH 41><ACT 4><SCENE 4><75%>
+	And came I not at last to comfort you?
+<SPEECH 42><ACT 4><SCENE 4><76%>
+	Faith, none, but Humphrey Hour, that call'd your Grace
+	To breakfast once forth of my company.
+	If I be so disgracious in your eye,
+	Let me march on, and not offend you, madam.
+	Strike up the drum!
+<SPEECH 43><ACT 4><SCENE 4><76%>
+	You speak too bitterly.
+<SPEECH 44><ACT 4><SCENE 4><76%>
+	So!
+<SPEECH 45><ACT 4><SCENE 4><76%>
+	Stay, madam; I must talk a word with you.
+<SPEECH 46><ACT 4><SCENE 4><76%>
+	You have a daughter call'd Elizabeth,
+	Virtuous and fair, royal and gracious.
+<SPEECH 47><ACT 4><SCENE 4><77%>
+	Wrong not her birth; she is of royal blood.
+<SPEECH 48><ACT 4><SCENE 4><77%>
+	Her life is safest only in her birth.
+<SPEECH 49><ACT 4><SCENE 4><77%>
+	Lo! at their births good stars were opposite!
+<SPEECH 50><ACT 4><SCENE 4><77%>
+	All unavoided is the doom of destiny.
+<SPEECH 51><ACT 4><SCENE 4><77%>
+	You speak as if that I had slain my cousins.
+<SPEECH 52><ACT 4><SCENE 4><77%>
+	Madam, so thrive I in my enterprise
+	And dangerous success of bloody wars,
+	As I intend more good to you and yours
+	Than ever you or yours by me were harm'd.
+<SPEECH 53><ACT 4><SCENE 4><77%>
+	The advancement of your children, gentle lady.
+<SPEECH 54><ACT 4><SCENE 4><77%>
+	No, to the dignity and height of fortune,
+	The high imperial type of this earth's glory.
+<SPEECH 55><ACT 4><SCENE 4><78%>
+	Even all I have; ay, and myself and all,
+	Will I withal endow a child of thine;
+	So in the Lethe of thy angry soul
+	Thou drown the sad remembrance of those wrongs
+	Which thou supposest I have done to thee.
+<SPEECH 56><ACT 4><SCENE 4><78%>
+	Then know, that from my soul I love thy daughter.
+<SPEECH 57><ACT 4><SCENE 4><78%>
+	What do you think?
+<SPEECH 58><ACT 4><SCENE 4><78%>
+	Be not too hasty to confound my meaning:
+	I mean, that with my soul I love thy daughter,
+	And do intend to make her Queen of England.
+<SPEECH 59><ACT 4><SCENE 4><78%>
+	Even he that makes her queen: who else should be?
+<SPEECH 60><ACT 4><SCENE 4><78%>
+	Even so: what think you of it?
+<SPEECH 61><ACT 4><SCENE 4><78%>
+	That I would learn of you,
+	As one being best acquainted with her humour.
+<SPEECH 62><ACT 4><SCENE 4><78%>
+	Madam, with all my heart.
+<SPEECH 63><ACT 4><SCENE 4><79%>
+	You mock me, madam; this is not the way
+	To win your daughter.
+<SPEECH 64><ACT 4><SCENE 4><79%>
+	Say, that I did all this for love of her?
+<SPEECH 65><ACT 4><SCENE 4><79%>
+	Look, what is done cannot be now amended:
+	Men shall deal unadvisedly sometimes,
+	Which after-hours give leisure to repent.
+	If I did take the kingdom from your sons,
+	To make amends I'll give it to your daughter.
+	If I have kill'd the issue of your womb,
+	To quicken your increase, I will beget
+	Mine issue of your blood upon your daughter:
+	A grandam's name is little less in love
+	Than is the doting title of a mother;
+	They are as children but one step below,
+	Even of your mettle, of your very blood;
+	Of all one pain, save for a night of groans
+	Endur'd of her for whom you bid like sorrow.
+	Your children were vexation to your youth,
+	But mine shall be a comfort to your age.
+	The loss you have is but a son being king,
+	And by that loss your daughter is made queen.
+	I cannot make you what amends I would,
+	Therefore accept such kindness as I can.
+	Dorset your son, that with a fearful soul
+	Leads discontented steps in foreign soil,
+	This fair alliance quickly shall call home
+	To high promotions and great dignity:
+	The king that calls your beauteous daughter wife,
+	Familiarly shall call thy Dorset brother;
+	Again shall you be mother to a king,
+	And all the ruins of distressful times
+	Repair'd with double riches of content.
+	What! we have many goodly days to see:
+	The liquid drops of tears that you have shed
+	Shall come again, transform'd to orient pearl,
+	Advantaging their loan with interest
+	Of ten times double gain of happiness.
+	Go then, my mother; to thy daughter go:
+	Make bold her bashful years with your experience;
+	Prepare her ears to hear a wooer's tale;
+	Put in her tender heart the aspiring flame
+	Of golden sovereignty; acquaint the princess
+	With the sweet silent hours of marriage joys:
+	And when this arm of mine hath chastised
+	The petty rebel, dull-brain'd Buckingham,
+	Bound with triumphant garlands will I come,
+	And lead thy daughter to a conqueror's bed;
+	To whom I will retail my conquest won,
+	And she shall be sole victress, Cæsar's Cæsar.
+<SPEECH 66><ACT 4><SCENE 4><80%>
+	Infer fair England's peace by this alliance.
+<SPEECH 67><ACT 4><SCENE 4><80%>
+	Tell her, the king, that may command, entreats.
+<SPEECH 68><ACT 4><SCENE 4><80%>
+	Say, she shall be a high and mighty queen.
+<SPEECH 69><ACT 4><SCENE 4><80%>
+	Say, I will love her everlastingly.
+<SPEECH 70><ACT 4><SCENE 4><80%>
+	Sweetly in force unto her fair life's end.
+<SPEECH 71><ACT 4><SCENE 4><80%>
+	As long as heaven and nature lengthens it.
+<SPEECH 72><ACT 4><SCENE 4><80%>
+	Say, I, her sovereign, am her subject low.
+<SPEECH 73><ACT 4><SCENE 4><80%>
+	Be eloquent in my behalf to her.
+<SPEECH 74><ACT 4><SCENE 4><80%>
+	Then plainly to her tell my loving tale.
+<SPEECH 75><ACT 4><SCENE 4><81%>
+	Your reasons are too shallow and too quick.
+<SPEECH 76><ACT 4><SCENE 4><81%>
+	Harp not on that string, madam; that is past.
+<SPEECH 77><ACT 4><SCENE 4><81%>
+	Now, by my George, my garter, and my crown,—
+<SPEECH 78><ACT 4><SCENE 4><81%>
+	I swear,—
+<SPEECH 79><ACT 4><SCENE 4><81%>
+	Now, by the world,—
+<SPEECH 80><ACT 4><SCENE 4><81%>
+	My father's death,—
+<SPEECH 81><ACT 4><SCENE 4><81%>
+	Then, by myself,—
+<SPEECH 82><ACT 4><SCENE 4><81%>
+	Why, then, by God,—
+<SPEECH 83><ACT 4><SCENE 4><81%>
+	The time to come.
+<SPEECH 84><ACT 4><SCENE 4><82%>
+	As I intend to prosper, and repent,
+	So thrive I in my dangerous affairs
+	Of hostile arms! myself myself confound!
+	Heaven and fortune bar me happy hours!
+	Day, yield me not thy light; nor, night, thy rest!
+	Be opposite all planets of good luck
+	To my proceeding, if, with pure heart's love,
+	Immaculate devotion, holy thoughts,
+	I tender not thy beauteous princely daughter!
+	In her consists my happiness and thine;
+	Without her, follows to myself, and thee,
+	Herself, the land, and many a Christian soul,
+	Death, desolation, ruin, and decay:
+	It cannot be avoided but by this;
+	It will not be avoided but by this.
+	Therefore, dear mother,—I must call you so,—
+	Be the attorney of my love to her:
+	Plead what I will be, not what I have been;
+	Not my deserts, but what I will deserve:
+	Urge the necessity and state of times,
+	And be not peevish-fond in great designs.
+<SPEECH 85><ACT 4><SCENE 4><82%>
+	Ay, if the devil tempt thee to do good.
+<SPEECH 86><ACT 4><SCENE 4><82%>
+	Ay, if your self's remembrance wrong yourself.
+<SPEECH 87><ACT 4><SCENE 4><82%>
+	But in your daughter's womb I bury them:
+	Where, in that nest of spicery, they shall breed
+	Selves of themselves, to your recomforture.
+<SPEECH 88><ACT 4><SCENE 4><82%>
+	And be a happy mother by the deed.
+<SPEECH 89><ACT 4><SCENE 4><82%>
+	Bear her my true love's kiss; and so farewell.
+	Relenting fool, and shallow changing woman!
+	How now! what news?
+<SPEECH 90><ACT 4><SCENE 4><83%>
+	Some light-foot friend post to the Duke of Norfolk:
+	Ratcliff, thyself, or Catesby; where is he?
+<SPEECH 91><ACT 4><SCENE 4><83%>
+	Catesby, fly to the duke.
+<SPEECH 92><ACT 4><SCENE 4><83%>
+	Ratcliff, come hither. Post to Salisbury:
+	When thou com'st thither,—<STAGE DIR>
+	</STAGE DIR> Dull, unmindful villain,
+	Why stay'st thou here, and go'st not to the duke?
+<SPEECH 93><ACT 4><SCENE 4><83%>
+	O! true, good Catesby: bid him levy straight
+	The greatest strength and power he can make,
+	And meet me suddenly at Salisbury.
+<SPEECH 94><ACT 4><SCENE 4><83%>
+	Why, what wouldst thou do there before I go?
+<SPEECH 95><ACT 4><SCENE 4><83%>
+	My mind is chang'd. Stanley, what news with you?
+<SPEECH 96><ACT 4><SCENE 4><83%>
+	Hoyday, a riddle! neither good nor bad!
+	What need'st thou run so many miles about,
+	When thou mayst tell thy tale the nearest way?
+	Once more, what news?
+<SPEECH 97><ACT 4><SCENE 4><83%>
+	There let him sink, and be the seas on him!
+	White-liver'd runagate! what doth he there?
+<SPEECH 98><ACT 4><SCENE 4><84%>
+	Well, as you guess?
+<SPEECH 99><ACT 4><SCENE 4><84%>
+	Is the chair empty? is the sword unsway'd?
+	Is the king dead? the empire unpossess'd?
+	What heir of York is there alive but we?
+	And who is England's king but great York's heir?
+	Then, tell me, what makes he upon the seas?
+<SPEECH 100><ACT 4><SCENE 4><84%>
+	Unless for that he comes to be your liege,
+	You cannot guess wherefore the Welshman comes.
+	Thou wilt revolt and fly to him I fear.
+<SPEECH 101><ACT 4><SCENE 4><84%>
+	Where is thy power then to beat him back?
+	Where be thy tenants and thy followers?
+	Are they not now upon the western shore,
+	Safe-conducting the rebels from their ships?
+<SPEECH 102><ACT 4><SCENE 4><84%>
+	Cold friends to me: what do they in the north
+	When they should serve their sovereign in the west?
+<SPEECH 103><ACT 4><SCENE 4><84%>
+	Ay, ay, thou wouldst be gone to join with Richmond:
+	But I'll not trust thee.
+<SPEECH 104><ACT 4><SCENE 4><84%>
+	Go then and muster men: but leave behind
+	Your son, George Stanley: look your heart be firm,
+	Or else his head's assurance is but frail.
+<SPEECH 105><ACT 4><SCENE 4><85%>
+	Out on ye, owls! nothing but songs of death?
+	There, take thou that, till thou bring better news.
+<SPEECH 106><ACT 4><SCENE 4><85%>
+	I cry thee mercy:
+	There is my purse, to cure that blow of thine.
+	Hath any well-advised friend proclaim'd
+	Reward to him that brings the traitor in?
+<SPEECH 107><ACT 4><SCENE 4><85%>
+	March on, march on, since we are up in arms;
+	If not to fight with foreign enemies,
+	Yet to beat down these rebels here at home.
+<SPEECH 108><ACT 4><SCENE 4><86%>
+	Away towards Salisbury! while we reason here,
+	A royal battle might be won and lost.
+	Some one take order Buckingham be brought
+	To Salisbury; the rest march on with me.
+<SPEECH 109><ACT 5><SCENE 3><88%>
+	Here pitch our tent, even here in Bosworth field.
+	My Lord of Surrey, why look you so sad?
+<SPEECH 110><ACT 5><SCENE 3><88%>
+	My Lord of Norfolk,—
+<SPEECH 111><ACT 5><SCENE 3><88%>
+	Norfolk, we must have knocks; ha! must we not?
+<SPEECH 112><ACT 5><SCENE 3><88%>
+	Up with my tent! here will I lie to-night;
+	But where to-morrow? Well, all's one for that.
+	Who hath descried the number of the traitors?
+<SPEECH 113><ACT 5><SCENE 3><88%>
+	Why, our battalia trebles that account;
+	Besides, the king's name is a tower of strength,
+	Which they upon the adverse faction want.
+	Up with the tent! Come, noble gentlemen,
+	Let us survey the vantage of the ground;
+	Call for some men of sound direction:
+	Let's lack no discipline, make no delay;
+	For, lords, to-morrow is a busy day.
+<SPEECH 114><ACT 5><SCENE 3><89%>
+	What is 't o'clock?
+<SPEECH 115><ACT 5><SCENE 3><89%>
+	I will not sup to-night.
+	Give me some ink and paper.
+	What, is my beaver easier than it was,
+	And all my armour laid into my tent?
+<SPEECH 116><ACT 5><SCENE 3><90%>
+	Good Norfolk, hie thee to thy charge;
+	Use careful watch; choose trusty sentinels.
+<SPEECH 117><ACT 5><SCENE 3><90%>
+	Stir with the lark to-morrow, gentle Norfolk.
+<SPEECH 118><ACT 5><SCENE 3><90%>
+	Ratcliff!
+<SPEECH 119><ACT 5><SCENE 3><90%>
+	Send out a pursuivant at arms
+	To Stanley's regiment; bid him bring his power
+	Before sun-rising, lest his son George fall
+	Into the blind cave of eternal night.
+	Fill me a bowl of wine. Give me a watch.
+	Saddle white Surrey for the field to-morrow.
+	Look that my staves be sound, and not too heavy.
+	Ratcliff!
+<SPEECH 120><ACT 5><SCENE 3><90%>
+	Saw'st thou the melancholy Lord Northumberland?
+<SPEECH 121><ACT 5><SCENE 3><90%>
+	So, I am satisfied. Give me a bowl of wine:
+	I have not that alacrity of spirit,
+	Nor cheer of mind, that I was wont to have.
+	Set it down. Is ink and paper ready?
+<SPEECH 122><ACT 5><SCENE 3><90%>
+	Bid my guard watch; leave me.
+	Ratcliff, about the mid of night come to my tent
+	And help to arm me. Leave me, I say.
+<SPEECH 123><ACT 5><SCENE 3><94%>
+	Give me another horse! bind up my wounds!
+	Have mercy, Jesu! Soft! I did but dream.
+	O coward conscience, how dost thou afflict me!
+	The lights burn blue. It is now dead midnight.
+	Cold fearful drops stand on my trembling flesh.
+	What! do I fear myself? there's none else by:
+	Richard loves Richard, that is, I am I.
+	Is there a murderer here? No. Yes, I am:
+	Then fly: what! from myself? Great reason why:
+	Lest I revenge. What! myself upon myself?
+	Alack! I love myself. Wherefore? for any good
+	That I myself have done unto myself?
+	O! no: alas! I rather hate myself
+	For hateful deeds committed by myself.
+	I am a villain. Yet I lie; I am not.
+	Fool, of thyself speak well: fool, do not flatter.
+	My conscience hath a thousand several tongues,
+	And every tongue brings in a several tale,
+	And every tale condemns me for a villain.
+	Perjury, perjury, in the high'st degree:
+	Murder, stern murder, in the dir'st degree;
+	All several sins, all us'd in each degree,
+	Throng to the bar, crying all, 'Guilty! guilty!'
+	I shall despair. There is no creature loves me;
+	And if I die, no soul will pity me:
+	Nay, wherefore should they, since that I myself
+	Find in myself no pity to myself?
+	Methought the souls of all that I had murder'd
+	Came to my tent; and every one did threat
+	To-morrow's vengeance on the head of Richard.
+<SPEECH 124><ACT 5><SCENE 3><94%>
+	'Zounds! who's there?
+<SPEECH 125><ACT 5><SCENE 3><94%>
+	O Ratcliff! I have dream'd a fearful dream.
+	What thinkest thou, will our friends prove all true?
+<SPEECH 126><ACT 5><SCENE 3><95%>
+	O Ratcliff! I fear, I fear,—
+<SPEECH 127><ACT 5><SCENE 3><95%>
+	By the apostle Paul, shadows to-night
+	Have struck more terror to the soul of Richard
+	Than can the substance of ten thousand soldiers
+	Armed in proof, and led by shallow Richmond.
+	It is not yet near day. Come, go with me;
+	Under our tents I'll play the eaves-dropper,
+	To hear if any mean to shrink from me.
+<SPEECH 128><ACT 5><SCENE 3><96%>
+	What said Northumberland as touching Richmond?
+<SPEECH 129><ACT 5><SCENE 3><96%>
+	He said the truth: and what said Surrey then?
+<SPEECH 130><ACT 5><SCENE 3><96%>
+	He was i' the right; and so, indeed, it is.
+	Tell the clock there. Give me a calendar.
+	Who saw the sun to-day?
+<SPEECH 131><ACT 5><SCENE 3><96%>
+	Then he disdains to shine; for by the book
+	He should have brav'd the east an hour ago:
+	A black day will it be to somebody.
+	Ratcliff!
+<SPEECH 132><ACT 5><SCENE 3><96%>
+	The sun will not be seen to-day;
+	The sky doth frown and lower upon our army.
+	I would these dewy tears were from the ground.
+	Not shine to-day! Why, what is that to me
+	More than to Richmond? for the self-same heaven
+	That frowns on me looks sadly upon him.
+<SPEECH 133><ACT 5><SCENE 3><97%>
+	Come, bustle, bustle; caparison my horse.
+	Call up Lord Stanley, bid him bring his power:
+	I will lead forth my soldiers to the plain,
+	And thus my battle shall be ordered:
+	My foreward shall be drawn out all in length
+	Consisting equally of horse and foot;
+	Our archers shall be placed in the midst:
+	John Duke of Norfolk, Thomas Earl of Surrey,
+	Shall have the leading of this foot and horse.
+	They thus directed, we will follow
+	In the main battle, whose puissance on either side
+	Shall be well winged with our chiefest horse.
+	This, and Saint George to boot! What think'st thou, Norfolk?
+<SPEECH 134><ACT 5><SCENE 3><97%>
+	Jockey of Norfolk, be not too bold,
+	For Dickon thy master is bought and sold.
+	A thing devised by the enemy.
+	Go, gentlemen; every man to his charge:
+	Let not our babbling dreams affright our souls;
+	Conscience is but a word that cowards use,
+	Devis'd at first to keep the strong in awe:
+	Our strong arms be our conscience, swords our law.
+	March on, join bravely, let us to 't pell-mell;
+	If not to heaven, then hand in hand to hell.
+	His oration to his Army.
+	What shall I say more than I have inferr'd?
+	Remember whom you are to cope withal:
+	A sort of vagabonds, rascals, and run-aways,
+	A scum of Bretons and base lackey peasants,
+	Whom their o'er-cloyed country vomits forth
+	To desperate adventures and assur'd destruction.
+	You sleeping safe, they bring you to unrest;
+	You having lands, and bless'd with beauteous wives,
+	They would restrain the one, distain the other.
+	And who doth lead them but a paltry fellow,
+	Long kept in Britaine at our mother's cost?
+	A milksop, one that never in his life
+	Felt so much cold as over shoes in snow?
+	Let's whip these stragglers o'er the sea again;
+	Lash hence these overweening rags of France,
+	These famish'd beggars, weary of their lives;
+	Who, but for dreaming on this fond exploit,
+	For want of means, poor rats, had hang'd themselves:
+	If we be conquer'd, let men conquer us,
+	And not these bastard Bretons; whom our fathers
+	Have in their own land beaten, bobb'd, and thump'd,
+	And, on record, left them the heirs of shame.
+	Shall these enjoy our lands? lie with our wives?
+	Ravish our daughters?
+	Hark! I hear their drum.
+	Fight, gentlemen of England! fight, bold yeomen!
+	Draw, archers, draw your arrows to the head!
+	Spur your proud horses hard, and ride in blood;
+	Amaze the welkin with your broken staves!
+	What says Lord Stanley? will he bring his power?
+<SPEECH 135><ACT 5><SCENE 3><98%>
+	Off with his son George's head!
+<SPEECH 136><ACT 5><SCENE 3><98%>
+	A thousand hearts are great within my bosom:
+	Advance our standards! set upon our foes!
+	Our ancient word of courage, fair Saint George,
+	Inspire us with the spleen of fiery dragons!
+	Upon them! Victory sits upon our helms.
+<SPEECH 137><ACT 5><SCENE 4><99%>
+	A horse! a horse! my kingdom for a horse!
+<SPEECH 138><ACT 5><SCENE 4><99%>
+	Slave! I have set my life upon a cast,
+	And I will stand the hazard of the die.
+	I think there be six Richmonds in the field;
+	Five have I slain to-day, instead of him.—
+	A horse! a horse! my kingdom for a horse!

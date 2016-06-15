@@ -1,0 +1,89 @@
+<SPEECH 1><ACT 1><SCENE 3><17%>
+	Faith, my lord,
+	I hear of none, but the new proclamation
+	That's clapp'd upon the court-gate.
+<SPEECH 2><ACT 1><SCENE 3><17%>
+	The reformation of our travell'd gallants,
+	That fill the court with quarrels, talk, and tailors.
+<SPEECH 3><ACT 1><SCENE 3><17%>
+	They must either—
+	For so run the conditions—leave those remnants
+	Of fool and feather that they got in France,
+	With all their honourable points of ignorance
+	Pertaining thereunto,—as fights and fireworks;
+	Abusing better men than they can be,
+	Out of a foreign wisdom;—renouncing clean
+	The faith they have in tennis and tall stockings,
+	Short blister'd breeches, and those types of travel,
+	And understand again like honest men;
+	Or pack to their old playfellows: there, I take it,
+	They may, cum privilegio, wear away
+	The lag end of their lewdness, and be laugh'd at.
+<SPEECH 4><ACT 1><SCENE 3><17%>
+	Ay, marry,
+	There will be woe indeed, lords: the sly whoresons
+	Have got a speeding trick to lay down ladies;
+	A French song and a fiddle has no fellow.
+<SPEECH 5><ACT 1><SCENE 3><18%>
+	To the cardinal's:
+	Your lordship is a guest too.
+<SPEECH 6><ACT 1><SCENE 3><18%>
+	That churchman bears a bounteous mind indeed,
+	A hand as fruitful as the land that feeds us;
+	His dews fall everywhere.
+<SPEECH 7><ACT 1><SCENE 4><19%>
+	O! that your lordship were but now confessor
+	To one or two of these!
+<SPEECH 8><ACT 1><SCENE 4><19%>
+	Faith, how easy?
+<SPEECH 9><ACT 1><SCENE 4><23%>
+	Yes, my lord.
+<SPEECH 10><ACT 2><SCENE 1><26%>
+	I do beseech your Grace, for charity,
+	If ever any malice in your heart
+	Were hid against me, now to forgive me frankly.
+<SPEECH 11><ACT 2><SCENE 1><27%>
+	To the water side I must conduct your Grace;
+	Then give my charge up to Sir Nicholas Vaux,
+	Who undertakes you to your end.
+<SPEECH 12><ACT 5><SCENE 1><80%>
+	Came you from the king, my lord?
+<SPEECH 13><ACT 5><SCENE 1><80%>
+	I must to him too,
+	Before he go to bed. I'll take my leave.
+<SPEECH 14><ACT 5><SCENE 1><80%>
+	My lord, I love you,
+	And durst commend a secret to your ear
+	Much weightier than this work. The queen's in labour,
+	They say, in great extremity; and fear'd
+	She'll with the labour end.
+<SPEECH 15><ACT 5><SCENE 1><80%>
+	Methinks I could
+	Cry the amen; and yet my conscience says
+	She's a good creature, and, sweet lady, does
+	Deserve our better wishes.
+<SPEECH 16><ACT 5><SCENE 1><80%>
+	Now, sir, you speak of two
+	The most remark'd i' the kingdom. As for Cromwell,
+	Beside that of the jewel-house, is made master
+	O' the rolls, and the king's secretary; further, sir,
+	Stands in the gap and trade of moe preferments,
+	With which the time will load him. The archbishop
+	Is the king's hand and tongue; and who dare speak
+	One syllable against him?
+<SPEECH 17><ACT 5><SCENE 1><81%>
+	Many good-nights, my lord. I rest your servant.
+<SPEECH 18><ACT 5><SCENE 1><82%>
+	I could not personally deliver to her
+	What you commanded me, but by her woman
+	I sent your message; who return'd her thanks
+	In the great'st humbleness, and desir'd your highness
+	Most heartily to pray for her.
+<SPEECH 19><ACT 5><SCENE 1><82%>
+	So said her woman; and that her sufferance made
+	Almost each pang a death.
+<SPEECH 20><ACT 5><SCENE 1><82%>
+	</STAGE DIR> This is about that which the bishop spake:
+	I am happily come hither.
+<SPEECH 21><ACT 5><SCENE 1><85%>
+	Sir!

@@ -1,0 +1,169 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	Who keeps the gate here? ho!
+	Where is the earl?
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	Tell thou the earl
+	That the Lord Bardolph doth attend him here.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Here comes the earl.
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	Noble earl,
+	I bring you certain news from Shrewsbury.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	As good as heart can wish.
+	The king is almost wounded to the death;
+	And, in the fortune of my lord your son,
+	Prince Harry slain outright; and both the Blunts
+	Kill'd by the hand of Douglas; young Prince John
+	And Westmoreland and Stafford fled the field.
+	And Harry Monmouth's brawn, the hulk Sir John,
+	Is prisoner to your son: O! such a day,
+	So fought, so follow'd, and so fairly won,
+	Came not till now to dignify the times
+	Since Cæsar's fortunes.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	I spake with one, my lord, that came from thence;
+	A gentleman well bred and of good name,
+	That freely render'd me these news for true.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	My lord, I over-rode him on the way;
+	And he is furnish'd with no certainties
+	More than he haply may retail from me.
+<SPEECH 8><ACT 1><SCENE 1><3%>
+	My lord, I'll tell you what:
+	If my young lord your son have not the day,
+	Upon mine honour, for a silken point
+	I'll give my barony: never talk of it.
+<SPEECH 9><ACT 1><SCENE 1><3%>
+	Who, he?
+	He was some hilding fellow that had stolen
+	The horse he rode on, and, upon my life,
+	Spoke at a venture. Look, here comes more news.
+<SPEECH 10><ACT 1><SCENE 1><5%>
+	I cannot think, my lord, your son is dead.
+<SPEECH 11><ACT 1><SCENE 1><6%>
+	Sweet earl, divorce not wisdom from your honour.
+<SPEECH 12><ACT 1><SCENE 1><7%>
+	We all that are engaged to this loss
+	Knew that we ventur'd on such dangerous seas
+	That if we wrought out life 'twas ten to one;
+	And yet we ventur'd, for the gain propos'd
+	Chok'd the respect of likely peril fear'd;
+	And since we are o'erset, venture again.
+	Come, we will all put forth, body and goods.
+<SPEECH 13><ACT 1><SCENE 3><16%>
+	The question, then, Lord Hastings, standeth thus:
+	Whether our present five-and-twenty thousand
+	May hold up head without Northumberland.
+<SPEECH 14><ACT 1><SCENE 3><16%>
+	Ay, marry, there's the point:
+	But if without him we be thought too feeble,
+	My judgment is, we should not step too far
+	Till we had his assistance by the hand;
+	For in a theme so bloody-fao'd as this,
+	Conjecture, expectation, and surmise
+	Of aids incertain should not be admitted.
+<SPEECH 15><ACT 1><SCENE 3><17%>
+	It was, my lord; who lin'd himself with hope,
+	Eating the air on promise of supply,
+	Flattering himself with project of a power
+	Much smaller than the smallest of his thoughts;
+	And so, with great imagination
+	Proper to madmen, led his powers to death,
+	And winking leap'd into destruction.
+<SPEECH 16><ACT 1><SCENE 3><17%>
+	Yes, if this present quality of war,—
+	Indeed the instant action,—a cause on foot,
+	Lives so in hope, as in an early spring
+	We see the appearing buds; which, to prove fruit,
+	Hope gives not so much warrant as despair
+	That frosts will bite them. When we mean to build,
+	We first survey the plot, then draw the model;
+	And when we see the figure of the house,
+	Then must we rate the cost of the erection;
+	Which if we find outweighs ability,
+	What do we then but draw anew the model
+	In fewer offices, or at last desist
+	To build at all? Much more, in this great work,—
+	Which is almost to pluck a kingdom down
+	And set another up,—should we survey
+	The plot of situation and the model,
+	Consent upon a sure foundation,
+	Question surveyors, know our own estate,
+	How able such a work to undergo,
+	To weigh against his opposite; or else,
+	We fortify in paper, and in figures,
+	Using the names of men instead of men:
+	Like one that draws the model of a house
+	Beyond his power to build it; who, half through,
+	Gives o'er and leaves his part-created cost
+	A naked-subject to the weeping clouds,
+	And waste for churlish winter's tyranny.
+<SPEECH 17><ACT 1><SCENE 3><18%>
+	What! is the king but five-and-twenty thousand?
+<SPEECH 18><ACT 1><SCENE 3><18%>
+	Who is it like should lead his forces hither?
+<SPEECH 19><ACT 2><SCENE 2><27%>
+	God save your Grace!
+<SPEECH 20><ACT 2><SCENE 2><27%>
+	</STAGE DIR> Come, you virtuous ass, you bashful fool, must you be blushing? wherefore blush you now? What a maidenly man-at-arms are you become! Is it such a matter to get a pottle-pot's maidenhead?
+<SPEECH 21><ACT 2><SCENE 2><27%>
+	Away, you whoreson upright rabbit, away!
+<SPEECH 22><ACT 2><SCENE 2><28%>
+	An you do not make him be hanged among you, the gallows shall have wrong.
+<SPEECH 23><ACT 2><SCENE 2><28%>
+	Well, my lord. He heard of your Grace's coming to town: there's a letter for you.
+<SPEECH 24><ACT 2><SCENE 2><28%>
+	In bodily health, sir.
+<SPEECH 25><ACT 2><SCENE 2><29%>
+	Yes, my lord.
+<SPEECH 26><ACT 2><SCENE 2><29%>
+	At the old place, my lord, in Eastcheap.
+<SPEECH 27><ACT 2><SCENE 2><30%>
+	I have no tongue, sir.
+<SPEECH 28><ACT 2><SCENE 4><37%>
+	Pray thee, go down, good ancient.
+<SPEECH 29><ACT 2><SCENE 4><37%>
+	Be gone, good ancient: this will grow to a brawl anon.
+<SPEECH 30><ACT 2><SCENE 4><38%>
+	Come, get you down stairs.
+<SPEECH 31><ACT 2><SCENE 4><38%>
+	Yes, sir: the rascal's drunk. You have hurt him, sir, i' the shoulder.
+<SPEECH 32><ACT 2><SCENE 4><43%>
+	You must away to court, sir, presently;
+	A dozen captains stay at door for you.
+<SPEECH 33><ACT 2><SCENE 4><44%>
+	</STAGE DIR> Mistress Tearsheet!
+<SPEECH 34><ACT 2><SCENE 4><44%>
+	</STAGE DIR> Bid Mistress Tearsheet come to my master.
+<SPEECH 35><ACT 3><SCENE 2><49%>
+	Good morrow, honest gentlemen: I beseech you, which is Justice Shallow?
+<SPEECH 36><ACT 3><SCENE 2><49%>
+	My captain, sir, commends him to you; my captain, Sir John Falstaff: a tall gentleman, by heaven, and a most gallant leader.
+<SPEECH 37><ACT 3><SCENE 2><49%>
+	Sir, pardon; a soldier is better accommodated than with a wife.
+<SPEECH 38><ACT 3><SCENE 2><49%>
+	Pardon me, sir; I have heard the word. 'Phrase,' call you it? By this good day, I know not the phrase; but I will maintain the word with my sword to be a soldier-like word, and a word of exceeding good command, by heaven. Accommodated; that is, when a man is, as they say, accommodated; or, when a man is, being, whereby, a' may be thought to be accommodated, which is an excellent thing.
+<SPEECH 39><ACT 3><SCENE 2><54%>
+	Go to; stand aside.
+<SPEECH 40><ACT 3><SCENE 2><54%>
+	Go to; stand aside.
+<SPEECH 41><ACT 3><SCENE 2><54%>
+	Well said; thou'rt a good fellow.
+<SPEECH 42><ACT 3><SCENE 2><54%>
+	</STAGE DIR> Sir, a word with you. I have three pound to free Mouldy and Bullcalf.
+<SPEECH 43><ACT 3><SCENE 2><55%>
+	Hold, Wart, traverse; thus, thus, thus.
+<SPEECH 44><ACT 4><SCENE 3><72%>
+	The army is discharged all and gone.
+<SPEECH 45><ACT 5><SCENE 1><85%>
+	I am glad to see your worship.
+<SPEECH 46><ACT 5><SCENE 3><92%>
+	An I might see you there, Davy,—
+<SPEECH 47><ACT 5><SCENE 3><92%>
+	Yea, sir, in a pottle-pot.
+<SPEECH 48><ACT 5><SCENE 3><92%>
+	And I'll stick by him, sir.
+<SPEECH 49><ACT 5><SCENE 3><94%>
+	O joyful day!
+	I would not take a knighthood for my fortune.

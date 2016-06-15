@@ -1,0 +1,661 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+	How now! who calls?
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	Madam, I am here.
+	What is your will?
+<SPEECH 3><ACT 1><SCENE 3><14%>
+	And stint thou too, I pray thee, nurse, say I.
+<SPEECH 4><ACT 1><SCENE 3><14%>
+	It is an honour that I dream not of.
+<SPEECH 5><ACT 1><SCENE 3><15%>
+	I'll look to like, if looking liking move;
+	But no more deep will I endart mine eye
+	Than your consent gives strength to make it fly.
+<SPEECH 6><ACT 1><SCENE 5><22%>
+	Good pilgrim, you do wrong your hand too much,
+	Which mannerly devotion shows in this;
+	For saints have hands that pilgrims' hands do touch,
+	And palm to palm is holy palmers' kiss.
+<SPEECH 7><ACT 1><SCENE 5><23%>
+	Ay, pilgrim, lips that they must use in prayer.
+<SPEECH 8><ACT 1><SCENE 5><23%>
+	Saints do not move, though grant for prayers' sake.
+<SPEECH 9><ACT 1><SCENE 5><23%>
+	Then have my lips the sin that they have took.
+<SPEECH 10><ACT 1><SCENE 5><23%>
+	You kiss by the book.
+<SPEECH 11><ACT 1><SCENE 5><23%>
+	Come hither, nurse. What is yond gentleman?
+<SPEECH 12><ACT 1><SCENE 5><24%>
+	What's he that now is going out of door?
+<SPEECH 13><ACT 1><SCENE 5><24%>
+	What's he, that follows there, that would not dance?
+<SPEECH 14><ACT 1><SCENE 5><24%>
+	Go, ask his name.—If he be married,
+	My grave is like to be my wedding bed.
+<SPEECH 15><ACT 1><SCENE 5><24%>
+	My only love sprung from my only hate!
+	Too early seen unknown, and known too late!
+	Prodigious birth of love it is to me,
+	That I must love a loathed enemy.
+<SPEECH 16><ACT 1><SCENE 5><24%>
+	A rime I learn'd even now
+	Of one I danc'd withal.
+<SPEECH 17><ACT 2><SCENE 2><27%>
+	Ay me!
+<SPEECH 18><ACT 2><SCENE 2><27%>
+	O Romeo, Romeo! wherefore art thou Romeo?
+	Deny thy father, and refuse thy name;
+	Or, if thou wilt not, be but sworn my love,
+	And I'll no longer be a Capulet.
+<SPEECH 19><ACT 2><SCENE 2><27%>
+	'Tis but thy name that is my enemy;
+	Thou art thyself though, not a Montague.
+	What's Montague? it is nor hand, nor foot,
+	Nor arm, nor face, nor any other part
+	Belonging to a man. O! be some other name:
+	What's in a name? that which we call a rose
+	By any other name would smell as sweet;
+	So Romeo would, were he not Romeo call'd,
+	Retain that dear perfection which he owes
+	Without that title. Romeo, doff thy name;
+	And for that name, which is no part of thee,
+	Take all myself.
+<SPEECH 20><ACT 2><SCENE 2><28%>
+	What man art thou, that, thus bescreen'd in night,
+	So stumblest on my counsel?
+<SPEECH 21><ACT 2><SCENE 2><28%>
+	My ears have not yet drunk a hundred words
+	Of that tongue's uttering, yet I know the sound:
+	Art thou not Romeo, and a Montague?
+<SPEECH 22><ACT 2><SCENE 2><28%>
+	How cam'st thou hither, tell me, and wherefore?
+	The orchard walls are high and hard to climb,
+	And the place death, considering who thou art,
+	If any of my kinsmen find thee here.
+<SPEECH 23><ACT 2><SCENE 2><28%>
+	If they do see thee they will murder thee.
+<SPEECH 24><ACT 2><SCENE 2><28%>
+	I would not for the world they saw thee here.
+<SPEECH 25><ACT 2><SCENE 2><29%>
+	By whose direction found'st thou out this place?
+<SPEECH 26><ACT 2><SCENE 2><29%>
+	Thou know'st the mask of night is on my face,
+	Else would a maiden blush bepaint my cheek
+	For that which thou hast heard me speak to-night.
+	Fain would I dwell on form, fain, fain deny
+	What I have spoke: but farewell compliment!
+	Dost thou love me? I know thou wilt say 'Ay;'
+	And I will take thy word; yet, if thou swear'st,
+	Thou mayst prove false; at lovers' perjuries,
+	They say, Jove laughs. O gentle Romeo!
+	If thou dost love, pronounce it faithfully:
+	Or if thou think'st I am too quickly won,
+	I'll frown and be perverse and say thee nay,
+	So thou wilt woo; but else, not for the world.
+	In truth, fair Montague, I am too fond,
+	And therefore thou mayst think my haviour light:
+	But trust me, gentleman, I'll prove more true
+	Than those that have more cunning to be strange.
+	I should have been more strange, I must confess,
+	But that thou over-heard'st, ere I was 'ware,
+	My true love's passion: therefore pardon me,
+	And not impute this yielding to light love,
+	Which the dark night hath so discovered.
+<SPEECH 27><ACT 2><SCENE 2><29%>
+	O! swear not by the moon, the inconstant moon,
+	That monthly changes in her circled orb,
+	Lest that thy love prove likewise variable.
+<SPEECH 28><ACT 2><SCENE 2><30%>
+	Do not swear at all;
+	Or, if thou wilt, swear by thy gracious self,
+	Which is the god of my idolatry,
+	And I'll believe thee.
+<SPEECH 29><ACT 2><SCENE 2><30%>
+	Well, do not swear. Although I joy in thee,
+	I have no joy of this contract to-night:
+	It is too rash, too unadvis'd, too sudden;
+	Too like the lightning, which doth cease to be
+	Ere one can say it lightens. Sweet, good-night!
+	This bud of love, by summer's ripening breath,
+	May prove a beauteous flower when next we meet.
+	Good-night, good-night! as sweet repose and rest
+	Come to thy heart as that within my breast!
+<SPEECH 30><ACT 2><SCENE 2><30%>
+	What satisfaction canst thou have to-night?
+<SPEECH 31><ACT 2><SCENE 2><30%>
+	I gave thee mine before thou didst request it;
+	And yet I would it were to give again.
+<SPEECH 32><ACT 2><SCENE 2><30%>
+	But to be frank, and give it thee again.
+	And yet I wish but for the thing I have:
+	My bounty is as boundless as the sea,
+	My love as deep; the more I give to thee,
+	The more I have, for both are infinite.
+	I hear some noise within; dear love, adieu!
+	Anon, good nurse! Sweet Montague, be true.
+	Stay but a little, I will come again.
+<SPEECH 33><ACT 2><SCENE 2><31%>
+	Three words, dear Romeo, and good-night indeed.
+	If that thy bent of love be honourable,
+	Thy purpose marriage, send me word to-morrow,
+	By one that I'll procure to come to thee,
+	Where, and what time, thou wilt perform the rite;
+	And all my fortunes at thy foot I'll lay,
+	And follow thee my lord throughout the world.
+<SPEECH 34><ACT 2><SCENE 2><31%>
+	I come, anon.—But if thou mean'st not well,
+	I do beseech thee,—
+<SPEECH 35><ACT 2><SCENE 2><31%>
+	By and by; I come:—
+	To cease thy suit, and leave me to my grief:
+	To-morrow will I send.
+<SPEECH 36><ACT 2><SCENE 2><31%>
+	A thousand times good-night!
+<SPEECH 37><ACT 2><SCENE 2><31%>
+	Hist! Romeo, hist! O! for a falconer's voice,
+	To lure this tassel-gentle back again.
+	Bondage is hoarse, and may not speak aloud,
+	Else would I tear the cave where Echo lies,
+	And make her airy tongue more hoarse than mine,
+	With repetition of my Romeo's name.
+<SPEECH 38><ACT 2><SCENE 2><32%>
+	Romeo!
+<SPEECH 39><ACT 2><SCENE 2><32%>
+	At what o'clock to-morrow
+	Shall I send to thee?
+<SPEECH 40><ACT 2><SCENE 2><32%>
+	I will not fail; 'tis twenty years till then.
+	I have forgot why I did call thee back.
+<SPEECH 41><ACT 2><SCENE 2><32%>
+	I shall forget, to have thee still stand there,
+	Remembering how I love thy company.
+<SPEECH 42><ACT 2><SCENE 2><32%>
+	'Tis almost morning; I would have thee gone;
+	And yet no further than a wanton's bird,
+	Who lets it hop a little from her hand,
+	Like a poor prisoner in his twisted gyves,
+	And with a silk thread plucks it back again,
+	So loving-jealous of his liberty.
+<SPEECH 43><ACT 2><SCENE 2><32%>
+	Sweet, so would I:
+	Yet I should kill thee with much cherishing.
+	Good-night, good-night! parting is such sweet sorrow
+	That I shall say good-night till it be morrow.
+<SPEECH 44><ACT 2><SCENE 5><42%>
+	The clock struck nine when I did send the nurse;
+	In half an hour she promis'd to return.
+	Perchance she cannot meet him: that's not so.
+	O! she is lame: love's heralds should be thoughts,
+	Which ten times faster glide than the sun's beams,
+	Driving back shadows over lowering hills:
+	Therefore do nimble-pinion'd doves draw Love,
+	And therefore hath the wind-swift Cupid wings.
+	Now is the sun upon the highmost hill
+	Of this day's journey, and from nine till twelve
+	Is three long hours, yet she is not come.
+	Had she affections, and warm youthful blood,
+	She'd be as swift in motion as a ball;
+	My words would bandy her to my sweet love,
+	And his to me:
+	But old folks, many feign as they were dead;
+	Unwieldy, slow, heavy and pale as lead.
+	O God! she comes. O honey nurse! what news?
+	Hast thou met with him? Send thy man away.
+<SPEECH 45><ACT 2><SCENE 5><43%>
+	Now, good sweet nurse; O Lord! why look'st thou sad?
+	Though news be sad, yet tell them merrily;
+	If good, thou sham'st the music of sweet news
+	By playing it to me with so sour a face.
+<SPEECH 46><ACT 2><SCENE 5><43%>
+	I would thou hadst my bones, and I thy news.
+	Nay, come, I pray thee, speak; good, good nurse, speak.
+<SPEECH 47><ACT 2><SCENE 5><43%>
+	How art thou out of breath when thou hast breath
+	To say to me that thou art out of breath?
+	The excuse that thou dost make in this delay
+	Is longer than the tale thou dost excuse.
+	Is thy news good, or bad? answer to that;
+	Say either, and I'll stay the circumstance:
+	Let me be satisfied, is 't good or bad?
+<SPEECH 48><ACT 2><SCENE 5><43%>
+	No, no: but all this did I know before.
+	What says he of our marriage? what of that?
+<SPEECH 49><ACT 2><SCENE 5><44%>
+	I' faith, I am sorry that thou art not well.
+	Sweet, sweet, sweet nurse, tell me, what says my love?
+<SPEECH 50><ACT 2><SCENE 5><44%>
+	Where is my mother! why, she is within;
+	Where should she be? How oddly thou repliest:
+	'Your love says, like an honest gentleman,
+	Where is your mother?'
+<SPEECH 51><ACT 2><SCENE 5><44%>
+	Here's such a coil! come, what says Romeo?
+<SPEECH 52><ACT 2><SCENE 5><44%>
+	I have.
+<SPEECH 53><ACT 2><SCENE 5><44%>
+	Hie to high fortune! Honest nurse, farewell.
+<SPEECH 54><ACT 2><SCENE 6><45%>
+	Good even to my ghostly confessor.
+<SPEECH 55><ACT 2><SCENE 6><45%>
+	As much to him, else are his thanks too much.
+<SPEECH 56><ACT 2><SCENE 6><45%>
+	Conceit, more rich in matter than in words,
+	Brags of his substance, not of ornament:
+	They are but beggars that can count their worth;
+	But my true love is grown to such excess
+	I cannot sum up half my sum of wealth.
+<SPEECH 57><ACT 3><SCENE 2><53%>
+	Gallop apace, you fiery-footed steeds,
+	Towards Phœbus' lodging; such a waggoner
+	As Phæthon would whip you to the west,
+	And bring in cloudy night immediately.
+	Spread thy close curtain, love-performing night!
+	That runaway's eyes may wink, and Romeo
+	Leap to these arms, untalk'd of and unseen!
+	Lovers can see to do their amorous rites
+	By their own beauties; or, if love be blind,
+	It best agrees with night. Come, civil night,
+	Thou sober-suited matron, all in black,
+	And learn me how to lose a winning match,
+	Play'd for a pair of stainless maidenhoods:
+	Hood my unmann'd blood, bating in my cheeks,
+	With thy black mantle; till strange love, grown bold,
+	Think true love acted simple modesty.
+	Come, night! come, Romeo! come, thou day in night!
+	For thou wilt lie upon the wings of night,
+	Whiter than new snow on a raven's back.
+	Come, gentle night; come, loving, black-brow'd night,
+	Give me my Romeo: and, when he shall die,
+	Take him and cut him out in little stars,
+	And he will make the face of heaven so fine
+	That all the world will be in love with night,
+	And pay no worship to the garish sun.
+	O! I have bought the mansion of a love,
+	But not possess'd it, and, though I am sold,
+	Not yet enjoy'd. So tedious is this day
+	As is the night before some festival
+	To an impatient child that hath new robes
+	And may not wear them. O! here comes my nurse,
+	And she brings news; and every tongue that speaks
+	But Romeo's name speaks heavenly eloquence.
+	Now nurse, what news? What hast thou there? the cords
+	That Romeo bade thee fetch?
+<SPEECH 58><ACT 3><SCENE 2><54%>
+	Ah me! what news? why dost thou wring thy hands?
+<SPEECH 59><ACT 3><SCENE 2><54%>
+	Can heaven be so envious?
+<SPEECH 60><ACT 3><SCENE 2><54%>
+	What devil art thou that dost torment me thus?
+	This torture should be roar'd in dismal hell.
+	Hath Romeo slain himself? say thou but 'I,'
+	And that bare vowel, 'I,' shall poison more
+	Than the death-darting eye of cockatrice:
+	I am not I, if there be such an 'I;'
+	Or those eyes shut that make thee answer 'I.'
+	If he be slain, say 'I;' or if not 'no:'
+	Brief sounds determine of my weal or woe.
+<SPEECH 61><ACT 3><SCENE 2><54%>
+	O break, my heart!—poor bankrupt, break at once!
+	To prison, eyes, ne'er look on liberty!
+	Vile earth, to earth resign; end motion here;
+	And thou and Romeo press one heavy bier!
+<SPEECH 62><ACT 3><SCENE 2><55%>
+	What storm is this that blows so contrary?
+	Is Romeo slaughter'd, and is Tybalt dead?
+	My dearest cousin, and my dearer lord?
+	Then, dreadful trumpet, sound the general doom!
+	For who is living if those two are gone?
+<SPEECH 63><ACT 3><SCENE 2><55%>
+	O God! did Romeo's hand shed Tybalt's blood?
+<SPEECH 64><ACT 3><SCENE 2><55%>
+	O serpent heart, hid with a flowering face!
+	Did ever dragon keep so fair a cave?
+	Beautiful tyrant! fiend angelical!
+	Dove-feather'd raven! wolvish-ravening lamb!
+	Despised substance of divinest show!
+	Just opposite to what thou justly seem'st;
+	A damned saint, an honourable villain!
+	O, nature! what hadst thou to do in hell
+	When thou didst bower the spirit of a fiend
+	In mortal paradise of such sweet flesh?
+	Was ever book containing such vile matter
+	So fairly bound? O! that deceit should dwell
+	In such a gorgeous palace.
+<SPEECH 65><ACT 3><SCENE 2><55%>
+	Blister'd be thy tongue
+	For such a wish! he was not born to shame:
+	Upon his brow shame is asham'd to sit;
+	For 'tis a throne where honour may be crown'd
+	Sole monarch of the universal earth.
+	O! what a beast was I to chide at him.
+<SPEECH 66><ACT 3><SCENE 2><56%>
+	Shall I speak ill of him that is my husband?
+	Ah! poor my lord, what tongue shall smooth thy name,
+	When I, thy three-hours wife, have mangled it?
+	But, wherefore, villain, didst thou kill my cousin?
+	That villain cousin would have kill'd my husband:
+	Back, foolish tears, back to your native spring;
+	Your tributary drops belong to woe,
+	Which you, mistaking, offer up to joy.
+	My husband lives, that Tybalt would have slain;
+	And Tybalt's dead, that would have slain my husband:
+	All this is comfort; wherefore weep I then?
+	Some word there was, worser than Tybalt's death,
+	That murder'd me: I would forget it fain;
+	But O! it presses to my memory,
+	Like damned guilty deeds to sinners' minds.
+	'Tybalt is dead, and Romeo banished!'
+	That 'banished,' that one word 'banished,'
+	Hath slain ten thousand Tybalts. Tybalt's death
+	Was woe enough, if it had ended there:
+	Or, if sour woe delights in fellowship,
+	And needly will be rank'd with other griefs,
+	Why follow'd not, when she said 'Tybalt's dead,'
+	Thy father, or thy mother, nay, or both,
+	Which modern lamentation might have mov'd?
+	But with a rearward following Tybalt's death,
+	'Romeo is banished!' to speak that word
+	Is father, mother, Tybalt, Romeo, Juliet,
+	All slain, all dead: 'Romeo is banished!'
+	There is no end, no limit, measure, bound
+	In that word's death; no words can that woe sound.—
+	Where is my father and my mother, nurse?
+<SPEECH 67><ACT 3><SCENE 2><57%>
+	Wash they his wounds with tears: mine shall be spent,
+	When theirs are dry, for Romeo's banishment.
+	Take up those cords. Poor ropes, you are beguil'd,
+	Both you and I, for Romeo is exil'd:
+	He made you for a highway to my bed,
+	But I, a maid, die maiden-widowed.
+	Come, cords; come, nurse; I'll to my wedding bed;
+	And death, not Romeo, take my maidenhead!
+<SPEECH 68><ACT 3><SCENE 2><57%>
+	O! find him; give this ring to my true knight,
+	And bid him come to take his last farewell.
+<SPEECH 69><ACT 3><SCENE 5><64%>
+	Wilt thou be gone? it is not yet near day:
+	It was the nightingale, and not the lark,
+	That pierc'd the fearful hollow of thine ear;
+	Nightly she sings on you pomegranate tree:
+	Believe me, love, it was the nightingale.
+<SPEECH 70><ACT 3><SCENE 5><64%>
+	Yon light is not daylight, I know it, I:
+	It is some meteor that the sun exhales,
+	To be to thee this night a torch-bearer,
+	And light thee on thy way to Mantua:
+	Therefore stay yet; thou need'st not to be gone.
+<SPEECH 71><ACT 3><SCENE 5><65%>
+	It is, it is; hie hence, be gone, away!
+	It is the lark that sings so out of tune,
+	Straining harsh discords and unpleasing sharps.
+	Some say the lark makes sweet division;
+	This doth not so, for she divideth us:
+	Some say the lark and loathed toad change eyes;
+	O! now I would they had chang'd voices too,
+	Since arm from arm that voice doth us affray,
+	Hunting thee hence with hunts-up to the day.
+	O! now be gone; more light and light it grows.
+<SPEECH 72><ACT 3><SCENE 5><65%>
+	Nurse!
+<SPEECH 73><ACT 3><SCENE 5><65%>
+	Then, window, let day in, and let life out.
+<SPEECH 74><ACT 3><SCENE 5><65%>
+	Art thou gone so? my lord, my love, my friend!
+	I must hear from thee every day in the hour,
+	For in a minute there are many days:
+	O! by this count I shall be much in years
+	Ere I again behold my Romeo.
+<SPEECH 75><ACT 3><SCENE 5><65%>
+	O! think'st thou we shall ever meet again?
+<SPEECH 76><ACT 3><SCENE 5><66%>
+	O God! I have an ill-divining soul:
+	Methinks I see thee, now thou art so low,
+	As one dead in the bottom of a tomb:
+	Either my eyesight fails, or thou look'st pale.
+<SPEECH 77><ACT 3><SCENE 5><66%>
+	O fortune, fortune! all men call thee fickle:
+	If thou art fickle, what dost thou with him
+	That is renown'd for faith? Be fickle, fortune;
+	For then, I hope, thou wilt not keep him long,
+	But send him back.
+<SPEECH 78><ACT 3><SCENE 5><66%>
+	Who is't that calls? is it my lady mother?
+	Is she not down so late, or up so early?
+	What unaccustom'd cause procures her hither?
+<SPEECH 79><ACT 3><SCENE 5><66%>
+	Madam, I am not well.
+<SPEECH 80><ACT 3><SCENE 5><66%>
+	Yet let me weep for such a feeling loss.
+<SPEECH 81><ACT 3><SCENE 5><66%>
+	Feeling so the loss,
+	I cannot choose but ever weep the friend.
+<SPEECH 82><ACT 3><SCENE 5><67%>
+	What villain, madam?
+<SPEECH 83><ACT 3><SCENE 5><67%>
+	</STAGE DIR> Villain and he be many miles asunder.
+	God pardon him! I do, with all my heart;
+	And yet no man like he doth grieve my heart.
+<SPEECH 84><ACT 3><SCENE 5><67%>
+	Ay, madam, from the reach of these my hands.
+	Would none but I might venge my cousin's death!
+<SPEECH 85><ACT 3><SCENE 5><67%>
+	Indeed, I never shall be satisfied
+	With Romeo, till I behold him—dead—
+	Is my poor heart so for a kinsman vex'd:
+	Madam, if you could find out but a man
+	To bear a poison, I would temper it,
+	That Romeo should, upon receipt thereof,
+	Soon sleep in quiet. O! how my heart abhors
+	To hear him nam'd, and cannot come to him,
+	To wreak the love I bore my cousin Tybalt
+	Upon his body that hath slaughter'd him.
+<SPEECH 86><ACT 3><SCENE 5><67%>
+	And joy comes well in such a needy time:
+	What are they, I beseech your ladyship?
+<SPEECH 87><ACT 3><SCENE 5><68%>
+	Madam, in happy time, what day is that?
+<SPEECH 88><ACT 3><SCENE 5><68%>
+	Now, by Saint Peter's church, and Peter too,
+	He shall not make me there a joyful bride.
+	I wonder at this haste; that I must wed
+	Ere he that should be husband comes to woo.
+	I pray you, tell my lord and father, madam,
+	I will not marry yet; and, when I do, I swear,
+	It shall be Romeo, whom you know I hate,
+	Rather than Paris. These are news indeed!
+<SPEECH 89><ACT 3><SCENE 5><69%>
+	Not proud, you have; but thankful, that you have:
+	Proud can I never be of what I hate;
+	But thankful even for hate, that is meant love.
+<SPEECH 90><ACT 3><SCENE 5><69%>
+	Good father, I beseech you on my knees,
+	Hear me with patience but to speak a word.
+<SPEECH 91><ACT 3><SCENE 5><70%>
+	Is there no pity sitting in the clouds,
+	That sees into the bottom of my grief?
+	O! sweet my mother, cast me not away:
+	Delay this marriage for a month, a week;
+	Or, if you do not, make the bridal bed
+	In that dim monument where Tybalt lies.
+<SPEECH 92><ACT 3><SCENE 5><71%>
+	O God! O nurse! how shall this be prevented?
+	My husband is on earth, my faith in heaven;
+	How shall that faith return again to earth,
+	Unless that husband send it me from heaven
+	By leaving earth? comfort me, counsel me.
+	Alack, alack! that heaven should practise stratagems
+	Upon so soft a subject as myself!
+	What sayst thou? hast thou not a word of joy?
+	Some comfort, nurse?
+<SPEECH 93><ACT 3><SCENE 5><71%>
+	Speakest thou from thy heart?
+<SPEECH 94><ACT 3><SCENE 5><71%>
+	Amen!
+<SPEECH 95><ACT 3><SCENE 5><71%>
+	Well, thou hast comforted me marvellous much.
+	Go in; and tell my lady I am gone,
+	Having displeas'd my father, to Laurence' cell,
+	To make confession and to be absolv'd.
+<SPEECH 96><ACT 3><SCENE 5><72%>
+	Ancient damnation! O most wicked fiend!
+	Is it more sin to wish me thus forsworn,
+	Or to dispraise my lord with that same tongue
+	Which she hath prais'd him with above compare
+	So many thousand times? Go, counsellor;
+	Thou and my bosom henceforth shall be twain.
+	I'll to the friar, to know his remedy:
+	If all else fail, myself have power to die.
+<SPEECH 97><ACT 4><SCENE 1><72%>
+	That may be, sir, when I may be a wife.
+<SPEECH 98><ACT 4><SCENE 1><73%>
+	What must be shall be.
+<SPEECH 99><ACT 4><SCENE 1><73%>
+	To answer that, I should confess to you.
+<SPEECH 100><ACT 4><SCENE 1><73%>
+	I will confess to you that I love him.
+<SPEECH 101><ACT 4><SCENE 1><73%>
+	If I do so, it will be of more price,
+	Being spoke behind your back, than to your face.
+<SPEECH 102><ACT 4><SCENE 1><73%>
+	The tears have got small victory by that;
+	For it was bad enough before their spite.
+<SPEECH 103><ACT 4><SCENE 1><73%>
+	That is no slander, sir, which is a truth;
+	And what I spake, I spake it to my face.
+<SPEECH 104><ACT 4><SCENE 1><73%>
+	It may be so, for it is not mine own.
+	Are you at leisure, holy father, now;
+	Or shall I come to you at evening mass?
+<SPEECH 105><ACT 4><SCENE 1><73%>
+	O! shut the door! and when thou hast done so,
+	Come weep with me; past hope, past cure, past help!
+<SPEECH 106><ACT 4><SCENE 1><74%>
+	Tell me not, friar, that thou hear'st of this,
+	Unless thou tell me how I may prevent it:
+	If, in thy wisdom, thou canst give no help,
+	Do thou but call my resolution wise,
+	And with this knife I'll help it presently,
+	God join'd my heart and Romeo's, thou our hands;
+	And ere this hand, by thee to Romeo seal'd,
+	Shall be the label to another deed,
+	Or my true heart with treacherous revolt
+	Turn to another, this shall slay them both.
+	Therefore, out of thy long-experienc'd time,
+	Give me some present counsel; or behold,
+	'Twixt my extremes and me this bloody knife
+	Shall play the umpire, arbitrating that
+	Which the commission of thy years and art
+	Could to no issue of true honour bring.
+	Be not so long to speak; I long to die,
+	If what thou speak'st speak not of remedy.
+<SPEECH 107><ACT 4><SCENE 1><74%>
+	O! bid me leap, rather than marry Paris,
+	From off the battlements of yonder tower;
+	Or walk in thievish ways; or bid me lurk
+	Where serpents are; chain me with roaring bears;
+	Or shut me nightly in a charnel-house,
+	O'er-cover'd quite with dead men's rattling bones,
+	With reeky shanks, and yellow chapless skulls;
+	Or bid me go into a new-made grave
+	And hide me with a dead man in his shroud;
+	Things that, to hear them told, have made me tremble;
+	And I will do it without fear or doubt,
+	To live an unstain'd wife to my sweet love.
+<SPEECH 108><ACT 4><SCENE 1><76%>
+	Give me, give me! O! tell me not of fear!
+<SPEECH 109><ACT 4><SCENE 1><76%>
+	Love, give me strength! and strength shall help afford.
+	Farewell, dear father!
+<SPEECH 110><ACT 4><SCENE 2><77%>
+	Where I have learn'd me to repent the sin
+	Of disobedient opposition
+	To you and your behests; and am enjoin'd
+	By holy Laurence to fall prostrate here,
+	And beg your pardon. Pardon, I beseech you!
+	Henceforward I am ever rul'd by you.
+<SPEECH 111><ACT 4><SCENE 2><77%>
+	I met the youthful lord at Laurence' cell;
+	And gave him what becomed love I might,
+	Not stepping o'er the bounds of modesty.
+<SPEECH 112><ACT 4><SCENE 2><77%>
+	Nurse, will you go with me into my closet,
+	To help me sort such needful ornaments
+	As you think fit to furnish me to-morrow?
+<SPEECH 113><ACT 4><SCENE 3><78%>
+	Ay, those attires are best; but, gentle nurse,
+	I pray thee, leave me to myself to-night;
+	For I have need of many orisons
+	To move the heavens to smile upon my state,
+	Which, well thou know'st, is cross and full of sin.
+<SPEECH 114><ACT 4><SCENE 3><78%>
+	No, madam; we have cull'd such necessaries
+	As are behoveful for our state to-morrow:
+	So please you, let me now be left alone,
+	And let the nurse this night sit up with you;
+	For, I am sure, you have your hands full all
+	In this so sudden business.
+<SPEECH 115><ACT 4><SCENE 3><78%>
+	Farewell! God knows when we shall meet again.
+	I have a faint cold fear thrills through my veins,
+	That almost freezes up the heat of life:
+	I'll call them back again to comfort me:
+	Nurse! What should she do here?
+	My dismal scene I needs must act alone.
+	Come, vial.
+	What if this mixture do not work at all?
+	Shall I be married then to-morrow morning?
+	No, no; this shall forbid it: lie thou there.
+	What if it be a poison, which the friar
+	Subtly hath minister'd to have me dead,
+	Lest in this marriage he should be dishonour'd
+	Because he married me before to Romeo?
+	I fear it is: and yet, methinks, it should not,
+	For he hath still been tried a holy man.
+	I will not entertain so bad a thought.
+	How if, when I am laid into the tomb,
+	I wake before the time that Romeo
+	Come to redeem me? there's a fearful point!
+	Shall I not then be stifled in the vault,
+	To whose foul mouth no healthsome air breathes in,
+	And there die strangled ere my Romeo comes?
+	Or, if I live, is it not very like,
+	The horrible conceit of death and night,
+	Together with the terror of the place,
+	As in a vault, an ancient receptacle,
+	Where, for these many hundred years, the bones
+	Of all my buried ancestors are pack'd;
+	Where bloody Tybalt, yet but green in earth,
+	Lies festering in his shroud; where, as they say,
+	At some hours in the night spirits resort:
+	Alack, alack! is it not like that I,
+	So early waking, what with loathsome smells,
+	And shrieks like mandrakes' torn out of the earth,
+	That living mortals, hearing them, run mad:
+	O! if I wake, shall I not be distraught,
+	Environed with all these hideous fears,
+	And madly play with my forefathers' joints,
+	And pluck the mangled Tybalt from his shroud?
+	And, in this rage, with some great kinsman's bone,
+	As with a club, dash out my desperate brains?
+	O, look! methinks I see my cousin's ghost
+	Seeking out Romeo, that did spit his body
+	Upon a rapier's point. Stay, Tybalt, stay!
+	Romeo, I come! this do I drink to thee.
+<SPEECH 116><ACT 5><SCENE 3><94%>
+	O, comfortable friar! where is my lord?
+	I do remember well where I should be,
+	And there I am. Where is my Romeo?
+<SPEECH 117><ACT 5><SCENE 3><95%>
+	Go, get thee hence, for I will not away.
+	What's here? a cup, clos'd in my true love's hand?
+	Poison, I see, hath been his timeless end.
+	O churl! drunk all, and left no friendly drop
+	To help me after! I will kiss thy lips;
+	Haply, some poison yet doth hang on them,
+	To make me die with a restorative.
+	Thy lips are warm!
+<SPEECH 118><ACT 5><SCENE 3><95%>
+	Yea, noise? then I'll be brief. O happy dagger!
+	This is thy sheath; <STAGE DIR>
+	</STAGE DIR> there rest, and let me die.

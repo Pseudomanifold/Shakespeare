@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 3><SCENE 2><47%>
+	Do not say so.
+<SPEECH 2><ACT 3><SCENE 2><47%>
+	Madam, he's gone to serve the Duke of Florence:
+	We met him thitherward; for thence we came,
+	And, after some dispatch in hand at court,
+	Thither we bend again.
+<SPEECH 3><ACT 3><SCENE 2><48%>
+	Ay, madam.
+<SPEECH 4><ACT 3><SCENE 2><48%>
+	Such is his noble purpose; and, believe't,
+	The duke will lay upon him all the honour
+	That good convenience claims.
+<SPEECH 5><ACT 3><SCENE 2><49%>
+	We serve you, madam,
+	In that and all your worthiest affairs.

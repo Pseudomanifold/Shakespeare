@@ -1,0 +1,53 @@
+<SPEECH 1><ACT 2><SCENE 1><18%>
+	Behind the tuft of pines I met them: never
+	Saw I men scour so on their way: I ey'd them
+	Even to their ships
+<SPEECH 2><ACT 2><SCENE 1><19%>
+	By his great authority;
+	Which often hath no less prevail'd than so
+	On your command.
+<SPEECH 3><ACT 2><SCENE 1><21%>
+	Beseech your highness call the queen again.
+<SPEECH 4><ACT 2><SCENE 1><21%>
+	For her, my lord,
+	I dare my life lay down, and will do't, sir,
+	Please you to accept it,—that the queen is spotless
+	I' the eyes of heaven and to you: I mean,
+	In this which you accuse her.
+<SPEECH 5><ACT 2><SCENE 1><22%>
+	Good my lord,—
+<SPEECH 6><ACT 2><SCENE 1><22%>
+	I had rather you did lack than I, my lord,
+	Upon this ground; and more it would content me
+	To have her honour true than your suspicion,
+	Be blam'd for't how you might.
+<SPEECH 7><ACT 2><SCENE 1><23%>
+	Well done, my lord.
+<SPEECH 8><ACT 2><SCENE 3><27%>
+	You must not enter.
+<SPEECH 9><ACT 2><SCENE 3><31%>
+	We can, my royal liege,
+	He is not guilty of her coming hither.
+<SPEECH 10><ACT 2><SCENE 3><31%>
+	Beseech your highness, give us better credit:
+	We have always truly serv'd you, and beseech you
+	So to esteem of us; and on our knees we beg,
+	As recompense of our dear services
+	Past and to come, that you do change this purpose,
+	Which being so horrible, so bloody, must
+	Lead on to some foul issue. We all kneel.
+<SPEECH 11><ACT 2><SCENE 3><33%>
+	So please you, sir, their speed
+	Hath been beyond account.
+<SPEECH 12><ACT 3><SCENE 2><38%>
+	This your request
+	Is altogether just: therefore, bring forth,
+	And in Apollo's name, his oracle.
+<SPEECH 13><ACT 3><SCENE 2><40%>
+	What fit is this, good lady?
+<SPEECH 14><ACT 3><SCENE 2><41%>
+	The higher powers forbid!
+<SPEECH 15><ACT 3><SCENE 2><41%>
+	Say no more:
+	Howe'er the business goes, you have made fault
+	I' the boldness of your speech.

@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 3><SCENE 4><63%>
+	Madam, we'll play at bowls.
+<SPEECH 2><ACT 3><SCENE 4><64%>
+	Madam, we'll dance.
+<SPEECH 3><ACT 3><SCENE 4><64%>
+	Madam, we'll tell tales.
+<SPEECH 4><ACT 3><SCENE 4><64%>
+	Of either, madam.
+<SPEECH 5><ACT 3><SCENE 4><64%>
+	Madam, I'll sing.
+<SPEECH 6><ACT 3><SCENE 4><64%>
+	I could weep, madam, would it do you good.

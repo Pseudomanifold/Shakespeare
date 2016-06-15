@@ -1,0 +1,41 @@
+<SPEECH 1><ACT 1><SCENE 2><8%>
+	Where's the prince Dauphin? I have news for him.
+<SPEECH 2><ACT 1><SCENE 2><8%>
+	Methinks your looks are sad, your cheer appall'd:
+	Hath the late overthrow wrought this offence?
+	Be not dismay'd, for succour is at hand:
+	A holy maid hither with me I bring,
+	Which by a vision sent to her from heaven
+	Ordained is to raise this tedious siege,
+	And drive the English forth the bounds of France.
+	The spirit of deep prophecy she hath,
+	Exceeding the nine sibyls of old Rome;
+	What's past and what's to come she can descry.
+	Speak, shall I call her in? Believe my words,
+	For they are certain and unfallible.
+<SPEECH 3><ACT 2><SCENE 1><25%>
+	Unready! ay, and glad we 'scap'd so well.
+<SPEECH 4><ACT 2><SCENE 1><25%>
+	I think this Talbot be a fiend of hell.
+<SPEECH 5><ACT 2><SCENE 1><25%>
+	Tut! holy Joan was his defensive guard.
+<SPEECH 6><ACT 2><SCENE 1><26%>
+	Mine was secure.
+<SPEECH 7><ACT 3><SCENE 2><49%>
+	Here enter'd Pucelle and her practisants;
+	Now she is there how will she specify
+	Where is the best and safest passage in?
+<SPEECH 8><ACT 3><SCENE 2><49%>
+	See, noble Charles, the beacon of our friend,
+	The burning torch in yonder turret stands.
+<SPEECH 9><ACT 3><SCENE 3><54%>
+	Search out thy wit for secret policies,
+	And we will make thee famous through the world.
+<SPEECH 10><ACT 3><SCENE 3><57%>
+	And doth beget new courage in our breasts.
+<SPEECH 11><ACT 4><SCENE 7><77%>
+	How the young whelp of Talbot's, raging-wood,
+	Did flesh his puny sword in Frenchmen's blood!
+<SPEECH 12><ACT 4><SCENE 7><78%>
+	Hew them to pieces, hack their bones asunder,
+	Whose life was England's glory, Gallia's wonder.

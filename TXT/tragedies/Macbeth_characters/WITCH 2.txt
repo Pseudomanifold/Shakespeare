@@ -1,0 +1,42 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	When the hurlyburly's done,
+	When the battle's lost and won.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Upon the heath.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Paddock calls.
+<SPEECH 4><ACT 1><SCENE 3><4%>
+	Killing swine.
+<SPEECH 5><ACT 1><SCENE 3><5%>
+	I'll give thee a wind.
+<SPEECH 6><ACT 1><SCENE 3><5%>
+	Show me, show me.
+<SPEECH 7><ACT 1><SCENE 3><6%>
+	All hail, Macbeth! hail to thee, Thane of Cawdor!
+<SPEECH 8><ACT 1><SCENE 3><7%>
+	Hail!
+<SPEECH 9><ACT 1><SCENE 3><7%>
+	Not so happy, yet much happier.
+<SPEECH 10><ACT 4><SCENE 1><61%>
+	Thrice and once the hedge-pig whin'd.
+<SPEECH 11><ACT 4><SCENE 1><61%>
+	Fillet of a fenny snake,
+	In the cauldron boil and bake;
+	Eye of newt, and toe of frog,
+	Wool of bat, and tongue of dog,
+	Adder's fork, and blind-worm's sting,
+	Lizard's leg, and howlet's wing,
+	For a charm of powerful trouble,
+	Like a hell-broth boil and bubble.
+<SPEECH 12><ACT 4><SCENE 1><62%>
+	Cool it with a baboon's blood,
+	Then the charm is firm and good.
+<SPEECH 13><ACT 4><SCENE 1><62%>
+	By the pricking of my thumbs,
+	Something wicked this way comes.
+	Open, locks,
+	Whoever knocks.
+<SPEECH 14><ACT 4><SCENE 1><63%>
+	Demand.
+<SPEECH 15><ACT 4><SCENE 1><65%>
+	Show!

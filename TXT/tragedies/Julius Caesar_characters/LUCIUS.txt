@@ -1,0 +1,57 @@
+<SPEECH 1><ACT 2><SCENE 1><22%>
+	Call'd you, my lord?
+<SPEECH 2><ACT 2><SCENE 1><23%>
+	I will, my lord.
+<SPEECH 3><ACT 2><SCENE 1><24%>
+	The taper burneth in your closet, sir.
+	Searching the window for a flint, I found
+	This paper, thus seal'd up; and I am sure
+	It did not lie there when I went to bed.
+<SPEECH 4><ACT 2><SCENE 1><24%>
+	I know not, sir.
+<SPEECH 5><ACT 2><SCENE 1><24%>
+	I will, sir.
+<SPEECH 6><ACT 2><SCENE 1><25%>
+	Sir, March is wasted fourteen days.
+<SPEECH 7><ACT 2><SCENE 1><25%>
+	Sir, 'tis your brother Cassius at the door,
+	Who doth desire to see you.
+<SPEECH 8><ACT 2><SCENE 1><25%>
+	No, sir, there are more with him.
+<SPEECH 9><ACT 2><SCENE 1><25%>
+	No, sir; their hats are pluck'd about their ears,
+	And half their faces buried in their cloaks,
+	That by no means I may discover them
+	By any mark of favour.
+<SPEECH 10><ACT 2><SCENE 1><34%>
+	Here is a sick man that would speak with you.
+<SPEECH 11><ACT 2><SCENE 4><41%>
+	To know my errand, madam.
+<SPEECH 12><ACT 2><SCENE 4><42%>
+	Madam, what shall I do?
+	Run to the Capitol, and nothing else?
+	And so return to you, and nothing else?
+<SPEECH 13><ACT 2><SCENE 4><42%>
+	I hear none, madam.
+<SPEECH 14><ACT 2><SCENE 4><42%>
+	Sooth, madam, I hear nothing.
+<SPEECH 15><ACT 4><SCENE 3><82%>
+	Here in the tent.
+<SPEECH 16><ACT 4><SCENE 3><82%>
+	Varro! and Claudius!
+<SPEECH 17><ACT 4><SCENE 3><82%>
+	I was sure your lordship did not give it me.
+<SPEECH 18><ACT 4><SCENE 3><83%>
+	Ay, my lord, an 't please you.
+<SPEECH 19><ACT 4><SCENE 3><83%>
+	It is my duty, sir.
+<SPEECH 20><ACT 4><SCENE 3><83%>
+	I have slept, my lord, already.
+<SPEECH 21><ACT 4><SCENE 3><84%>
+	The strings, my lord, are false.
+<SPEECH 22><ACT 4><SCENE 3><84%>
+	My lord!
+<SPEECH 23><ACT 4><SCENE 3><84%>
+	My lord, I do not know that I did cry.
+<SPEECH 24><ACT 4><SCENE 3><84%>
+	Nothing, my lord.

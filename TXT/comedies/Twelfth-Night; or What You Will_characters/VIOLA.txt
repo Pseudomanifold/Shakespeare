@@ -1,0 +1,410 @@
+<SPEECH 1><ACT 1><SCENE 2><2%>
+	What country, friends, is this?
+<SPEECH 2><ACT 1><SCENE 2><2%>
+	And what should I do in Illyria?
+	My brother he is in Elysium.
+	Perchance he is not drown'd: what think you sailors?
+<SPEECH 3><ACT 1><SCENE 2><2%>
+	O my poor brother! and so perchance may he be.
+<SPEECH 4><ACT 1><SCENE 2><3%>
+	For saying so there's gold.
+	Mine own escape unfoldeth to my hope,
+	Whereto thy speech serves for authority,
+	The like of him. Know'st thou this country?
+<SPEECH 5><ACT 1><SCENE 2><3%>
+	Who governs here?
+<SPEECH 6><ACT 1><SCENE 2><3%>
+	What is his name?
+<SPEECH 7><ACT 1><SCENE 2><3%>
+	Orsino! I have heard my father name him:
+	He was a bachelor then.
+<SPEECH 8><ACT 1><SCENE 2><3%>
+	What's she?
+<SPEECH 9><ACT 1><SCENE 2><4%>
+	O! that I serv'd that lady,
+	And might not be deliver'd to the world,
+	Till I had made mine own occasion mellow,
+	What my estate is.
+<SPEECH 10><ACT 1><SCENE 2><4%>
+	There is a fair behaviour in thee, captain;
+	And though that nature with a beauteous wall
+	Doth oft close in pollution, yet of thee
+	I will believe thou hast a mind that suits
+	With this thy fair and outward character.
+	I prithee,—and I'll pay thee bounteously,—
+	Conceal me what I am, and be my aid
+	For such disguise as haply shall become
+	The form of my intent. I'll serve this duke:
+	Thou shalt present me as a eunuch to him:
+	It may be worth thy pains; for I can sing
+	And speak to him in many sorts of music
+	That will allow me very worth his service.
+	What else may hap to time I will commit;
+	Only shape thou thy silence to my wit.
+<SPEECH 11><ACT 1><SCENE 2><4%>
+	I thank thee: lead me on.
+<SPEECH 12><ACT 1><SCENE 4><10%>
+	You either fear his humour or my negligence, that you call in question the continuance of his love. Is he inconstant, sir, in his favours?
+<SPEECH 13><ACT 1><SCENE 4><10%>
+	I thank you. Here comes the count.
+<SPEECH 14><ACT 1><SCENE 4><10%>
+	On your attendance, my lord; here.
+<SPEECH 15><ACT 1><SCENE 4><10%>
+	Sure, my noble lord,
+	If she be so abandon'd to her sorrow
+	As it is spoke, she never will admit me.
+<SPEECH 16><ACT 1><SCENE 4><11%>
+	Say I do speak with her, my lord, what then?
+<SPEECH 17><ACT 1><SCENE 4><11%>
+	I think not so, my lord.
+<SPEECH 18><ACT 1><SCENE 4><11%>
+	I'll do my best
+	To woo your lady: <STAGE DIR>
+	</STAGE DIR> yet, a barful strife!
+	Whoe'er I woo, myself would be his wife.
+<SPEECH 19><ACT 1><SCENE 5><18%>
+	The honourable lady of the house, which is she?
+<SPEECH 20><ACT 1><SCENE 5><18%>
+	Most radiant, exquisite, and unmatchable beauty,—I pray you tell me if this be the lady of the house, for I never saw her: I would be loath to cast away my speech; for, besides that it is excellently well penned, I have taken great pains to con it. Good beauties, let me sustain no scorn; I am very comptible, even to the least sinister usage.
+<SPEECH 21><ACT 1><SCENE 5><18%>
+	I can say little more than I have studied, and that question's out of my part. Good gentle one, give me modest assurance if you be the lady of the house, that I may proceed in my speech.
+<SPEECH 22><ACT 1><SCENE 5><19%>
+	No, my profound heart; and yet, by the very fangs of malice I swear I am not that I play. Are you the lady of the house?
+<SPEECH 23><ACT 1><SCENE 5><19%>
+	Most certain, if you are she, you do usurp yourself; for, what is yours to bestow is not yours to reserve. But this is from my commission: I will on with my speech in your praise, and then show you the heart of my message.
+<SPEECH 24><ACT 1><SCENE 5><19%>
+	Alas! I took great pains to study it, and 'tis poetical.
+<SPEECH 25><ACT 1><SCENE 5><19%>
+	No, good swabber; I am to hull here a little longer. Some mollification for your giant, sweet lady.
+<SPEECH 26><ACT 1><SCENE 5><19%>
+	I am a messenger.
+<SPEECH 27><ACT 1><SCENE 5><20%>
+	It alone concerns your ear. I bring no overture of war, no taxation of homage: I hold the olive in my hand; my words are as full of peace as matter.
+<SPEECH 28><ACT 1><SCENE 5><20%>
+	The rudeness that hath appear'd in me have I learn'd from my entertainment. What I am, and what I would, are as secret as maiden-head; to your ears, divinity; to any other's, profanation.
+<SPEECH 29><ACT 1><SCENE 5><20%>
+	Most sweet lady,—
+<SPEECH 30><ACT 1><SCENE 5><20%>
+	In Orsino's bosom.
+<SPEECH 31><ACT 1><SCENE 5><20%>
+	To answer by the method, in the first of his heart.
+<SPEECH 32><ACT 1><SCENE 5><20%>
+	Good madam, let me see your face.
+<SPEECH 33><ACT 1><SCENE 5><21%>
+	Excellently done, if God did all.
+<SPEECH 34><ACT 1><SCENE 5><21%>
+	'Tis beauty truly blent, whose red and white
+	Nature's own sweet and cunning hand laid on:
+	Lady, you are tho cruell'st she alive,
+	If you will lead these graces to the grave
+	And leave the world no copy.
+<SPEECH 35><ACT 1><SCENE 5><21%>
+	I see you what you are: you are too proud;
+	But, if you were the devil, you are fair.
+	My lord and master loves you: O! such love
+	Could be but recompens'd, though you were crown'd
+	The nonpareil of beauty.
+<SPEECH 36><ACT 1><SCENE 5><21%>
+	With adorations, with fertile tears,
+	With groans that thunder love, with sighs of fire.
+<SPEECH 37><ACT 1><SCENE 5><22%>
+	If I did love you in my master's flame,
+	With such a suffering, such a deadly life,
+	In your denial I would find no sense;
+	I would not understand it.
+<SPEECH 38><ACT 1><SCENE 5><22%>
+	Make me a willow cabin at your gate,
+	And call upon my soul within the house;
+	Write loyal cantons of contemned love,
+	And sing them loud even in the dead of night;
+	Holla your name to the reverberate hills,
+	And make the babbling gossip of the air
+	Cry out, 'Olivia!' O! you should not rest
+	Between the elements of air and earth,
+	But you should pity me!
+<SPEECH 39><ACT 1><SCENE 5><22%>
+	Above my fortune, yet my state is well:
+	I am a gentleman.
+<SPEECH 40><ACT 1><SCENE 5><22%>
+	I am no fee'd post, lady; keep your purse:
+	My master, not myself, lacks recompense.
+	Love make his heart of flint that you shall love,
+	And let your fervour, like my master's, be
+	Plac'd in contempt! Farewell, fair cruelty.
+<SPEECH 41><ACT 2><SCENE 2><26%>
+	Even now, sir: on a moderate pace I have since arrived but hither.
+<SPEECH 42><ACT 2><SCENE 2><26%>
+	She took the ring of me; I'll none of it.
+<SPEECH 43><ACT 2><SCENE 2><26%>
+	I left no ring with her: what means this lady?
+	Fortune forbid my outside have not charm'd her!
+	She made good view of me; indeed, so much,
+	That sure methought her eyes had lost her tongue,
+	For she did speak in starts distractedly.
+	She loves me, sure; the cunning of her passion
+	Invites me in this churlish messenger.
+	None of my lord's ring! why, he sent her none.
+	I am the man: if it be so, as 'tis,
+	Poor lady, she were better love a dream.
+	Disguise, I see, thou art a wickedness,
+	Wherein the pregnant enemy does much.
+	How easy is it for the proper-false
+	In women's waxen hearts to set their forms!
+	Alas! our frailty is the cause, not we!
+	For such as we are made of, such we be.
+	How will this fadge? My master loves her dearly;
+	And I, poor monster, fond as much on him;
+	And she, mistaken, seems to dote on me.
+	What will become of this? As I am man,
+	My state is desperate for my master's love;
+	As I am woman,—now alas the day!—
+	What thriftless sighs shall poor Olivia breathe!
+	O time! thou must untangle this, not I;
+	It is too hard a knot for me to untie.
+<SPEECH 44><ACT 2><SCENE 4><35%>
+	It gives a very echo to the seat
+	Where love is thron'd.
+<SPEECH 45><ACT 2><SCENE 4><35%>
+	A little, by your favour.
+<SPEECH 46><ACT 2><SCENE 4><35%>
+	Of your complexion.
+<SPEECH 47><ACT 2><SCENE 4><35%>
+	About your years, my lord.
+<SPEECH 48><ACT 2><SCENE 4><36%>
+	I think it well, my lord.
+<SPEECH 49><ACT 2><SCENE 4><36%>
+	And so they are: alas, that they are so;
+	To die, even when they to perfection grow!
+<SPEECH 50><ACT 2><SCENE 4><38%>
+	But if she cannot love you, sir?
+<SPEECH 51><ACT 2><SCENE 4><38%>
+	Sooth, but you must.
+	Say that some lady, as perhaps, there is,
+	Hath for your love as great a pang of heart
+	As you have for Olivia: you cannot love her;
+	You tell her so; must she not then be answer'd?
+<SPEECH 52><ACT 2><SCENE 4><38%>
+	Ay, but I know,—
+<SPEECH 53><ACT 2><SCENE 4><38%>
+	Too well what love women to men may owe:
+	In faith, they are as true of heart as we.
+	My father had a daughter lov'd a man,
+	As it might be, perhaps, were I a woman,
+	I should your lordship.
+<SPEECH 54><ACT 2><SCENE 4><39%>
+	A blank, my lord. She never told her love,
+	But let concealment, like a worm i' the bud,
+	Feed on her damask cheek: she pin'd in thought,
+	And with a green and yellow melancholy,
+	She sat like Patience on a monument,
+	Smiling at grief. Was not this love indeed?
+	We men may say more, swear more; but indeed
+	Our shows are more than will, for still we prove
+	Much in our vows, but little in our love.
+<SPEECH 55><ACT 2><SCENE 4><39%>
+	I am all the daughters of my father's house,
+	And all the brothers too; and yet I know not.
+	Sir, shall I to this lady?
+<SPEECH 56><ACT 3><SCENE 1><47%>
+	Save thee, friend, and thy music. Dost thou live by thy tabor?
+<SPEECH 57><ACT 3><SCENE 1><47%>
+	Art thou a churchman?
+<SPEECH 58><ACT 3><SCENE 1><47%>
+	So thou mayst say, the king lies by a beggar, if a beggar dwell near him; or, the church stands by thy tabor, if thy tabor stand by the church.
+<SPEECH 59><ACT 3><SCENE 1><48%>
+	Nay, that's certain: they that dally nicely with words may quickly make them wanton.
+<SPEECH 60><ACT 3><SCENE 1><48%>
+	Why, man?
+<SPEECH 61><ACT 3><SCENE 1><48%>
+	Thy reason, man?
+<SPEECH 62><ACT 3><SCENE 1><48%>
+	I warrant thou art a merry fellow, and carest for nothing.
+<SPEECH 63><ACT 3><SCENE 1><48%>
+	Art not thou the Lady Olivia's fool?
+<SPEECH 64><ACT 3><SCENE 1><48%>
+	I saw thee late at the Count Orsino's.
+<SPEECH 65><ACT 3><SCENE 1><49%>
+	Nay, an thou pass upon me, I'll no more with thee. Hold, there's sixpence for thee.
+<SPEECH 66><ACT 3><SCENE 1><49%>
+	By my troth, I'll tell thee, I am almost sick for one, though I would not have it grow on my chin. Is thy lady within?
+<SPEECH 67><ACT 3><SCENE 1><49%>
+	Yes, being kept together and put to use.
+<SPEECH 68><ACT 3><SCENE 1><49%>
+	I understand you, sir; 'tis well begg'd.
+<SPEECH 69><ACT 3><SCENE 1><49%>
+	This fellow's wise enough to play the fool,
+	And to do that well craves a kind of wit:
+	He must observe their mood on whom he jests,
+	The quality of persons, and the time,
+	And, like the haggard, check at every feather
+	That comes before his eye. This is a practice
+	As full of labour as a wise man's art;
+	For folly that he wisely shows is fit;
+	But wise men folly-fall'n, quite taint their wit.
+<SPEECH 70><ACT 3><SCENE 1><50%>
+	And you, sir.
+<SPEECH 71><ACT 3><SCENE 1><50%>
+	Et vous aussi; votre serviteur.
+<SPEECH 72><ACT 3><SCENE 1><50%>
+	I am bound to your niece, sir: I mean, she is the list of my voyage.
+<SPEECH 73><ACT 3><SCENE 1><50%>
+	My legs do better understand me, sir, than I understand what you mean by bidding me taste my legs.
+<SPEECH 74><ACT 3><SCENE 1><50%>
+	I will answer you with gait and entrance. But we are prevented.
+	Most excellent accomplished lady, the heavens rain odours on you!
+<SPEECH 75><ACT 3><SCENE 1><50%>
+	My matter hath no voice, lady, but to your own most pregnant and vouchsafed ear.
+<SPEECH 76><ACT 3><SCENE 1><51%>
+	My duty, madam, and most humble service.
+<SPEECH 77><ACT 3><SCENE 1><51%>
+	Cesario is your servant's name, fair princess.
+<SPEECH 78><ACT 3><SCENE 1><51%>
+	And he is yours, and his must needs be yours:
+	Your servant's servant is your servant, madam.
+<SPEECH 79><ACT 3><SCENE 1><51%>
+	Madam, I come to whet your gentle thoughts
+	On his behalf.
+<SPEECH 80><ACT 3><SCENE 1><51%>
+	Dear lady,—
+<SPEECH 81><ACT 3><SCENE 1><52%>
+	I pity you.
+<SPEECH 82><ACT 3><SCENE 1><52%>
+	No, not a grize; for 'tis a vulgar proof
+	That very oft we pity enemies.
+<SPEECH 83><ACT 3><SCENE 1><52%>
+	Then westward-ho!
+	Grace and good disposition attend your ladyship!
+	You'll nothing, madam, to my lord by me?
+<SPEECH 84><ACT 3><SCENE 1><52%>
+	That you do think you are not what you are.
+<SPEECH 85><ACT 3><SCENE 1><53%>
+	Then think you right: I am not what I am.
+<SPEECH 86><ACT 3><SCENE 1><53%>
+	Would it be better, madam, than I am?
+	I wish it might, for now I am your fool.
+<SPEECH 87><ACT 3><SCENE 1><53%>
+	By innocence I swear, and by my youth,
+	I have one heart, one bosom, and one truth,
+	And that no woman has; nor never none
+	Shall mistress be of it, save I alone.
+	And so adieu, good madam: never more
+	Will I my master's tears to you deplore.
+<SPEECH 88><ACT 3><SCENE 4><67%>
+	With the same haviour that your passion bears
+	Goes on my master's griefs.
+<SPEECH 89><ACT 3><SCENE 4><67%>
+	Nothing but this; your true love for my master.
+<SPEECH 90><ACT 3><SCENE 4><67%>
+	I will acquit you.
+<SPEECH 91><ACT 3><SCENE 4><67%>
+	And you, sir.
+<SPEECH 92><ACT 3><SCENE 4><68%>
+	You mistake, sir: I am sure no man hath any quarrel to me: my remembrance is very free and clear from any image of offence done to any man.
+<SPEECH 93><ACT 3><SCENE 4><68%>
+	I pray you, sir, what is he?
+<SPEECH 94><ACT 3><SCENE 4><68%>
+	I will return again into the house and desire some conduct of the lady: I am no fighter. I have heard of some kind of men that put quarrels purposely on others to taste their valour; belike this is a man of that quirk.
+<SPEECH 95><ACT 3><SCENE 4><69%>
+	This is as uncivil as strange. I beseech you, do me this courteous office, as to know of the knight what my offence to him is: it is something of my negligence, nothing of my purpose.
+<SPEECH 96><ACT 3><SCENE 4><69%>
+	Pray you, sir, do you know of this matter?
+<SPEECH 97><ACT 3><SCENE 4><69%>
+	I beseech you, what manner of man is he?
+<SPEECH 98><ACT 3><SCENE 4><69%>
+	I shall be much bound to you for't: I am one that had rather go with sir priest than sir knight; I care not who knows so much of my mettle.
+<SPEECH 99><ACT 3><SCENE 4><71%>
+	</STAGE DIR> Pray God defend me! A little thing would make me tell them how much I lack of a man.
+<SPEECH 100><ACT 3><SCENE 4><71%>
+	I do assure you, 'tis against my will.
+<SPEECH 101><ACT 3><SCENE 4><72%>
+	</STAGE DIR> Pray, sir, put your sword up, if you please.
+<SPEECH 102><ACT 3><SCENE 4><73%>
+	What money, sir?
+	For the fair kindness you have show'd me here,
+	And part, being prompted by your present trouble,
+	Out of my lean and low ability
+	I'll lend you something: my having is not much:
+	I'll make division of my present with you.
+	Hold, there is half my coffer.
+<SPEECH 103><ACT 3><SCENE 4><73%>
+	I know of none;
+	Nor know I you by voice or any feature.
+	I hate ingratitude more in a man
+	Than lying, vainness, babbling drunkenness,
+	Or any taint of vice whose strong corruption
+	Inhabits our frail blood.
+<SPEECH 104><ACT 3><SCENE 4><74%>
+	Methinks his words do from such passion fly,
+	That he believes himself; so do not I.
+	Prove true, imagination, O, prove true,
+	That I, dear brother, be now ta'en for you!
+<SPEECH 105><ACT 3><SCENE 4><74%>
+	He nam'd Sebastian: I my brother know
+	Yet living in my glass; even such and so
+	In favour was my brother; and he went
+	Still in this fashion, colour, ornament,
+	For him I imitate. O! if it prove,
+	Tempests are kind, and salt waves fresh in love!
+<SPEECH 106><ACT 5><SCENE 1><86%>
+	Here comes the man, sir, that did rescue me.
+<SPEECH 107><ACT 5><SCENE 1><87%>
+	He did me kindness, sir, drew on my side;
+	But in conclusion put strange speech upon me:
+	I know not what 'twas but distraction.
+<SPEECH 108><ACT 5><SCENE 1><88%>
+	How can this be?
+<SPEECH 109><ACT 5><SCENE 1><88%>
+	Madam!
+<SPEECH 110><ACT 5><SCENE 1><88%>
+	My lord would speak; my duty hushes me.
+<SPEECH 111><ACT 5><SCENE 1><89%>
+	And I, most jocund, apt, and willingly,
+	To do you rest, a thousand deaths would die.
+<SPEECH 112><ACT 5><SCENE 1><89%>
+	After him I love
+	More than I love these eyes, more than my life,
+	More, by all mores, than e'er I shall love wife.
+	If I do feign, you witnesses above
+	Punish my life for tainting of my love!
+<SPEECH 113><ACT 5><SCENE 1><89%>
+	Who does beguile you? who does do you wrong?
+<SPEECH 114><ACT 5><SCENE 1><90%>
+	No, my lord, not I.
+<SPEECH 115><ACT 5><SCENE 1><91%>
+	My lord, I do protest,—
+<SPEECH 116><ACT 5><SCENE 1><91%>
+	Why do you speak to me? I never hurt you:
+	You drew your sword upon me without cause;
+	But I bespake you fair, and hurt you not.
+<SPEECH 117><ACT 5><SCENE 1><93%>
+	Of Messaline: Sebastian was my father;
+	Such a Sebastian was my brother too,
+	So went he suited to his watery tomb.
+	If spirits can assume both form and suit
+	You come to fright us.
+<SPEECH 118><ACT 5><SCENE 1><94%>
+	My father had a mole upon his brow.
+<SPEECH 119><ACT 5><SCENE 1><94%>
+	And died that day when Viola from her birth
+	Had number'd thirteen years.
+<SPEECH 120><ACT 5><SCENE 1><94%>
+	If nothing lets to make us happy both
+	But this my masculine usurp'd attire,
+	Do not embrace me till each circumstance
+	Of place, time, fortune, do cohere and jump
+	That I am Viola: which to confirm,
+	I'll bring you to a captain in this town,
+	Where lie my maiden weeds: by whose gentle help
+	I was preserv'd to serve this noble count.
+	All the occurrence of my fortune since
+	Hath been between this lady and this lord.
+<SPEECH 121><ACT 5><SCENE 1><95%>
+	And all those sayings will I over-swear,
+	And all those swearings keep as true in soul
+	As doth that orbed continent the fire
+	That severs day from night.
+<SPEECH 122><ACT 5><SCENE 1><95%>
+	The captain that did bring me first on shore
+	Hath my maid's garments: he upon some action
+	Is now in durance at Malvolio's suit,
+	A gentleman and follower of my lady's.

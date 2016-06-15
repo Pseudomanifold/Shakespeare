@@ -1,0 +1,416 @@
+<SPEECH 1><ACT 1><SCENE 2><5%>
+	Who were those went by?
+<SPEECH 2><ACT 1><SCENE 2><5%>
+	And whither go they?
+<SPEECH 3><ACT 1><SCENE 2><5%>
+	What was his cause of anger?
+<SPEECH 4><ACT 1><SCENE 2><5%>
+	Good; and what of him?
+<SPEECH 5><ACT 1><SCENE 2><5%>
+	So do all men, unless they are drunk, sick, or have no legs.
+<SPEECH 6><ACT 1><SCENE 2><5%>
+	But how should this man, that makes me smile, make Hector angry?
+<SPEECH 7><ACT 1><SCENE 2><6%>
+	Who comes here?
+<SPEECH 8><ACT 1><SCENE 2><6%>
+	Hector's a gallant man.
+<SPEECH 9><ACT 1><SCENE 2><6%>
+	Good morrow, uncle Pandarus.
+<SPEECH 10><ACT 1><SCENE 2><6%>
+	This morning, uncle.
+<SPEECH 11><ACT 1><SCENE 2><6%>
+	Hector was gone, but Helen was not up.
+<SPEECH 12><ACT 1><SCENE 2><6%>
+	That were we talking of, and of his anger.
+<SPEECH 13><ACT 1><SCENE 2><6%>
+	So he says here.
+<SPEECH 14><ACT 1><SCENE 2><6%>
+	What! is he angry too?
+<SPEECH 15><ACT 1><SCENE 2><6%>
+	O Jupiter! there's no comparison.
+<SPEECH 16><ACT 1><SCENE 2><6%>
+	Ay, if I ever saw him before and knew him.
+<SPEECH 17><ACT 1><SCENE 2><6%>
+	Then you say as I say; for I am sure he is not Hector.
+<SPEECH 18><ACT 1><SCENE 2><6%>
+	'Tis just to each of them; he is himself.
+<SPEECH 19><ACT 1><SCENE 2><7%>
+	So he is.
+<SPEECH 20><ACT 1><SCENE 2><7%>
+	He is not Hector.
+<SPEECH 21><ACT 1><SCENE 2><7%>
+	Excuse me.
+<SPEECH 22><ACT 1><SCENE 2><7%>
+	Pardon me, pardon me.
+<SPEECH 23><ACT 1><SCENE 2><7%>
+	He shall not need it if he have his own.
+<SPEECH 24><ACT 1><SCENE 2><7%>
+	No matter.
+<SPEECH 25><ACT 1><SCENE 2><7%>
+	'Twould not become him; his own's better.
+<SPEECH 26><ACT 1><SCENE 2><7%>
+	No, but brown.
+<SPEECH 27><ACT 1><SCENE 2><7%>
+	To say the truth, true and not true.
+<SPEECH 28><ACT 1><SCENE 2><7%>
+	Why, Paris hath colour enough.
+<SPEECH 29><ACT 1><SCENE 2><7%>
+	Then Troilus should have too much: if she praised him above, his complexion is higher than his: he having colour enough, and the other higher, is too flaming a praise for a good complexion. I had as lief Helen's golden tongue had commended Troilus for a copper nose.
+<SPEECH 30><ACT 1><SCENE 2><7%>
+	Then she's a merry Greek indeed.
+<SPEECH 31><ACT 1><SCENE 2><8%>
+	Indeed, a tapster's arithmetic may soon bring his particulars therein to a total.
+<SPEECH 32><ACT 1><SCENE 2><8%>
+	Is he so young a man, and so old a lifter?
+<SPEECH 33><ACT 1><SCENE 2><8%>
+	Juno have mercy! how came it cloven?
+<SPEECH 34><ACT 1><SCENE 2><8%>
+	O! he smiles valiantly.
+<SPEECH 35><ACT 1><SCENE 2><8%>
+	O! yes, an 'twere a cloud in autumn.
+<SPEECH 36><ACT 1><SCENE 2><8%>
+	Troilus will stand to the proof, if you'll prove it so.
+<SPEECH 37><ACT 1><SCENE 2><8%>
+	If you love an addle egg as well as you love an idle head, you would eat chickens i' the shell.
+<SPEECH 38><ACT 1><SCENE 2><8%>
+	Without the rack.
+<SPEECH 39><ACT 1><SCENE 2><8%>
+	Alas! poor chin! many a wart is richer.
+<SPEECH 40><ACT 1><SCENE 2><8%>
+	With millstones.
+<SPEECH 41><ACT 1><SCENE 2><8%>
+	But there was more temperate fire under the pot of her eyes: did her eyes run o'er too?
+<SPEECH 42><ACT 1><SCENE 2><8%>
+	At what was all this laughing?
+<SPEECH 43><ACT 1><SCENE 2><9%>
+	An't had been a green hair, I should have laughed too.
+<SPEECH 44><ACT 1><SCENE 2><9%>
+	What was his answer?
+<SPEECH 45><ACT 1><SCENE 2><9%>
+	This is her question.
+<SPEECH 46><ACT 1><SCENE 2><9%>
+	So let it now, for it has been a great while going by.
+<SPEECH 47><ACT 1><SCENE 2><9%>
+	So I do.
+<SPEECH 48><ACT 1><SCENE 2><9%>
+	And I'll spring up in his tears, an 'twere a nettle against May.
+<SPEECH 49><ACT 1><SCENE 2><9%>
+	At your pleasure.
+<SPEECH 50><ACT 1><SCENE 2><9%>
+	Speak not so loud.
+<SPEECH 51><ACT 1><SCENE 2><10%>
+	Who's that?
+<SPEECH 52><ACT 1><SCENE 2><10%>
+	Will he give you the nod?
+<SPEECH 53><ACT 1><SCENE 2><10%>
+	If he do, the rich shall have more.
+<SPEECH 54><ACT 1><SCENE 2><10%>
+	O! a brave man.
+<SPEECH 55><ACT 1><SCENE 2><10%>
+	Be those with swords?
+<SPEECH 56><ACT 1><SCENE 2><10%>
+	Who's that?
+<SPEECH 57><ACT 1><SCENE 2><11%>
+	Can Helenus fight, uncle?
+<SPEECH 58><ACT 1><SCENE 2><11%>
+	What sneaking fellow comes yonder?
+<SPEECH 59><ACT 1><SCENE 2><11%>
+	Peace! for shame, peace!
+<SPEECH 60><ACT 1><SCENE 2><11%>
+	Here come more.
+<SPEECH 61><ACT 1><SCENE 2><11%>
+	There is among the Greeks Achilles, a better man than Troilus.
+<SPEECH 62><ACT 1><SCENE 2><11%>
+	Well, well.
+<SPEECH 63><ACT 1><SCENE 2><12%>
+	Ay, a minced man: and then to be baked with no date in the pie, for then the man's date's out.
+<SPEECH 64><ACT 1><SCENE 2><12%>
+	Upon my back, to defend my belly; upon my wit, to defend my wiles; upon my secrecy, to defend mine honesty; my mask, to defend my beauty; and you, to defend all these: and at all these wards I lie, at a thousand watches.
+<SPEECH 65><ACT 1><SCENE 2><12%>
+	Nay, I'll watch you for that; and that's one of the chiefest of them too: if I cannot ward what I would not have hit, I can watch you for telling how I took the blow; unless it swell past hiding, and then it's past watching.
+<SPEECH 66><ACT 1><SCENE 2><12%>
+	Adieu, uncle.
+<SPEECH 67><ACT 1><SCENE 2><12%>
+	To bring, uncle?
+<SPEECH 68><ACT 1><SCENE 2><12%>
+	By the same token, you are a bawd.
+	Words, vows, gifts, tears, and love's full sacrifice
+	He offers in another's enterprise;
+	But more in Troilus thousand-fold I see
+	Than in the glass of Pandar's praise may be.
+	Yet hold I off. Women are angels, wooing:
+	Things won are done; joy's soul lies in the doing:
+	That she belov'd knows nought that knows not this:
+	Men prize the thing ungain'd more than it is:
+	That she was never yet, that ever knew
+	Love got so sweet as when desire did sue.
+	Therefore this maxim out of love I teach:
+	Achievement is command; ungain'd, beseech:
+	Then though my heart's content firm love doth bear,
+	Nothing of that shall from mine eyes appear.
+<SPEECH 69><ACT 3><SCENE 2><47%>
+	Will you walk in, my lord?
+<SPEECH 70><ACT 3><SCENE 2><47%>
+	Wished, my lord! The gods grant,—O my lord!
+<SPEECH 71><ACT 3><SCENE 2><47%>
+	More dregs than water, if my fears have eyes.
+<SPEECH 72><ACT 3><SCENE 2><47%>
+	Blind fear, that seeing reason leads, finds safer footing than blind reason stumbling without fear: to fear the worst oft cures the worse.
+<SPEECH 73><ACT 3><SCENE 2><47%>
+	Nor nothing monstrous neither?
+<SPEECH 74><ACT 3><SCENE 2><47%>
+	They say all lovers swear more performance than they are able, and yet reserve an ability that they never perform; vowing more than the perfection of ten and discharging less than the tenth part of one. They that have the voice of lions and the act of hares, are they not monsters?
+<SPEECH 75><ACT 3><SCENE 2><48%>
+	Will you walk in, my lord?
+<SPEECH 76><ACT 3><SCENE 2><48%>
+	Well, uncle, what folly I commit, I dedicate to you.
+<SPEECH 77><ACT 3><SCENE 2><48%>
+	Boldness comes to me now, and brings me heart:
+	Prince Troilus, I have lov'd you night and day
+	For many weary months.
+<SPEECH 78><ACT 3><SCENE 2><48%>
+	Hard to seem won; but I was won, my lord,
+	With the first glance that ever—pardon me—
+	If I confess much you will play the tyrant.
+	I love you now; but, till now, not so much
+	But I might master it: in faith, I lie;
+	My thoughts were like unbridled children, grown
+	Too headstrong for their mother. See, we fools!
+	Why have I blabb'd? who shall be true to us
+	When we are so unsecret to ourselves?
+	But, though I lov'd you well, I woo'd you not;
+	And yet, good faith, I wish'd myself a man,
+	Or that we women had men's privilege
+	Of speaking first. Sweet, bid me hold my tongue;
+	For in this rapture I shall surely speak
+	The thing I shall repent. See, see! your silence,
+	Cunning in dumbness, from my weakness draws
+	My very soul of counsel. Stop my mouth.
+<SPEECH 79><ACT 3><SCENE 2><49%>
+	My lord, I do beseech you, pardon me;
+	'Twas not my purpose thus to beg a kiss:
+	I am asham'd: O heavens! what have I done?
+	For this time will I take my leave, my lord.
+<SPEECH 80><ACT 3><SCENE 2><49%>
+	Pray you, content you.
+<SPEECH 81><ACT 3><SCENE 2><49%>
+	Sir, mine own company.
+<SPEECH 82><ACT 3><SCENE 2><49%>
+	Let me go and try:
+	I have a kind of self resides with you;
+	But an unkind self, that itself will leave,
+	To be another's fool. I would be gone:
+	Where is my wit? I speak I know not what.
+<SPEECH 83><ACT 3><SCENE 2><49%>
+	Perchance, my lord, I show more craft than love;
+	And fell so roundly to a large confession,
+	To angle for your thoughts: but you are wise,
+	Or else you love not, for to be wise, and love,
+	Exceeds man's might; that dwells with gods above.
+<SPEECH 84><ACT 3><SCENE 2><50%>
+	In that I'll war with you.
+<SPEECH 85><ACT 3><SCENE 2><50%>
+	Prophet may you be!
+	If I be false, or swerve a hair from truth,
+	When time is old and hath forgot itself,
+	When waterdrops have worn the stones of Troy,
+	And blind oblivion swallow'd cities up,
+	And mighty states characterless are grated
+	To dusty nothing, yet let memory,
+	From false to false, among false maids in love
+	Upbraid my falsehood! when they have said 'as false
+	As air, as water, wind, or sandy earth,
+	As fox to lamb, as wolf to heifer's calf,
+	Pard to the hind, or stepdame to her son;'
+	Yea, let them say, to stick the heart of falsehood,
+	'As false as Cressid.'
+<SPEECH 86><ACT 3><SCENE 2><51%>
+	Amen.
+<SPEECH 87><ACT 4><SCENE 2><62%>
+	Then, sweet my lord, I'll call mine uncle down:
+	He shall unbolt the gates.
+<SPEECH 88><ACT 4><SCENE 2><62%>
+	Good morrow then.
+<SPEECH 89><ACT 4><SCENE 2><62%>
+	Are you aweary of me?
+<SPEECH 90><ACT 4><SCENE 2><62%>
+	Night hath been too brief.
+<SPEECH 91><ACT 4><SCENE 2><62%>
+	Prithee, tarry:
+	You men will never tarry.
+	O foolish Cressid! I might have still held off,
+	And then you would have tarried. Hark! there's one up.
+<SPEECH 92><ACT 4><SCENE 2><63%>
+	A pestilence on him! now will he be mocking: I shall have such a life!
+<SPEECH 93><ACT 4><SCENE 2><63%>
+	Go hang yourself, you naughty mocking uncle!
+	You bring me to do—and then you flout me too.
+<SPEECH 94><ACT 4><SCENE 2><63%>
+	Come, come; beshrew your heart! you'll ne'er be good,
+	Nor suffer others.
+<SPEECH 95><ACT 4><SCENE 2><63%>
+	Did not I tell you? 'would he were knock'd o' the head!
+	Who's that at door? good uncle, go and see.
+	My lord, come you again into my chamber:
+	You smile, and mock me, as if I meant naughtily.
+<SPEECH 96><ACT 4><SCENE 2><63%>
+	Come, you are deceiv'd, I think of no such thing.
+	How earnestly they knock! Pray you, come in:
+	I would not for half Troy have you seen here.
+<SPEECH 97><ACT 4><SCENE 2><64%>
+	How now! What is the matter? Who was here?
+<SPEECH 98><ACT 4><SCENE 2><64%>
+	Why sigh you so profoundly? where's my lord? gone! Tell me, sweet uncle, what's the matter?
+<SPEECH 99><ACT 4><SCENE 2><64%>
+	O the gods! what's the matter?
+<SPEECH 100><ACT 4><SCENE 2><65%>
+	Good uncle, I beseech you, on my knees I beseech you, what's the matter?
+<SPEECH 101><ACT 4><SCENE 2><65%>
+	O you immortal gods! I will not go.
+<SPEECH 102><ACT 4><SCENE 2><65%>
+	I will not, uncle: I have forgot my father;
+	I know no touch of consanguinity;
+	No kin, no love, no blood, no soul so near me
+	As the sweet Troilus. O you gods divine!
+	Make Cressid's name the very crown of falsehood
+	If ever she leave Troilus! Time, force, and death,
+	Do to this body what extremes you can;
+	But the strong base and building of my love
+	Is as the very centre of the earth,
+	Drawing all things to it. I'll go in and weep,—
+<SPEECH 103><ACT 4><SCENE 2><65%>
+	Tear my bright hair, and scratch my praised cheeks,
+	Crack my clear voice with sobs, and break my heart
+	With sounding Troilus. I will not go from Troy.
+<SPEECH 104><ACT 4><SCENE 4><66%>
+	Why tell you me of moderation?
+	The grief is fine, full, perfect, that I taste,
+	And violenteth in a sense as strong
+	As that which causeth it: how can I moderate it?
+	If I could temporize with my affection,
+	Or brew it to a weak and colder palate,
+	The like allayment could I give my grief:
+	My love admits no qualifying dross;
+	No more my grief, in such a precious loss.
+<SPEECH 105><ACT 4><SCENE 4><66%>
+	</STAGE DIR> O Troilus! Troilus!
+<SPEECH 106><ACT 4><SCENE 4><66%>
+	Have the gods envy?
+<SPEECH 107><ACT 4><SCENE 4><67%>
+	And is it true that I must go from Troy?
+<SPEECH 108><ACT 4><SCENE 4><67%>
+	What! and from Troilus too?
+<SPEECH 109><ACT 4><SCENE 4><67%>
+	Is it possible?
+<SPEECH 110><ACT 4><SCENE 4><67%>
+	I must then to the Grecians?
+<SPEECH 111><ACT 4><SCENE 4><67%>
+	A woeful Cressid 'mongst the merry Greeks!
+	When shall we see again?
+<SPEECH 112><ACT 4><SCENE 4><67%>
+	I true! how now! what wicked deem is this?
+<SPEECH 113><ACT 4><SCENE 4><68%>
+	O! you shall be expos'd, my lord, to dangers
+	As infinite as imminent; but I'll be true.
+<SPEECH 114><ACT 4><SCENE 4><68%>
+	And you this glove. When shall I see you?
+<SPEECH 115><ACT 4><SCENE 4><68%>
+	O heavens! 'be true' again!
+<SPEECH 116><ACT 4><SCENE 4><68%>
+	O heavens! you love me not.
+<SPEECH 117><ACT 4><SCENE 4><68%>
+	Do you think I will?
+<SPEECH 118><ACT 4><SCENE 4><69%>
+	My lord, will you be true?
+<SPEECH 119><ACT 4><SCENE 5><71%>
+	In kissing, do you render or receive?
+<SPEECH 120><ACT 4><SCENE 5><71%>
+	I'll make my match to live,
+	The kiss you take is better than you give;
+	Therefore no kiss.
+<SPEECH 121><ACT 4><SCENE 5><71%>
+	You're an odd man; give even, or give none.
+<SPEECH 122><ACT 4><SCENE 5><71%>
+	No, Paris is not; for, you know 'tis true,
+	That you are odd, and he is even with you.
+<SPEECH 123><ACT 4><SCENE 5><72%>
+	No, I'll be sworn.
+<SPEECH 124><ACT 4><SCENE 5><72%>
+	You may.
+<SPEECH 125><ACT 4><SCENE 5><72%>
+	Why, beg, then.
+<SPEECH 126><ACT 4><SCENE 5><72%>
+	I am your debtor; claim it when 'tis due.
+<SPEECH 127><ACT 5><SCENE 2><83%>
+	Now, my sweet guardian! Hark! a word with you.
+<SPEECH 128><ACT 5><SCENE 2><83%>
+	Remember! yes.
+<SPEECH 129><ACT 5><SCENE 2><83%>
+	Sweet honey Greek, tempt me no more to folly.
+<SPEECH 130><ACT 5><SCENE 2><83%>
+	I'll tell you what,—
+<SPEECH 131><ACT 5><SCENE 2><83%>
+	In faith, I cannot. What would you have me do?
+<SPEECH 132><ACT 5><SCENE 2><83%>
+	I prithee, do not hold me to mine oath;
+	Bid me do anything but that, sweet Greek.
+<SPEECH 133><ACT 5><SCENE 2><83%>
+	Diomed,—
+<SPEECH 134><ACT 5><SCENE 2><83%>
+	Hark! one word in your ear.
+<SPEECH 135><ACT 5><SCENE 2><84%>
+	Nay, but you part in anger.
+<SPEECH 136><ACT 5><SCENE 2><84%>
+	Guardian!—why, Greek!
+<SPEECH 137><ACT 5><SCENE 2><84%>
+	In faith, I do not: come hither once again.
+<SPEECH 138><ACT 5><SCENE 2><84%>
+	In faith, I will, la; never trust me else.
+<SPEECH 139><ACT 5><SCENE 2><84%>
+	I'll fetch you one.
+<SPEECH 140><ACT 5><SCENE 2><84%>
+	Here, Diomed, keep this sleeve.
+<SPEECH 141><ACT 5><SCENE 2><85%>
+	You look upon that sleeve; behold it well.
+	He lov'd me—O false wench!—Give't to me again.
+<SPEECH 142><ACT 5><SCENE 2><85%>
+	It is no matter, now I have't again.
+	I will not meet with you to-morrow night.
+	I prithee, Diomed, visit me no more.
+<SPEECH 143><ACT 5><SCENE 2><85%>
+	What, this?
+<SPEECH 144><ACT 5><SCENE 2><85%>
+	O! all you gods. O pretty, pretty pledge!
+	Thy master now lies thinking in his bed
+	Of thee and me; and sighs, and takes my glove,
+	And gives me norial dainty kisses to it,
+	As I kiss thee. Nay, do not snatch it from me;
+	He that takes that doth take my heart withal.
+<SPEECH 145><ACT 5><SCENE 2><85%>
+	You shall not have it, Diomed; faith you shall not;
+	I'll give you something else.
+<SPEECH 146><ACT 5><SCENE 2><85%>
+	'Tis no matter.
+<SPEECH 147><ACT 5><SCENE 2><85%>
+	'Twas one's that loved me better than you will.
+	But, now you have it, take it.
+<SPEECH 148><ACT 5><SCENE 2><85%>
+	By all Diana's waiting-women yond,
+	And by herself, I will not tell you whose.
+<SPEECH 149><ACT 5><SCENE 2><85%>
+	Well, well, 'tis done, 'tis past: and yet it is not:
+	I will not keep my word.
+<SPEECH 150><ACT 5><SCENE 2><85%>
+	You shall not go: one cannot speak a word,
+	But it straight starts you.
+<SPEECH 151><ACT 5><SCENE 2><86%>
+	Ay, come:—O Jove!—
+	Do come:—I shall be plagu'd.
+<SPEECH 152><ACT 5><SCENE 2><86%>
+	Good-night: I prithee, come.—
+	Troilus, farewell! one eye yet looks on thee,
+	But with my heart the other eye doth see.
+	Ah! poor our sex; this fault in us I find,
+	The error of our eye directs our mind.
+	What error leads must err. O! then conclude
+	Minds sway'd by eyes are full of turpitude.

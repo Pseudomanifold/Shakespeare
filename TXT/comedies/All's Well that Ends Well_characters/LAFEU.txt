@@ -1,0 +1,240 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	You shall find of the king a husband, madam; you, sir, a father. He that so generally is at all times good, must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted rather than lack it where there is such abundance.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	He hath abandoned his physicians, madam; under whose practices he hath persecuted time with hope, and finds no other advantage in the process but only the losing of hope by time.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	How called you the man you speak of, madam?
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	He was excellent indeed, madam: the king very lately spoke of him admiringly and mourningly. He was skilful enough to have lived still, if knowledge could be set up against mortality.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	A fistula, my lord.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	I would it were not notorious. Was this gentlewoman the daughter of Gerard de Narbon?
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	Your commendations, madam, get from her tears.
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	Moderate lamentation is the right of the dead, excessive grief the enemy to the living.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	How understand we that?
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	He cannot want the best
+	That shall attend his love.
+<SPEECH 11><ACT 1><SCENE 1><3%>
+	Farewell, pretty lady: you must hold the credit of your father.
+<SPEECH 12><ACT 2><SCENE 1><22%>
+	</STAGE DIR> Pardon, my lord, for me and for my tidings.
+<SPEECH 13><ACT 2><SCENE 1><22%>
+	Then here's a man stands that has brought his pardon.
+	I would you had kneel'd, my lord, to ask me mercy,
+	And that at my bidding you could so stand up.
+<SPEECH 14><ACT 2><SCENE 1><22%>
+	Good faith, across: but, my good lord, 'tis thus;
+	Will you be cur'd of your infirmity?
+<SPEECH 15><ACT 2><SCENE 1><22%>
+	O! will you eat no grapes, my royal fox?
+	Yes, but you will my noble grapes an if
+	My royal fox could reach them. I have seen a medicine
+	That's able to breathe life into a stone,
+	Quicken a rock, and make you dance canary
+	With spritely fire and motion; whose simple touch
+	Is powerful to araise King Pepin, nay,
+	To give great Charlemain a pen in's hand
+	And write to her a love-line.
+<SPEECH 16><ACT 2><SCENE 1><22%>
+	Why, Doctor She. My lord, there's one arriv'd
+	If you will see her: now, by my faith and honour,
+	If seriously I may convey my thoughts
+	In this my light deliverance, I have spoke
+	With one, that in her sex, her years, profession,
+	Wisdom, and constancy, hath amaz'd me more
+	Than I dare blame my weakness. Will you see her,
+	For that is her demand, and know her business?
+	That done, laugh well at me.
+<SPEECH 17><ACT 2><SCENE 1><23%>
+	Nay, I'll fit you,
+	And not be all day neither.
+<SPEECH 18><ACT 2><SCENE 1><23%>
+	Nay, come your ways.
+<SPEECH 19><ACT 2><SCENE 1><23%>
+	Nay, come your ways;
+	This is his majesty, say your mind to him:
+	A traitor you do look like; but such traitors
+	His majesty seldom fears: I am Cressid's uncle,
+	That dare leave two together. Fare you well.
+<SPEECH 20><ACT 2><SCENE 3><29%>
+	They say miracles are past; and we have our philosophical persons, to make modern and familiar, things supernatural and causeless. Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge, when we should submit ourselves to an unknown fear.
+<SPEECH 21><ACT 2><SCENE 3><29%>
+	To be relinquished of the artists,—
+<SPEECH 22><ACT 2><SCENE 3><30%>
+	Both of Galen and Paracelsus.
+<SPEECH 23><ACT 2><SCENE 3><30%>
+	Of all the learned and authentic fellows,—
+<SPEECH 24><ACT 2><SCENE 3><30%>
+	That gave him out incurable,—
+<SPEECH 25><ACT 2><SCENE 3><30%>
+	Not to be helped,—
+<SPEECH 26><ACT 2><SCENE 3><30%>
+	Uncertain life, and sure death.
+<SPEECH 27><ACT 2><SCENE 3><30%>
+	I may truly say it is a novelty to the world.
+<SPEECH 28><ACT 2><SCENE 3><30%>
+	A showing of a heavenly effect in an earthly actor.
+<SPEECH 29><ACT 2><SCENE 3><30%>
+	Why, your dolphin is not lustier: 'fore me, I speak in respect—
+<SPEECH 30><ACT 2><SCENE 3><30%>
+	Very hand of heaven—
+<SPEECH 31><ACT 2><SCENE 3><30%>
+	In a most weak and debile minister, great power, great transcendence: which should, indeed, give us a further use to be made than alone the recovery of the king, as to be generally thankful.
+<SPEECH 32><ACT 2><SCENE 3><30%>
+	Lustig, as the Dutchman says: I'll like a maid the better, whilst I have a tooth in my head. Why, he's able to lead her a coranto.
+<SPEECH 33><ACT 2><SCENE 3><31%>
+	'Fore God, I think so.
+<SPEECH 34><ACT 2><SCENE 3><31%>
+	I'd give bay Curtal, and his furniture,
+	My mouth no more were broken than these boys'
+	And writ as little beard.
+<SPEECH 35><ACT 2><SCENE 3><32%>
+	I had rather be in this choice than throw ames-ace for my life.
+<SPEECH 36><ACT 2><SCENE 3><32%>
+	Do all they deny her? An they were sons of mine, I'd have them whipp'd or I would send them to the Turk to make eunuchs of.
+<SPEECH 37><ACT 2><SCENE 3><32%>
+	These boys are boys of ice, they'll none have her: sure, they are bastards to the English; the French ne'er got 'em.
+<SPEECH 38><ACT 2><SCENE 3><33%>
+	There's one grape yet. I am sure thy father drunk wine. But if thou be'st not an ass, I am a youth of fourteen: I have known thee already.
+<SPEECH 39><ACT 2><SCENE 3><35%>
+	Do you hear, monsieur? a word with you.
+<SPEECH 40><ACT 2><SCENE 3><35%>
+	Your lord and master did well to make his recantation.
+<SPEECH 41><ACT 2><SCENE 3><36%>
+	Ay; is it not a language I speak?
+<SPEECH 42><ACT 2><SCENE 3><36%>
+	Are you companion to the Count Rousillon?
+<SPEECH 43><ACT 2><SCENE 3><36%>
+	To what is count's man: count's master is of another style.
+<SPEECH 44><ACT 2><SCENE 3><36%>
+	I must tell thee, sirrah, I write man; to which title age cannot bring thee.
+<SPEECH 45><ACT 2><SCENE 3><36%>
+	I did think thee, for two ordinaries, to be a pretty wise fellow: thou didst make tolerable vent of thy travel; it might pass: yet the scarfs and the bannerets about thee did manifoldly dissuade me from believing thee a vessel of too great a burden. I have now found thee; when I lose thee again, I care not; yet art thou good for nothing but taking up, and that thou'rt scarce worth.
+<SPEECH 46><ACT 2><SCENE 3><36%>
+	Do not plunge thyself too far in anger, lest thou hasten thy trial; which if—Lord have mercy on thee for a hen! So, my good window of lattice, fare thee well: thy casement I need not open, for I look through thee. Give me thy hand.
+<SPEECH 47><ACT 2><SCENE 3><36%>
+	Ay, with all my heart; and thou art worthy of it.
+<SPEECH 48><ACT 2><SCENE 3><37%>
+	Yes, good faith, every dram of it; and I will not bate thee a scruple.
+<SPEECH 49><ACT 2><SCENE 3><37%>
+	E'en as soon as thou canst, for thou hast to pull at a smack o' the contrary. If ever thou be'st bound in thy scarf and beaten, thou shalt find what it is to be proud of thy bondage. I have a desire to hold my acquaintance with thee, or rather my knowledge, that I may say in the default, he is a man I know.
+<SPEECH 50><ACT 2><SCENE 3><37%>
+	I would it were hell-pains for thy sake, and my poor doing eternal: for doing I am past; as I will by thee, in what motion age will give me leave.
+<SPEECH 51><ACT 2><SCENE 3><37%>
+	Sirrah, your lord and master's married; there's news for you: you have a new mistress.
+<SPEECH 52><ACT 2><SCENE 3><38%>
+	Who? God?
+<SPEECH 53><ACT 2><SCENE 3><38%>
+	The devil it is that's thy master. Why dost thou garter up thy arms o' this fashion? dost make hose of thy sleeves? do other servants so? Thou wert best set thy lower part where thy nose stands. By mine honour, if I were but two hours younger, I'd beat thee: methinks thou art a general offence, and every man should beat thee: I think thou wast created for men to breathe themselves upon thee.
+<SPEECH 54><ACT 2><SCENE 3><38%>
+	Go to, sir; you were beaten in Italy for picking a kernel out of a pomegranate; you are a vagabond and no true traveller: you are more saucy with lords and honourable personages than the heraldry of your birth and virtue gives you commission. You are not worth another word, else I'd call you knave. I leave you.
+<SPEECH 55><ACT 2><SCENE 5><41%>
+	But I hope your lordship thinks not him a soldier.
+<SPEECH 56><ACT 2><SCENE 5><41%>
+	You have it from his own deliverance.
+<SPEECH 57><ACT 2><SCENE 5><41%>
+	Then my dial goes not true: I took this lark for a bunting.
+<SPEECH 58><ACT 2><SCENE 5><42%>
+	I have then sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent. Here he comes; I pray you, make us friends; I will pursue the amity.
+<SPEECH 59><ACT 2><SCENE 5><42%>
+	Pray you, sir, who's his tailor?
+<SPEECH 60><ACT 2><SCENE 5><42%>
+	O! I know him well. Ay, sir; he, sir, is a good workman, a very good tailor.
+<SPEECH 61><ACT 2><SCENE 5><42%>
+	A good traveller is something at the latter end of a dinner; but one that lies three thirds, and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten. God save you, captain.
+<SPEECH 62><ACT 2><SCENE 5><42%>
+	You have made shift to run into't, boots and spurs and all, like him that leaped into the custard; and out of it you'll run again, rather than suffer question for your residence.
+<SPEECH 63><ACT 2><SCENE 5><43%>
+	And shall do so ever, though I took him at his prayers. Fare you well, my lord; and believe this of me, there can be no kernel in this light nut; the soul of this man is his clothes. Trust him not in matter of heavy consequence; I have kept of them tame, and know their natures. Farewell, monsieur: I have spoken better of you than you have or will to deserve at my hand; but we must do good against evil.
+<SPEECH 64><ACT 4><SCENE 5><81%>
+	No, no, no; your son was misled with a snipt-taffeta fellow there, whose villanous saffron would have made all the unbaked and doughy youth of a nation in his colour: your daughter-in-law had been alive at this hour, and your son here at home, more advanced by the king than by that red-tailed humble-bee I speak of.
+<SPEECH 65><ACT 4><SCENE 5><81%>
+	'Twas a good lady, 'twas a good lady: we may pick a thousand salads ere we light on such another herb.
+<SPEECH 66><ACT 4><SCENE 5><81%>
+	They are not salad-herbs, you knave; they are nose-herbs.
+<SPEECH 67><ACT 4><SCENE 5><81%>
+	Whether dost thou profess thyself, a knave, or a fool?
+<SPEECH 68><ACT 4><SCENE 5><82%>
+	Your distinction?
+<SPEECH 69><ACT 4><SCENE 5><82%>
+	So you were a knave at his service, indeed.
+<SPEECH 70><ACT 4><SCENE 5><82%>
+	I will subscribe for thee, thou art both knave and fool.
+<SPEECH 71><ACT 4><SCENE 5><82%>
+	No, no, no.
+<SPEECH 72><ACT 4><SCENE 5><82%>
+	Who's that? a Frenchman?
+<SPEECH 73><ACT 4><SCENE 5><82%>
+	What prince is that?
+<SPEECH 74><ACT 4><SCENE 5><82%>
+	Hold thee, there's my purse. I give thee not this to suggest thee from thy master thou talkest of: serve him still.
+<SPEECH 75><ACT 4><SCENE 5><82%>
+	Go thy ways, I begin to be aweary of thee; and I tell thee so before, because I would not fall out with thee. Go thy ways: let my horses be well looked to, without any tricks.
+<SPEECH 76><ACT 4><SCENE 5><83%>
+	A shrewd knave and an unhappy.
+<SPEECH 77><ACT 4><SCENE 5><83%>
+	I like him well; 'tis not amiss. And I was about to tell you, since I heard of the good lady's death, and that my lord your son was upon his return home, I moved the king my master to speak in the behalf of my daughter; which, in the minority of them both, his majesty, out of a self-gracious remembrance, did first propose. His highness hath promised me to do it; and to stop up the displeasure he hath conceived against your son, there is no fitter matter. How does your ladyship like it?
+<SPEECH 78><ACT 4><SCENE 5><83%>
+	His highness comes post from Marseilles, of as able body as when he numbered thirty: he will be here to-morrow, or I am deceived by him that in such intelligence hath seldom failed.
+<SPEECH 79><ACT 4><SCENE 5><84%>
+	Madam, I was thinking with what manners I might safely be admitted.
+<SPEECH 80><ACT 4><SCENE 5><84%>
+	Lady, of that I have made a bold charter; but I thank my God it holds yet.
+<SPEECH 81><ACT 4><SCENE 5><84%>
+	A scar nobly got, or a noble scar, is a good livery of honour; so belike is that.
+<SPEECH 82><ACT 4><SCENE 5><84%>
+	Let us go see your son, I pray you: I long to talk with the young noble soldier.
+<SPEECH 83><ACT 5><SCENE 2><87%>
+	And what would you have me to do? 'tis too late to pare her nails now. Wherein have you played the knave with Fortune that she should scratch you, who of herself is a good lady, and would not have knaves thrive long under her? There's a cardecu for you. Let the justices make you and Fortune friends; I am for other business.
+<SPEECH 84><ACT 5><SCENE 2><87%>
+	You beg a single penny more: come, you shall ha't; save your word.
+<SPEECH 85><ACT 5><SCENE 2><87%>
+	You beg more than one word then. Cox my passion! give me your hand. How does your drum?
+<SPEECH 86><ACT 5><SCENE 2><87%>
+	Was I, in sooth? and I was the first that lost thee.
+<SPEECH 87><ACT 5><SCENE 2><87%>
+	Out upon thee, knave! dost thou put upon me at once both the office of God and the devil? one brings thee in grace and the other brings thee out. <STAGE DIR>
+	</STAGE DIR> The king's coming; I know by his trumpets. Sirrah, inquire further after me; I had talk of you last night: though you are a fool and a knave, you shall eat: go to, follow.
+<SPEECH 88><ACT 5><SCENE 3><88%>
+	This I must say,—
+	But first I beg my pardon,—the young lord
+	Did to his majesty, his mother, and his lady,
+	Offence of mighty note, but to himself
+	The greatest wrong of all: he lost a wife
+	Whose beauty did astonish the survey
+	Of richest eyes, whose words all ears took captive,
+	Whose dear perfection hearts that scorn'd to serve
+	Humbly call'd mistress.
+<SPEECH 89><ACT 5><SCENE 3><89%>
+	All that he is hath reference to your highness.
+<SPEECH 90><ACT 5><SCENE 3><89%>
+	He looks well on't.
+<SPEECH 91><ACT 5><SCENE 3><90%>
+	Come on, my son, in whom my house's name
+	Must be digested, give a favour from you
+	To sparkle in the spirits of my daughter,
+	That she may quickly come.
+	And every hair that's on't, Helen, that's dead,
+	Was a sweet creature; such a ring as this,
+	The last that e'er I took her leave at court,
+	I saw upon her finger.
+<SPEECH 92><ACT 5><SCENE 3><91%>
+	I am sure I saw her wear it.
+<SPEECH 93><ACT 5><SCENE 3><93%>
+	I will buy me a son-in-law in a fair, and toll for this: I'll none of him.
+<SPEECH 94><ACT 5><SCENE 3><94%>
+	</STAGE DIR> Your reputation comes too short for my daughter: you are no husband for her.
+<SPEECH 95><ACT 5><SCENE 3><95%>
+	I saw the man to-day, if man he be.
+<SPEECH 96><ACT 5><SCENE 3><97%>
+	He is a good drum, my lord, but a naughty orator.
+<SPEECH 97><ACT 5><SCENE 3><98%>
+	This woman's an easy glove, my lord: she goes off and on at pleasure.
+<SPEECH 98><ACT 5><SCENE 3><99%>
+	Mine eyes smell onions; I shall weep anon. <STAGE DIR>
+	</STAGE DIR> Good Tom Drum, lend me a handkercher: so, I thank thee. Wait on me home, I'll make sport with thee: let thy curtsies alone, they are scurvy ones.

@@ -1,0 +1,128 @@
+<SPEECH 1><ACT 3><SCENE 3><44%>
+	I would there were no age between sixteen and three-and-twenty, or that youth would sleep out the rest; for there is nothing in the between but getting wenches with child, wronging the ancientry, stealing, fighting. Hark you now! Would any but these boiled brains of nineteen and two-and-twenty hunt this weather? They have scared away two of my best sheep; which I fear the wolf will sooner find than the master: if anywhere I have them, 'tis by the sea-side, browsing of ivy. Good luck, an't be thy will! what have we here? <STAGE DIR>
+	</STAGE DIR> Mercy on's, a barne; a very pretty barne! A boy or a child, I wonder? A pretty one; a very pretty one; sure some scape: though I am not bookish, yet I can read waiting-gentlewoman in the scape. This has been some stair-work, some trunk-work, some behind-door-work; they were warmer that got this than the poor thing is here. I'll take it up for pity; yet I'll tarry till my son come; he hollaed but even now. Whoa, ho, hoa!
+<SPEECH 2><ACT 3><SCENE 3><45%>
+	What! art so near? If thou'lt see a thing to talk on when thou art dead and rotten, come hither. What ailest thou, man?
+<SPEECH 3><ACT 3><SCENE 3><45%>
+	Why, boy, how is it?
+<SPEECH 4><ACT 3><SCENE 3><45%>
+	Name of mercy! when was this, boy?
+<SPEECH 5><ACT 3><SCENE 3><45%>
+	Would I had been by, to have helped the old man!
+<SPEECH 6><ACT 3><SCENE 3><46%>
+	Heavy matters! heavy matters! but look thee here, boy. Now bless thyself: thou mettest with things dying, I with things new born. Here's a sight for thee; look thee, a bearing-cloth for a squire's child! Look thee here: take up, take up, boy; open't. So, let's see: it was told me, I should be rich by the fairies: this is some changeling.—Open't. What's within, boy?
+<SPEECH 7><ACT 3><SCENE 3><46%>
+	This is fairy gold, boy, and 'twill prove so: up with't, keep it close: home, home, the next way. We are lucky, boy; and to be so still, requires nothing but secrecy. Let my sheep go. Come, good boy, the next way home.
+<SPEECH 8><ACT 3><SCENE 3><46%>
+	That's a good deed. If thou mayst discern by that which is left of him what he is, fetch me to the sight of him.
+<SPEECH 9><ACT 3><SCENE 3><46%>
+	'Tis a lucky day, boy, and we'll do good deeds on't.
+<SPEECH 10><ACT 4><SCENE 3><55%>
+	Fie, daughter! when my old wife liv'd, upon
+	This day she was both pantler, butler, cook;
+	Both dame and servant; welcom'd all, serv'd all,
+	Would sing her song and dance her turn; now here,
+	At upper end o' the table, now i' the middle;
+	On his shoulder, and his; her face o' fire
+	With labour and the thing she took to quench it,
+	She would to each one sip. You are retir'd,
+	As if you were a feasted one and not
+	The hostess of the meeting: pray you, bid
+	These unknown friends to's welcome; for it is
+	A way to make us better friends, more known.
+	Come, quench your blushes and present yourself
+	That which you are, mistress o' the feast: come on,
+	And bid us welcome to your sheep-shearing,
+	As your good flock shall prosper.
+<SPEECH 11><ACT 4><SCENE 3><59%>
+	They call him Doricles, and boasts himself
+	To have a worthy feeding; but I have it
+	Upon his own report and I believe it:
+	He looks like sooth. He says he loves my daughter:
+	I think so too; for never gaz'd the moon
+	Upon the water as he'll stand and read
+	As 'twere my daughter's eyes; and, to be plain,
+	I think there is not half a kiss to choose
+	Who loves another best.
+<SPEECH 12><ACT 4><SCENE 3><59%>
+	So she does any thing, though I report it
+	That should be silent. If young Doricles
+	Do light upon her, she shall bring him that
+	Which he not dreams of.
+<SPEECH 13><ACT 4><SCENE 3><64%>
+	Away! we'll none on't: here has been too much homely foolery already. I know, sir, we weary you.
+<SPEECH 14><ACT 4><SCENE 3><64%>
+	Leave your prating: since these good men are pleased let them come in: but quickly now.
+<SPEECH 15><ACT 4><SCENE 3><66%>
+	But, my daughter,
+	Say you the like to him?
+<SPEECH 16><ACT 4><SCENE 3><66%>
+	Take hands; a bargain;
+	And, friends unknown, you shall bear witness to't:
+	I give my daughter to him, and will make
+	Her portion equal his.
+<SPEECH 17><ACT 4><SCENE 3><66%>
+	Come, your hand;
+	And, daughter, yours.
+<SPEECH 18><ACT 4><SCENE 3><67%>
+	Let him, my son: he shall not need to grieve
+	At knowing of thy choice.
+<SPEECH 19><ACT 4><SCENE 3><67%>
+	O, my heart!
+<SPEECH 20><ACT 4><SCENE 3><68%>
+	I cannot speak, nor think,
+	Nor dare to know that which I know. O sir!
+	You have undone a man of fourscore three,
+	That thought to fill his grave in quiet, yea,
+	To die upon the bed my father died,
+	To lie close by his honest bones: but now
+	Some hangman must put on my shroud and lay me
+	Where no priest shovels in dust. O cursed wretch!
+	That knew'st this was the prince, and wouldst adventure
+	To mingle faith with him. Undone! undone!
+	If I might die within this hour, I have liv'd
+	To die when I desire.
+<SPEECH 21><ACT 4><SCENE 3><76%>
+	Nay, but hear me.
+<SPEECH 22><ACT 4><SCENE 3><76%>
+	Go to, then.
+<SPEECH 23><ACT 4><SCENE 3><76%>
+	I will tell the king all, every word, yea, and his son's pranks too; who, I may say, is no honest man neither to his father nor to me, to go about to make me the king's brother-in-law.
+<SPEECH 24><ACT 4><SCENE 3><77%>
+	Well, let us to the king: there is that in this fardel will make him scratch his beard.
+<SPEECH 25><ACT 4><SCENE 3><77%>
+	To the palace, an it like your worship.
+<SPEECH 26><ACT 4><SCENE 3><77%>
+	Are you a courtier, an't like you, sir?
+<SPEECH 27><ACT 4><SCENE 3><78%>
+	My business, sir, is to the king.
+<SPEECH 28><ACT 4><SCENE 3><78%>
+	I know not, an't like you.
+<SPEECH 29><ACT 4><SCENE 3><78%>
+	None, sir; I have no pheasant, cock nor hen.
+<SPEECH 30><ACT 4><SCENE 3><78%>
+	His garments are rich, but he wears them not handsomely.
+<SPEECH 31><ACT 4><SCENE 3><78%>
+	Sir, there lies such secrets in this fardel and box which none must know but the king; and which he shall know within this hour if I may come to the speech of him.
+<SPEECH 32><ACT 4><SCENE 3><78%>
+	Why, sir?
+<SPEECH 33><ACT 4><SCENE 3><79%>
+	So 'tis said, sir, about his son, that should have married a shepherd's daughter.
+<SPEECH 34><ACT 4><SCENE 3><80%>
+	An't please you, sir, to undertake the business for us, here is that gold I have: I'll make it as much more and leave this young man in pawn till I bring it you.
+<SPEECH 35><ACT 4><SCENE 3><80%>
+	Ay, sir.
+<SPEECH 36><ACT 4><SCENE 3><81%>
+	Let's before as he bids us. He was provided to do us good.
+<SPEECH 37><ACT 5><SCENE 2><93%>
+	Come, boy; I am past moe children, but thy sons and daughters will be all gentlemen born.
+<SPEECH 38><ACT 5><SCENE 2><94%>
+	And so have I, boy.
+<SPEECH 39><ACT 5><SCENE 2><94%>
+	We may live, son, to shed many more.
+<SPEECH 40><ACT 5><SCENE 2><94%>
+	Prithee, son, do; for we must be gentle, now we are gentlemen.
+<SPEECH 41><ACT 5><SCENE 2><94%>
+	You may say it, but not swear it.
+<SPEECH 42><ACT 5><SCENE 2><94%>
+	How if it be false, son?

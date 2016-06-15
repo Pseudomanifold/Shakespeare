@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 4><SCENE 3><69%>
+	What, will he not to bed?
+<SPEECH 2><ACT 4><SCENE 3><69%>
+	To-morrow then belike shall be the day,
+	If Warwick be so near as men report.
+<SPEECH 3><ACT 4><SCENE 3><69%>
+	'Tis the more honour, because the more dangerous.
+<SPEECH 4><ACT 4><SCENE 3><69%>
+	Ay; wherefore else guard we his royal tent,
+	But to defend his person from night-foes?
+<SPEECH 5><ACT 4><SCENE 3><70%>
+	Stay, or thou diest.

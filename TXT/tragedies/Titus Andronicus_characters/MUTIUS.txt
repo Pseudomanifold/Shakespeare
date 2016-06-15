@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 1><SCENE 1><12%>
+	Brothers, help to convey her hence away,
+	And with my sword I'll keep this door safe.
+<SPEECH 2><ACT 1><SCENE 1><12%>
+	My lord, you pass not here.
+<SPEECH 3><ACT 1><SCENE 1><12%>
+	Help, Lucius, help!

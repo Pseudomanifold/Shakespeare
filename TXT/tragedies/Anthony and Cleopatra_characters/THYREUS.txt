@@ -1,0 +1,43 @@
+<SPEECH 1><ACT 3><SCENE X.— ><58%>
+	Cæsar, I go.
+<SPEECH 2><ACT 3><SCENE X.— ><58%>
+	Cæsar, I shall.
+<SPEECH 3><ACT 3><SCENE XI.— ><60%>
+	Hear it apart.
+<SPEECH 4><ACT 3><SCENE XI.— ><60%>
+	So, haply, are they friends to Antony.
+<SPEECH 5><ACT 3><SCENE XI.— ><60%>
+	So.
+	Thus then, thou most renown'd: Cæsar entreats,
+	Not to consider in what case thou stand'st,
+	Further than he is Cæsar.
+<SPEECH 6><ACT 3><SCENE XI.— ><60%>
+	He knows that you embrace not Antony
+	As you did love, but as you fear'd him.
+<SPEECH 7><ACT 3><SCENE XI.— ><60%>
+	The scars upon your honour therefore he
+	Does pity, as constrained blemishes,
+	Not as deserv'd.
+<SPEECH 8><ACT 3><SCENE XI.— ><61%>
+	Shall I say to Cæsar
+	What you require of him? for he partly begs
+	To be desir'd to give. It much would please him,
+	That of his fortunes you should make a staff
+	To lean upon; but it would warm his spirits
+	To hear from me you had left Antony,
+	And put yourself under his shroud,
+	The universal landlord.
+<SPEECH 9><ACT 3><SCENE XI.— ><61%>
+	My name is Thyreus.
+<SPEECH 10><ACT 3><SCENE XI.— ><61%>
+	'Tis your noblest course.
+	Wisdom and fortune combating together,
+	If that the former dare but what it can,
+	No chance may shake it. Give me grace to lay
+	My duty on your hand.
+<SPEECH 11><ACT 3><SCENE XI.— ><61%>
+	One that but performs
+	The bidding of the fullest man, and worthiest
+	To have command obey'd.
+<SPEECH 12><ACT 3><SCENE XI.— ><62%>
+	Mark Antony,—

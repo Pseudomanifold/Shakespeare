@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 3><SCENE 4><72%>
+	This is the man; do thy office.
+<SPEECH 2><ACT 3><SCENE 4><72%>
+	No, sir, no jot: I know your favour well,
+	Though now you have no sea-cap on your head.
+	Take him away: he knows I know him well.
+<SPEECH 3><ACT 3><SCENE 4><73%>
+	What's that to us? The time goes by: away!
+<SPEECH 4><ACT 3><SCENE 4><74%>
+	The man grows mad: away with him! Come, come, sir.
+<SPEECH 5><ACT 5><SCENE 1><86%>
+	Orsino, this is that Antonio
+	That took the Phœnix and her fraught from Candy;
+	And this is he that did the Tiger board,
+	When your young nephew Titus lost his leg.
+	Here in the streets, desperate of shame and state,
+	In private brabble did we apprehend him.

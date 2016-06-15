@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 4><SCENE 2><74%>
+	Which be the malefactors?
+<SPEECH 2><ACT 4><SCENE 2><75%>
+	But which are the offenders that are to be examined? let them come before Master constable.
+<SPEECH 3><ACT 4><SCENE 2><75%>
+	Master constable, you go not the way to examine: you must call forth the watch that are their accusers.
+<SPEECH 4><ACT 4><SCENE 2><76%>
+	What heard you him say else?
+<SPEECH 5><ACT 4><SCENE 2><76%>
+	What else, fellow?
+<SPEECH 6><ACT 4><SCENE 2><76%>
+	What else?
+<SPEECH 7><ACT 4><SCENE 2><76%>
+	And this is more, masters, than you can deny. Prince John is this morning secretly stolen away: Hero was in this manner accused, in this very manner refused, and, upon the grief of this, suddenly died. Master constable, let these men be bound, and brought to Leonato's: I will go before and show him their examination.

@@ -1,0 +1,40 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+	No, you shall paint when you are old.
+<SPEECH 2><ACT 1><SCENE 2><4%>
+	There's a palm presages chastity, if nothing else.
+<SPEECH 3><ACT 1><SCENE 2><4%>
+	Go, you wild bedfellow, you cannot soothsay.
+<SPEECH 4><ACT 1><SCENE 2><4%>
+	But how? but how? give me particulars.
+<SPEECH 5><ACT 1><SCENE 2><4%>
+	Am I not an inch of fortune better than she?
+<SPEECH 6><ACT 1><SCENE 2><4%>
+	Not in my husband's nose.
+<SPEECH 7><ACT 1><SCENE 2><4%>
+	Amen. Dear goddess, hear that prayer of the people! for, as it is a heart-breaking to see a handsome man loose-wived, so it is a deadly sorrow to behold a foul knave uncuckolded: therefore, dear Isis, keep decorum, and fortune him accordingly!
+<SPEECH 8><ACT 3><SCENE 1><56%>
+	Do, most dear queen.
+<SPEECH 9><ACT 3><SCENE 1><56%>
+	Madam; O good empress!
+<SPEECH 10><ACT 3><SCENE 1><56%>
+	Go to him, madam, speak to him;
+	He is unqualitied with very shame.
+<SPEECH 11><ACT 4><SCENE XIII.— ><85%>
+	She is dead too, our sovereign.
+<SPEECH 12><ACT 4><SCENE XIII.— ><85%>
+	Madam!
+<SPEECH 13><ACT 4><SCENE XIII.— ><85%>
+	Royal Egypt!
+	Empress!
+<SPEECH 14><ACT 5><SCENE 2><89%>
+	Royal queen!
+<SPEECH 15><ACT 5><SCENE 2><94%>
+	Finish, good lady; the bright day is done,
+	And we are for the dark.
+<SPEECH 16><ACT 5><SCENE 2><95%>
+	The gods forbid!
+<SPEECH 17><ACT 5><SCENE 2><95%>
+	O, the good gods!
+<SPEECH 18><ACT 5><SCENE 2><95%>
+	I'll never see it; for, I am sure my nails
+	Are stronger than mine eyes.

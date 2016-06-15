@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 2><SCENE 1><20%>
+	Heigh-ho! An't be not four by the day I'll be hanged: Charles' Wain is over the new chimney, and yet our horse not packed. What, ostler!
+<SPEECH 2><ACT 2><SCENE 1><20%>
+	I prithee, Tom, beat Cut's saddle, put a few flocks in the point; the poor jade is wrung in the withers out of all cess.
+<SPEECH 3><ACT 2><SCENE 1><20%>
+	Poor fellow! never joyed since the price of oats rose; it was the death of him.
+<SPEECH 4><ACT 2><SCENE 1><20%>
+	Like a tench! by the mass, there is ne'er a king christen could be better bit than I have been since the first cock.
+<SPEECH 5><ACT 2><SCENE 1><21%>
+	What, ostler! come away and be hanged, come away.
+<SPEECH 6><ACT 2><SCENE 1><21%>
+	Godsbody! the turkeys in my pannier are quite starved. What, ostler! A plague on thee! hast thou never an eye in thy head? canst not hear? An 'twere not as good a deed as drink to break the pate on thee, I am a very villain. Come, and be hanged! hast no faith in thee?
+<SPEECH 7><ACT 2><SCENE 1><21%>
+	I think it be two o'clock.
+<SPEECH 8><ACT 2><SCENE 1><21%>
+	Nay, by God, soft: I know a trick worth two of that, i' faith.

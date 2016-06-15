@@ -1,0 +1,73 @@
+<SPEECH 1><ACT 2><SCENE 4><29%>
+	That is the way to make her scorn you still.
+<SPEECH 2><ACT 2><SCENE 4><29%>
+	I partly guess, for I have lov'd ere now.
+<SPEECH 3><ACT 2><SCENE 4><29%>
+	Into a thousand that I have forgotten.
+<SPEECH 4><ACT 2><SCENE 4><31%>
+	Who calls?
+<SPEECH 5><ACT 2><SCENE 4><31%>
+	Else are they very wretched.
+<SPEECH 6><ACT 2><SCENE 4><31%>
+	And to you, gentle sir, and to you all.
+<SPEECH 7><ACT 2><SCENE 4><31%>
+	Fair sir, I pity her,
+	And wish, for her sake more than for mine own,
+	My fortunes were more able to relieve her;
+	But I am shepherd to another man,
+	And do not shear the fleeces that I graze:
+	My master is of churlish disposition
+	And little recks to find the way to heaven
+	By doing deeds of hospitality.
+	Besides, his cote, his flocks, and bounds of feed
+	Are now on sale; and at our sheepcote now,
+	By reason of his absence, there is nothing
+	That you will feed on; but what is, come see,
+	And in my voice most welcome shall you be.
+<SPEECH 8><ACT 2><SCENE 4><31%>
+	That young swain that you saw here but erewhile,
+	That little cares for buying anything.
+<SPEECH 9><ACT 2><SCENE 4><32%>
+	Assuredly the thing is to be sold:
+	Go with me: if you like upon report
+	The soil, the profit, and this kind of life,
+	I will your very faithful feeder be,
+	And buy it with your gold right suddenly.
+<SPEECH 10><ACT 3><SCENE 2><43%>
+	And how like you this shepherd's life, Master Touchstone?
+<SPEECH 11><ACT 3><SCENE 2><44%>
+	No more but that I know the more one sickens the worse at ease he is; and that he that wants money, means, and content, is without three good friends; that the property of rain is to wet, and fire to burn; that good pasture makes fat sheep, and that a great cause of the night is lack of the sun; that he that hath learned no wit by nature nor art may complain of good breeding, or comes of a very dull kindred.
+<SPEECH 12><ACT 3><SCENE 2><44%>
+	No, truly.
+<SPEECH 13><ACT 3><SCENE 2><44%>
+	Nay, I hope.
+<SPEECH 14><ACT 3><SCENE 2><44%>
+	For not being at court? Your reason.
+<SPEECH 15><ACT 3><SCENE 2><44%>
+	Not a whit, Touchstone: those that are good manners at the court, are as ridiculous in the country as the behaviour of the country is most mockable at the court. You told me you salute not at the court, but you kiss your hands; that courtesy would be uncleanly if courtiers were shepherds.
+<SPEECH 16><ACT 3><SCENE 2><45%>
+	Why, we are still handling our ewes, and their fells, you know, are greasy.
+<SPEECH 17><ACT 3><SCENE 2><45%>
+	Besides, our hands are hard.
+<SPEECH 18><ACT 3><SCENE 2><45%>
+	And they are often tarred over with the surgery of our sheep; and would you have us kiss tar? The courtier's hands are perfumed with civet.
+<SPEECH 19><ACT 3><SCENE 2><45%>
+	You have too courtly a wit for me: I'll rest.
+<SPEECH 20><ACT 3><SCENE 2><45%>
+	Sir, I am a true labourer: I earn that I eat, get that I wear, owe no man hate, envy no man's happiness, glad of other men's good, content with my harm; and the greatest of my pride is to see my ewes graze and my lambs suck.
+<SPEECH 21><ACT 3><SCENE 2><46%>
+	Here comes young Master Ganymede, my new mistress's brother.
+<SPEECH 22><ACT 3><SCENE 4><62%>
+	Mistress and master, you have oft inquir'd
+	After the shepherd that complain'd of love,
+	Who you saw sitting by me on the turf,
+	Praising the proud disdainful shepherdess
+	That was his mistress.
+<SPEECH 23><ACT 3><SCENE 4><63%>
+	If you will see a pageant truly play'd,
+	Between the pale complexion of true love
+	And the red glow of scorn and proud disdain,
+	Go hence a little, and I shall conduct you,
+	If you will mark it.
+<SPEECH 24><ACT 5><SCENE 1><85%>
+	Our master and mistress seek you: come, away, away!

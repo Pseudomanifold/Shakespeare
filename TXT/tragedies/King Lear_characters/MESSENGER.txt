@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 4><SCENE 2><70%>
+	O! my good lord, the Duke of Cornwall's dead;
+	Slain by his servant, going to put out
+	The other eye of Gloucester.
+<SPEECH 2><ACT 4><SCENE 2><70%>
+	A servant that he bred, thrill'd with remorse,
+	Oppos'd against the act, bending his sword
+	To his great master; who, thereat enrag'd,
+	Flew on him, and amongst them fell'd him dead;
+	But not without that harmful stroke, which since
+	Hath pluck'd him after.
+<SPEECH 3><ACT 4><SCENE 2><70%>
+	Both, both, my lord.
+	This letter, madam, craves a speedy answer;
+	'Tis from your sister.
+<SPEECH 4><ACT 4><SCENE 2><71%>
+	Come with my lady hither.
+<SPEECH 5><ACT 4><SCENE 2><71%>
+	No, my good lord; I met him back again.
+<SPEECH 6><ACT 4><SCENE 2><71%>
+	Ay, my good lord; 'twas he inform'd against him,
+	And quit the house on purpose that their punishment
+	Might have the freer course.
+<SPEECH 7><ACT 4><SCENE 4><73%>
+	News, madam;
+	The British powers are marching hitherward.

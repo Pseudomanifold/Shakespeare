@@ -1,0 +1,89 @@
+<SPEECH 1><ACT 5><SCENE 1><79%>
+	Be quiet, people. Wherefore throng you hither?
+<SPEECH 2><ACT 5><SCENE 1><79%>
+	How long hath this possession held the man?
+<SPEECH 3><ACT 5><SCENE 1><80%>
+	Hath he not lost much wealth by wrack of sea?
+	Buried some dear friend? Hath not else his eye
+	Stray'd his affection in unlawful love?
+	A sin prevailing much in youthful men,
+	Who give their eyes the liberty of gazing.
+	Which of these sorrows is he subject to?
+<SPEECH 4><ACT 5><SCENE 1><80%>
+	You should for that have reprehended him.
+<SPEECH 5><ACT 5><SCENE 1><80%>
+	Ay, but not rough enough.
+<SPEECH 6><ACT 5><SCENE 1><80%>
+	Haply, in private.
+<SPEECH 7><ACT 5><SCENE 1><80%>
+	Ay, but not enough.
+<SPEECH 8><ACT 5><SCENE 1><81%>
+	And thereof came it that the man was mad:
+	The venom clamours of a jealous woman
+	Poison more deadly than a mad dog's tooth.
+	It seems, his sleeps were hinder'd by thy railing,
+	And thereof comes it that his head is light.
+	Thou say'st his meat was sauc'd with thy upbraidings:
+	Unquiet meals make ill digestions;
+	Thereof the raging fire of fever bred:
+	And what's a fever but a fit of madness?
+	Thou say'st his sports were hinder'd by thy brawls:
+	Sweet recreation barr'd, what doth ensue
+	But moody moping, and dull melancholy,
+	Kinsman to grim and comfortless despair,
+	And at her heels a huge infectious troop
+	Of pale distemperatures and foes to life?
+	In food, in sport, and life-preserving rest
+	To be disturb'd, would mad or man or beast:
+	The consequence is then, thy jealous fits
+	Have scar'd thy husband from the use of wits.
+<SPEECH 9><ACT 5><SCENE 1><82%>
+	No; not a creature enters in my house.
+<SPEECH 10><ACT 5><SCENE 1><82%>
+	Neither: he took this place for sanctuary,
+	And it shall privilege him from your hands
+	Till I have brought him to his wits again,
+	Or lose my labour in assaying it.
+<SPEECH 11><ACT 5><SCENE 1><82%>
+	Be patient; for I will not let him stir
+	Till I have us'd the approved means I have,
+	With wholesome syrups, drugs, and holy prayers,
+	To make of him a formal man again.
+	It is a branch and parcel of mine oath,
+	A charitable duty of my order;
+	Therefore depart and leave him here with me.
+<SPEECH 12><ACT 5><SCENE 1><83%>
+	Be quiet, and depart: thou shalt not have him.
+<SPEECH 13><ACT 5><SCENE 1><95%>
+	Most mighty duke, behold a man much wrong'd.
+<SPEECH 14><ACT 5><SCENE 1><95%>
+	Whoever bound him, I will loose his bonds,
+	And gain a husband by his liberty.
+	Speak, old Ægeon, if thou be'st the man
+	That hadst a wife once call'd Æmilia,
+	That bore thee at a burden two fair sons.
+	O! if thou be'st the same Ægeon, speak,
+	And speak unto the same Æmilia!
+<SPEECH 15><ACT 5><SCENE 1><96%>
+	By men of Epidamnum, he and I,
+	And the twin Dromio, all were taken up:
+	But by and by rude fishermen of Corinth
+	By force took Dromio and my son from them,
+	And me they left with those of Epidamnum.
+	What then became of them, I cannot tell;
+	I to this fortune that you see me in.
+<SPEECH 16><ACT 5><SCENE 1><98%>
+	Renowned duke, vouchsafe to take the pains
+	To go with us into the abbey here,
+	And hear at large discoursed all our fortunes;
+	And all that are assembled in this place,
+	That by this sympathized one day's error
+	Have suffer'd wrong, go keep us company,
+	And we shall make full satisfaction.
+	Thirty-three years have I but gone in travail
+	Of you, my sons; and, till this present hour
+	My heavy burdens ne'er delivered.
+	The duke, my husband, and my children both,
+	And you the calendars of their nativity,
+	Go to a gossip's feast, and joy with me:
+	After so long grief such festivity!

@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 3><SCENE 4><72%>
+	Antonio, I arrest thee at the suit
+	Of Count Orsino.
+<SPEECH 2><ACT 3><SCENE 4><72%>
+	Come, sir, away.
+<SPEECH 3><ACT 3><SCENE 4><73%>
+	Come, sir: I pray you, go.

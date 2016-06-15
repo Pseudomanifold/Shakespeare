@@ -1,0 +1,46 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+	Your will?
+<SPEECH 2><ACT 1><SCENE 2><3%>
+	In nature's infinite book of secrecy
+	A little I can read.
+<SPEECH 3><ACT 1><SCENE 2><3%>
+	I make not, but foresee.
+<SPEECH 4><ACT 1><SCENE 2><3%>
+	You shall be yet far fairer than you are.
+<SPEECH 5><ACT 1><SCENE 2><3%>
+	You shall be more beloving than belov'd.
+<SPEECH 6><ACT 1><SCENE 2><3%>
+	You shall outlive the lady whom you serve.
+<SPEECH 7><ACT 1><SCENE 2><3%>
+	You have seen and prov'd a fairer former fortune
+	Than that which is to approach.
+<SPEECH 8><ACT 1><SCENE 2><3%>
+	If every of your wishes had a womb,
+	And fertile every wish, a million.
+<SPEECH 9><ACT 1><SCENE 2><4%>
+	Your fortunes are alike.
+<SPEECH 10><ACT 1><SCENE 2><4%>
+	I have said.
+<SPEECH 11><ACT 2><SCENE 3><26%>
+	Would I had never come from thence, nor you
+	Thither!
+<SPEECH 12><ACT 2><SCENE 3><26%>
+	I see it in
+	My motion, have it not in my tongue: but yet
+	Hie you to Egypt again.
+<SPEECH 13><ACT 2><SCENE 3><26%>
+	Cæsar's.
+	Therefore, O Antony! stay not by his side;
+	Thy demon—that's thy spirit which keeps thee,—is
+	Noble, courageous, high, unmatchable,
+	Where Cæsar's is not; but near him thy angel
+	Becomes a fear, as being o'erpower'd; therefore
+	Make space enough between you.
+<SPEECH 14><ACT 2><SCENE 3><26%>
+	To none but thee; no more but when to thee.
+	If thou dost play with him at any game
+	Thou art sure to lose, and, of that natural luck,
+	He beats thee 'gainst the odds; thy lustre thickens
+	When he shines by. I say again, thy spirit
+	Is all afraid to govern thee near him,
+	But he away, 'tis noble.

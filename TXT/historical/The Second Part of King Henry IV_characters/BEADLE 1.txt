@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 5><SCENE 4><95%>
+	The constables have delivered her over to me, and she shall have whipping-cheer enough, I warrant her: there hath been a man or two lately killed about her.
+<SPEECH 2><ACT 5><SCENE 4><95%>
+	If it do, you shall have a dozen of cushions again; you have but eleven now. Come, I charge you both go with me; for the man is dead that you and Pistol beat among you.
+<SPEECH 3><ACT 5><SCENE 4><95%>
+	Come, come, you she knighterrant, come.
+<SPEECH 4><ACT 5><SCENE 4><95%>
+	Very well.

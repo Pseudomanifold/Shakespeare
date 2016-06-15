@@ -1,0 +1,189 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	I do it not in evil disposition,
+	But from Lord Angelo by special charge.
+<SPEECH 2><ACT 1><SCENE 2><8%>
+	Away, sir! you must go.
+<SPEECH 3><ACT 2><SCENE 1><16%>
+	Here, if it like your honour.
+<SPEECH 4><ACT 2><SCENE 2><25%>
+	Pray you, do. <STAGE DIR>
+	</STAGE DIR> I'll know
+	His pleasure; may be he will relent. Alas!
+	He hath but as offended in a dream:
+	All sects, all ages smack of this vice, and he
+	To die for it!
+<SPEECH 5><ACT 2><SCENE 2><25%>
+	Is it your will Claudio shall die to-morrow?
+<SPEECH 6><ACT 2><SCENE 2><25%>
+	Lest I might be too rash.
+	Under your good correction, I have seen,
+	When, after execution, Judgment hath
+	Repented o'er his doom.
+<SPEECH 7><ACT 2><SCENE 2><26%>
+	I crave your honour's pardon.
+	What shall be done, sir, with the groaning Juliet?
+	She's very near her hour.
+<SPEECH 8><ACT 2><SCENE 2><26%>
+	Ay, my good lord; a very virtuous maid,
+	And to be shortly of a sisterhood,
+	If not already.
+<SPEECH 9><ACT 2><SCENE 2><26%>
+	God save your honour!
+<SPEECH 10><ACT 2><SCENE 2><27%>
+	</STAGE DIR> Heaven give thee moving graces!
+<SPEECH 11><ACT 2><SCENE 2><30%>
+	</STAGE DIR> Pray heaven she win him!
+<SPEECH 12><ACT 2><SCENE 3><33%>
+	I am the provost. What's your will, good friar?
+<SPEECH 13><ACT 2><SCENE 3><33%>
+	I would do more than that, if more were needful.
+	Look, here comes one: a gentlewoman of mine,
+	Who, falling in the flaws of her own youth,
+	Hath blister'd her report. She is with child,
+	And he that got it, sentenc'd; a young man
+	More fit to do another such offence,
+	Than die for this.
+<SPEECH 14><ACT 2><SCENE 3><33%>
+	As I do think, to-morrow.
+	</STAGE DIR> I have provided for you: stay a while,
+	And you shall be conducted.
+<SPEECH 15><ACT 2><SCENE 3><34%>
+	'Tis pity of him.
+<SPEECH 16><ACT 3><SCENE 1><42%>
+	Who's there? come in: the wish deserves a welcome.
+<SPEECH 17><ACT 3><SCENE 1><42%>
+	And very welcome. Look, signior; here's your sister.
+<SPEECH 18><ACT 3><SCENE 1><43%>
+	As many as you please.
+<SPEECH 19><ACT 3><SCENE 1><47%>
+	What's your will, father?
+<SPEECH 20><ACT 3><SCENE 1><47%>
+	In good time.
+<SPEECH 21><ACT 3><SCENE 2><57%>
+	A bawd of eleven years' continuance, may it please your honour.
+<SPEECH 22><ACT 3><SCENE 2><58%>
+	So please you, this friar hath been with him, and advised him for the entertainment of death.
+<SPEECH 23><ACT 4><SCENE 2><63%>
+	Come hither, sirrah. Can you cut off a man's head?
+<SPEECH 24><ACT 4><SCENE 2><63%>
+	Come, sir, leave me your snatches, and yield me a direct answer. To-morrow morning are to die Claudio and Barnardine. Here is in our prison a common executioner, who in his office lacks a helper: if you will take it on you to assist him, it shall redeem you from your gyves; if not, you shall have your full time of imprisonment, and your deliverance with an unpitied whipping, for you have been a notorious bawd.
+<SPEECH 25><ACT 4><SCENE 2><64%>
+	What ho, Abhorson! Where's Abhorson, there?
+<SPEECH 26><ACT 4><SCENE 2><64%>
+	Sirrah, here's a fellow will help you to-morrow in your execution. If you think it meet, compound with him by the year, and let him abide here with you; if not, use him for the present, and dismiss him. He cannot plead his estimation with you; he hath been a bawd.
+<SPEECH 27><ACT 4><SCENE 2><64%>
+	Go to, sir; you weigh equally; a feather will turn the scale.
+<SPEECH 28><ACT 4><SCENE 2><65%>
+	Are you agreed?
+<SPEECH 29><ACT 4><SCENE 2><65%>
+	You, sirrah, provide your block and your axe to-morrow four o'clock.
+<SPEECH 30><ACT 4><SCENE 2><65%>
+	Call hither Barnardine and Claudio:
+	The one has my pity; not a jot the other,
+	Being a murderer, though he were my brother.
+	Look, here's the warrant, Claudio, for thy death:
+	'Tis now dead midnight, and by eight to-morrow
+	Thou must be made immortal. Where's Barnardine?
+<SPEECH 31><ACT 4><SCENE 2><66%>
+	Who can do good on him?
+	Well, go; prepare yourself. <STAGE DIR>
+	</STAGE DIR> But hark, what noise?—
+	Heaven give your spirits comfort!—<STAGE DIR>
+	</STAGE DIR> By and by.
+	I hope it is some pardon or reprieve
+	For the most gentle Claudio.
+	Welcome, father.
+<SPEECH 32><ACT 4><SCENE 2><66%>
+	None since the curfew rung.
+<SPEECH 33><ACT 4><SCENE 2><66%>
+	No.
+<SPEECH 34><ACT 4><SCENE 2><66%>
+	What comfort is for Claudio?
+<SPEECH 35><ACT 4><SCENE 2><66%>
+	It is a bitter deputy.
+<SPEECH 36><ACT 4><SCENE 2><67%>
+	There he must stay until the officer
+	Arise to let him in; he is call'd up.
+<SPEECH 37><ACT 4><SCENE 2><67%>
+	None, sir, none.
+<SPEECH 38><ACT 4><SCENE 2><67%>
+	Happily
+	You something know; yet, I believe there comes
+	No countermand: no such example have we.
+	Besides, upon the very siege of justice,
+	Lord Angelo hath to the public ear
+	Profess'd the contrary.
+	This is his lordship's man.
+<SPEECH 39><ACT 4><SCENE 2><67%>
+	I shall obey him.
+<SPEECH 40><ACT 4><SCENE 2><68%>
+	I told you; Lord Angelo, belike thinking me remiss in mine office, awakens me with this unwonted putting on; methinks strangely, for he hath not used it before.
+<SPEECH 41><ACT 4><SCENE 2><68%>
+	Whatsoever you may hear to the contrary, let Claudio be executed by four of the clock; and, in the afternoon, Barnardine. For my better satisfaction, let me have Claudio's head sent me by five. Let this be duly performed; with a thought that more depends on it than we must yet deliver. Thus fail not to do your office, as you will answer it at your peril.
+	What say you to this, sir?
+<SPEECH 42><ACT 4><SCENE 2><68%>
+	A Bohemian born, but here nursed up and bred; one that is a prisoner nine years old.
+<SPEECH 43><ACT 4><SCENE 2><68%>
+	His friends still wrought reprieves for him; and, indeed, his fact, till now in the government of Lord Angelo, came not to an undoubtful proof.
+<SPEECH 44><ACT 4><SCENE 2><68%>
+	Most manifest, and not denied by himself.
+<SPEECH 45><ACT 4><SCENE 2><68%>
+	A man that apprehends death no more dreadfully but as a drunken sleep; careless, reckless, and fearless of what's past, present, or to come; insensible of mortality, and desperately mortal.
+<SPEECH 46><ACT 4><SCENE 2><69%>
+	He will hear none. He hath evermore had the liberty of the prison: give him leave to escape hence, he would not: drunk many times a day, if not many days entirely drunk. We have very oft awaked him, as if to carry him to execution, and showed him a seeming warrant for it: it hath not moved him at all.
+<SPEECH 47><ACT 4><SCENE 2><69%>
+	Pray, sir, in what?
+<SPEECH 48><ACT 4><SCENE 2><69%>
+	Alack! how may I do it, having the hour limited, and an express command, under penalty, to deliver his head in the view of Angelo? I may make my case as Claudio's to cross this in the smallest.
+<SPEECH 49><ACT 4><SCENE 2><70%>
+	Angelo hath seen them both, and will discover the favour.
+<SPEECH 50><ACT 4><SCENE 2><70%>
+	Pardon me, good father; it is against my oath.
+<SPEECH 51><ACT 4><SCENE 2><70%>
+	To him, and to his substitutes.
+<SPEECH 52><ACT 4><SCENE 2><70%>
+	But what likelihood is in that?
+<SPEECH 53><ACT 4><SCENE 2><70%>
+	I know them both.
+<SPEECH 54><ACT 4><SCENE 3><73%>
+	Now, sir, how do you find the prisoner?
+<SPEECH 55><ACT 4><SCENE 3><74%>
+	Here in the prison, father,
+	There died this morning of a cruel fever
+	One Ragozine, a most notorious pirate,
+	A man of Claudio's years; his beard and head
+	Just of his colour. What if we do omit
+	This reprobate till he were well inclin'd,
+	And satisfy the deputy with the visage
+	Of Ragozine, more like to Claudio?
+<SPEECH 56><ACT 4><SCENE 3><74%>
+	This shall be done, good father, presently.
+	But Barnardine must die this afternoon:
+	And how shall we continue Claudio,
+	To save me from the danger that might come
+	If he were known alive?
+<SPEECH 57><ACT 4><SCENE 3><74%>
+	I am your free dependant.
+<SPEECH 58><ACT 4><SCENE 3><75%>
+	Here is the head; I'll carry it myself.
+<SPEECH 59><ACT 4><SCENE 3><75%>
+	I'll make all speed.
+<SPEECH 60><ACT 5><SCENE 1><97%>
+	It was commanded so.
+<SPEECH 61><ACT 5><SCENE 1><97%>
+	No, my good lord; it was by private message.
+<SPEECH 62><ACT 5><SCENE 1><97%>
+	Pardon me, noble lord:
+	I thought it was a fault, but knew it not,
+	Yet did repent me, after more advice;
+	For testimony whereof, one in the prison,
+	That should by private order else have died
+	I have reserv'd alive.
+<SPEECH 63><ACT 5><SCENE 1><97%>
+	His name is Barnardine.
+<SPEECH 64><ACT 5><SCENE 1><98%>
+	This, my lord.
+<SPEECH 65><ACT 5><SCENE 1><98%>
+	This is another prisoner that I sav'd,
+	That should have died when Claudio lost his head,
+	As like almost to Claudio as himself.

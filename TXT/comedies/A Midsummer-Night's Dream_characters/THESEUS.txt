@@ -1,0 +1,261 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Now, fair Hippolyta, our nuptial hour
+	Draws on apace: four happy days bring in
+	Another moon; but O! methinks how slow
+	This old moon wanes; she lingers my desires,
+	Like to a step dame, or a dowager
+	Long withering out a young man's revenue.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Go, Philostrate,
+	Stir up the Athenian youth to merriments;
+	Awake the pert and nimble spirit of mirth;
+	Turn melancholy forth to funerals;
+	The pale companion is not for our pomp.
+	Hippolyta, I woo'd thee with my sword,
+	And won thy love doing thee injuries;
+	But I will wed thee in another key,
+	With pomp, with triumph, and with revelling.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Thanks, good Egeus: what's the news with thee?
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	What say you, Hermia? be advis'd, fair maid.
+	To you, your father should be as a god;
+	One that compos'd your beauties, yea, and one
+	To whom you are but as a form in wax
+	By him imprinted, and within his power
+	To leave the figure or disfigure it.
+	Demetrius is a worthy gentleman.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	In himself he is;
+	But, in this kind, wanting your father's voice,
+	The other must be held the worthier.
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	Rather your eyes must with his judgment look.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	Either to die the death, or to abjure
+	For ever the society of men.
+	Therefore, fair Hermia, question your desires;
+	Know of your youth, examine well your blood,
+	Whe'r, if you yield not to your father's choice,
+	You can endure the livery of a nun,
+	For aye to be in shady cloister mew'd,
+	To live a barren sister all your life,
+	Chanting faint hymns to the cold fruitless moon.
+	Thrice blessed they that master so their blood,
+	To undergo such maiden pilgrimage;
+	But earthlier happy is the rose distill'd,
+	Than that which withering on the virgin thorn
+	Grows, lives, and dies, in single blessedness.
+<SPEECH 8><ACT 1><SCENE 1><4%>
+	Take time to pause; and, by the next new moon,—
+	The sealing-day betwixt my love and me
+	For everlasting bond of fellowship,—
+	Upon that day either prepare to die
+	For disobedience to your father's will,
+	Or else to wed Demetrius, as he would;
+	Or on Diana's altar to protest
+	For aye austerity and single life.
+<SPEECH 9><ACT 1><SCENE 1><5%>
+	I must confess that I have heard so much,
+	And with Demetrius thought to have spoke thereof;
+	But, being over-full of self-affairs,
+	My mind did lose it. But, Demetrius, come;
+	And come, Egeus; you shall go with me,
+	I have some private schooling for you both.
+	For you, fair Hermia, look you arm yourself
+	To fit your fancies to your father's will,
+	Or else the law of Athens yields you up,
+	Which by no means we may extenuate,
+	To death, or to a vow of single life.
+	Come, my Hippolyta: what cheer, my love?
+	Demetrius and Egeus, go along:
+	I must employ you in some business
+	Against our nuptial, and confer with you
+	Of something nearly that concerns yourselves.
+<SPEECH 10><ACT 4><SCENE 1><73%>
+	Go, one of you, find out the forester;
+	For now our observation is perform'd;
+	And since we have the vaward of the day,
+	My love shall hear the music of my hounds.
+	Uncouple in the western valley; let them go:
+	Dispatch, I say, and find the forester.
+	We will, fair queen, up to the mountain's top,
+	And mark the musical confusion
+	Of hounds and echo in conjunction.
+<SPEECH 11><ACT 4><SCENE 1><74%>
+	My hounds are bred out of the Spartan kind,
+	So flew'd, so sanded; and their heads are hung
+	With ears that sweep away the morning dew;
+	Crook-knee'd, and dew-lapp'd like Thessalian bulls;
+	Slow in pursuit, but match'd in mouth like bells,
+	Each under each. A cry more tuneable
+	Was never holla'd to, nor cheer'd with horn,
+	In Crete, in Sparta, nor in Thessaly:
+	Judge, when you hear. But, soft! what nymphs are these?
+<SPEECH 12><ACT 4><SCENE 1><74%>
+	No doubt they rose up early to observe
+	The rite of May, and, hearing our intent,
+	Came here in grace of our solemnity.
+	But speak, Egeus, is not this the day
+	That Hermia should give answer of her choice?
+<SPEECH 13><ACT 4><SCENE 1><74%>
+	Go, bid the huntsmen wake them with their horns.
+	Good morrow, friends. Saint Valentine is past:
+	Begin these wood-birds but to couple now?
+<SPEECH 14><ACT 4><SCENE 1><75%>
+	I pray you all, stand up.
+	I know you two are rival enemies:
+	How comes this gentle concord in the world,
+	That hatred is so far from jealousy,
+	To sleep by hate, and fear no enmity?
+<SPEECH 15><ACT 4><SCENE 1><76%>
+	Fair lovers, you are fortunately met:
+	Of this discourse we more will hear anon.
+	Egeus, I will overbear your will,
+	For in the temple, by and by, with us,
+	These couples shall eternally be knit:
+	And, for the morning now is something worn,
+	Our purpos'd hunting shall be set aside.
+	Away with us, to Athens: three and three,
+	We'll hold a feast in great solemnity.
+	Come, Hippolyta.
+<SPEECH 16><ACT 5><SCENE 1><81%>
+	More strange than true. I never may believe
+	These antique fables, nor these fairy toys.
+	Lovers and madmen have such seething brains,
+	Such shaping fantasies, that apprehend
+	More than cool reason ever comprehends.
+	The lunatic, the lover, and the poet,
+	Are of imagination all compact:
+	One sees more devils than vast hell can hold,
+	That is, the madman; the lover, all as frantic,
+	Sees Helen's beauty in a brow of Egypt:
+	The poet's eye, in a fine frenzy rolling,
+	Doth glance from heaven to earth, from earth to heaven;
+	And, as imagination bodies forth
+	The forms of things unknown, the poet's pen
+	Turns them to shapes, and gives to airy nothing
+	A local habitation and a name.
+	Such tricks hath strong imagination,
+	That, if it would but apprehend some joy,
+	It comprehends some bringer of that joy;
+	Or in the night, imagining some fear,
+	How easy is a bush suppos'd a bear!
+<SPEECH 17><ACT 5><SCENE 1><82%>
+	Here come the lovers, full of joy and mirth.
+	Joy, gentle friends! joy, and fresh days of love
+	Accompany your hearts!
+<SPEECH 18><ACT 5><SCENE 1><82%>
+	Come now; what masques, what dances shall we have,
+	To wear away this long age of three hours
+	Between our after-supper and bed-time?
+	Where is our usual manager of mirth?
+	What revels are in hand? Is there no play,
+	To ease the anguish of a torturing hour?
+	Call Philostrate.
+<SPEECH 19><ACT 5><SCENE 1><83%>
+	Say, what abridgment have you for this evening?
+	What masque? what music? How shall we beguile
+	The lazy time, if not with some delight?
+<SPEECH 20><ACT 5><SCENE 1><83%>
+	The battle with the Centaurs, to be sung
+	By an Athenian eunuch to the harp.
+	We'll none of that: that have I told my love,
+	In glory of my kinsman Hercules.
+	The riot of the tipsy Bacchanals,
+	Tearing the Thracian singer in their rage.
+	That is an old device; and it was play'd
+	When I from Thebes came last a conqueror.
+	The thrice three Muses mourning for the death
+	Of Learning, late deceas'd in beggary.
+	That is some satire keen and critical,
+	Not sorting with a nuptial ceremony.
+	A tedious brief scene of young Pyramus
+	And his love Thisbe; very tragical mirth.
+	Merry and tragical! tedious and brief!
+	That is, hot ice and wonderous strange snow.
+	How shall we find the concord of this discord?
+<SPEECH 21><ACT 5><SCENE 1><84%>
+	What are they that do play it?
+<SPEECH 22><ACT 5><SCENE 1><84%>
+	And we will hear it.
+<SPEECH 23><ACT 5><SCENE 1><85%>
+	I will hear that play;
+	For never anything can be amiss,
+	When simpleness and duty tender it.
+	Go, bring them in: and take your places, ladies.
+<SPEECH 24><ACT 5><SCENE 1><85%>
+	Why, gentle sweet, you shall see no such thing.
+<SPEECH 25><ACT 5><SCENE 1><85%>
+	The kinder we, to give them thanks for nothing.
+	Our sport shall be to take what they mistake:
+	And what poor duty cannot do, noble respect
+	Takes it in might, not merit.
+	Where I have come, great clerks have purposed
+	To greet me with premeditated welcomes;
+	Where I have seen them shiver and look pale,
+	Make periods in the midst of sentences,
+	Throttle their practis'd accent in their fears,
+	And, in conclusion, dumbly have broke off,
+	Not paying me a welcome. Trust me, sweet,
+	Out of this silence yet I pick'd a welcome;
+	And in the modesty of fearful duty
+	I read as much as from the rattling tongue
+	Of saucy and audacious eloquence.
+	Love, therefore, and tongue-tied simplicity
+	In least speak most, to my capacity.
+<SPEECH 26><ACT 5><SCENE 1><86%>
+	Let him approach.
+<SPEECH 27><ACT 5><SCENE 1><86%>
+	This fellow doth not stand upon points.
+<SPEECH 28><ACT 5><SCENE 1><87%>
+	His speech was like a tangled chain; nothing impaired, but all disordered. Who is next?
+<SPEECH 29><ACT 5><SCENE 1><88%>
+	I wonder, if the lion be to speak.
+<SPEECH 30><ACT 5><SCENE 1><89%>
+	Would you desire lime and hair to speak better?
+<SPEECH 31><ACT 5><SCENE 1><89%>
+	Pyramus draws near the wall: silence!
+<SPEECH 32><ACT 5><SCENE 1><90%>
+	The wall, methinks, being sensible, should curse again.
+<SPEECH 33><ACT 5><SCENE 1><91%>
+	Now is the mural down between the two neighbours.
+<SPEECH 34><ACT 5><SCENE 1><91%>
+	The best in this kind are but shadows, and the worst are no worse, if imagination amend them.
+<SPEECH 35><ACT 5><SCENE 1><91%>
+	If we imagine no worse of them than they of themselves, they may pass for excellent men. Here come two noble beasts in, a man and a lion.
+<SPEECH 36><ACT 5><SCENE 1><92%>
+	A very gentle beast, and of a good conscience.
+<SPEECH 37><ACT 5><SCENE 1><92%>
+	True; and a goose for his discretion.
+<SPEECH 38><ACT 5><SCENE 1><92%>
+	His discretion, I am sure, cannot carry his valour, for the goose carries not the fox. It is well: leave it to his discretion, and let us listen to the moon.
+<SPEECH 39><ACT 5><SCENE 1><92%>
+	He is no crescent, and his horns are invisible within the circumference.
+<SPEECH 40><ACT 5><SCENE 1><93%>
+	This is the greatest error of all the rest.
+	The man should be put into the lanthorn: how is it else the man i' the moon?
+<SPEECH 41><ACT 5><SCENE 1><93%>
+	It appears, by his small light of discretion, that he is in the wane; but yet, in courtesy, in all reason, we must stay the time.
+<SPEECH 42><ACT 5><SCENE 1><93%>
+	Well run, Thisbe.
+<SPEECH 43><ACT 5><SCENE 1><94%>
+	Well moused, Lion.
+<SPEECH 44><ACT 5><SCENE 1><94%>
+	This passion, and the death of a dear friend, would go near to make a man look sad.
+<SPEECH 45><ACT 5><SCENE 1><95%>
+	With the help of a surgeon, he might yet recover, and prove an ass.
+<SPEECH 46><ACT 5><SCENE 1><95%>
+	She will find him by starlight. Here she comes; and her passion ends the play.
+<SPEECH 47><ACT 5><SCENE 1><96%>
+	Moonshine and Lion are left to bury the dead.
+<SPEECH 48><ACT 5><SCENE 1><97%>
+	No epilogue, I pray you; for your play needs no excuse. Never excuse; for when the players are all dead, there need none to be blamed. Marry, if he that writ it had played Pyramus, and hanged himself in Thisbe's garter, it would have been a fine tragedy: and so it is, truly, and very notably discharged. But come, your Bergomask: let your epilogue alone.
+	The iron tongue of midnight hath told twelve;
+	Lovers, to bed; 'tis almost fairy time.
+	I fear we shall out-sleep the coming morn,
+	As much as we this night have overwatch'd.
+	This palpable-gross play hath well beguil'd
+	The heavy gait of night. Sweet friends, to bed.
+	A fortnight hold we this solemnity,
+	In nightly revels, and new jollity.

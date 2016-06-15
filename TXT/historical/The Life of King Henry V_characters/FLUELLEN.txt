@@ -1,0 +1,143 @@
+<SPEECH 1><ACT 3><SCENE 2><33%>
+	Up to the breach, you dogs! avaunt, you cullions!
+<SPEECH 2><ACT 3><SCENE 2><35%>
+	To the mines! tell you the duke it is not so good to come to the mines. For look you, the mines is not according to the disciplines of the war; the concavities of it is not sufficient; for, look you, th' athversary—you may discuss unto the duke, look you—is digt himself four yards under the countermines; by Cheshu, I think, a' will plow up all if there is not better directions.
+<SPEECH 3><ACT 3><SCENE 2><35%>
+	It is Captain Macmorris, is it not?
+<SPEECH 4><ACT 3><SCENE 2><35%>
+	By Cheshu, he is an ass, as in the world:
+	I will verify as much in his peard: he has no more directions in the true disciplines of the wars, look you, of the Roman disciplines, than is a puppy-dog.
+<SPEECH 5><ACT 3><SCENE 2><35%>
+	Captain Jamy is a marvellous falorous gentleman, that is certain; and of great expedition and knowledge in th' aunchient wars, upon my particular knowledge of his directions: by Cheshu, he will maintain his argument as well as any military man in the world, in the disciplines of the pristine wars of the Romans.
+<SPEECH 6><ACT 3><SCENE 2><35%>
+	God-den to your worship, good Captain James.
+<SPEECH 7><ACT 3><SCENE 2><36%>
+	Captain Macmorris, I beseech you now, will you voutsafe me, look you, a few disputations with you, as partly touching or concerning the disciplines of the war, the Roman wars, in the way of argument, look you, and friendly communication; partly to satisfy my opinion, and partly for the satisfaction, look you, of my mind, as touching the direction of the military discipline: that is the point.
+<SPEECH 8><ACT 3><SCENE 2><37%>
+	Captain Macmorris, I think, look you, under your correction, there is not many of your nation—
+<SPEECH 9><ACT 3><SCENE 2><37%>
+	Look you, if you take the matter otherwise than is meant, Captain Macmorris, peradventure I shall think you do not use me with that affability as in discretion you ought to use me, look you; being as good a man as yourself, both in the disciplines of wars, and in the derivation of my birth, and in other particularities.
+<SPEECH 10><ACT 3><SCENE 2><37%>
+	Captain Macmorris, when there is more better opportunity to be required, look you, I will be so bold as to tell you I know the disciplines of wars; and there is an end.
+<SPEECH 11><ACT 3><SCENE 6><43%>
+	I assure you, there is very excellent services committed at the pridge.
+<SPEECH 12><ACT 3><SCENE 6><43%>
+	The Duke of Exeter is as magnanimous as Agamemnon; and a man that I love and honour with my soul, and my heart, and my duty, and my life, and my living, and my uttermost power: he is not—God be praised and plessed!—any hurt in the world; but keeps the pridge most valiantly, with excellent discipline. There is an aunchient lieutenant there at the pridge, I think, in my very conscience, he is as valiant a man as Mark Antony; and he is a man of no estimation in the world; but I did see him do as gallant service.
+<SPEECH 13><ACT 3><SCENE 6><43%>
+	He is called Aunchient Pistol.
+<SPEECH 14><ACT 3><SCENE 6><43%>
+	Here is the man.
+<SPEECH 15><ACT 3><SCENE 6><44%>
+	Ay, I praise God; and I have merited some love at his hands.
+<SPEECH 16><ACT 3><SCENE 6><44%>
+	By your patience, Aunchient Pistol. Fortune is painted plind, with a muffler afore her eyes, to signify to you that Fortune is plind: and she is painted also with a wheel, to signify to you, which is the moral of it, that she is turning, and inconstant, and mutability, and variation: and her foot, look you, is fixed upon a spherical stone, which rolls, and rolls, and rolls: in good truth, the poet makes a most excellent description of it: Fortune is an excellent moral.
+<SPEECH 17><ACT 3><SCENE 6><44%>
+	Aunchient Pistol, I do partly understand your meaning.
+<SPEECH 18><ACT 3><SCENE 6><44%>
+	Certainly, aunchient, it is not a thing to rejoice at; for, if, look you, he were my brother, I would desire the duke to use his good pleasure and put him to execution; for discipline ought to be used.
+<SPEECH 19><ACT 3><SCENE 6><45%>
+	It is well.
+<SPEECH 20><ACT 3><SCENE 6><45%>
+	Very good.
+<SPEECH 21><ACT 3><SCENE 6><45%>
+	I'll assure you a' uttered as prave words at the pridge as you shall see in a summer's day. But it is very well; what he has spoke to me, that is well, I warrant you, when time is serve.
+<SPEECH 22><ACT 3><SCENE 6><45%>
+	I tell you what, Captain Gower; I do perceive, he is not the man that he would gladly make show to the world he is: if I find a hole in his coat I will tell him my mind. <STAGE DIR>
+	</STAGE DIR> Hark you, the king is coming; and I must speak with him from the pridgo.
+<SPEECH 23><ACT 3><SCENE 6><46%>
+	God pless your majesty!
+<SPEECH 24><ACT 3><SCENE 6><46%>
+	Ay, so please your majesty. The Duke of Exeter hath very gallantly maintained the pridge: the French is gone off, look you, and there is gallant and most prave passages. Marry, th' athversary was have possession of the pridge, but he is enforced to retire, and the Duke of Exeter is master of the pridge. I can tell your majesty the duke is a prave man.
+<SPEECH 25><ACT 3><SCENE 6><46%>
+	The perdition of th' athversary hath been very great, reasonable great: marry, for my part, I think the duke hath lost never a man but one that is like to be executed for robbing a church; one Bardolph, if your majesty know the man: his face is all bubukles, and whelks, and knobs, and flames o' fire; and his lips blows at his nose, and it is like a coal of fire, sometimes plue and sometimes red; but his nose is executed, and his fire's out.
+<SPEECH 26><ACT 4><SCENE 1><56%>
+	Sol in the name of Cheshu Christ, speak lower. It is the greatest admiration in the universal world, when the true and auncient prerogatifes and laws of the wars is not kept. If you would take the pains but to examine the wars of Pompey the Great, you shall find, I warrant you, that there is no tiddle-taddle nor pibble-pabble in Pompey's camp; I warrant you, you shall find the ceremonies of the wars, and the cares of it, and the forms of it, and the sobriety of it, and the modesty of it, to be otherwise.
+<SPEECH 27><ACT 4><SCENE 1><57%>
+	If the enemy is an ass and a fool and a prating coxcomb, is it meet, think you, that we should also, look you, be an ass and a fool and a prating coxcomb, in your own conscience now?
+<SPEECH 28><ACT 4><SCENE 1><57%>
+	I pray you and peseech you that you will.
+<SPEECH 29><ACT 4><SCENE 7><74%>
+	Kill the poys and the luggage! 'tis expressly against the law of arms: 'tis as arrant a piece of knavery, mark you now, as can be offer't: in your conscience now, is it not?
+<SPEECH 30><ACT 4><SCENE 7><75%>
+	Ay, he was porn at Monmouth, Captain Gower. What call you the town's name where Alexander the Pig was born?
+<SPEECH 31><ACT 4><SCENE 7><75%>
+	Why, I pray you, is not pig great? The pig, or the great, or the mighty, or the huge, or the magnanimous, are all one reckonings, save the phrase is a little variations.
+<SPEECH 32><ACT 4><SCENE 7><75%>
+	I think it is in Macedon where Alexander is porn. I tell you, captain, if you look in the maps of the 'orld, I warrant you sall find, in the comparisons between Macedon and Monmouth, that the situations, look you, is both alike. There is a river in Macedon, and there is also moreover a river at Monmouth: it is called Wye at Monmouth; but it is out of my prains what is the name of the other river; but 'tis all one, 'tis alike as my fingers is to my fingers, and there is salmons in both. If you mark Alexander's life well, Harry of Monmouth's life is come after it indifferent well; for there is figures in all things. Alexander,—God knows, and you know,—in his rages, and his furies, and his wraths, and his cholers, and his moods, and his displeasures, and his indignations, and also being a little intoxicates in his prains, did, in his ales and his angers, look you, kill his pest friend, Cleitus.
+<SPEECH 33><ACT 4><SCENE 7><75%>
+	It is not well done, mark you now, to take the tales out of my mouth, ere it is made and finished. I speak but in the figures and comparisons of it: as Alexander killed his friend Cleitus, being in his ales and his cups, so also Harry Monmouth, being in his right wits and his good judgments, turned away the fat knight with the great belly-doublet: he was full of jests, and gipes, and knaveries, and mocks; I have forgot his name.
+<SPEECH 34><ACT 4><SCENE 7><76%>
+	That is he. I'll tell you, there is goot men porn at Monmouth.
+<SPEECH 35><ACT 4><SCENE 7><77%>
+	Your grandfather of famous memory, an't please your majesty, and your great-uncle Edward the Plack Prince of Wales, as I have read in the chronicles, fought a most prave pattle here in France.
+<SPEECH 36><ACT 4><SCENE 7><77%>
+	Your majesty says very true. If your majesties is remembered of it, the Welshmen did good service in a garden where leeks did grow, wearing leeks in their Monmouth caps; which, your majesty know, to this hour is an honourable badge of the service; and I do believe, your majesty takes no scorn to wear the leek upon Saint Tavy's day.
+<SPEECH 37><ACT 4><SCENE 7><77%>
+	All the water in Wye cannot wash your majesty's Welsh plood out of your pody, I can tell you that: Got pless it and preserve it, as long as it pleases his grace, and his majesty too!
+<SPEECH 38><ACT 4><SCENE 7><78%>
+	By Jeshu, I am your majesty's countryman, I care not who know it; I will confess it to all the 'orld: I need not be ashamed of your majesty, praised be God, so long as your majesty is an honest man.
+<SPEECH 39><ACT 4><SCENE 7><78%>
+	He is a craven and a villain else, an't please your majesty, in my conscience.
+<SPEECH 40><ACT 4><SCENE 7><78%>
+	Though he be as good a gentleman as the devil is, as Lucifer and Belzebub himself, it is necessary, look your Grace, that he keep his vow and his oath. If he be perjured, see you now, his reputation is as arrant a villain and a Jack-sauce as ever his black shoe trod upon God's ground and his earth, in my conscience, la!
+<SPEECH 41><ACT 4><SCENE 7><79%>
+	Gower is a goot captain, and is good knowledge and literatured in the wars.
+<SPEECH 42><ACT 4><SCENE 7><79%>
+	Your Grace does me as great honours as can be desired in the hearts of his subjects: I would fain see the man that has but two legs that shall find himself aggriefed at this glove, that is all; but I would fain see it once, and please God of his grace that I might see.
+<SPEECH 43><ACT 4><SCENE 7><79%>
+	He is my dear friend, an't please you.
+<SPEECH 44><ACT 4><SCENE 7><79%>
+	I will fetch him.
+<SPEECH 45><ACT 4><SCENE 8><80%>
+	God's will and his pleasure, captain, I peseech you now come apace to the king: there is more good toward you peradventure than is in your knowledge to dream of.
+<SPEECH 46><ACT 4><SCENE 8><80%>
+	Know the glove! I know the glove is a glove.
+<SPEECH 47><ACT 4><SCENE 8><80%>
+	'Sblood! an arrant traitor as any's in the universal 'orld, or in France, or in England
+<SPEECH 48><ACT 4><SCENE 8><80%>
+	Stand away, Captain Gower; I will give treason his payment into plows, I warrant you.
+<SPEECH 49><ACT 4><SCENE 8><80%>
+	That's a lie in thy throat. I charge you in his majesty's name, apprehend him: he is a friend of the Duke Alençon's.
+<SPEECH 50><ACT 4><SCENE 8><80%>
+	My Lord of Warwick, here is,—praised be God for it!—a most contagious treason come to light, look you, as you shall desire in a summer's day. Here is his majesty.
+<SPEECH 51><ACT 4><SCENE 8><81%>
+	My liege, here is a villain and a traitor, that, look your Grace, has struck the glove which your majesty is take out of the helmet of Alençon.
+<SPEECH 52><ACT 4><SCENE 8><81%>
+	Your majesty hear now,—saving your majesty's manhood,—what an arrant, rascally, beggarly, lousy knave it is. I hope your majesty is pear me testimony and witness, and avouchments, that this is the glove of Alençon that your majesty is give me; in your conscience now.
+<SPEECH 53><ACT 4><SCENE 8><81%>
+	An't please your majesty, let his neck answer for it, if there is any martial law in the 'orld.
+<SPEECH 54><ACT 4><SCENE 8><82%>
+	By this day and this light, the fellow has mettle enough in his belly. Hold, there is twelve pence for you, and I pray you to serve God, and keep you out of prawls, and prabbles, and quarrels, and dissensions, and, I warrant you, it is the better for you.
+<SPEECH 55><ACT 4><SCENE 8><82%>
+	It is with a good will; I can tell you it will serve you to mend your shoes: come, wherefore should you be so pashful? your shoes is not so good: 'tis a good shilling, I warrant you, or I will change it.
+<SPEECH 56><ACT 4><SCENE 8><83%>
+	Is it not lawful, an please your majesty, to tell how many is killed?
+<SPEECH 57><ACT 4><SCENE 8><84%>
+	Yes, my conscience, he did us great good.
+<SPEECH 58><ACT 5><SCENE 1><85%>
+	There is occasions and causes why and wherefore in all things: I will tell you, asse my friend, Captain Gower. The rascally, scald, beggarly, lousy, pragging knave, Pistol,—which you and yourself and all the 'orld know to be no petter than a fellow,—look you now, of no merits, he is come to me and prings me pread and salt yesterday, look you, and pid me eat my leek. It was in a place where I could not preed no contention with him; but I will be so pold as to wear it in my cap till I see him once again, and then I will tell him a little piece of my desires.
+<SPEECH 59><ACT 5><SCENE 1><86%>
+	'Tis no matter for his swellings nor his turkey-cocks. God pless you, Aunchient Pistol! you scurvy, lousy knave, God pless you!
+<SPEECH 60><ACT 5><SCENE 1><86%>
+	I peseech you heartily, scurvy lousy knave, at my desires and my requests and my petitions to eat, look you, this leek; pecause, look you, you do not love it, nor your affections and your appetites and your digestions does not agree with it, I would desire you to eat it.
+<SPEECH 61><ACT 5><SCENE 1><86%>
+	</STAGE DIR> There is one goat for you.
+	Will you be so good, scald knave, as eat it?
+<SPEECH 62><ACT 5><SCENE 1><86%>
+	You say very true, scald knave, when
+	God's will is. I will desire you to live in the mean time and eat your victuals; come, there is sauce for it. <STAGE DIR>
+	</STAGE DIR> You called me yesterday mountain-squire, but I will make you to-day a squire of low degree. I pray you, fall to: if you can mock a leek you can eat a leek.
+<SPEECH 63><ACT 5><SCENE 1><86%>
+	I say, I will make him eat some part of my leek, or I will peat his pate four days. Bite, I pray you; it is good for your green wound and your ploody coxcomb.
+<SPEECH 64><ACT 5><SCENE 1><87%>
+	Yes, certainly, and out of doubt and out of question too and ambiguities.
+<SPEECH 65><ACT 5><SCENE 1><87%>
+	Eat, I pray you: will you have some more sauce to your leek? there is not enough leek to swear by.
+<SPEECH 66><ACT 5><SCENE 1><87%>
+	Much good do you, scald knave, heartily. Nay, pray you, throw none away; the skin is good for your broken coxcomb. When you take occasions to see leeks hereafter, I pray you, mock at 'em; that is all.
+<SPEECH 67><ACT 5><SCENE 1><87%>
+	Ay, leeks is good. Hold you, there is a groat to heal your pate.
+<SPEECH 68><ACT 5><SCENE 1><87%>
+	Yes, verily and in truth, you shall take it; or I have another leek in my pocket, which you shall eat.
+<SPEECH 69><ACT 5><SCENE 1><87%>
+	If I owe you anything I will pay you in cudgels: you shall be a woodmonger, and buy nothing of me but cudgels. God be wi' you, and keep you, and heal your pate.

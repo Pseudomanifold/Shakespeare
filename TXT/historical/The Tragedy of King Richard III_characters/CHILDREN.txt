@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 2><SCENE 2><34%>
+	Ah! for our father, for our dear Lord Clarence!
+<SPEECH 2><ACT 2><SCENE 2><34%>
+	What stay had we but Clarence? and he's gone.
+<SPEECH 3><ACT 2><SCENE 2><34%>
+	Were never orphans had so dear a loss.

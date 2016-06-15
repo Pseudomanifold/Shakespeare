@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 2><SCENE 2><32%>
+	Three, they say; but 'tis thought of every one Coriolanus will carry it.
+<SPEECH 2><ACT 2><SCENE 2><32%>
+	Faith, there have been many great men that have flattered the people, who ne'er loved them; and there be many that they have loved, they know not wherefore: so that if they love they know not why, they hate upon no better a ground. Therefore, for Coriolanus neither to care whether they love or hate him manifests the true knowledge he has in their disposition; and out of his noble carelessness lets them plainly see't.
+<SPEECH 3><ACT 2><SCENE 2><32%>
+	He hath deserved worthily of his country; and his ascent is not by such easy degrees as those who, having been supple and courteous to the people, bonneted, without any further deed to have them at all into their estimation and report; but he hath so planted his honours in their eyes, and his actions in their hearts, that for their tongues to be silent, and not confess so much, were a kind of ingrateful injury; to report otherwise, were a malice, that, giving itself the lie, would pluck reproof and rebuke from every ear that heard it.

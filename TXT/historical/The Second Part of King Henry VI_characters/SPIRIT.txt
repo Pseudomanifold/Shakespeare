@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 1><SCENE 4><19%>
+	Adsum.
+<SPEECH 2><ACT 1><SCENE 4><19%>
+	Ask what thou wilt. That I had said and done!
+<SPEECH 3><ACT 1><SCENE 4><20%>
+	The Duke yet lives that Henry shall depose;
+	But him outlive, and die a violent death.
+<SPEECH 4><ACT 1><SCENE 4><20%>
+	By water shall he die and take his end.
+<SPEECH 5><ACT 1><SCENE 4><20%>
+	Let him shun castles:
+	Safer shall he be upon the sandy plains
+	Than where castles mounted stand.
+	Have done, for more I hardly can endure.

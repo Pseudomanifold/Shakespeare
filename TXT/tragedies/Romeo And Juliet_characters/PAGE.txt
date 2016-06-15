@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 5><SCENE 3><90%>
+	</STAGE DIR> I am almost afraid to stand alone
+	Here in the churchyard; yet I will adventure.
+<SPEECH 2><ACT 5><SCENE 3><92%>
+	O Lord! they fight: I will go call the watch.
+<SPEECH 3><ACT 5><SCENE 3><95%>
+	This is the place; there where the torch doth burn.
+<SPEECH 4><ACT 5><SCENE 3><99%>
+	He came with flowers to strew his lady's grave,
+	And bid me stand aloof, and so I did;
+	Anon, comes one with light to ope the tomb;
+	And by and by my master drew on him;
+	And then I ran away to call the watch.

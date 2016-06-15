@@ -1,0 +1,27 @@
+<SPEECH 1><ACT 5><SCENE 4><94%>
+	You'll leave your noise anon, ye rascals.
+	Do you take the court for Paris-garden? ye rude slaves, leave your gaping.
+	</STAGE DIR> Good Master porter, I belong to the larder.
+<SPEECH 2><ACT 5><SCENE 4><94%>
+	Belong to the gallows, and be hanged, you rogue! Is this a place to roar in? Fetch me a dozen crab-tree staves, and strong ones: these are but switches to 'em. I'll scratch your heads: you must be seeing christenings! Do you look for ale and cakes here, you rude rascals?
+<SPEECH 3><ACT 5><SCENE 4><94%>
+	How got they in, and be hang'd?
+<SPEECH 4><ACT 5><SCENE 4><94%>
+	You did nothing, sir.
+<SPEECH 5><ACT 5><SCENE 4><94%>
+	I shall be with you presently, good
+	Master puppy. Keep the door close, sirrah.
+<SPEECH 6><ACT 5><SCENE 4><95%>
+	What should you do, but knock 'em down by the dozens? Is this Moorfields to muster in? or have we some strange Indian with the great tool come to court, the women so besiege us? Bless me, what a fry of fornication is at door! On my Christian conscience, this one christening will beget a thousand: here will be father, godfather, and all together.
+<SPEECH 7><ACT 5><SCENE 4><95%>
+	These are the youths that thunder at a playhouse, and fight for bitten apples; that no audience, but the Tribulation of Tower-hill, or the Limbs of Limehouse, their dear brothers, are able to endure. I have some of 'em in Limbo Patrum, and there they are like to dance these three days; besides the running banquet of two beadles, that is to come.
+<SPEECH 8><ACT 5><SCENE 4><96%>
+	An't please your honour,
+	We are but men; and what so many may do,
+	Not being torn a-pieces, we have done:
+	An army cannot rule 'em.
+<SPEECH 9><ACT 5><SCENE 4><96%>
+	Make way there for the princess.
+<SPEECH 10><ACT 5><SCENE 4><96%>
+	You i' the camlet, get up o' the rail:
+	I'll pick you o'er the pales else.

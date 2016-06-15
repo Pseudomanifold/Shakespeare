@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 2><SCENE 3><37%>
+	I promise you, I scarcely know myself:
+	Hear you the news abroad?
+<SPEECH 2><ACT 2><SCENE 3><37%>
+	Ill news, by'r lady; seldom comes the better:
+	I fear, I fear, 'twill prove a giddy world.
+<SPEECH 3><ACT 2><SCENE 3><37%>
+	Ay, sir, it is too true; God help the while!
+<SPEECH 4><ACT 2><SCENE 3><37%>
+	In him there is a hope of government,
+	That in his nonage council under him,
+	And in his full and ripen'd years himself,
+	No doubt, shall then and till then govern well.
+<SPEECH 5><ACT 2><SCENE 3><38%>
+	Truly, the hearts of men are full of fear:
+	You cannot reason almost with a man
+	That looks not heavily and full of dread.
+<SPEECH 6><ACT 2><SCENE 3><38%>
+	Marry, we were sent for to the justices.

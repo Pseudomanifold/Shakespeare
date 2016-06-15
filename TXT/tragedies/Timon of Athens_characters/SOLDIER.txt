@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 5><SCENE 3><96%>
+	By all description this should be the place.
+	Who's here? speak, ho! No answer! What is this?
+	Timon is dead, who hath outstretch'd his span:
+	Some beast rear'd this; here does not live a man.
+	Dead, sure; and this his grave. What's on this tomb
+	I cannot read; the character I'll take with wax:
+	Our captain hath in every figure skill;
+	An ag'd interpreter, though young in days.
+	Before proud Athens he's set down by this,
+	Whose fall the mark of his ambition is.
+<SPEECH 2><ACT 5><SCENE 4><99%>
+	My noble general, Timon is dead;
+	Entomb'd upon the very hem o' the sea:
+	And on his grave-stone this insculpture, which
+	With wax I brought away, whose soft impression
+	Interprets for my poor ignorance.

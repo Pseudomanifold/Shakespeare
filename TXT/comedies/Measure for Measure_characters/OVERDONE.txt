@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 1><SCENE 2><5%>
+	Well, well; there's one yonder arrested and carried to prison was worth five thousand of you all.
+<SPEECH 2><ACT 1><SCENE 2><5%>
+	Marry, sir, that's Claudio, Signior Claudio.
+<SPEECH 3><ACT 1><SCENE 2><5%>
+	Nay, but I know 'tis so: I saw him arrested; saw him carried away; and, which is more, within these three days his head to be chopped off.
+<SPEECH 4><ACT 1><SCENE 2><6%>
+	I am too sure of it; and it is for getting Madam Julietta with child.
+<SPEECH 5><ACT 1><SCENE 2><6%>
+	Thus, what with the war, what with the sweat, what with the gallows and what with poverty, I am custom-shrunk.
+	How now! what's the news with you?
+<SPEECH 6><ACT 1><SCENE 2><6%>
+	Well: what has he done?
+<SPEECH 7><ACT 1><SCENE 2><6%>
+	But what's his offence?
+<SPEECH 8><ACT 1><SCENE 2><6%>
+	What, is there a maid with child by him?
+<SPEECH 9><ACT 1><SCENE 2><6%>
+	What proclamation, man?
+<SPEECH 10><ACT 1><SCENE 2><7%>
+	And what shall become of those in the city?
+<SPEECH 11><ACT 1><SCENE 2><7%>
+	But shall all our houses of resort in the suburbs be pulled down?
+<SPEECH 12><ACT 1><SCENE 2><7%>
+	Why, here's a change indeed in the commonwealth! What shall become of me?
+<SPEECH 13><ACT 1><SCENE 2><7%>
+	What's to do here, Thomas tapster?
+	Let's withdraw.
+<SPEECH 14><ACT 3><SCENE 2><57%>
+	Good my lord, be good to me; your honour is accounted a merciful man; good my lord.
+<SPEECH 15><ACT 3><SCENE 2><57%>
+	My lord, this is one Lucio's information against me. Mistress Kate Keepdown was with child by him in the duke's time; he promised her marriage; his child is a year and a quarter old, come Philip and Jacob: I have kept it myself, and see how he goes about to abuse me!

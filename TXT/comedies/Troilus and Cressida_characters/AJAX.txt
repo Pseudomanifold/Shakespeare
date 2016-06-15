@@ -1,0 +1,131 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+	Thersites!
+<SPEECH 2><ACT 2><SCENE 1><24%>
+	Thersites!
+<SPEECH 3><ACT 2><SCENE 1><24%>
+	Dog!
+<SPEECH 4><ACT 2><SCENE 1><24%>
+	Thou bitch-wolf's son, canst thou not hear?
+	Feel, then.
+<SPEECH 5><ACT 2><SCENE 1><24%>
+	Speak then, thou vinewedst leaven, speak: I will beat thee into handsomeness.
+<SPEECH 6><ACT 2><SCENE 1><24%>
+	Toadstool, learn me the proclamation.
+<SPEECH 7><ACT 2><SCENE 1><24%>
+	The proclamation!
+<SPEECH 8><ACT 2><SCENE 1><24%>
+	Do not, porpentine, do not: my fingers itch.
+<SPEECH 9><ACT 2><SCENE 1><24%>
+	I say, the proclamation!
+<SPEECH 10><ACT 2><SCENE 1><24%>
+	Mistress Thersites!
+<SPEECH 11><ACT 2><SCENE 1><24%>
+	Cobloaf!
+<SPEECH 12><ACT 2><SCENE 1><24%>
+	You whoreson cur.
+<SPEECH 13><ACT 2><SCENE 1><25%>
+	Thou stool for a witch!
+<SPEECH 14><ACT 2><SCENE 1><25%>
+	You dog!
+<SPEECH 15><ACT 2><SCENE 1><25%>
+	You cur!
+<SPEECH 16><ACT 2><SCENE 1><25%>
+	Therefore I beat thee.
+<SPEECH 17><ACT 2><SCENE 1><26%>
+	O thou damned cur! I shall—
+<SPEECH 18><ACT 2><SCENE 1><26%>
+	I bade the vile owl go learn me the tenour of the proclamation, and he rails upon me.
+<SPEECH 19><ACT 2><SCENE 1><26%>
+	Well, go to, go to.
+<SPEECH 20><ACT 2><SCENE 1><26%>
+	I shall cut out your tongue.
+<SPEECH 21><ACT 2><SCENE 1><27%>
+	Farewell. Who shall answer him?
+<SPEECH 22><ACT 2><SCENE 1><27%>
+	O, meaning you. I will go learn more of it.
+<SPEECH 23><ACT 2><SCENE 3><35%>
+	Yes, lion-sick, sick of proud heart: you may call it melancholy if you will favour the man; but, by my head, 'tis pride: but why, why? let him show us a cause. A word, my lord.
+<SPEECH 24><ACT 2><SCENE 3><37%>
+	What is he more than another?
+<SPEECH 25><ACT 2><SCENE 3><37%>
+	Is he so much? Do you not think he thinks himself a better man than I am?
+<SPEECH 26><ACT 2><SCENE 3><37%>
+	Will you subscribe his thought, and say he is?
+<SPEECH 27><ACT 2><SCENE 3><37%>
+	Why should a man be proud? How doth pride grow? I know not what pride is.
+<SPEECH 28><ACT 2><SCENE 3><37%>
+	I do hate a proud man, as I hate the engendering of toads.
+<SPEECH 29><ACT 2><SCENE 3><39%>
+	If I go to him, with my armed fist
+	I'll pash him o'er the face.
+<SPEECH 30><ACT 2><SCENE 3><39%>
+	An a' be proud with me, I'll pheeze his pride.
+	Let me go to him.
+<SPEECH 31><ACT 2><SCENE 3><39%>
+	A paltry, insolent fellow!
+<SPEECH 32><ACT 2><SCENE 3><39%>
+	Can he not be sociable?
+<SPEECH 33><ACT 2><SCENE 3><39%>
+	I'll let his humours blood.
+<SPEECH 34><ACT 2><SCENE 3><39%>
+	An all men were o' my mind,—
+<SPEECH 35><ACT 2><SCENE 3><39%>
+	A' should not bear it so, a' should eat swords first: shall pride carry it?
+<SPEECH 36><ACT 2><SCENE 3><39%>
+	I will knead him; I will make him supple.
+<SPEECH 37><ACT 2><SCENE 3><40%>
+	A whoreson dog, that shall palter thus with us! Would he were a Trojan!
+<SPEECH 38><ACT 2><SCENE 3><40%>
+	Shall I call you father?
+<SPEECH 39><ACT 3><SCENE 3><53%>
+	How now, Patroclus?
+<SPEECH 40><ACT 3><SCENE 3><53%>
+	Ha?
+<SPEECH 41><ACT 3><SCENE 3><53%>
+	Ay, and good next day too.
+<SPEECH 42><ACT 4><SCENE 5><70%>
+	Thou, trumpet, there's my purse.
+	Now crack thy lungs, and split thy brazen pipe:
+	Blow, villain, till thy sphered bias cheek
+	Outswell the colic of puff'd Aquilon.
+	Come, stretch thy chest, and let thy eyes spout blood;
+	Thou blow'st for Hector.
+<SPEECH 43><ACT 4><SCENE 5><74%>
+	I am not warm yet; let us fight again.
+<SPEECH 44><ACT 4><SCENE 5><75%>
+	I thank thee, Hector:
+	Thou art too gentle and too free a man:
+	I came to kill thee, cousin, and bear hence
+	A great addition earned in thy death.
+<SPEECH 45><ACT 4><SCENE 5><75%>
+	If I might in entreaties find success,—
+	As seld I have the chance,—I would desire
+	My famous cousin to our Grecian tents.
+<SPEECH 46><ACT 4><SCENE 5><75%>
+	Great Agamemnon comes to meet us here.
+<SPEECH 47><ACT 4><SCENE 5><78%>
+	Do not chafe thee, cousin:
+	And you, Achilles, let these threats alone,
+	Till accident or purpose bring you to't:
+	You may have every day enough of Hector,
+	If you have stomach. The general state, I fear,
+	Can scarce entreat you to be odd with him.
+<SPEECH 48><ACT 5><SCENE 1><81%>
+	No, yonder 'tis;
+	There, where we see the lights.
+<SPEECH 49><ACT 5><SCENE 1><81%>
+	No, not a whit.
+<SPEECH 50><ACT 5><SCENE 5><94%>
+	Troilus! thou coward Troilus!
+<SPEECH 51><ACT 5><SCENE 6><95%>
+	Troilus, thou coward Troilus, show thy head!
+<SPEECH 52><ACT 5><SCENE 6><95%>
+	What wouldst thou?
+<SPEECH 53><ACT 5><SCENE 6><95%>
+	Were I the general, thou shouldst have my office
+	Ere that correction. Troilus, I say! what, Troilus!
+<SPEECH 54><ACT 5><SCENE 6><95%>
+	I'll fight with him alone: stand, Diomed.
+<SPEECH 55><ACT 5><SCENE 1><98%>
+	If it be so, yet bragless let it be;
+	Great Hector was a man as good as he.

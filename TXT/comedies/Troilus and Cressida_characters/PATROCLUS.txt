@@ -1,0 +1,104 @@
+<SPEECH 1><ACT 2><SCENE 1><26%>
+	Good words, Thersites.
+<SPEECH 2><ACT 2><SCENE 1><26%>
+	No more words, Thersites; peace!
+<SPEECH 3><ACT 2><SCENE 1><27%>
+	A good riddance.
+<SPEECH 4><ACT 2><SCENE 2><31%>
+	Paris, you speak
+	Like one besotted on your sweet delights:
+	You have the honey still, but these the gall;
+	So to be valiant is no praise at all.
+<SPEECH 5><ACT 2><SCENE 3><34%>
+	Who's there? Thersites! Good Thersites, come in and rail.
+<SPEECH 6><ACT 2><SCENE 3><34%>
+	What! art thou devout? wast thou in prayer?
+<SPEECH 7><ACT 2><SCENE 3><34%>
+	Thersites, my lord.
+<SPEECH 8><ACT 2><SCENE 3><34%>
+	Thy lord, Thersites. Then tell me, I pray thee, what's thyself?
+<SPEECH 9><ACT 2><SCENE 3><34%>
+	Thou mayst tell that knowest.
+<SPEECH 10><ACT 2><SCENE 3><34%>
+	You rascal!
+<SPEECH 11><ACT 2><SCENE 3><35%>
+	Why am I a fool?
+<SPEECH 12><ACT 2><SCENE 3><35%>
+	Within his tent; but ill-dispos'd, my lord.
+<SPEECH 13><ACT 2><SCENE 3><35%>
+	I shall say so to him.
+<SPEECH 14><ACT 2><SCENE 3><36%>
+	Achilles bids me say, he is much sorry
+	If any thing more than your sport and pleasure
+	Did move your greatness and this noble state
+	To call upon him; he hopes it is no other
+	But, for your health and your digestion sake,
+	An after-dinner's breath.
+<SPEECH 15><ACT 2><SCENE 3><37%>
+	I shall; and bring his answer presently.
+<SPEECH 16><ACT 3><SCENE 3><53%>
+	They pass by strangely: they were us'd to bend,
+	To send their smiles before them to Achilles;
+	To come as humbly as they us'd to creep
+	To holy altars.
+<SPEECH 17><ACT 3><SCENE 3><57%>
+	To this effect, Achilles, have I mov'd you.
+	A woman impudent and mannish grown
+	Is not more loath'd than an effeminate man
+	In time of action. I stand condemn'd for this:
+	They think my little stomach to the war
+	And your great love to me restrains you thus.
+	Sweet, rouse yourself; and the weak wanton Cupid
+	Shall from your neck unloose his amorous fold,
+	And, like a dew-drop from the lion's mane,
+	Be shook to air.
+<SPEECH 18><ACT 3><SCENE 3><57%>
+	Ay; and perhaps receive much honour by him.
+<SPEECH 19><ACT 3><SCENE 3><57%>
+	O! then, beware;
+	Those wounds heal ill that men do give themselves:
+	Omission to do what is necessary
+	Seals a commission to a blank of danger;
+	And danger, like an ague, subtly taints
+	Even then when we sit idly in the sun.
+<SPEECH 20><ACT 3><SCENE 3><59%>
+	Jove bless great Ajax!
+<SPEECH 21><ACT 3><SCENE 3><59%>
+	I come from the worthy Achilles,—
+<SPEECH 22><ACT 3><SCENE 3><59%>
+	Who most humbly desires you to invite Hector to his tent,—
+<SPEECH 23><ACT 3><SCENE 3><59%>
+	And to procure safe-conduct from Agamemnon.
+<SPEECH 24><ACT 3><SCENE 3><59%>
+	Ay, my lord.
+<SPEECH 25><ACT 3><SCENE 3><59%>
+	What say you to't?
+<SPEECH 26><ACT 3><SCENE 3><59%>
+	Your answer, sir.
+<SPEECH 27><ACT 3><SCENE 3><59%>
+	Your answer, sir.
+<SPEECH 28><ACT 4><SCENE 5><71%>
+	But that's no argument for kissing now;
+	For thus popp'd Paris in his hardiment,
+	And parted thus you and your argument.
+<SPEECH 29><ACT 4><SCENE 5><71%>
+	The first was Menelaus' kiss; this, mine:
+	Patroclus kisses you.
+<SPEECH 30><ACT 4><SCENE 5><71%>
+	Paris and I, kiss evermore for him.
+<SPEECH 31><ACT 4><SCENE 5><71%>
+	Both take and give.
+<SPEECH 32><ACT 5><SCENE 1><79%>
+	Here comes Thersites.
+<SPEECH 33><ACT 5><SCENE 1><79%>
+	Who keeps the tent now?
+<SPEECH 34><ACT 5><SCENE 1><80%>
+	Well said, adversity! and what need these tricks?
+<SPEECH 35><ACT 5><SCENE 1><80%>
+	Male varlet, you rogue! what's that?
+<SPEECH 36><ACT 5><SCENE 1><80%>
+	Why, thou damnable box of envy, thou, what meanest thou to curse thus?
+<SPEECH 37><ACT 5><SCENE 1><80%>
+	Why, no, you ruinous butt, you whoreson indistinguishable cur, no.
+<SPEECH 38><ACT 5><SCENE 1><80%>
+	Out, gall!

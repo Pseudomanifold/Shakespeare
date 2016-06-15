@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 1><SCENE 3><17%>
+	An't shall please your majesty, I never said nor thought any such matter: God is my witness, I am falsely accused by the villain.
+<SPEECH 2><ACT 1><SCENE 3><18%>
+	Alas! my lord, hang me if ever I spake the words. My accuser is my prentice; and when I did correct him for his fault the other day, he did vow upon his knees he would be even with me: I have good witness of this: therefore I beseech your majesty, do not cast away an honest man for a villain's accusation.
+<SPEECH 3><ACT 1><SCENE 3><18%>
+	And I accept the combat willingly.
+<SPEECH 4><ACT 2><SCENE 3><33%>
+	Let it come, i' faith, and I'll pledge you all; and a fig for Peter!
+<SPEECH 5><ACT 2><SCENE 3><34%>
+	Masters, I am come hither, as it were, upon my man's instigation, to prove him a knave, and myself an honest man: and touching the Duke of York, I will take my death I never meant him any ill, nor the king, nor the queen; and therefore, Peter, have at thee with a downright blow!
+<SPEECH 6><ACT 2><SCENE 3><34%>
+	Hold, Peter, hold! I confess, I confess treason.

@@ -1,0 +1,60 @@
+<SPEECH 1><ACT 3><SCENE 2><47%>
+	Right gracious lord, I cannot brook delay:
+	May it please your highness to resolve me now,
+	And what your pleasure is shall satisfy me.
+<SPEECH 2><ACT 3><SCENE 2><48%>
+	Three, my most gracious lord.
+<SPEECH 3><ACT 3><SCENE 2><48%>
+	Be pitiful, dread lord, and grant it then.
+<SPEECH 4><ACT 3><SCENE 2><48%>
+	Ay, full as dearly as I love myself.
+<SPEECH 5><ACT 3><SCENE 2><48%>
+	To do them good I would sustain some harm.
+<SPEECH 6><ACT 3><SCENE 2><48%>
+	Therefore I came unto your majesty.
+<SPEECH 7><ACT 3><SCENE 2><48%>
+	So shall you bind me to your highness' service.
+<SPEECH 8><ACT 3><SCENE 2><49%>
+	What you command, that rests in me to do.
+<SPEECH 9><ACT 3><SCENE 2><49%>
+	No, gracious lord, except I cannot do it.
+<SPEECH 10><ACT 3><SCENE 2><49%>
+	Why, then I will do what your Grace commands.
+<SPEECH 11><ACT 3><SCENE 2><49%>
+	Why stops my lord? shall I not hear my task?
+<SPEECH 12><ACT 3><SCENE 2><49%>
+	That's soon perform'd, because I am a subject.
+<SPEECH 13><ACT 3><SCENE 2><49%>
+	I take my leave with many thousand thanks.
+<SPEECH 14><ACT 3><SCENE 2><49%>
+	The fruits of love I mean, my loving liege.
+<SPEECH 15><ACT 3><SCENE 2><49%>
+	My love till death, my humble thanks, my prayers:
+	That love which virtue begs and virtue grants.
+<SPEECH 16><ACT 3><SCENE 2><49%>
+	Why, then you mean not as I thought you did.
+<SPEECH 17><ACT 3><SCENE 2><49%>
+	My mind will never grant what I perceive
+	Your highness aims at, if I aim aright.
+<SPEECH 18><ACT 3><SCENE 2><50%>
+	To tell you plain, I had rather lie in prison.
+<SPEECH 19><ACT 3><SCENE 2><50%>
+	Why, then mine honesty shall be my dower;
+	For by that loss I will not purchase them.
+<SPEECH 20><ACT 3><SCENE 2><50%>
+	Herein your highness wrongs both them and me.
+	But, mighty lord, this merry inclination
+	Accords not with the sadness of my suit:
+	Please you dismiss me, either with 'ay,' or 'no.'
+<SPEECH 21><ACT 3><SCENE 2><50%>
+	Then, no, my lord. My suit is at an end.
+<SPEECH 22><ACT 3><SCENE 2><50%>
+	'Tis better said than done, my gracious lord:
+	I am a subject fit to jest withal,
+	But far unfit to be a sovereign.
+<SPEECH 23><ACT 3><SCENE 2><51%>
+	And that is more than I will yield unto.
+	I know I am too mean to be your queen,
+	And yet too good to be your concubine.
+<SPEECH 24><ACT 3><SCENE 2><51%>
+	'Twill grieve your Grace my sons should call you father.

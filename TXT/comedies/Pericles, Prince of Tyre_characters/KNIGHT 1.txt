@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 2><SCENE 3><33%>
+	Contend not, sir; for we are gentlemen
+	That neither in our hearts nor outward eyes
+	Envy the great nor do the low despise.
+<SPEECH 2><ACT 2><SCENE 3><35%>
+	Who can be other in this royal presence?
+<SPEECH 3><ACT 2><SCENE 5><40%>
+	Good morrow to the good Simonides.

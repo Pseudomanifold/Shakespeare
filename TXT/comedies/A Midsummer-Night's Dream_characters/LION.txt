@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 5><SCENE 1><91%>
+	You, ladies, you, whose gentle hearts do fear
+	The smallest monstrous mouse that creeps on floor,
+	May now perchance both quake and tremble here,
+	When lion rough in wildest rage doth roar.
+	Then know that I, one Snug the joiner, am
+	A lion-fell, nor else no lion's dam:
+	For, if I should as lion come in strife
+	Into this place, 'twere pity on my life.
+<SPEECH 2><ACT 5><SCENE 1><93%>
+	</STAGE DIR> Oh—.

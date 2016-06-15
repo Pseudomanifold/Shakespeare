@@ -1,0 +1,22 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	But what's the matter?
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	None but the king?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	And why so?
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	You speak him far.
+<SPEECH 5><ACT 1><SCENE 1><1%>
+	What's his name and birth?
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	I honour him,
+	Even out of your report. But pray you, tell me,
+	Is she sole child to the king?
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	How long is this ago?
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	That a king's children should be so convey'd,
+	So slackly guarded, and the search so slow,
+	That could not trace them!
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	I do well believe you.

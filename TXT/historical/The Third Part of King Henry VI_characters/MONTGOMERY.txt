@@ -1,0 +1,44 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	And, brother, here's the Earl of Wiltshire's blood,
+	Whom I encounter'd as the battles join'd.
+<SPEECH 2><ACT 1><SCENE 1><5%>
+	</STAGE DIR> Good brother, as thou lov'st and honour'st arms,
+	Let's fight it out and not stand cavilling thus.
+<SPEECH 3><ACT 1><SCENE 1><8%>
+	And I unto the sea from whence I came.
+<SPEECH 4><ACT 1><SCENE 2><10%>
+	But I have reasons strong and forcible.
+<SPEECH 5><ACT 1><SCENE 2><12%>
+	Brother, I go; I'll win them, fear it not:
+	And thus most humbly I do take my leave.
+<SPEECH 6><ACT 4><SCENE 1><64%>
+	Yet to have join'd with France in such alliance
+	Would more have strengthen'd this our commonwealth
+	'Gainst foreign storms, than any home-bred marriage.
+<SPEECH 7><ACT 4><SCENE 1><64%>
+	Yes; but the safer when 'tis back'd with France.
+<SPEECH 8><ACT 4><SCENE 1><67%>
+	So God help Montague as he proves true!
+<SPEECH 9><ACT 4><SCENE 7><78%>
+	To help King Edward in his time of storm,
+	As every loyal subject ought to do.
+<SPEECH 10><ACT 4><SCENE 7><79%>
+	Then fare you well, for I will hence again:
+	I came to serve a king and not a duke.
+	Drummer, strike up, and let us march away.
+<SPEECH 11><ACT 4><SCENE 7><79%>
+	What talk you of debating? in few words,
+	If you'll not here proclaim yourself our king.
+	I'll leave you to your fortune, and be gone
+	To keep them back that come to succour you.
+	Why shall we fight, if you pretend no title?
+<SPEECH 12><ACT 4><SCENE 7><79%>
+	Ay, now my sov'reign speaketh like himself;
+	And now will I be Edward's champion.
+<SPEECH 13><ACT 4><SCENE 7><79%>
+	And whosoe'er gainsays King Edward's right,
+	By this I challenge him to single fight.
+<SPEECH 14><ACT 4><SCENE 8><81%>
+	Comfort, my lord; and so, I take my leave.
+<SPEECH 15><ACT 5><SCENE 1><85%>
+	Montague, Montague, for Lancaster!

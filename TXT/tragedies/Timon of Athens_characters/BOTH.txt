@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 5><SCENE 1><88%>
+	What we can do, we'll do, to do you service.
+<SPEECH 2><ACT 5><SCENE 1><89%>
+	Beseech your honour
+	To make it known to us.
+<SPEECH 3><ACT 5><SCENE 1><89%>
+	Most thankfully, my lord.
+<SPEECH 4><ACT 5><SCENE 1><89%>
+	Doubt it not, worthy lord.
+<SPEECH 5><ACT 5><SCENE 1><89%>
+	Do we, my lord?
+<SPEECH 6><ACT 5><SCENE 1><89%>
+	Name them, my lord; let's know them.
+<SPEECH 7><ACT 5><SCENE 4><99%>
+	'Tis most nobly spoken.

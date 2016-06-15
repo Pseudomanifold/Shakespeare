@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 4><SCENE 5><84%>
+	Faith, we may put up our pipes, and be gone.
+<SPEECH 2><ACT 4><SCENE 5><84%>
+	Ay, by my troth, the case may be amended.
+<SPEECH 3><ACT 4><SCENE 5><84%>
+	Why 'Heart's ease?'
+<SPEECH 4><ACT 4><SCENE 5><84%>
+	What will you give us?
+<SPEECH 5><ACT 4><SCENE 5><84%>
+	Then will I give you the serving-creature.
+<SPEECH 6><ACT 4><SCENE 5><85%>
+	An you re us, and fa us, you note us.
+<SPEECH 7><ACT 4><SCENE 5><85%>
+	Marry, sir, because silver hath a sweet sound.
+<SPEECH 8><ACT 4><SCENE 5><85%>
+	What a pestilent knave is this same!

@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 1><SCENE 2><12%>
+	The four strangers seek for you, madam, to take their leave; and there is a forerunner come from a fifth, the Prince of Morocco, who brings word the prince his master will be here to-night.
+<SPEECH 2><ACT 2><SCENE 1><45%>
+	Where is my lady?
+<SPEECH 3><ACT 2><SCENE 1><45%>
+	Madam, there is alighted at your gate
+	A young Venetian, one that comes before
+	To signify the approaching of his lord;
+	From whom he bringeth sensible regreets,
+	To wit, — besides commends and courteous breath,—
+	Gifts of rich value. Yet I have not seen
+	So likely an embassador of love.
+	A day in April never came so sweet,
+	To show how costly summer was at hand,
+	As this fore-spurrer comes before his lord.
+<SPEECH 4><ACT 3><SCENE 1><48%>
+	Gentlemen, my master Antonio is at his house, and desires to speak with you both.

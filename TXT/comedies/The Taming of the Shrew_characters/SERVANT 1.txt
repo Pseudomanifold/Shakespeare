@@ -1,0 +1,26 @@
+<SPEECH 1><SCENE 2><6%>
+	Will't please your lordship drink a cup of sack?
+<SPEECH 2><SCENE 2><7%>
+	O! this it is that makes your lady mourn.
+<SPEECH 3><SCENE 2><8%>
+	Say thou wilt course; thy greyhounds are as swift
+	As breathed stags, ay, fleeter than the roe.
+<SPEECH 4><SCENE 2><8%>
+	And till the tears that she hath shed for thee
+	Like envious floods o'er-run her lovely face,
+	She was the fairest creature in the world;
+	And yet she is inferior to none.
+<SPEECH 5><SCENE 2><9%>
+	O! yes, my lord, but very idle words;
+	For though you lay here in this goodly chamber,
+	Yet would you say ye were beaten out of door,
+	And rail upon the hostess of the house,
+	And say you would present her at the leet,
+	Because she brought stone jugs and no seal'd quarts.
+	Sometimes you would call out for Cicely Hacket.
+<SPEECH 6><ACT 1><SCENE 1><20%>
+	My lord, you nod; you do not mind the play.
+<SPEECH 7><ACT 4><SCENE 1><65%>
+	Ay.
+<SPEECH 8><ACT 4><SCENE 1><65%>
+	I.

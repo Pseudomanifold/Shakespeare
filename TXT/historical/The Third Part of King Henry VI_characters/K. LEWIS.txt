@@ -1,0 +1,88 @@
+<SPEECH 1><ACT 3><SCENE 3><54%>
+	Fair Queen of England, worthy Margaret,
+	Sit down with us: it ill befits thy state
+	And birth, that thou shouldst stand while Lewis doth sit.
+<SPEECH 2><ACT 3><SCENE 3><54%>
+	Why, say, fair queen, whence springs this deep despair?
+<SPEECH 3><ACT 3><SCENE 3><54%>
+	Whate'er it be, be thou still like thyself,
+	And sit thee by our side. <STAGE DIR>
+	</STAGE DIR> Yield not thy neck
+	To fortune's yoke, but let thy dauntless mind
+	Still ride in triumph over all mischance.
+	Be plain, Queen Margaret, and tell thy grief;
+	It shall be eas'd, if France can yield relief.
+<SPEECH 4><ACT 3><SCENE 3><55%>
+	Renowned queen, with patience calm the storm,
+	While we bethink a means to break it off.
+<SPEECH 5><ACT 3><SCENE 3><55%>
+	The more I stay, the more I'll succour thee.
+<SPEECH 6><ACT 3><SCENE 3><55%>
+	What's he, approacheth boldly to our presence?
+<SPEECH 7><ACT 3><SCENE 3><55%>
+	Welcome, brave Warwick! What brings thee to France?
+<SPEECH 8><ACT 3><SCENE 3><57%>
+	Queen Margaret, Prince Edward, and Oxford,
+	Vouchsafe at our request to stand aside,
+	While I use further conference with Warwick.
+<SPEECH 9><ACT 3><SCENE 3><58%>
+	Now, Warwick, tell me, even upon thy conscience,
+	Is Edward your true king? for I were loath
+	To link with him that were not lawful chosen.
+<SPEECH 10><ACT 3><SCENE 3><58%>
+	But is he gracious in the people's eye?
+<SPEECH 11><ACT 3><SCENE 3><58%>
+	Then further, all dissembling set aside,
+	Tell me for truth the measure of his love
+	Unto our sister Bona.
+<SPEECH 12><ACT 3><SCENE 3><58%>
+	Now, sister, let us hear your firm resolve.
+<SPEECH 13><ACT 3><SCENE 3><58%>
+	Then, Warwick, thus: our sister shall be Edward's;
+	And now forthwith shall articles be drawn
+	Touching the jointure that your king must make,
+	Which with her dowry shall be counterpois'd.
+	Draw near, Queen Margaret, and be a witness
+	That Bona shall be wife to the English king.
+<SPEECH 14><ACT 3><SCENE 3><59%>
+	And still is friend to him and Margaret:
+	But if your title to the crown be weak,
+	As may appear by Edward's good success,
+	Then 'tis but reason that I be releas'd
+	From giving aid which late I promised.
+	Yet shall you have all kindness at my hand
+	That your estate requires and mine can yield.
+<SPEECH 15><ACT 3><SCENE 3><59%>
+	Warwick, this is some post to us or thee.
+<SPEECH 16><ACT 3><SCENE 3><59%>
+	Warwick, what are thy news? and yours, fair queen?
+<SPEECH 17><ACT 3><SCENE 3><60%>
+	What! has your king married the Lady Grey?
+	And now, to soothe your forgery and his,
+	Sends me a paper to persuade me patience?
+	Is this the alliance that he seeks with France?
+	Dare he presume to scorn us in this manner?
+<SPEECH 18><ACT 3><SCENE 3><61%>
+	And mine with hers, and thine and Margaret's.
+	Therefore, at last, I firmly am resolv'd
+	You shall have aid.
+<SPEECH 19><ACT 3><SCENE 3><61%>
+	Then, England's messenger, return in post,
+	And tell false Edward, thy supposed king,
+	That Lewis of France is sending over masquers,
+	To revel it with him and his new bride.
+	Thou seest what's past; go fear thy king withal.
+<SPEECH 20><ACT 3><SCENE 3><61%>
+	But, Warwick,
+	Thou and Oxford, with five thousand men,
+	Shall cross the seas, and bid false Edward battle;
+	And, as occasion serves, this noble queen
+	And prince shall follow with a fresh supply.
+	Yet ere thou go, but answer me one doubt:
+	What pledge have we of thy firm loyalty?
+<SPEECH 21><ACT 3><SCENE 3><62%>
+	Why stay we now? These soldiers shall be levied,
+	And thou, Lord Bourbon, our high admiral,
+	Shall waft them over with our royal fleet.
+	I long till Edward fall by war's mischance,
+	For mocking marriage with a dame of France.

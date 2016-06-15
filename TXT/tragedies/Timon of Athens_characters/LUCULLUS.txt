@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 3><SCENE 1><36%>
+	</STAGE DIR> One of Lord Timon's men! a gift, I warrant. Why, this hits right; I dreamt of a silver bason and ewer to-night. Flaminius, honest Flaminius, you are very respectively welcome, sir. Fill me some wine. <span class="stage>[Exit Servant.] And how does that honourable, complete, free-hearted gentleman of Athens, thy very bountiful good lord and master?
+<SPEECH 2><ACT 3><SCENE 1><36%>
+	I am right glad that his health is well, sir. And what hast thou there under thy cloak, pretty Flaminius?
+<SPEECH 3><ACT 3><SCENE 1><36%>
+	La, la, la, la! 'nothing doubting,' says he? Alas! good lord; a noble gentleman 'tis, if he would not keep so good a house. Many a time and often I ha' dined with him, and told him on't; and come again to supper to him, of purpose to have him spend less; and yet he would embrace no counsel, take no warning by my coming. Every man has his fault, and honesty is his; I ha' told him on't, but I could ne'er get him from it.
+<SPEECH 4><ACT 3><SCENE 1><37%>
+	Flaminius, I have noted thee always wise. Here's to thee.
+<SPEECH 5><ACT 3><SCENE 1><37%>
+	I have observed thee always for a towardly prompt spirit, give thee thy due, and one that knows what belongs to reason; and canst use the time well, if the time use thee well: good parts in thee. <STAGE DIR>
+	</STAGE DIR>—Get you gone, sirrah.—<span class="stage>[Exit Servant.] Draw nearer, honest Flaminius. Thy lord's a bountiful gentleman; but thou art wise, and thou knowest well enough, although thou comest to me, that this is no time to lend money, especially upon bare friendship, without security. Here's three solidares for thee: good boy, wink at me, and say thou sawest me not. Fare thee well.
+<SPEECH 6><ACT 3><SCENE 1><38%>
+	Ha! now I see thou art a fool, and fit for thy master.

@@ -1,0 +1,252 @@
+<SPEECH 1><ACT 2><SCENE 1><25%>
+	Why, how now, Ajax! wherefore do you this?
+	How now, Thersites! what's the matter, man?
+<SPEECH 2><ACT 2><SCENE 1><25%>
+	Ay; what's the matter?
+<SPEECH 3><ACT 2><SCENE 1><25%>
+	So I do: what's the matter?
+<SPEECH 4><ACT 2><SCENE 1><25%>
+	'Well!' why, so I do.
+<SPEECH 5><ACT 2><SCENE 1><25%>
+	I know that, fool.
+<SPEECH 6><ACT 2><SCENE 1><25%>
+	What?
+<SPEECH 7><ACT 2><SCENE 1><26%>
+	Nay, good Ajax.
+<SPEECH 8><ACT 2><SCENE 1><26%>
+	Nay, I must hold you.
+<SPEECH 9><ACT 2><SCENE 1><26%>
+	Peace, fool!
+<SPEECH 10><ACT 2><SCENE 1><26%>
+	Will you set your wit to a fool's?
+<SPEECH 11><ACT 2><SCENE 1><26%>
+	What's the quarrel?
+<SPEECH 12><ACT 2><SCENE 1><26%>
+	Your last service was sufferance, 'twas not voluntary; no man is beaten voluntary: Ajax was here the voluntary, and you as under an impress.
+<SPEECH 13><ACT 2><SCENE 1><26%>
+	What, with me too, Thersites?
+<SPEECH 14><ACT 2><SCENE 1><26%>
+	What, what?
+<SPEECH 15><ACT 2><SCENE 1><26%>
+	There's for you, Patroclus.
+<SPEECH 16><ACT 2><SCENE 1><27%>
+	Marry, this, sir, is proclaim'd through all our host:
+	That Hector, by the fifth hour of the sun,
+	Will, with a trumpet, 'twixt our tents and Troy
+	To morrow morning call some knight to arms
+	That hath a stomach; and such a one that dare
+	Maintain—I know not what: 'tis trash. Farewell.
+<SPEECH 17><ACT 2><SCENE 1><27%>
+	I know not: it is put to lottery; otherwise,
+	He knew his man.
+<SPEECH 18><ACT 2><SCENE 3><34%>
+	Who's there?
+<SPEECH 19><ACT 2><SCENE 3><34%>
+	Where, where? Art thou come? Why, my cheese, my digestion, why hast thou not served thyself in to my table so many meals? Come, what's Agamemnon?
+<SPEECH 20><ACT 2><SCENE 3><34%>
+	O! tell, tell.
+<SPEECH 21><ACT 2><SCENE 3><35%>
+	He is a privileged man. Proceed, Thersites.
+<SPEECH 22><ACT 2><SCENE 3><35%>
+	Derive this; come.
+<SPEECH 23><ACT 2><SCENE 3><35%>
+	Patroclus, I'll speak with nobody. Come in with me, Thersites.
+<SPEECH 24><ACT 3><SCENE 3><52%>
+	What! comes the general to speak with me?
+	You know my mind; I'll fight no more 'gainst Troy.
+<SPEECH 25><ACT 3><SCENE 3><53%>
+	No.
+<SPEECH 26><ACT 3><SCENE 3><53%>
+	Good day, good day.
+<SPEECH 27><ACT 3><SCENE 3><53%>
+	What! does the cuckold scorn me?
+<SPEECH 28><ACT 3><SCENE 3><53%>
+	Good morrow, Ajax.
+<SPEECH 29><ACT 3><SCENE 3><53%>
+	Good morrow.
+<SPEECH 30><ACT 3><SCENE 3><53%>
+	What mean these fellows? Know they not Achilles?
+<SPEECH 31><ACT 3><SCENE 3><53%>
+	What! am I poor of late?
+	'Tis certain, greatness, once fall'n out with fortune,
+	Must fall out with men too: what the declin'd is
+	He shall as soon read in the eyes of others
+	As feel in his own fall; for men, like butterflies,
+	Show not their mealy wings but to the summer,
+	And not a man, for being simply man,
+	Hath any honour, but honour for those honours
+	That are without him, as places, riches, and favour,
+	Prizes of accident as oft as merit:
+	Which when they fall, as being slippery standers,
+	The love that lean'd on them as slippery too,
+	Do one pluck down another, and together
+	Die in the fall. But 'tis not so with me:
+	Fortune and I are friends: I do enjoy
+	At ample point all that I did possess,
+	Save these men's looks; who do, methinks, find out
+	Something not worth in me such rich beholding
+	As they have often given. Here is Ulysses:
+	I'll interrupt his reading.
+	How now, Ulysses!
+<SPEECH 32><ACT 3><SCENE 3><54%>
+	What are you reading?
+<SPEECH 33><ACT 3><SCENE 3><54%>
+	This is not strange, Ulysses!
+	The beauty that is borne here in the face
+	The bearer knows not, but commends itself
+	To others' eyes: nor doth the eye itself—
+	That most pure spirit of sense—behold itself,
+	Not going from itself; but eye to eye oppos'd
+	Salutes each other with each other's form;
+	For speculation turns not to itself
+	Till it hath travell'd and is mirror'd there
+	Where it may see itself. This is not strange at all.
+<SPEECH 34><ACT 3><SCENE 3><55%>
+	I do believe it; for they pass'd by me
+	As misers do by beggars, neither gave to me
+	Good word or look: what! are my deeds forgot?
+<SPEECH 35><ACT 3><SCENE 3><56%>
+	Of this my privacy
+	I have strong reasons.
+<SPEECH 36><ACT 3><SCENE 3><56%>
+	Ha! known!
+<SPEECH 37><ACT 3><SCENE 3><57%>
+	Shall Ajax fight with Hector?
+<SPEECH 38><ACT 3><SCENE 3><57%>
+	I see my reputation is at stake;
+	My fame is shrewdly gor'd.
+<SPEECH 39><ACT 3><SCENE 3><57%>
+	Go call Thersites hither, sweet Patroclus:
+	I'll send the fool to Ajax and desire him
+	T' invite the Trojan lords after the combat
+	To see us here unarmed. I have a woman's longing,
+	An appetite that I am sick withal,
+	To see great Hector in his weeds of peace;
+	To talk with him and to behold his visage,
+	Even to my full of view. A labour sav'd!
+<SPEECH 40><ACT 3><SCENE 3><58%>
+	What?
+<SPEECH 41><ACT 3><SCENE 3><58%>
+	How so?
+<SPEECH 42><ACT 3><SCENE 3><58%>
+	How can that be?
+<SPEECH 43><ACT 3><SCENE 3><58%>
+	Thou must be my ambassador to him, Thersites.
+<SPEECH 44><ACT 3><SCENE 3><58%>
+	To him, Patroclus: tell him, I humbly desire the valiant Ajax to invite the most valorous Hector to come unarmed to my tent; and to procure safe-conduct for his person of the magnanimous and most illustrious, six-or-seven-times-honoured captain-general of the Grecian army, Agamemnon, et cætera. Do this.
+<SPEECH 45><ACT 3><SCENE 3><59%>
+	Why, but he is not in this tune, is he?
+<SPEECH 46><ACT 3><SCENE 3><59%>
+	Come, thou shalt bear a letter to him straight.
+<SPEECH 47><ACT 3><SCENE 3><59%>
+	My mind is troubled, like a fountain stirr'd;
+	And I myself see not the bottom of it.
+<SPEECH 48><ACT 4><SCENE 5><71%>
+	'Tis but early days.
+<SPEECH 49><ACT 4><SCENE 5><71%>
+	I'll take that winter from your lips, fair lady:
+	Achilles bids you welcome.
+<SPEECH 50><ACT 4><SCENE 5><73%>
+	'Tis done like Hector; but securely done,
+	A little proudly, and great deal misprising
+	The knight oppos'd.
+<SPEECH 51><ACT 4><SCENE 5><73%>
+	If not Achilles, nothing.
+<SPEECH 52><ACT 4><SCENE 5><73%>
+	A maiden battle, then? O! I perceive you.
+<SPEECH 53><ACT 4><SCENE 5><77%>
+	I shall forestall thee, Lord Ulysses, thou!
+	Now, Hector, I have fed mine eyes on thee;
+	I have with exact view perus'd thee, Hector,
+	And quoted joint by joint.
+<SPEECH 54><ACT 4><SCENE 5><77%>
+	I am Achilles.
+<SPEECH 55><ACT 4><SCENE 5><77%>
+	Behold thy fill.
+<SPEECH 56><ACT 4><SCENE 5><77%>
+	Thou art too brief: I will the second time,
+	As I would buy thee, view thee limb by limb.
+<SPEECH 57><ACT 4><SCENE 5><77%>
+	Tell me, you heavens, in which part of his body
+	Shall I destroy him? whether there, or there, or there?
+	That I may give the local wound a name,
+	And make distinct the very breach whereout
+	Hector's great spirit flew. Answer me, heavens!
+<SPEECH 58><ACT 4><SCENE 5><78%>
+	I tell thee, yea.
+<SPEECH 59><ACT 4><SCENE 5><78%>
+	Dost thou entreat me, Hector?
+	To-morrow do I meet thee, fell as death;
+	To-night all friends.
+<SPEECH 60><ACT 5><SCENE 1><79%>
+	I'll heat his blood with Greekish wine to-night,
+	Which with my scimitar I'll cool to-morrow.
+	Patroclus, let us feast him to the height.
+<SPEECH 61><ACT 5><SCENE 1><79%>
+	How now, thou core of envy!
+	Thou crusty batch of nature, what's the news?
+<SPEECH 62><ACT 5><SCENE 1><79%>
+	From whence, fragment?
+<SPEECH 63><ACT 5><SCENE 1><80%>
+	My sweet Patroclus, I am thwarted quite
+	From my great purpose in to-morrow's battle.
+	Here is a letter from Queen Hecuba,
+	A token from her daughter, my fair love,
+	Both taxing me and gaging me to keep
+	An oath that I have sworn. I will not break it:
+	Fall Greeks; fail fame; honour or go or stay;
+	My major vow lies here, this I'll obey.
+	Come, come, Thersites, help to trim my tent;
+	This night in banqueting must all be spent.
+	Away, Patroclus!
+<SPEECH 64><ACT 5><SCENE 1><81%>
+	Welcome, brave Hector; welcome, princes all.
+<SPEECH 65><ACT 5><SCENE 1><82%>
+	Good-night and welcome both at once, to those
+	That go or tarry.
+<SPEECH 66><ACT 5><SCENE 1><82%>
+	Old Nestor tarries; and you too, Diomed,
+	Keep Hector company an hour or two.
+<SPEECH 67><ACT 5><SCENE 1><82%>
+	Come, come, enter my tent.
+<SPEECH 68><ACT 5><SCENE 5><95%>
+	Where is this Hector?
+	Come, come, thou boy-queller, show thy face;
+	Know what it is to meet Achilles angry:
+	Hector! where's Hector? I will none but Hector.
+<SPEECH 69><ACT 5><SCENE 6><95%>
+	Now I do see thee. Ha! have at thee, Hector!
+<SPEECH 70><ACT 5><SCENE 6><95%>
+	I do disdain thy courtesy, proud Trojan.
+	Be happy that my arms are out of use:
+	My rest and negligence befriend thee now,
+	But thou anon shalt hear of me again;
+	Till when, go seek thy fortune.
+<SPEECH 71><ACT 5><SCENE 7><96%>
+	Come here about me, you my Myrmidons;
+	Mark what I say. Attend me where I wheel:
+	Strike not a stroke, but keep yourselves in breath:
+	And when I have the bloody Hector found,
+	Empale him with your weapons round about;
+	In fellest manner execute your aims.
+	Follow me, sirs, and my proceedings eye:
+	It is decreed, Hector the great must die.
+<SPEECH 72><ACT 5><SCENE 8><97%>
+	Look, Hector, how the sun begins to set;
+	How ugly night comes breathing at his heels:
+	Even with the vail and darking of the sun,
+	To close the day up, Hector's life is done.
+<SPEECH 73><ACT 5><SCENE 8><97%>
+	Strike, fellows, strike! this is the man I seek.
+	So, Ilion, fall thou next! now, Troy, sink down!
+	Here lies thy heart, thy sinews, and thy bone.
+	On! Myrmidons, and cry you all amain,
+	'Achilles hath the mighty Hector slain.'—
+	Hark! a retreat upon our Grecian part.
+<SPEECH 74><ACT 5><SCENE 8><98%>
+	The dragon wing of night o'erspreads the earth,
+	And, stickler-like, the armies separates.
+	My half-supp'd sword, that frankly would have fed,
+	Pleas'd with this dainty bait, thus goes to bed.—
+	Come, tie his body to my horse's tail;
+	Along the field I will the Trojan trail.

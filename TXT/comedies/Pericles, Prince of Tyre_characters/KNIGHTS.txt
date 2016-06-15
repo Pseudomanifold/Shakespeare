@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 2><SCENE 3><33%>
+	We are honour'd much by good Simonides.
+<SPEECH 2><ACT 2><SCENE 3><35%>
+	We thank your Grace.

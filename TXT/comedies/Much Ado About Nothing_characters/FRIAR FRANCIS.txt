@@ -1,0 +1,96 @@
+<SPEECH 1><ACT 4><SCENE 1><63%>
+	You come hither, my lord, to marry this lady?
+<SPEECH 2><ACT 4><SCENE 1><63%>
+	Lady, you come hither to be married to this count?
+<SPEECH 3><ACT 4><SCENE 1><63%>
+	If either of you know any inward impediment, why you should not be conjoined, I charge you, on your souls, to utter it.
+<SPEECH 4><ACT 4><SCENE 1><63%>
+	Know you any, count?
+<SPEECH 5><ACT 4><SCENE 1><67%>
+	Have comfort, lady.
+<SPEECH 6><ACT 4><SCENE 1><67%>
+	Yea; wherefore should she not?
+<SPEECH 7><ACT 4><SCENE 1><68%>
+	Hear me a little;
+	For I have only been silent so long,
+	And given way unto this course of fortune,
+	By noting of the lady: I have mark'd
+	A thousand blushing apparitions
+	To start into her face; a thousand innocent shames
+	In angel whiteness bear away those blushes;
+	And in her eye there hath appear'd a fire,
+	To burn the errors that these princess hold
+	Against her maiden truth. Call me a fool;
+	Trust not my reading nor my observations,
+	Which with experimental seal doth warrant
+	The tenour of my book; trust not my age,
+	My reverence, calling, nor divinity,
+	If this sweet lady lie not guiltless here
+	Under some biting error.
+<SPEECH 8><ACT 4><SCENE 1><69%>
+	Lady, what man is he you are accus'd of?
+<SPEECH 9><ACT 4><SCENE 1><69%>
+	There is some strange misprision in the princes.
+<SPEECH 10><ACT 4><SCENE 1><70%>
+	Pause awhile,
+	And let my counsel sway you in this case.
+	Your daughter here the princes left for dead;
+	Let her awhile be secretly kept in,
+	And publish it that she is dead indeed:
+	Maintain a mourning ostentation;
+	And on your family's old monument
+	Hang mournful epitaphs and do all rites
+	That appertain unto a burial.
+<SPEECH 11><ACT 4><SCENE 1><70%>
+	Marry, this well carried shall on her behalf
+	Change slander to remorse; that is some good:
+	But not for that dream I on this strange course,
+	But on this travail look for greater birth.
+	She dying, as it must be so maintain'd,
+	Upon the instant that she was accus'd,
+	Shall be lamented, pitied and excus'd
+	Of every hearer; for it so falls out
+	That what we have we prize not to the worth
+	Whiles we enjoy it, but being lack'd and lost,
+	Why, then we rack the value, then we find
+	The virtue that possession would not show us
+	Whiles it was ours. So will it fare with Claudio:
+	When he shall hear she died upon his words,
+	The idea of her life shall sweetly creep
+	Into his study of imagination,
+	And every lovely organ of her life
+	Shall come apparell'd in more precious habit,
+	More moving-delicate, and full of life
+	Into the eye and prospect of his soul,
+	Than when she liv'd indeed: then shall he mourn,—
+	If ever love had interest in his liver,—
+	And wish he had not so accused her,
+	No, though he thought his accusation true.
+	Let this be so, and doubt not but success
+	Will fashion the event in better shape
+	Than I can lay it down in likelihood.
+	But if all aim but this be levell'd false,
+	The supposition of the lady's death
+	Will quench the wonder of her infamy:
+	And if it sort not well, you may conceal her,—
+	As best befits her wounded reputation,—
+	In some reclusive and religious life,
+	Out of all eyes, tongues, minds, and injuries.
+<SPEECH 12><ACT 4><SCENE 1><71%>
+	'Tis well consented: presently away;
+	For to strange sores strangely they strain the cure.
+	Come, lady, die to live: this wedding day
+	Perhaps is but prolong'd: have patience and endure.
+<SPEECH 13><ACT 5><SCENE 4><95%>
+	Did I not tell you she was innocent?
+<SPEECH 14><ACT 5><SCENE 4><95%>
+	To do what, signior?
+<SPEECH 15><ACT 5><SCENE 4><96%>
+	And my help.
+	Here come the prince and Claudio.
+<SPEECH 16><ACT 5><SCENE 4><97%>
+	All this amazement can I qualify:
+	When after that the holy rites are ended,
+	I'll tell you largely of fair Hero's death:
+	Meantime, let wonder seem familiar,
+	And to the chapel let us presently.

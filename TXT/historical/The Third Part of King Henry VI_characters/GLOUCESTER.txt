@@ -1,0 +1,302 @@
+<SPEECH 1><ACT 3><SCENE 2><47%>
+	Your highness shall do well to grant her suit;
+	It were dishonour to deny it her.
+<SPEECH 2><ACT 3><SCENE 2><47%>
+	</STAGE DIR> Yea; is it so?
+	I see the lady hath a thing to grant
+	Before the king will grant her humble suit.
+<SPEECH 3><ACT 3><SCENE 2><47%>
+	</STAGE DIR> Silence!
+<SPEECH 4><ACT 3><SCENE 2><47%>
+	</STAGE DIR> Ay, widow? then I'll warrant you all your lands,
+	An if what pleases him shall pleasure you,
+	Fight closer, or, good faith, you'll catch a blow.
+<SPEECH 5><ACT 3><SCENE 2><48%>
+	</STAGE DIR> God forbid that! for he'll take vantages.
+<SPEECH 6><ACT 3><SCENE 2><48%>
+	</STAGE DIR> Nay, whip me, then; he'll rather give her two.
+<SPEECH 7><ACT 3><SCENE 2><48%>
+	</STAGE DIR> You shall have four, if you'll be rul'd by him.
+<SPEECH 8><ACT 3><SCENE 2><48%>
+	</STAGE DIR> Ay, good leave have you; for you will have leave,
+	Till youth take leave and leave you to the crutch.
+<SPEECH 9><ACT 3><SCENE 2><49%>
+	</STAGE DIR> He plies her hard; and much rain wears the marble.
+<SPEECH 10><ACT 3><SCENE 2><49%>
+	</STAGE DIR> The match is made; she seals it with a curtsy.
+<SPEECH 11><ACT 3><SCENE 2><50%>
+	</STAGE DIR> The widow likes him not, she knits her brows.
+<SPEECH 12><ACT 3><SCENE 2><51%>
+	</STAGE DIR> The ghostly father now hath done his shrift.
+<SPEECH 13><ACT 3><SCENE 2><51%>
+	The widow likes it not, for she looks very sad.
+<SPEECH 14><ACT 3><SCENE 2><51%>
+	That would be ten days' wonder at the least.
+<SPEECH 15><ACT 3><SCENE 2><51%>
+	By so much is the wonder in extremes.
+<SPEECH 16><ACT 3><SCENE 2><52%>
+	Ay, Edward will use women honourably.
+	Would he were wasted, marrow, bones, and all,
+	That from his loins no hopeful branch may spring,
+	To cross me from the golden time I look for!
+	And yet, between my soul's desire and me—
+	The lustful Edward's title buried,—
+	Is Clarence, Henry, and his son young Edward,
+	And all the unlook'd for issue of their bodies,
+	To take their rooms, ere I can place myself:
+	A cold premeditation for my purpose!
+	Why then, I do but dream on sovereignty;
+	Like one that stands upon a promontory,
+	And spies a far-off shore where he would tread,
+	Wishing his foot were equal with his eye;
+	And chides the sea that sunders him from thence,
+	Saying, he'll lade it dry to have his way:
+	So do I wish the crown, being so far off,
+	And so I chide the means that keep me from it,
+	And so I say I'll cut the causes off,
+	Flattering me with impossibilities.
+	My eye's too quick, my heart o'erweens too much,
+	Unless my hand and strength could equal them.
+	Well, say there is no kingdom then for Richard;
+	What other pleasure can the world afford?
+	I'll make my heaven in a lady's lap,
+	And deck my body in gay ornaments,
+	And witch sweet ladies with my words and looks.
+	O miserable thought! and more unlikely
+	Than to accomplish twenty golden crowns.
+	Why, love forswore me in my mother's womb:
+	And, for I should not deal in her soft laws,
+	She did corrupt frail nature with some bribe,
+	To shrink mine arm up like a wither'd shrub;
+	To make an envious mountain on my back,
+	Where sits deformity to mock my body;
+	To shape my legs of an unequal size;
+	To disproportion me in every part,
+	Like to a chaos, or an unlick'd bear-whelp
+	That carries no impression like the dam.
+	And am I then a man to be belov'd?
+	O monstrous fault! to harbour such a thought.
+	Then, since this earth affords no joy to me
+	But to command, to check, to o'erbear such
+	As are of better person than myself,
+	I'll make my heaven to dream upon the crown;
+	And, whiles I live, to account this world but hell,
+	Until my mis-shap'd trunk that bears this head
+	Be round impaled with a glorious crown.
+	And yet I know not how to get the crown,
+	For many lives stand between me and home:
+	And I, like one lost in a thorny wood,
+	That rents the thorns and is rent with the thorns,
+	Seeking a way and straying from the way;
+	Not knowing how to find the open air,
+	But toiling desperately to find it out,
+	Torment myself to catch the English crown:
+	And from that torment I will free myself,
+	Or hew my way out with a bloody axe.
+	Why, I can smile, and murder while I smile,
+	And cry, 'Content,' to that which grieves my heart,
+	And wet my cheeks with artificial tears,
+	And frame my face to all occasions.
+	I'll drown more sailors than the mermaid shall;
+	I'll slay more gazers than the basilisk;
+	I'll play the orator as well as Nestor,
+	Deceive more slily than Ulysses could,
+	And, like a Sinon, take another Troy.
+	I can add colours to the chameleon,
+	Change shapes with Proteus for advantages,
+	And set the murd'rous Machiavel to school.
+	Can I do this, and cannot get a crown?
+	Tut! were it further off, I'll pluck it down.
+<SPEECH 17><ACT 4><SCENE 1><63%>
+	Now tell me, brother Clarence, what think you
+	Of this new marriage with the Lady Grey?
+	Hath not our brother made a worthy choice?
+<SPEECH 18><ACT 4><SCENE 1><63%>
+	And his well-chosen bride.
+<SPEECH 19><ACT 4><SCENE 1><63%>
+	And you shall have your will, because our king:
+	Yet hasty marriage seldom proveth well.
+<SPEECH 20><ACT 4><SCENE 1><63%>
+	Not I:
+	No, God forbid, that I should wish them sever'd
+	Whom God hath join'd together; ay, and 'twere pity
+	To sunder them that yoke so well together.
+<SPEECH 21><ACT 4><SCENE 1><64%>
+	And Warwick, doing what you gave in charge,
+	Is now dishonoured by this new marriage.
+<SPEECH 22><ACT 4><SCENE 1><64%>
+	And yet methinks your Grace hath not done well,
+	To give the heir and daughter of Lord Scales
+	Unto the brother of your loving bride:
+	She better would have fitted me or Clarence:
+	But in your bride you bury brotherhood.
+<SPEECH 23><ACT 4><SCENE 1><65%>
+	</STAGE DIR> I hear, yet say not much, but think the more.
+<SPEECH 24><ACT 4><SCENE 1><67%>
+	</STAGE DIR> Not I.
+	My thoughts aim at a further matter; I
+	Stay not for love of Edward, but the crown.
+<SPEECH 25><ACT 4><SCENE 1><67%>
+	Ay, in despite of all that shall withstand you.
+<SPEECH 26><ACT 4><SCENE 5><72%>
+	Now, my Lord Hastings and Sir William Stanley,
+	Leave off to wonder why I drew you hither,
+	Into this chiefest thicket of the park.
+	Thus stands the case. You know, our king, my brother,
+	Is prisoner to the bishop here, at whose hands
+	He hath good usage and great liberty,
+	And often but attended with weak guard,
+	Comes hunting this way to disport himself.
+	I have advertis'd him by secret means,
+	That if about this hour he make this way,
+	Under the colour of his usual game,
+	He shall here find his friends, with horse and men
+	To set him free from his captivity.
+<SPEECH 27><ACT 4><SCENE 5><73%>
+	Brother, the time and case requireth haste.
+	Your horse stands ready at the park corner.
+<SPEECH 28><ACT 4><SCENE 5><73%>
+	Well guess'd, believe me; for that was my meaning.
+<SPEECH 29><ACT 4><SCENE 5><73%>
+	But wherefore stay we? 'tis no time to talk.
+<SPEECH 30><ACT 4><SCENE 5><73%>
+	Come then, away; let's ha' no more ado.
+<SPEECH 31><ACT 4><SCENE 7><77%>
+	The gates made fast! Brother, I like not this;
+	For many men that stumble at the threshold
+	Are well foretold that danger lurks within.
+<SPEECH 32><ACT 4><SCENE 7><78%>
+	</STAGE DIR> But when the fox hath once got in his nose,
+	He'll soon find means to make the body follow.
+<SPEECH 33><ACT 4><SCENE 7><78%>
+	A wise stout captain, and soon persuaded.
+<SPEECH 34><ACT 4><SCENE 7><78%>
+	Brother, this is Sir John Montgomery,
+	Our trusty friend, unless I be deceiv'd.
+<SPEECH 35><ACT 4><SCENE 7><79%>
+	Why, brother, wherefore stand you on nice points?
+<SPEECH 36><ACT 4><SCENE 7><79%>
+	And fearless minds climb soonest unto crowns.
+	Brother, we will proclaim you out of hand;
+	The bruit thereof will bring you many friends.
+<SPEECH 37><ACT 4><SCENE 8><82%>
+	Away betimes, before his forces join,
+	And take the great-grown traitor unawares:
+	Brave warriors, march amain towards Coventry.
+<SPEECH 38><ACT 5><SCENE 1><83%>
+	See how the surly Warwick mans the wall.
+<SPEECH 39><ACT 5><SCENE 1><83%>
+	I thought, at least, he would have said the king;
+	Or did he make the jest against his will?
+<SPEECH 40><ACT 5><SCENE 1><84%>
+	Ay, by my faith, for a poor earl to give:
+	I'll do thee service for so good a gift.
+<SPEECH 41><ACT 5><SCENE 1><84%>
+	Alas! that Warwick had no more forecast,
+	But, whiles he thought to steal the single ten,
+	The king was slily finger'd from the deck.
+	You left poor Henry at the bishop's palace,
+	And, ten to one, you'll meet him in the Tower.
+<SPEECH 42><ACT 5><SCENE 1><84%>
+	Come, Warwick, take the time; kneel down, kneel down:
+	Nay, when? strike now, or else the iron cools.
+<SPEECH 43><ACT 5><SCENE 1><85%>
+	The gates are open, let us enter too.
+<SPEECH 44><ACT 5><SCENE 1><85%>
+	Thou and thy brother both shall buy this treason
+	Even with the dearest blood your bodies bear.
+<SPEECH 45><ACT 5><SCENE 1><85%>
+	Two of thy name, both Dukes of Somerset,
+	Have sold their lives unto the house of York;
+	And thou shalt be the third, if this sword hold.
+<SPEECH 46><ACT 5><SCENE 1><86%>
+	Welcome, good Clarence; this is brother-like.
+<SPEECH 47><ACT 5><SCENE 3><89%>
+	The queen is valu'd thirty thousand strong,
+	And Somerset, with Oxford, fled to her:
+	If she have time to breathe, be well assur'd
+	Her faction will be full as strong as ours.
+<SPEECH 48><ACT 5><SCENE 5><92%>
+	It is: and lo, where youthful Edward comes.
+<SPEECH 49><ACT 5><SCENE 5><93%>
+	That you might still have worn the petticoat,
+	And ne'er have stol'n the breech from Lancaster.
+<SPEECH 50><ACT 5><SCENE 5><93%>
+	By heaven, brat, I'll plague you for that word.
+<SPEECH 51><ACT 5><SCENE 5><93%>
+	For God's sake, take away this captive scold.
+<SPEECH 52><ACT 5><SCENE 5><93%>
+	Sprawl'st thou? take that, to end thy agony.
+<SPEECH 53><ACT 5><SCENE 5><94%>
+	Marry, and shall.
+<SPEECH 54><ACT 5><SCENE 5><94%>
+	Why should she live, to fill the world with words?
+<SPEECH 55><ACT 5><SCENE 5><94%>
+	Clarence, excuse me to the king, my brother;
+	I'll hence to London on a serious matter:
+	Ere ye come there, be sure to hear some news.
+<SPEECH 56><ACT 5><SCENE 5><94%>
+	The Tower! the Tower!
+<SPEECH 57><ACT 5><SCENE 6><95%>
+	Good day, my lord. What! at your book so hard?
+<SPEECH 58><ACT 5><SCENE 6><96%>
+	Sirrah, leave us to ourselves: we must confer.
+<SPEECH 59><ACT 5><SCENE 6><96%>
+	Suspicion always haunts the guilty mind;
+	The thief doth fear each bush an officer.
+<SPEECH 60><ACT 5><SCENE 6><96%>
+	Why, what a peevish fool was that of Crete,
+	That taught his son the office of a fowl!
+	And yet, for all his wings, the fool was drown'd.
+<SPEECH 61><ACT 5><SCENE 6><96%>
+	Think'st thou I am an executioner?
+<SPEECH 62><ACT 5><SCENE 6><96%>
+	Thy son I kill'd for his presumption.
+<SPEECH 63><ACT 5><SCENE 6><97%>
+	I'll hear no more: die, prophet, in thy speech:
+	For this, amongst the rest, was I ordain'd.
+<SPEECH 64><ACT 5><SCENE 6><97%>
+	What! will the aspiring blood of Lancaster
+	Sink in the ground? I thought it would have mounted.
+	See how my sword weeps for the poor king's death!
+	O! may such purple tears be always shed
+	From those that wish the downfall of our house.
+	If any spark of life be yet remaining,
+	Down, down to hell; and say I sent thee thither,
+	I, that have neither pity, love, nor fear.
+	Indeed, 'tis true, that Henry told me of;
+	For I have often heard my mother say
+	I came into the world with my legs forward.
+	Had I not reason, think ye, to make haste,
+	And seek their ruin that usurp'd our right?
+	The midwife wonder'd, and the women cried
+	'O! Jesus bless us, he is born with teeth.'
+	And so I was; which plainly signified
+	That I should snarl and bite and play the dog.
+	Then, since the heavens have shap'd my body so,
+	Let hell make crook'd my mind to answer it.
+	I have no brother, I am like no brother;
+	And this word 'love,' which greybeards call divine,
+	Be resident in men like one another
+	And not in me: I am myself alone.
+	Clarence, beware; thou keep'st me from the light:
+	But I will sort a pitchy day for thee;
+	For I will buzz abroad such prophecies
+	That Edward shall be fearful of his life;
+	And then, to purge his fear, I'll be thy death.
+	King Henry and the prince his son are gone:
+	Clarence, thy turn is next, and then the rest,
+	Counting myself but bad till I be best.
+	I'll throw thy body in another room,
+	And triumph, Henry, in thy day of doom.
+<SPEECH 65><ACT 5><SCENE 7><99%>
+	</STAGE DIR> I'll blast his harvest, if your head were laid;
+	For yet I am not look'd on in the world.
+	This shoulder was ordain'd so thick to heave;
+	And heave it shall some weight, or break my back:
+	Work thou the way, and thou shalt execute.
+<SPEECH 66><ACT 5><SCENE 7><99%>
+	And, that I love the tree from whence thou sprang'st,
+	Witness the loving kiss I give the fruit.
+	</STAGE DIR> To say the truth, so Judas kiss'd his master,
+	And cried 'all hail!' when as he meant all harm.

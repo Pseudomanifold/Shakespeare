@@ -1,0 +1,175 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	Mars his true moving, even as in the heavens
+	So in the earth, to this day is not known.
+	Late did he shine upon the English side;
+	Now we are victors; upon us he smiles.
+	What towns of any moment but we have?
+	At pleasure here we lie near Orleans;
+	Otherwhiles the famish'd English, like pale ghosts,
+	Faintly besiege us one hour in a month.
+<SPEECH 2><ACT 1><SCENE 2><7%>
+	Sound, sound alarum! we will rush on them.
+	Now for the honour of the forlorn French!
+	Him I forgive my death that killeth me
+	When he sees me go back one foot or fly.
+<SPEECH 3><ACT 1><SCENE 2><7%>
+	Who ever saw the like? what men have I!
+	Dogs! cowards! dastards! I would ne'er have fled
+	But that they left me 'midst my enemies.
+<SPEECH 4><ACT 1><SCENE 2><8%>
+	Let's leave this town; for they are hare-brain'd slaves,
+	And hunger will enforce them to be more eager:
+	Of old I know them; rather with their teeth
+	The walls they'll tear down than forsake the siege.
+<SPEECH 5><ACT 1><SCENE 2><8%>
+	Bastard of Orleans, thrice welcome to us.
+<SPEECH 6><ACT 1><SCENE 2><9%>
+	Go, call her in. <STAGE DIR>
+	</STAGE DIR> But first, to try her skill,
+	Reignier, stand thou as Dauphin in my place:
+	Question her proudly; let thy looks be stern:
+	By this means shall we sound what skill she hath.
+<SPEECH 7><ACT 1><SCENE 2><10%>
+	Thou hast astonish'd me with thy high terms.
+	Only this proof I'll of thy valour make,
+	In single combat thou shalt buckle with me,
+	And if thou vanquishest, thy words are true;
+	Otherwise I renounce all confidence.
+<SPEECH 8><ACT 1><SCENE 2><10%>
+	Then come, o' God's name; I fear no woman.
+<SPEECH 9><ACT 1><SCENE 2><10%>
+	Stay, stay thy hands! thou art an Amazon,
+	And fightest with the sword of Deborah.
+<SPEECH 10><ACT 1><SCENE 2><11%>
+	Whoe'er helps thee, 'tis thou that must help me:
+	Impatiently I burn with thy desire;
+	My heart and hands thou hast at once subdu'd.
+	Excellent Pucelle, if thy name be so,
+	Let me thy servant and not sovereign be;
+	'Tis the French Dauphin sueth to thee thus.
+<SPEECH 11><ACT 1><SCENE 2><11%>
+	Meantime look gracious on thy prostrate thrall.
+<SPEECH 12><ACT 1><SCENE 2><11%>
+	What she says, I'll confirm: we'll fight it out.
+<SPEECH 13><ACT 1><SCENE 2><12%>
+	Was Mahomet inspired with a dove?
+	Thou with an eagle art inspired then.
+	Helen, the mother of great Constantine,
+	Nor yet Saint Philip's daughters were like thee.
+	Bright star of Venus, fall'n down on the earth,
+	How may I reverently worship thee enough?
+<SPEECH 14><ACT 1><SCENE 2><12%>
+	Presently we'll try. Come, let's away about it:
+	No prophet will I trust if she prove false.
+<SPEECH 15><ACT 1><SCENE 6><22%>
+	Divinest creature, Astræa's daughter,
+	How shall I honour thee for this success?
+	Thy promises are like Adonis' gardens,
+	That one day bloom'd and fruitful were the next.
+	France, triumph in thy glorious prophetess!
+	Recover'd is the town of Orleans:
+	More blessed hap did ne'er befall our state.
+<SPEECH 16><ACT 1><SCENE 6><23%>
+	'Tis Joan, not we, by whom the day is won;
+	For which I will divide my crown with her;
+	And all the priests and friars in my realm
+	Shall in procession sing her endless praise.
+	A statelier pyramis to her I'll rear
+	Than Rhodope's or Memphis ever was:
+	In memory of her when she is dead,
+	Her ashes, in an urn more precious
+	Than the rich-jewell'd coffer of Darius,
+	Transported shall be at high festivals
+	Before the kings and queens of France.
+	No longer on Saint Denis will we cry,
+	But Joan la Pucelle shall be France's saint.
+	Come in, and let us banquet royally,
+	After this golden day of victory.
+<SPEECH 17><ACT 2><SCENE 1><25%>
+	Is this thy cunning, thou deceitful dame?
+	Didst thou at first, to flatter us withal,
+	Make us partakers of a little gain,
+	That now our loss might be ten times so much?
+<SPEECH 18><ACT 2><SCENE 1><26%>
+	Duke of Alençon, this was your default,
+	That, being captain of the watch to-night,
+	Did look no better to that weighty charge.
+<SPEECH 19><ACT 2><SCENE 1><26%>
+	And for myself, most part of all this night,
+	Within her quarter and mine own precinct
+	I was employ'd in passing to and fro,
+	About relieving of the sentinels:
+	Then how or which way should they first break in?
+<SPEECH 20><ACT 3><SCENE 2><49%>
+	Saint Denis bless this happy stratagem!
+	And once again we'll sleep secure in Roan.
+<SPEECH 21><ACT 3><SCENE 2><50%>
+	Now shine it like a comet of revenge,
+	A prophet to the fall of all our foes!
+<SPEECH 22><ACT 3><SCENE 2><50%>
+	Your Grace may starve perhaps, before that time.
+<SPEECH 23><ACT 3><SCENE 3><54%>
+	We have been guided by thee hitherto,
+	And of thy cunning had no diffidence:
+	One sudden foil shall never breed distrust.
+<SPEECH 24><ACT 3><SCENE 3><55%>
+	Ay, marry, sweeting, if we could do that,
+	France were no place for Henry's warriors;
+	Nor should that nation boast it so with us,
+	But be extirped from our provinces.
+<SPEECH 25><ACT 3><SCENE 3><55%>
+	A parley with the Duke of Burgundy!
+<SPEECH 26><ACT 3><SCENE 3><56%>
+	Speak, Pucelle, and enchant him with thy words.
+<SPEECH 27><ACT 3><SCENE 3><57%>
+	Welcome, brave duke! thy friendship makes us fresh.
+<SPEECH 28><ACT 3><SCENE 3><57%>
+	Now let us on, my lords, and join our powers:
+	And seek how we may prejudice the foe.
+<SPEECH 29><ACT 4><SCENE 7><77%>
+	Had York and Somerset brought rescue in
+	We should have found a bloody day of this.
+<SPEECH 30><ACT 4><SCENE 7><78%>
+	O, no! forbear; for that which we have fled
+	During the life, let us not wrong it dead.
+<SPEECH 31><ACT 4><SCENE 7><78%>
+	On what submissive message art thou sent?
+<SPEECH 32><ACT 4><SCENE 7><78%>
+	For prisoners ask'st thou? hell our prison is.
+	But tell me whom thou seek'st.
+<SPEECH 33><ACT 4><SCENE 7><79%>
+	Go, take their bodies hence.
+<SPEECH 34><ACT 4><SCENE 7><79%>
+	So we be rid of them, do with 'em what thou wilt.
+	And now to Paris, in this conquering vein:
+	All will be ours now bloody Talbot's slain.
+<SPEECH 35><ACT 5><SCENE 2><82%>
+	These news, my lord, may cheer our drooping spirits;
+	'Tis said the stout Parisians do revolt,
+	And turn again unto the war-like French.
+<SPEECH 36><ACT 5><SCENE 2><82%>
+	What tidings send our scouts? I prithee speak.
+<SPEECH 37><ACT 5><SCENE 2><82%>
+	Somewhat too sudden, sirs, the warning is:
+	But we will presently provide for them.
+<SPEECH 38><ACT 5><SCENE 2><83%>
+	Then on, my lords; and France be fortunate!
+<SPEECH 39><ACT 5><SCENE 4><94%>
+	Since, lords of England, it is thus agreed,
+	That peaceful truce shall be proclaim'd in France,
+	We come to be informed by yourselves
+	What the conditions of that league must be.
+<SPEECH 40><ACT 5><SCENE 4><95%>
+	'Tis known already that I am possess'd
+	With more than half the Gallian territories,
+	And therein reverenc'd for their lawful king:
+	Shall I, for lucre of the rest unvanquish'd,
+	Detract so much from that prerogative
+	As to be call'd but viceroy of the whole?
+	No, lord ambassador; I'll rather keep
+	That which I have than, coveting for more,
+	Be cast from possibility of all.
+<SPEECH 41><ACT 5><SCENE 4><96%>
+	It shall;
+	Only reserv'd, you claim no interest
+	In any of our towns of garrison.

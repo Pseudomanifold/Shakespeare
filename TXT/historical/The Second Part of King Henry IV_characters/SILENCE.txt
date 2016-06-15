@@ -1,0 +1,60 @@
+<SPEECH 1><ACT 3><SCENE 2><47%>
+	Good morrow, good cousin Shallow.
+<SPEECH 2><ACT 3><SCENE 2><47%>
+	Alas! a black ousel, cousin Shallow!
+<SPEECH 3><ACT 3><SCENE 2><48%>
+	Indeed, sir, to my cost.
+<SPEECH 4><ACT 3><SCENE 2><48%>
+	You were called 'lusty Shallow' then, cousin.
+<SPEECH 5><ACT 3><SCENE 2><48%>
+	This Sir John, cousin, that comes hither anon about soldiers?
+<SPEECH 6><ACT 3><SCENE 2><48%>
+	We shall all follow, cousin.
+<SPEECH 7><ACT 3><SCENE 2><48%>
+	Truly, cousin, I was not there.
+<SPEECH 8><ACT 3><SCENE 2><48%>
+	Dead, sir.
+<SPEECH 9><ACT 3><SCENE 2><49%>
+	Thereafter as they be: a score of good ewes may be worth ten pounds.
+<SPEECH 10><ACT 3><SCENE 2><49%>
+	Here come two of Sir John Falstaff's men, as I think.
+<SPEECH 11><ACT 3><SCENE 2><50%>
+	Your good worship is welcome.
+<SPEECH 12><ACT 3><SCENE 2><53%>
+	That's fifty-five year ago.
+<SPEECH 13><ACT 5><SCENE 3><91%>
+	Ah, sirrah! quoth a', we shall
+	Do nothing but eat, and make good cheer,
+	And praise God for the merry year;
+	When flesh is cheap and females dear,
+	And lusty lads roam here and there,
+	So merrily
+	And ever among so merrily.
+<SPEECH 14><ACT 5><SCENE 3><91%>
+	Be merry, be merry, my wife has all;
+	For women are shrews, both short and tall:
+	'Tis merry in hall when beards wag all,
+	And welcome merry Shrove-tide.
+	Be merry, be merry.
+<SPEECH 15><ACT 5><SCENE 3><91%>
+	Who, I? I have been merry twice and once ere now.
+<SPEECH 16><ACT 5><SCENE 3><92%>
+	A cup of wine that's brisk and fine
+	And drink unto the leman mine;
+	And a merry heart lives long-a.
+<SPEECH 17><ACT 5><SCENE 3><92%>
+	And we shall be merry, now comes in the sweet o' the night.
+<SPEECH 18><ACT 5><SCENE 3><92%>
+	Fill the cup, and let it come;
+	I'll pledge you a mile to the bottom.
+<SPEECH 19><ACT 5><SCENE 3><92%>
+	Do me right,
+	And dub me knight:
+	Samingo
+	Is't not so?
+<SPEECH 20><ACT 5><SCENE 3><93%>
+	Is't so? Why, then, say an old man can do somewhat.
+<SPEECH 21><ACT 5><SCENE 3><93%>
+	By'r lady, I think a' be, but goodman Puff of Barson.
+<SPEECH 22><ACT 5><SCENE 3><93%>
+	And Robin Hood, Scarlet, and John.

@@ -1,0 +1,50 @@
+<SPEECH 1><ACT 1><SCENE 1><6%>
+	Where's Caius Marcius?
+<SPEECH 2><ACT 1><SCENE 1><6%>
+	The news is, sir, the Volsces are in arms.
+<SPEECH 3><ACT 1><SCENE 4><13%>
+	They lie in view, but have not spoke as yet.
+<SPEECH 4><ACT 1><SCENE 4><13%>
+	Within this mile and half.
+<SPEECH 5><ACT 1><SCENE 6><17%>
+	The citizens of Corioli have issu'd,
+	And given to Lartius and to Marcius battle:
+	I saw our party to their trenches driven,
+	And then I came away.
+<SPEECH 6><ACT 1><SCENE 6><17%>
+	Above an hour, my lord.
+<SPEECH 7><ACT 1><SCENE 6><17%>
+	Spies of the Volsces
+	Held me in chase, that I was forc'd to wheel
+	Three or four miles about; else had I, sir,
+	Half an hour since brought my report.
+<SPEECH 8><ACT 2><SCENE 1><31%>
+	You are sent for to the Capitol. 'Tis thought
+	That Marcius shall be consul.
+	I have seen the dumb men throng to see him, and
+	The blind to hear him speak: matrons flung gloves,
+	Ladies and maids their scarfs and handkerchers
+	Upon him as he pass'd; the nobles bended,
+	As to Jove's statue, and the commons made
+	A shower and thunder with their caps and shouts:
+	I never saw the like.
+<SPEECH 9><ACT 4><SCENE 6><77%>
+	The nobles in great earnestness are going
+	All to the senate-house: some news is come,
+	That turns their countenances.
+<SPEECH 10><ACT 4><SCENE 6><77%>
+	Yes, worthy sir,
+	The slave's report is seconded; and more,
+	More fearful, is deliver'd.
+<SPEECH 11><ACT 4><SCENE 6><77%>
+	It is spoke freely out of many mouths—
+	How probable I do not know—that Marcius,
+	Join'd with Aufidius, leads a power 'gainst Rome,
+	And vows revenge as spacious as between
+	The young'st and oldest thing.
+<SPEECH 12><ACT 5><SCENE 4><94%>
+	Sir, if you'd save your life, fly to your house:
+	The plebeians have got your fellow-tribune,
+	And hale him up and down; all swearing, if
+	The Roman ladies bring not comfort home,
+	They'll give him death by inches.

@@ -1,0 +1,133 @@
+<SPEECH 1><ACT 2><SCENE 4><27%>
+	O peace, Prince Dauphin!
+	You are too much mistaken in this king.
+	Question your Grace the late ambassadors,
+	With what great state he heard their embassy,
+	How well supplied with noble counsellors,
+	How modest in exception, and, withal
+	How terrible in constant resolution,
+	And you shall find his vanities forespent
+	Were but the outside of the Roman Brutus,
+	Covering discretion with a coat of folly;
+	As gardeners do with ordure hide those roots
+	That shall first spring and be most delicate.
+<SPEECH 2><ACT 3><SCENE 5><41%>
+	And if he be not fought withal, my lord,
+	Let us not live in France; let us quit all,
+	And give our vineyards to a barbarous people.
+<SPEECH 3><ACT 3><SCENE 5><41%>
+	Dieu de battailes! where have they this mettle?
+	Is not their climate foggy, raw, and dull,
+	On whom, as in despite, the sun looks pale,
+	Killing their fruit with frowns? Can sodden water,
+	A drench for sur-rein'd jades, their barley-broth,
+	Decoct their cold blood to such valiant heat?
+	And shall our quick blood, spirited with wine,
+	Seem frosty? O! for honour of our land,
+	Let us not hang like roping icicles
+	Upon our houses' thatch, whiles a more frosty people
+	Sweat drops of gallant youth in our rich fields;
+	Poor we may call them in their native lords.
+<SPEECH 4><ACT 3><SCENE 5><42%>
+	This becomes the great.
+	Sorry am I his numbers are so few,
+	His soldiers sick and famish'd in their march,
+	For I am sure when he shall see our army
+	He'll drop his heart into the sink of fear,
+	And for achievement offer us his ransom.
+<SPEECH 5><ACT 3><SCENE 7><48%>
+	Tut! I have the best armour of the world. Would it were day!
+<SPEECH 6><ACT 3><SCENE 7><48%>
+	It is the best horse of Europe.
+<SPEECH 7><ACT 3><SCENE 7><49%>
+	Indeed, my lord, it is a most absolute and excellent horse.
+<SPEECH 8><ACT 3><SCENE 7><50%>
+	Ma foi, methought yesterday your mistress shrewdly shook your back.
+<SPEECH 9><ACT 3><SCENE 7><50%>
+	Mine was not bridled.
+<SPEECH 10><ACT 3><SCENE 7><50%>
+	You have good judgment in horsemanship.
+<SPEECH 11><ACT 3><SCENE 7><50%>
+	I had as lief have my mistress a jade.
+<SPEECH 12><ACT 3><SCENE 7><50%>
+	I could make as true a boast as that if I had a sow to my mistress.
+<SPEECH 13><ACT 3><SCENE 7><50%>
+	Yet do I not use my horse for my mistress: or any such proverb so little kin to the purpose.
+<SPEECH 14><ACT 3><SCENE 7><50%>
+	Stars, my lord.
+<SPEECH 15><ACT 3><SCENE 7><50%>
+	And yet my sky shall not want.
+<SPEECH 16><ACT 3><SCENE 7><50%>
+	Even as your horse bears your praises; who would trot as well were some of your brags dismounted.
+<SPEECH 17><ACT 3><SCENE 7><51%>
+	I will not say so for fear I should be faced out of my way. But I would it were morning, for I would fain be about the ears of the English.
+<SPEECH 18><ACT 3><SCENE 7><51%>
+	You must first go yourself to hazard, ere you have them.
+<SPEECH 19><ACT 3><SCENE 7><51%>
+	I think he will eat all he kills.
+<SPEECH 20><ACT 3><SCENE 7><51%>
+	Swear by her foot, that she may tread out the oath.
+<SPEECH 21><ACT 3><SCENE 7><51%>
+	Doing is activity, and he will still be doing.
+<SPEECH 22><ACT 3><SCENE 7><51%>
+	Nor will do none to-morrow: he will keep that good name still.
+<SPEECH 23><ACT 3><SCENE 7><51%>
+	I was told that by one that knows him better than you.
+<SPEECH 24><ACT 3><SCENE 7><51%>
+	Marry, he told me so himself; and he said he cared not who knew it.
+<SPEECH 25><ACT 3><SCENE 7><51%>
+	By my faith, sir, but it is; never any body saw it but his lackey: 'tis a hooded valour; and when it appears, it will bate.
+<SPEECH 26><ACT 3><SCENE 7><51%>
+	I will cap that proverb with 'There is flattery in friendship.'
+<SPEECH 27><ACT 3><SCENE 7><51%>
+	Well placed: there stands your friend for the devil: have at the very eye of that proverb, with 'A pox of the devil.'
+<SPEECH 28><ACT 3><SCENE 7><52%>
+	You have shot over.
+<SPEECH 29><ACT 3><SCENE 7><52%>
+	Who hath measured the ground?
+<SPEECH 30><ACT 3><SCENE 7><52%>
+	A valiant and most expert gentleman. Would it were day! Alas! poor Harry of England, he longs not for the dawning as we do.
+<SPEECH 31><ACT 3><SCENE 7><52%>
+	If the English had any apprehension they would run away.
+<SPEECH 32><ACT 3><SCENE 7><52%>
+	Just, just; and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives: and then give them great meals of beef and iron and steel, they will eat like wolves and fight like devils.
+<SPEECH 33><ACT 3><SCENE 7><52%>
+	Then shall we find to-morrow they have only stomachs to eat and none to fight. Now is it time to arm; come, shall we about it?
+<SPEECH 34><ACT 4><SCENE 2><64%>
+	Hark how our steeds for present service neigh!
+<SPEECH 35><ACT 4><SCENE 2><64%>
+	To horse, you gallant princes! straight to horse!
+	Do but behold yon poor and starved band,
+	And your fair show shall suck away their souls,
+	Leaving them but the shales and husks of men.
+	There is not work enough for all our hands;
+	Scarce blood enough in all their sickly veins
+	To give each naked curtal-axe a stain,
+	That our French gallants shall to-day draw out,
+	And sheathe for lack of sport: let us but blow on them,
+	The vapour of our valour will o'erturn them.
+	'Tis positive 'gainst all exceptions, lords,
+	That our superfluous lackeys and our peasants,
+	Who in unnecessary action swarm
+	About our squares of battle, were enow
+	To purge this field of such a hilding foe,
+	Though we upon this mountain's basis by
+	Took stand for idle speculation:
+	But that our honours must not. What's to say?
+	A very little little let us do,
+	And all is done. Then let the trumpets sound
+	The tucket sonance and the note to mount:
+	For our approach shall so much dare the field,
+	That England shall couch down in fear and yield.
+<SPEECH 36><ACT 4><SCENE 2><65%>
+	They have said their prayers, and they stay for death.
+<SPEECH 37><ACT 4><SCENE 2><65%>
+	I stay but for my guard: on, to the field!
+	I will the banner from a trumpet take,
+	And use it for my haste. Come, come, away!
+	The sun is high, and we outwear the day.
+<SPEECH 38><ACT 4><SCENE 5><72%>
+	Why, all our ranks are broke.
+<SPEECH 39><ACT 4><SCENE 5><73%>
+	Disorder, that hath spoil'd us, friend us now!
+	Let us on heaps go offer up our lives.

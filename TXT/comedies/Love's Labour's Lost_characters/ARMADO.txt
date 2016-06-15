@@ -1,0 +1,267 @@
+<SPEECH 1><ACT 1><SCENE 2><11%>
+	Boy, what sign is it when a man of great spirit grows melancholy?
+<SPEECH 2><ACT 1><SCENE 2><11%>
+	Why, sadness is one and the self-same thing, dear imp.
+<SPEECH 3><ACT 1><SCENE 2><11%>
+	How canst thou part sadness and melancholy, my tender juvenal?
+<SPEECH 4><ACT 1><SCENE 2><11%>
+	Why tough senior? why tough senior?
+<SPEECH 5><ACT 1><SCENE 2><11%>
+	I spoke it, tender juvenal, as a congruent epitheton appertaining to thy young days, which we may nominate tender.
+<SPEECH 6><ACT 1><SCENE 2><11%>
+	Pretty, and apt.
+<SPEECH 7><ACT 1><SCENE 2><11%>
+	Thou pretty, because little.
+<SPEECH 8><ACT 1><SCENE 2><11%>
+	And therefore apt, because quick.
+<SPEECH 9><ACT 1><SCENE 2><12%>
+	In thy condign praise.
+<SPEECH 10><ACT 1><SCENE 2><12%>
+	What! that an eel is ingenious?
+<SPEECH 11><ACT 1><SCENE 2><12%>
+	I do say thou art quick in answers: thou heatest my blood.
+<SPEECH 12><ACT 1><SCENE 2><12%>
+	I love not to be crossed.
+<SPEECH 13><ACT 1><SCENE 2><12%>
+	I have promised to study three years with the duke.
+<SPEECH 14><ACT 1><SCENE 2><12%>
+	Impossible.
+<SPEECH 15><ACT 1><SCENE 2><12%>
+	I am ill at reckoning; it fitteth the spirit of a tapster.
+<SPEECH 16><ACT 1><SCENE 2><12%>
+	I confess both: they are both the varnish of a complete man.
+<SPEECH 17><ACT 1><SCENE 2><12%>
+	It doth amount to one more than two.
+<SPEECH 18><ACT 1><SCENE 2><12%>
+	True.
+<SPEECH 19><ACT 1><SCENE 2><12%>
+	A most fine figure!
+<SPEECH 20><ACT 1><SCENE 2><12%>
+	I will hereupon confess I am in love; and as it is base for a soldier to love, so am I in love with a base wench. If drawing my sword against the humour of affection would deliver me from the reprobate thought of it, I would take Desire prisoner, and ransom him to any French courtier for a new devised curtsy. I think scorn to sigh: methinks I should outswear Cupid. Comfort me, boy: what great men have been in love?
+<SPEECH 21><ACT 1><SCENE 2><13%>
+	Most sweet Hercules! More authority, dear boy, name more; and, sweet my child, let them be men of good repute and carriage.
+<SPEECH 22><ACT 1><SCENE 2><13%>
+	O well-knit Samson! strong-jointed Samson! I do excel thee in my rapier as much as thou didst me in carrying gates. I am in love too. Who was Samson's love, my dear Moth?
+<SPEECH 23><ACT 1><SCENE 2><13%>
+	Of what complexion?
+<SPEECH 24><ACT 1><SCENE 2><13%>
+	Tell me precisely of what complexion.
+<SPEECH 25><ACT 1><SCENE 2><13%>
+	Is that one of the four complexions?
+<SPEECH 26><ACT 1><SCENE 2><13%>
+	Green indeed is the colour of lovers; but to have a love of that colour, methinks Samson had small reason for it. He surely affected her for her wit.
+<SPEECH 27><ACT 1><SCENE 2><14%>
+	My love is most immaculate white and red.
+<SPEECH 28><ACT 1><SCENE 2><14%>
+	Define, define, well-educated infant.
+<SPEECH 29><ACT 1><SCENE 2><14%>
+	Sweet invocation of a child; most pretty and pathetical!
+<SPEECH 30><ACT 1><SCENE 2><14%>
+	Is there not a ballad, boy, of the King and the Beggar?
+<SPEECH 31><ACT 1><SCENE 2><14%>
+	I will have that subject newly writ o'er, that I may example my digression by some mighty precedent. Boy, I do love that country girl that I took in the park with the rational hind Costard: she deserves well.
+<SPEECH 32><ACT 1><SCENE 2><15%>
+	Sing, boy: my spirit grows heavy in love.
+<SPEECH 33><ACT 1><SCENE 2><15%>
+	I say, sing.
+<SPEECH 34><ACT 1><SCENE 2><15%>
+	I do betray myself with blushing. Maid!
+<SPEECH 35><ACT 1><SCENE 2><15%>
+	I will visit thee at the lodge.
+<SPEECH 36><ACT 1><SCENE 2><15%>
+	I know where it is situate.
+<SPEECH 37><ACT 1><SCENE 2><15%>
+	I will tell thee wonders.
+<SPEECH 38><ACT 1><SCENE 2><15%>
+	I love thee.
+<SPEECH 39><ACT 1><SCENE 2><15%>
+	And so farewell.
+<SPEECH 40><ACT 1><SCENE 2><15%>
+	Villain, thou shalt fast for thy offences ere thou be pardoned.
+<SPEECH 41><ACT 1><SCENE 2><15%>
+	Thou shalt be heavily punished.
+<SPEECH 42><ACT 1><SCENE 2><15%>
+	Take away this villain: shut him up.
+<SPEECH 43><ACT 1><SCENE 2><16%>
+	I do affect the very ground, which is base, where her shoe, which is baser, guided by her foot, which is basest, doth tread. I shall be forsworn,—which is a great argument of falsehood,—if I love. And how can that be true love which is falsely attempted? Love is a familiar; Love is a devil: there is no evil angel but Love. Yet was Samson so tempted, and he had an excellent strength; yet was Solomon so seduced, and he had a very good wit. Cupid's butt-shaft is too hard for Hercules' club, and therefore too much odds for a Spaniard's rapier. The first and second clause will not serve my turn; the passado he respects not, the duello he regards not: his disgrace is to be called boy, but his glory is, to subdue men. Adieu, valour! rust, rapier! be still, drum! for your manager is in love; yea, he loveth. Assist me some extemporal god of rime, for I am sure I shall turn sonneter. Devise, wit; write, pen; for I am for whole volumes in folio.
+<SPEECH 44><ACT 3><SCENE 1><26%>
+	Warble, child; make passionate my sense of hearing.
+<SPEECH 45><ACT 3><SCENE 1><26%>
+	Sweet air! Go, tenderness of years; take this key, give enlargement to the swain, bring him festinately hither; I must employ him in a letter to my love.
+<SPEECH 46><ACT 3><SCENE 1><27%>
+	How meanest thou? brawling in French?
+<SPEECH 47><ACT 3><SCENE 1><27%>
+	How hast thou purchased this experience?
+<SPEECH 48><ACT 3><SCENE 1><27%>
+	But O—but O,—
+<SPEECH 49><ACT 3><SCENE 1><27%>
+	Callest thou my love 'hobby-horse?'
+<SPEECH 50><ACT 3><SCENE 1><27%>
+	Almost I had.
+<SPEECH 51><ACT 3><SCENE 1><28%>
+	By heart, and in heart, boy.
+<SPEECH 52><ACT 3><SCENE 1><28%>
+	What wilt thou prove?
+<SPEECH 53><ACT 3><SCENE 1><28%>
+	I am all these three.
+<SPEECH 54><ACT 3><SCENE 1><28%>
+	Fetch hither the swain: he must carry me a letter.
+<SPEECH 55><ACT 3><SCENE 1><28%>
+	Ha, ha! what sayest thou?
+<SPEECH 56><ACT 3><SCENE 1><28%>
+	The way is but short: away!
+<SPEECH 57><ACT 3><SCENE 1><28%>
+	Thy meaning, pretty ingenious?
+	Is not lead a metal heavy, dull, and slow?
+<SPEECH 58><ACT 3><SCENE 1><28%>
+	I say, lead is slow.
+<SPEECH 59><ACT 3><SCENE 1><28%>
+	Sweet smoke of rhetoric!
+	He reputes me a cannon; and the bullet, that's he:
+	I shoot thee at the swain.
+<SPEECH 60><ACT 3><SCENE 1><29%>
+	A most acute juvenal; volable and free of grace!
+	By thy favour, sweet welkin, I must sigh in thy face:
+	Most rude melancholy, valour gives thee place.
+	My herald is return'd.
+<SPEECH 61><ACT 3><SCENE 1><29%>
+	Some enigma, some riddle: come, thy l'envoy; begin.
+<SPEECH 62><ACT 3><SCENE 1><29%>
+	By virtue, thou enforcest laughter; thy silly thought, my spleen; the heaving of my lungs provokes me to ridiculous smiling: O! pardon me, my stars. Doth the inconsiderate take salve for l'envoy, and the word l'envoy for a salve?
+<SPEECH 63><ACT 3><SCENE 1><29%>
+	No, page: it is an epilogue or discourse, to make plain
+	Some obscure precedence that hath tofore been sain.
+	I will example it:
+	The fox, the ape, and the humble-bee
+	Were still at odds, being but three.
+	There's the moral. Now the l'envoy.
+<SPEECH 64><ACT 3><SCENE 1><29%>
+	The fox, the ape, and the humble-bee,
+	Were still at odds, being but three.
+<SPEECH 65><ACT 3><SCENE 1><30%>
+	Until the goose came out of door,
+	Staying the odds by adding four.
+<SPEECH 66><ACT 3><SCENE 1><30%>
+	Come hither, come hither. How did this argument begin?
+<SPEECH 67><ACT 3><SCENE 1><30%>
+	But tell me; how was there a costard broken in a shin?
+<SPEECH 68><ACT 3><SCENE 1><30%>
+	We will talk no more of this matter.
+<SPEECH 69><ACT 3><SCENE 1><30%>
+	Sirrah Costard, I will enfranchise thee.
+<SPEECH 70><ACT 3><SCENE 1><31%>
+	By my sweet soul, I mean setting thee at liberty, enfreedoming thy person: thou wert immured, restrained, captivated, bound.
+<SPEECH 71><ACT 3><SCENE 1><31%>
+	I give thee thy liberty, set thee from durance; and in lieu thereof, impose upon thee nothing but this:—<STAGE DIR>
+	</STAGE DIR> Bear this significant to the country maid Jaquenetta. <span class="stage>[Giving money.] There is remuneration; for the best ward of mine honour is rewarding my dependents. Moth, follow.
+<SPEECH 72><ACT 5><SCENE 1><61%>
+	</STAGE DIR> Chirrah!
+<SPEECH 73><ACT 5><SCENE 1><62%>
+	Men of peace, well encountered.
+<SPEECH 74><ACT 5><SCENE 1><62%>
+	</STAGE DIR> Monsieur, are you not lettered?
+<SPEECH 75><ACT 5><SCENE 1><62%>
+	Now, by the salt wave of the Mediterraneum, a sweet touch, a quick venew of wit! snip, snap, quick and home! it rejoiceth my intellect: true wit!
+<SPEECH 76><ACT 5><SCENE 1><63%>
+	Arts-man, præambula: we will be singled from the barbarous. Do you not educate youth at the charge-house on the top of the mountain?
+<SPEECH 77><ACT 5><SCENE 1><63%>
+	At your sweet pleasure, for the mountain.
+<SPEECH 78><ACT 5><SCENE 1><63%>
+	Sir, it is the king's most sweet pleasure and affection to congratulate the princess at her pavilion in the posteriors of this day, which the rude multitude call the afternoon.
+<SPEECH 79><ACT 5><SCENE 1><63%>
+	Sir, the king is a noble gentleman, and my familiar, I do assure ye, very good friend. For what is inward between us, let it pass: I do beseech thee, remember thy curtsy; I beseech thee, apparel thy head: and among other importunate and most serious designs, and of great import indeed, too, but let that pass: for I must tell thee, it will please his Grace, by the world, sometime to lean upon my poor shoulder, and with his royal finger, thus dally with my excrement, with my mustachio: but, sweet heart, let that pass. By the world, I recount no fable: some certain special honours it pleaseth his greatness to impart to Armado, a soldier, a man of travel, that hath seen the world: but let that pass. The very all of all is, but, sweet heart, I do implore secrecy, that the king would have me present the princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antick, or fire-work. Now, understanding that the curate and your sweet self are good at such eruptions and sudden breaking out of mirth, as it were, I have acquainted you withal, to the end to crave your assistance.
+<SPEECH 80><ACT 5><SCENE 1><65%>
+	Pardon, sir; error: he is not quantity enough for that Worthy's thumb: he is not so big as the end of his club.
+<SPEECH 81><ACT 5><SCENE 1><65%>
+	For the rest of the Worthies?—
+<SPEECH 82><ACT 5><SCENE 1><65%>
+	Shall I tell you a thing?
+<SPEECH 83><ACT 5><SCENE 1><65%>
+	We will have, if this fadge not, an antick. I beseech you, follow.
+<SPEECH 84><ACT 5><SCENE 2><86%>
+	Anointed, I implore so much expense of thy royal sweet breath as will utter a brace of words.
+<SPEECH 85><ACT 5><SCENE 2><86%>
+	That's all one, my fair, sweet, honey monarch; for, I protest, the schoolmaster is exceeding fantastical; too-too vain; too-too vain: but we will put it, as they say, to fortuna de la guerra. I wish you the peace of mind, most royal couplement!
+<SPEECH 86><ACT 5><SCENE 2><90%>
+	The armipotent Mars, of lances the almighty,
+	Gave Hector a gift,—
+<SPEECH 87><ACT 5><SCENE 2><91%>
+	Peace!
+	The armipotent Mars, of lances the almighty, Gave Hector a gift, the heir of Ilion;
+	A man so breath'd, that certain he would fight ye
+	From morn till night, out of his pavilion.
+	I am that flower,—
+<SPEECH 88><ACT 5><SCENE 2><91%>
+	Sweet Lord Longaville, rein thy tongue.
+<SPEECH 89><ACT 5><SCENE 2><91%>
+	The sweet war-man is dead and rotten; sweet chucks, beat not the bones of the buried; when he breathed, he was a man. But I will forward with my device. <STAGE DIR>
+	</STAGE DIR> Sweet royalty, bestow on me the sense of hearing.
+<SPEECH 90><ACT 5><SCENE 2><91%>
+	I do adore thy sweet Grace's slipper.
+<SPEECH 91><ACT 5><SCENE 2><91%>
+	This Hector far surmounted Hannibal,—
+<SPEECH 92><ACT 5><SCENE 2><91%>
+	What meanest thou?
+<SPEECH 93><ACT 5><SCENE 2><91%>
+	Dost thou infamonize me among potentates? Thou shalt die.
+<SPEECH 94><ACT 5><SCENE 2><92%>
+	By the north pole, I do challenge thee.
+<SPEECH 95><ACT 5><SCENE 2><92%>
+	Gentlemen and soldiers, pardon me; I will not combat in my shirt.
+<SPEECH 96><ACT 5><SCENE 2><92%>
+	Sweet bloods, I both may and will.
+<SPEECH 97><ACT 5><SCENE 2><92%>
+	The naked truth of it is, I have no shirt. I go woolward for penance.
+<SPEECH 98><ACT 5><SCENE 2><93%>
+	For my own part, I breathe free breath. I have seen the day of wrong through the little hole of discretion, and I will right myself like a soldier.
+<SPEECH 99><ACT 5><SCENE 2><98%>
+	Sweet majesty, vouchsafe me,—
+<SPEECH 100><ACT 5><SCENE 2><98%>
+	I will kiss thy royal finger, and take leave. I am a votary; I have vowed to Jaquenetta to hold the plough for her sweet love three years. But, most esteemed greatness, will you hear the dialogue that the two learned men have compiled in praise of the owl and the cuckoo? it should have followed in the end of our show.
+<SPEECH 101><ACT 5><SCENE 2><99%>
+	Holla! approach.
+	This side is Hiems, Winter; this Ver, the Spring; the one maintained by the owl, the other by the cuckoo. Ver, begin.
+	SPRING.
+	I
+	When daisies pied and violets blue
+	And lady-smocks all silver-white
+	And cuckoo-buds of yellow hue
+	Do paint the meadows with delight,
+	The cuckoo then, on every tree,
+	Mocks married men; for thus sings he,
+	Cuckoo,
+	Cuckoo, cuckoo: O, word of fear,
+	Unpleasing to a married ear!
+	II.
+	When shepherds pipe on oaten straws,
+	And merry larks are ploughmen's clocks,
+	When turtles tread, and rooks, and daws,
+	And maidens bleach their summer smocks,
+	The cuckoo then, on every tree,
+	Mocks married men; for thus sings he,
+	Cuckoo;
+	Cuckoo, cuckoo: O, word of fear,
+	Unpleasing to a married ear!
+	WINTER.
+	III.
+	When icicles hang by the wall,
+	And Dick the shepherd blows his nail,
+	And Tom bears logs into the hall,
+	And milk comes frozen home in pail,
+	When blood is nipp'd, and ways be foul,
+	Then nightly sings the staring owl,
+	Tu-who;
+	Tu-whit, tu-who—a merry note,
+	While greasy Joan doth keel the pot.
+	IV
+	When all aloud the wind doth blow,
+	And coughing drowns the parson's saw,
+	And birds sit brooding in the snow,
+	And Marian's nose looks red and raw,
+	When roasted crabs hiss in the bowl,
+	Then nightly sings the staring owl,
+	Tu-who;
+	Tu-whit, tu-who—a merry note,
+	While greasy Joan doth keel the pot.
+<SPEECH 102><ACT 5><SCENE 2><100%>
+	The words of Mercury are harsh after the songs of Apollo. You, that way: we, this way.

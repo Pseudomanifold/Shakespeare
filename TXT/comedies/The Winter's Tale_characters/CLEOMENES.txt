@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 3><SCENE 1><33%>
+	The climate's delicate, the air most sweet,
+	Fertile the isle, the temple much surpassing
+	The common praise it bears.
+<SPEECH 2><ACT 3><SCENE 1><33%>
+	But of all, the burst
+	And the ear-deafening voice o' the oracle,
+	Kin to Jove's thunder, so surpris'd my sense,
+	That I was nothing.
+<SPEECH 3><ACT 3><SCENE 1><34%>
+	Great Apollo
+	Turn all to the best! These proclamations,
+	So forcing faults upon Hermione,
+	I little like.
+<SPEECH 4><ACT 3><SCENE 2><38%>
+	All this we swear.
+<SPEECH 5><ACT 5><SCENE 1><81%>
+	Sir, you have done enough, and have perform'd
+	A saint-like sorrow: no fault could you make
+	Which you have not redeem'd; indeed, paid down
+	More penitence than done trespass. At the last,
+	Do as the heavens have done, forget your evil;
+	With them forgive yourself.
+<SPEECH 6><ACT 5><SCENE 1><82%>
+	Not at all, good lady:
+	You might have spoken a thousand things that would
+	Have done the time more benefit, and grac'd
+	Your kindness better.
+<SPEECH 7><ACT 5><SCENE 1><83%>
+	You tempt him over much.
+<SPEECH 8><ACT 5><SCENE 1><84%>
+	Good madam,—

@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 5><SCENE 2><96%>
+	Here is a rural fellow
+	That will not be denied your highness' presence:
+	He brings you figs.
+<SPEECH 2><ACT 5><SCENE 2><96%>
+	This is the man.

@@ -1,0 +1,80 @@
+<SPEECH 1><ACT 3><SCENE 5><49%>
+	Most true; the law shall bruise him.
+<SPEECH 2><ACT 3><SCENE 5><51%>
+	You breathe in vain.
+<SPEECH 3><ACT 3><SCENE 5><51%>
+	He has made too much plenty with 'em;
+	He's a sworn rioter; he has a sin that often
+	Drowns him and takes his valour prisoner;
+	If there were no foes, that were enough
+	To overcome him; in that beastly fury
+	He has been known to commit outrages
+	And cherish factions; 'tis inferr'd to us,
+	His days are foul and his drink dangerous.
+<SPEECH 4><ACT 3><SCENE 5><52%>
+	How!
+<SPEECH 5><ACT 5><SCENE 1><90%>
+	At all times alike
+	Men are not still the same: 'twas time and griefs
+	That fram'd him thus: time, with his fairer hand,
+	Offering the fortunes of his former days,
+	The former man may make him. Bring us to him,
+	And chance it as it may.
+<SPEECH 6><ACT 5><SCENE 1><91%>
+	The senators of Athens greet thee, Timon.
+<SPEECH 7><ACT 5><SCENE 1><91%>
+	They confess
+	Toward thee forgetfulness to general, gross;
+	Which now the public body, which doth seldom
+	Play the recanter, feeling in itself
+	A lack of Timon's aid, hath sense withal
+	Of its own fail, restraining aid to Timon;
+	And send forth us, to make their sorrow'd render,
+	Together with a recompense more fruitful
+	Than their offence can weigh down by the dram;
+	Ay, even such heaps and sums of love and wealth
+	As shall to thee block out what wrongs were theirs,
+	And write in thee the figures of their love,
+	Ever to read them thine.
+<SPEECH 8><ACT 5><SCENE 1><92%>
+	And shakes his threat'ning sword
+	Against the walls of Athens.
+<SPEECH 9><ACT 5><SCENE 1><93%>
+	And enter in our ears like great triumphers
+	In their applauding gates.
+<SPEECH 10><ACT 5><SCENE 1><94%>
+	I like this well; he will return again.
+<SPEECH 11><ACT 5><SCENE 1><95%>
+	Our hope in him is dead: let us return,
+	And strain what other means is left unto us
+	In our dear peril.
+<SPEECH 12><ACT 5><SCENE 2><95%>
+	We stand much hazard if they bring not Timon.
+<SPEECH 13><ACT 5><SCENE 4><97%>
+	So did we woo
+	Transformed Timon to our city's love
+	By humble message and by promis'd means:
+	We were not all unkind, nor all deserve
+	The common stroke of war.
+<SPEECH 14><ACT 5><SCENE 4><97%>
+	Nor are they living
+	Who were the motives that you first went out;
+	Shame that they wanted cunning in excess
+	Hath broke their hearts. March, noble lord,
+	Into our city with thy banners spread:
+	By decimation, and a tithed death,—
+	If thy revenges hunger for that food
+	Which nature loathes,—take thou the destin'd tenth,
+	And by the hazard of the spotted die
+	Let die the spotted.
+<SPEECH 15><ACT 5><SCENE 4><98%>
+	What thou wilt,
+	Thou rather shalt enforce it with thy smile
+	Thank hew to't with thy sword.
+<SPEECH 16><ACT 5><SCENE 4><98%>
+	Throw thy glove,
+	Or any token of thine honour else,
+	That thou wilt use the wars as thy redress
+	And not as our confusion, all thy powers
+	Shall make their harbour in our town, till we
+	Have seal'd thy full desire.

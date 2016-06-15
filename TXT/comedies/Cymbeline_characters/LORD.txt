@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 5><SCENE 3><77%>
+	Cam'st thou from where they made the stand?
+<SPEECH 2><ACT 5><SCENE 3><77%>
+	I did.
+<SPEECH 3><ACT 5><SCENE 3><77%>
+	Where was this lane?
+<SPEECH 4><ACT 5><SCENE 3><78%>
+	This was strange chance:
+	A narrow lane, an old man, and two boys!
+<SPEECH 5><ACT 5><SCENE 3><78%>
+	Nay, be not angry, sir.
+<SPEECH 6><ACT 5><SCENE 3><79%>
+	Farewell; you're angry.

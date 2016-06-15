@@ -1,0 +1,147 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+	Dear sir, forbear.
+<SPEECH 2><ACT 2><SCENE 1><30%>
+	How now, my noble friend! since I came hither,—
+	Which I can call but now,—I have heard strange news.
+<SPEECH 3><ACT 2><SCENE 1><30%>
+	Nor I, assure thee, Regan.
+	Edmund, I hear that you have shown your father
+	A child-like office.
+<SPEECH 4><ACT 2><SCENE 1><31%>
+	Is he pursu'd?
+<SPEECH 5><ACT 2><SCENE 1><31%>
+	If he be taken he shall never more
+	Be fear'd of doing harm; make your own purpose,
+	How in my strength you please. For you, Edmund,
+	Whose virtue and obedience doth this instant
+	So much commend itself, you shall be ours:
+	Natures of such deep trust we shall much need;
+	You we first seize on.
+<SPEECH 6><ACT 2><SCENE 1><31%>
+	You know not why we came to visit you,—
+<SPEECH 7><ACT 2><SCENE 2><33%>
+	Keep peace, upon your lives:
+	He dies that strikes again. What is the matter?
+<SPEECH 8><ACT 2><SCENE 2><33%>
+	What is your difference? speak.
+<SPEECH 9><ACT 2><SCENE 2><33%>
+	Thou art a strange fellow; a tailor make a man?
+<SPEECH 10><ACT 2><SCENE 2><33%>
+	Speak yet, how grew your quarrel?
+<SPEECH 11><ACT 2><SCENE 2><33%>
+	Peace, sirrah!
+	You beastly knave, know you no reverence?
+<SPEECH 12><ACT 2><SCENE 2><33%>
+	Why art thou angry?
+<SPEECH 13><ACT 2><SCENE 2><34%>
+	What! art thou mad, old fellow?
+<SPEECH 14><ACT 2><SCENE 2><34%>
+	Why dost thou call him knave? What is his fault?
+<SPEECH 15><ACT 2><SCENE 2><34%>
+	No more, perchance, does mine, nor his, nor hers.
+<SPEECH 16><ACT 2><SCENE 2><34%>
+	This is some fellow,
+	Who, having been prais'd for bluntness, doth affect
+	A saucy roughness, and constrains the garb
+	Quite from his nature: he cannot flatter, he,
+	An honest mind and plain, he must speak truth:
+	An they will take it, so; if not, he's plain.
+	These kind of knaves I know, which in this plainness
+	Harbour more craft and more corrupter ends
+	Than twenty silly-ducking observants,
+	That stretch their duties nicely.
+<SPEECH 17><ACT 2><SCENE 2><34%>
+	What mean'st by this?
+<SPEECH 18><ACT 2><SCENE 2><34%>
+	What was the offence you gave him?
+<SPEECH 19><ACT 2><SCENE 2><35%>
+	Fetch forth the stocks!
+	You stubborn ancient knave, you reverend braggart,
+	We'll teach you.
+<SPEECH 20><ACT 2><SCENE 2><35%>
+	Fetch forth the stocks! As I have life and honour,
+	There shall he sit till noon.
+<SPEECH 21><ACT 2><SCENE 2><35%>
+	This is a fellow of the self-same colour
+	Our sister speaks of. Come, bring away the stocks.
+<SPEECH 22><ACT 2><SCENE 2><36%>
+	I'll answer that.
+<SPEECH 23><ACT 2><SCENE 4><41%>
+	Hail to your Grace!
+<SPEECH 24><ACT 2><SCENE 4><42%>
+	Fie, air, fie!
+<SPEECH 25><ACT 2><SCENE 4><42%>
+	What trumpet's that?
+<SPEECH 26><ACT 2><SCENE 4><43%>
+	What means your Grace?
+<SPEECH 27><ACT 2><SCENE 4><43%>
+	I set him there, sir: but his own disorders
+	Deserv'd much less advancement.
+<SPEECH 28><ACT 2><SCENE 4><46%>
+	Let us withdraw; 'twill be a storm.
+<SPEECH 29><ACT 2><SCENE 4><46%>
+	Follow'd the old man forth. He is return'd.
+<SPEECH 30><ACT 2><SCENE 4><46%>
+	Whither is he going?
+<SPEECH 31><ACT 2><SCENE 4><46%>
+	'Tis best to give him way; he leads himself.
+<SPEECH 32><ACT 2><SCENE 4><46%>
+	Shut up your doors, my lord; 'tis a wild night:
+	My Regan counsels well: come out o' the storm.
+<SPEECH 33><ACT 3><SCENE 5><57%>
+	I will have my revenge ere I depart his house.
+<SPEECH 34><ACT 3><SCENE 5><57%>
+	I now perceive it was not altogether your brother's evil disposition made him seek his death; but a provoking merit, set a-work by a reproveable badness in himself.
+<SPEECH 35><ACT 3><SCENE 5><57%>
+	Go with me to the duchess.
+<SPEECH 36><ACT 3><SCENE 5><58%>
+	True, or false, it hath made thee Earl of Gloucester. Seek out where thy father is, that he may be ready for our apprehension.
+<SPEECH 37><ACT 3><SCENE 5><58%>
+	I will lay trust upon thee; and thou shalt find a dearer father in my love.
+<SPEECH 38><ACT 3><SCENE 7><61%>
+	Post speedily to my lord your husband; show him this letter: the army of France is landed. Seek out the traitor Gloucester.
+<SPEECH 39><ACT 3><SCENE 7><62%>
+	Leave him to my displeasure. Edmund, keep you our sister company: the revenges we are bound to take upon your traitorous father are not fit for your beholding. Advise the duke, where you are going, to a most festinate preparation: we are bound to the like. Our posts shall be swift and intelligent betwixt us. Farewell, dear sister: farewell, my Lord of Gloucester.
+	How now? Where's the king?
+<SPEECH 40><ACT 3><SCENE 7><62%>
+	Get horses for your mistress.
+<SPEECH 41><ACT 3><SCENE 7><62%>
+	Edmund, farewell.
+	Go seek the traitor Gloucester,
+	Pinion him like a thief, bring him before us.
+	Though well we may not pass upon his life
+	Without the form of justice, yet our power
+	Shall do a courtesy to our wrath, which men
+	May blame but not control. Who's there? The traitor?
+<SPEECH 42><ACT 3><SCENE 7><62%>
+	Bind fast his corky arms.
+<SPEECH 43><ACT 3><SCENE 7><62%>
+	Bind him, I say.
+<SPEECH 44><ACT 3><SCENE 7><63%>
+	To this chair bind him. Villain, thou shalt find—
+<SPEECH 45><ACT 3><SCENE 7><63%>
+	Come, sir, what letters had you late from France?
+<SPEECH 46><ACT 3><SCENE 7><63%>
+	And what confederacy have you with the traitors
+	Late footed in the kingdom?
+<SPEECH 47><ACT 3><SCENE 7><63%>
+	Cunning.
+<SPEECH 48><ACT 3><SCENE 7><63%>
+	Where hast thou sent the king?
+<SPEECH 49><ACT 3><SCENE 7><63%>
+	Wherefore to Dover? Let him answer that.
+<SPEECH 50><ACT 3><SCENE 7><64%>
+	See 't shalt thou never. Fellows, hold the chair.
+	Upon these eyes of thine I'll set my foot.
+<SPEECH 51><ACT 3><SCENE 7><64%>
+	If you see vengeance.—
+<SPEECH 52><ACT 3><SCENE 7><64%>
+	My villain!
+<SPEECH 53><ACT 3><SCENE 7><64%>
+	Lest it see more, prevent it. Out, vile jelly!
+	Where is thy lustre now?
+<SPEECH 54><ACT 3><SCENE 7><65%>
+	I have receiv'd a hurt. Follow me, lady.
+	Turn out that eyeless villain; throw this slave
+	Upon the dunghill. Regan, I bleed apace:
+	Untimely comes this hurt. Give me your arm.

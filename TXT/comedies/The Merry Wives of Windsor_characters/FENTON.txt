@@ -1,0 +1,114 @@
+<SPEECH 1><ACT 1><SCENE 4><19%>
+	</STAGE DIR> Who's within there? ho!
+<SPEECH 2><ACT 1><SCENE 4><19%>
+	How now, good woman! how dost thou?
+<SPEECH 3><ACT 1><SCENE 4><19%>
+	What news? how does pretty Mistress Anne?
+<SPEECH 4><ACT 1><SCENE 4><19%>
+	Shall I do any good, thinkest thou? Shall I not lose my suit?
+<SPEECH 5><ACT 1><SCENE 4><20%>
+	Yes, marry have I; what of that?
+<SPEECH 6><ACT 1><SCENE 4><20%>
+	Well, I shall see her to-day. Hold, there's money for thee; let me have thy voice in my behalf: if thou seest her before me, commend me.
+<SPEECH 7><ACT 1><SCENE 4><20%>
+	Well, farewell; I am in great haste now.
+<SPEECH 8><ACT 3><SCENE 4><58%>
+	I see I cannot get thy father's love;
+	Therefore no more turn me to him, sweet Nan.
+<SPEECH 9><ACT 3><SCENE 4><58%>
+	Why, thou must be thyself.
+	He doth object, I am too great of birth,
+	And that my state being gall'd with my expense,
+	I seek to heal it only by his wealth.
+	Besides these, other bars he lays before me,
+	My riots past, my wild societies;
+	And tells me 'tis a thing impossible
+	I should love thee but as a property.
+<SPEECH 10><ACT 3><SCENE 4><58%>
+	No, heaven so speed me in my time to come!
+	Albeit I will confess thy father's wealth
+	Was the first motive that I woo'd thee, Anne:
+	Yet, wooing thee, I found thee of more value
+	Than stamps in gold or sums in sealed bags;
+	And 'tis the very riches of thyself
+	That now I aim at.
+<SPEECH 11><ACT 3><SCENE 4><60%>
+	Nay, Master Page, be not impatient.
+<SPEECH 12><ACT 3><SCENE 4><61%>
+	Sir, will you hear me?
+<SPEECH 13><ACT 3><SCENE 4><61%>
+	Good Mistress Page, for that I love your daughter
+	In such a righteous fashion as I do,
+	Perforce, against all checks, rebukes and manners,
+	I must advance the colours of my love
+	And not retire: let me have your good will.
+<SPEECH 14><ACT 3><SCENE 4><61%>
+	Farewell, gentle mistress. Farewell, Nan.
+<SPEECH 15><ACT 3><SCENE 4><62%>
+	I thank thee: and I pray thee, once to-night
+	Give my sweet Nan this ring. There's for thy pains.
+<SPEECH 16><ACT 4><SCENE 6><86%>
+	Yet hear me speak. Assist me in my purpose,
+	And, as I am a gentleman, I'll give thee
+	A hundred pound in gold more than your loss.
+<SPEECH 17><ACT 4><SCENE 6><86%>
+	From time to time I have acquainted you
+	With the dear love I bear to fair Anne Page;
+	Who, mutually hath answer'd my affection,
+	So far forth as herself might be her chooser,
+	Even to my wish. I have a letter from her
+	Of such contents as you will wonder at;
+	The mirth whereof so larded with my matter,
+	That neither singly can be manifested,
+	Without the show of both; wherein fat Falstaff
+	Hath a great scare: the image of the jest
+	I'll show you here at large <STAGE DIR>
+	</STAGE DIR> Hark, good mine host:
+	To-night at Herne's oak, just 'twixt twelve and one,
+	Must my sweet Nan present the Fairy Queen;
+	The purpose why, is here: in which disguise,
+	While other jests are something rank on foot,
+	Her father hath commanded her to slip
+	Away with Slender, and with him at Eton
+	Immediately to marry: she hath consented:
+	Now, sir,
+	Her mother, even strong against that match
+	And firm for Doctor Caius, hath appointed
+	That he shall likewise shuffle her away,
+	While other sports are tasking of their minds;
+	And at the deanery, where a priest attends,
+	Straight marry her: to this her mother's plot
+	She, seemingly obedient, likewise hath
+	Made promise to the doctor. Now, thus it rests:
+	Her father means she shall be all in white,
+	And in that habit, when Slender sees his time
+	To take her by the hand and bid her go,
+	She shall go with him: her mother hath intended,
+	The better to denote her to the doctor,—
+	For they must all be mask'd and vizarded—
+	That quaint in green she shall be loose enrob'd,
+	With ribands pendent, flaring 'bout her head;
+	And when the doctor spies his vantage ripe,
+	To pinch her by the hand; and on that token
+	The maid hath given consent to go with him.
+<SPEECH 18><ACT 4><SCENE 6><87%>
+	Both, my good host, to go along with me:
+	And here it rests, that you'll procure the vicar
+	To stay for me at church 'twixt twelve and one,
+	And, in the lawful name of marrying,
+	To give our hearts united ceremony.
+<SPEECH 19><ACT 4><SCENE 6><87%>
+	So shall I evermore be bound to thee;
+	Besides, I'll make a present recompense.
+<SPEECH 20><ACT 5><SCENE 5><99%>
+	You do amaze her: hear the truth of it.
+	You would have married her most shamefully,
+	Where there was no proportion held in love.
+	The truth is, she and I, long since contracted,
+	Are now so sure that nothing can dissolve us.
+	The offence is holy that she hath committed,
+	And this deceit loses the name of craft,
+	Of disobedience, or unduteous title,
+	Since therein she doth evitate and shun
+	A thousand irreligious cursed hours,
+	Which forced marriage would have brought upon her.

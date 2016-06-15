@@ -1,0 +1,51 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	Thou villain Capulet! Hold me not; let me go.
+<SPEECH 2><ACT 1><SCENE 1><4%>
+	Who set this ancient quarrel new a-broach?
+	Speak, nephew, were you by when it began?
+<SPEECH 3><ACT 1><SCENE 1><5%>
+	Many a morning hath he there been seen,
+	With tears augmenting the fresh morning's dew,
+	Adding to clouds more clouds with his deep sighs:
+	But all so soon as the all-cheering sun
+	Should in the furthest east begin to draw
+	The shady curtains from Aurora's bed,
+	Away from light steals home my heavy son,
+	And private in his chamber pens himself,
+	Shuts up his windows, locks fair daylight out,
+	And makes himself an artificial night.
+	Black and portentous must this humour prove
+	Unless good-counsel may the cause remove.
+<SPEECH 4><ACT 1><SCENE 1><6%>
+	I neither know it nor can learn of him.
+<SPEECH 5><ACT 1><SCENE 1><6%>
+	Both by myself and many other friends:
+	But he, his own affections' counsellor,
+	Is to himself, I will not say how true,
+	But to himself so secret and so close,
+	So far from sounding and discovery,
+	As is the bud bit with an envious worm,
+	Ere he can spread his sweet leaves to the air,
+	Or dedicate his beauty to the sun.
+	Could we but learn from whence his sorrows grow,
+	We would as willingly give cure as know.
+<SPEECH 6><ACT 1><SCENE 1><6%>
+	I would thou wert so happy by thy stay,
+	To hear true shrift. Come, madam, let's away.
+<SPEECH 7><ACT 3><SCENE 1><52%>
+	Not Romeo, prince, he was Mercutio's friend,
+	His fault concludes but what the law should end,
+	The life of Tybalt.
+<SPEECH 8><ACT 5><SCENE 3><97%>
+	Alas! my liege, my wife is dead to-night;
+	Grief of my son's exile hath stopp'd her breath.
+	What further woe conspires against mine age?
+<SPEECH 9><ACT 5><SCENE 3><97%>
+	O thou untaught! what manners is in this,
+	To press before thy father to a grave?
+<SPEECH 10><ACT 5><SCENE 3><100%>
+	But I can give thee more;
+	For I will raise her statue in pure gold;
+	That while Verona by that name is known.
+	There shall no figure at such rate be set
+	As that of true and faithful Juliet.

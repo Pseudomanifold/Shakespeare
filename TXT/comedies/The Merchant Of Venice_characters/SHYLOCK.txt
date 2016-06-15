@@ -1,0 +1,364 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+	Three thousand ducats; well?
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	For three months; well?
+<SPEECH 3><ACT 1><SCENE 3><13%>
+	Antonio shall become bound; well?
+<SPEECH 4><ACT 1><SCENE 3><13%>
+	Three thousand ducats, for three months, and Antonio bound.
+<SPEECH 5><ACT 1><SCENE 3><13%>
+	Antonio is a good man.
+<SPEECH 6><ACT 1><SCENE 3><13%>
+	Ho, no, no, no, no: my meaning in saying he is a good man is to have you understand me that he is sufficient. Yet his means are in supposition: he hath an argosy bound to Tripolis, another to the Indies; I understand moreover upon the Rialto, he hath a third at Mexico, a fourth for England, and other ventures he hath, squandered abroad. But ships are but boards, sailors but men: there be land-rats and water-rats, land-thieves, and water-thieves,—I mean pirates,—and then there is the peril of waters, winds, and rocks. The man is, notwithstanding, sufficient. Three thousand ducats; I think, I may take his bond.
+<SPEECH 7><ACT 1><SCENE 3><13%>
+	I will be assured I may; and, that I may be assured, I will bethink me. May I speak with Antonio?
+<SPEECH 8><ACT 1><SCENE 3><13%>
+	Yes, to smell pork: to eat of the habitation which your prophet the Nazarite conjured the devil into. I will buy with you, sell with you, talk with you, walk with you, and so following; but I will not eat with you, drink with you, nor pray with you. What news on the Rialto? Who is he comes here?
+<SPEECH 9><ACT 1><SCENE 3><14%>
+	</STAGE DIR> How like a fawning publican he looks!
+	I hate him for he is a Christian;
+	But more for that in low simplicity
+	He lends out money gratis, and brings down
+	The rate of usance here with us in Venice.
+	If I can catch him once upon the hip,
+	I will feed fat the ancient grudge I bear him.
+	He hates our sacred nation, and he rails,
+	Even there where merchants most do congregate,
+	On me, my bargains, and my well-won thrift,
+	Which he calls interest. Cursed be my tribe,
+	If I forgive him!
+<SPEECH 10><ACT 1><SCENE 3><14%>
+	I am debating of my present store,
+	And, by the near guess of my memory,
+	I cannot instantly raise up the gross
+	Of full three thousand ducats. What of that?
+	Tubal, a wealthy Hebrew of my tribe,
+	Will furnish me. But soft! how many months
+	Do you desire? <STAGE DIR>
+	</STAGE DIR> Rest you fair, good signior;
+	Your worship was the last man in our mouths.
+<SPEECH 11><ACT 1><SCENE 3><15%>
+	Ay, ay, three thousand ducats.
+<SPEECH 12><ACT 1><SCENE 3><15%>
+	I had forgot; three months; you told me so.
+	Well then, your bond; and let me see. But hear you;
+	Methought you said you neither lend nor borrow
+	Upon advantage.
+<SPEECH 13><ACT 1><SCENE 3><15%>
+	When Jacob graz'd his uncle Laban's sheep,—
+	This Jacob from our holy Abram was,
+	As his wise mother wrought in his behalf,
+	The third possessor: ay, he was the third,—
+<SPEECH 14><ACT 1><SCENE 3><15%>
+	No; not take interest; not, as you would say,
+	Directly interest: mark what Jacob did.
+	When Laban and himself were compromis'd,
+	That all the eanlings that were streak'd and pied
+	Should fall as Jacob's hire, the ewes, being rank,
+	In end of autumn turned to the rams;
+	And, when the work of generation was
+	Between these woolly breeders in the act,
+	The skilful shepherd peel'd me certain wands,
+	And, in the doing of the deed of kind,
+	He stuck them up before the fulsome ewes,
+	Who, then conceiving, did in eaning time
+	Fall parti-colour'd lambs, and those were Jacob's.
+	This was a way to thrive, and he was blest:
+	And thrift is blessing, if men steal it not.
+<SPEECH 15><ACT 1><SCENE 3><16%>
+	I cannot tell; I make it breed as fast: But note me, signior.
+<SPEECH 16><ACT 1><SCENE 3><16%>
+	Three thousand ducats; 'tis a good round sum.
+	Three months from twelve, then let me see the rate.
+<SPEECH 17><ACT 1><SCENE 3><16%>
+	Signior Antonio, many a time and oft
+	In the Rialto you have rated me
+	About my moneys and my usances:
+	Still have I borne it with a patient shrug,
+	For sufferance is the badge of all our tribe.
+	You call me misbeliever, cut-throat dog,
+	And spet upon my Jewish gaberdine,
+	And all for use of that which is mine own.
+	Well then, it now appears you need my help:
+	Go to then; you come to me, and you say,
+	'Shylock, we would have moneys:' you say so;
+	You, that did void your rheum upon my beard,
+	And foot me as you spurn a stranger cur
+	Over your threshold: moneys is your suit.
+	What should I say to you? Should I not say,
+	'Hath a dog money? Is it possible
+	A cur can lend three thousand ducats?' or
+	Shall I bend low, and in a bondman's key,
+	With bated breath, and whispering humbleness,
+	Say this:—
+	'Fair sir, you spet on me on Wednesday last;
+	You spurn'd me such a day; another time
+	You call'd me dog; and for these courtesies
+	I'll lend you thus much moneys?'
+<SPEECH 18><ACT 1><SCENE 3><17%>
+	Why, look you, how you storm!
+	I would be friends with you, and have your love,
+	Forget the shames that you have stain'd me with,
+	Supply your present wants, and take no doit
+	Of usance for my moneys, and you'll not hear me:
+	This is kind I offer.
+<SPEECH 19><ACT 1><SCENE 3><17%>
+	This kindness will I show.
+	Go with me to a notary, seal me there
+	Your single bond; and, in a merry sport,
+	If you repay me not on such a day,
+	In such a place, such sum or sums as are
+	Express'd in the condition, let the forfeit
+	Be nominated for an equal pound
+	Of your fair flesh, to be cut off and taken
+	In what part of your body pleaseth me.
+<SPEECH 20><ACT 1><SCENE 3><18%>
+	O father Abram! what these Christians are,
+	Whose own hard dealing teaches them suspect
+	The thoughts of others. Pray you, tell me this;
+	If he should break his day, what should I gain
+	By the exaction of the forfeiture?
+	A pound of man's flesh, taken from a man,
+	Is not so estimable, profitable neither,
+	As flesh of muttons, beefs, or goats. I say,
+	To buy his favour, I extend this friendship:
+	If he will take it, so; if not, adieu;
+	And, for my love, I pray you wrong me not.
+<SPEECH 21><ACT 1><SCENE 3><18%>
+	Then meet me forthwith at the notary's;
+	Give him direction for this merry bond,
+	And I will go and purse the ducats straight,
+	See to my house, left in the fearful guard
+	Of an unthrifty knave, and presently
+	I will be with you.
+<SPEECH 22><ACT 2><SCENE 5><31%>
+	Well, thou shalt see, thy eyes shall be thy judge,
+	The difference of old Shylock and Bassanio:—
+	What, Jessical—thou shalt not gormandize,
+	As thou hast done with me;—What, Jessical—
+	And sleep and snore, and rend apparel out—
+	Why, Jessica, I say!
+<SPEECH 23><ACT 2><SCENE 5><32%>
+	Who bids thee call? I do not bid thee call.
+<SPEECH 24><ACT 2><SCENE 5><32%>
+	I am bid forth to supper, Jessica:
+	There are my keys. But wherefore should I go?
+	I am not bid for love; they flatter me:
+	But yet I'll go in hate, to feed upon
+	The prodigal Christian. Jessica, my girl,
+	Look to my house. I am right loath to go:
+	There is some ill a-brewing towards my rest,
+	For I did dream of money-bags to-night.
+<SPEECH 25><ACT 2><SCENE 5><32%>
+	So do I his.
+<SPEECH 26><ACT 2><SCENE 5><32%>
+	What! are there masques? Hear you me, Jessica:
+	Lock up my doors; and when you hear the drum,
+	And the vile squealing of the wry-neck'd fife,
+	Clamber not you up to the casements then,
+	Nor thrust your head into the public street
+	To gaze on Christian fools with varnish'd faces,
+	But stop my house's ears, I mean my casements;
+	Let not the sound of shallow foppery enter
+	My sober house. By Jacob's staff I swear
+	I have no mind of feasting forth to-night;
+	But I will go. Go you before me, sirrah;
+	Say I will come.
+<SPEECH 27><ACT 2><SCENE 5><33%>
+	What says that fool of Hagar's offspring, ha?
+<SPEECH 28><ACT 2><SCENE 5><33%>
+	The patch is kind enough, but a huge feeder;
+	Snail-slow in profit, and he sleeps by day
+	More than the wild cat: drones hive not with me;
+	Therefore I part with him, and part with him
+	To one that I would have him help to waste
+	His borrow'd purse. Well, Jessica, go in:
+	Perhaps I will return immediately:
+	Do as I bid you; shut doors after you:
+	'Fast bind, fast find,'
+	A proverb never stale in thrifty mind.
+<SPEECH 29><ACT 3><SCENE 1><46%>
+	You knew, none so well, none so well as you, of my daughter's flight.
+<SPEECH 30><ACT 3><SCENE 1><46%>
+	She is damned for it.
+<SPEECH 31><ACT 3><SCENE 1><47%>
+	My own flesh and blood to rebel!
+<SPEECH 32><ACT 3><SCENE 1><47%>
+	I say my daughter is my flesh and blood.
+<SPEECH 33><ACT 3><SCENE 1><47%>
+	There I have another bad match: a bankrupt, a prodigal, who dare scarce show his head on the Rialto; a beggar, that used to come so smug upon the mart; let him look to his bond: he was wont to call me usurer; let him look to his bond: he was wont to lend money for a Christian courtesy; let him look to his bond.
+<SPEECH 34><ACT 3><SCENE 1><47%>
+	To bait fish withal: if it will feed nothing else, it will feed my revenge. He hath disgraced me, and hindered me half a million, laughed at my losses, mocked at my gains, scorned my nation, thwarted my bargains, cooled my friends, heated mine enemies; and what's his reason? I am a Jew. Hath not a Jew eyes? hath not a Jew hands, organs, dimensions, senses, affections, passions? fed with the same food, hurt with the same weapons, subject to the same diseases, healed by the same means, warmed and cooled by the same winter and summer, as a Christian is? If you prick us, do we not bleed? if you tickle us, do we not laugh? if you poison us, do we not die? and if you wrong us, shall we not revenge? If we are like you in the rest, we will resemble you in that. If a Jew wrong a Christian, what is his humility? Revenge. If a Christian wrong a Jew, what should his sufferance be by Christian example? Why, revenge. The villany you teach me I will execute, and it shall go hard but I will better the instruction.
+<SPEECH 35><ACT 3><SCENE 1><48%>
+	How now, Tubal! what news from Genoa? Hast thou found my daughter?
+<SPEECH 36><ACT 3><SCENE 1><48%>
+	Why there, there, there! a diamond gone, cost me two thousand ducats in Frankfort! The curse never fell upon our nation till now; I never felt it till now: two thousand ducats in that; and other precious, precious jewels. I would my daughter were dead at my foot, and the jewels in her ear! would she were hearsed at my foot, and the ducats in her coffin! No news of them? Why, so: and I know not what's spent in the search: Why thou—loss upon loss! the thief gone with so much, and so much to find the thief; and no satisfaction, no revenge: nor no ill luck stirring but what lights on my shoulders; no sighs but of my breathing; no tears but of my shedding.
+<SPEECH 37><ACT 3><SCENE 1><49%>
+	What, what, what? ill luck, ill luck?
+<SPEECH 38><ACT 3><SCENE 1><49%>
+	I thank God! I thank God! Is it true? is it true?
+<SPEECH 39><ACT 3><SCENE 1><49%>
+	I thank thee, good Tubal. Good news, good news! ha, ha! Where? in Genoa?
+<SPEECH 40><ACT 3><SCENE 1><49%>
+	Thou stick'st a dagger in me: I shall never see my gold again: fourscore ducats at a sitting! fourscore ducats!
+<SPEECH 41><ACT 3><SCENE 1><50%>
+	I am very glad of it: I'll plague him; I'll torture him: I am glad of it.
+<SPEECH 42><ACT 3><SCENE 1><50%>
+	Out upon her! Thou torturest me, Tubal: it was my turquoise; I had it of Leah when I was a bachelor: I would not have given it for a wilderness of monkeys.
+<SPEECH 43><ACT 3><SCENE 1><50%>
+	Nay, that's true, that's very true. Go, Tubal, fee me an officer; bespeak him a fortnight before. I will have the heart of him, if he forfeit; for, were he out of Venice, I can make what merchandise I will. Go, go, Tubal, and meet me at our synagogue; go, good Tubal; at our synagogue, Tubal.
+<SPEECH 44><ACT 3><SCENE 3><62%>
+	Gaoler, look to him: tell not me of mercy;
+	This is the fool that lent out money gratis:
+	Gaoler, look to him.
+<SPEECH 45><ACT 3><SCENE 3><62%>
+	I'll have my bond; speak not against my bond:
+	I have sworn an oath that I will have my bond.
+	Thou call'dst me dog before thou hadst a cause,
+	But, since I am a dog, beware my fangs:
+	The duke shall grant me justice. I do wonder,
+	Thou naughty gaoler, that thou art so fond
+	To come abroad with him at his request.
+<SPEECH 46><ACT 3><SCENE 3><62%>
+	I'll have my bond; I will not hear thee speak:
+	I'll have my bond, and therefore speak no more.
+	I'll not be made a soft and dull-eyed fool,
+	To shake the head, relent, and sigh, and yield
+	To Christian intercessors. Follow not;
+	I'll have no speaking; I will have my bond.
+<SPEECH 47><ACT 4><SCENE 1><71%>
+	I have possess'd your Grace of what I purpose;
+	And by our holy Sabbath have I sworn
+	To have the due and forfeit of my bond:
+	If you deny it, let the danger light
+	Upon your charter and your city's freedom.
+	You'll ask me, why I rather choose to have
+	A weight of carrion flesh than to receive
+	Three thousand ducats: I'll not answer that:
+	But say it is my humour: is it answer'd?
+	What if my house be troubled with a rat,
+	And I be pleas'd to give ten thousand ducats
+	To have it ban'd? What, are you answer'd yet?
+	Some men there are love not a gaping pig;
+	Some, that are mad if they behold a cat;
+	And others, when the bagpipe sings i' the nose,
+	Cannot contain their urine: for affection,
+	Mistress of passion, sways it to the mood
+	Of what it likes, or loathes. Now, for your answer:
+	As there is no firm reason to be render'd,
+	Why he cannot abide a gaping pig;
+	Why he, a harmless necessary cat;
+	Why he, a wauling bagpipe; but of force
+	Must yield to such inevitable shame
+	As to offend, himself being offended;
+	So can I give no reason, nor I will not,
+	More than a lodg'd hate and a certain loathing
+	I bear Antonio, that I follow thus
+	A losing suit against him. Are you answer'd?
+<SPEECH 48><ACT 4><SCENE 1><72%>
+	I am not bound to please thee with my answer.
+<SPEECH 49><ACT 4><SCENE 1><72%>
+	Hates any man the thing he would not kill?
+<SPEECH 50><ACT 4><SCENE 1><73%>
+	What! wouldst thou have a serpent sting thee twice?
+<SPEECH 51><ACT 4><SCENE 1><73%>
+	If every ducat in six thousand ducats
+	Were in six parts and every part a ducat,
+	I would not draw them; I would have my bond.
+<SPEECH 52><ACT 4><SCENE 1><73%>
+	What judgment shall I dread, doing no wrong?
+	You have among you many a purchas'd slave,
+	Which, like your asses and your dogs and mules,
+	You use in abject and in slavish parts,
+	Because you bought them: shall I say to you,
+	Let them be free, marry them to your heirs?
+	Why sweat they under burdens? let their beds
+	Be made as soft as yours, and let their palates
+	Be season'd with such viands? You will answer:
+	'The slaves are ours:' so do I answer you:
+	The pound of flesh which I demand of him,
+	Is dearly bought; 'tis mine and I will have it.
+	If you deny me, fie upon your law!
+	There is no force in the decrees of Venice.
+	I stand for judgment: answer; shall I have it?
+<SPEECH 53><ACT 4><SCENE 1><75%>
+	To cut the forfeiture from that bankrupt there.
+<SPEECH 54><ACT 4><SCENE 1><75%>
+	No, none that thou hast wit enough to make.
+<SPEECH 55><ACT 4><SCENE 1><75%>
+	Till thou canst rail the seal from off my bond,
+	Thou but offend'st thy lungs to speak so loud:
+	Repair thy wit, good youth, or it will fall
+	To cureless ruin. I stand here for law.
+<SPEECH 56><ACT 4><SCENE 1><77%>
+	Shylock is my name.
+<SPEECH 57><ACT 4><SCENE 1><77%>
+	On what compulsion must I? tell me that.
+<SPEECH 58><ACT 4><SCENE 1><78%>
+	My deeds upon my head! I crave the law,
+	The penalty and forfeit of my bond.
+<SPEECH 59><ACT 4><SCENE 1><78%>
+	A Daniel come to judgment! yea, a Daniel!
+	O wise young judge, how I do honour thee!
+<SPEECH 60><ACT 4><SCENE 1><79%>
+	Here 'tis, most reverend doctor; here it is.
+<SPEECH 61><ACT 4><SCENE 1><79%>
+	An oath, an oath, I have an oath in heaven:
+	Shall I lay perjury upon my soul?
+	No, not for Venice.
+<SPEECH 62><ACT 4><SCENE 1><79%>
+	When it is paid according to the tenour.
+	It doth appear you are a worthy judge;
+	You know the law, your exposition
+	Hath been most sound: I charge you by the law,
+	Whereof you are a well-deserving pillar,
+	Proceed to judgment: by my soul I swear
+	There is no power in the tongue of man
+	To alter me. I stay here on my bond.
+<SPEECH 63><ACT 4><SCENE 1><79%>
+	O noble judge! O excellent young man!
+<SPEECH 64><ACT 4><SCENE 1><79%>
+	'Tis very true! O wise and upright judge!
+	How much more elder art thou than thy looks!
+<SPEECH 65><ACT 4><SCENE 1><80%>
+	Ay, 'his breast:'
+	So says the bond:—doth it not, noble judge?—
+	'Nearest his heart:' those are the very words.
+<SPEECH 66><ACT 4><SCENE 1><80%>
+	I have them ready.
+<SPEECH 67><ACT 4><SCENE 1><80%>
+	Is it so nominated in the bond?
+<SPEECH 68><ACT 4><SCENE 1><80%>
+	I cannot find it: 'tis not in the bond.
+<SPEECH 69><ACT 4><SCENE 1><81%>
+	These be the Christian husbands! I have a daughter;
+	Would any of the stock of Barabbas
+	Had been her husband rather than a Christian!
+	We trifle time; I pray thee, pursue sentence.
+<SPEECH 70><ACT 4><SCENE 1><81%>
+	Most rightful judge!
+<SPEECH 71><ACT 4><SCENE 1><81%>
+	Most learned judge! A sentence! come, prepare!
+<SPEECH 72><ACT 4><SCENE 1><82%>
+	Is that the law?
+<SPEECH 73><ACT 4><SCENE 1><82%>
+	I take this offer then: pay the bond thrice,
+	And let the Christian go.
+<SPEECH 74><ACT 4><SCENE 1><83%>
+	Give me my principal, and let me go.
+<SPEECH 75><ACT 4><SCENE 1><83%>
+	Shall I not have barely my principal?
+<SPEECH 76><ACT 4><SCENE 1><83%>
+	Why, then the devil give him good of it!
+	I'll stay no longer question.
+<SPEECH 77><ACT 4><SCENE 1><84%>
+	Nay, take my life and all; pardon not that:
+	You take my house when you do take the prop
+	That doth sustain my house; you take my life
+	When you do take the means whereby I live.
+<SPEECH 78><ACT 4><SCENE 1><85%>
+	I am content.
+<SPEECH 79><ACT 4><SCENE 1><85%>
+	I pray you give me leave to go from hence:
+	I am not well. Send the deed after me,
+	And I will sign it.

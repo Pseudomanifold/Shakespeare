@@ -1,0 +1,197 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	The dozen white louses do become an old coat well; it agrees well, passant; it is a familiar beast to man, and signifies love.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	It is marring indeed, if he quarter it.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Yes, py'r lady; if he has a quarter of your coat, there is but three skirts for yourself, in my simple conjectures: but that is all one. If Sir John Falstaff have committed disparagements unto you, I am of the Church, and will be glad to do my benevolence to make atonements and compremises between you.
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	It is not meet the Council hear a riot; there is no fear of Got in a riot. The Council, look you, shall desire to hear the fear of Got, and not to hear a riot; take your vizaments in that.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	It is petter that friends is the sword, and end it; and there is also another device in my prain, which, peradventure, prings goot discretions with it. There is Anne Page, which is daughter to Master Thomas Page, which is pretty virginity.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	It is that fery person for all the orld, as just as you will desire; and seven hundred pounds of moneys, and gold and silver, is her grandsire, upon his death's-bed,—Got deliver to a joyful resurrections!—give, when she is able to overtake seventeen years old. It were a goot motion if we leave our pribbles and prabbles, and desire a marriage between Master Abraham and Mistress Anne Page.
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	Ay, and her father is make her a petter penny.
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	Seven hundred pounds and possibilities is goot gifts.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	Shall I tell you a lie? I do despise a har as I do despise one that is false; or as I despise one that is not true. The knight, Sir John, is there; and, I beseech you, be ruled by your well-willers. I will peat the door for Master Page. <STAGE DIR>
+	</STAGE DIR> What, hoa! Got pless your house here!
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	Here is Got's plessing, and your friend. and Justice Shallow; and here young Master Slender, that peradventures shall tell you another tale, if matters grow to your likings.
+<SPEECH 11><ACT 1><SCENE 1><4%>
+	It is spoke as a Christians ought to speak.
+<SPEECH 12><ACT 1><SCENE 1><4%>
+	Pauca verba, Sir John; goot worts.
+<SPEECH 13><ACT 1><SCENE 1><5%>
+	Peace, I pray you. Now let us understand: there is three umpires in this matter, as I understand; that is—Master Page, fidelicet, Master Page; and there is myself, fidelicet, myself; and the three party is, lastly and finally, mine host of the Garter.
+<SPEECH 14><ACT 1><SCENE 1><5%>
+	Fery goot: I will make a prief of it in my note-book; and we will afterwards ork upon the cause with as great discreetly as we can.
+<SPEECH 15><ACT 1><SCENE 1><5%>
+	The tevil and his tam! what phrase is this, 'He hears with ear?' Why, it is affectations.
+<SPEECH 16><ACT 1><SCENE 1><5%>
+	No; it is false, if it is a pick-purse.
+<SPEECH 17><ACT 1><SCENE 1><6%>
+	It is his 'five senses;' fie, what the ignorance is!
+<SPEECH 18><ACT 1><SCENE 1><6%>
+	So Got udge me, that is a virtuous mind.
+<SPEECH 19><ACT 1><SCENE 1><7%>
+	Give ear to his motions, Master Slender: I will description the matter to you, if you pe capacity of it.
+<SPEECH 20><ACT 1><SCENE 1><7%>
+	But that is not the question; the question is concerning your marriage.
+<SPEECH 21><ACT 1><SCENE 1><8%>
+	Marry, is it, the very point of it; to Mistress Anne Page.
+<SPEECH 22><ACT 1><SCENE 1><8%>
+	But can you affection the 'oman? Let us command to know that of your mouth or of your lips; for divers philosophers hold that the lips is parcel of the mouth: therefore, precisely, can you carry your good will to the maid?
+<SPEECH 23><ACT 1><SCENE 1><8%>
+	Nay, Got's lords and his ladies! you must speak possitable, if you can carry her your desires towards her.
+<SPEECH 24><ACT 1><SCENE 1><8%>
+	It is a fery discretion answer; save, the faul is in the ort 'dissolutely:' the ort is, according to our meaning, 'resolutely.' His meaning is goot.
+<SPEECH 25><ACT 1><SCENE 1><9%>
+	Od's plessed will! I will not be absence at the grace.
+<SPEECH 26><ACT 1><SCENE 2><11%>
+	Go your ways, and ask of Doctor Caius' house, which is the way: and there dwells one Mistress Quickly, which is in the manner of his nurse, or his try nurse, or his cook, or his laundry, his washer, and his wringer.
+<SPEECH 27><ACT 1><SCENE 2><11%>
+	Nay, it is petter yet. Give her this letter; for it is a 'oman that altogether's acquaintance with Mistress Anne Page: and the letter is, to desire and require her to solicit your master's desires to Mistress Anne Page. I pray you, be gone: I will make an end of my dinner; there's pippins and seese to come.
+<SPEECH 28><ACT 3><SCENE 1><42%>
+	I pray you now, good Master Slender's serving-man, and friend Simple by your name, which way have you looked for Master Caius, that calls himself doctor of physic?
+<SPEECH 29><ACT 3><SCENE 1><42%>
+	I most fehemently desire you you will also look that way.
+<SPEECH 30><ACT 3><SCENE 1><43%>
+	Pless my soul! how full of chollors I am, and trempling of mind! I shall be glad if he have deceived me. How melancholies I am! I will knog his urinals about his knave's costard when I have goot opportunities for the 'ork: pless my soul!
+	To shallow rivers, to whose falls
+	Melodious birds sing madrigals;
+	There will we make our peds of roses,
+	And a thousand fragrant pasies.
+	To shallow—
+	Mercy on me! I have a great dispositions to cry.
+	Melodious birds sing madrigals,—
+	When as I sat in Pabylon,—
+	And a thousand vagram posies.
+	To shallow,—
+<SPEECH 31><ACT 3><SCENE 1><43%>
+	He's welcome.
+	To shallow rivers, to whose falls—
+	Heaven prosper the right!—what weapons is he?
+<SPEECH 32><ACT 3><SCENE 1><43%>
+	Pray you, give me my gown; or else keep it in your arms.
+<SPEECH 33><ACT 3><SCENE 1><44%>
+	Pless you from His mercy sake, all of you!
+<SPEECH 34><ACT 3><SCENE 1><44%>
+	There is reasons and causes for it.
+<SPEECH 35><ACT 3><SCENE 1><44%>
+	Fery well: what is it?
+<SPEECH 36><ACT 3><SCENE 1><44%>
+	What is he?
+<SPEECH 37><ACT 3><SCENE 1><44%>
+	Got's will, and his passion of my heart! I had as lief you would tell me of a mess of porridge.
+<SPEECH 38><ACT 3><SCENE 1><44%>
+	He has no more knowledge in Hibbocrates and Galen,—and he is a knave besides; a cowardly knave as you would desires to be acquainted withal.
+<SPEECH 39><ACT 3><SCENE 1><45%>
+	</STAGE DIR> Pray you, use your patience: in good time.
+<SPEECH 40><ACT 3><SCENE 1><45%>
+	</STAGE DIR> Pray you, let us not be laughing-stogs to other men's humours; I desire you in friendship, and I will one way or other make you amends: <span class="stage>[Aloud.] I will knog your urinals about your knave's cogscomb for missing your meetings and appointments.
+<SPEECH 41><ACT 3><SCENE 1><45%>
+	As I am a Christians soul, now, look you, this is the place appointed: I'll be judgment by mine host of the Garter.
+<SPEECH 42><ACT 3><SCENE 1><46%>
+	This is well; he has made us his vlouting-stog. I desire you that we may be friends and let us knog our prains together to be revenge on this same scall, scurvy, cogging companion, the host of the Garter.
+<SPEECH 43><ACT 3><SCENE 1><46%>
+	Well, I will smite his noddles. Pray you, follow.
+<SPEECH 44><ACT 3><SCENE 3><56%>
+	This is fery fantastical humours and jealousies.
+<SPEECH 45><ACT 3><SCENE 3><57%>
+	If there pe any pody in the house, and in the chambers, and in the coffers, and in the presses, heaven forgive my sins at the day of judgment!
+<SPEECH 46><ACT 3><SCENE 3><57%>
+	You suffer for a pad conscience: your wife is as honest a 'omans as I will desires among five thousand, and five hundred too.
+<SPEECH 47><ACT 3><SCENE 3><58%>
+	If there is one, I shall make two in the company.
+<SPEECH 48><ACT 3><SCENE 3><58%>
+	I pray you now, remembrance to-morrow on the lousy knave, mine host.
+<SPEECH 49><ACT 3><SCENE 3><58%>
+	A lousy knave! to have his gibes and his mockeries!
+<SPEECH 50><ACT 4><SCENE 1><68%>
+	No; Master Slender is get the boys leave to play.
+<SPEECH 51><ACT 4><SCENE 1><68%>
+	Come hither, William; hold up your head; come.
+<SPEECH 52><ACT 4><SCENE 1><68%>
+	William, how many numbers is in nouns?
+<SPEECH 53><ACT 4><SCENE 1><68%>
+	Peace your tattlings! What is fair, William?
+<SPEECH 54><ACT 4><SCENE 1><68%>
+	You are a very simplicity 'oman: I pray you peace. What is lapis, William?
+<SPEECH 55><ACT 4><SCENE 1><68%>
+	And what is a stone, William?
+<SPEECH 56><ACT 4><SCENE 1><68%>
+	No, it is lapis: I pray you remember in your prain.
+<SPEECH 57><ACT 4><SCENE 1><68%>
+	That is a good William. What is he, William, that does lend articles?
+<SPEECH 58><ACT 4><SCENE 1><68%>
+	Nominativo, hig, hag, hog; pray you, mark: genitivo, hujus. Well, what is your accusative case?
+<SPEECH 59><ACT 4><SCENE 1><69%>
+	I pray you, have your remembrance, child; accusativo, hung, hang, hog.
+<SPEECH 60><ACT 4><SCENE 1><69%>
+	Leave your prabbles, 'oman. What is the focative case, William?
+<SPEECH 61><ACT 4><SCENE 1><69%>
+	Remember, William; focative is caret.
+<SPEECH 62><ACT 4><SCENE 1><69%>
+	'Oman, forbear.
+<SPEECH 63><ACT 4><SCENE 1><69%>
+	What is your genitive case plural, William?
+<SPEECH 64><ACT 4><SCENE 1><69%>
+	Ay.
+<SPEECH 65><ACT 4><SCENE 1><69%>
+	For shame, 'oman!
+<SPEECH 66><ACT 4><SCENE 1><69%>
+	'Oman, art thou lunatics? hast thou no understandings for thy cases and the numbers and the genders? Thou art as foolish Christian creatures as I would desires.
+<SPEECH 67><ACT 4><SCENE 1><69%>
+	Show me now, William, some declensions of your pronouns.
+<SPEECH 68><ACT 4><SCENE 1><69%>
+	It is qui, quæ, quod; if you forget your quis, your quæs, and your quods, you must be preeches. Go your ways and play; go.
+<SPEECH 69><ACT 4><SCENE 1><69%>
+	He is a good sprag memory. Farewell, Mistress Page.
+<SPEECH 70><ACT 4><SCENE 2><74%>
+	Why, this is lunatics! this is mad as a mad dog!
+<SPEECH 71><ACT 4><SCENE 2><75%>
+	'Tis unreasonable. Will you take up your wife's clothes? Come away.
+<SPEECH 72><ACT 4><SCENE 2><75%>
+	Master Ford, you must pray, and not follow the imaginations of your own heart: this is jealousies.
+<SPEECH 73><ACT 4><SCENE 2><76%>
+	By yea and no, I think the 'oman is a witch indeed: I like not when a 'oman has a great peard; I spy a great peard under her muffler.
+<SPEECH 74><ACT 4><SCENE 4><78%>
+	'Tis one of the pest discretions of a 'oman as ever I did look upon.
+<SPEECH 75><ACT 4><SCENE 4><79%>
+	You say he has been thrown into the rivers, and has been grievously peaten as an old 'oman: methinks there should be terrors in him that he should not come; methinks his flesh is punished, he shall have no desires.
+<SPEECH 76><ACT 4><SCENE 4><80%>
+	I will teach the children their behaviours; and I will be like a jack-an-apes also, to burn the knight with my taber.
+<SPEECH 77><ACT 4><SCENE 4><81%>
+	Let us about it: it is admirable pleasures and fery honest knaveries.
+<SPEECH 78><ACT 4><SCENE 5><84%>
+	Where is mine host?
+<SPEECH 79><ACT 4><SCENE 5><84%>
+	Have a care of your entertainments: there is a friend of mine come to town, tells me, there is three cozen-germans that has cozened all the hosts of Readins, of Maidenhead, of Colebrook, of horses and money. I tell you for good will, look you: you are wise and full of gibes and vlouting-stogs, and 'tis not convenient you should be cozened. Fare you well.
+<SPEECH 80><ACT 5><SCENE 4><90%>
+	Trib, trib, fairies: come; and remember your parts. Be pold, I pray you; follow me into the pit, and when I give the watch-ords, do as I pid you. Come, come; trib, trib.
+<SPEECH 81><ACT 5><SCENE 5><93%>
+	Where's Bede? Go you, and where you find a maid
+	That, ere she sleep, has thrice her prayers said,
+	Rein up the organs of her fantasy,
+	Sleep she as sound as careless infancy;
+	But those that sleep and think not on their sins,
+	Pinch them, arms, legs, backs, shoulders, sides, and shins.
+<SPEECH 82><ACT 5><SCENE 5><94%>
+	Pray you, lock hand in hand; yourselves in order set;
+	And twenty glow-worms shall our lanthorns be,
+	To guide our measure round about the tree.
+	But, stay; I smell a man of middle-earth.
+<SPEECH 83><ACT 5><SCENE 5><94%>
+	Come, will this wood take fire?
+<SPEECH 84><ACT 5><SCENE 5><96%>
+	Sir John Falstaff, serve Got, and leave your desires, and fairies will not pinse you.
+<SPEECH 85><ACT 5><SCENE 5><96%>
+	And leave you your jealousies too, I pray you.
+<SPEECH 86><ACT 5><SCENE 5><96%>
+	Seese is not goot to give putter: your pelly is all putter.
+<SPEECH 87><ACT 5><SCENE 5><97%>
+	And given to fornications, and to taverns, and sack and wine and metheglins, and to drinkings and swearings and starings, pribbles and prabbles?
+<SPEECH 88><ACT 5><SCENE 5><98%>
+	Jeshu! Master Slender, cannot you see put marry poys?

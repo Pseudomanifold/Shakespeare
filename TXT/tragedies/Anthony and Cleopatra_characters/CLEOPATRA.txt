@@ -1,0 +1,885 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	If it be love indeed, tell me how much.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	I'll set a bourn how far to be belov'd.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	Nay, hear them, Antony:
+	Fulvia, perchance, is angry; or, who knows
+	If the scarce-bearded Cæsar have not sent
+	His powerful mandate to you, 'Do this, or this;
+	Take in that kingdom, and enfranchise that;
+	Perform 't, or else we damn thee.'
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	Perchance! nay, and most like;
+	You must not stay here longer; your dismission
+	Is come from Cæsar; therefore hear it, Antony.
+	Where's Fulvia's process? Cæsar's I would say? both?
+	Call in the messengers. As I am Egypt's queen,
+	Thou blushest, Antony, and that blood of thine
+	Is Cæsar's homager; else so thy cheek pays shame
+	When shrill-tongu'd Fulvia scolds. The messengers!
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	Excellent falsehood!
+	Why did he marry Fulvia and not love her?
+	I'll seem the fool I am not; Antony
+	Will be himself.
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	Hear the ambassadors.
+<SPEECH 7><ACT 1><SCENE 2><5%>
+	Saw you my lord?
+<SPEECH 8><ACT 1><SCENE 2><5%>
+	Was he not here?
+<SPEECH 9><ACT 1><SCENE 2><5%>
+	He was dispos'd to mirth; but on the sudden
+	A Roman thought hath struck him. Enobarbus!
+<SPEECH 10><ACT 1><SCENE 2><5%>
+	Seek him, and bring him hither. Where's Alexas?
+<SPEECH 11><ACT 1><SCENE 2><5%>
+	We will not look upon him; go with us.
+<SPEECH 12><ACT 1><SCENE 3><8%>
+	Where is he?
+<SPEECH 13><ACT 1><SCENE 3><8%>
+	See where he is, who's with him, what he does;
+	I did not send you: if you find him sad,
+	Say I am dancing; if in mirth, report
+	That I am sudden sick: quick, and return.
+<SPEECH 14><ACT 1><SCENE 3><9%>
+	What should I do I do not?
+<SPEECH 15><ACT 1><SCENE 3><9%>
+	Thou teachest like a fool; the way to lose him.
+<SPEECH 16><ACT 1><SCENE 3><9%>
+	I am sick and sullen.
+<SPEECH 17><ACT 1><SCENE 3><9%>
+	Help me away, dear Charmian, I shall fall:
+	It cannot be thus long, the sides of nature
+	Will not sustain it.
+<SPEECH 18><ACT 1><SCENE 3><9%>
+	Pray you, stand further from me.
+<SPEECH 19><ACT 1><SCENE 3><9%>
+	I know, by that same eye, there's some good news.
+	What says the married woman? You may go:
+	Would she had never given you leave to come!
+	Let her not say 'tis I that keep you here;
+	I have no power upon you; hers you are.
+<SPEECH 20><ACT 1><SCENE 3><9%>
+	O! never was there queen
+	So mightily betray'd; yet at the first
+	I saw the treasons planted.
+<SPEECH 21><ACT 1><SCENE 3><9%>
+	Why should I think you can be mine and true,
+	Though you in swearing shake the throned gods,
+	Who have been false to Fulvia? Riotous madness,
+	To be entangled with those mouth-made vows,
+	Which break themselves in swearing!
+<SPEECH 22><ACT 1><SCENE 3><9%>
+	Nay, pray you, seek no colour for your going,
+	But bid farewell, and go: when you su'd staying
+	Then was the time for words; no going then:
+	Eternity was in our lips and eyes,
+	Bliss in our brows bent; none our parts so poor
+	But was a race of heaven; they are so still,
+	Or thou, the greatest soldier of the world,
+	Art turn'd the greatest liar.
+<SPEECH 23><ACT 1><SCENE 3><10%>
+	I would I had thy inches; thou shouldst know
+	There were a heart in Egypt.
+<SPEECH 24><ACT 1><SCENE 3><10%>
+	Though age from folly could not give me freedom,
+	It does from childishness: can Fulvia die?
+<SPEECH 25><ACT 1><SCENE 3><10%>
+	O most false love!
+	Where be the sacred vials thou shouldst fill
+	With sorrowful water? Now I see, I see,
+	In Fulvia's death, how mine receiv'd shall be.
+<SPEECH 26><ACT 1><SCENE 3><11%>
+	Cut my lace, Charmian, come;
+	But let it be: I am quickly ill, and well;
+	So Antony loves.
+<SPEECH 27><ACT 1><SCENE 3><11%>
+	So Fulvia told me.
+	I prithee, turn aside and weep for her;
+	Then bid adieu to me, and say the tears
+	Belong to Egypt: good now, play one scene
+	Of excellent dissembling, and let it look
+	Like perfect honour.
+<SPEECH 28><ACT 1><SCENE 3><11%>
+	You can do better yet, but this is meetly.
+<SPEECH 29><ACT 1><SCENE 3><11%>
+	And target. Still he mends;
+	But this is not the best. Look, prithee, Charmian,
+	How this Herculean Roman does become
+	The carriage of his chafe.
+<SPEECH 30><ACT 1><SCENE 3><11%>
+	Courteous lord, one word.
+	Sir, you and I must part, but that 's not it:
+	Sir, you and I have lov'd, but there 's not it;
+	That you know well: something it is I would,—
+	O! my oblivion is a very Antony,
+	And I am all forgotten.
+<SPEECH 31><ACT 1><SCENE 3><11%>
+	'Tis sweating labour
+	To bear such idleness so near the heart
+	As Cleopatra this. But, sir, forgive me;
+	Since my becomings kill me when they do not
+	Eye well to you: your honour calls you hence;
+	Therefore be deaf to my unpitied folly,
+	And all the gods go with you! Upon your sword
+	Sit laurel victory! and smooth success
+	Be strew'd before your feet!
+<SPEECH 32><ACT 1><SCENE 5><14%>
+	Charmian!
+<SPEECH 33><ACT 1><SCENE 5><14%>
+	Ha, ha!
+	Give me to drink mandragora.
+<SPEECH 34><ACT 1><SCENE 5><14%>
+	That I might sleep out this great gap of time
+	My Antony is away.
+<SPEECH 35><ACT 1><SCENE 5><14%>
+	O! 'tis treason.
+<SPEECH 36><ACT 1><SCENE 5><14%>
+	Thou, eunuch Mardian!
+<SPEECH 37><ACT 1><SCENE 5><15%>
+	Not now to hear thee sing; I take no pleasure
+	In aught a eunuch has. 'Tis well for thee,
+	That, being unseminar'd, thy freer thoughts
+	May not fly forth of Egypt. Hast thou affections?
+<SPEECH 38><ACT 1><SCENE 5><15%>
+	Indeed!
+<SPEECH 39><ACT 1><SCENE 5><15%>
+	O Charmian!
+	Where think'st thou he is now? Stands he, or sits he?
+	Or does he walk? or is he on his horse?
+	O happy horse, to bear the weight of Antony!
+	Do bravely, horse, for wot'st thou whom thou mov'st?
+	The demi-Atlas of this earth, the arm
+	And burgonet of men. He's speaking now,
+	Or murmuring 'Where's my serpent of old Nile?'
+	For so he calls me. Now I feed myself
+	With most delicious poison. Think on me,
+	That am with Phœbus' amorous pinches black,
+	And wrinkled deep in time? Broad-fronted Cæsar,
+	When thou wast here above the ground I was
+	A morsel for a monarch, and great Pompey
+	Would stand and make his eyes grow in my brow;
+	There would he anchor his aspect and die
+	With looking on his life.
+<SPEECH 40><ACT 1><SCENE 5><15%>
+	How much unlike art thou Mark Antony!
+	Yet, coming from him, that great medicine hath
+	With his tinct gilded thee.
+	How goes it with my brave Mark Antony?
+<SPEECH 41><ACT 1><SCENE 5><15%>
+	Mine ear must pluck it thence.
+<SPEECH 42><ACT 1><SCENE 5><16%>
+	What! was he sad or merry?
+<SPEECH 43><ACT 1><SCENE 5><16%>
+	O well-divided disposition! Note him,
+	Note him, good Charmian, 'tis the man; but note him:
+	He was not sad, for he would shire on those
+	That make their looks by his; he was not merry,
+	Which seem'd to tell them his remembrance lay
+	In Egypt with his joy; but between both:
+	O heavenly mingle! Be'st thou sad or merry,
+	The violence of either thee becomes,
+	So does it no man else. Mett'st thou my posts?
+<SPEECH 44><ACT 1><SCENE 5><16%>
+	Who's born that day
+	When I forget to send to Antony,
+	Shall die a beggar. Ink and paper, Charmian.
+	Welcome, my good Alexas. Did I, Charmian,
+	Ever love Cæsar so?
+<SPEECH 45><ACT 1><SCENE 5><16%>
+	Be chok'd with such another emphasis!
+	Say the brave Antony.
+<SPEECH 46><ACT 1><SCENE 5><16%>
+	By Isis, I will give thee bloody teeth,
+	If thou with Cæsar paragon again
+	My man of men.
+<SPEECH 47><ACT 1><SCENE 5><16%>
+	My salad days,
+	When I was green in judgment, cold in blood,
+	To say as I said then! But come, away;
+	Get me ink and paper:
+	He shall have every day a several greeting,
+	Or I'll unpeople Egypt.
+<SPEECH 48><ACT 2><SCENE 5><28%>
+	Give me some music; music, moody food
+	Of us that trade in love.
+<SPEECH 49><ACT 2><SCENE 5><28%>
+	Let it alone; let 's to billiards: come, Charmian.
+<SPEECH 50><ACT 2><SCENE 5><28%>
+	As well a woman with a eunuch play'd
+	As with a woman. Come, you 'll play with me, sir?
+<SPEECH 51><ACT 2><SCENE 5><28%>
+	And when good will is show'd, though't come too short,
+	The actor may plead pardon. I 'll none now.
+	Give me mine angle; we'll to the river: there—
+	My music playing far off—I will betray
+	Tawny-finn'd fishes; my bended hook shall pierce
+	Their slimy jaws; and, as I draw them up,
+	I'll think them every one an Antony,
+	And say, 'Ah, ha!' you're caught.
+<SPEECH 52><ACT 2><SCENE 5><28%>
+	That time—O times!—
+	I laugh'd him out of patience; and that night
+	I laugh'd him into patience: and next morn,
+	Ere the ninth hour, I drunk him to his bed;
+	Then put my tires and mantles on him, whilst
+	I wore his sword Philippan.
+	O! from Italy;
+	Ram thou thy fruitful tidings in mine ears,
+	That long time have been barren.
+<SPEECH 53><ACT 2><SCENE 5><28%>
+	Antony's dead! if thou say so, villain,
+	Thou kill'st thy mistress; but well and free,
+	If thou so yield him, there is gold, and here
+	My bluest veins to kiss; a hand that kings
+	Have lipp'd, and trembled kissing.
+<SPEECH 54><ACT 2><SCENE 5><28%>
+	Why, there's more gold.
+	But, sirrah, mark, we use
+	To say the dead are well: bring it to that,
+	The gold I give thee will I melt, and pour
+	Down thy ill-uttering throat.
+<SPEECH 55><ACT 2><SCENE 5><29%>
+	Well, go to, I will;
+	But there's no goodness in thy face; if Antony
+	Be free and healthful, so tart a favour
+	To trumpet such good tidings! if not well,
+	Thou shouldst come like a Fury crown'd with snakes,
+	Not like a formal man.
+<SPEECH 56><ACT 2><SCENE 5><29%>
+	I have a mind to strike thee ere thou speak'st:
+	Yet, if thou say Antony lives, is well,
+	Or friends with Cæsar, or not captive to him,
+	I'll set thee in a shower of gold, and hail
+	Rich pearls upon thee.
+<SPEECH 57><ACT 2><SCENE 5><29%>
+	Well said.
+<SPEECH 58><ACT 2><SCENE 5><29%>
+	Thou'rt an honest man.
+<SPEECH 59><ACT 2><SCENE 5><29%>
+	Make thee a fortune from me.
+<SPEECH 60><ACT 2><SCENE 5><29%>
+	I do not like 'but yet,' it does allay
+	The good precedence; fie upon 'but yet!'
+	'But yet' is as a gaoler to bring forth
+	Some monstrous malefactor. Prithee, friend,
+	Pour out the pack of matter to mine ear,
+	The good and bad together. He's friends with Cæsar;
+	In state of health, thou sayst; and thou sayst, free.
+<SPEECH 61><ACT 2><SCENE 5><29%>
+	For what good turn?
+<SPEECH 62><ACT 2><SCENE 5><29%>
+	I am pale, Charmian!
+<SPEECH 63><ACT 2><SCENE 5><29%>
+	The most infectious pestilence upon thee!
+<SPEECH 64><ACT 2><SCENE 5><30%>
+	What say you? Hence,
+	Horrible villain! or I'll spurn thine eyes
+	Like balls before me; I'll unhair thy head:
+	Thou shalt be whipp'd with wire, and stew'd in brine,
+	Smarting in lingering pickle.
+<SPEECH 65><ACT 2><SCENE 5><30%>
+	Say 'tis not so, a province I will give thee,
+	And make thy fortunes proud; the blow thou hadst
+	Shall make thy peace for moving me to rage,
+	And I will boot thee with what gift beside
+	Thy modesty can beg.
+<SPEECH 66><ACT 2><SCENE 5><30%>
+	Rogue! thou hast liv'd too long.
+<SPEECH 67><ACT 2><SCENE 5><30%>
+	Some innocents 'scape not the thunderbolt.
+	Melt Egypt into Nile! and kindly creatures
+	Turn all to serpents! Call the slave again:
+	Though I am mad, I will not bite him. Call.
+<SPEECH 68><ACT 2><SCENE 5><30%>
+	I will not hurt him.
+	These hands do lack nobility, that they strike
+	A meaner than myself; since I myself
+	Have given myself the cause.
+	Come hither, sir.
+	Though it be honest, it is never good
+	To bring bad news; give to a gracious message
+	A host of tongues, but let ill tidings tell
+	Themselves when they be felt.
+<SPEECH 69><ACT 2><SCENE 5><31%>
+	Is he married?
+	I cannot hate thee worser than I do
+	If thou again say 'Yes.'
+<SPEECH 70><ACT 2><SCENE 5><31%>
+	The gods confound thee! dost thou hold there still?
+<SPEECH 71><ACT 2><SCENE 5><31%>
+	O! I would thou didst,
+	So half my Egypt were submerg'd and made
+	A cistern for scal'd snakes. Go, get thee hence;
+	Hadst thou Narcissus in thy face, to me
+	Thou wouldst appear most ugly. He is married?
+<SPEECH 72><ACT 2><SCENE 5><31%>
+	He is married?
+<SPEECH 73><ACT 2><SCENE 5><31%>
+	O! that his fault should make a knave of thee,
+	That art not what thou'rt sure of. Get thee hence;
+	The merchandise which thou hast brought from Rome
+	Are all too dear for me; lie they upon thy hand
+	And be undone by 'em!
+<SPEECH 74><ACT 2><SCENE 5><31%>
+	In praising Antony I have disprais'd Cæsar.
+<SPEECH 75><ACT 2><SCENE 5><31%>
+	I am paid for 't now.
+	Lead me from hence;
+	I faint. O Iras! Charmian! 'Tis no matter.
+	Go to the fellow, good Alexas; bid him
+	Report the feature of Octavia, her years,
+	Her inclination, let him not leave out
+	The colour of her hair: bring me word quickly.
+	Let him forever go:—let him not—Charmian!—
+	Though he be painted one way like a Gorgon,
+	The other way's a Mars. <STAGE DIR>
+	</STAGE DIR> Bid you Alexas
+	Bring me word how tall she is. Pity me, Charmian,
+	But do not speak to me. Lead me to my chamber.
+<SPEECH 76><ACT 3><SCENE 3><44%>
+	Where is the fellow?
+<SPEECH 77><ACT 3><SCENE 3><44%>
+	Go to, go to.
+	Come hither, sir.
+<SPEECH 78><ACT 3><SCENE 3><44%>
+	That Herod's head
+	I'll have; but how, when Antony is gone
+	Through whom I might command it? Come thou near.
+<SPEECH 79><ACT 3><SCENE 3><44%>
+	Didst thou behold
+	Octavia?
+<SPEECH 80><ACT 3><SCENE 3><44%>
+	Where?
+<SPEECH 81><ACT 3><SCENE 3><44%>
+	Is she as tall as me?
+<SPEECH 82><ACT 3><SCENE 3><44%>
+	Didst hear her speak? is she shrill-tongu'd, or low?
+<SPEECH 83><ACT 3><SCENE 3><44%>
+	That's not so good. He cannot like her long.
+<SPEECH 84><ACT 3><SCENE 3><44%>
+	I think so, Charmian: dull of tongue, and dwarfish!
+	What majesty is in her gait? Remember,
+	If e'er thou look'dst on majesty.
+<SPEECH 85><ACT 3><SCENE 3><45%>
+	Is this certain?
+<SPEECH 86><ACT 3><SCENE 3><45%>
+	He's very knowing,
+	I do perceive 't. There's nothing in her yet.
+	The fellow has good judgment.
+<SPEECH 87><ACT 3><SCENE 3><45%>
+	Guess at her years, I prithee.
+<SPEECH 88><ACT 3><SCENE 3><45%>
+	Widow! Charmian, hark.
+<SPEECH 89><ACT 3><SCENE 3><45%>
+	Bear'st thou her face in mind? is't long or round?
+<SPEECH 90><ACT 3><SCENE 3><45%>
+	For the most part, too, they are foolish that are so.
+	Her hair, what colour?
+<SPEECH 91><ACT 3><SCENE 3><45%>
+	There's gold for thee:
+	Thou must not take my former sharpness ill.
+	I will employ thee back again; I find thee
+	Most fit for business. Go, make thee ready;
+	Our letters are prepar'd.
+<SPEECH 92><ACT 3><SCENE 3><45%>
+	Indeed, he is so; I repent me much
+	That so I harried him. Why, methinks, by him,
+	This creature's no such thing.
+<SPEECH 93><ACT 3><SCENE 3><45%>
+	The man hath seen some majesty, and should know.
+<SPEECH 94><ACT 3><SCENE 3><45%>
+	I have one thing more to ask him yet, good Charmian:
+	But 'tis no matter; thou shalt bring him to me
+	Where I will write. All may be well enough.
+<SPEECH 95><ACT 3><SCENE 7><51%>
+	I will be even with thee, doubt it not.
+<SPEECH 96><ACT 3><SCENE 7><51%>
+	Thou hast forspoke my being in these wars,
+	And sayst it is not fit.
+<SPEECH 97><ACT 3><SCENE 7><51%>
+	If not denounc'd against us, why should not we
+	Be there in person?
+<SPEECH 98><ACT 3><SCENE 7><51%>
+	What is 't you say?
+<SPEECH 99><ACT 3><SCENE 7><51%>
+	Sink Rome, and their tongues rot
+	That speak against us! A charge we bear i' the war,
+	And, as the president of my kingdom, will
+	Appear there for a man. Speak not against it;
+	I will not stay behind.
+<SPEECH 100><ACT 3><SCENE 7><51%>
+	Celerity is never more admir'd
+	Than by the negligent.
+<SPEECH 101><ACT 3><SCENE 7><51%>
+	By sea! What else?
+<SPEECH 102><ACT 3><SCENE 7><52%>
+	I have sixty sails, Cæsar none better.
+<SPEECH 103><ACT 3><SCENE 1><56%>
+	Let me sit down. O Juno!
+<SPEECH 104><ACT 3><SCENE 1><56%>
+	Ah! stand by.
+<SPEECH 105><ACT 3><SCENE 1><56%>
+	Well then, sustain me: O!
+<SPEECH 106><ACT 3><SCENE 1><57%>
+	O my lord, my lord!
+	Forgive my fearful sails: I little thought
+	You would have follow'd.
+<SPEECH 107><ACT 3><SCENE 1><57%>
+	O! my pardon.
+<SPEECH 108><ACT 3><SCENE 1><57%>
+	Pardon, pardon!
+<SPEECH 109><ACT 3><SCENE XI.— ><59%>
+	What shall we do, Enobarbus?
+<SPEECH 110><ACT 3><SCENE XI.— ><59%>
+	Is Antony or we, in fault for this?
+<SPEECH 111><ACT 3><SCENE XI.— ><59%>
+	Prithee, peace.
+<SPEECH 112><ACT 3><SCENE XI.— ><59%>
+	That head, my lord?
+<SPEECH 113><ACT 3><SCENE XI.— ><60%>
+	What! no more ceremony? See! my women;
+	Against the blown rose may they stop their nose,
+	That kneel'd unto the buds. Admit him, sir.
+<SPEECH 114><ACT 3><SCENE XI.— ><60%>
+	Cæsar's will?
+<SPEECH 115><ACT 3><SCENE XI.— ><60%>
+	None but friends; say boldly.
+<SPEECH 116><ACT 3><SCENE XI.— ><60%>
+	Go on; right royal.
+<SPEECH 117><ACT 3><SCENE XI.— ><60%>
+	O!
+<SPEECH 118><ACT 3><SCENE XI.— ><60%>
+	He is a god, and knows
+	What is most right. Mine honour was not yielded,
+	But conquer'd merely.
+<SPEECH 119><ACT 3><SCENE XI.— ><61%>
+	What's your name?
+<SPEECH 120><ACT 3><SCENE XI.— ><61%>
+	Most kind messenger,
+	Say to great Cæsar this: in deputation
+	I kiss his conqu'ring hand; tell him, I am prompt
+	To lay my crown at 's feet, and there to kneel;
+	Tell him, from his all-obeying breath I hear
+	The doom of Egypt.
+<SPEECH 121><ACT 3><SCENE XI.— ><61%>
+	Your Cæsar's father oft,
+	When he hath mus'd of taking kingdoms in,
+	Bestow'd his lips on that unworthy place,
+	As it rain'd kisses.
+<SPEECH 122><ACT 3><SCENE XI.— ><62%>
+	Good my lord,—
+<SPEECH 123><ACT 3><SCENE XI.— ><62%>
+	O! is't come to this?
+<SPEECH 124><ACT 3><SCENE XI.— ><63%>
+	Wherefore is this?
+<SPEECH 125><ACT 3><SCENE XI.— ><63%>
+	Have you done yet?
+<SPEECH 126><ACT 3><SCENE XI.— ><64%>
+	I must stay his time.
+<SPEECH 127><ACT 3><SCENE XI.— ><64%>
+	Not know me yet?
+<SPEECH 128><ACT 3><SCENE XI.— ><64%>
+	Ah! dear, if I be so,
+	From my cold heart let heaven engender hail,
+	And poison it in the source; and the first stone
+	Drop in my neck: as it determines, so
+	Dissolve my life. The next Cæsarion smite,
+	Till by degrees the memory of my womb,
+	Together with my brave Egyptians all,
+	By the discandying of this pelleted storm,
+	Lie graveless, till the flies and gnats of Nile
+	Have buried them for prey!
+<SPEECH 129><ACT 3><SCENE XI.— ><64%>
+	That's my brave lord!
+<SPEECH 130><ACT 3><SCENE XI.— ><64%>
+	It is my birth-day:
+	I had thought to have held it poor; but, since my lord
+	Is Antony again, I will be Cleopatra.
+<SPEECH 131><ACT 3><SCENE XI.— ><65%>
+	Call all his noble captains to my lord.
+<SPEECH 132><ACT 4><SCENE 2><66%>
+	What means this?
+<SPEECH 133><ACT 4><SCENE 2><66%>
+	</STAGE DIR> What does he mean?
+<SPEECH 134><ACT 4><SCENE 4><68%>
+	Sleep a little.
+<SPEECH 135><ACT 4><SCENE 4><69%>
+	Nay, I'll help too.
+	What's this for?
+<SPEECH 136><ACT 4><SCENE 4><69%>
+	Sooth, la! I'll help: thus it must be.
+<SPEECH 137><ACT 4><SCENE 4><69%>
+	Is not this buckled well?
+<SPEECH 138><ACT 4><SCENE 4><70%>
+	Lead me.
+	He goes forth gallantly. That he and Cæsar might
+	Determine this great war in single fight!
+	Then, Antony,—but now.—Well, on.
+<SPEECH 139><ACT 4><SCENE 8><73%>
+	Lord of lords!
+	O infinite virtue! com'st thou smiling from
+	The world's great snare uncaught?
+<SPEECH 140><ACT 4><SCENE 8><73%>
+	I'll give thee, friend,
+	An armour all of gold; it was a king's.
+<SPEECH 141><ACT 4><SCENE X.— ><77%>
+	Why is my lord enrag'd against his love?
+<SPEECH 142><ACT 4><SCENE XI.— ><77%>
+	Help me, my women! O! he is more mad
+	Than Telamon for his shield; the boar of Thessaly
+	Was never so emboss'd.
+<SPEECH 143><ACT 4><SCENE XI.— ><77%>
+	To the monument!
+	Mardian, go tell him I have slain myself;
+	Say that the last I spoke was 'Antony,'
+	And word it, prithee, piteously. Hence,
+	Mardian, and bring me how he takes my death.
+	To the monument!
+<SPEECH 144><ACT 4><SCENE XIII.— ><82%>
+	O Charmian! I will never go from hence.
+<SPEECH 145><ACT 4><SCENE XIII.— ><82%>
+	No, I will not.
+	All strange and terrible events are welcome,
+	But comforts we despise; our size of sorrow,
+	Proportion'd to our cause, must be as great
+	As that which makes it.
+	How now! is he dead?
+<SPEECH 146><ACT 4><SCENE XIII.— ><83%>
+	O sun!
+	Burn the great sphere thou mov'st in; darkling stand
+	The varying star o' the world. O Antony,
+	Antony, Antony! Help, Charmian, help, Iras, help;
+	Help, friends below! let's draw him hither.
+<SPEECH 147><ACT 4><SCENE XIII.— ><83%>
+	So it should be, that none but Antony
+	Should conquer Antony; but woe 'tis so!
+<SPEECH 148><ACT 4><SCENE XIII.— ><83%>
+	I dare not, dear,—
+	Dear my lord, pardon,—I dare not,
+	Lest I be taken: not the imperious show
+	Of the full-fortun'd Cæsar ever shall
+	Be brooch'd with me; if knife, drugs, serpents, have
+	Edge, sting, or operation, I am safe:
+	Your wife Octavia, with her modest eyes
+	And still conclusion, shall acquire no honour
+	Demuring upon me. But come, come, Antony,—
+	Help me, my women,—we must draw thee up.
+	Assist, good friends.
+<SPEECH 149><ACT 4><SCENE XIII.— ><83%>
+	Here's sport indeed! How heavy weighs my lord!
+	Our strength is all gone into heaviness,
+	That makes the weight. Had I great Juno's power,
+	The strong-wing'd Mercury should fetch thee up,
+	And set thee by Jove's side. Yet come a little,
+	Wishers were ever fools. O! come, come, come;
+	And welcome, welcome! die where thou hastliv'd;
+	Quicken with kissing; had my lips that power,
+	Thus would I wear them out.
+<SPEECH 150><ACT 4><SCENE XIII.— ><84%>
+	No, let me speak; and let me rail so high,
+	That the false housewife Fortune break her wheel,
+	Provok'd by my offence.
+<SPEECH 151><ACT 4><SCENE XIII.— ><84%>
+	They do not go together.
+<SPEECH 152><ACT 4><SCENE XIII.— ><84%>
+	My resolution and my hands I'll trust;
+	None about Cæsar.
+<SPEECH 153><ACT 4><SCENE XIII.— ><84%>
+	Noblest of men, woo 't die?
+	Hast thou no care of me? shall I abide
+	In this dull world, which in thy absence is
+	No better than a sty? O! see my women,
+	The crown o' the earth doth melt. My lord!
+	O! wither'd is the garland of the war,
+	The soldier's pole is fall'n; young boys and girls
+	Are level now with men; the odds is gone,
+	And there is nothing left remarkable
+	Beneath the visiting moon.
+<SPEECH 154><ACT 4><SCENE XIII.— ><85%>
+	No more, but e'en a woman, and commanded
+	By such poor passion as the maid that milks
+	And does the meanest chares. It were for me
+	To throw my sceptre at the injurious gods;
+	To tell them that this world did equal theirs
+	Till they had stol'n our jewel. All's but naught;
+	Patience is sottish, and impatience does
+	Become a dog that's mad; then is it sin
+	To rush into the secret house of death,
+	Ere death dare come to us? How do you, women?
+	What, what! good cheer! Why, how now, Charmian!
+	My noble girls! Ah, women, women, look!
+	Our lamp is spent, it's out. Good sirs, take heart;—
+	We'll bury him; and then, what's brave, what's noble,
+	Let's do it after the high Roman fashion,
+	And make death proud to take us. Come, away;
+	This case of that huge spirit now is cold;
+	Ah! women, women. Come; we have no friend
+	But resolution, and the briefest end.
+<SPEECH 155><ACT 5><SCENE 2><88%>
+	My desolation does begin to make
+	A better life. 'Tis paltry to be Cæsar;
+	Not being Fortune, he's but Fortune's knave,
+	A minister of her will; and it is great
+	To do that thing that ends all other deeds,
+	Which shackles accidents, and bolts up change,
+	Which sleeps, and never palates more the dug,
+	The beggar's nurse and Cæsar's.
+<SPEECH 156><ACT 5><SCENE 2><88%>
+	What's thy name?
+<SPEECH 157><ACT 5><SCENE 2><88%>
+	Antony
+	Did tell me of you, bade me trust you; but
+	I do not greatly care to be deceiv'd,
+	That have no use for trusting. If your master
+	Would have a queen his beggar, you must tell him,
+	That majesty, to keep decorum, must
+	No less beg than a kingdom; if he please
+	To give me conquer'd Egypt for my son,
+	He gives me so much of mine own as I
+	Will kneel to him with thanks.
+<SPEECH 158><ACT 5><SCENE 2><89%>
+	Pray you, tell him
+	I am his fortune's vassal, and I send him
+	The greatness he has got. I hourly learn
+	A doctrine of obedience, and would gladly
+	Look him i' the face.
+<SPEECH 159><ACT 5><SCENE 2><89%>
+	Quick, quick, good hands.
+<SPEECH 160><ACT 5><SCENE 2><89%>
+	What, of death too,
+	That rids our dogs of languish?
+<SPEECH 161><ACT 5><SCENE 2><89%>
+	Where art thou, death?
+	Come hither, come! come, come, and take a queen
+	Worth many babes and beggars!
+<SPEECH 162><ACT 5><SCENE 2><90%>
+	Sir, I will eat no meat, I'll not drink, sir;
+	If idle talk will once be necessary,
+	I'll not sleep neither. This mortal house I'll ruin,
+	Do Cæsar what he can. Know, sir, that I
+	Will not wait pinion'd at your master's court,
+	Nor once be chastis'd with the sober eye
+	Of dull Octavia. Shall they hoist me up
+	And show me to the shouting varletry
+	Of censuring Rome? Rather a ditch in Egypt
+	Be gentle grave unto me! rather on Nilus' mud
+	Lay me stark nak'd, and let the water-flies
+	Blow me into abhorring! rather make
+	My country's high pyramides my gibbet,
+	And hang me up in chains!
+<SPEECH 163><ACT 5><SCENE 2><90%>
+	Say, I would die.
+<SPEECH 164><ACT 5><SCENE 2><90%>
+	I cannot tell.
+<SPEECH 165><ACT 5><SCENE 2><90%>
+	No matter, sir, what I have heard or known.
+	You laugh when boys or women tell their dreams;
+	Is 't not your trick?
+<SPEECH 166><ACT 5><SCENE 2><90%>
+	I dream'd there was an Emperor Antony:
+	O! such another sleep, that I might see
+	But such another man.
+<SPEECH 167><ACT 5><SCENE 2><91%>
+	His face was as the heavens, and therein stuck
+	A sun and moon, which kept their course, and lighted
+	The little O, the earth.
+<SPEECH 168><ACT 5><SCENE 2><91%>
+	His legs besfrid the ocean; his rear'd arm
+	Crested the world; his voice was propertied
+	As all the tuned spheres, and that to friends;
+	But when he meant to quail and shake the orb,
+	He was as rattling thunder. For his bounty,
+	There was no winter in 't, an autumn 'twas
+	That grew the more by reaping; his delights
+	Were dolphin-like, they show'd his back above
+	The element they liv'd in; in his livery
+	Walk'd crowns and crownets, realms and islands were
+	As plates dropp'd from his pocket.
+<SPEECH 169><ACT 5><SCENE 2><91%>
+	Think you there was, or might be, such a man
+	As this I dream'd of?
+<SPEECH 170><ACT 5><SCENE 2><91%>
+	You lie, up to the hearing of the gods.
+	But, if there be, or ever were, one such,
+	It's past the size of dreaming; nature wants stuff
+	To vie strange forms with fancy; yet to imagine
+	An Antony were nature's piece 'gainst fancy,
+	Condemning shadows quite.
+<SPEECH 171><ACT 5><SCENE 2><91%>
+	I thank you, sir.
+	Know you what Cæsar means to do with me?
+<SPEECH 172><ACT 5><SCENE 2><91%>
+	Nay, pray you, sir,—
+<SPEECH 173><ACT 5><SCENE 2><92%>
+	He'll lead me then in triumph?
+<SPEECH 174><ACT 5><SCENE 2><92%>
+	Sir, the gods
+	Will have it thus; my master and my lord
+	I must obey.
+<SPEECH 175><ACT 5><SCENE 2><92%>
+	Sole sir o' the world,
+	I cannot project mine own cause so well
+	To make it clear; but do confess I have
+	Been laden with like frailties which before
+	Have often sham'd our sex.
+<SPEECH 176><ACT 5><SCENE 2><92%>
+	And may through all the world: 'tis yours; and we,
+	Your scutcheons, and your signs of conquest, shall
+	Hang in what place you please. Here, my good lord.
+<SPEECH 177><ACT 5><SCENE 2><92%>
+	</STAGE DIR> This is the brief of money, plate, and jewels,
+	I am possess'd of: 'tis exactly valued;
+	Not petty things admitted. Where's Seleucus?
+<SPEECH 178><ACT 5><SCENE 2><93%>
+	This is my treasurer; let him speak, my lord,
+	Upon his peril, that I have reserv'd
+	To myself nothing. Speak the truth, Seleucus.
+<SPEECH 179><ACT 5><SCENE 2><93%>
+	What have I kept back?
+<SPEECH 180><ACT 5><SCENE 2><93%>
+	See! Cæsar! O, behold,
+	How pomp is follow'd; mine will now be yours;
+	And, should we shift estates, yours would be mine.
+	The ingratitude of this Seleucus does
+	Even make me wild. O slave! of no more trust
+	Than love that's hir'd. What! goest thou back? thou shalt
+	Go back, I warrant thee; but I'll catch thine eyes,
+	Though they had wings: slave, soulless villain, dog!
+	O rarely base!
+<SPEECH 181><ACT 5><SCENE 2><93%>
+	O Cæsar! what a wounding shame is this,
+	That thou, vouchsafing here to visit me,
+	Doing the honour of thy lordliness
+	To one so meek, that mine own servant should
+	Parcel the sum of my disgraces by
+	Addition of his envy. Say, good Cæsar,
+	That I some lady trifles have reserv'd,
+	Immoment toys, things of such dignity
+	As we greet modern friends withal; and say,
+	Some nobler token I have kept apart
+	For Livia and Octavia, to induce
+	Their mediation; must I be unfolded
+	With one that I have bred? The gods! it smites me
+	Beneath the fall I have. <STAGE DIR>
+	</STAGE DIR> Prithee, go hence;
+	Or I shall show the cinders of my spirits
+	Through the ashes of my chance. Wert thou a man,
+	Thou wouldst have mercy on me.
+<SPEECH 182><ACT 5><SCENE 2><94%>
+	Be it known that we, the greatest, are misthought
+	For things that others do; and, when we fall,
+	We answer others' merits in our name,
+	Are therefore to be pitied.
+<SPEECH 183><ACT 5><SCENE 2><94%>
+	My master, and my lord!
+<SPEECH 184><ACT 5><SCENE 2><94%>
+	He words me, girls, he words me, that I should not
+	Be noble to myself: but, hark thee, Charmian.
+<SPEECH 185><ACT 5><SCENE 2><94%>
+	Hie thee again:
+	I have spoke already, and it is provided;
+	Go, put it to the haste.
+<SPEECH 186><ACT 5><SCENE 2><94%>
+	Dolabella!
+<SPEECH 187><ACT 5><SCENE 2><95%>
+	Dolabella,
+	I shall remain your debtor.
+<SPEECH 188><ACT 5><SCENE 2><95%>
+	Farewell, and thanks.
+	Now, Iras, what think'st thou?
+	Thou, an Egyptian puppet, shall be shown
+	In Rome, as well as I; mechanic slaves
+	With greasy aprons, rules and hammers, shall
+	Uplift us to the view; in their thick breaths,
+	Rank of gross diet, shall we be enclouded,
+	And forc'd to drink their vapour.
+<SPEECH 189><ACT 5><SCENE 2><95%>
+	Nay, 'tis most certain, Iras. Saucy lictors
+	Will catch at us, like strumpets, and scald rimers
+	Ballad us out o' tune; the quick comedians
+	Extemporally will stage us, and present
+	Our Alexandrian revels. Antony
+	Shall be brought drunken forth, and I shall see
+	Some squeaking Cleopatra boy my greatness
+	I' the posture of a whore.
+<SPEECH 190><ACT 5><SCENE 2><95%>
+	Nay, that's certain.
+<SPEECH 191><ACT 5><SCENE 2><95%>
+	Why, that's the way
+	To fool their preparation, and to conquer
+	Their most absurd intents.
+	Now, Charmian,
+	Show me, my women, like a queen; go fetch
+	My best attires; I am again for Cydnus,
+	To meet Mark Antony. Sirrah Iras, go.
+	Now, noble Charmian, we'll dispatch indeed;
+	And, when thou hast done this chare, I'll give thee leave
+	To play till doomsday. Bring our crown and all.
+	Wherefore's this noise?
+<SPEECH 192><ACT 5><SCENE 2><96%>
+	Let him come in. <STAGE DIR>
+	</STAGE DIR> What poor an instrument
+	May do a noble deed! he brings me liberty.
+	My resolution's plac'd, and I have nothing
+	Of woman in me; now from head to foot
+	I am marble-constant, now the fleeting moon
+	No planet is of mine.
+<SPEECH 193><ACT 5><SCENE 2><96%>
+	Avoid, and leave him.
+	Hast thou the pretty worm of Nilus there,
+	That kills and pains not?
+<SPEECH 194><ACT 5><SCENE 2><96%>
+	Remember'st thou any that have died on 't?
+<SPEECH 195><ACT 5><SCENE 2><96%>
+	Get thee hence; farewell.
+<SPEECH 196><ACT 5><SCENE 2><97%>
+	Farewell.
+<SPEECH 197><ACT 5><SCENE 2><97%>
+	Ay, ay; farewell.
+<SPEECH 198><ACT 5><SCENE 2><97%>
+	Take thou no care; it shall be heeded.
+<SPEECH 199><ACT 5><SCENE 2><97%>
+	Will it eat me?
+<SPEECH 200><ACT 5><SCENE 2><97%>
+	Well, get thee gone; farewell.
+<SPEECH 201><ACT 5><SCENE 2><97%>
+	Give me my robe, put on my crown; I have
+	Immortal longings in me; now no more
+	The juice of Egypt's grape shall moist this lip.
+	Yare, yare, good Iras; quick. Methinks I hear
+	Antony call; I see him rouse himself
+	To praise my noble act; I hear him mock
+	The luck of Cæsar, which the gods give men
+	To excuse their after wrath: husband, I come:
+	Now to that name my courage prove my title!
+	I am fire, and air; my other elements
+	I give to baser life. So; have you done?
+	Come then, and take the last warmth of my lips.
+	Farewell, kind Charmian; Iras, long farewell.
+	Have I the aspic in my lips? Dost fall?
+	If thou and nature can so gently part,
+	The stroke of death is as a lover's pinch,
+	Which hurts, and is desir'd. Dost thou lie still?
+	If thus thou vanishest, thou tell'st the world
+	It is not worth leave-taking.
+<SPEECH 202><ACT 5><SCENE 2><98%>
+	This proves me base:
+	If she first meet the curled Antony,
+	He'll make demand of her, and spend that kiss
+	Which is my heaven to have. Come, thou mortal wretch,
+	With thy sharp teeth this knot intrinsicate
+	Of life at once untie; poor venomous fool,
+	Be angry, and dispatch. O! couldst thou speak,
+	That I might hear thee call great Cæsar ass
+	Unpolicied.
+<SPEECH 203><ACT 5><SCENE 2><98%>
+	Peace, peace!
+	Dost thou not see my baby at my breast,
+	That sucks the nurse asleep?
+<SPEECH 204><ACT 5><SCENE 2><98%>
+	As sweet as balm, as soft as air, as gentle,—
+	O Antony!—Nay, I will take thee too.
+	What should I stay—

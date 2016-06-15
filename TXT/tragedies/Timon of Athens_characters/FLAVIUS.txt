@@ -1,0 +1,247 @@
+<SPEECH 1><ACT 1><SCENE 2><19%>
+	My lord!
+<SPEECH 2><ACT 1><SCENE 2><19%>
+	Yes, my lord. <STAGE DIR>
+	</STAGE DIR> More jewels yet!
+	There is no crossing him in 's humour;
+	Else I should tell him well, i' faith, I should,
+	When all's spent, he'd be cross'd then, an he could.
+	'Tis pity bounty had not eyes behind,
+	That man might ne'er be wretched for his mind.
+<SPEECH 3><ACT 1><SCENE 2><20%>
+	I beseech your honour,
+	Vouchsafe me a word; it does concern you near.
+<SPEECH 4><ACT 1><SCENE 2><20%>
+	</STAGE DIR> I scarce know how.
+<SPEECH 5><ACT 1><SCENE 2><21%>
+	</STAGE DIR> What will this come to?
+	He commands us to provide, and give great gifts,
+	And all out of an empty coffer:
+	Nor will he know his purse, or yield me this,
+	To show him what a beggar his heart is,
+	Being of no power to make his wishes good.
+	His promises fly so beyond his state
+	That what he speaks is all in debt; he owes
+	For every word: he is so kind that he now
+	Pays interest for't; his land's put to their books.
+	Well, would I were gently put out of office
+	Before I were forc'd out!
+	Happier he that has no friend to feed
+	Than such as do e'en enemies exceed.
+	I bleed inwardly for my lord.
+<SPEECH 6><ACT 2><SCENE 2><25%>
+	No care, no stop! so senseless of expense,
+	That he will neither know how to maintain it,
+	Nor cease his flow of riot: takes no account
+	How things go from him, nor resumes no care
+	Of what is to continue: never mind
+	Was to be so unwise, to be so kind.
+	What shall be done? He will not hear, till feel:
+	I must be round with him, now he comes from hunting.
+	Fie, fie, fie, fie!
+<SPEECH 7><ACT 2><SCENE 2><27%>
+	Please you, gentlemen,
+	The time is unagreeable to this business:
+	Your importunacy cease till after dinner,
+	That I may make his lordship understand
+	Wherefore you are not paid.
+<SPEECH 8><ACT 2><SCENE 2><27%>
+	Pray, draw near.
+<SPEECH 9><ACT 2><SCENE 2><30%>
+	Pray you, walk near: I'll speak with you anon.
+<SPEECH 10><ACT 2><SCENE 2><31%>
+	You would not hear me,
+	At many leisures I propos'd.
+<SPEECH 11><ACT 2><SCENE 2><31%>
+	O my good lord!
+	At many times I brought in my accounts,
+	Laid them before you; you would throw them off,
+	And say you found them in mine honesty.
+	When for some trifling present you have bid me
+	Return so much, I have shook my head, and wept;
+	Yea, 'gainst the authority of manners, pray'd you
+	To hold your hand more close: I did endure
+	Not seldom, nor no slight checks, when I have
+	Prompted you in the ebb of your estate
+	And your great flow of debts. My loved lord,
+	Though you hear now, too late, yet now's a time,
+	The greatest of your having lacks a half
+	To pay your present debts.
+<SPEECH 12><ACT 2><SCENE 2><31%>
+	'Tis all engag'd, some forfeited and gone;
+	And what remains will hardly stop the mouth
+	Of present dues; the future comes apace:
+	What shall defend the interim? and at length
+	How goes our reckoning?
+<SPEECH 13><ACT 2><SCENE 2><32%>
+	O my good lord! the world is but a word;
+	Were it all yours to give it in a breath,
+	How quickly were it gone!
+<SPEECH 14><ACT 2><SCENE 2><32%>
+	If you suspect my husbandry or falsehood,
+	Call me before the exactest auditors,
+	And set me on the proof. So the gods bless me,
+	When all our offices have been oppress'd
+	With riotous feeders, when our vaults have wept
+	With drunken spilth of wine, when every room
+	Hath blaz'd with lights and bray'd with minstrelsy,
+	I have retir'd me to a wasteful cock,
+	And set mine eyes at flow.
+<SPEECH 15><ACT 2><SCENE 2><32%>
+	Heavens! have I said, the bounty of this lord!
+	How many prodigal bits have slaves and peasants
+	This night englutted! Who is not Timon's?
+	What heart, head, sword, force, means, but is Lord Timon's?
+	Great Timon, noble, worthy, royal Timon!
+	Ah! when the means are gone that buy this praise,
+	The breath is gone whereof this praise is made:
+	Feast-won, fast-lost; one cloud of winter showers,
+	These flies are couch'd.
+<SPEECH 16><ACT 2><SCENE 2><33%>
+	Assurance bless your thoughts!
+<SPEECH 17><ACT 2><SCENE 2><33%>
+	</STAGE DIR> Lord Lucius, and Lucullus? hum!
+<SPEECH 18><ACT 2><SCENE 2><34%>
+	I have been bold,—
+	For that I knew it the most general way,—
+	To them to use your signet and your name;
+	But they do shake their heads, and I am here
+	No richer in return.
+<SPEECH 19><ACT 2><SCENE 2><34%>
+	They answer, in a joint and corporate voice,
+	That now they are at fall, want treasure, cannot
+	Do what they would; are sorry; you are honourable;
+	But yet they could have wish'd; they know not;
+	Something hath been amiss; a noble nature
+	May catch a wrench; would all were well; 'tis pity;
+	And so, intending other serious matters,
+	After distasteful looks and these hard fractions,
+	With certain half-caps and cold-moving nods
+	They froze me into silence.
+<SPEECH 20><ACT 2><SCENE 2><35%>
+	I would I could not think it: that thought is bounty's foe;
+	Being free itself, it thinks all others so.
+<SPEECH 21><ACT 3><SCENE 4><46%>
+	What do you ask of me, my friend?
+<SPEECH 22><ACT 3><SCENE 4><46%>
+	Ay,
+	If money were as certain as your waiting,
+	'Twere sure enough.
+	Why then preferr'd you not your sums and bills,
+	When your false masters eat of my lord's meat?
+	Then they could smile and fawn upon his debts,
+	And take down the interest into their gluttonous maws.
+	You do yourselves but wrong to stir me up;
+	Let me pass quietly:
+	Believe't, my lord and I have made an end;
+	I have no more to reckon, he to spend.
+<SPEECH 23><ACT 3><SCENE 4><46%>
+	If 'twill not serve, 'tis not so base as you;
+	For you serve knaves.
+<SPEECH 24><ACT 3><SCENE 4><48%>
+	My dear lord,—
+<SPEECH 25><ACT 3><SCENE 4><48%>
+	My lord,—
+<SPEECH 26><ACT 3><SCENE 4><49%>
+	Here, my lord.
+<SPEECH 27><ACT 3><SCENE 4><49%>
+	O my lord!
+	You only speak from your distracted soul;
+	There is not so much left to furnish out
+	A moderate table.
+<SPEECH 28><ACT 4><SCENE 2><61%>
+	Alack! my fellows, what should I say to you?
+	Let me be recorded by the righteous gods,
+	I am as poor as you.
+<SPEECH 29><ACT 4><SCENE 2><61%>
+	All broken implements of a ruin'd house.
+<SPEECH 30><ACT 4><SCENE 2><61%>
+	Good fellows all,
+	The latest of my wealth I'll share amongst you.
+	Wherever we shall meet, for Timon's sake
+	Let's yet be fellows; let's shake our heads, and say,
+	As 'twere a knell unto our master's fortunes,
+	'We have seen better days.' Let each take some;
+	Nay, put out all your hands. Not one word more:
+	Thus part we rich in sorrow, parting poor.
+	O! the fierce wretchedness that glory brings us.
+	Who would not wish to be from wealth exempt,
+	Since riches point to misery and contempt?
+	Who would be so mock'd with glory? or so live,
+	But in a dream of friendship?
+	To have his pomp and all what state compounds
+	But only painted, like his varnish'd friends?
+	Poor honest lord! brought low by his own heart,
+	Undone by goodness. Strange, unusual blood,
+	When man's worst sin is he does too much good!
+	Who then dares to be half so kind agen?
+	For bounty, that makes gods, does still mar men.
+	My dearest lord, bless'd, to be most accurs'd,
+	Rich, only to be wretched, thy great fortunes
+	Are made thy chief affictions. Alas! kind lord,
+	He's flung in rage from this ingrateful seat
+	Of monstrous friends;
+	Nor has he with him to supply his life,
+	Or that which can command it.
+	I'll follow and inquire him out:
+	I'll ever serve his mind with my best will;
+	Whilst I have gold I'll be his steward still.
+<SPEECH 31><ACT 4><SCENE 3><82%>
+	O you gods!
+	Is yond despised and ruinous man my lord?
+	Full of decay and failing? O monument
+	And wonder of good deeds evilly bestow'd!
+	What an alteration of honour
+	Has desperate want made!
+	What viler thing upon the earth than friends
+	Who can bring noblest minds to basest ends!
+	How rarely does it meet with this time's guise,
+	When man was wish'd to love his enemies!
+	Grant I may ever love, and rather woo
+	Those that would mischief me than those that do!
+	He hath caught me in his eye: I will present
+	My honest grief unto him; and, as my lord,
+	Still serve him with my life. My dearest master!
+<SPEECH 32><ACT 4><SCENE 3><83%>
+	Have you forgot me, sir?
+<SPEECH 33><ACT 4><SCENE 3><83%>
+	An honest poor servant of yours.
+<SPEECH 34><ACT 4><SCENE 3><83%>
+	The gods are witness,
+	Ne'er did poor steward wear a truer grief
+	For his undone lord than mine eyes for you.
+<SPEECH 35><ACT 4><SCENE 3><83%>
+	I beg of you to know me, good my lord,
+	To accept my grief and whilst this poor wealth lasts
+	To entertain me as your steward still.
+<SPEECH 36><ACT 4><SCENE 3><84%>
+	No, my most worthy master; in whose breast
+	Doubt and suspect, alas! are plac'd too late.
+	You should have fear'd false times when you did feast;
+	Suspect still comes when an estate is least.
+	That which I show, heaven knows, is merely love,
+	Duty and zeal to your unmatched mind,
+	Care of your food and living; and, believe it,
+	My most honour'd lord,
+	For any benefit that points to me,
+	Either in hope, or present, I'd exchange
+	For this one wish, that you had power and wealth
+	To requite me by making rich yourself.
+<SPEECH 37><ACT 4><SCENE 3><85%>
+	O! let me stay
+	And comfort you, my master.
+<SPEECH 38><ACT 5><SCENE 1><90%>
+	It is in vain that you would speak with Timon;
+	For he is set so only to himself
+	That nothing but himself, which looks like man,
+	Is friendly with him.
+<SPEECH 39><ACT 5><SCENE 1><90%>
+	Here is his cave.
+	Peace and content be here! Lord Timon! Timon!
+	Look out, and speak to friends. The Athenians,
+	By two of their most reverend senate, greet thee:
+	Speak to them, noble Timon.
+<SPEECH 40><ACT 5><SCENE 1><93%>
+	Stay not; all's in vain.
+<SPEECH 41><ACT 5><SCENE 1><94%>
+	Trouble him no further; thus you still shall find him.

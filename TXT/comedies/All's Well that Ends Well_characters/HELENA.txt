@@ -1,0 +1,569 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	I do affect a sorrow indeed, but I have it too.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	If the living be enemy to the grief, the excess makes it soon mortal.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	O! were that all. I think not on my father;
+	And these great tears grace his remembrance more
+	Than those I shed for him. What was he like?
+	I have forgot him: my imagination
+	Carries no favour in't but Bertram's.
+	I am undone: there is no living, none,
+	If Bertram be away. It were all one
+	That I should love a bright particular star
+	And think to wed it, he is so above me:
+	In his bright radiance and collateral light
+	Must I be comforted, not in his sphere.
+	The ambition in my love thus plagues itself:
+	The hind that would be mated by the lion
+	Must die for love. 'Twas pretty, though a plague,
+	To see him every hour; to sit and draw
+	His arched brows, his hawking eye, his curls,
+	In our heart's table; heart too capable
+	Of every line and trick of his sweet favour:
+	But now he's gone, and my idolatrous fancy
+	Must sanctify his reliques. Who comes here?
+	One that goes with him: I love him for his sake;
+	And yet I know him a notorious liar,
+	Think him a great way fool, solely a coward;
+	Yet these fix'd evils sit so fit in him,
+	That they take place, when virtue's steely bones
+	Look bleak in the cold wind: withal, full oft we see
+	Cold wisdom waiting on superfluous folly.
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	And you, monarch!
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	And no.
+<SPEECH 6><ACT 1><SCENE 1><4%>
+	Ay. You have some stain of soldier in you; let me ask you a question. Man is enemy to virginity; how may we barricado it against him?
+<SPEECH 7><ACT 1><SCENE 1><4%>
+	But he assails; and our virginity, though valiant in the defence, yet is weak. Unfold to us some war-like resistance.
+<SPEECH 8><ACT 1><SCENE 1><4%>
+	Bless our poor virginity from underminers and blowers up! Is there no military policy, how virgins might blow up men?
+<SPEECH 9><ACT 1><SCENE 1><5%>
+	I will stand for't a little, though therefore I die a virgin.
+<SPEECH 10><ACT 1><SCENE 1><5%>
+	How might one do, sir, to lose it to her own liking?
+<SPEECH 11><ACT 1><SCENE 1><6%>
+	Not my virginity yet.
+	There shall your master have a thousand loves,
+	A mother, and a mistress, and a friend,
+	A phœnix, captain, and an enemy,
+	A guide, a goddess, and a sovereign,
+	A counsellor, a traitress, and a dear;
+	His humble ambition, proud humility,
+	His jarring concord, and his discord dulcet,
+	His faith, his sweet disaster; with a world
+	Of pretty, fond, adoptious christendoms,
+	That blinking Cupid gossips. Now shall he—
+	I know not what he shall. God send him well!
+	The court's a learning-place, and he is one—
+<SPEECH 12><ACT 1><SCENE 1><6%>
+	That I wish well. 'Tis pity—
+<SPEECH 13><ACT 1><SCENE 1><6%>
+	That wishing well had not a body in't,
+	Which might be felt; that we, the poorer born,
+	Whose baser stars do shut us up in wishes,
+	Might with effects of them follow our friends,
+	And show what we alone must think, which never
+	Returns us thanks.
+<SPEECH 14><ACT 1><SCENE 1><7%>
+	Monsieur Parolles, you were born under a charitable star.
+<SPEECH 15><ACT 1><SCENE 1><7%>
+	I especially think, under Mars.
+<SPEECH 16><ACT 1><SCENE 1><7%>
+	The wars have so kept you under that you must needs be born under Mars.
+<SPEECH 17><ACT 1><SCENE 1><7%>
+	When he was retrograde, I think rather.
+<SPEECH 18><ACT 1><SCENE 1><7%>
+	You go so much backward when you fight.
+<SPEECH 19><ACT 1><SCENE 1><7%>
+	So is running away, when fear proposes the safety: but the composition that your valour and fear makes in you is a virtue of a good wing, and I like the wear well.
+<SPEECH 20><ACT 1><SCENE 1><8%>
+	Our remedies oft in ourselves do lie
+	Which we ascribe to heaven: the fated sky
+	Gives us free scope; only doth backward pull
+	Our slow designs when we ourselves are dull.
+	What power is it which mounts my love so high;
+	That makes me see, and cannot feed mine eye?
+	The mightiest space in fortune nature brings
+	To join like likes, and kiss like native things.
+	Impossible be strange attempts to those
+	That weigh their pains in sense, and do suppose
+	What hath been cannot be: who ever strove
+	To show her merit, that did miss her love?
+	The king's disease,—my project may deceive me,
+	But my intents are fix'd and will not leave me.
+<SPEECH 21><ACT 1><SCENE 3><15%>
+	What is your pleasure, madam?
+<SPEECH 22><ACT 1><SCENE 3><15%>
+	Mine honourable mistress.
+<SPEECH 23><ACT 1><SCENE 3><16%>
+	That I am not.
+<SPEECH 24><ACT 1><SCENE 3><16%>
+	Pardon, madam;
+	The Count Rousillon cannot be my brother:
+	I am from humble, he from honour'd name;
+	No note upon my parents, his all noble:
+	My master, my dear lord he is; and I
+	His servant live, and will his vassal die.
+	He must not be my brother.
+<SPEECH 25><ACT 1><SCENE 3><16%>
+	You are my mother, madam: would you were,—
+	So that my lord your son were not my brother,—
+	Indeed my mother! or were you both our mothers,
+	I care no more for than I do for heaven,
+	So I were not his sister. Can't no other,
+	But, I your daughter, he must be my brother?
+<SPEECH 26><ACT 1><SCENE 3><17%>
+	Good madam, pardon me!
+<SPEECH 27><ACT 1><SCENE 3><17%>
+	Your pardon, noble mistress!
+<SPEECH 28><ACT 1><SCENE 3><17%>
+	Do not you love him, madam?
+<SPEECH 29><ACT 1><SCENE 3><17%>
+	Then, I confess,
+	Here on my knee, before high heaven and you
+	That before you, and next unto high heaven,
+	I love your son.
+	My friends were poor, but honest; so's my love:
+	Be not offended, for it hurts not him
+	That he is lov'd of me: I follow him not
+	By any token of presumptuous suit;
+	Nor would I have him till I do deserve him;
+	Yet never know how that desert should be.
+	I know I love in vain, strive against hope;
+	Yet, in this captious and intenible sieve
+	I still pour in the waters of my love,
+	And lack not to lose still. Thus, Indian-like,
+	Religious in mine error, I adore
+	The sun, that looks upon his worshipper,
+	But knows of him no more. My dearest madam,
+	Let not your hate encounter with my love
+	For loving where you do: but, if yourself,
+	Whose aged honour cites a virtuous youth,
+	Did ever in so true a flame of liking
+	Wish chastely and love dearly, that your Dian
+	Was both herself and Love; O! then, give pity
+	To her, whose state is such that cannot choose
+	But lend and give where she is sure to lose;
+	That seeks not to find that her search implies,
+	But, riddle-like, lives sweetly where she dies.
+<SPEECH 30><ACT 1><SCENE 3><18%>
+	Madam, I had.
+<SPEECH 31><ACT 1><SCENE 3><18%>
+	I will tell truth; by grace itself I swear.
+	You know my father left me some prescriptions
+	Of rare and prov'd effects, such as his reading
+	And manifest experience had collected
+	For general sovereignty; and that he will'd me
+	In heedfull'st reservation to bestow them,
+	As notes whose faculties inclusive were
+	More than they were in note. Amongst the rest,
+	There is a remedy, approv'd, set down
+	To cure the desperate languishings whereof
+	The king is render'd lost.
+<SPEECH 32><ACT 1><SCENE 3><18%>
+	My lord your son made me to think of this;
+	Else Paris, and the medicine, and the king,
+	Had from the conversation of my thoughts
+	Haply been absent then.
+<SPEECH 33><ACT 1><SCENE 3><19%>
+	There's something in't,
+	More than my father's skill, which was the great'st
+	Of his profession, that his good receipt
+	Shall for my legacy be sanctified
+	By the luckiest stars in heaven: and, would your honour
+	But give me leave to try success, I'd venture
+	The well-lost life of mine on his Grace's cure,
+	By such a day, and hour.
+<SPEECH 34><ACT 1><SCENE 3><19%>
+	Ay, madam, knowingly.
+<SPEECH 35><ACT 2><SCENE 1><23%>
+	Ay, my good lord.
+	Gerard de Narbon was my father;
+	In what he did profess well found.
+<SPEECH 36><ACT 2><SCENE 1><23%>
+	The rather will I spare my praises towards him;
+	Knowing him is enough. On's bed of death
+	Many receipts he gave me; chiefly one,
+	Which, as the dearest issue of his practice,
+	And of his old experience the only darling,
+	He bade me store up as a triple eye,
+	Safer than mine own two, more dear. I have so;
+	And, hearing your high majesty is touch'd
+	With that malignant cause wherein the honour
+	Of my dear father's gift stands chief in power,
+	I come to tender it and my appliance,
+	With all bound humbleness.
+<SPEECH 37><ACT 2><SCENE 1><24%>
+	My duty then, shall pay me for my pains:
+	I will no more enforce mine office on you;
+	Humbly entreating from your royal thoughts
+	A modest one, to bear me back again.
+<SPEECH 38><ACT 2><SCENE 1><24%>
+	What I can do can do no hurt to try,
+	Since you set up your rest 'gainst remedy.
+	He that of greatest works is finisher
+	Oft does them by the weakest minister:
+	So holy writ in babes hath judgment shown,
+	When judges have been babes; great floods have flown
+	From simple sources; and great seas have dried
+	When miracles have by the greatest been denied.
+	Oft expectation fails, and most oft there
+	Where most it promises; and oft it hits
+	Where hope is coldest and despair most fits.
+<SPEECH 39><ACT 2><SCENE 1><25%>
+	Inspired merit so by breath is barr'd.
+	It is not so with Him that all things knows,
+	As 'tis with us that square our guess by shows;
+	But most it is presumption in us when
+	The help of heaven we count the act of men.
+	Dear sir, to my endeavours give consent;
+	Of heaven, not me, make an experiment.
+	I am not an impostor that proclaim
+	Myself against the level of mine aim;
+	But know I think, and think I know most sure,
+	My art is not past power nor you past cure.
+<SPEECH 40><ACT 2><SCENE 1><25%>
+	The great'st grace lending grace,
+	Ere twice the horses of the sun shall bring
+	Their fiery torcher his diurnal ring,
+	Ere twice in murk and occidental damp
+	Moist Hesperus hath quench'd his sleepy lamp,
+	Or four and twenty times the pilot's glass
+	Hath told the thievish minutes how they pass,
+	What is infirm from your sound parts shall fly,
+	Health shall live free, and sickness freely die.
+<SPEECH 41><ACT 2><SCENE 1><25%>
+	Tax of impudence,
+	A strumpet's boldness, a divulged shame,
+	Traduc'd by odious ballads: my maiden's name
+	Sear'd otherwise; nay worse—if worse—extended
+	With vilest torture let my life be ended.
+<SPEECH 42><ACT 2><SCENE 1><26%>
+	If I break time, or flinch in property
+	Of what I spoke, unpitied let me die,
+	And well deserv'd. Not helping, death's my fee;
+	But, if I help, what do you promise me?
+<SPEECH 43><ACT 2><SCENE 1><26%>
+	But will you make it even?
+<SPEECH 44><ACT 2><SCENE 1><26%>
+	Then shalt thou give me with thy kingly hand
+	What husband in thy power I will command:
+	Exempted be from me the arrogance
+	To choose from forth the royal blood of France,
+	My low and humble name to propagate
+	With any branch or image of thy state;
+	But such a one, thy vassal, whom I know
+	Is free for me to ask, thee to bestow.
+<SPEECH 45><ACT 2><SCENE 3><31%>
+	To each of you one fair and virtuous mistress
+	Fall, when Love please! marry, to each, but one.
+<SPEECH 46><ACT 2><SCENE 3><31%>
+	Gentlemen,
+	Heaven hath through me restor'd the king to health.
+<SPEECH 47><ACT 2><SCENE 3><31%>
+	I am a simple maid; and therein wealthiest
+	That I protest I simply am a maid.
+	Please it your majesty, I have done already:
+	The blushes in my cheeks thus whisper me,
+	'We blush, that thou shouldst choose; but, be refus'd,
+	Let the white death sit on thy cheek for ever;
+	We'll ne'er come there again.'
+<SPEECH 48><ACT 2><SCENE 3><32%>
+	Now, Dian, from thy altar do I fly,
+	And to imperial Love, that god most high,
+	Do my sighs stream. Sir, will you hear my suit?
+<SPEECH 49><ACT 2><SCENE 3><32%>
+	Thanks, sir; all the rest is mute.
+<SPEECH 50><ACT 2><SCENE 3><32%>
+	The honour, sir, that flames in your fair eyes,
+	Before I speak, too threateningly replies:
+	Love make your fortunes twenty times above
+	Her that so wishes, and her humble love!
+<SPEECH 51><ACT 2><SCENE 3><32%>
+	My wish receive,
+	Which great Love grant! and so I take my leave.
+<SPEECH 52><ACT 2><SCENE 3><32%>
+	</STAGE DIR> Be not afraid that I your hand should take;
+	I'll never do you wrong for your own sake:
+	Blessing upon your vows! and in your bed
+	Find fairer fortune, if you ever wed!
+<SPEECH 53><ACT 2><SCENE 3><32%>
+	You are too young, too happy, and too good,
+	To make yourself a son out of my blood.
+<SPEECH 54><ACT 2><SCENE 3><33%>
+	</STAGE DIR> I dare not say I take you; but I give
+	Me and my service, ever whilst I live,
+	Into your guiding power. This is the man.
+<SPEECH 55><ACT 2><SCENE 3><34%>
+	That you are well restor'd, my lord, I'm glad:
+	Let the rest go.
+<SPEECH 56><ACT 2><SCENE 4><39%>
+	My mother greets me kindly: is she well?
+<SPEECH 57><ACT 2><SCENE 4><40%>
+	If she be very well, what does she ail that she's not very well?
+<SPEECH 58><ACT 2><SCENE 4><40%>
+	What two things?
+<SPEECH 59><ACT 2><SCENE 4><40%>
+	I hope, sir, I have your good will to have mine own good fortunes.
+<SPEECH 60><ACT 2><SCENE 4><41%>
+	What's his will else?
+<SPEECH 61><ACT 2><SCENE 4><41%>
+	What more commands he?
+<SPEECH 62><ACT 2><SCENE 4><41%>
+	In everything I wait upon his will.
+<SPEECH 63><ACT 2><SCENE 4><41%>
+	I pray you. Come, sirrah.
+<SPEECH 64><ACT 2><SCENE 5><43%>
+	I have, sir, as I was commanded from you,
+	Spoke with the king, and have procur'd his leave
+	For present parting; only, he desires
+	Some private speech with you.
+<SPEECH 65><ACT 2><SCENE 5><44%>
+	Sir, I can nothing say,
+	But that I am your most obedient servant.
+<SPEECH 66><ACT 2><SCENE 5><44%>
+	And ever shall
+	With true observance seek to eke out that
+	Wherein toward me my homely stars have fail'd
+	To equal my great fortune.
+<SPEECH 67><ACT 2><SCENE 5><44%>
+	Pray sir, your pardon.
+<SPEECH 68><ACT 2><SCENE 5><44%>
+	I am not worthy of the wealth I owe,
+	Nor dare I say 'tis mine, and yet it is;
+	But, like a timorous thief, most fain would steal
+	What law does vouch mine own.
+<SPEECH 69><ACT 2><SCENE 5><44%>
+	Something, and scarce so much: nothing, indeed.
+	I would not tell you what I would, my lord:—
+	Faith, yes;
+	Strangers and foes do sunder, and not kiss.
+<SPEECH 70><ACT 2><SCENE 5><44%>
+	I shall not break your bidding, good my lord.
+<SPEECH 71><ACT 3><SCENE 2><47%>
+	Madam, my lord is gone, for ever gone.
+<SPEECH 72><ACT 3><SCENE 2><48%>
+	Look on his letter, madam; here's my passport.
+	When thou canst get the ring upon my finger, which never shall come off, and show me a child begotten of thy body that I am father to, then call me husband: but in such a 'then' I write a 'never.'
+	This is a dreadful sentence.
+<SPEECH 73><ACT 3><SCENE 2><48%>
+	Till I have no wife, I have nothing in France.
+	'Tis bitter.
+<SPEECH 74><ACT 3><SCENE 2><48%>
+	Ay, madam.
+<SPEECH 75><ACT 3><SCENE 2><49%>
+	'Till I have no wife, I have nothing in France.'
+	Nothing in France until he has no wife!
+	Thou shalt have none, Rousillon, none in France;
+	Then hast thou all again. Poor lord! is't I
+	That chase thee from thy country, and expose
+	Those tender limbs of thine to the event
+	Of the non-sparing war? and is it I
+	That drive thee from the sportive court, where thou
+	Wast shot at with fair eyes, to be the mark
+	Of smoky muskets? O you leaden messengers,
+	That ride upon the violent speed of fire,
+	Fly with false aim; move the still-piecing air,
+	That sings with piercing; do not touch my lord!
+	Whoever shoots at him, I set him there;
+	Whoever charges on his forward breast,
+	I am the caitiff that do hold him to't;
+	And, though I kill him not, I am the cause
+	His death was so effected: better 'twere
+	I met the ravin lion when he roar'd
+	With sharp constraint of hunger; better 'twere
+	That all the miseries which nature owes
+	Were mine at once. No, come thou home, Rousillon,
+	Whence honour but of danger wins a scar,
+	As oft it loses all: I will be gone;
+	My being here it is that holds thee hence:
+	Shall I stay here to do't? no, no, although
+	The air of paradise did fan the house,
+	And angels offic'd all: I will be gone,
+	That pitiful rumour may report my flight,
+	To consolate thine ear. Come, night; end, day!
+	For with the dark, poor thief, I'll steal away.
+<SPEECH 76><ACT 3><SCENE 5><53%>
+	To Saint Jaques le Grand.
+	Where do the palmers lodge, I do beseech you?
+<SPEECH 77><ACT 3><SCENE 5><53%>
+	Is this the way?
+<SPEECH 78><ACT 3><SCENE 5><54%>
+	Is it yourself?
+<SPEECH 79><ACT 3><SCENE 5><54%>
+	I thank you, and will stay upon your leisure.
+<SPEECH 80><ACT 3><SCENE 5><54%>
+	I did so.
+<SPEECH 81><ACT 3><SCENE 5><54%>
+	His name, I pray you.
+<SPEECH 82><ACT 3><SCENE 5><54%>
+	But by the ear, that hears most nobly of him;
+	His face I know not.
+<SPEECH 83><ACT 3><SCENE 5><54%>
+	Ay, surely, mere the truth: I know his lady.
+<SPEECH 84><ACT 3><SCENE 5><54%>
+	What's his name?
+<SPEECH 85><ACT 3><SCENE 5><54%>
+	O! I believe with him,
+	In argument of praise, or to the worth
+	Of the great count himself, she is too mean
+	To have her name repeated: all her deserving
+	Is a reserved honesty, and that
+	I have not heard examin'd.
+<SPEECH 86><ACT 3><SCENE 5><55%>
+	How do you mean?
+	May be the amorous count solicits her
+	In the unlawful purpose.
+<SPEECH 87><ACT 3><SCENE 5><55%>
+	Which is the Frenchman?
+<SPEECH 88><ACT 3><SCENE 5><55%>
+	I like him well.
+<SPEECH 89><ACT 3><SCENE 5><55%>
+	Which is he?
+<SPEECH 90><ACT 3><SCENE 5><55%>
+	Perchance he's hurt i' the battle.
+<SPEECH 91><ACT 3><SCENE 5><56%>
+	I humbly thank you.
+	Please it this matron and this gentle maid
+	To eat with us to-night, the charge and thanking
+	Shall be for me; and, to requite you further,
+	I will bestow some precepts of this virgin
+	Worthy the note.
+<SPEECH 92><ACT 3><SCENE 7><60%>
+	If you misdoubt me that I am not she,
+	I know not how I shall assure you further,
+	But I shall lose the grounds I work upon.
+<SPEECH 93><ACT 3><SCENE 7><60%>
+	Nor would I wish you.
+	First, give me trust, the county is my husband,
+	And what to your sworn counsel I have spoken
+	Is so from word to word; and then you cannot,
+	By the good aid that I of you shall borrow,
+	Err in bestowing it.
+<SPEECH 94><ACT 3><SCENE 7><61%>
+	Take this purse of gold,
+	And let me buy your friendly help thus far,
+	Which I will over-pay and pay again
+	When I have found it. The county woos your daughter,
+	Lays down his wanton siege before her beauty,
+	Resolv'd to carry her: let her in fine consent,
+	As we'll direct her how 'tis best to bear it.
+	Now, his important blood will nought deny
+	That she'll demand: a ring the county wears,
+	That down ward hath succeeded in his house
+	From son to son, some four or five descents
+	Since the first father wore it: this ring he holds
+	In most rich choice; yet, in his idle fire,
+	To buy his will, it would not seem too dear,
+	Howe'er repented after.
+<SPEECH 95><ACT 3><SCENE 7><61%>
+	You see it lawful then. It is no more,
+	But that your daughter, ere she seems as won,
+	Desires this ring, appoints him an encounter,
+	In fine, delivers me to fill the time,
+	Herself most chastely absent. After this,
+	To marry her, I'll add three thousand crowns
+	To what is past already.
+<SPEECH 96><ACT 3><SCENE 7><61%>
+	Why then to-night
+	Let us assay our plot; which, if it speed,
+	Is wicked meaning in a lawful deed,
+	And lawful meaning in a lawful act,
+	Where both not sin, and yet a sinful fact.
+	But let's about it.
+<SPEECH 97><ACT 4><SCENE 4><79%>
+	That you may well perceive I have not wrong'd you,
+	One of the greatest in the Christian world
+	Shall be my surety; 'fore whose throne 'tis needful,
+	Ere I can perfect mine intents, to kneel.
+	Time was I did him a desired office,
+	Dear almost as his life; which gratitude
+	Through flinty Tartar's bosom would peep forth,
+	And answer, thanks. I duly am inform'd
+	His Grace is at Marseilles; to which place
+	We have convenient convoy. You must know,
+	I am supposed dead: the army breaking,
+	My husband hies him home; where, heaven aiding,
+	And by the leave of my good lord the king,
+	We'll be before our welcome.
+<SPEECH 98><ACT 4><SCENE 4><80%>
+	Nor you, mistress,
+	Ever a friend whose thoughts more truly labour
+	To recompense your love. Doubt not but heaven
+	Hath brought me up to be your daughter's dower,
+	As it hath fated her to be my motive
+	And helper to a husband. But, O strange men!
+	That can such sweet use make of what they hate,
+	When saucy trusting of the cozen'd thoughts
+	Defiles the pitchy night: so lust doth play
+	With what it loathes for that which is away.
+	But more of this hereafter. You, Diana,
+	Under my poor instructions yet must suffer
+	Something in my behalf.
+<SPEECH 99><ACT 4><SCENE 4><80%>
+	Yet, I pray you:
+	But with the word the time will bring on summer,
+	When briers shall have leaves as well as thorns,
+	And be as sweet as sharp. We must away;
+	Our waggon is prepar'd, and time revives us:
+	All's well that ends well: still the fine's the crown;
+	Whate'er the course, the end is the renown.
+<SPEECH 100><ACT 5><SCENE 1><84%>
+	But this exceeding posting, day and night,
+	Must wear your spirits low; we cannot help it:
+	But since you have made the days and nights as one,
+	To wear your gentle limbs in my affairs,
+	Be bold you do so grow in my requital
+	As nothing can unroot you. In happy time;
+	This man may help me to his majesty's ear,
+	If he would spend his power. God save you, sir.
+<SPEECH 101><ACT 5><SCENE 1><85%>
+	Sir, I have seen you in the court of France.
+<SPEECH 102><ACT 5><SCENE 1><85%>
+	I do presume, sir, that you are not fallen
+	From the report that goes upon your goodness;
+	And therefore, goaded with most sharp occasions,
+	Which lay nice manners by, I put you to
+	The use of your own virtues, for the which
+	I shall continue thankful.
+<SPEECH 103><ACT 5><SCENE 1><85%>
+	That it will please you
+	To give this poor petition to the king,
+	And aid me with that store of power you have
+	To come into his presence.
+<SPEECH 104><ACT 5><SCENE 1><85%>
+	Not here, sir!
+<SPEECH 105><ACT 5><SCENE 1><85%>
+	All's well that ends well yet,
+	Though time seems so adverse and means unfit.
+	I do beseech you, whither is he gone?
+<SPEECH 106><ACT 5><SCENE 1><85%>
+	I do beseech you, sir,
+	Since you are like to see the king before me,
+	Commend the paper to his gracious hand;
+	Which I presume shall render you no blame
+	But rather make you thank your pains for it.
+	I will come after you with what good speed
+	Our means will make us means.
+<SPEECH 107><ACT 5><SCENE 1><86%>
+	And you shall find yourself to be well thank'd,
+	Whate'er falls more. We must to horse again:
+	Go, go, provide.
+<SPEECH 108><ACT 5><SCENE 3><99%>
+	No, my good lord;
+	'Tis but the shadow of a wife you see;
+	The name and not the thing.
+<SPEECH 109><ACT 5><SCENE 3><99%>
+	O my good lord! when I was like this maid,
+	I found you wondrous kind. There is your ring;
+	And, look you, here's your letter; this it says:
+	When from my finger you can get this ring,
+	And are by me with child, &c. This is done:
+	Will you be mine, now you are doubly won?
+<SPEECH 110><ACT 5><SCENE 3><99%>
+	If it appear not plain, and prove untrue,
+	Deadly divorce step between me and you!
+	O! my dear mother; do I see you living?

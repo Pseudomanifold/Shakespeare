@@ -1,0 +1,34 @@
+<SPEECH 1><ACT 1><SCENE 3><9%>
+	Indeed, they are disproportion'd;
+	My letters say a hundred and seven galleys.
+<SPEECH 2><ACT 1><SCENE 3><10%>
+	This cannot be,
+	By no assay of reason; 'tis a pageant
+	To keep us in false gaze. When we consider
+	The importancy of Cyprus to the Turk,
+	And let ourselves again but understand,
+	That as it more concerns the Turk than Rhodes,
+	So may he with more facile question bear it,
+	For that it stands not in such war-like brace,
+	But altogether lacks the abilities
+	That Rhodes is dress'd in: if we make thought of this,
+	We must not think the Turk is so unskilful
+	To leave that latest which concerns him first,
+	Neglecting an attempt of ease and gain,
+	To wake and wage a danger profitless.
+<SPEECH 3><ACT 1><SCENE 3><10%>
+	Ay, so I thought. How many, as you guess?
+<SPEECH 4><ACT 1><SCENE 3><10%>
+	He's now in Florence.
+<SPEECH 5><ACT 1><SCENE 3><10%>
+	Here comes Brabantio and the valiant Moor.
+<SPEECH 6><ACT 1><SCENE 3><12%>
+	But, Othello, speak:
+	Did you by indirect and forced courses
+	Subdue and poison this young maid's affections;
+	Or came it by request and such fair question
+	As soul to soul affordeth?
+<SPEECH 7><ACT 1><SCENE 3><17%>
+	You must away to-night.
+<SPEECH 8><ACT 1><SCENE 3><18%>
+	Adieu, brave Moor! use Desdemona well.

@@ -1,0 +1,22 @@
+<SPEECH 1><ACT 2><SCENE 1><28%>
+	O! let us have him; for his silver hairs
+	Will purchase us a good opinion
+	And buy men's voices to commend our deeds:
+	It shall be said his judgment rul'd our hands;
+	Our youths and wildness shall no whit appear,
+	But all be buried in his gravity.
+<SPEECH 2><ACT 2><SCENE 1><31%>
+	Caius Ligarius doth bear Cæsar hard,
+	Who rated him for speaking well of Pompey:
+	I wonder none of you have thought of him.
+<SPEECH 3><ACT 3><SCENE 1><45%>
+	Most high, most mighty, and most puissant Cæsar,
+	Metellus Cimber throws before thy seat
+	A humble heart,—
+<SPEECH 4><ACT 3><SCENE 1><46%>
+	Is there no voice more worthy than my own,
+	To sound more sweetly in great Cæsar's ear
+	For the repealing of my banish'd brother?
+<SPEECH 5><ACT 3><SCENE 1><47%>
+	Stand fast together, lest some friend of Cæsar's
+	Should chance—

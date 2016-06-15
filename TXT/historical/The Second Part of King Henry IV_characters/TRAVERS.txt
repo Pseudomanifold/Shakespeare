@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	My lord, Sir John Umfrevile turn'd me back
+	With joyful tidings; and, being better hors'd,
+	Out-rode me. After him came spurring hard
+	A gentleman, almost forspent with speed,
+	That stopp'd by me to breathe his bloodied horse.
+	He ask'd the way to Chester; and of him
+	I did demand what news from Shrewsbury.
+	He told me that rebellion had bad luck,
+	And that young Harry Percy's spur was cold.
+	With that he gave his able horse the head,
+	And, bending forward struck his armed heels
+	Against the panting sides of his poor jade
+	Up to the rowel-head, and, starting so,
+	He seem'd in running to devour the way,
+	Staying no longer question.
+<SPEECH 2><ACT 1><SCENE 1><6%>
+	This strained passion doth you wrong, my lord.

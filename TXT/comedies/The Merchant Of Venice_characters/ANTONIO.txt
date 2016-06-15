@@ -1,0 +1,238 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	In sooth, I know not why I am so sad:
+	It wearies me; you say it wearies you;
+	But how I caught it, found it, or came by it,
+	What stuff 'tis made of, whereof it is born,
+	I am to learn;
+	And such a want-wit sadness makes of me,
+	That I have much ado to know myself.
+<SPEECH 2><ACT 1><SCENE 1><2%>
+	Believe me, no: I thank my fortune for it,
+	My ventures are not in one bottom trusted,
+	Nor to one place; nor is my whole estate
+	Upon the fortune of this present year:
+	Therefore, my merchandise makes me not sad.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Fie, fie!
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	Your worth is very dear in my regard.
+	I take it, your own business calls on you,
+	And you embrace the occasion to depart.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	I hold the world but as the world, Gratiano;
+	A stage where every man must play a part,
+	And mine a sad one.
+<SPEECH 6><ACT 1><SCENE 1><4%>
+	Farewell: I'll grow a talker for this gear.
+<SPEECH 7><ACT 1><SCENE 1><5%>
+	Is that anything now?
+<SPEECH 8><ACT 1><SCENE 1><5%>
+	Well, tell me now, what lady is the same
+	To whom you swore a secret pilgrimage,
+	That you to-day promis'd to tell me of?
+<SPEECH 9><ACT 1><SCENE 1><5%>
+	I pray you, good Bassanio, let me know it;
+	And if it stand, as you yourself still do,
+	Within the eye of honour, be assur'd,
+	My purse, my person, my extremest means,
+	Lie all unlock'd to your occasions.
+<SPEECH 10><ACT 1><SCENE 1><6%>
+	You know me well, and herein spend but time
+	To wind about my love with circumstance;
+	And out of doubt you do me now more wrong
+	In making question of my uttermost
+	Than if you had made waste of all I have:
+	Then do but say to me what I should do
+	That in your knowledge may by me be done,
+	And I am prest unto it: therefore speak.
+<SPEECH 11><ACT 1><SCENE 1><7%>
+	Thou knowest that all my fortunes are at sea;
+	Neither have I money, nor commodity
+	To raise a present sum: therefore go forth;
+	Try what my credit can in Venice do:
+	That shall be rack'd, even to the uttermost,
+	To furnish thee to Belmont, to fair Portia.
+	Go, presently inquire, and so will I,
+	Where money is, and I no question make
+	To have it of my trust or for my sake.
+<SPEECH 12><ACT 1><SCENE 3><14%>
+	Shylock, albeit I neither lend nor borrow
+	By taking nor by giving of excess,
+	Yet, to supply the ripe wants of my friend,
+	I'll break a custom. <STAGE DIR>
+	</STAGE DIR> Is he yet possess'd
+	How much ye would?
+<SPEECH 13><ACT 1><SCENE 3><15%>
+	And for three months.
+<SPEECH 14><ACT 1><SCENE 3><15%>
+	I do never use it.
+<SPEECH 15><ACT 1><SCENE 3><15%>
+	And what of him? did he take interest?
+<SPEECH 16><ACT 1><SCENE 3><16%>
+	This was a venture, sir, that Jacob serv'd for;
+	A thing not in his power to bring to pass,
+	But sway'd and fashion'd by the hand of heaven.
+	Was this inserted to make interest good?
+	Or is your gold and silver ewes and rams?
+<SPEECH 17><ACT 1><SCENE 3><16%>
+	Mark you this, Bassanio,
+	The devil can cite Scripture for his purpose.
+	An evil soul, producing holy witness,
+	Is like a villain with a smiling cheek,
+	A goodly apple rotten at the heart.
+	O, what a goodly outside falsehood hath!
+<SPEECH 18><ACT 1><SCENE 3><16%>
+	Well, Shylock, shall we be beholding to you?
+<SPEECH 19><ACT 1><SCENE 3><17%>
+	I am as like to call thee so again,
+	To spet on thee again, to spurn thee too.
+	If thou wilt lend this money, lend it not
+	As to thy friends,—for when did friendship take
+	A breed for barren metal of his friend?—
+	But lend it rather to thine enemy;
+	Who if he break, thou mayst with better face
+	Exact the penalty.
+<SPEECH 20><ACT 1><SCENE 3><17%>
+	This were kindness.
+<SPEECH 21><ACT 1><SCENE 3><18%>
+	Content, i' faith: I'll seal to such a bond,
+	And say there is much kindness in the Jew.
+<SPEECH 22><ACT 1><SCENE 3><18%>
+	Why, fear not, man; I will not forfeit it:
+	Within these two months, that's a month before
+	This bond expires, I do expect return
+	Of thrice three times the value of this bond.
+<SPEECH 23><ACT 1><SCENE 3><18%>
+	Yes, Shylock, I will seal unto this bond.
+<SPEECH 24><ACT 1><SCENE 3><19%>
+	Hie thee, gentle Jew.
+	This Hebrew will turn Christian: he grows kind.
+<SPEECH 25><ACT 1><SCENE 3><19%>
+	Come on: in this there can be no dismay;
+	My ships come home a month before the day.
+<SPEECH 26><ACT 2><SCENE 6><36%>
+	Who's there?
+<SPEECH 27><ACT 2><SCENE 6><36%>
+	Fie, fie, Gratiano! where are all the rest?
+	'Tis nine o'clock; our friends all stay for you.
+	No masque to-night: the wind is come about;
+	Bassanio presently will go aboard:
+	I have sent twenty out to seek for you.
+<SPEECH 28><ACT 3><SCENE 3><62%>
+	Hear me yet, good Shylock.
+<SPEECH 29><ACT 3><SCENE 3><62%>
+	I pray thee, hear me speak.
+<SPEECH 30><ACT 3><SCENE 3><63%>
+	Let him alone:
+	I'll follow him no more with bootless prayers.
+	He seeks my life; his reason well I know.
+	I oft deliver'd from his forfeitures
+	Many that have at times made moan to me;
+	Therefore he hates me.
+<SPEECH 31><ACT 3><SCENE 3><63%>
+	The duke cannot deny the course of law:
+	For the commodity that strangers have
+	With us in Venice, if it be denied,
+	'Twill much impeach the justice of the state;
+	Since that the trade and profit of the city
+	Consisteth of all nations. Therefore, go:
+	These griefs and losses have so bated me,
+	That I shall hardly spare a pound of flesh
+	To-morrow to my bloody creditor.
+	Well, gaoler, on. Pray God, Bassanio come
+	To see me pay his debt, and then I care not!
+<SPEECH 32><ACT 4><SCENE 1><70%>
+	Ready, so please your Grace.
+<SPEECH 33><ACT 4><SCENE 1><70%>
+	I have heard
+	Your Grace hath ta'en great pains to qualify
+	His rigorous course; but since he stands obdurate,
+	And that no lawful means can carry me
+	Out of his envy's reach, I do oppose
+	My patience to his fury, and am arm'd
+	To suffer with a quietness of spirit
+	The very tyranny and rage of his.
+<SPEECH 34><ACT 4><SCENE 1><73%>
+	I pray you, think you question with the Jew:
+	You may as well go stand upon the beach,
+	And bid the main flood bate his usual height;
+	You may as well use question with the wolf,
+	Why he hath made the ewe bleat for the lamb;
+	You may as well forbid the mountain pines
+	To wag their high tops, and to make no noise
+	When they are fretted with the gusts of heaven;
+	You may as well do anything most hard,
+	As seek to soften that—than which what's harder?—
+	His Jewish heart: therefore, I do beseech you,
+	Make no more offers, use no further means;
+	But with all brief and plain conveniency,
+	Let me have judgment, and the Jew his will.
+<SPEECH 35><ACT 4><SCENE 1><74%>
+	I am a tainted wether of the flock,
+	Meetest for death: the weakest kind of fruit
+	Drops earliest to the ground; and so let me:
+	You cannot better be employ'd, Bassanio,
+	Than to live still, and write mine epitaph.
+<SPEECH 36><ACT 4><SCENE 1><77%>
+	Ay, so he says.
+<SPEECH 37><ACT 4><SCENE 1><77%>
+	I do.
+<SPEECH 38><ACT 4><SCENE 1><79%>
+	Most heartily I do beseech the court
+	To give the judgment.
+<SPEECH 39><ACT 4><SCENE 1><80%>
+	But little: I am arm'd and well prepar'd.
+	Give me your hand, Bassanio: fare you well!
+	Grieve not that I am fallen to this for you;
+	For herein Fortune shows herself more kind
+	Than is her custom: it is still her use
+	To let the wretched man outlive his wealth,
+	To view with hollow eye and wrinkled brow
+	An age of poverty; from which lingering penance
+	Of such a misery doth she cut me off.
+	Commend me to your honourable wife:
+	Tell her the process of Antonio's end;
+	Say how I lov'd you, speak me fair in death;
+	And, when the tale is told, bid her be judge
+	Whether Bassanio had not once a love.
+	Repent not you that you shall lose your friend,
+	And he repents not that he pays your debt;
+	For if the Jew do cut but deep enough,
+	I'll pay it instantly with all my heart.
+<SPEECH 40><ACT 4><SCENE 1><84%>
+	So please my lord the duke, and all the court,
+	To quit the fine for one half of his goods,
+	I am content; so he will let me have
+	The other half in use, to render it,
+	Upon his death, unto the gentleman
+	That lately stole his daughter:
+	Two things provided more, that, for this favour,
+	He presently become a Christian;
+	The other, that he do record a gift,
+	Here in the court, of all he dies possess'd,
+	Unto his son Lorenzo, and his daughter.
+<SPEECH 41><ACT 4><SCENE 1><86%>
+	And stand indebted, over and above,
+	In love and service to you evermore.
+<SPEECH 42><ACT 4><SCENE 1><87%>
+	My Lord Bassanio, let him have the ring:
+	Let his deservings and my love withal
+	Be valu'd 'gainst your wife's commandment.
+<SPEECH 43><ACT 5><SCENE 1><94%>
+	No more than I am well acquitted of.
+<SPEECH 44><ACT 5><SCENE 1><97%>
+	I am the unhappy subject of these quarrels.
+<SPEECH 45><ACT 5><SCENE 1><98%>
+	I once did lend my body for his wealth,
+	Which, but for him that had your husband's ring,
+	Had quite miscarried: I dare be bound again,
+	My soul upon the forfeit, that your lord
+	Will never more break faith advisedly.
+<SPEECH 46><ACT 5><SCENE 1><98%>
+	Here, Lord Bassanio; swear to keep this ring.
+<SPEECH 47><ACT 5><SCENE 1><99%>
+	I am dumb.
+<SPEECH 48><ACT 5><SCENE 1><99%>
+	Sweet lady, you have given me life and living;
+	For here I read for certain that my ships
+	Are safely come to road.

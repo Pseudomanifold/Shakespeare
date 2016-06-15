@@ -1,0 +1,40 @@
+<SPEECH 1><ACT 4><SCENE 5><68%>
+	Where's Cotus? my master calls for him. Cotus!
+<SPEECH 2><ACT 4><SCENE 5><69%>
+	Whence are you, sir? Has the porter his eyes in his head, that he gives entrance to such companions? Pray, get you out.
+<SPEECH 3><ACT 4><SCENE 5><69%>
+	'Away!' Get you away.
+<SPEECH 4><ACT 4><SCENE 5><69%>
+	Are you so brave? I'll have you talked with anon.
+<SPEECH 5><ACT 4><SCENE 5><69%>
+	And I shall.
+<SPEECH 6><ACT 4><SCENE 5><70%>
+	Here, sir: I'd have beaten him like a dog, but for disturbing the lords within.
+<SPEECH 7><ACT 4><SCENE 5><73%>
+	By my hand, I had thought to have strucken him with a cudgel; and yet my mind gave me his clothes made a false report of him.
+<SPEECH 8><ACT 4><SCENE 5><73%>
+	Nay, I knew by his face that there was something in him: he had, sir, a kind of face, methought,—I cannot tell how to term it.
+<SPEECH 9><ACT 4><SCENE 5><73%>
+	So did I, I'll be sworn: he is simply the rarest man i' the world.
+<SPEECH 10><ACT 4><SCENE 5><73%>
+	Who? my master?
+<SPEECH 11><ACT 4><SCENE 5><73%>
+	Worth six on him.
+<SPEECH 12><ACT 4><SCENE 5><73%>
+	Faith, look you, one cannot tell how to say that: for the defence of a town our general is excellent.
+<SPEECH 13><ACT 4><SCENE 5><73%>
+	What, what, what? let's partake.
+<SPEECH 14><ACT 4><SCENE 5><73%>
+	Wherefore? wherefore?
+<SPEECH 15><ACT 4><SCENE 5><74%>
+	Come, we are fellows and friends: he was ever too hard for him; I have heard him say so himself.
+<SPEECH 16><ACT 4><SCENE 5><74%>
+	An he had been cannibally given, he might have broiled and eaten him too.
+<SPEECH 17><ACT 4><SCENE 5><74%>
+	And he's as like to do 't as any man I can imagine.
+<SPEECH 18><ACT 4><SCENE 5><74%>
+	But when they shall see, sir, his crest up again, and the man in blood, they will out of their burrows, like comes after rain, and revel all with him.
+<SPEECH 19><ACT 4><SCENE 5><75%>
+	Why, then we shall have a stirring world again. This peace is nothing but to rust iron, increase tailors, and breed ballad-makers.
+<SPEECH 20><ACT 4><SCENE 5><75%>
+	'Tis so: and as war, in some sort, may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds.

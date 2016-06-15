@@ -1,0 +1,28 @@
+<SPEECH 1><ACT 4><SCENE 1><74%>
+	Hail, many-colour'd messenger, that ne'er
+	Dost disobey the wife of Jupiter;
+	Who with thy saffron wings upon my flowers
+	Diffusest honey-drops, refreshing showers:
+	And with each end of thy blue bow dost crown
+	My bosky acres, and my unshrubb'd down,
+	Rich scarf to my proud earth; why hath thy queen
+	Summon'd me hither, to this short-grass'd green?
+<SPEECH 2><ACT 4><SCENE 1><74%>
+	Tell me, heavenly bow,
+	If Venus or her son, as thou dost know,
+	Do now attend the queen? since they did plot
+	The means that dusky Dis my daughter got,
+	Her and her blind boy's scandal'd company
+	I have forsworn.
+<SPEECH 3><ACT 4><SCENE 1><75%>
+	Highest queen of state,
+	Great Juno comes; I know her by her gait.
+<SPEECH 4><ACT 4><SCENE 1><75%>
+	Earth's increase, foison plenty,
+	Barns and garners never empty:
+	Vines, with clust'ring bunches growing;
+	Plants with goodly burden bowing;
+	Spring come to you at the farthest
+	In the very end of harvest!
+	Scarcity and want shall shun you;
+	Ceres' blessing so is on you.

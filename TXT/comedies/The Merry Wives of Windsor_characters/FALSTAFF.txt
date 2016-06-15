@@ -1,0 +1,286 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	Now, Master Shallow, you'll complain of me to the king?
+<SPEECH 2><ACT 1><SCENE 1><4%>
+	But not kissed your keeper's daughter?
+<SPEECH 3><ACT 1><SCENE 1><4%>
+	I will answer it straight: I have done all this. That is now answered.
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	'Twere better for you if it were known in counsel: you'll be laughed at.
+<SPEECH 5><ACT 1><SCENE 1><4%>
+	Good worts! good cabbage. Slender, I broke your head: what matter have you against me?
+<SPEECH 6><ACT 1><SCENE 1><5%>
+	Pistol!
+<SPEECH 7><ACT 1><SCENE 1><5%>
+	Pistol, did you pick Master Slender's purse?
+<SPEECH 8><ACT 1><SCENE 1><5%>
+	Is this true, Pistol?
+<SPEECH 9><ACT 1><SCENE 1><6%>
+	What say you, Scarlet and John?
+<SPEECH 10><ACT 1><SCENE 1><6%>
+	You hear all these matters denied, gentlemen; you hear it.
+<SPEECH 11><ACT 1><SCENE 1><6%>
+	Mistress Ford, by my troth, you are very well met: by your leave, good mistress.
+<SPEECH 12><ACT 1><SCENE 3><11%>
+	Mine host of the Garter!
+<SPEECH 13><ACT 1><SCENE 3><11%>
+	Truly, mine host, I must turn away some of my followers.
+<SPEECH 14><ACT 1><SCENE 3><11%>
+	I sit at ten pounds a week.
+<SPEECH 15><ACT 1><SCENE 3><11%>
+	Do so, good mine host.
+<SPEECH 16><ACT 1><SCENE 3><12%>
+	Bardolph, follow him. A tapster is a good trade: an old cloak makes a new jerkin; a withered serving-man, a fresh tapster. Go; adieu.
+<SPEECH 17><ACT 1><SCENE 3><12%>
+	I am glad I am so acquit of this tinderbox; his thefts were too open; his filching was like an unskilful singer; he kept not time.
+<SPEECH 18><ACT 1><SCENE 3><12%>
+	Well, sirs, I am almost out at heels.
+<SPEECH 19><ACT 1><SCENE 3><12%>
+	There is no remedy; I must conycatch, I must shift.
+<SPEECH 20><ACT 1><SCENE 3><12%>
+	Which of you know Ford of this town?
+<SPEECH 21><ACT 1><SCENE 3><12%>
+	My honest lads, I will tell you what I am about.
+<SPEECH 22><ACT 1><SCENE 3><12%>
+	No quips now, Pistol! Indeed, I am in the waist two yards about; but I am now about no waste; I am about thrift. Briefly, I do mean to make love to Ford's wife: I spy entertainment in her; she discourses, she carves, she gives the leer of invitation: I can construe the action of her familiar style; and the hardest voice of her behaviour, to be Englished rightly, is, 'I am Sir John Falstaff's.'
+<SPEECH 23><ACT 1><SCENE 3><13%>
+	Now, the report goes she has all the rule of her husband's purse; he hath a legion of angels.
+<SPEECH 24><ACT 1><SCENE 3><13%>
+	I have writ me here a letter to her; and here another to Page's wife, who even now gave me good eyes too, examined my parts with most judicious œilliades: sometimes the beam of her view gilded my foot, sometimes my portly belly.
+<SPEECH 25><ACT 1><SCENE 3><13%>
+	O! she did so course o'er my exteriors with such a greedy intention, that the appetite of her eye did seem to scorch me up like a burning-glass. Here's another letter to her: she bears the purse too; she is a region in Guiana, all gold and bounty. I will be 'cheator to them both, and they shall be exchequers to me: they shall be my East and West Indies, and I will trade to them both. Go bear thou this letter to Mistress Page; and thou this to Mistress Ford. We will thrive, lads, we will thrive.
+<SPEECH 26><ACT 1><SCENE 3><14%>
+	</STAGE DIR> Hold, sirrah, bear you these letters tightly:
+	Sail like my pinnace to these golden shores.
+	Rogues, hence! avaunt! vanish like hailstones, go;
+	Trudge, plod away o'the hoof; seek shelter, pack!
+	Falstaff will learn the humour of this age,
+	French thrift, you rogues: myself and skirted page.
+<SPEECH 27><ACT 2><SCENE 1><21%>
+	What a Herod of Jewry is this! O wicked, wicked world! one that is well-nigh worn to pieces with age, to show himself a young gallant! What an unweighed behaviour hath this Flemish drunkard picked, with the devil's name! out of my conversation, that he dares in this manner assay me? Why, he hath not been thrice in my company! What should I say to him? I was then frugal of my mirth:—heaven forgive me! Why, I'll exhibit a bill in the parliament for the putting down of men. How shall I be revenged on him? for revenged I will be, as sure as his guts are made of puddings.
+<SPEECH 28><ACT 2><SCENE 2><28%>
+	I will not lend thee a penny.
+<SPEECH 29><ACT 2><SCENE 2><29%>
+	Not a penny. I have been content, sir, you should lay my countenance to pawn: I have grated upon my good friends for three reprieves for you and your coach-fellow Nym; or else you had looked through the grate, like a geminy of baboons. I am damned in hell for swearing to gentlemen my friends, you were good soldiers and tall fellows; and when Mistress Bridget lost the handle of her fan, I took't upon mine honour thou hadst it not.
+<SPEECH 30><ACT 2><SCENE 2><29%>
+	Reason, you rogue, reason: thinkest thou, I'll endanger my soul gratis? At a word, hang no more about me; I am no gibbet for you: go: a short knife and a throng!—to your manor of Picht-hatch! go. You'll not bear a letter for me, you rogue!—you stand upon your honour!—Why, thou unconfinable baseness, it is as much as I can do to keep the terms of mine honour precise. I, I, I, myself sometimes, leaving the fear of God on the left hand and hiding mine honour in my necessity, am fain to shuffle, to hedge and to lurch; and yet you, rogue, will ensconce your rags, your cat-a-mountain looks, your red-lattice phrases, and your bold-beating oaths, under the shelter of your honour! You will not do it, you!
+<SPEECH 31><ACT 2><SCENE 2><30%>
+	Let her approach.
+<SPEECH 32><ACT 2><SCENE 2><30%>
+	Good morrow, good wife.
+<SPEECH 33><ACT 2><SCENE 2><30%>
+	Good maid, then.
+<SPEECH 34><ACT 2><SCENE 2><30%>
+	I do believe the swearer. What with me?
+<SPEECH 35><ACT 2><SCENE 2><30%>
+	Two thousand, fair woman; and I'll vouchsafe thee the hearing.
+<SPEECH 36><ACT 2><SCENE 2><30%>
+	Well, on: Mistress Ford, you say,—
+<SPEECH 37><ACT 2><SCENE 2><30%>
+	I warrant thee, nobody hears; mine own people, mine own people.
+<SPEECH 38><ACT 2><SCENE 2><30%>
+	Well: Mistress Ford; what of her?
+<SPEECH 39><ACT 2><SCENE 2><30%>
+	Mistress Ford; come, Mistress Ford,—
+<SPEECH 40><ACT 2><SCENE 2><31%>
+	But what says she to me? be brief, my good she Mercury.
+<SPEECH 41><ACT 2><SCENE 2><31%>
+	Ten and eleven?
+<SPEECH 42><ACT 2><SCENE 2><31%>
+	Ten and eleven. Woman, commend me to her; I will not fail her.
+<SPEECH 43><ACT 2><SCENE 2><32%>
+	Not I, I assure thee: setting the attraction of my good parts aside, I have no other charms.
+<SPEECH 44><ACT 2><SCENE 2><32%>
+	But, I pray thee, tell me this: has Ford's wife and Page's wife acquainted each other how they love me?
+<SPEECH 45><ACT 2><SCENE 2><33%>
+	Why, I will.
+<SPEECH 46><ACT 2><SCENE 2><33%>
+	Fare thee well: commend me to them both. There's my purse; I am yet thy debtor.—Boy, go along with this woman.—<STAGE DIR>
+	</STAGE DIR> This news distracts me.
+<SPEECH 47><ACT 2><SCENE 2><33%>
+	Sayest thou so, old Jack? go thy ways; I'll make more of thy old body than I have done. Will they yet look after thee? Wilt thou, after the expense of so much money, be now a gainer? Good body, I thank thee. Let them say 'tis grossly done; so it be fairly done, no matter.
+<SPEECH 48><ACT 2><SCENE 2><33%>
+	Brook is his name?
+<SPEECH 49><ACT 2><SCENE 2><33%>
+	Call him in. <STAGE DIR>
+	</STAGE DIR> Such Brooks are welcome to me, that o'erflow such liquor. Ah, ha! Mistress Ford and Mistress Page, have I encompassed you? go to; via!
+<SPEECH 50><ACT 2><SCENE 2><34%>
+	And you, sir; would you speak with me?
+<SPEECH 51><ACT 2><SCENE 2><34%>
+	You're welcome. What's your will?—Give us leave, drawer.
+<SPEECH 52><ACT 2><SCENE 2><34%>
+	Good Master Brook, I desire more acquaintance of you.
+<SPEECH 53><ACT 2><SCENE 2><34%>
+	Money is a good soldier, sir, and will on.
+<SPEECH 54><ACT 2><SCENE 2><34%>
+	Sir, I know not how I may deserve to be your porter.
+<SPEECH 55><ACT 2><SCENE 2><34%>
+	Speak, good Master Brook; I shall be glad to be your servant.
+<SPEECH 56><ACT 2><SCENE 2><35%>
+	Very well, sir; proceed.
+<SPEECH 57><ACT 2><SCENE 2><35%>
+	Well, sir.
+<SPEECH 58><ACT 2><SCENE 2><36%>
+	Have you received no promise of satisfaction at her hands?
+<SPEECH 59><ACT 2><SCENE 2><36%>
+	Have you importuned her to such a purpose?
+<SPEECH 60><ACT 2><SCENE 2><36%>
+	Of what quality was your love, then?
+<SPEECH 61><ACT 2><SCENE 2><36%>
+	To what purpose have you unfolded this to me?
+<SPEECH 62><ACT 2><SCENE 2><36%>
+	O, sir!
+<SPEECH 63><ACT 2><SCENE 2><36%>
+	Would it apply well to the vehemency of your affection, that I should win what you would enjoy? Methinks you prescribe to yourself very preposterously.
+<SPEECH 64><ACT 2><SCENE 2><37%>
+	Master Brook, I will first make bold with your money; next, give me your hand; and last, as I am a gentleman, you shall, if you will, enjoy Ford's wife.
+<SPEECH 65><ACT 2><SCENE 2><37%>
+	I say you shall.
+<SPEECH 66><ACT 2><SCENE 2><37%>
+	Want no Mistress Ford, Master Brook; you shall want none. I shall be with her, I may tell you, by her own appointment; even as you came in to me, her assistant or go-between parted from me: I say I shall be with her between ten and eleven; for at that time the jealous rascally knave her husband will be forth. Come you to me at night; you shall know how I speed.
+<SPEECH 67><ACT 2><SCENE 2><37%>
+	Hang him, poor cuckoldly knave! I know him not. Yet I wrong him, to call him poor: they say the jealous wittolly knave hath masses of money; for the which his wife seems to me well-favoured. I will use her as the key of the cuckoldly rogue's coffer; and there's my harvest-home.
+<SPEECH 68><ACT 2><SCENE 2><38%>
+	Hang him, mechanical salt-butter rogue! I will stare him out of his wits; I will awe him with my cudgel: it shall hang like a meteor o'er the cuckold's horns. Master Brook, thou shalt know I will predominate over the peasant, and thou shalt he with his wife. Come to me soon at night. Ford's a knave, and I will aggravate his style; thou, Master Brook, shalt know him for knave and cuckold. Come to me soon at night.
+<SPEECH 69><ACT 3><SCENE 3><51%>
+	'Have I caught my heavenly jewel?' Why, now let me die, for I have lived long enough: this is the period of my ambition: O this blessed hour!
+<SPEECH 70><ACT 3><SCENE 3><51%>
+	Mistress Ford, I cannot cog, I cannot prate, Mistress Ford. Now shall I sin in my wish: I would thy husband were dead. I'll speak it before the best lord, I would make thee my lady.
+<SPEECH 71><ACT 3><SCENE 3><51%>
+	Let the court of France show me such another. I see how thine eye would emulate the diamond: thou hast the right arched beauty of the brow that becomes the ship-tire, the tire-valiant, or any tire of Venetian admittance.
+<SPEECH 72><ACT 3><SCENE 3><52%>
+	By the Lord, thou art a traitor to say so: thou wouldst make an absolute courtier; and the firm fixture of thy foot would give an excellent motion to thy gait in a semi-circled farthingale. I see what thou wert, if Fortune thy foe were not, Nature thy friend. Come, thou canst not hide it.
+<SPEECH 73><ACT 3><SCENE 3><52%>
+	What made me love thee? let that persuade thee there's something extraordinary in thee. Come, I cannot cog and say thou art this and that, like a many of these lisping hawthornbuds, that come like women in men s apparel, and smell like Bucklersbury in simple-time; I cannot; but I love thee; none but thee; and thou deservest it.
+<SPEECH 74><ACT 3><SCENE 3><52%>
+	Thou mightst as well say, I love to walk by the Counter-gate, which is as hateful to me as the reek of a lime-kiln.
+<SPEECH 75><ACT 3><SCENE 3><52%>
+	Keep in that mind; I'll deserve it.
+<SPEECH 76><ACT 3><SCENE 3><53%>
+	She shall not see me: I will ensconce me behind the arras.
+<SPEECH 77><ACT 3><SCENE 3><54%>
+	</STAGE DIR> Let me see't, let me see't, O, let me see't! I'll in, I'll in. Follow your friend's counsel. I'll in.
+<SPEECH 78><ACT 3><SCENE 3><54%>
+	I love thee, and none but thee; help me away: let me creep in here. I'll never—
+<SPEECH 79><ACT 3><SCENE 5><62%>
+	Bardolph, I say,—
+<SPEECH 80><ACT 3><SCENE 5><62%>
+	Go fetch me a quart of sack; put a toast in't. <STAGE DIR>
+	</STAGE DIR> Have I lived to be carried in a basket, and to be thrown in the Thames like a barrow of butcher's offal? Well, if I be served such another trick, I'll have my brains ta'en out, and buttered, and give them to a dog for a new year's gift. The rogues slighted me into the river with as little remorse as they would have drowned a blind bitch's puppies, fifteen i' the litter; and you may know by my size that I have a kind of alacrity in sinking: if the bottom were as deep as hell, I should down. I had been drowned but that the shore was shelvy and shallow; a death that I abhor, for the water swells a man, and what a thing should I have been when I had been swelled! I should have been a mountain of mummy.
+<SPEECH 81><ACT 3><SCENE 5><63%>
+	Come, let me pour in some sack to the Thames water, for my belly's as cold as if I had swallowed snowballs for pills to cool the reins. Call her in.
+<SPEECH 82><ACT 3><SCENE 5><63%>
+	Take away these chalices. Go brew me a pottle of sack finely.
+<SPEECH 83><ACT 3><SCENE 5><63%>
+	Simple of itself; I'll no pullet-sperm in my brewage. <STAGE DIR>
+	</STAGE DIR>—How now!
+<SPEECH 84><ACT 3><SCENE 5><63%>
+	Mistress Ford! I have had ford enough; I was thrown into the ford; I have my belly full of ford.
+<SPEECH 85><ACT 3><SCENE 5><63%>
+	So did I mine, to build upon a foolish woman's promise.
+<SPEECH 86><ACT 3><SCENE 5><64%>
+	Well, I will visit her: tell her so; and bid her think what a man is: let her consider his frailty, and then judge of my merit.
+<SPEECH 87><ACT 3><SCENE 5><64%>
+	Do so. Between nine and ten, sayest thou?
+<SPEECH 88><ACT 3><SCENE 5><64%>
+	Well, be gone: I will not miss her.
+<SPEECH 89><ACT 3><SCENE 5><64%>
+	I marvel I hear not of Master Brook; he sent me word to stay within. I like his money well. O! here he comes.
+<SPEECH 90><ACT 3><SCENE 5><64%>
+	Now, Master Brook, you come to know what hath passed between me and Ford's wife?
+<SPEECH 91><ACT 3><SCENE 5><64%>
+	Master Brook, I will not lie to you: I was at her house the hour she appointed me.
+<SPEECH 92><ACT 3><SCENE 5><64%>
+	Very ill-favouredly, Master Brook.
+<SPEECH 93><ACT 3><SCENE 5><64%>
+	No, Master Brook; but the peaking cornuto her husband, Master Brook, dwelling in a continual 'larum of jealousy, comes me in the instant of our encounter, after we had embraced, kissed, protested, and, as it were, spoke the prologue of our comedy; and at his heels a rabble of his companions, thither provoked and instigated by his distemper, and, forsooth, to search his house for his wife's love.
+<SPEECH 94><ACT 3><SCENE 5><65%>
+	While I was there.
+<SPEECH 95><ACT 3><SCENE 5><65%>
+	You shall hear. As good luck would have it, comes in one Mistress Page; gives intelligence of Ford's approach; and in her invention, and Ford's wife's distraction, they conveyed me into a buck-basket.
+<SPEECH 96><ACT 3><SCENE 5><65%>
+	By the Lord, a buck-basket! rammed me in with foul shirts and smocks, socks, foul stockings, greasy napkins; that, Master Brook, there was the rankest compound of villanous smell that ever offended nostril.
+<SPEECH 97><ACT 3><SCENE 5><65%>
+	Nay, you shall hear, Master Brook, what I have suffered to bring this woman to evil for your good. Being thus crammed in the basket, a couple of Ford's knaves, his hinds, were called forth by their mistress to carry me in the name of foul clothes to Datchet-lane: they took me on their shoulders; met the jealous knave their master in the door, who asked them once or twice what they had in their basket. I quaked for fear lest the lunatic knave would have searched it; but Fate, ordaining he should be a cuckold, held his hand. Well; on went he for a search, and away went I for foul clothes. But mark the sequel, Master Brook: I suffered the pangs of three several deaths: first, an intolerable-fright, to be detected with a jealous rotten bell-wether; next, to be compassed, like a good bilbo, in the circumference of a peck, hilt to point, heel to head; and then, to be stopped in, like a strong distillation, with stinking clothes that fretted in their own grease: think of that, a man of my kidney, think of that, that am as subject to heat as butter; a man of continual dissolution and thaw: it was a miracle to 'scape suffocation. And in the height of this bath, when I was more than half stewed in grease, like a Dutch dish, to be thrown into the Thames, and cooled, glowing hot, in that surge, like a horse-shoe; think of that, hissing hot, think of that, Master Brook!
+<SPEECH 98><ACT 3><SCENE 5><66%>
+	Master Brook, I will be thrown into Etna, as I have been into Thames, ere I will leave her thus. Her husband is this morning gone a-birding: I have received from her another embassy of meeting; 'twixt eight and nine is the hour, Master Brook.
+<SPEECH 99><ACT 3><SCENE 5><66%>
+	Is it? I will then address me to my appointment. Come to me at your convenient leisure, and you shall know how I speed, and the conclusion shall be crowned with your enjoying her: adieu. You shall have her, Master Brook; Master Brook, you shall cuckold Ford.
+<SPEECH 100><ACT 4><SCENE 2><70%>
+	Mistress Ford, your sorrow hath eaten up my sufferance. I see you are obsequious in your love, and I profess requital to a hair's breadth; not only, Mistress Ford, in the simple office of love, but in all the accoutrement, complement and ceremony of it. But are you sure of your husband now?
+<SPEECH 101><ACT 4><SCENE 2><71%>
+	No, I'll come no more i' the basket. May I not go out ere he come?
+<SPEECH 102><ACT 4><SCENE 2><72%>
+	What shall I do? I'll creep up into the chimney.
+<SPEECH 103><ACT 4><SCENE 2><72%>
+	Where is it?
+<SPEECH 104><ACT 4><SCENE 2><72%>
+	I'll go out, then.
+<SPEECH 105><ACT 4><SCENE 2><72%>
+	Good hearts, devise something: any extremity rather than a mischief.
+<SPEECH 106><ACT 4><SCENE 5><82%>
+	</STAGE DIR> How now, mine host!
+<SPEECH 107><ACT 4><SCENE 5><82%>
+	There was, mine host, an old fat woman even now with me, but she's gone.
+<SPEECH 108><ACT 4><SCENE 5><82%>
+	Ay, marry, was it, muscle-shell: what would you with her?
+<SPEECH 109><ACT 4><SCENE 5><82%>
+	I spake with the old woman about it.
+<SPEECH 110><ACT 4><SCENE 5><82%>
+	Marry, she says that the very same man that beguiled Master Slender of his chain cozened him of it.
+<SPEECH 111><ACT 4><SCENE 5><83%>
+	What are they? let us know.
+<SPEECH 112><ACT 4><SCENE 5><83%>
+	'Tis, 'tis his fortune.
+<SPEECH 113><ACT 4><SCENE 5><83%>
+	To have her, or no. Go; say the woman told me so.
+<SPEECH 114><ACT 4><SCENE 5><83%>
+	Ay, Sir Tike; who more bold?
+<SPEECH 115><ACT 4><SCENE 5><83%>
+	Ay, that there was, mine host; one that hath taught me more wit than ever I learned before in my life: and I paid nothing for it neither, but was paid for my learning.
+<SPEECH 116><ACT 4><SCENE 5><84%>
+	I would all the world might be cozened, for I have been cozened and beaten too. If it should come to the ear of the court how I have been transformed, and how my transformation hath been washed and cudgelled, they would melt me out of my fat drop by drop, and liquor fishermen's boots with me: I warrant they would whip me with their fine wits till I were as crest-fallen as a dried pear. I never prospered since I forswore myself at primero. Well, if my wind were but long enough to say my prayers, I would repent.
+	Now, whence come you?
+<SPEECH 117><ACT 4><SCENE 5><85%>
+	The devil take one party and his dam the other! and so they shall be both bestowed. I have suffered more for their sakes, more than the villanous inconstancy of man's disposition is able to bear.
+<SPEECH 118><ACT 4><SCENE 5><85%>
+	What tellest thou me of black and blue? I was beaten myself into all the colours of the rainbow; and I was like to be apprehended for the witch of Brainford: but that my admirable dexterity of wit, my counterfeiting the action of an old woman, delivered me, the knave constable had set me i' the stocks, i' the common stocks, for a witch.
+<SPEECH 119><ACT 4><SCENE 5><86%>
+	Come up into my chamber.
+<SPEECH 120><ACT 5><SCENE 1><88%>
+	Prithee, no more prattling; go: I'll hold. This is the third time; I hope good luck lies in odd numbers. Away! go. They say there is divinity in odd numbers, either in nativity, chance or death. Away!
+<SPEECH 121><ACT 5><SCENE 1><88%>
+	Away, I say; time wears: hold up your head, and mince.
+	How now, Master Brook! Master Brook, the matter will be known to-night, or never. Be you in the Park about midnight, at Herne's oak, and you shall see wonders.
+<SPEECH 122><ACT 5><SCENE 1><88%>
+	I went to her, Master Brook, as you see, like a poor old man; but I came from her, Master Brook, like a poor old woman. That same knave Ford, her husband, hath the finest mad devil of jealousy in him, Master Brook, that ever governed frenzy. I will tell you: he beat me grievously, in the shape of a woman; for in the shape of a man, Master Brook, I fear not Goliath with a weaver's beam, because I know also life is a shuttle. I am in haste: go along with me; I'll tell you all, Master Brook. Since I plucked geese, played traunt, and whipped top, I knew not what it was to be beaten till lately. Follow me: I'll tell you strange things of this knave Ford, on whom to-night I will be revenged, and I will deliver his wife into your hand. Follow. Strange things in hand, Master Brook! Follow.
+<SPEECH 123><ACT 5><SCENE 5><91%>
+	The Windsor bell hath struck twelve; the minute draws on. Now, the hot-blooded gods assist me! Remember, Jove, thou wast a bull for thy Europa; love set on thy horns. O powerful love! that, in some respects, makes a beast a man; in some other, a man a beast. You were also, Jupiter, a swan for the love of Leda; O omnipotent love! how near the god drew to the complexion of a goose! A fault done first in the form of a beast; O Jove, a beastly fault! and then another fault in the semblance of a fowl: think on 't, Jove; a foul fault! When gods have hot backs, what shall poor men do? For me, I am here a Windsor stag; and the fattest, I think, i' the forest: send me a cool rut-time, Jove, or who can blame me to piss my tallow? Who comes here? my doe?
+<SPEECH 124><ACT 5><SCENE 5><91%>
+	My doe with the black scut! Let the sky rain potatoes; let it thunder to the tune of 'Green Sleeves;' hail kissing-comfits and snow eringoes; let there come a tempest of provocation, I will shelter me here.
+<SPEECH 125><ACT 5><SCENE 5><92%>
+	Divide me like a brib'd buck, each a haunch: I will keep my sides to myself, my shoulders for the fellow of this walk, and my horns I bequeath your husbands. Am I a woodman, ha? Speak I like Herne the hunter? Why, now is Cupid a child of conscience; he makes restitution. As I am a true spirit, welcome!
+<SPEECH 126><ACT 5><SCENE 5><92%>
+	What should this be?
+<SPEECH 127><ACT 5><SCENE 5><92%>
+	I think the devil will not have me damned, lest the oil that is in me should set hell on fire; he would never else cross me thus.
+<SPEECH 128><ACT 5><SCENE 5><93%>
+	They are fairies; he that speaks to them shall die:
+	I'll wink and couch: no man their works must eye.
+<SPEECH 129><ACT 5><SCENE 5><94%>
+	Heavens defend me from that Welsh fairy, lest he transform me to a piece of cheese!
+<SPEECH 130><ACT 5><SCENE 5><94%>
+	Oh, oh, oh!
+<SPEECH 131><ACT 5><SCENE 5><95%>
+	I do begin to perceive that I am made an ass.
+<SPEECH 132><ACT 5><SCENE 5><96%>
+	And these are not fairies? I was three or four times in the thought they were not fairies; and yet the guiltiness of my mind, the sudden surprise of my powers, drove the grossness of the foppery into a received belief, in despite of the teeth of all rime and reason, that they were fairies. See now how wit may be made a Jack-a-lent, when 'tis upon ill employment!
+<SPEECH 133><ACT 5><SCENE 5><96%>
+	Have I laid my brain in the sun and dried it, that it wants matter to prevent so gross o'er-reaching as this? Am I ridden with a Welsh goat too? shall I have a coxcomb of frize? 'Tis time I were choked with a piece of toasted cheese.
+<SPEECH 134><ACT 5><SCENE 5><96%>
+	'Seese' and 'putter!' have I lived to stand at the taunt of one that makes fritters of English? This is enough to be the decay of lust and late-walking through the realm.
+<SPEECH 135><ACT 5><SCENE 5><97%>
+	Well, I am your theme: you have the start of me; I am dejected; I am not able to answer the Welsh flannel. Ignorance itself is a plummet o'er me: use me as you will.
+<SPEECH 136><ACT 5><SCENE 5><100%>
+	I am glad, though you have ta'en a special stand to strike at me, that your arrow hath glanced.
+<SPEECH 137><ACT 5><SCENE 5><100%>
+	When night dogs run all sorts of deer are chas'd.

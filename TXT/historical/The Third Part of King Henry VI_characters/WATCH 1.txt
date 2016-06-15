@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 4><SCENE 3><69%>
+	Come on, my masters, each man take his stand;
+	The king, by this, is set him down to sleep.
+<SPEECH 2><ACT 4><SCENE 3><69%>
+	Why, no: for he hath made a solemn vow
+	Never to lie and take his natural rest
+	Till Warwick or himself be quite suppress'd.
+<SPEECH 3><ACT 4><SCENE 3><69%>
+	'Tis the Lord Hastings, the king's chiefest friend.
+<SPEECH 4><ACT 4><SCENE 3><69%>
+	Unless our halberds did shut up his passage.
+<SPEECH 5><ACT 4><SCENE 3><70%>
+	Who goes there?

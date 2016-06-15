@@ -1,0 +1,133 @@
+<SPEECH 1><ACT 3><SCENE 2><50%>
+	Philemon, ho!
+<SPEECH 2><ACT 3><SCENE 2><50%>
+	Get fire and meat for these poor men;
+	'T has been a turbulent and stormy night.
+<SPEECH 3><ACT 3><SCENE 2><50%>
+	Your master will be dead ere you return;
+	There's nothing can be minister'd to nature
+	That can recover him. <STAGE DIR>
+	</STAGE DIR> Give this to the 'pothecary,
+	And tell me how it works.
+<SPEECH 4><ACT 3><SCENE 2><50%>
+	Gentlemen,
+	Why do you stir so early?
+<SPEECH 5><ACT 3><SCENE 2><51%>
+	O! you say well.
+<SPEECH 6><ACT 3><SCENE 2><51%>
+	I hold it ever,
+	Virtue and cunning were endowments greater
+	Than nobleness and riches; careless heirs
+	May the two latter darken and expend,
+	But immortality attends the former,
+	Making a man a god. 'Tis known I ever
+	Have studied physic, through which secret art,
+	By turning o'er authorities, I have—
+	Together with my practice—made familiar
+	To me and to my aid the blest infusions
+	That dwell in vegetives, in metals, stones;
+	And can speak of the disturbances
+	That nature works, and of her cures; which doth give me
+	A more content in course of true delight
+	Than to be thirsty after tottering honour,
+	Or tie my treasure up in silken bags,
+	To please the fool and death.
+<SPEECH 7><ACT 3><SCENE 2><52%>
+	What is that?
+<SPEECH 8><ACT 3><SCENE 2><52%>
+	Set it down; let's look upon 't.
+<SPEECH 9><ACT 3><SCENE 2><52%>
+	Whate'er it be,
+	'Tis wondrous heavy. Wrench it open straight;
+	If the sea's stomach be o'ercharg'd with gold,
+	'Tis a good constraint of fortune it belches upon us.
+<SPEECH 10><ACT 3><SCENE 2><52%>
+	How close 'tis caulk'd and bitumed!
+	Did the sea cast it up?
+<SPEECH 11><ACT 3><SCENE 2><52%>
+	Come, wrench it open.
+	Soft! it smells most sweetly in my sense.
+<SPEECH 12><ACT 3><SCENE 2><53%>
+	As ever hit my nostril. So, up with it.
+	O you most potent gods! what's here? a corse!
+<SPEECH 13><ACT 3><SCENE 2><53%>
+	Shrouded in cloth of state; balm'd and entreasur'd
+	With full bags of spices! A passport too!
+	Apollo, perfect me i' the characters!
+	Here I give to understand,
+	If e'er this coffin drive a-land,
+	I, King Pericles, have lost
+	This queen worth all our mundane cost.
+	Who finds her, give her burying;
+	She was the daughter of a king:
+	Besides this treasure for a fee,
+	The gods requite his charity!
+	If thou liv'st, Pericles, thou hast a heart
+	That even cracks for woe! This chanc'd to-night.
+<SPEECH 14><ACT 3><SCENE 2><53%>
+	Nay, certainly to-night;
+	For look, how fresh she looks. They were too rough
+	That threw her in the sea. Make fire within;
+	Fetch hither all the boxes in my closet.
+	Death may usurp on nature many hours,
+	And yet the fire of life kindle again
+	The overpress'd spirits. I heard
+	Of an Egyptian, that had nine hours lien dead,
+	Who was by good appliances recovered.
+	Well said, well said; the fire and cloths.
+	The rough and woeful music that we have,
+	Cause it to sound, beseech you.
+	The viol once more;—how thou stirr'st, thou block!
+	The music there! I pray you, give her air.
+	Gentlemen,
+	This queen will live; nature awakes, a warmth
+	Breathes out of her; she hath not been entranc'd
+	Above five hours. See! how she 'gins to blow
+	Into life's flower again.
+<SPEECH 15><ACT 3><SCENE 2><54%>
+	She is alive! behold,
+	Her eyelids, cases to those heavenly jewels
+	Which Pericles hath lost,
+	Begin to part their fringes of bright gold;
+	The diamonds of a most praised water
+	Do appear, to make the world twice rich. Live,
+	And make us weep to hear your fate, fair creature,
+	Rare as you seem to be!
+<SPEECH 16><ACT 3><SCENE 2><54%>
+	Hush, gentle neighbours!
+	Lend me your hands; to the next chamber bear her.
+	Get linen; now this matter must be look'd to,
+	For her relapse is mortal, Come, come;
+	And Æsculapius guide us!
+<SPEECH 17><ACT 3><SCENE 4><57%>
+	Madam, this letter, and some certain jewels,
+	Lay with you in your coffer; which are now
+	At your command. Know you the character?
+<SPEECH 18><ACT 3><SCENE 4><57%>
+	Madam, if this you purpose as you speak,
+	Diana's temple is not distant far,
+	Where you may abide till your date expire.
+	Moreover, if you please, a niece of mine
+	Shall there attend you.
+<SPEECH 19><ACT 5><SCENE 3><96%>
+	Noble sir,
+	If you have told Diana's altar true,
+	This is your wife.
+<SPEECH 20><ACT 5><SCENE 3><97%>
+	Upon this coast, I warrant you.
+<SPEECH 21><ACT 5><SCENE 3><97%>
+	Look to the lady. O! she's but o'erjoy'd.
+	Early in blustering morn this lady was
+	Thrown upon this shore. I op'd the coffin,
+	Found there rich jewels; recover'd her, and plac'd her
+	Here in Diana's temple.
+<SPEECH 22><ACT 5><SCENE 3><97%>
+	Great sir, they shall be brought you to my house,
+	Whither I invite you. Look! Thaisa is
+	Recovered.
+<SPEECH 23><ACT 5><SCENE 3><98%>
+	I will, my lord.
+	Beseech you, first go with me to my house.
+	Where shall be shown you all was found with her;
+	How she came placed here in the temple;
+	No needful thing omitted.

@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 3><SCENE 2><51%>
+	Here, sir.
+<SPEECH 2><ACT 3><SCENE 2><51%>
+	A woman's tailor, sir.
+<SPEECH 3><ACT 3><SCENE 2><52%>
+	I will do my good will, sir: you can have no more.
+<SPEECH 4><ACT 3><SCENE 2><52%>
+	I would Wart might have gone, sir.
+<SPEECH 5><ACT 3><SCENE 2><52%>
+	It shall suffice, sir.
+<SPEECH 6><ACT 3><SCENE 2><54%>
+	By my troth, I care not; a man can die but once; we owe God a death. I'll ne'er bear a base mind: an't be my destiny, so; an't be not, so. No man's too good to serve's prince; and let it go which way it will, he that dies this year is quit for the next.
+<SPEECH 7><ACT 3><SCENE 2><54%>
+	Faith, I'll bear no base mind.

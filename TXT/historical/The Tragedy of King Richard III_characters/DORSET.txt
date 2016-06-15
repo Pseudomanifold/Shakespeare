@@ -1,0 +1,22 @@
+<SPEECH 1><ACT 1><SCENE 3><17%>
+	No man but prophesied revenge for it.
+<SPEECH 2><ACT 1><SCENE 3><18%>
+	Dispute not with her, she is lunatic.
+<SPEECH 3><ACT 1><SCENE 3><19%>
+	It touches you, my lord, as much as me.
+<SPEECH 4><ACT 2><SCENE 1><29%>
+	This interchange of love, I here protest,
+	Upon my part shall be inviolable.
+<SPEECH 5><ACT 2><SCENE 1><31%>
+	Ay, my good lord; and no man in the presence
+	But his red colour hath forsook his cheeks.
+<SPEECH 6><ACT 2><SCENE 2><35%>
+	Comfort, dear mother: God is much displeas'd
+	That you take with unthankfulness his doing.
+	In common worldly things 'tis call'd ungrateful
+	With dull unwillingness to repay a debt
+	Which with a bounteous hand was kindly lent;
+	Much more to be thus opposite with heaven,
+	For it requires the royal debt it lent you.
+<SPEECH 7><ACT 4><SCENE 1><64%>
+	Be of good cheer: mother, how fares your Grace?

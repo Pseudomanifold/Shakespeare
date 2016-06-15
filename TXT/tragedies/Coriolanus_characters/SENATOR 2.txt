@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	Noble Aufidius,
+	Take your commission; hie you to your bands;
+	Let us alone to guard Corioli:
+	If they set down before's, for the remove
+	Bring up your army; but, I think you'll find
+	They've not prepared for us.
+<SPEECH 2><ACT 1><SCENE 2><9%>
+	Farewell.
+<SPEECH 3><ACT 3><SCENE 1><51%>
+	Get you gone.

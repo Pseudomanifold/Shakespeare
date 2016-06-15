@@ -1,0 +1,113 @@
+<SPEECH 1><ACT 2><SCENE 2><33%>
+	</STAGE DIR> But to be commanded
+	For ever by your Grace, whose hand has rais'd me.
+<SPEECH 2><ACT 5><SCENE 1><79%>
+	It's one o'clock, boy, is't not?
+<SPEECH 3><ACT 5><SCENE 1><80%>
+	These should be hours for necessities,
+	Not for delights; times to repair our nature
+	With comforting repose, and not for us
+	To waste these times. Good hour of night, Sir Thomas!
+	Whither so late?
+<SPEECH 4><ACT 5><SCENE 1><80%>
+	I did, Sir Thomas; and left him at primero
+	With the Duke of Suffolk.
+<SPEECH 5><ACT 5><SCENE 1><80%>
+	Not yet, Sir Thomas Lovell. What 's the matter?
+	It seems you are in haste: an if there be
+	No great offence belongs to't, give your friend
+	Some touch of your late business: affairs, that walk—
+	As they say spirits do—at midnight, have
+	In them a wilder nature than the business
+	That seeks dispatch by day.
+<SPEECH 6><ACT 5><SCENE 1><80%>
+	The fruit she goes with
+	I pray for heartily, that it may find
+	Good time, and live: but for the stock, Sir Thomas,
+	I wish it grubb'd up now.
+<SPEECH 7><ACT 5><SCENE 1><80%>
+	But, sir, sir,
+	Hear me, Sir Thomas: you're a gentleman
+	Of mine own way; I know you wise, religious;
+	And, let me tell you, it will ne'er be well,
+	'Twill not, Sir Thomas Lovell, take 't of me,
+	Till Cranmer, Cromwell, her two hands, and she,
+	Sleep in their graves.
+<SPEECH 8><ACT 5><SCENE 1><81%>
+	Yes, yes, Sir Thomas,
+	There are that dare; and I myself have ventur'd
+	To speak my mind of him: and indeed this day,
+	Sir,—I may tell it you,—I think I have
+	Incens'd the lords o' the council that he is—
+	For so I know he is, they know he is—
+	A most arch heretic, a pestilence
+	That does infect the land: with which they mov'd
+	Have broken with the king; who hath so far
+	Given ear to our complaint,—of his great grace
+	And princely care, foreseeing those fell mischiefs
+	Our reasons laid before him,—hath commanded
+	To-morrow morning to the council-board
+	He be convented. He's a rank weed, Sir Thomas,
+	And we must root him out. From your affairs
+	I hinder you too long: good-night, Sir Thomas!
+<SPEECH 9><ACT 5><SCENE 3><88%>
+	Has he had knowledge of it?
+<SPEECH 10><ACT 5><SCENE 3><88%>
+	Yes.
+<SPEECH 11><ACT 5><SCENE 3><88%>
+	Which reformation must be sudden too,
+	My noble lords; for those that tame wild horses
+	Pace 'em not in their hands to make 'em gentle,
+	But stop their mouths with stubborn bits, and spur 'em,
+	Till they obey the manage. If we suffer—
+	Out of our easiness and childish pity
+	To one man's honour—this contagious sickness,
+	Farewell all physic: and what follows then?
+	Commotions, uproars, with a general taint
+	Of the whole state: as, of late days, our neighbours,
+	The upper Germany, can dearly witness,
+	Yet freshly pitied in our memories.
+<SPEECH 12><ACT 5><SCENE 3><89%>
+	My lord, because we have business of more moment,
+	We will be short with you. 'Tis his highness' pleasure,
+	And our consent, for better trial of you,
+	From hence you be committed to the Tower;
+	Where, being but a private man again,
+	You shall know many dare accuse you boldly,
+	More than, I fear, you are provided for.
+<SPEECH 13><ACT 5><SCENE 3><90%>
+	My lord, my lord, you are a sectary;
+	That's the plain truth: your painted gloss discovers,
+	To men that understand you, words and weakness.
+<SPEECH 14><ACT 5><SCENE 3><90%>
+	Good Master secretary,
+	I cry your honour mercy, you may, worst
+	Of all this table, say so.
+<SPEECH 15><ACT 5><SCENE 3><90%>
+	Do not I know you for a favourer
+	Of this new sect? ye are not sound.
+<SPEECH 16><ACT 5><SCENE 3><90%>
+	Not sound, I say.
+<SPEECH 17><ACT 5><SCENE 3><90%>
+	I shall remember this bold language.
+<SPEECH 18><ACT 5><SCENE 3><90%>
+	I have done.
+<SPEECH 19><ACT 5><SCENE 3><91%>
+	What other
+	Would you expect? You are strangely troublesome.
+	Let some o' the guard be ready there.
+<SPEECH 20><ACT 5><SCENE 3><91%>
+	Receive him,
+	And see him safe i' the Tower.
+<SPEECH 21><ACT 5><SCENE 3><91%>
+	Dread sovereign, how much are we bound to heaven
+	In daily thanks, that gave us such a prince;
+	Not only good and wise, but most religious:
+	One that in all obedience makes the Church
+	The chief aim of his honour; and, to strengthen
+	That holy duty, out of dear respect,
+	His royal self in judgment comes to hear
+	The cause betwixt her and this great offender.
+<SPEECH 22><ACT 5><SCENE 3><93%>
+	With a true heart
+	And brother-love I do it.

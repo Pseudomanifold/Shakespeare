@@ -1,0 +1,49 @@
+<SPEECH 1><ACT 2><SCENE 4><40%>
+	O Jesu! my lord the prince!
+<SPEECH 2><ACT 2><SCENE 4><40%>
+	Marry, my lord, there is a nobleman of the court at door would speak with you: he says he comes from your father.
+<SPEECH 3><ACT 2><SCENE 4><41%>
+	An old man.
+<SPEECH 4><ACT 2><SCENE 4><44%>
+	O Jesu! This is excellent sport, i' faith!
+<SPEECH 5><ACT 2><SCENE 4><44%>
+	O, the father! how he holds his countenance.
+<SPEECH 6><ACT 2><SCENE 4><44%>
+	O Jesu! he doth it as like one of these harlotry players as ever I see!
+<SPEECH 7><ACT 2><SCENE 4><47%>
+	O Jesu! my lord, my lord!
+<SPEECH 8><ACT 2><SCENE 4><47%>
+	The sheriff and all the watch are at the door: they are come to search the house. Shall I let them in?
+<SPEECH 9><ACT 3><SCENE 3><65%>
+	Why, Sir John, what do you think, Sir John? Do you think I keep thieves in my house? I have searched, I have inquired, so has my husband, man by man, boy by boy, servant by servant: the tithe of a hair was never lost in my house before.
+<SPEECH 10><ACT 3><SCENE 3><65%>
+	Who, I? No; I defy thee: God's light!
+	I was never called so in my own house before.
+<SPEECH 11><ACT 3><SCENE 3><65%>
+	No, Sir John; you do not know me, Sir John: I know you, Sir John: you owe me money, Sir John, and now you pick a quarrel to beguile me of it: I bought you a dozen of shirts to your back.
+<SPEECH 12><ACT 3><SCENE 3><66%>
+	Now, as I am true woman, holland of eight shillings an ell. You owe money here besides, Sir John, for your diet and by-drinkings, and money lent you, four-and-twenty pound.
+<SPEECH 13><ACT 3><SCENE 3><66%>
+	He! alas! he is poor; he hath nothing.
+<SPEECH 14><ACT 3><SCENE 3><66%>
+	O Jesu! I have heard the prince tell him, I know not how oft, that that ring was copper.
+<SPEECH 15><ACT 3><SCENE 3><66%>
+	My lord, I pray you, hear me.
+<SPEECH 16><ACT 3><SCENE 3><66%>
+	Good my lord, hear me.
+<SPEECH 17><ACT 3><SCENE 3><67%>
+	So I told him, my lord; and I said I heard your Grace say so: and, my lord, he speaks most vilely of you, like a foul-mouthed man as he is, and said he would cudgel you.
+<SPEECH 18><ACT 3><SCENE 3><67%>
+	There's neither faith, truth, nor womanhood in me else.
+<SPEECH 19><ACT 3><SCENE 3><67%>
+	Say, what thing? what thing?
+<SPEECH 20><ACT 3><SCENE 3><67%>
+	I am no thing to thank God on, I would thou shouldst know it; I am an honest man's wife; and, setting thy knighthood aside, thou art a knave to call me so.
+<SPEECH 21><ACT 3><SCENE 3><67%>
+	Say, what beast, thou knave thou?
+<SPEECH 22><ACT 3><SCENE 3><67%>
+	Thou art an unjust man in saying so: thou or any man knows where to have me, thou knave thou!
+<SPEECH 23><ACT 3><SCENE 3><68%>
+	So he doth you, my lord; and said this other day you ought him a thousand pound.
+<SPEECH 24><ACT 3><SCENE 3><68%>
+	Nay, my lord, he called you Jack, and said he would cudgel you.

@@ -1,0 +1,85 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	How now, Mephistophilus!
+<SPEECH 2><ACT 1><SCENE 1><5%>
+	He hears with ears.
+<SPEECH 3><ACT 1><SCENE 1><5%>
+	Ha, thou mountain foreigner!—Sir John and master mine,
+	I combat challenge of this latten bilbo.
+	Word of denial in thy labras here!
+	Word of denial: froth and scum, thou liest.
+<SPEECH 4><ACT 1><SCENE 3><12%>
+	O base Hungarian wight! wilt thou the spigot wield?
+<SPEECH 5><ACT 1><SCENE 3><12%>
+	'Convey,' the wise it call. 'Steal!' foh! a fico for the phrase!
+<SPEECH 6><ACT 1><SCENE 3><12%>
+	Why, then, let kibes ensue.
+<SPEECH 7><ACT 1><SCENE 3><12%>
+	Young ravens must have food.
+<SPEECH 8><ACT 1><SCENE 3><12%>
+	I ken the wight: he is of substance good.
+<SPEECH 9><ACT 1><SCENE 3><12%>
+	Two yards, and more.
+<SPEECH 10><ACT 1><SCENE 3><13%>
+	He hath studied her well, and translated her well, out of honesty into English.
+<SPEECH 11><ACT 1><SCENE 3><13%>
+	As many devils entertain, and 'To her, boy,' say I.
+<SPEECH 12><ACT 1><SCENE 3><13%>
+	Then did the sun on dunghill shine.
+<SPEECH 13><ACT 1><SCENE 3><13%>
+	Shall I Sir Pandarus of Troy become,
+	And by my side wear steel? then, Lucifer take all!
+<SPEECH 14><ACT 1><SCENE 3><14%>
+	Let vultures gripe thy guts! for gourd and fullam holds,
+	And high and low beguile the rich and poor.
+	Tester I'll have in pouch when thou shalt lack,
+	Base Phrygian Turk!
+<SPEECH 15><ACT 1><SCENE 3><14%>
+	Wilt thou revenge?
+<SPEECH 16><ACT 1><SCENE 3><14%>
+	With wit or steel?
+<SPEECH 17><ACT 1><SCENE 3><14%>
+	And I to Ford shall eke unfold
+	How Falstaff, varlet vile,
+	His dove will prove, his gold will hold,
+	And his soft couch defile.
+<SPEECH 18><ACT 1><SCENE 3><14%>
+	Thou art the Mars of malcontents: I second thee; troop on.
+<SPEECH 19><ACT 2><SCENE 1><24%>
+	Hope is a curtal dog in some affairs:
+	Sir John affects thy wife.
+<SPEECH 20><ACT 2><SCENE 1><24%>
+	He woos both high and low, both rich and poor,
+	Both young and old, one with another, Ford.
+	He loves the galimaufry: Ford, perpend.
+<SPEECH 21><ACT 2><SCENE 1><24%>
+	With liver burning hot: prevent, or go thou,
+	Like Sir Actæon he, with Ringwood at thy heels.—
+	O! odious is the name!
+<SPEECH 22><ACT 2><SCENE 1><24%>
+	The horn, I say. Farewell:
+	Take heed; have open eye, for thieves do foot by night:
+	Take heed, ere summer comes or cuckoo-birds do sing.
+	Away, sir Corporal Nym!
+	Believe it, Page; he speaks sense.
+<SPEECH 23><ACT 2><SCENE 2><28%>
+	Why, then the world's mine oyster,
+	Which I with sword will open.
+	I will retort the sum in equipage.
+<SPEECH 24><ACT 2><SCENE 2><29%>
+	Didst thou not share? hadst thou not fifteen pence?
+<SPEECH 25><ACT 2><SCENE 2><29%>
+	I do relent: what wouldst thou more of man?
+<SPEECH 26><ACT 2><SCENE 2><33%>
+	This punk is one of Cupid's carriers.
+	Clap on more sails; pursue; up with your fights;
+	Give fire! she is my prize, or ocean whelm them all!
+<SPEECH 27><ACT 5><SCENE 5><92%>
+	Elves, list your names: silence, you airy toys!
+	Cricket, to Windsor chimneys shalt thou leap:
+	Where fires thou find'st unrak'd and hearths unswept,
+	There pinch the maids as blue as bilberry:
+	Our radiant queen hates sluts and sluttery.
+<SPEECH 28><ACT 5><SCENE 5><94%>
+	Vile worm, thou wast o'erlook'd even in thy birth.
+<SPEECH 29><ACT 5><SCENE 5><94%>
+	A trial! come.

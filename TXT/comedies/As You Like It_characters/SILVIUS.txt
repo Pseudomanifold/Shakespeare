@@ -1,0 +1,98 @@
+<SPEECH 1><ACT 2><SCENE 4><29%>
+	O Corin, that thou knew'st how I do love her!
+<SPEECH 2><ACT 2><SCENE 4><29%>
+	No, Corin; being old, thou canst not guess,
+	Though in thy youth thou wast as true a lover
+	As ever sigh'd upon a midnight pillow:
+	But if thy love were ever like to mine,—
+	As sure I think did never man love so,—
+	How many actions most ridiculous
+	Hast thou been drawn to by thy fantasy?
+<SPEECH 3><ACT 2><SCENE 4><29%>
+	O! thou didst then ne'er love so heartily.
+	If thou remember'st not the slightest folly
+	That ever love did make thee run into,
+	Thou hast not lov'd:
+	Or if thou hast not sat as I do now,
+	Wearing thy hearer with thy mistress' praise,
+	Thou hast not lov'd:
+	Or if thou hast not broke from company
+	Abruptly, as my passion now makes me,
+	Thou hast not lov'd. O Phebe, Phebe, Phebe!
+<SPEECH 4><ACT 3><SCENE 5><63%>
+	Sweet Phebe, do not scorn me; do not, Phebe:
+	Say that you love me not, but say not so
+	In bitterness. The common executioner,
+	Whose heart the accustom'd sight of death makes hard,
+	Falls not the axe upon the humbled neck
+	But first begs pardon: will you sterner be
+	Than he that dies and lives by bloody drops?
+<SPEECH 5><ACT 3><SCENE 5><64%>
+	O dear Phebe,
+	If ever,—as that ever may be near,—
+	You meet in some fresh cheek the power of fancy,
+	Then shall you know the wounds invisible
+	That love's keen arrows make.
+<SPEECH 6><ACT 3><SCENE 5><66%>
+	Sweet Phebe,—
+<SPEECH 7><ACT 3><SCENE 5><66%>
+	Sweet Phebe, pity me.
+<SPEECH 8><ACT 3><SCENE 5><66%>
+	Wherever sorrow is, relief would be:
+	If you do sorrow at my grief in love,
+	By giving love your sorrow and my grief
+	Were both extermin'd.
+<SPEECH 9><ACT 3><SCENE 5><66%>
+	I would have you.
+<SPEECH 10><ACT 3><SCENE 5><67%>
+	So holy and so perfect is my love,
+	And I in such a poverty of grace,
+	That I shall think it a most plenteous crop
+	To glean the broken ears after the man
+	That the main harvest reaps: loose now and then
+	A scatter'd smile, and that I'll live upon.
+<SPEECH 11><ACT 3><SCENE 5><67%>
+	Not very well, but I have met him oft;
+	And he hath bought the cottage and the bounds
+	That the old carlot once was master of.
+<SPEECH 12><ACT 3><SCENE 5><68%>
+	Phebe, with all my heart.
+<SPEECH 13><ACT 4><SCENE 3><77%>
+	My errand is to you, fair youth.
+	My gentle Phebe did bid me give you this:
+	I know not the contents; but, as I guess
+	By the stern brow and waspish action
+	Which she did use as she was writing of it,
+	It bears an angry tenour: pardon me;
+	I am but as a guiltless messenger.
+<SPEECH 14><ACT 4><SCENE 3><77%>
+	No, I protest, I know not the contents:
+	Phebe did write it.
+<SPEECH 15><ACT 4><SCENE 3><77%>
+	Sure, it is hers.
+<SPEECH 16><ACT 4><SCENE 3><78%>
+	So please you, for I never heard it yet;
+	Yet heard too much of Phebe's cruelty.
+<SPEECH 17><ACT 4><SCENE 3><78%>
+	Call you this railing?
+<SPEECH 18><ACT 4><SCENE 3><78%>
+	Call you this chiding?
+<SPEECH 19><ACT 5><SCENE 2><88%>
+	It is to be all made of sighs and tears;
+	And so am I for Phebe.
+<SPEECH 20><ACT 5><SCENE 2><88%>
+	It is to be all made of faith and service;
+	And so am I for Phebe.
+<SPEECH 21><ACT 5><SCENE 2><89%>
+	It is to be all made of fantasy,
+	All made of passion, and all made of wishes;
+	All adoration, duty, and observance;
+	All humbleness, all patience, and impatience;
+	All purity, all trial, all obeisance;
+	And so am I for Phebe.
+<SPEECH 22><ACT 5><SCENE 2><89%>
+	</STAGE DIR> If this be so, why blame you me to love you?
+<SPEECH 23><ACT 5><SCENE 2><90%>
+	I'll not fail, if I live.
+<SPEECH 24><ACT 5><SCENE 4><92%>
+	Though to have her and death were both one thing.

@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 4><SCENE 2><67%>
+	My lord!
+<SPEECH 2><ACT 4><SCENE 2><67%>
+	I know a discontented gentleman,
+	Whose humble means match not his haughty spirit:
+	Gold were as good as twenty orators,
+	And will, no doubt, tempt him to anything.
+<SPEECH 3><ACT 4><SCENE 2><67%>
+	His name, my lord, is Tyrrell.

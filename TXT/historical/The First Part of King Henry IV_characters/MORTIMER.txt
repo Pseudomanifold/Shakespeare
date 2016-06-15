@@ -1,0 +1,74 @@
+<SPEECH 1><ACT 3><SCENE 1><49%>
+	These promises are fair, the parties sure,
+	And our induction full of prosperous hope.
+<SPEECH 2><ACT 3><SCENE 1><51%>
+	Peace, cousin Percy! you will make him mad.
+<SPEECH 3><ACT 3><SCENE 1><51%>
+	Come, come;
+	No more of this unprofitable chat.
+<SPEECH 4><ACT 3><SCENE 1><51%>
+	The archdeacon hath divided it
+	Into three limits very equally.
+	England, from Trent and Severn hitherto,
+	By south and east, is to my part assign'd:
+	All westward, Wales beyond the Severn shore,
+	And all the fertile land within that bound,
+	To Owen Glendower: and, dear coz, to you
+	The remnant northward, lying off from Trent.
+	And our indentures tripartite are drawn,
+	Which being sealed interchangeably,
+	A business that this night may execute,
+	To-morrow, cousin Percy, you and I
+	And my good Lord of Worcester will set forth
+	To meet your father and the Scottish power,
+	As is appointed us, at Shrewsbury.
+	My father Glendower is not ready yet,
+	Nor shall we need his help these fourteen days.
+	</STAGE DIR> Within that space you may have drawn together
+	Your tenants, friends, and neighbouring gentlemen.
+<SPEECH 5><ACT 3><SCENE 1><52%>
+	Yea, but
+	Mark how he bears his course, and runs me up
+	With like advantage on the other side;
+	Gelding the opposed continent as much,
+	As on the other side it takes from you.
+<SPEECH 6><ACT 3><SCENE 1><54%>
+	Fie, cousin Percy! how you cross my father!
+<SPEECH 7><ACT 3><SCENE 1><54%>
+	In faith, he is a worthy gentleman,
+	Exceedingly well read, and profited
+	In strange concealments, valiant as a lion
+	And wondrous affable, and as bountiful
+	As mines of India. Shall I tell you, cousin?
+	He holds your temper in a high respect,
+	And curbs himself even of his natural scope
+	When you do cross his humour; faith, he does.
+	I warrant you, that man is not alive
+	Might so have tempted him as you have done,
+	Without the taste of danger and reproof:
+	But do not use it oft, let me entreat you.
+<SPEECH 8><ACT 3><SCENE 1><55%>
+	This is the deadly spite that angers me,
+	My wife can speak no English, I no Welsh.
+<SPEECH 9><ACT 3><SCENE 1><55%>
+	Good father, tell her that she and my aunt Percy,
+	Shall follow in your conduct speedily.
+<SPEECH 10><ACT 3><SCENE 1><55%>
+	I understand thy looks: that pretty Welsh
+	Which thou pour'st down from these swelling heavens
+	I am too perfect in; and, but for shame,
+	In such a parley would I answer thee.
+	I understand thy kisses and thou mine,
+	And that's a feeling disputation:
+	But I will never be a truant, love,
+	Till I have learn'd thy language; for thy tongue
+	Makes Welsh as sweet as ditties highly penn'd,
+	Sung by a fair queen in a summer's bower,
+	With ravishing division, to her lute.
+<SPEECH 11><ACT 3><SCENE 1><56%>
+	O! I am ignorance itself in this.
+<SPEECH 12><ACT 3><SCENE 1><56%>
+	With all my heart I'll sit and hear her sing:
+	By that time will our book, I think, be drawn.
+<SPEECH 13><ACT 3><SCENE 1><58%>
+	With all my heart.

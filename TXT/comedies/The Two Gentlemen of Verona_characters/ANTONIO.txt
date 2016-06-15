@@ -1,0 +1,46 @@
+<SPEECH 1><ACT 1><SCENE 3><14%>
+	Tell me, Panthino, what sad talk was that
+	Wherewith my brother held you in the cloister?
+<SPEECH 2><ACT 1><SCENE 3><14%>
+	Why, what of him?
+<SPEECH 3><ACT 1><SCENE 3><14%>
+	Nor need'st thou much importune me to that
+	Whereon this month I have been hammering.
+	I have consider'd well his loss of time,
+	And how he cannot be a perfect man,
+	Not being tried and tutor'd in the world:
+	Experience is by industry achiev'd
+	And perfected by the swift course of time.
+	Then tell me, whither were I best to send him?
+<SPEECH 4><ACT 1><SCENE 3><15%>
+	I know it well.
+<SPEECH 5><ACT 1><SCENE 3><15%>
+	I like thy counsel, well hast thou advis'd:
+	And that thou mayst perceive how well I like it
+	The execution of it shall make known.
+	Even with the speediest expedition
+	I will dispatch him to the emperor's court.
+<SPEECH 6><ACT 1><SCENE 3><15%>
+	Good company; with them shall Proteus go:
+	And in good time:—now will we break with him.
+<SPEECH 7><ACT 1><SCENE 3><16%>
+	How now! what letter are you reading there?
+<SPEECH 8><ACT 1><SCENE 3><16%>
+	Lend me the letter; let me see what news.
+<SPEECH 9><ACT 1><SCENE 3><16%>
+	And how stand you affected to his wish?
+<SPEECH 10><ACT 1><SCENE 3><16%>
+	My will is something sorted with his wish.
+	Muse not that I thus suddenly proceed;
+	For what I will, I will, and there an end.
+	I am resolv'd that thou shalt spend some time
+	With Valentinus in the emperor's court:
+	What maintenance he from his friends receives,
+	Like exhibition thou shalt have from me.
+	To-morrow be in readiness to go:
+	Excuse it not, for I am peremptory.
+<SPEECH 11><ACT 1><SCENE 3><17%>
+	Look, what thou want'st shall be sent after thee:
+	No more of stay; to-morrow thou must go.
+	Come on, Panthino: you shall be employ'd
+	To hasten on his expedition.

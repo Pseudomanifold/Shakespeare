@@ -1,0 +1,60 @@
+<SPEECH 1><ACT 2><SCENE 4><38%>
+	Ay, mother, but I would not have it so.
+<SPEECH 2><ACT 2><SCENE 4><38%>
+	Grandam, one night, as we did sit at supper,
+	My uncle Rivers talk'd how I did grow
+	More than my brother: 'Ay,' quoth my uncle Gloucester,
+	'Small herbs have grace, great weeds do grow apace:'
+	And since, methinks, I would not grow so fast,
+	Because sweet flowers are slow and weeds make haste.
+<SPEECH 3><ACT 2><SCENE 4><39%>
+	Now, by my troth, if I had been remember'd,
+	I could have given my uncle's grace a flout,
+	To touch his growth nearer than he touch'd mine.
+<SPEECH 4><ACT 2><SCENE 4><39%>
+	Marry, they say my uncle grew so fast,
+	That he could gnaw a crust at two hours old:
+	'Twas full two years ere I could get a tooth.
+	Grandam, this would have been a biting jest.
+<SPEECH 5><ACT 2><SCENE 4><39%>
+	Grandam, his nurse.
+<SPEECH 6><ACT 2><SCENE 4><39%>
+	If 'twere not she, I cannot tell who told me.
+<SPEECH 7><ACT 3><SCENE 1><43%>
+	Well, my dread lord; so must I call you now.
+<SPEECH 8><ACT 3><SCENE 1><43%>
+	I thank you, gentle uncle. O, my lord,
+	You said that idle weeds are fast in growth:
+	The prince my brother hath outgrown me far.
+<SPEECH 9><ACT 3><SCENE 1><43%>
+	And therefore is he idle?
+<SPEECH 10><ACT 3><SCENE 1><43%>
+	Then he is more beholding to you than I.
+<SPEECH 11><ACT 3><SCENE 1><43%>
+	I pray you, uncle, give me this dagger.
+<SPEECH 12><ACT 3><SCENE 1><43%>
+	Of my kind uncle, that I know will give;
+	And, being but a toy, which is no grief to give.
+<SPEECH 13><ACT 3><SCENE 1><43%>
+	A greater gift! O, that's the sword to it.
+<SPEECH 14><ACT 3><SCENE 1><43%>
+	O, then, I see, you'll part but with light gifts;
+	In weightier things you'll say a beggar nay.
+<SPEECH 15><ACT 3><SCENE 1><43%>
+	I weigh it lightly, were it heavier.
+<SPEECH 16><ACT 3><SCENE 1><43%>
+	I would, that I might thank you, as you call me.
+<SPEECH 17><ACT 3><SCENE 1><44%>
+	Little.
+<SPEECH 18><ACT 3><SCENE 1><44%>
+	You mean, to bear me, not to bear with me:
+	Uncle, my brother mocks both you and me.
+	Because that I am little, like an ape,
+	He thinks that you should bear me on your shoulders.
+<SPEECH 19><ACT 3><SCENE 1><44%>
+	What! will you go unto the Tower, my lord?
+<SPEECH 20><ACT 3><SCENE 1><44%>
+	I shall not sleep in quiet at the Tower.
+<SPEECH 21><ACT 3><SCENE 1><44%>
+	Marry, my uncle Clarence' angry ghost:
+	My grandam told me he was murder'd there.

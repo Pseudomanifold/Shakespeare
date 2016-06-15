@@ -1,0 +1,200 @@
+<SPEECH 1><ACT 1><SCENE 5><14%>
+	Yes; and shall do, till the pangs of death shake him: infirmity, that decays the wise, doth ever make the better fool.
+<SPEECH 2><ACT 1><SCENE 5><15%>
+	I marvel your ladyship takes delight in such a barren rascal: I saw him put down the other day with an ordinary fool that has no more brain than a stone. Look you now, he's out of his guard already; unless you laugh and minister occasion to him, he is gagged. I protest, I take these wise men, that crow so at these set kind of fools, no better than the fools' zanies.
+<SPEECH 3><ACT 1><SCENE 5><17%>
+	Madam, yond young fellow swears he will speak with you. I told him you were sick: he takes on him to understand so much, and therefore comes to speak with you. I told him you were asleep: he seems to have a foreknowledge of that too, and therefore comes to speak with you. What is to be said to him, lady? he's fortified against any denial.
+<SPEECH 4><ACT 1><SCENE 5><17%>
+	Ha's been told so; and he says, he'll stand at your door like a sheriff's post, and be the supporter to a bench, but he'll speak with you.
+<SPEECH 5><ACT 1><SCENE 5><17%>
+	Why, of mankind.
+<SPEECH 6><ACT 1><SCENE 5><17%>
+	Of very ill manner: he'll speak with you, will you or no.
+<SPEECH 7><ACT 1><SCENE 5><17%>
+	Not yet old enough for a man, nor young enough for a boy; as a squash is before 'tis a peascod, or a codling when 'tis almost an apple: 'tis with him in standing water, between boy and man. He is very well-favoured, and he speaks very shrewishly: one would think his mother's milk were scarce out of him.
+<SPEECH 8><ACT 1><SCENE 5><18%>
+	Gentlewoman, my lady calls.
+<SPEECH 9><ACT 1><SCENE 5><23%>
+	Here, madam, at your service.
+<SPEECH 10><ACT 1><SCENE 5><23%>
+	Madam, I will.
+<SPEECH 11><ACT 2><SCENE 2><26%>
+	Were not you even now with the Countess Olivia?
+<SPEECH 12><ACT 2><SCENE 2><26%>
+	She returns this ring to you, sir: you might have saved me my pains, to have taken it away yourself. She adds, moreover, that you should put your lord into a desperate assurance she will none of him. And one thing more; that you be never so hardy to come again in his affairs, unless it be to report your lord's taking of this. Receive it so.
+<SPEECH 13><ACT 2><SCENE 2><26%>
+	Come, sir, you peevishly threw it to her; and her will is it should be so returned: if it be worth stooping for, there it lies in your eye; if not, be it his that finds it.
+<SPEECH 14><ACT 2><SCENE 3><30%>
+	My masters, are you mad? or what are you? Have you no wit, manners, nor honesty, but to gabble like tinkers at this time of night? Do ye make an alehouse of my lady's house, that ye squeak out your coziers' catches without any mitigation or remorse of voice? Is there no respect of place, persons, nor time, in you?
+<SPEECH 15><ACT 2><SCENE 3><31%>
+	Sir Toby, I must be round with you. My lady bade me tell you, that, though she harbours you as her kinsman, she's nothing allied to your disorders. If you can separate yourself and your misdemeanours, you are welcome to the house; if not, an it would please you to take leave of her, she is very willing to bid you farewell.
+<SPEECH 16><ACT 2><SCENE 3><31%>
+	Is't even so?
+<SPEECH 17><ACT 2><SCENE 3><31%>
+	This is much credit to you.
+<SPEECH 18><ACT 2><SCENE 3><32%>
+	Mistress Mary, if you prized my lady's favour at anything more than contempt, you would not give means for this uncivil rule: she shall know of it, by this hand.
+<SPEECH 19><ACT 2><SCENE 5><40%>
+	'Tis but fortune; all is fortune. Maria once told me she did affect me; and I have heard herself come thus near, that should she fancy, it should be one of my complexion. Besides, she uses me with a more exalted respect than anyone else that follows her. What should I think on't?
+<SPEECH 20><ACT 2><SCENE 5><41%>
+	To be Count Malvolio!
+<SPEECH 21><ACT 2><SCENE 5><41%>
+	There is example for't: the lady of the Strachy married the yeoman of the wardrobe.
+<SPEECH 22><ACT 2><SCENE 5><41%>
+	Having been three months married to her, sitting in my state,—
+<SPEECH 23><ACT 2><SCENE 5><41%>
+	Calling my officers about me, in my branched velvet gown; having come from a daybed, where I have left Olivia sleeping,—
+<SPEECH 24><ACT 2><SCENE 5><41%>
+	And then to have the humour of state: and after a demure travel of regard, telling them I know my place, as I would they should do theirs, to ask for my kinsman Toby,—
+<SPEECH 25><ACT 2><SCENE 5><41%>
+	Seven of my people, with an obedient start, make out for him. I frown the while; and perchance wind up my watch, or play with my—some rich jewel. Toby approaches; curtsies there to me,—
+<SPEECH 26><ACT 2><SCENE 5><42%>
+	I extend my hand to him thus, quenching my familiar smile with an austere regard of control,—
+<SPEECH 27><ACT 2><SCENE 5><42%>
+	Saying, 'Cousin Toby, my fortunes having cast me on your niece give me this prerogative of speech,'—
+<SPEECH 28><ACT 2><SCENE 5><42%>
+	'You must amend your drunkenness.'
+<SPEECH 29><ACT 2><SCENE 5><42%>
+	'Besides, you waste the treasure of your time with a foolish knight,'—
+<SPEECH 30><ACT 2><SCENE 5><42%>
+	'One Sir Andrew,'—
+<SPEECH 31><ACT 2><SCENE 5><42%>
+	</STAGE DIR> What employment have we here?
+<SPEECH 32><ACT 2><SCENE 5><42%>
+	</STAGE DIR> By my life, this is my lady's hand! these be her very C's, her U's, and her T's; and thus makes she her great P's. It is, in contempt of question, her hand.
+<SPEECH 33><ACT 2><SCENE 5><43%>
+	</STAGE DIR> To the unknown beloved, this and my good wishes: her very phrases! By your leave, wax. Soft! and the impressure her Lucrece, with which she uses to seal: 'tis my lady. To whom should this be?
+<SPEECH 34><ACT 2><SCENE 5><43%>
+	Jove knows I love;
+	But who?
+	Lips, do not move
+	No man must know.
+	'No man must know.' What follows? the numbers altered! 'No man must know:' if this should be thee, Malvolio!
+<SPEECH 35><ACT 2><SCENE 5><43%>
+	I may command where I adore;
+	But silence, like a Lucrece knife,
+	With bloodless stroke my heart doth gore:
+	M, O, A, I, doth sway my life.
+<SPEECH 36><ACT 2><SCENE 5><43%>
+	'M, O, A, I, doth sway my life.' Nay, but first, let me see, let me see, let me see.
+<SPEECH 37><ACT 2><SCENE 5><43%>
+	'I may command where I adore.' Why, she may command me: I serve her; she is my lady. Why, this is evident to any formal capacity; there is no obstruction in this. And the end, what should that alphabetical position portend? if I could make that resemble something in me,—Softly!—M, O, A, I,—
+<SPEECH 38><ACT 2><SCENE 5><44%>
+	M, Malvolio; M, why, that begins my name.
+<SPEECH 39><ACT 2><SCENE 5><44%>
+	M,—But then there is no consonancy in the sequel; that suffers under probation: A should follow, but O does.
+<SPEECH 40><ACT 2><SCENE 5><44%>
+	And then I comes behind.
+<SPEECH 41><ACT 2><SCENE 5><44%>
+	M, O, A, I; this simulation is not as the former; and yet, to crush this a little, it would bow to me, for every one of these letters are in my name. Soft! here follows prose.
+	If this fall into thy hand, revolve. In my stars I am above thee; but be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them. Thy Fates open their hands; let thy blood and spirit embrace them; and to inure thyself to what thou art like to be, cast thy humble slough, and appear fresh. Be opposite with a kinsman, surly with servants; let thy tongue tang arguments of state; put thyself into the trick of singularity She thus advises thee that sighs for thee. Remember who commended thy yellow stockings, and wished to see thee ever cross-gartered: I say, remember. Go to, thou art made, if thou desirest to be so; if not, let me see thee a steward still, the fellow of servants, and not worthy to touch Fortune's fingers. Farewell. She that would alter services with thee. THE FORTUNATE-UNHAPPY.
+	Daylight and champian discovers not more: this is open. I will be proud, I will read politic authors, I will baffle Sir Toby, I will wash off gross acquaintance, I will be point-devise the very man. I do not now fool myself, to let imagination jade me, for every reason excites to this, that my lady loves me. She did commend my yellow stockings of late, she did praise my leg being cross-gartered; and in this she manifests herself to my love, and, with a kind of injunction drives me to these habits of her liking. I thank my stars I am happy. I will be strange, stout, in yellow stockings, and cross-gartered, even with the swiftness of putting on. Jove and my stars be praised! Here is yet a postscript.
+	Thou canst not choose but know who I am. If thou entertainest my love, let it appear in thy smiling; thy smiles become thee well; therefore in my presence still smile, dear my sweet, I prithee.
+	Jove, I thank thee. I will smile: I will do everything that thou wilt have me.
+<SPEECH 42><ACT 3><SCENE 4><60%>
+	Sweet lady, ho, ho.
+<SPEECH 43><ACT 3><SCENE 4><60%>
+	Sad, lady! I could be sad: this does make some obstruction in the blood, this crossgartering; but what of that? if it please the eye of one, it is with me as the very true sonnet is, 'Please one and please all.'
+<SPEECH 44><ACT 3><SCENE 4><60%>
+	Not black in my mind, though yellow in my legs. It did come to his hands, and commands shall be executed: I think we do know the sweet Roman hand.
+<SPEECH 45><ACT 3><SCENE 4><60%>
+	To bed! ay, sweetheart; and I'll come to thee.
+<SPEECH 46><ACT 3><SCENE 4><60%>
+	At your request! Yes; nightingales answer daws.
+<SPEECH 47><ACT 3><SCENE 4><60%>
+	'Be not afraid of greatness:' 'Twas well writ.
+<SPEECH 48><ACT 3><SCENE 4><60%>
+	'Some are born great,'—
+<SPEECH 49><ACT 3><SCENE 4><60%>
+	'Some achieve greatness,'—
+<SPEECH 50><ACT 3><SCENE 4><61%>
+	'And some have greatness thrust upon them.'
+<SPEECH 51><ACT 3><SCENE 4><61%>
+	'Remember who commended thy yellow stockings,'—
+<SPEECH 52><ACT 3><SCENE 4><61%>
+	'And wished to see thee cross-gartered.'
+<SPEECH 53><ACT 3><SCENE 4><61%>
+	'Go to, thou art made, if thou desirest to be so,'—
+<SPEECH 54><ACT 3><SCENE 4><61%>
+	'If not, let me see thee a servant still.'
+<SPEECH 55><ACT 3><SCENE 4><61%>
+	Oh, ho! do you come near me now? no worse man than Sir Toby to look to me! This concurs directly with the letter: she sends him on purpose, that I may appear stubborn to him; for she incites me to that in the letter. 'Cast thy humble slough,' says she; 'be opposite with a kinsman, surly with servants; let thy tongue tang with arguments of state; put thyself into the trick of singularity;' and consequently sets down the manner how; as, a sad face, a reverend carriage, a slow tongue, in the habit of some sir of note, and so forth. I have limed her; but it is Jove's doing, and Jove make me thankful! And when she went away now, 'Let this fellow be looked to;' fellow! not Malvolio, nor after my degree, but fellow. Why, everything adheres together, that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance—What can be said? Nothing that can be can come between me and the full prospect of my hopes. Well, Jove, not I, is the doer of this, and he is to be thanked.
+<SPEECH 56><ACT 3><SCENE 4><62%>
+	Go off; I discard you: let me enjoy my private; go off.
+<SPEECH 57><ACT 3><SCENE 4><63%>
+	Ah, ha! does she so?
+<SPEECH 58><ACT 3><SCENE 4><63%>
+	Do you know what you say?
+<SPEECH 59><ACT 3><SCENE 4><63%>
+	How now, mistress!
+<SPEECH 60><ACT 3><SCENE 4><63%>
+	Sir!
+<SPEECH 61><ACT 3><SCENE 4><63%>
+	My prayers, minx!
+<SPEECH 62><ACT 3><SCENE 4><64%>
+	Go, hang yourselves all! you are idle shallow things: I am not of your element. You shall know more hereafter.
+<SPEECH 63><ACT 4><SCENE 2><79%>
+	</STAGE DIR> Who calls there?
+<SPEECH 64><ACT 4><SCENE 2><79%>
+	Sir Topas, Sir Topas, good Sir Topas, go to my lady.
+<SPEECH 65><ACT 4><SCENE 2><79%>
+	</STAGE DIR> Sir Topas, never was man thus wronged. Good Sir Topas, do not think I am mad: they have laid me here in hideous darkness.
+<SPEECH 66><ACT 4><SCENE 2><79%>
+	As hell, Sir Topas.
+<SPEECH 67><ACT 4><SCENE 2><79%>
+	I am not mad, Sir Topas. I say to you, this house is dark.
+<SPEECH 68><ACT 4><SCENE 2><80%>
+	I say this house is as dark as ignorance, though ignorance were as dark as hell; and I say, there was never man thus abused. I am no more mad than you are: make the trial of it in any constant question.
+<SPEECH 69><ACT 4><SCENE 2><80%>
+	That the soul of our grandam might haply inhabit a bird.
+<SPEECH 70><ACT 4><SCENE 2><80%>
+	I think nobly of the soul, and no way approve his opinion.
+<SPEECH 71><ACT 4><SCENE 2><80%>
+	Sir Topas! Sir Topas!
+<SPEECH 72><ACT 4><SCENE 2><81%>
+	Fool!
+<SPEECH 73><ACT 4><SCENE 2><81%>
+	Fool!
+<SPEECH 74><ACT 4><SCENE 2><81%>
+	Fool, I say!
+<SPEECH 75><ACT 4><SCENE 2><81%>
+	Good fool, as ever thou wilt deserve well at my hand, help me to a candle, and pen, ink, and paper. As I am a gentleman, I will live to be thankful to thee for't.
+<SPEECH 76><ACT 4><SCENE 2><81%>
+	Ay, good fool.
+<SPEECH 77><ACT 4><SCENE 2><81%>
+	Fool, there was never man so notoriously abused: I am as well in my wits, fool, as thou art.
+<SPEECH 78><ACT 4><SCENE 2><81%>
+	They have here propertied me; keep me in darkness, send ministers to me, asses! and do all they can to face me out of my wits.
+<SPEECH 79><ACT 4><SCENE 2><81%>
+	Sir Topas!
+<SPEECH 80><ACT 4><SCENE 2><82%>
+	Fool, fool, fool, I say!
+<SPEECH 81><ACT 4><SCENE 2><82%>
+	Good fool, help me to some light and some paper: I tell thee I am as well in my wits as any man in Illyria.
+<SPEECH 82><ACT 4><SCENE 2><82%>
+	By this hand, I am. Good fool, some ink, paper, and light; and convey what I will set down to my lady: it shall advantage thee more than ever the bearing of letter did.
+<SPEECH 83><ACT 4><SCENE 2><82%>
+	Believe me, I am not: I tell thee true.
+<SPEECH 84><ACT 4><SCENE 2><82%>
+	Fool, I'll requite it in the highest degree: I prithee, be gone.
+<SPEECH 85><ACT 5><SCENE 1><97%>
+	Madam, you have done me wrong,
+	Notorious wrong.
+<SPEECH 86><ACT 5><SCENE 1><97%>
+	Lady, you have. Pray you peruse that letter.
+	You must not now deny it is your hand:
+	Write from it, if you can, in hand or phrase,
+	Or say 'tis not your seal nor your invention:
+	You can say none of this. Well, grant it then,
+	And tell me, in the modesty of honour,
+	Why you have given me such clear lights of favour,
+	Bade me come smiling and cross-garter'd to you,
+	To put on yellow stockings, and to frown
+	Upon Sir Toby and the lighter people;
+	And, acting this in an obedient hope,
+	Why have you suffer'd me to be imprison'd,
+	Kept in a dark house, visited by the priest,
+	And made the most notorious geck and gull
+	That e'er invention play'd on? tell me why.
+<SPEECH 87><ACT 5><SCENE 1><99%>
+	I'll be reveng'd on the whole pack of you.

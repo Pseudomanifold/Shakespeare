@@ -1,0 +1,47 @@
+<SPEECH 1><ACT 3><SCENE 3><49%>
+	Dispatch; the limit of your lives is out.
+<SPEECH 2><ACT 3><SCENE 3><50%>
+	Make haste; the hour of death is expiate.
+<SPEECH 3><ACT 3><SCENE 4><53%>
+	Come, come, dispatch; the duke would be at dinner:
+	Make a short shrift, he longs to see your head.
+<SPEECH 4><ACT 4><SCENE 4><83%>
+	Most mighty sovereign, on the western coast
+	Rideth a puissant navy; to the shores
+	Throng many doubtful hollow-hearted friends,
+	Unarm'd, and unresolv'd to beat them back.
+	'Tis thought that Richmond is their admiral;
+	And there they hull, expecting but the aid
+	Of Buckingham to welcome them ashore.
+<SPEECH 5><ACT 4><SCENE 4><83%>
+	What, may it please you, shall I do at Salisbury?
+<SPEECH 6><ACT 4><SCENE 4><83%>
+	Your highness told me I should post before.
+<SPEECH 7><ACT 5><SCENE 3><90%>
+	My lord?
+<SPEECH 8><ACT 5><SCENE 3><90%>
+	My lord!
+<SPEECH 9><ACT 5><SCENE 3><90%>
+	Thomas the Earl of Surrey, and himself,
+	Much about cock-shut time, from troop to troop
+	Went through the army, cheering up the soldiers.
+<SPEECH 10><ACT 5><SCENE 3><90%>
+	It is, my lord.
+<SPEECH 11><ACT 5><SCENE 3><94%>
+	My lord!
+<SPEECH 12><ACT 5><SCENE 3><94%>
+	Ratcliff, my lord; 'tis I. The early village cock
+	Hath twice done salutation to the morn;
+	Your friends are up, and buckle on their armour.
+<SPEECH 13><ACT 5><SCENE 3><95%>
+	No doubt, my lord.
+<SPEECH 14><ACT 5><SCENE 3><95%>
+	Nay, good my lord, be not afraid of shadows.
+<SPEECH 15><ACT 5><SCENE 3><96%>
+	That he was never trained up in arms.
+<SPEECH 16><ACT 5><SCENE 3><96%>
+	He smil'd, and said, 'The better for our purpose.'
+<SPEECH 17><ACT 5><SCENE 3><96%>
+	Not I, my lord.
+<SPEECH 18><ACT 5><SCENE 3><96%>
+	My lord?

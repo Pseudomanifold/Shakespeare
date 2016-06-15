@@ -1,0 +1,10 @@
+<SPEECH 1><ACT 3><SCENE 2><50%>
+	Here, an't please you.
+<SPEECH 2><ACT 3><SCENE 2><50%>
+	Yea, an't please you.
+<SPEECH 3><ACT 3><SCENE 2><50%>
+	I was pricked well enough before, an you could have let me alone: my old dame will be undone now for one to do her husbandry and her drudgery: you need not to have pricked me; there are other men fitter to go out than I.
+<SPEECH 4><ACT 3><SCENE 2><51%>
+	Spent!
+<SPEECH 5><ACT 3><SCENE 2><54%>
+	And, good Master corporal captain, for my old dame's sake, stand my friend: she has nobody to do any thing about her, when I am gone; and she is old, and cannot help herself. You shall have forty, sir.

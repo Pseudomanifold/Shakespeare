@@ -1,0 +1,69 @@
+<SPEECH 1><ACT 3><SCENE 5><47%>
+	There's strange news come, sir.
+<SPEECH 2><ACT 3><SCENE 5><47%>
+	Cæsar and Lepidus have made wars upon Pompey.
+<SPEECH 3><ACT 3><SCENE 5><47%>
+	Cæsar, having made use of him in the wars 'gainst Pompey, presently denied him rivality, would not let him partake in the glory of the action; and not resting here, accuses him of letters he had formerly wrote to Pompey; upon his own appeal, seizes him: so the poor third is up, till death enlarge his confine.
+<SPEECH 4><ACT 3><SCENE 5><47%>
+	He's walking in the garden—thus: and spurns
+	The rush that lies before him; cries, 'Fool, Lepidus!'
+	And threats the throat of that his officer
+	That murder'd Pompey.
+<SPEECH 5><ACT 3><SCENE 5><47%>
+	For Italy and Cæsar. More, Domitius;
+	My lord desires you presently: my news
+	I might have told hereafter.
+<SPEECH 6><ACT 3><SCENE 5><47%>
+	Come, sir.
+<SPEECH 7><ACT 3><SCENE 1><56%>
+	Nay, gentle madam, to him, comfort him.
+<SPEECH 8><ACT 3><SCENE 1><56%>
+	See you here, sir?
+<SPEECH 9><ACT 3><SCENE 1><56%>
+	Sir, sir!
+<SPEECH 10><ACT 3><SCENE 1><56%>
+	The queen, my lord, the queen.
+<SPEECH 11><ACT 3><SCENE 1><56%>
+	Most noble sir, arise; the queen approaches:
+	Her head's declin'd, and death will seize her, but
+	Your comfort makes the rescue.
+<SPEECH 12><ACT 3><SCENE 1><56%>
+	Sir, the queen.
+<SPEECH 13><ACT 4><SCENE 4><69%>
+	Briefly, sir.
+<SPEECH 14><ACT 4><SCENE 5><70%>
+	Sir, his chests and treasure
+	He has not with him.
+<SPEECH 15><ACT 4><SCENE 7><72%>
+	They are beaten, sir; and our advantage serves
+	For a fair victory.
+<SPEECH 16><ACT 4><SCENE XII.— ><78%>
+	Ay, noble lord.
+<SPEECH 17><ACT 4><SCENE XII.— ><78%>
+	Ay, my lord.
+<SPEECH 18><ACT 4><SCENE XII.— ><78%>
+	It does, my lord.
+<SPEECH 19><ACT 4><SCENE XII.— ><79%>
+	What would my lord?
+<SPEECH 20><ACT 4><SCENE XII.— ><80%>
+	The gods withhold me!
+	Shall I do that which all the Parthian darts,
+	Though enemy, lost aim and could not?
+<SPEECH 21><ACT 4><SCENE XII.— ><80%>
+	I would not see't.
+<SPEECH 22><ACT 4><SCENE XII.— ><80%>
+	O, sir! pardon me.
+<SPEECH 23><ACT 4><SCENE XII.— ><80%>
+	Turn from me then that noble countenance,
+	Wherein the worship of the whole world lies.
+<SPEECH 24><ACT 4><SCENE XII.— ><80%>
+	My sword is drawn.
+<SPEECH 25><ACT 4><SCENE XII.— ><80%>
+	My dear master,
+	My captain, and my emperor, let me say,
+	Before I strike this bloody stroke, farewell.
+<SPEECH 26><ACT 4><SCENE XII.— ><81%>
+	Farewell, great chief. Shall I strike now?
+<SPEECH 27><ACT 4><SCENE XII.— ><81%>
+	Why, there then; thus do I escape the sorrow
+	Of Antony's death.

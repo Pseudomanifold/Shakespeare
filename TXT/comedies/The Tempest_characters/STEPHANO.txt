@@ -1,0 +1,139 @@
+<SPEECH 1><ACT 2><SCENE 2><46%>
+	I shall no more to sea, to sea,
+	Here shall I die a-shore:—
+	This is a very scurvy tune to sing at a man's funeral:
+	Well, here's my comfort.
+	The master, the swabber, the boatswain and I,
+	The gunner and his mate,
+	Lov'd Mall, Meg, and Marian and Margery,
+	But none of us car'd for Kate;
+	For she had a tongue with a tang,
+	Would cry to a sailor, 'Go hang!'
+	She lov'd not the savour of tar nor of pitch,
+	Yet a tailor might scratch her where-e'er she did itch:
+	Then to sea, boys, and let her go hang.
+	This is a scurvy tune too: but here's my comfort.
+<SPEECH 2><ACT 2><SCENE 2><46%>
+	What's the matter? Have we devils here? Do you put tricks upon us with savages and men of Ind? Ha! I have not 'scaped drowning, to be afeard now of your four legs; for it hath been said, As proper a man as ever went on four legs cannot make him give ground: and it shall be said so again while Stephano breathes at's nostrils.
+<SPEECH 3><ACT 2><SCENE 2><47%>
+	This is some monster of the isle with four legs, who hath got, as I take it, an ague. Where the devil should he learn our language? I will give him some relief, if it be but for that: if I can recover him and keep him tame and get to Naples with him, he's a present for any emperor that ever trod on neat's-leather.
+<SPEECH 4><ACT 2><SCENE 2><47%>
+	He's in his fit now and does not talk after the wisest. He shall taste of my bottle: if he have never drunk wine afore it will go near to remove his fit. If I can recover him, and keep him tame, I will not take too much for him: he shall pay for him that hath him, and that soundly.
+<SPEECH 5><ACT 2><SCENE 2><47%>
+	Come on your ways: open your mouth; here is that which will give language to you, cat. Open your mouth: this will shake your shaking, I can tell you, and that soundly <STAGE DIR>
+	</STAGE DIR>: you cannot tell who's your friend; open your chaps again.
+<SPEECH 6><ACT 2><SCENE 2><48%>
+	Four legs and two voices; a most delicate monster! His forward voice now is to speak well of his friend; his backward voice is to utter foul speeches, and to detract. If all the wine in my bottle will recover him, I will help his ague. Come. Amen! I will pour some in thy other mouth.
+<SPEECH 7><ACT 2><SCENE 2><48%>
+	Doth thy other mouth call me? Mercy! mercy! This is a devil, and no monster: I will leave him; I have no long spoon.
+<SPEECH 8><ACT 2><SCENE 2><48%>
+	If thou beest Trinculo, come forth. I'll pull thee by the lesser legs: if any be Trinculo's legs, these are they. Thou art very Trinculo indeed! How cam'st thou to be the siege of this moon-calf? Can he vent Trinculos?
+<SPEECH 9><ACT 2><SCENE 2><49%>
+	Prithee, do not turn me about: my stomach is not constant.
+<SPEECH 10><ACT 2><SCENE 2><49%>
+	How didst thou 'scape? How cam'st thou hither? swear by this bottle, how thou cam'st hither. I escaped upon a butt of sack, which the sailors heaved overboard, by this bottle! which I made of the bark of a tree with mine own hands, since I was cast ashore.
+<SPEECH 11><ACT 2><SCENE 2><49%>
+	Here: swear then, how thou escapedst.
+<SPEECH 12><ACT 2><SCENE 2><50%>
+	Here, kiss the book <STAGE DIR>
+	</STAGE DIR>. Though thou canst swim like a duck, thou art made like a goose.
+<SPEECH 13><ACT 2><SCENE 2><50%>
+	The whole butt, man: my cellar is in a rock by the seaside, where my wine is hid. How now, moon-calf! how does thine ague?
+<SPEECH 14><ACT 2><SCENE 2><50%>
+	Out o the moon, I do assure thee: I was the man in the moon, when time was.
+<SPEECH 15><ACT 2><SCENE 2><50%>
+	Come, swear to that; kiss the book; I will furnish it anon with new contents; swear.
+<SPEECH 16><ACT 2><SCENE 2><51%>
+	Come on then; down, and swear.
+<SPEECH 17><ACT 2><SCENE 2><51%>
+	Come, kiss.
+<SPEECH 18><ACT 2><SCENE 2><52%>
+	I prithee now, lead the way, without any more talking.—Trinculo, the king and all our company else being drowned, we will inherit here.—Here; bear my bottle.—Fellow Trinculo, we'll fill him by and by again.
+<SPEECH 19><ACT 2><SCENE 2><52%>
+	O brave monster! lead the way.
+<SPEECH 20><ACT 3><SCENE 2><57%>
+	Tell not me:—when the butt is out, we will drink water; not a drop before: therefore bear up, and board 'em.—Servant-monster, drink to me.
+<SPEECH 21><ACT 3><SCENE 2><57%>
+	Drink, servant-monster, when I bid thee: thy eyes are almost set in thy head.
+<SPEECH 22><ACT 3><SCENE 2><58%>
+	My man-monster hath drowned his tongue in sack: for my part, the sea cannot drown me; I swam, ere I could recover the shore, five-and-thirty leagues, off and on, by this light. Thou shalt be my lieutenant, monster, or my standard.
+<SPEECH 23><ACT 3><SCENE 2><58%>
+	We'll not run, Monsieur monster.
+<SPEECH 24><ACT 3><SCENE 2><58%>
+	Moon-calf, speak once in thy life, if thou beest a good moon-calf.
+<SPEECH 25><ACT 3><SCENE 2><59%>
+	Trinculo, keep a good tongue in your head: if you prove a mutineer, the next tree! The poor monster's my subject, and he shall not suffer indignity.
+<SPEECH 26><ACT 3><SCENE 2><59%>
+	Marry, will I; kneel, and repeat it: I will stand, and so shall Trinculo.
+<SPEECH 27><ACT 3><SCENE 2><59%>
+	Trinculo, if you trouble him any more in his tale, by this hand, I will supplant some of your teeth.
+<SPEECH 28><ACT 3><SCENE 2><59%>
+	Mum then and no more.—<STAGE DIR>
+	</STAGE DIR> Proceed.
+<SPEECH 29><ACT 3><SCENE 2><60%>
+	That's most certain.
+<SPEECH 30><ACT 3><SCENE 2><60%>
+	How now shall this be compassed? Canst thou bring me to the party?
+<SPEECH 31><ACT 3><SCENE 2><60%>
+	Trinculo, run into no further danger: interrupt the monster one word further, and, by this hand, I'll turn my mercy out o' doors and make a stock-fish of thee.
+<SPEECH 32><ACT 3><SCENE 2><60%>
+	Didst thou not say he hed?
+<SPEECH 33><ACT 3><SCENE 2><60%>
+	Do I so? take thou that. <STAGE DIR>
+	As you like this, give me the lie another time.
+<SPEECH 34><ACT 3><SCENE 2><61%>
+	Now, forward with your tale.—Prithee stand further off.
+<SPEECH 35><ACT 3><SCENE 2><61%>
+	Stand further.—Come, proceed.
+<SPEECH 36><ACT 3><SCENE 2><62%>
+	Is it so brave a lass?
+<SPEECH 37><ACT 3><SCENE 2><62%>
+	Monster, I will kill this man: his daughter and I will be king and queen,—save our graces! and Trinculo and thyself shall be viceroys. Dost thou like the plot, Trinculo?
+<SPEECH 38><ACT 3><SCENE 2><62%>
+	Give me thy hand: I am sorry I beat thee; but, while thou livest, keep a good tongue in thy head.
+<SPEECH 39><ACT 3><SCENE 2><62%>
+	Ay, on mine honour.
+<SPEECH 40><ACT 3><SCENE 2><62%>
+	At thy request, monster, I will do reason, any reason: Come on, Trinculo, let us sing.
+	Flout 'em, and scout 'em; and scout 'em, and flout 'em;
+	Thought is free.
+<SPEECH 41><ACT 3><SCENE 2><63%>
+	What is this same?
+<SPEECH 42><ACT 3><SCENE 2><63%>
+	If thou beest a man, show thyself in thy likeness: if thou beest a devil, take't as thou list.
+<SPEECH 43><ACT 3><SCENE 2><63%>
+	He that dies pays all debts: I defy thee.—Mercy upon us!
+<SPEECH 44><ACT 3><SCENE 2><63%>
+	No, monster, not I.
+<SPEECH 45><ACT 3><SCENE 2><63%>
+	This will prove a brave kingdom to me, where I shall have my music for nothing.
+<SPEECH 46><ACT 3><SCENE 2><64%>
+	That shall be by and by: I remember the story.
+<SPEECH 47><ACT 3><SCENE 2><64%>
+	Lead, monster; we'll follow.—I would I could see this taborer! he lays it on. Wilt come?
+<SPEECH 48><ACT 4><SCENE 1><80%>
+	Monster, your fairy, which you say is a harmless fairy, has done little better than played the Jack with us.
+<SPEECH 49><ACT 4><SCENE 1><80%>
+	So is mine.—Do you hear, monster? If I should take a displeasure against you, look you,—
+<SPEECH 50><ACT 4><SCENE 1><81%>
+	There is not only disgrace and dishonour in that, monster, but an infinite loss.
+<SPEECH 51><ACT 4><SCENE 1><81%>
+	I will fetch off my bottle, though I be o'er ears for my labour.
+<SPEECH 52><ACT 4><SCENE 1><81%>
+	Give me thy hand: I do begin to have bloody thoughts.
+<SPEECH 53><ACT 4><SCENE 1><81%>
+	Put off that gown, Trinculo; by this hand, I'll have that gown.
+<SPEECH 54><ACT 4><SCENE 1><82%>
+	Be you quiet, monster.—Mistress line, is not this my jerkin? Now is the jerkin under the line: now, jerkin, you are like to lose your hair and prove a bald jerkin.
+<SPEECH 55><ACT 4><SCENE 1><82%>
+	I thank thee for that jest; here's a garment for't: wit shall not go unrewarded while I am king of this country: 'Steal by line and level,' is an excellent pass of pate; there's another garment for't.
+<SPEECH 56><ACT 4><SCENE 1><82%>
+	Monster, lay-to your fingers: help to bear this away where my hogshead of wine is, or I'll turn you out of my kingdom. Go to; carry this.
+<SPEECH 57><ACT 4><SCENE 1><82%>
+	Ay, and this.
+<SPEECH 58><ACT 5><SCENE 1><96%>
+	Every man shift for all the rest, and let no man take care for himself, for all is but fortune.—Coragio! bully-monster, Coragio!
+<SPEECH 59><ACT 5><SCENE 1><98%>
+	O! touch me not: I am not Stephano, but a cramp.
+<SPEECH 60><ACT 5><SCENE 1><98%>
+	I should have been a sore one then.

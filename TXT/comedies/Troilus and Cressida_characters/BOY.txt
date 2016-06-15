@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 1><SCENE 2><12%>
+	Sir, my lord would instantly speak with you.
+<SPEECH 2><ACT 1><SCENE 2><12%>
+	At your own house; there he unarms him.
+<SPEECH 3><ACT 3><SCENE 2><45%>
+	No, sir; he stays for you to conduct him thither.

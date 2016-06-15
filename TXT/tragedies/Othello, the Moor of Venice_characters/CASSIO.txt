@@ -1,0 +1,337 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	The duke does greet you, general,
+	And he requires your haste-post-haste appearance,
+	Even on the instant.
+<SPEECH 2><ACT 1><SCENE 2><7%>
+	Something from Cyprus, as I may divine.
+	It is a business of some heat; the galleys
+	Have sent a dozen sequent messengers
+	This very night at one another's heels,
+	And many of the consuls, rais'd and met,
+	Are at the duke's already. You have been hotly call'd for;
+	When, being not at your lodging to be found,
+	The senate hath sent about three several quests
+	To search you out.
+<SPEECH 3><ACT 1><SCENE 2><7%>
+	Ancient, what makes he here?
+<SPEECH 4><ACT 1><SCENE 2><7%>
+	I do not understand.
+<SPEECH 5><ACT 1><SCENE 2><7%>
+	To who?
+<SPEECH 6><ACT 1><SCENE 2><7%>
+	Here comes another troop to seek for you.
+<SPEECH 7><ACT 2><SCENE 1><22%>
+	Thanks, you the valiant of this war-like isle,
+	That so approve the Moor. O! let the heavens
+	Give him defence against the elements,
+	For I have lost him on a dangerous sea.
+<SPEECH 8><ACT 2><SCENE 1><22%>
+	His bark is stoutly timber'd, and his pilot
+	Of very expert and approv'd allowance;
+	Therefore my hopes, not surfeited to death,
+	Stand in bold cure.
+<SPEECH 9><ACT 2><SCENE 1><22%>
+	What noise?
+<SPEECH 10><ACT 2><SCENE 1><23%>
+	My hopes do shape him for the governor.
+<SPEECH 11><ACT 2><SCENE 1><23%>
+	I pray you, sir, go forth,
+	And give us truth who 'tis that is arriv'd.
+<SPEECH 12><ACT 2><SCENE 1><23%>
+	Most fortunately: he hath achiev'd a maid
+	That paragons description and wild fame;
+	One that excels the quirks of blazoning pens,
+	And in th' essential vesture of creation
+	Does tire the ingener.
+	How now! who has put in?
+<SPEECH 13><ACT 2><SCENE 1><23%>
+	He has had most favourable and happy speed:
+	Tempests themselves, high seas, and howling winds,
+	The gutter'd rocks, and congregated sands,
+	Traitors ensteep'd to clog the guiltless keel,
+	As having sense of beauty, do omit
+	Their mortal natures, letting go safely by
+	The divine Desdemona.
+<SPEECH 14><ACT 2><SCENE 1><23%>
+	She that I spake of, our great captain's captain,
+	Left in the conduct of the bold Iago,
+	Whose footing here anticipates our thoughts
+	A se'nnight's speed. Great Jove, Othello guard,
+	And swell his sail with thine own powerful breath,
+	That he may bless this bay with his tall ship,
+	Make love's quick pants in Desdemona's arms,
+	Give renew'd fire to our extinc'ed spirits,
+	And bring all Cyprus comfort!
+	O! behold,
+	The riches of the ship is come on shore.
+	Ye men of Cyprus, let her have your knees.
+	Hail to thee, lady! and the grace of heaven,
+	Before, behind thee, and on every hand,
+	Enwheel thee round!
+<SPEECH 15><ACT 2><SCENE 1><24%>
+	He is not yet arriv'd; nor know I aught
+	But that he's well, and will be shortly here.
+<SPEECH 16><ACT 2><SCENE 1><24%>
+	The great contention of the sea and skies
+	Parted our fellowship. But hark! a sail.
+<SPEECH 17><ACT 2><SCENE 1><24%>
+	See for the news!
+	Good ancient, you are welcome:—<STAGE DIR>
+	</STAGE DIR> welcome, mistress.
+	Let it not gall your patience, good Iago,
+	That I extend my manners; 'tis my breeding
+	That gives me this bold show of courtesy.
+<SPEECH 18><ACT 2><SCENE 1><26%>
+	He speaks home, madam; you may relish him more in the soldier than in the scholar.
+<SPEECH 19><ACT 2><SCENE 1><26%>
+	'Tis truly so.
+<SPEECH 20><ACT 2><SCENE 1><26%>
+	Lo! where he comes.
+<SPEECH 21><ACT 2><SCENE 3><31%>
+	Iago hath direction what to do;
+	But, notwithstanding, with my personal eye
+	Will I look to 't.
+<SPEECH 22><ACT 2><SCENE 3><31%>
+	Welcome, Iago; we must to the watch.
+<SPEECH 23><ACT 2><SCENE 3><32%>
+	She's a most exquisite lady.
+<SPEECH 24><ACT 2><SCENE 3><32%>
+	Indeed, she is a most fresh and delicate creature.
+<SPEECH 25><ACT 2><SCENE 3><32%>
+	An inviting eye; and yet methinks right modest.
+<SPEECH 26><ACT 2><SCENE 3><32%>
+	She is indeed perfection.
+<SPEECH 27><ACT 2><SCENE 3><32%>
+	Not to-night, good Iago: I have very poor and unhappy brains for drinking: I could well wish courtesy would invent some other custom of entertainment.
+<SPEECH 28><ACT 2><SCENE 3><32%>
+	I have drunk but one cup to-night, and that was craftily qualified too, and, behold, what innovation it makes here: I am unfortunate in the infirmity, and dare not task my weakness with any more.
+<SPEECH 29><ACT 2><SCENE 3><32%>
+	Where are they?
+<SPEECH 30><ACT 2><SCENE 3><32%>
+	I'll do 't; but it dislikes me.
+<SPEECH 31><ACT 2><SCENE 3><33%>
+	'Fore God, they have given me a rouse already.
+<SPEECH 32><ACT 2><SCENE 3><33%>
+	'Fore God, an excellent song.
+<SPEECH 33><ACT 2><SCENE 3><33%>
+	Is your Englishman so expert in his drinking?
+<SPEECH 34><ACT 2><SCENE 3><33%>
+	To the health of our general!
+<SPEECH 35><ACT 2><SCENE 3><34%>
+	Why, this is a more exquisite song than the other.
+<SPEECH 36><ACT 2><SCENE 3><34%>
+	No; for I hold him to be unworthy of his place that does those things. Well, God's above all; and there be souls must be saved, and there be souls must not be saved.
+<SPEECH 37><ACT 2><SCENE 3><34%>
+	For mine own part,—no offence to the general, nor any man of quality,—I hope to be saved.
+<SPEECH 38><ACT 2><SCENE 3><34%>
+	Ay; but, by your leave, not before me; the lieutenant is to be saved before the ancient. Let's have no more of this; let's to our affairs. God forgive us our sins! Gentlemen, let's look to our business. Do not think, gentlemen, I am drunk: this is my ancient; this is my right hand, and this is my left hand. I am not drunk now; I can stand well enough, and speak well enough.
+<SPEECH 39><ACT 2><SCENE 3><34%>
+	Why, very well, then; you must not think then that I am drunk.
+<SPEECH 40><ACT 2><SCENE 3><35%>
+	You rogue! you rascal!
+<SPEECH 41><ACT 2><SCENE 3><35%>
+	A knave teach me my duty!
+	I'll beat the knave into a twiggen bottle.
+<SPEECH 42><ACT 2><SCENE 3><35%>
+	Dost thou prate, rogue?
+<SPEECH 43><ACT 2><SCENE 3><35%>
+	Let me go, sir,
+	Or I'll knock you o'er the mazzard.
+<SPEECH 44><ACT 2><SCENE 3><35%>
+	Drunk!
+<SPEECH 45><ACT 2><SCENE 3><36%>
+	I pray you, pardon me; I cannot speak.
+<SPEECH 46><ACT 2><SCENE 3><39%>
+	Ay; past all surgery.
+<SPEECH 47><ACT 2><SCENE 3><39%>
+	Reputation, reputation, reputation! O! I have lost my reputation. I have lost the immortal part of myself, and what remains is bestial. My reputation, Iago, my reputation!
+<SPEECH 48><ACT 2><SCENE 3><39%>
+	I will rather sue to be despised than to deceive so good a commander with so slight, so drunken, and so indiscreet an officer. Drunk! and speak parrot! and squabble, swagger, swear, and discourse fustian with one's own shadow! O thou invisible spirit of wine! if thou hast no name to be known by, let us call thee devil!
+<SPEECH 49><ACT 2><SCENE 3><39%>
+	I know not.
+<SPEECH 50><ACT 2><SCENE 3><39%>
+	I remember a mass of things, but nothing distinctly; a quarrel, but nothing wherefore. O God! that men should put an enemy in their mouths to steal away their brains; that we should, with joy, pleasance, revel, and applause, transform ourselves into beasts.
+<SPEECH 51><ACT 2><SCENE 3><40%>
+	It hath pleased the devil drunkenness to give place to the devil wrath; one unperfectness shows me another, to make me frankly despise myself.
+<SPEECH 52><ACT 2><SCENE 3><40%>
+	I will ask him for my place again; he shall tell me I am a drunkard! Had I as many mouths as Hydra, such an answer would stop them all. To be now a sensible man, by and by a fool, and presently a beast! O strange! Every inordinate cup is unblessed and the ingredient is a devil.
+<SPEECH 53><ACT 2><SCENE 3><40%>
+	I have well approved it, sir. I drunk!
+<SPEECH 54><ACT 2><SCENE 3><40%>
+	You advise me well.
+<SPEECH 55><ACT 2><SCENE 3><41%>
+	I think it freely; and betimes in the morning I will beseech the virtuous Desdemona to undertake for me. I am desperate of my fortunes if they check me here.
+<SPEECH 56><ACT 2><SCENE 3><41%>
+	Good night, honest Iago!
+<SPEECH 57><ACT 3><SCENE 1><42%>
+	Masters, play here, I will content your pains;
+	Something that's brief; and bid 'Good morrow, general.'
+<SPEECH 58><ACT 3><SCENE 1><43%>
+	Dost thou hear, mine honest friend?
+<SPEECH 59><ACT 3><SCENE 1><43%>
+	Prithee, keep up thy quillets. There's a poor piece of gold for thee. If the gentlewoman that attends the general's wife be stirring, tell her there's one Cassio entreats her a little favour of speech: wilt thou do this?
+<SPEECH 60><ACT 3><SCENE 1><43%>
+	Do, good my friend.
+	In happy time, Iago.
+<SPEECH 61><ACT 3><SCENE 1><43%>
+	Why, no; the day had broke
+	Before we parted. I have made bold, Iago,
+	To send in to your wife; my suit to her
+	Is, that she will to virtuous Desdemona
+	Procure me some access.
+<SPEECH 62><ACT 3><SCENE 1><44%>
+	I humbly thank you for 't.
+	I never knew
+	A Florentine more kind and honest.
+<SPEECH 63><ACT 3><SCENE 1><44%>
+	Yet, I beseech you,
+	If you think fit, or that it may be done,
+	Give me advantage of some brief discourse
+	With Desdemona alone.
+<SPEECH 64><ACT 3><SCENE 1><44%>
+	I am much bound to you.
+<SPEECH 65><ACT 3><SCENE 3><45%>
+	Bounteous madam,
+	Whatever shall become of Michael Cassio,
+	He's never anything but your true servant.
+<SPEECH 66><ACT 3><SCENE 3><45%>
+	Ay, but, lady,
+	That policy may either last so long,
+	Or feed upon such nice and waterish diet,
+	Or breed itself so out of circumstance,
+	That, I being absent and my place supplied,
+	My general will forget my love and service.
+<SPEECH 67><ACT 3><SCENE 3><45%>
+	Madam, I'll take my leave.
+<SPEECH 68><ACT 3><SCENE 3><45%>
+	Madam, not now; I am very ill at ease,
+	Unfit for mine own purposes.
+<SPEECH 69><ACT 3><SCENE 4><62%>
+	Madam, my former suit: I do beseech you
+	That by your virtuous means I may again
+	Exist, and be a member of his love
+	Whom I with all the office of my heart
+	Entirely honour; I would not be delay'd.
+	If my offence be of such mortal kind
+	That nor my service past, nor present sorrows,
+	Nor purpos'd merit in futurity,
+	Can ransom me into his love again,
+	But to know so must be my benefit;
+	So shall I clothe me in a forc'd content,
+	And shut myself up in some other course
+	To fortune's alms.
+<SPEECH 70><ACT 3><SCENE 4><64%>
+	I humbly thank your ladyship.
+<SPEECH 71><ACT 3><SCENE 4><64%>
+	What make you from home?
+	How is it with you, my most fair Bianca?
+	I' faith, sweet love, I was coming to your house.
+<SPEECH 72><ACT 3><SCENE 4><64%>
+	Pardon me, Bianca,
+	I have this while with leaden thoughts been press'd,
+	But I shall, in a more continuate time,
+	Strike off this score of absence. Sweet Bianca.
+	Take me this work out.
+<SPEECH 73><ACT 3><SCENE 4><64%>
+	Go to, woman!
+	Throw your vile guesses in the devil's teeth,
+	From whence you have them. You are jealous now
+	That this is from some mistress, some remembrance:
+	No, in good troth, Bianca.
+<SPEECH 74><ACT 3><SCENE 4><64%>
+	I know not, sweet; I found it in my chamber.
+	I like the work well; ere it be demanded,—
+	As like enough it will,—I'd have it copied;
+	Take it and do 't; and leave me for this time.
+<SPEECH 75><ACT 3><SCENE 4><64%>
+	I do attend here on the general,
+	And think it no addition nor my wish
+	To have him see me woman'd.
+<SPEECH 76><ACT 3><SCENE 4><64%>
+	Not that I love you not.
+<SPEECH 77><ACT 3><SCENE 4><65%>
+	'Tis but a little way that I can bring you,
+	For I attend here; but I'll see you soon.
+<SPEECH 78><ACT 4><SCENE 1><66%>
+	What's the matter?
+<SPEECH 79><ACT 4><SCENE 1><66%>
+	Rub him about the temples.
+<SPEECH 80><ACT 4><SCENE 1><68%>
+	The worser that you give me the addition
+	Whose want even kills me.
+<SPEECH 81><ACT 4><SCENE 1><68%>
+	Alas! poor caitiff!
+<SPEECH 82><ACT 4><SCENE 1><68%>
+	Alas! poor rogue, I think, i' faith, she loves me.
+<SPEECH 83><ACT 4><SCENE 1><68%>
+	Ha, ha, ha!
+<SPEECH 84><ACT 4><SCENE 1><68%>
+	I marry her! what? a customer? I prithee, bear some charity to my wit; do not think it so unwholesome. Ha, ha, ha!
+<SPEECH 85><ACT 4><SCENE 1><68%>
+	Prithee, say true.
+<SPEECH 86><ACT 4><SCENE 1><69%>
+	This is the monkey's own giving out: she is persuaded I will marry her, out of her own love and flattery, not out of my promise.
+<SPEECH 87><ACT 4><SCENE 1><69%>
+	She was here even now; she haunts me in every place. I was the other day talking on the sea bank with certain Venetians, and thither come this bauble, and, by this hand, she falls me thus about my neck;—
+<SPEECH 88><ACT 4><SCENE 1><69%>
+	So hangs and lolls and weeps upon me; so hales and pulls me; ha, ha, ha!
+<SPEECH 89><ACT 4><SCENE 1><69%>
+	Well, I must leave her company.
+<SPEECH 90><ACT 4><SCENE 1><69%>
+	'Tis such another fitchew! marry, a perfumed one.
+	What do you mean by this haunting of me?
+<SPEECH 91><ACT 4><SCENE 1><69%>
+	How now, my sweet Bianca! how now, how now!
+<SPEECH 92><ACT 4><SCENE 1><70%>
+	Faith, I must; she'll rail in the street else.
+<SPEECH 93><ACT 4><SCENE 1><70%>
+	Faith, I intend so.
+<SPEECH 94><ACT 4><SCENE 1><70%>
+	Prithee, come; will you?
+<SPEECH 95><ACT 5><SCENE 1><85%>
+	That thrust had been mine enemy indeed
+	But that my coat is better than thou know'st;
+	I will make proof of thine.
+<SPEECH 96><ACT 5><SCENE 1><85%>
+	I am maim'd for ever. Help, ho! murder! murder!
+<SPEECH 97><ACT 5><SCENE 1><85%>
+	O, help, ho! light! a surgeon!
+<SPEECH 98><ACT 5><SCENE 1><85%>
+	What ho! no watch? no passage? murder! murder!
+<SPEECH 99><ACT 5><SCENE 1><85%>
+	O, help!
+<SPEECH 100><ACT 5><SCENE 1><86%>
+	Here, here! for heaven's sake, help me.
+<SPEECH 101><ACT 5><SCENE 1><86%>
+	Iago? O! I am spoil'd, undone by villains!
+	Give me some help.
+<SPEECH 102><ACT 5><SCENE 1><86%>
+	I think that one of them is hereabout,
+	And cannot make away.
+<SPEECH 103><ACT 5><SCENE 1><86%>
+	That's one of them.
+<SPEECH 104><ACT 5><SCENE 1><87%>
+	My leg is cut in two.
+<SPEECH 105><ACT 5><SCENE 1><87%>
+	No.
+<SPEECH 106><ACT 5><SCENE 1><87%>
+	None in the world; nor do I know the man.
+<SPEECH 107><ACT 5><SCENE 2><98%>
+	Dear general, I never gave you cause.
+<SPEECH 108><ACT 5><SCENE 2><98%>
+	Most heathenish and most gross!
+<SPEECH 109><ACT 5><SCENE 2><98%>
+	I found it in my chamber;
+	And he himself confess'd but even now
+	That there he dropp'd it for a special purpose
+	Which wrought to his desire.
+<SPEECH 110><ACT 5><SCENE 2><99%>
+	There is besides in Roderigo's letter
+	How he upbraids Iago that he made him
+	Brave me upon the watch; whereon it came
+	That I was cast: and even but now he spake,
+	After long seeming dead, Iago hurt him,
+	Iago set him on.
+<SPEECH 111><ACT 5><SCENE 2><100%>
+	This did I fear, but thought he had no weapon;
+	For he was great of heart.

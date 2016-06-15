@@ -1,0 +1,27 @@
+<SPEECH 1><ACT 1><SCENE 2><4%>
+	Cæsar!
+<SPEECH 2><ACT 1><SCENE 2><4%>
+	Beware the ides of March.
+<SPEECH 3><ACT 1><SCENE 2><5%>
+	Beware the ides of March.
+<SPEECH 4><ACT 2><SCENE 4><42%>
+	At mine own house, good lady.
+<SPEECH 5><ACT 2><SCENE 4><42%>
+	About the ninth hour, lady.
+<SPEECH 6><ACT 2><SCENE 4><42%>
+	Madam, not yet: I go to take my stand,
+	To see him pass on to the Capitol.
+<SPEECH 7><ACT 2><SCENE 4><42%>
+	That I have, lady: if it will please Cæsar
+	To be so good to Cæsar as to hear me,
+	I shall beseech him to befriend himself.
+<SPEECH 8><ACT 2><SCENE 4><43%>
+	None that I know will be, much that I fear may chance.
+	Good morrow to you. Here the street is narrow:
+	The throng that follows Cæsar at the heels,
+	Of senators, of prætors, common suitors,
+	Will crowd a feeble man almost to death:
+	I'll get me to a place more void, and there
+	Speak to great Cæsar as he comes along.
+<SPEECH 9><ACT 3><SCENE 1><44%>
+	Ay, Cæsar; but not gone.

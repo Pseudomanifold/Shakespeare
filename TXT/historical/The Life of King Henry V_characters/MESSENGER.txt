@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 2><SCENE 4><28%>
+	Ambassadors from Harry King of England
+	Do crave admittance to your majesty.
+<SPEECH 2><ACT 3><SCENE 7><52%>
+	My lord high constable, the English lie within fifteen hundred paces of your tents.
+<SPEECH 3><ACT 3><SCENE 7><52%>
+	The Lord Grandpré.
+<SPEECH 4><ACT 4><SCENE 2><64%>
+	The English are embattail'd, you French peers.

@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 3><SCENE 2><47%>
+	Save you, good madam.
+<SPEECH 2><ACT 3><SCENE 2><48%>
+	Ay, madam;
+	And for the contents' sake are sorry for our pains.
+<SPEECH 3><ACT 3><SCENE 2><48%>
+	Ay, madam, with the swiftest wing of speed.
+<SPEECH 4><ACT 3><SCENE 2><48%>
+	'Tis but the boldness of his hand, haply, which his heart was not consenting to.
+<SPEECH 5><ACT 3><SCENE 2><49%>
+	A servant only, and a gentleman
+	Which I have some time known.
+<SPEECH 6><ACT 3><SCENE 2><49%>
+	Ay, my good lady, he.
+<SPEECH 7><ACT 3><SCENE 2><49%>
+	Indeed, good lady,
+	The fellow has a deal of that too much,
+	Which holds him much to have.

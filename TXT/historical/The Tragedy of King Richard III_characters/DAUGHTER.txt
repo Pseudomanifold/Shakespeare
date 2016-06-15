@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 2><SCENE 2><32%>
+	Why do you wring your hands, and beat your breast,
+	And cry—'O Clarence, my unhappy son?'
+<SPEECH 2><ACT 2><SCENE 2><33%>
+	And so will I.
+<SPEECH 3><ACT 2><SCENE 2><34%>
+	Our fatherless distress was left unmoan'd;
+	Your widow-dolour likewise be unwept.

@@ -1,0 +1,438 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	Nay, we must longer kneel: I am a suitor.
+<SPEECH 2><ACT 1><SCENE 2><10%>
+	Thank your majesty.
+	That you would love yourself, and in that love
+	Not unconsider'd leave your honour, nor
+	The dignity of your office, is the point
+	Of my petition.
+<SPEECH 3><ACT 1><SCENE 2><10%>
+	I am solicited, not by a few,
+	And those of true condition, that your subjects
+	Are in great grievance: there have been commissions
+	Sent down among 'em, which hath flaw'd the heart
+	Of all their loyalties: wherein, although,
+	My good Lord Cardinal, they vent reproaches
+	Most bitterly on you, as putter-on
+	Of these exactions, yet the king our master,—
+	Whose honour heaven shield from soil!—even he escapes not
+	Language unmannerly; yea, such which breaks
+	The sides of loyalty, and almost appears
+	In loud rebellion.
+<SPEECH 4><ACT 1><SCENE 2><11%>
+	No, my lord,
+	You know no more than others; but you frame
+	Things that are known alike; which are not wholesome
+	To those which would not know them, and yet must
+	Perforce be their acquaintance. These exactions,
+	Whereof my sov'reign would have note, they are
+	Most pestilent to the hearing; and to bear 'em,
+	The back is sacrifice to the load. They say
+	They are devis'd by you, or else you suffer
+	Too hard an exclamation.
+<SPEECH 5><ACT 1><SCENE 2><11%>
+	I am much too venturous
+	In tempting of your patience; but am bolden'd
+	Under your promis'd pardon. The subjects' grief
+	Comes through commissions, which compel from each
+	The sixth part of his substance, to be levied
+	Without delay; and the pretence for this
+	Is nam'd, your wars in France. This makes bold mouths:
+	Tongues spit their duties out, and cold hearts freeze
+	Allegiance in them; their curses now
+	Live where their prayers did; and it's come to pass,
+	This tractable obedience is a slave
+	To each incensed will. I would your highness
+	Would give it quick consideration, for
+	There is no primer business.
+<SPEECH 6><ACT 1><SCENE 2><13%>
+	I am sorry that the Duke of Buckingham
+	Is run in your displeasure.
+<SPEECH 7><ACT 1><SCENE 2><14%>
+	My learn'd Lord Cardinal,
+	Deliver all with charity.
+<SPEECH 8><ACT 1><SCENE 2><15%>
+	If I know you well,
+	You were the duke's surveyor, and lost your office
+	On the complaint o' the tenants: take good heed
+	You charge not in your spleen a noble person,
+	And spoil your nobler soul. I say, take heed;
+	Yes, heartily beseech you.
+<SPEECH 9><ACT 1><SCENE 2><16%>
+	God mend all!
+<SPEECH 10><ACT 2><SCENE 4><39%>
+	Sir, I desire you do me right and justice;
+	And to bestow your pity on me; for
+	I am a most poor woman, and a stranger,
+	Born out of your dominions; having here
+	No judge indifferent, nor no more assurance
+	Of equal friendship and proceeding. Alas! sir,
+	In what have I offended you? what cause
+	Hath my behaviour given to your displeasure,
+	That thus you should proceed to put me off
+	And take your good grace from me? Heaven witness,
+	I have been to you a true and humble wife,
+	At all times to your will conformable;
+	Ever in fear to kindle your dislike,
+	Yea, subject to your countenance, glad or sorry
+	As I saw it inclin'd. When was the hour
+	I ever contradicted your desire,
+	Or made it not mine too? Or which of your friends
+	Have I not strove to love, although I knew
+	He were mine enemy? what friend of mine
+	That had to him deriv'd your anger, did I
+	Continue in my liking? nay, gave notice
+	He was from thence discharg'd. Sir, call to mind
+	That I have been your wife, in this obedience
+	Upward of twenty years, and have been blest
+	With many children by you: if, in the course
+	And process of this time, you can report,
+	And prove it too, against mine honour aught,
+	My bond to wedlock, or my love and duty,
+	Against your sacred person, in God's name
+	Turn me away; and let the foul'st contempt
+	Shut door upon me, and so give me up
+	To the sharp'st kind of justice. Please you, sir,
+	The king, your father, was reputed for
+	A prince most prudent, of an excellent
+	And unmatch'd wit and judgment: Ferdinand,
+	My father, King of Spain, was reckon'd one
+	The wisest prince that there had reign'd by many
+	A year before: it is not to be question'd
+	That they had gather'd a wise council to them
+	Of every realm, that did debate this business,
+	Who deem'd our marriage lawful. Wherefore I humbly
+	Beseech you, sir, to spare me, till I may
+	Be by my friends in Spain advis'd, whose counsel
+	I will implore: if not, i' the name of God,
+	Your pleasure be fulfill'd!
+<SPEECH 11><ACT 2><SCENE 4><41%>
+	Lord Cardinal,
+	To you I speak.
+<SPEECH 12><ACT 2><SCENE 4><41%>
+	Sir,
+	I am about to weep; but, thinking that
+	We are a queen,—or long have dream'd so,—certain
+	The daughter of a king, my drops of tears
+	I'll turn to sparks of fire.
+<SPEECH 13><ACT 2><SCENE 4><41%>
+	I will, when you are humble; nay, before,
+	Or God will punish me. I do believe,
+	Induc'd by potent circumstances, that
+	You are mine enemy; and make my challenge
+	You shall not be my judge; for it is you
+	Have blown this coal betwixt my lord and me,
+	Which God's dew quench! Therefore I say again,
+	I utterly abhor, yea, from my soul
+	Refuse you for my judge, whom, yet once more,
+	I hold my most malicious foe, and think not
+	At all a friend to truth.
+<SPEECH 14><ACT 2><SCENE 4><42%>
+	My lord, my lord,
+	I am a simple woman, much too weak
+	To oppose your cunning. You're meek and humble-mouth'd;
+	You sign your place and calling, in full seeming,
+	With meekness and humility; but your heart
+	Is cramm'd with arrogancy, spleen, and pride.
+	You have, by fortune and his highness' favours,
+	Gone slightly o'er low steps, and now are mounted
+	Where powers are your retainers, and your words,
+	Domestics to you, serve your will as't please
+	Yourself pronounce their office. I must tell you,
+	You tender more your person's honour than
+	Your high profession spiritual; that again
+	I do refuse you for my judge; and here,
+	Before you all, appeal unto the pope,
+	To bring my whole cause 'fore his holiness,
+	And to be judg'd by him.
+<SPEECH 15><ACT 2><SCENE 4><43%>
+	What need you note it? pray you, keep your way:
+	When you are call'd, return. Now, the Lord help!
+	They vex me past my patience. Pray you, pass on:
+	I will not tarry; no, nor ever more
+	Upon this business my appearance make
+	In any of their courts.
+<SPEECH 16><ACT 3><SCENE 1><47%>
+	Take thy lute, wench: my soul grows sad with troubles;
+	Sing and disperse 'em, if thou canst. Leave working.
+	Orpheus with his lute made trees,
+	And the mountain tops that freeze,
+	Bow themselves, when he did sing:
+	To his music plants and flowers
+	Ever sprung; as sun and showers
+	There had made a lasting spring.
+	Every thing that heard him play,
+	Even the billows of the sea,
+	Hung their heads, and then lay by.
+	In sweet music is such art,
+	Killing care and grief of heart
+	Fall asleep, or hearing, die.
+<SPEECH 17><ACT 3><SCENE 1><47%>
+	How now!
+<SPEECH 18><ACT 3><SCENE 1><47%>
+	Would they speak with me?
+<SPEECH 19><ACT 3><SCENE 1><47%>
+	Pray their Graces
+	To come near. <STAGE DIR>
+	</STAGE DIR> What can be their business
+	With me, a poor weak woman, fall'n from favour?
+	I do not like their coming, now I think on't.
+	They should be good men, their affairs as righteous;
+	But all hoods make not monks.
+<SPEECH 20><ACT 3><SCENE 1><47%>
+	Your Graces find me here part of a housewife,
+	I would be all, against the worst may happen.
+	What are your pleasures with me, reverend lords?
+<SPEECH 21><ACT 3><SCENE 1><48%>
+	Speak it here;
+	There's nothing I have done yet, o' my conscience,
+	Deserves a corner: would all other women
+	Could speak this with as free a soul as I do!
+	My lords, I care not—so much I am happy
+	Above a number—if my actions
+	Were tried by every tongue, every eye saw 'em,
+	Envy and base opinion set against 'em,
+	I know my life so even. If your business
+	Seek me out, and that way I am wife in,
+	Out with it boldly: truth loves open dealing.
+<SPEECH 22><ACT 3><SCENE 1><48%>
+	O, good my lord, no Latin;
+	I am not such a truant since my coming
+	As not to know the language I have liv'd in:
+	A strange tongue makes my cause more strange, suspicious;
+	Pray, speak in English: here are some will thank you,
+	If you speak truth, for their poor mistress' sake:
+	Believe me, she has had much wrong. Lord Cardinal,
+	The willing'st sin I ever yet committed
+	May be absolv'd in English.
+<SPEECH 23><ACT 3><SCENE 1><49%>
+	</STAGE DIR> To betray me.
+	My lords, I thank you both for your good wills;
+	Ye speak like honest men,—pray God, ye prove so!—
+	But how to make ye suddenly an answer,
+	In such a point of weight, so near mine honour,—
+	More near my life, I fear,—with my weak wit,
+	And to such men of gravity and learning,
+	In truth, I know not. I was set at work
+	Among my maids; full little, God knows, looking
+	Either for such men or such business.
+	For her sake that I have been,—for I feel
+	The last fit of my greatness,—good your Graces
+	Let me have time and counsel for my cause:
+	Alas! I am a woman, friendless, hopeless.
+<SPEECH 24><ACT 3><SCENE 1><49%>
+	In England
+	But little for my profit. Can you think, lords,
+	That any Englishman dare give me counsel?
+	Or be a known friend, 'gainst his highness' pleasure,—
+	Though he be grown so desperate to be honest,—
+	And live a subject? Nay, forsooth, my friends,
+	They that must weigh out my afflictions,
+	They that my trust must grow to, live not here:
+	They are, as all my other comforts, far hence
+	In mine own country, lords.
+<SPEECH 25><ACT 3><SCENE 1><50%>
+	How, sir?
+<SPEECH 26><ACT 3><SCENE 1><50%>
+	Ye tell me what ye wish for both; my ruin.
+	Is this your Christian counsel? out upon ye!
+	Heaven is above all yet; there sits a judge
+	That no king can corrupt.
+<SPEECH 27><ACT 3><SCENE 1><50%>
+	The more shame for ye! holy men I thought ye,
+	Upon my soul, two reverend cardinal virtues;
+	But cardinal sins and hollow hearts I fear ye.
+	Mend 'em, for shame, my lords. Is this your comfort?
+	The cordial that ye bring a wretched lady,
+	A woman lost among ye, laugh'd at, scorn'd?
+	I will not wish ye half my miseries,
+	I have more charity; but say, I warn'd ye:
+	Take heed, for heaven's sake, take heed, lest at once
+	The burden of my sorrows fall upon ye.
+<SPEECH 28><ACT 3><SCENE 1><50%>
+	Ye turn me into nothing: woe upon ye,
+	And all such false professors! Would ye have me,—
+	If ye have any justice, any pity;
+	If ye be anything but churchmen's habits,—
+	Put my sick cause into his hands that hates me?
+	Alas! he has banish'd me his bed already,
+	His love, too long ago! I am old, my lords,
+	And all the fellowship I hold now with him
+	Is only my obedience. What can happen
+	To me above this wretchedness? all your studies
+	Make me a curse like this.
+<SPEECH 29><ACT 3><SCENE 1><51%>
+	Have I liv'd thus long—let me speak myself,
+	Since virtue finds no friends—a wife, a true one?
+	A woman, I dare say without vain-glory,
+	Never yet branded with suspicion?
+	Have I with all my full affections
+	Still met the king? lov'd him next heaven? obey'd him?
+	Been, out of fondness, superstitious to him?
+	Almost forgot my prayers to content him?
+	And am I thus rewarded? 'tis not well, lords.
+	Bring me a constant woman to her husband,
+	One that ne'er dream'd a joy beyond his pleasure,
+	And to that woman, when she has done most,
+	Yet will I add an honour, a great patience.
+<SPEECH 30><ACT 3><SCENE 1><51%>
+	My lord, I dare not make myself so guilty,
+	To give up willingly that noble title
+	Your master wed me to: nothing but death
+	Shall e'er divorce my dignities.
+<SPEECH 31><ACT 3><SCENE 1><51%>
+	Would I had never trod this English earth,
+	Or felt the flatteries that grow upon it!
+	Ye have angels' faces, but heaven knows your hearts.
+	What will become of me now, wretched lady?
+	I am the most unhappy woman living.
+	</STAGE DIR> Alas! poor wenches, where are now your fortunes?
+	Shipwrack'd upon a kingdom, where no pity,
+	No friends, no hope; no kindred weep for me;
+	Almost no grave allow'd me. Like the lily,
+	That once was mistress of the field and flourish'd,
+	I'll hang my head and perish.
+<SPEECH 32><ACT 3><SCENE 1><52%>
+	Do what ye will, my lords: and, pray, forgive me
+	If I have us'd myself unmannerly.
+	You know I am a woman, lacking wit
+	To make a seemly answer to such persons.
+	Pray do my service to his majesty:
+	He has my heart yet; and shall have my prayers
+	While I shall have my life. Come, reverend fathers,
+	Bestow your counsels on me: she now begs
+	That little thought, when she set footing here,
+	She should have bought her dignities so dear.
+<SPEECH 33><ACT 4><SCENE 2><73%>
+	O Griffith! sick to death!
+	My legs, like loaden branches, bow to the earth,
+	Willing to leave their burden. Reach a chair:
+	So; now, methinks, I feel a little ease.
+	Didst thou not tell me, Griffith, as thou ledd'st me,
+	That the great child of honour, Cardinal Wolsey,
+	Was dead?
+<SPEECH 34><ACT 4><SCENE 2><73%>
+	Prithee, good Griffith, tell me how he died:
+	If well, he stepp'd before me, happily,
+	For my example.
+<SPEECH 35><ACT 4><SCENE 2><73%>
+	Alas! poor man.
+<SPEECH 36><ACT 4><SCENE 2><74%>
+	So may he rest; his faults lie gently on him!
+	Yet thus far, Griffith, give me leave to speak him,
+	And yet with charity. He was a man
+	Of an unbounded stomach, ever ranking
+	Himself with princes; one, that by suggestion
+	Tied all the kingdom; simony was fair-play;
+	His own opinion was his law; i' the presence
+	He would say untruths, and be ever double
+	Both in his words and meaning. He was never,
+	But where he meant to ruin, pitiful;
+	His promises were, as he then was, mighty;
+	But his performance, as he is now, nothing:
+	Of his own body he was ill, and gave
+	The clergy ill example.
+<SPEECH 37><ACT 4><SCENE 2><74%>
+	Yes, good Griffith,
+	I were malicious else.
+<SPEECH 38><ACT 4><SCENE 2><75%>
+	After my death I wish no other herald,
+	No other speaker of my living actions,
+	To keep mine honour from corruption,
+	But such an honest chronicler as Griffith.
+	Whom I most hated living, thou hast made me,
+	With thy religious truth and modesty,
+	Now in his ashes honour. Peace be with him!
+	Patience, be near me still; and set me lower:
+	I have not long to trouble thee. Good Griffith,
+	Cause the musicians play me that sad note
+	I nam'd my knell, whilst I sit meditating
+	On that celestial harmony I go to.
+<SPEECH 39><ACT 4><SCENE 2><76%>
+	Spirits of peace, where are ye? Are ye all gone,
+	And leave me here in wretchedness behind ye?
+<SPEECH 40><ACT 4><SCENE 2><76%>
+	It is not you I call for:
+	Saw ye none enter since I slept?
+<SPEECH 41><ACT 4><SCENE 2><76%>
+	No? Saw you not, even now, a blessed troop
+	Invite me to a banquet; whose bright faces
+	Cast thousand beams upon me, like the sun?
+	They promis'd me eternal happiness,
+	And brought me garlands, Griffith, which I feel
+	I am not worthy yet to wear: I shall assuredly.
+<SPEECH 42><ACT 4><SCENE 2><77%>
+	Bid the music leave,
+	They are harsh and heavy to me.
+<SPEECH 43><ACT 4><SCENE 2><77%>
+	You are a saucy fellow:
+	Deserve we no more reverence?
+<SPEECH 44><ACT 4><SCENE 2><77%>
+	Admit him entrance, Griffith: but this fellow
+	Let me ne'er see again.
+	If my sight fail not,
+	You should be lord ambassador from the emperor,
+	My royal nephew, and your name Capucius.
+<SPEECH 45><ACT 4><SCENE 2><77%>
+	O my lord!
+	The times and titles now are alter'd strangely
+	With me since first you knew me. But, I pray you,
+	What is your pleasure with me?
+<SPEECH 46><ACT 4><SCENE 2><78%>
+	O! my good lord, that comfort comes too late;
+	'Tis like a pardon after execution:
+	That gentle physic, given in time, had cur'd me;
+	But now I am past all comforts here but prayers.
+	How does his highness?
+<SPEECH 47><ACT 4><SCENE 2><78%>
+	So may he ever do! and ever flourish,
+	When I shall dwell with worms, and my poor name
+	Banish'd the kingdom. Patience, is that letter
+	I caus'd you write, yet sent away?
+<SPEECH 48><ACT 4><SCENE 2><78%>
+	Sir, I most humbly pray you to deliver
+	This to my lord the king.
+<SPEECH 49><ACT 4><SCENE 2><78%>
+	In which I have commended to his goodness
+	The model of our chaste loves, his young daughter:
+	The dews of heaven fall thick in blessings on her!
+	Beseeching him to give her virtuous breeding,—
+	She is young, and of a noble modest nature,
+	I hope she will deserve well,—and a little
+	To love her for her mother's sake, that lov'd him,
+	Heaven knows how dearly. My next poor petition
+	Is, that his noble Grace would have some pity
+	Upon my wretched women, that so long
+	Have follow'd both my fortunes faithfully:
+	Of which there is not one, I dare avow,—
+	And now I should not lie,—but will deserve,
+	For virtue, and true beauty of the soul,
+	For honesty and decent carriage,
+	A right good husband, let him be a noble;
+	And, sure, those men are happy that shall have 'em.
+	The last is, for my men: they are the poorest,
+	But poverty could never draw 'em from me;
+	That they may have their wages duly paid 'em,
+	And something over to remember me by:
+	If heaven had pleas'd to have given me longer life
+	And able means, we had not parted thus.
+	These are the whole contents: and, good my lord,
+	By that you love the dearest in this world,
+	As you wish Christian peace to souls departed,
+	Stand these poor people's friend, and urge the king
+	To do me this last right.
+<SPEECH 50><ACT 4><SCENE 2><79%>
+	I thank you, honest lord. Remember me
+	In all humility unto his highness:
+	Say his long trouble now is passing
+	Out of this world; tell him, in death I bless'd him;
+	For so I will. Mine eyes grow dim. Farewell,
+	My lord. Griffith, farewell. Nay, Patience,
+	You must not leave me yet: I must to bed;
+	Call in more women. When I am dead, good wench,
+	Let me be us'd with honour: strew me over
+	With maiden flowers, that all the world may know
+	I was a chaste wife to my grave: embalm me,
+	Then lay me forth: although unqueen'd, yet like
+	A queen, and daughter to a king, inter me.
+	I can no more.

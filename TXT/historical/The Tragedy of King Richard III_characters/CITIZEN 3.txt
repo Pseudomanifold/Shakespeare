@@ -1,0 +1,37 @@
+<SPEECH 1><ACT 2><SCENE 3><37%>
+	Neighbours, God speed!
+<SPEECH 2><ACT 2><SCENE 3><37%>
+	Doth the news hold of good King Edward's death?
+<SPEECH 3><ACT 2><SCENE 3><37%>
+	Then, masters, look to see a troublous world.
+<SPEECH 4><ACT 2><SCENE 3><37%>
+	Woe to that land that's govern'd by a child!
+<SPEECH 5><ACT 2><SCENE 3><37%>
+	Stood the state so? no, no, good friends, God wot;
+	For then this land was famously enrich'd
+	With politic grave counsel; then the king
+	Had virtuous uncles to protect his Grace.
+<SPEECH 6><ACT 2><SCENE 3><37%>
+	Better it were they all came by his father,
+	Or by his father there were none at all;
+	For emulation, who shall now be nearest,
+	Will touch us all too near, if God prevent not.
+	O! full of danger is the Duke of Gloucester!
+	And the queen's sons and brothers haught and proud;
+	And were they to be rul'd, and not to rule,
+	This sickly land might solace as before.
+<SPEECH 7><ACT 2><SCENE 3><37%>
+	When clouds are seen, wise men put on their cloaks;
+	When great leaves fall, then winter is at hand;
+	When the sun sets, who doth not look for night?
+	Untimely storms make men expect a dearth.
+	All may be well; but, if God sort it so,
+	'Tis more than we deserve, or I expect.
+<SPEECH 8><ACT 2><SCENE 3><38%>
+	Before the days of change, still is it so:
+	By a divine instinct men's minds mistrust
+	Ensuing danger; as, by proof, we see
+	The waters swell before a boisterous storm.
+	But leave it all to God. Whither away?
+<SPEECH 9><ACT 2><SCENE 3><38%>
+	And so was I: I'll bear you company.

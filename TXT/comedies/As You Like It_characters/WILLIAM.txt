@@ -1,0 +1,22 @@
+<SPEECH 1><ACT 5><SCENE 1><83%>
+	Good even, Audrey.
+<SPEECH 2><ACT 5><SCENE 1><83%>
+	And good even to you, sir.
+<SPEECH 3><ACT 5><SCENE 1><83%>
+	Five-and-twenty, sir.
+<SPEECH 4><ACT 5><SCENE 1><84%>
+	William, sir.
+<SPEECH 5><ACT 5><SCENE 1><84%>
+	Ay, sir, I thank God.
+<SPEECH 6><ACT 5><SCENE 1><84%>
+	Faith, sir, so so.
+<SPEECH 7><ACT 5><SCENE 1><84%>
+	Ay, sir, I have a pretty wit.
+<SPEECH 8><ACT 5><SCENE 1><84%>
+	I do, sir.
+<SPEECH 9><ACT 5><SCENE 1><84%>
+	No, sir.
+<SPEECH 10><ACT 5><SCENE 1><84%>
+	Which he, sir?
+<SPEECH 11><ACT 5><SCENE 1><85%>
+	God rest you merry, sir.

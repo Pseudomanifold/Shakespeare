@@ -1,0 +1,36 @@
+<SPEECH 1><ACT 1><SCENE 1><5%>
+	Cousin of Buckingham, though Humphrey's pride
+	And greatness of his place be grief to us,
+	Yet let us watch the haughty cardinal:
+	His insolence is more intolerable
+	Than all the princes in the land beside:
+	If Gloucester be displac'd, he'll be protector.
+<SPEECH 2><ACT 1><SCENE 3><15%>
+	If Somerset be unworthy of the place,
+	Let York be regent; I will yield to him.
+<SPEECH 3><ACT 1><SCENE 3><15%>
+	Thy sumptuous buildings and thy wife's attire
+	Have cost a mass of public treasury.
+<SPEECH 4><ACT 1><SCENE 3><18%>
+	I humbly thank your royal majesty.
+<SPEECH 5><ACT 3><SCENE 1><40%>
+	All health unto my gracious sovereign!
+<SPEECH 6><ACT 3><SCENE 1><40%>
+	That all your interest in those territories
+	Is utterly bereft you; all is lost.
+<SPEECH 7><ACT 3><SCENE 1><47%>
+	If York, with all his far-fet policy,
+	Had been the regent there instead of me,
+	He never would have stay'd in France so long.
+<SPEECH 8><ACT 3><SCENE 1><47%>
+	And in the number thee, that wishest shame.
+<SPEECH 9><ACT 3><SCENE 2><50%>
+	Rear up his body; wring him by the nose.
+<SPEECH 10><ACT 4><SCENE 1><86%>
+	My lord,
+	I'll yield myself to prison willingly,
+	Or unto death, to do my country good.
+<SPEECH 11><ACT 5><SCENE 1><92%>
+	O monstrous traitor:—I arrest thee, York,
+	Of capital treason 'gainst the king and crown.
+	Obey, audacious traitor; kneel for grace.

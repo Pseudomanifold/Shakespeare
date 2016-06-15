@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 2><SCENE 4><32%>
+	Mass, thou sayst true. The prince once set a dish of apple-johns before him, and told him there were five more Sir Johns; and, putting off his hat, said, 'I will now take my leave of these six dry, round, old withered knights.' It angered him to the heart; but he hath forgot that.
+<SPEECH 2><ACT 2><SCENE 4><33%>
+	Sirrah, here will be the prince and Master Poins anon; and they will put on two of our jerkins and aprons; and Sir John must not know of it: Bardolph hath brought word.
+<SPEECH 3><ACT 2><SCENE 4><33%>
+	I'll see if I can find out Sneak.

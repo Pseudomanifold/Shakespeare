@@ -1,0 +1,34 @@
+<SPEECH 1><ACT 2><SCENE 1><17%>
+	Over hill, over dale,
+	Thorough bush, thorough brier,
+	Over park, over pale,
+	Thorough flood, thorough fire,
+	I do wander every where,
+	Swifter than the moone's sphere;
+	And I serve the fairy queen,
+	To dew her orbs upon the green:
+	The cowslips tall her pensioners be;
+	In their gold coats spots you see;
+	Those be rubies, fairy favours,
+	In their freckles live their savours:
+	I must go seek some dew-drops here,
+	And hang a pearl in every cowslip's ear.
+	Farewell, thou lob of spirits: I'll be gone;
+	Our queen and all her elves come here anon.
+<SPEECH 2><ACT 2><SCENE 1><18%>
+	Either I mistake your shape and making quite,
+	Or else you are that shrewd and knavish sprite
+	Call'd Robin Goodfellow: are you not he
+	That frights the maidens of the villagery;
+	Skim milk, and sometimes labour in the quern,
+	And bootless make the breathless housewife churn;
+	And sometime make the drink to bear no barm;
+	Mislead night-wanderers, laughing at their harm?
+	Those that Hobgoblin call you and sweet Puck,
+	You do their work, and they shall have good luck:
+	Are you not he?
+<SPEECH 3><ACT 2><SCENE 1><19%>
+	And here my mistress. Would that he were gone!
+<SPEECH 4><ACT 2><SCENE 2><30%>
+	Hence, away! now all is well.
+	One aloof stand sentinel.

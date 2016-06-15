@@ -1,0 +1,35 @@
+<SPEECH 1><ACT 4><SCENE 1><59%>
+	I'll do 't; but yet she is a goodly creature.
+<SPEECH 2><ACT 4><SCENE 1><60%>
+	I am resolv'd.
+<SPEECH 3><ACT 4><SCENE 1><61%>
+	I warrant you, madam.
+<SPEECH 4><ACT 4><SCENE 1><61%>
+	South-west.
+<SPEECH 5><ACT 4><SCENE 1><61%>
+	Was 't so?
+<SPEECH 6><ACT 4><SCENE 1><61%>
+	When was this?
+<SPEECH 7><ACT 4><SCENE 1><62%>
+	Come; say your prayers.
+<SPEECH 8><ACT 4><SCENE 1><62%>
+	If you require a little space for prayer,
+	I grant it. Pray; but be not tedious,
+	For the gods are quick of ear, and I am sworn
+	To do my work with haste.
+<SPEECH 9><ACT 4><SCENE 1><62%>
+	To satisfy my lady.
+<SPEECH 10><ACT 4><SCENE 1><62%>
+	My commission
+	Is not to reason of the deed, but do 't.
+<SPEECH 11><ACT 4><SCENE 1><63%>
+	I am sworn,
+	And will dispatch.
+<SPEECH 12><ACT 4><SCENE 1><63%>
+	These roguing thieves serve the great pirate Valdes;
+	And they have seiz'd Marina. Let her go;
+	There's no hope she'll return. I'll swear she's dead,
+	And thrown into the sea. But I'll see further;
+	Perhaps they will but please themselves upon her,
+	Not carry her aboard. If she remain,
+	Whom they have ravish'd must by me be slain.

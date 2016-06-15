@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	O! 'tis a worthy lord.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	A most incomparable man, breath'd, as it were,
+	To an untirable and continuate goodness:
+	He passes.
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	O! pray, let's see 't: for the Lord Timon, sir?
+<SPEECH 4><ACT 1><SCENE 1><1%>
+	</STAGE DIR> 'Tis a good form.
+<SPEECH 5><ACT 1><SCENE 1><8%>
+	No, my good lord; he speaks the common tongue,
+	Which all men speak with him.
+<SPEECH 6><ACT 1><SCENE 1><8%>
+	He'll spare none.
+<SPEECH 7><ACT 1><SCENE 1><10%>
+	Ay, Apemantus.
+<SPEECH 8><ACT 1><SCENE 1><10%>
+	If traffic do it, the gods do it.

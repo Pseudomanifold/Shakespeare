@@ -1,0 +1,310 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	As I remember, Adam, it was upon this fashion bequeathed me by will but poor a thousand crowns, and, as thou sayest, charged my brother on his blessing, to breed me well: and there begins my sadness. My brother Jaques he keeps at school, and report speaks goldenly of his profit: for my part, he keeps me rustically at home, or, to speak more properly, stays me here at home unkept; for call you that keeping for a gentleman of my birth, that differs not from the stalling of an ox? His horses are bred better; for, besides that they are fair with their feeding, they are taught their manage, and to that end riders dearly hired: but I, his brother, gain nothing under him but growth, for the which his animals on his dunghills are as much bound to him as I. Besides this nothing that he so plentifully gives me, the something that nature gave me, his countenance seems to take from me: he lets me feed with his hinds, bars me the place of a brother, and, as much as in him lies, mines my gentility with my education. This is it, Adam, that grieves me; and the spirit of my father, which I think is within me, begins to mutiny against this servitude. I will no longer endure it, though yet I know no wise remedy how to avoid it.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Go apart, Adam, and thou shalt hear how he will shake me up.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	Nothing: I am not taught to make anything.
+<SPEECH 4><ACT 1><SCENE 1><2%>
+	Marry, sir, I am helping you to mar that which God made, a poor unworthy brother of yours, with idleness.
+<SPEECH 5><ACT 1><SCENE 1><2%>
+	Shall I keep your hogs, and eat husks with them? What prodigal portion have I spent, that I should come to such penury?
+<SPEECH 6><ACT 1><SCENE 1><2%>
+	O! sir, very well: here in your orchard.
+<SPEECH 7><ACT 1><SCENE 1><2%>
+	Ay, better than he I am before knows me. I know you are my eldest brother; and, in the gentle condition of blood, you should so know me. The courtesy of nations allows you my better, in that you are the first-born; but the same tradition takes not away my blood, were there twenty brothers betwixt us. I have as much of my father in me as you; albeit, I confess, your coming before me is nearer to his reverence.
+<SPEECH 8><ACT 1><SCENE 1><2%>
+	Come, come, elder brother, you are too young in this.
+<SPEECH 9><ACT 1><SCENE 1><2%>
+	I am no villain; I am the youngest son of Sir Rowland de Boys; he was my father, and he is thrice a villain that says such a father begot villains. Wert thou not my brother, I would not take this hand from thy throat till this other had pulled out thy tongue for saying so: thou hast railed on thyself.
+<SPEECH 10><ACT 1><SCENE 1><3%>
+	I will not, till I please: you shall hear me. My father charged you in his will to give me good education: you have trained me like a peasant, obscuring and hiding from me all gentleman-like qualities. The spirit of my father grows strong in me, and I will no longer endure it; therefore allow me such exercises as may become a gentleman, or give me the poor allottery my father left me by testament; with that I will go buy my fortunes.
+<SPEECH 11><ACT 1><SCENE 1><3%>
+	I will no further offend you than becomes me for my good.
+<SPEECH 12><ACT 1><SCENE 2><12%>
+	I attend them with all respect and duty.
+<SPEECH 13><ACT 1><SCENE 2><13%>
+	No, fair princess; he is the general challenger: I come but in, as others do, to try with him the strength of my youth.
+<SPEECH 14><ACT 1><SCENE 2><13%>
+	I beseech you, punish me not with your hard thoughts, wherein I confess me much guilty, to deny so fair and excellent ladies anything. But let your fair eyes and gentle wishes go with me to my trial: wherein if I be foiled, there is but one shamed that was never gracious; if killed, but one dead that is willing to be so. I shall do my friends no wrong, for I have none to lament me; the world no injury, for in it I have nothing; only in the world I fill up a place, which may be better supplied when I have made it empty.
+<SPEECH 15><ACT 1><SCENE 2><14%>
+	Ready, sir; but his will hath in it a more modest working.
+<SPEECH 16><ACT 1><SCENE 2><14%>
+	You mean to mock me after; you should not have mocked me before: but come your ways.
+<SPEECH 17><ACT 1><SCENE 2><14%>
+	Yes, I beseech your Grace: I am not yet well breathed.
+<SPEECH 18><ACT 1><SCENE 2><14%>
+	Orlando, my liege; the youngest son of Sir Rowland de Boys.
+<SPEECH 19><ACT 1><SCENE 2><15%>
+	I am more proud to be Sir Rowland's son,
+	His youngest son; and would not change that calling,
+	To be adopted heir to Frederick.
+<SPEECH 20><ACT 1><SCENE 2><16%>
+	Can I not say, I thank you? My better parts
+	Are all thrown down, and that which here stands up
+	Is but a quintain, a mere lifeless block.
+<SPEECH 21><ACT 1><SCENE 2><16%>
+	What passion hangs these weights upon my tongue?
+	I cannot speak to her, yet she urg'd conference.
+	O poor Orlando, thou art overthrown!
+	Or Charles or something weaker masters thee.
+<SPEECH 22><ACT 1><SCENE 2><16%>
+	I thank you, sir; and pray you, tell me this;
+	Which of the two was daughter of the duke,
+	That here was at the wrestling?
+<SPEECH 23><ACT 1><SCENE 2><17%>
+	I rest much bounden to you: fare you well.
+	Thus must I from the smoke into the smother;
+	From tyrant duke unto a tyrant brother.
+	But heavenly Rosalind!
+<SPEECH 24><ACT 2><SCENE 3><26%>
+	Who's there?
+<SPEECH 25><ACT 2><SCENE 3><26%>
+	Why, what's the matter?
+<SPEECH 26><ACT 2><SCENE 3><27%>
+	Why, whither, Adam, wouldst thou have me go?
+<SPEECH 27><ACT 2><SCENE 3><27%>
+	What! wouldst thou have me go and beg my food?
+	Or with a base and boisterous sword enforce
+	A thievish living on the common road?
+	This I must do, or know not what to do:
+	Yet this I will not do, do how I can;
+	I rather will subject me to the malice
+	Of a diverted blood and bloody brother.
+<SPEECH 28><ACT 2><SCENE 3><27%>
+	O good old man! how well in thee appears
+	The constant service of the antique world,
+	When service sweat for duty, not for meed!
+	Thou art not for the fashion of these times,
+	Where none will sweat but for promotion,
+	And having that, do choke their service up
+	Even with the having: it is not so with thee.
+	But, poor old man, thou prun'st a rotten tree,
+	That cannot so much as a blossom yield,
+	In lieu of all thy pains and husbandry.
+	But come thy ways, we'll go along together,
+	And ere we have thy youthful wages spent,
+	We'll light upon some settled low content.
+<SPEECH 29><ACT 2><SCENE 6><34%>
+	Why, how now, Adam! no greater heart in thee? Live a little; comfort a little; cheer thyself a little. If this uncouth forest yield anything savage, I will either be food for it, or bring it for food to thee. Thy conceit is nearer death than thy powers. For my sake be comfortable, hold death awhile at the arm's end, I will here be with thee presently, and if I bring thee not something to eat, I will give thee leave to die; but if thou diest before I come, thou art a mocker of my labour. Well said! thou lookest cheerly, and I'll be with thee quickly. Yet thou liest in the bleak air: come I will bear thee to some shelter, and thou shalt not die for lack of a dinner, if there live anything in this desert. Cheerly, good Adam.
+<SPEECH 30><ACT 2><SCENE 7><38%>
+	Forbear, and eat no more.
+<SPEECH 31><ACT 2><SCENE 7><38%>
+	Nor shalt not, till necessity be serv'd.
+<SPEECH 32><ACT 2><SCENE 7><38%>
+	You touch'd my vein at first: the thorny point
+	Of bare distress hath ta'en from me the show
+	Of smooth civility; yet I am inland bred
+	And know some nurture. But forbear, I say:
+	He dies that touches any of this fruit
+	Till I and my affairs are answered.
+<SPEECH 33><ACT 2><SCENE 7><38%>
+	I almost die for food; and let me have it.
+<SPEECH 34><ACT 2><SCENE 7><38%>
+	Speak you so gently? Pardon me, I pray you:
+	I thought that all things had been savage here,
+	And therefore put I on the countenance
+	Of stern commandment. But whate'er you are
+	That in this desert inaccessible,
+	Under the shade of melancholy boughs,
+	Lose and neglect the creeping hours of time;
+	If ever you have look'd on better days,
+	If ever been where bells have knoll'd to church,
+	If ever sat at any good man's feast,
+	If ever from your eyelids wip'd a tear,
+	And know what 'tis to pity, and be pitied,
+	Let gentleness my strong enforcement be:
+	In the which hope I blush, and hide my sword.
+<SPEECH 35><ACT 2><SCENE 7><39%>
+	Then but forbear your food a little while,
+	Whiles, like a doe, I go to find my fawn
+	And give it food. There is an old poor man,
+	Who after me hath many a weary step
+	Limp'd in pure love: till he be first suffic'd,
+	Oppress'd with two weak evils, age and hunger,
+	I will not touch a bit.
+<SPEECH 36><ACT 2><SCENE 7><39%>
+	I thank ye; and be bless'd for your good comfort!
+<SPEECH 37><ACT 2><SCENE 7><41%>
+	I thank you most for him.
+<SPEECH 38><ACT 3><SCENE 2><43%>
+	Hang there, my verse, in witness of my love:
+	And thou, thrice-crowned queen of night, survey
+	With thy chaste eye, from thy pale sphere above,
+	Thy huntress' name, that my full life doth sway.
+	O Rosalind! these trees shall be my books,
+	And in their barks my thoughts I'll character,
+	That every eye, which in this forest looks,
+	Shall see thy virtue witness'd everywhere.
+	Run, run, Orlando: carve on every tree
+	The fair, the chaste, and unexpressive she.
+<SPEECH 39><ACT 3><SCENE 2><51%>
+	And so had I; but yet, for fashion' sake, I thank you too for your society.
+<SPEECH 40><ACT 3><SCENE 2><51%>
+	I do desire we may be better strangers.
+<SPEECH 41><ACT 3><SCENE 2><51%>
+	I pray you mar no more of my verses with reading them ill-favouredly.
+<SPEECH 42><ACT 3><SCENE 2><51%>
+	Yes, just.
+<SPEECH 43><ACT 3><SCENE 2><51%>
+	There was no thought of pleasing you when she was christened.
+<SPEECH 44><ACT 3><SCENE 2><52%>
+	Just as high as my heart.
+<SPEECH 45><ACT 3><SCENE 2><52%>
+	Not so; but I answer you right painted cloth, from whence you have studied your questions.
+<SPEECH 46><ACT 3><SCENE 2><52%>
+	I will chide no breather in the world but myself, against whom I know most faults.
+<SPEECH 47><ACT 3><SCENE 2><52%>
+	'Tis a fault I will not change for your best virtue. I am weary of you.
+<SPEECH 48><ACT 3><SCENE 2><52%>
+	He is drowned in the brook: look but in, and you shall see him.
+<SPEECH 49><ACT 3><SCENE 2><52%>
+	Which I take to be either a fool or a cipher.
+<SPEECH 50><ACT 3><SCENE 2><52%>
+	I am glad of your departure. Adieu, good Monsieur Melancholy.
+<SPEECH 51><ACT 3><SCENE 2><52%>
+	Very well: what would you?
+<SPEECH 52><ACT 3><SCENE 2><53%>
+	You should ask me, what time o' day; there's no clock in the forest.
+<SPEECH 53><ACT 3><SCENE 2><53%>
+	And why not the swift foot of Time? had not that been as proper?
+<SPEECH 54><ACT 3><SCENE 2><53%>
+	I prithee, who doth he trot withal?
+<SPEECH 55><ACT 3><SCENE 2><53%>
+	Who ambles Time withal?
+<SPEECH 56><ACT 3><SCENE 2><53%>
+	Who doth he gallop withal?
+<SPEECH 57><ACT 3><SCENE 2><54%>
+	Who stays it still withal?
+<SPEECH 58><ACT 3><SCENE 2><54%>
+	Where dwell you, pretty youth?
+<SPEECH 59><ACT 3><SCENE 2><54%>
+	Are you native of this place?
+<SPEECH 60><ACT 3><SCENE 2><54%>
+	Your accent is something finer than you could purchase in so removed a dwelling.
+<SPEECH 61><ACT 3><SCENE 2><54%>
+	Can you remember any of the principal evils that he laid to the charge of women?
+<SPEECH 62><ACT 3><SCENE 2><54%>
+	I prithee, recount some of them.
+<SPEECH 63><ACT 3><SCENE 2><55%>
+	I am he that is so love-shaked. I pray you, tell me your remedy.
+<SPEECH 64><ACT 3><SCENE 2><55%>
+	What were his marks?
+<SPEECH 65><ACT 3><SCENE 2><55%>
+	Fair youth, I would I could make thee believe I love.
+<SPEECH 66><ACT 3><SCENE 2><56%>
+	I swear to thee, youth, by the white hand of Rosalind, I am that he, that unfortunate he.
+<SPEECH 67><ACT 3><SCENE 2><56%>
+	Neither rime nor reason can express how much.
+<SPEECH 68><ACT 3><SCENE 2><56%>
+	Did you ever cure any so?
+<SPEECH 69><ACT 3><SCENE 2><57%>
+	I would not be cured, youth.
+<SPEECH 70><ACT 3><SCENE 2><57%>
+	Now, by the faith of my love, I will: tell me where it is.
+<SPEECH 71><ACT 3><SCENE 2><57%>
+	With all my heart, good youth.
+<SPEECH 72><ACT 4><SCENE 1><69%>
+	Good day, and happiness, dear Rosalind!
+<SPEECH 73><ACT 4><SCENE 1><70%>
+	My fair Rosalind, I come within an hour of my promise.
+<SPEECH 74><ACT 4><SCENE 1><70%>
+	Pardon me, dear Rosalind.
+<SPEECH 75><ACT 4><SCENE 1><70%>
+	Of a snail!
+<SPEECH 76><ACT 4><SCENE 1><70%>
+	What's that?
+<SPEECH 77><ACT 4><SCENE 1><70%>
+	Virtue is no horn-maker; and my Rosalind is virtuous.
+<SPEECH 78><ACT 4><SCENE 1><71%>
+	I would kiss before I spoke.
+<SPEECH 79><ACT 4><SCENE 1><71%>
+	How if the kiss be denied?
+<SPEECH 80><ACT 4><SCENE 1><71%>
+	Who could be out, being before his beloved mistress?
+<SPEECH 81><ACT 4><SCENE 1><71%>
+	What, of my suit?
+<SPEECH 82><ACT 4><SCENE 1><71%>
+	I take some joy to say you are, because I would be talking of her.
+<SPEECH 83><ACT 4><SCENE 1><71%>
+	Then in mine own person I die.
+<SPEECH 84><ACT 4><SCENE 1><72%>
+	I would not have my right Rosalind of this mind; for, I protest, her frown might kill me.
+<SPEECH 85><ACT 4><SCENE 1><72%>
+	Then love me, Rosalind.
+<SPEECH 86><ACT 4><SCENE 1><72%>
+	And wilt thou have me?
+<SPEECH 87><ACT 4><SCENE 1><72%>
+	What sayest thou?
+<SPEECH 88><ACT 4><SCENE 1><72%>
+	I hope so.
+<SPEECH 89><ACT 4><SCENE 1><72%>
+	Pray thee, marry us.
+<SPEECH 90><ACT 4><SCENE 1><73%>
+	I will.
+<SPEECH 91><ACT 4><SCENE 1><73%>
+	Why now; as fast as she can marry us.
+<SPEECH 92><ACT 4><SCENE 1><73%>
+	I take thee, Rosalind, for wife.
+<SPEECH 93><ACT 4><SCENE 1><73%>
+	So do all thoughts; they are winged.
+<SPEECH 94><ACT 4><SCENE 1><73%>
+	For ever and a day.
+<SPEECH 95><ACT 4><SCENE 1><73%>
+	But will my Rosalind do so?
+<SPEECH 96><ACT 4><SCENE 1><73%>
+	O! but she is wise.
+<SPEECH 97><ACT 4><SCENE 1><74%>
+	A man that hath a wife with such a wit, he might say, 'Wit, whither wilt?'
+<SPEECH 98><ACT 4><SCENE 1><74%>
+	And what wit could wit have to excuse that?
+<SPEECH 99><ACT 4><SCENE 1><74%>
+	For these two hours, Rosalind, I will leave thee.
+<SPEECH 100><ACT 4><SCENE 1><74%>
+	I must attend the duke at dinner: by two o'clock I will be with thee again.
+<SPEECH 101><ACT 4><SCENE 1><74%>
+	Ay, sweet Rosalind.
+<SPEECH 102><ACT 4><SCENE 1><75%>
+	With no less religion than if thou wert indeed my Rosalind: so, adieu.
+<SPEECH 103><ACT 5><SCENE 2><85%>
+	Is't possible that on so little acquaintance you should like her? that, but seeing, you should love her? and, loving, woo? and, wooing, she should grant? and will you persever to enjoy her?
+<SPEECH 104><ACT 5><SCENE 2><86%>
+	You have my consent. Let your wedding be to-morrow: thither will I invite the duke and all's contented followers. Go you and prepare Aliena; for, look you, here comes my Rosalind.
+<SPEECH 105><ACT 5><SCENE 2><86%>
+	It is my arm.
+<SPEECH 106><ACT 5><SCENE 2><86%>
+	Wounded it is, but with the eyes of a lady.
+<SPEECH 107><ACT 5><SCENE 2><86%>
+	Ay, and greater wonders than that.
+<SPEECH 108><ACT 5><SCENE 2><87%>
+	They shall be married to-morrow, and I will bid the duke to the nuptial. But, O! how bitter a thing it is to look into happiness through another man's eyes. By so much the more shall I to-morrow be at the height of heart-heaviness, by how much I shall think my brother happy in having what he wishes for.
+<SPEECH 109><ACT 5><SCENE 2><87%>
+	I can live no longer by thinking.
+<SPEECH 110><ACT 5><SCENE 2><88%>
+	Speakest thou in sober meanings?
+<SPEECH 111><ACT 5><SCENE 2><88%>
+	And I for Rosalind.
+<SPEECH 112><ACT 5><SCENE 2><88%>
+	And I for Rosalind.
+<SPEECH 113><ACT 5><SCENE 2><89%>
+	And so am I for Rosalind.
+<SPEECH 114><ACT 5><SCENE 2><89%>
+	If this be so, why blame you me to love you?
+<SPEECH 115><ACT 5><SCENE 2><89%>
+	To her that is not here, nor doth not hear.
+<SPEECH 116><ACT 5><SCENE 2><90%>
+	Nor I.
+<SPEECH 117><ACT 5><SCENE 4><91%>
+	I sometimes do believe, and sometimes do not;
+	As those that fear they hope, and know they fear.
+<SPEECH 118><ACT 5><SCENE 4><92%>
+	That would I, were I of all kingdoms king.
+<SPEECH 119><ACT 5><SCENE 4><93%>
+	My lord, the first time that I ever saw him,
+	Methought he was a brother to your daughter;
+	But, my good lord, this boy is forest-born,
+	And hath been tutor'd in the rudiments
+	Of many desperate studies by his uncle,
+	Whom he reports to be a great magician,
+	Obscured in the circle of this forest.
+<SPEECH 120><ACT 5><SCENE 4><96%>
+	If there be truth in sight, you are my Rosalind.

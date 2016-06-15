@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 1><SCENE 4><14%>
+	Foolhardiness! not I.
+<SPEECH 2><ACT 1><SCENE 4><15%>
+	Following the fliers at the very heels,
+	With them he enters; who, upon the sudden,
+	Clapp'd-to their gates; he is himself alone,
+	To answer all the city.
+<SPEECH 3><ACT 1><SCENE 4><15%>
+	Look, sir!
+<SPEECH 4><ACT 1><SCENE X.— ><23%>
+	'Twill be deliver'd back on good condition.
+<SPEECH 5><ACT 1><SCENE X.— ><23%>
+	He's the devil.
+<SPEECH 6><ACT 1><SCENE X.— ><23%>
+	Will not you go?
+<SPEECH 7><ACT 1><SCENE X.— ><24%>
+	I shall, sir.

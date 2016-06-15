@@ -1,0 +1,392 @@
+<SPEECH 1><ACT 2><SCENE 2><24%>
+	The keeper of the prison, call to him;
+	Let him have knowledge who I am.—<STAGE DIR>
+	</STAGE DIR> Good lady,
+	No court in Europe is too good for thee;
+	What dost thou then in prison?
+	Now, good sir,
+	You know me, do you not?
+<SPEECH 2><ACT 2><SCENE 2><24%>
+	Pray you then,
+	Conduct me to the queen.
+<SPEECH 3><ACT 2><SCENE 2><24%>
+	Here's ado,
+	To lock up honesty and honour from
+	The access of gentle visitors! Is't lawful, pray you,
+	To see her women? any of them? Emilia?
+<SPEECH 4><ACT 2><SCENE 2><24%>
+	I pray now, call her.
+	Withdraw yourselves.
+<SPEECH 5><ACT 2><SCENE 2><24%>
+	Well, be't so, prithee.
+	Here's such ado to make no stain a stain,
+	As passes colouring.
+	Dear gentlewoman,
+	How fares our gracious lady?
+<SPEECH 6><ACT 2><SCENE 2><25%>
+	A boy?
+<SPEECH 7><ACT 2><SCENE 2><25%>
+	I dare be sworn:
+	These dangerous unsafe lunes i' the king, beshrew them!
+	He must be told on't, and he shall: the office
+	Becomes a woman best; I'll take't upon me.
+	If I prove honey-mouth'd, let my tongue blister,
+	And never to my red-look'd anger be
+	The trumpet any more. Pray you, Emilia,
+	Commend my best obedience to the queen:
+	If she dares trust me with her little babe,
+	I'll show it to the king and undertake to be
+	Her advocate to the loud'st. We do not know
+	How he may soften at the sight of the child:
+	The silence often of pure innocence
+	Persuades when speaking fails.
+<SPEECH 8><ACT 2><SCENE 2><26%>
+	Tell her, Emilia,
+	I'll use that tongue I have: if wit flow from't
+	As boldness from my bosom, let it not be doubted
+	I shall do good.
+<SPEECH 9><ACT 2><SCENE 2><26%>
+	You need not fear it, sir:
+	The child was prisoner to the womb, and is
+	By law and process of great nature thence
+	Freed and enfranchis'd; not a party to
+	The anger of the king, nor guilty of,
+	If any be, the trespass of the queen.
+<SPEECH 10><ACT 2><SCENE 2><26%>
+	Do not you fear: upon mine honour, I
+	Will stand betwixt you and danger.
+<SPEECH 11><ACT 2><SCENE 3><27%>
+	Nay, rather, good my lords, be second to me:
+	Fear you his tyrannous passion more, alas,
+	Than the queen's life? a gracious innocent soul,
+	More free than he is jealous.
+<SPEECH 12><ACT 2><SCENE 3><27%>
+	Not so hot, good sir;
+	I come to bring him sleep. 'Tis such as you,
+	That creep like shadows by him and do sigh
+	At each his needless heavings, such as you
+	Nourish the cause of his awaking: I
+	Do come with words as med'cinal as true,
+	Honest as either, to purge him of that humour
+	That presses him from sleep.
+<SPEECH 13><ACT 2><SCENE 3><28%>
+	No noise, my lord; but needful conference
+	About some gossips for your highness.
+<SPEECH 14><ACT 2><SCENE 3><28%>
+	From all dishonesty he can: in this,
+	Unless he take the course that you have done,
+	Commit me for committing honour, trust it,
+	He shall not rule me.
+<SPEECH 15><ACT 2><SCENE 3><28%>
+	Good my liege, I come,
+	And I beseech you, hear me, who professes
+	Myself your loyal servant, your physician,
+	Your most obedient counsellor, yet that dares
+	Less appear so in comforting your evils
+	Than such as most seem yours: I say, I come
+	From your good queen.
+<SPEECH 16><ACT 2><SCENE 3><28%>
+	Good queen, my lord, good queen; I say, good queen;
+	And would by combat make her good, so were I
+	A man, the worst about you.
+<SPEECH 17><ACT 2><SCENE 3><28%>
+	Let him that makes but trifles of his eyes
+	First hand me: on mine own accord I'll off;
+	But first I'll do my errand. The good queen,
+	For she is good, hath brought you forth a daughter:
+	Here 'tis; commends it to your blessing.
+<SPEECH 18><ACT 2><SCENE 3><29%>
+	Not so;
+	I am as ignorant in that as you
+	In so entitling me, and no less honest
+	Than you are mad; which is enough, I'll warrant,
+	As this world goes, to pass for honest.
+<SPEECH 19><ACT 2><SCENE 3><29%>
+	For ever
+	Unvenerable be thy hands, if thou
+	Tak'st up the princess by that forced baseness
+	Which he has put upon't!
+<SPEECH 20><ACT 2><SCENE 3><29%>
+	So I would you did; then, 'twere past all doubt,
+	You'd call your children yours.
+<SPEECH 21><ACT 2><SCENE 3><29%>
+	Nor I; nor any
+	But one that's here, and that's himself; for he
+	The sacred honour of himself, his queen's,
+	His hopeful son's, his babe's, betrays to slander,
+	Whose sting is sharper than the sword's; and will not,—
+	For, as the case now stands, it is a curse
+	He cannot be compell'd to't,—once remove
+	The root of his opinion, which is rotten
+	As ever oak or stone was sound.
+<SPEECH 22><ACT 2><SCENE 3><29%>
+	It is yours;
+	And, might we lay the old proverb to your charge,
+	'So like you, 'tis the worse.' Behold, my lords,
+	Although the print be little, the whole matter
+	And copy of the father; eye, nose, lip,
+	The trick of's frown, his forehead, nay, the valley,
+	The pretty dimples of his chin and cheek, his smiles,
+	The very mould and frame of hand, nail, finger:
+	And thou, good goddess Nature, which hast made it
+	So like to him that got it, if thou hast
+	The ordering of the mind too, 'mongst all colours
+	No yellow in't; lest she suspect, as he does,
+	Her children not her husband's.
+<SPEECH 23><ACT 2><SCENE 3><30%>
+	A most unworthy and unnatural lord
+	Can do no more.
+<SPEECH 24><ACT 2><SCENE 3><30%>
+	I care not:
+	It is a heretic that makes the fire,
+	Not she which burns in't. I'll not call you tyrant;
+	But this most cruel usage of your queen,—
+	Not able to produce more accusation
+	Than your own weak-hing'd fancy,—something savours
+	Of tyranny, and will ignoble make you,
+	Yea, scandalous to the world.
+<SPEECH 25><ACT 2><SCENE 3><30%>
+	I pray you do not push me; I'll be gone.
+	Look to your babe, my lord; 'tis yours: Jove send her
+	A better guiding spirit! What need these hands?
+	You, that are thus so tender o'er his follies,
+	Will never do him good, not one of you.
+	So, so: farewell; we are gone.
+<SPEECH 26><ACT 3><SCENE 2><39%>
+	This news is mortal to the queen:— look down,
+	And see what death is doing.
+<SPEECH 27><ACT 3><SCENE 2><40%>
+	Woe the while!
+	O, cut my lace, lest my heart, cracking it,
+	Break too!
+<SPEECH 28><ACT 3><SCENE 2><40%>
+	What studied torments, tyrant, hast for me?
+	What wheels? racks? fires? What flaying? or what boiling
+	In leads, or oils? what old or newer torture
+	Must I receive, whose every word deserves
+	To taste of thy most worst? Thy tyranny,
+	Together working with thy jealousies,
+	Fancies too weak for boys, too green and idle
+	For girls of nine, O! think what they have done,
+	And then run mad indeed, stark mad; for all
+	Thy by-gone fooleries were but spices of it.
+	That thou betray'dst Polixenes, 'twas nothing;
+	That did but show thee of a fool, inconstant
+	And damnable ingrateful; nor was't much
+	Thou wouldst have poison'd good Camillo's honour
+	To have him kill a king; poor trespasses,
+	More monstrous standing by: whereof I reckon
+	The casting forth to crows thy baby daughter
+	To be or none or little; though a devil
+	Would have shed water out of fire ere done't:
+	Nor is't directly laid to thee, the death
+	Of the young prince, whose honourable thoughts,—
+	Thoughts high for one so tender,—cleft the heart
+	That could conceive a gross and foolish sire
+	Blemish'd his gracious dam: this is not, no,
+	Laid to thy answer: but the last,—O lords!
+	When I have said, cry, 'woe!'—the queen, the queen,
+	The sweetest, dearest creature's dead, and vengeance for't
+	Not dropp'd down yet.
+<SPEECH 29><ACT 3><SCENE 2><41%>
+	I say she's dead; I'll swear't: if word nor oath
+	Prevail not, go and see: if you can bring
+	Tincture or lustre in her lip, her eye,
+	Heat outwardly, or breath within, I'll serve you
+	As I would do the gods. But, O thou tyrant!
+	Do not repent these things, for they are heavier
+	Than all thy woes can stir; therefore betake thee
+	To nothing but despair. A thousand knees
+	Ten thousand years together, naked, fasting,
+	Upon a barren mountain, and still winter
+	In storm perpetual, could not move the gods
+	To look that way thou wert.
+<SPEECH 30><ACT 3><SCENE 2><41%>
+	I am sorry for't:
+	All faults I make, when I shall come to know them,
+	I do repent. Alas! I have show'd too much
+	The rashness of a woman: he is touch'd
+	To the noble heart. What's gone and what's past help
+	Should be past grief: do not receive affliction
+	At my petition; I beseech you, rather
+	Let me be punish'd, that have minded you
+	Of what you should forget. Now, good my liege,
+	Sir, royal sir, forgive a foolish woman:
+	The love I bore your queen,—lo, fool again!—
+	I'll speak of her no more, nor of your children;
+	I'll not remember you of my own lord,
+	Who is lost too: take your patience to you,
+	And I'll say nothing.
+<SPEECH 31><ACT 5><SCENE 1><82%>
+	True, too true, my lord;
+	If one by one you wedded all the world,
+	Or from the all that are took something good,
+	To make a perfect woman, she you kill'd
+	Would be unparallel'd.
+<SPEECH 32><ACT 5><SCENE 1><82%>
+	You are one of those
+	Would have him wed again.
+<SPEECH 33><ACT 5><SCENE 1><82%>
+	There is none worthy,
+	Respecting her that's gone. Besides, the gods
+	Will have fulfill'd their secret purposes;
+	For has not the divine Apollo said,
+	Is't not the tenour of his oracle,
+	That King Leontes shall not have an heir
+	Till his lost child be found? which that it shall,
+	Is all as monstrous to our human reason
+	As my Antigonus to break his grave
+	And come again to me; who, on my life,
+	Did perish with the infant. 'Tis your counsel
+	My lord should to the heavens be contrary,
+	Oppose against their wills.—<STAGE DIR>
+	</STAGE DIR> Care not for issue;
+	The crown will find an heir: great Alexander
+	Left his to the worthiest, so his successor
+	Was like to be the best.
+<SPEECH 34><ACT 5><SCENE 1><83%>
+	And left them
+	More rich, for what they yielded.
+<SPEECH 35><ACT 5><SCENE 1><83%>
+	Had she such power,
+	She had just cause.
+<SPEECH 36><ACT 5><SCENE 1><83%>
+	I should so:
+	Were I the ghost that walk'd, I'd bid you mark
+	Her eye, and tell me for what dull part in't
+	You chose her; then I'd shriek, that even your ears
+	Should rift to hear me; and the words that follow'd
+	Should be 'Remember mine.'
+<SPEECH 37><ACT 5><SCENE 1><83%>
+	Will you swear
+	Never to marry but by my free leave?
+<SPEECH 38><ACT 5><SCENE 1><83%>
+	Then, good my lords, bear witness to his oath.
+<SPEECH 39><ACT 5><SCENE 1><84%>
+	Unless another,
+	As like Hermione as is her picture,
+	Affront his eye.
+<SPEECH 40><ACT 5><SCENE 1><84%>
+	I have done.
+	Yet, if my lord will marry,—if you will, sir,
+	No remedy, but you will,—give me the office
+	To choose you a queen, she shall not be so young
+	As was your former; but she shall be such
+	As, walk'd your first queen's ghost, it should take joy
+	To see her in your arms.
+<SPEECH 41><ACT 5><SCENE 1><84%>
+	That
+	Shall be when your first queen's again in breath;
+	Never till then.
+<SPEECH 42><ACT 5><SCENE 1><84%>
+	O Hermione!
+	As every present time doth boast itself
+	Above a better gone, so must thy grave
+	Give way to what's seen now. Sir, you yourself
+	Have said and writ so,—but your writing now
+	Is colder than that theme,—'She had not been,
+	Nor was not to be equall'd;' thus your verse
+	Flow'd with her beauty once: 'tis shrewdly ebb'd
+	To say you have seen a better.
+<SPEECH 43><ACT 5><SCENE 1><85%>
+	How! not women?
+<SPEECH 44><ACT 5><SCENE 1><85%>
+	Had our prince—
+	Jewel of children—seen this hour, he had pair'd
+	Well with this lord: there was not full a month
+	Between their births.
+<SPEECH 45><ACT 5><SCENE 1><88%>
+	Sir, my liege,
+	Your eye hath too much youth in't: not a month
+	'Fore your queen died, she was more worth such gazes
+	Than what you look on now.
+<SPEECH 46><ACT 5><SCENE 3><95%>
+	What, sovereign sir,
+	I did not well, I meant well. All my services
+	You have paid home; but that you have vouchsaf'd,
+	With your crown'd brother and these your contracted
+	Heirs of your kingdoms, my poor house to visit,
+	It is a surplus of your grace, which never
+	My life may last to answer.
+<SPEECH 47><ACT 5><SCENE 3><95%>
+	As she liv'd peerless,
+	So her dead likeness, I do well believe,
+	Excels whatever yet you look'd upon
+	Or hand of man hath done; therefore I keep it
+	Lonely, apart. But here it is: prepare
+	To see the life as lively mock'd as ever
+	Still sleep mock'd death: behold! and say 'tis well.
+	I like your silence: it the more shows off
+	Your wonder; but yet speak: first you, my liege.
+	Comes it not something near?
+<SPEECH 48><ACT 5><SCENE 3><96%>
+	So much the more our carver's excellence;
+	Which lets go by some sixteen years and makes her
+	As she liv'd now.
+<SPEECH 49><ACT 5><SCENE 3><96%>
+	O, patience!
+	The statue is but newly fix'd, the colour's
+	Not dry.
+<SPEECH 50><ACT 5><SCENE 3><97%>
+	Indeed, my lord,
+	If I had thought the sight of my poor image
+	Would thus have wrought you,—for the stone is mine,—
+	I'd not have show'd it.
+<SPEECH 51><ACT 5><SCENE 3><97%>
+	No longer shall you gaze on't, lest your fancy
+	May think anon it moves.
+<SPEECH 52><ACT 5><SCENE 3><97%>
+	I'll draw the curtain;
+	My lord's almost so far transported that
+	He'll think anon it lives.
+<SPEECH 53><ACT 5><SCENE 3><97%>
+	I am sorry, sir, I have thus far stirr'd you: but
+	I could afflict you further.
+<SPEECH 54><ACT 5><SCENE 3><97%>
+	Good my lord, forbear.
+	The ruddiness upon her lip is wet:
+	You'll mar it if you kiss it; stain your own
+	With oily painting. Shall I draw the curtain?
+<SPEECH 55><ACT 5><SCENE 3><98%>
+	Either forbear,
+	Quit presently the chapel, or resolve you
+	For more amazement. If you can behold it,
+	I'll make the statue move indeed, descend,
+	And take you by the hand; but then you'll think,—
+	Which I protest against,—I am assisted
+	By wicked powers.
+<SPEECH 56><ACT 5><SCENE 3><98%>
+	It is requir'd
+	You do awake your faith. Then, all stand still;
+	Or those that think it is unlawful business
+	I am about, let them depart.
+<SPEECH 57><ACT 5><SCENE 3><98%>
+	Music, awake her: strike!
+	'Tis time; descend; be stone no more: approach;
+	Strike all that look upon with marvel. Come;
+	I'll fill your grave up: stir; nay, come away;
+	Bequeath to death your numbness, for from him
+	Dear life redeems you. You perceive she stirs:
+	Start not; her actions shall be holy as
+	You hear my spell is lawful: do not shun her
+	Until you see her die again, for then
+	You kill her double. Nay, present your hand:
+	When she was young you woo'd her; now in age
+	Is she become the suitor!
+<SPEECH 58><ACT 5><SCENE 3><99%>
+	That she is living,
+	Were it but told you, should be hooted at
+	Like an old tale; but it appears she lives,
+	Though yet she speak not. Mark a little while.
+	Please you to interpose, fair madam. kneel
+	And pray your mother's blessing. Turn, good lady;
+	Our Perdita is found.
+<SPEECH 59><ACT 5><SCENE 3><99%>
+	There's time enough for that;
+	Lest they desire upon this push to trouble
+	Your joys with like relation. Go together,
+	You precious winners all: your exultation
+	Partake to every one. I, an old turtle,
+	Will wing me to some wither'd bough, and there
+	My mate, that's never to be found again,
+	Lament till I am lost.

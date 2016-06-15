@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 1><SCENE 3><15%>
+	Fie, lords! that you, being supreme magistrates,
+	Thus contumeliously should break the peace!
+<SPEECH 2><ACT 1><SCENE 3><15%>
+	Nought rests for me, in this tumultuous strife
+	But to make open proclamation.
+	Come, officer: as loud as e'er thou canst;
+	Cry.
+<SPEECH 3><ACT 1><SCENE 3><16%>
+	I'll call for clubs if you will not away.
+	This cardinal's more haughty than the devil.
+<SPEECH 4><ACT 1><SCENE 3><16%>
+	See the coast clear'd, and then we will depart.
+	Good God! these nobles should such stomachs bear;
+	I myself fight not once in forty year.
+<SPEECH 5><ACT 3><SCENE 1><44%>
+	O, my good lords, and virtuous Henry,
+	Pity the city of London, pity us!
+	The bishop and the Duke of Gloucester's men,
+	Forbidden late to carry any weapon,
+	Have fill'd their pockets full of pebble stones,
+	And banding themselves in contrary parts
+	Do pelt so fast at one another's pate,
+	That many have their giddy brains knock'd out:
+	Our windows are broke down in every street,
+	And we for fear compell'd to shut our shops.

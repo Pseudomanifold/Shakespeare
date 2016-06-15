@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 4><SCENE 3><68%>
+	How now!—
+	How now!—do you hear this?
+<SPEECH 2><ACT 4><SCENE 3><68%>
+	</STAGE DIR> Content.—'Tis strange.

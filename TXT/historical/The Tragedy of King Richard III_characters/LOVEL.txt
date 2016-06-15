@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 3><SCENE 4><53%>
+	Come, come, dispatch; 'tis bootless to exclaim.
+<SPEECH 2><ACT 3><SCENE 5><54%>
+	Here is the head of that ignoble traitor,
+	The dangerous and unsuspected Hastings.

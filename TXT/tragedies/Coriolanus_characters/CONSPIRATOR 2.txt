@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 5><SCENE 5><96%>
+	Most noble sir,
+	If you do hold the same intent wherein
+	You wish'd us parties, we'll deliver you
+	Of your great danger.
+<SPEECH 2><ACT 5><SCENE 5><97%>
+	And patient fools,
+	Whose children he hath slain, their base throats tear
+	With giving him glory.

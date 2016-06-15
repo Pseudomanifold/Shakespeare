@@ -1,0 +1,213 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	My Lord Bassanio, since you have found Antonio,
+	We too will leave you; but, at dinner-time,
+	I pray you, have in mind where we must meet.
+<SPEECH 2><ACT 1><SCENE 1><4%>
+	Well, we will leave you then till dinner-time.
+	I must be one of these same dumb-wise men,
+	For Gratiano never lets me speak.
+<SPEECH 3><ACT 2><SCENE 4><30%>
+	Nay, we will slink away in supper-time,
+	Disguise us at my lodging, and return
+	All in an hour.
+<SPEECH 4><ACT 2><SCENE 4><30%>
+	'Tis now but four o'clock: we have two hours
+	To furnish us.
+	Friend Launcelot, what's the news?
+<SPEECH 5><ACT 2><SCENE 4><30%>
+	I know the hand: in faith, 'tis a fair hand;
+	And whiter than the paper it writ on
+	Is the fair hand that writ.
+<SPEECH 6><ACT 2><SCENE 4><30%>
+	Whither goest thou?
+<SPEECH 7><ACT 2><SCENE 4><30%>
+	Hold here, take this: tell gentle Jessica
+	I will not fail her; speak it privately.
+	Go, gentlemen,
+	Will you prepare you for this masque to-night?
+	I am provided of a torch-bearer.
+<SPEECH 8><ACT 2><SCENE 4><31%>
+	Meet me and Gratiano
+	At Gratiano's lodging some hour hence.
+<SPEECH 9><ACT 2><SCENE 4><31%>
+	I must needs tell thee all. She hath directed
+	How I shall take her from her father's house;
+	What gold and jewels she is furnish'd with;
+	What page's suit she hath in readiness.
+	If e'er the Jew her father come to heaven,
+	It will be for his gentle daughter's sake;
+	And never dare misfortune cross her foot,
+	Unless she do it under this excuse,
+	That she is issue to a faithless Jew.
+	Come, go with me: peruse this as thou goest.
+	Fair Jessica shall be my torch-bearer.
+<SPEECH 10><ACT 2><SCENE 6><34%>
+	Sweet friends, your patience for my long abode;
+	Not I, but my affairs, have made you wait:
+	When you shall please to play the thieves for wives,
+	I'll watch as long for you then. Approach;
+	Here dwells my father Jew. Ho! who's within?
+<SPEECH 11><ACT 2><SCENE 6><35%>
+	Lorenzo, and thy love.
+<SPEECH 12><ACT 2><SCENE 6><35%>
+	Heaven and thy thoughts are witness that thou art.
+<SPEECH 13><ACT 2><SCENE 6><35%>
+	Descend, for you must be my torch-bearer.
+<SPEECH 14><ACT 2><SCENE 6><35%>
+	So are you, sweet,
+	Even in the lovely garnish of a boy.
+	But come at once;
+	For the close night doth play the runaway,
+	And we are stay'd for at Bassanio's feast.
+<SPEECH 15><ACT 2><SCENE 6><36%>
+	Beshrew me, but I love her heartily;
+	For she is wise, if I can judge of her,
+	And fair she is, if that mine eyes be true,
+	And true she is, as she hath prov'd herself;
+	And therefore, like herself, wise, fair, and true,
+	Shall she be placed in my constant soul.
+	What, art thou come? On, gentlemen; away!
+	Our masquing mates by this time for us stay.
+<SPEECH 16><ACT 3><SCENE 2><58%>
+	I thank your honour. For my part, my lord,
+	My purpose was not to have seen you here;
+	But meeting with Salanio by the way,
+	He did entreat me, past all saying nay,
+	To come with him along.
+<SPEECH 17><ACT 3><SCENE 4><64%>
+	Madam, although I speak it in your presence,
+	You have a noble and a true conceit
+	Of god-like amity; which appears most strongly
+	In bearing thus the absence of your lord.
+	But if you knew to whom you show this honour,
+	How true a gentleman you send relief,
+	How dear a lover of my lord your husband,
+	I know you would be prouder of the work
+	Than customary bounty can enforce you.
+<SPEECH 18><ACT 3><SCENE 4><65%>
+	Madam, with all my heart:
+	I shall obey you in all fair commands.
+<SPEECH 19><ACT 3><SCENE 4><65%>
+	Fair thoughts and happy hours attend on you!
+<SPEECH 20><ACT 3><SCENE 5><68%>
+	I shall grow jealous of you shortly, Launcelot, if you thus get my wife into corners.
+<SPEECH 21><ACT 3><SCENE 5><68%>
+	I shall answer that better to the commonwealth than you can the getting up of the negro's belly: the Moor is with child by you, Launcelot.
+<SPEECH 22><ACT 3><SCENE 5><68%>
+	How every fool can play upon the word! I think the best grace of wit will shortly turn into silence, and discourse grow commendable in none only but parrots. Go in, sirrah: bid them prepare for dinner.
+<SPEECH 23><ACT 3><SCENE 5><68%>
+	Goodly Lord, what a wit-snapper are you! then bid them prepare dinner.
+<SPEECH 24><ACT 3><SCENE 5><69%>
+	Will you cover, then, sir?
+<SPEECH 25><ACT 3><SCENE 5><69%>
+	Yet more quarrelling with occasion! Wilt thou show the whole wealth of thy wit in an instant? I pray thee, understand a plain man in his plain meaning: go to thy fellows; bid them cover the table, serve in the meat, and we will come in to dinner.
+<SPEECH 26><ACT 3><SCENE 5><69%>
+	O dear discretion, how his words are suited!
+	The fool hath planted in his memory
+	An army of good words: and I do know
+	A many fools, that stand in better place,
+	Garnish'd like him, that for a tricksy word
+	Defy the matter. How cheer'st thou, Jessica?
+	And now, good sweet, say thy opinion;
+	How dost thou like the Lord Bassanio's wife?
+<SPEECH 27><ACT 3><SCENE 5><70%>
+	Even such a husband
+	Hast thou of me as she is for a wife.
+<SPEECH 28><ACT 3><SCENE 5><70%>
+	I will anon; first, let us go to dinner.
+<SPEECH 29><ACT 3><SCENE 5><70%>
+	No, pray thee, let it serve for table-talk; Then howsoe'er thou speak'st, 'mong other things I shall digest it.
+<SPEECH 30><ACT 5><SCENE 1><88%>
+	The moon shines bright: in such a night as this,
+	When the sweet wind did gently kiss the trees
+	And they did make no noise, in such a night
+	Troilus methinks mounted the Troyan walls,
+	And sigh'd his soul toward the Grecian tents,
+	Where Cressid lay that night.
+<SPEECH 31><ACT 5><SCENE 1><89%>
+	In such a night
+	Stood Dido with a willow in her hand
+	Upon the wild sea-banks, and waft her love
+	To come again to Carthage.
+<SPEECH 32><ACT 5><SCENE 1><89%>
+	In such a night
+	Did Jessica steal from the wealthy Jew,
+	And with an unthrift love did run from Venice,
+	As far as Belmont.
+<SPEECH 33><ACT 5><SCENE 1><89%>
+	In such a night
+	Did pretty Jessica, like a little shrew,
+	Slander her love, and he forgave it her.
+<SPEECH 34><ACT 5><SCENE 1><89%>
+	Who comes so fast in silence of the night?
+<SPEECH 35><ACT 5><SCENE 1><89%>
+	A friend! what friend? your name, I pray you, friend.
+<SPEECH 36><ACT 5><SCENE 1><90%>
+	Who comes with her?
+<SPEECH 37><ACT 5><SCENE 1><90%>
+	He is not, nor we have not heard from him.
+	But go we in, I pray thee, Jessica,
+	And ceremoniously let us prepare
+	Some welcome for the mistress of the house.
+<SPEECH 38><ACT 5><SCENE 1><90%>
+	Who calls?
+<SPEECH 39><ACT 5><SCENE 1><90%>
+	Leave hollaing, man; here.
+<SPEECH 40><ACT 5><SCENE 1><90%>
+	Here.
+<SPEECH 41><ACT 5><SCENE 1><90%>
+	Sweet soul, let's in, and there expect their coming.
+	And yet no matter; why should we go in?
+	My friend Stephano, signify, I pray you,
+	Within the house, your mistress is at hand;
+	And bring your music forth into the air.
+	How sweet the moonlight sleeps upon this bank!
+	Here will we sit, and let the sounds of music
+	Creep in our ears: soft stillness and the night
+	Become the touches of sweet harmony.
+	Sit, Jessica: look, how the floor of heaven
+	Is thick inlaid with patines of bright gold:
+	There's not the smallest orb which thou behold'st
+	But in his motion like an angel sings,
+	Still quiring to the young-eyed cherubins;
+	Such harmony is in immortal souls;
+	But, whilst this muddy vesture of decay
+	Doth grossly close it in, we cannot hear it.
+	Come, ho! and wake Diana with a hymn:
+	With sweetest touches pierce your mistress' ear,
+	And draw her home with music.
+<SPEECH 42><ACT 5><SCENE 1><91%>
+	The reason is, your spirits are attentive:
+	For do but note a wild and wanton herd,
+	Or race of youthful and unhandled colts,
+	Fetching mad bounds, bellowing and neighing loud,
+	Which is the hot condition of their blood;
+	If they but hear perchance a trumpet sound,
+	Or any air of music touch their ears,
+	You shall perceive them make a mutual stand,
+	Their savage eyes turn'd to a modest gaze
+	By the sweet power of music: therefore the poet
+	Did feign that Orpheus drew trees, stones, and floods;
+	Since nought so stockish, hard, and full of rage,
+	But music for the time doth change his nature.
+	The man that hath no music in himself,
+	Nor is not mov'd with concord of sweet sounds,
+	Is fit for treasons, stratagems, and spoils;
+	The motions of his spirit are dull as night,
+	And his affections dark as Erebus:
+	Let no such man be trusted. Mark the music.
+<SPEECH 43><ACT 5><SCENE 1><93%>
+	That is the voice,
+	Or I am much deceiv'd, of Portia.
+<SPEECH 44><ACT 5><SCENE 1><93%>
+	Dear lady, welcome home.
+<SPEECH 45><ACT 5><SCENE 1><93%>
+	Madam, they are not yet;
+	But there is come a messenger before,
+	To signify their coming.
+<SPEECH 46><ACT 5><SCENE 1><93%>
+	Your husband is at hand; I hear his trumpet:
+	We are no tell-tales, madam; fear you not.
+<SPEECH 47><ACT 5><SCENE 1><99%>
+	Fair ladies, you drop manna in the way
+	Of starved people.

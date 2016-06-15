@@ -1,0 +1,45 @@
+<SPEECH 1><ACT 3><SCENE 6><46%>
+	You know me by my habit.
+<SPEECH 2><ACT 3><SCENE 6><46%>
+	My master's mind.
+<SPEECH 3><ACT 3><SCENE 6><46%>
+	Thus says my king: Say thou to Harry of England: Though we seemed dead, we did but sleep: advantage is a better soldier than rashness. Tell him, we could have rebuked him at Harfleur, but that we thought not good to bruise an injury till it were full ripe: now we speak upon our cue, and our voice is imperial: England shall repent his folly, see his weakness, and admire our sufferance. Bid him therefore consider of his ransom; which must proportion the losses we have borne, the subjects we have lost, the disgrace we have digested; which, in weight to re-answer, his pettiness would bow under. For our losses, his exchequer is too poor; for the effusion of our blood, the muster of his kingdom too faint a number; and for our disgrace, his own person, kneeling at our feet, but a weak and worthless satisfaction. To this add defiance: and tell him, for conclusion, he hath betrayed his followers, whose condemnation is pronounced. So far my king and master, so much my office.
+<SPEECH 4><ACT 3><SCENE 6><47%>
+	Montjoy.
+<SPEECH 5><ACT 3><SCENE 6><48%>
+	I shall deliver so. Thanks to your highness.
+<SPEECH 6><ACT 4><SCENE 3><68%>
+	Once more I come to know of thee, King Harry,
+	If for thy ransom thou wilt now compound,
+	Before thy most assured overthrow:
+	For certainly thou art so near the gulf
+	Thou needs must be englutted. Besides, in mercy,
+	The constable desires thee thou wilt mind
+	Thy followers of repentance; that their souls
+	May make a peaceful and a sweet retire
+	From off these fields, where, wretches, their poor bodies
+	Must lie and fester.
+<SPEECH 7><ACT 4><SCENE 3><68%>
+	The Constable of France.
+<SPEECH 8><ACT 4><SCENE 3><70%>
+	I shall, King Harry. And so, fare thee well:
+	Thou never shalt hear herald any more.
+<SPEECH 9><ACT 4><SCENE 7><76%>
+	No, great king.
+	I come to thee for charitable licence,
+	That we may wander o'er this bloody field
+	To book our dead, and then to bury them;
+	To sort our nobles from our common men;
+	For many of our princes—woe the while!—
+	Lie drown'd and soak'd in mercenary blood;
+	So do our vulgar drench their peasant limbs
+	In blood of princes; and their wounded steeds
+	Fret fetlock-deep in gore, and with wild rage
+	Yerk out their armed heels at their dead masters,
+	Killing them twice. O! give us leave, great king,
+	To view the field in safety and dispose
+	Of their dead bodies.
+<SPEECH 10><ACT 4><SCENE 7><77%>
+	The day is yours.
+<SPEECH 11><ACT 4><SCENE 7><77%>
+	They call it Agincourt.

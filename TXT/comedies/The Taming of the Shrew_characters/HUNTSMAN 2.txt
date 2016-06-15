@@ -1,0 +1,5 @@
+<SPEECH 1><SCENE 1><2%>
+	He breathes, my lord. Were he not warm'd with ale,
+	This were a bed but cold to sleep so soundly.
+<SPEECH 2><SCENE 1><2%>
+	It would seem strange unto him when he wak'd.

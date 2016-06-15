@@ -1,0 +1,31 @@
+<SPEECH 1><ACT 1><SCENE 3><13%>
+	Ah, whither shall I fly to 'scape their hands?
+	Ah! tutor, look, where bloody Clifford comes!
+<SPEECH 2><ACT 1><SCENE 3><13%>
+	So looks the pent-up lion o'er the wretch
+	That trembles under his devouring paws;
+	And so he walks, insulting o'er his prey,
+	And so he comes to rend his limbs asunder.
+	Ah! gentle Clifford, kill me with thy sword,
+	And not with such a cruel threatening look.
+	Sweet Clifford! hear me speak before I die:
+	I am too mean a subject for thy wrath;
+	Be thou reveng'd on men, and let me live.
+<SPEECH 3><ACT 1><SCENE 3><14%>
+	Then let my father's blood open it again:
+	He is a man, and, Clifford, cope with him.
+<SPEECH 4><ACT 1><SCENE 3><14%>
+	O! let me pray before I take my death.
+	To thee I pray; sweet Clifford, pity me!
+<SPEECH 5><ACT 1><SCENE 3><14%>
+	I never did thee harm: why wilt thou slay me?
+<SPEECH 6><ACT 1><SCENE 3><14%>
+	But 'twas ere I was born.
+	Thou hast one son; for his sake pity me,
+	Lest in revenge thereof, sith God is just,
+	He be as miserably slain as I.
+	Ah! let me live in prison all my days;
+	And when I give occasion of offence,
+	Then let me die, for now thou hast no cause.
+<SPEECH 7><ACT 1><SCENE 3><14%>
+	Dii faciant laudis summa sit ista tuœ!

@@ -1,0 +1,141 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+	God make your majesty joyful as you have been!
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	I do beseech you, either not believe
+	The envious slanders of her false accusers;
+	Or, if she be accus'd on true report,
+	Bear with her weakness, which, I think, proceeds
+	From wayward sickness, and no grounded malice.
+<SPEECH 3><ACT 1><SCENE 3><13%>
+	But now the Duke of Buckingham and I,
+	Are come from visiting his majesty.
+<SPEECH 4><ACT 2><SCENE 1><31%>
+	A boon, my sov'reign, for my service done!
+<SPEECH 5><ACT 2><SCENE 1><31%>
+	I will not rise, unless your highness hear me.
+<SPEECH 6><ACT 2><SCENE 1><31%>
+	The forfeit, sovereign, of my servant's life;
+	Who slew to-day a riotous gentleman
+	Lately attendant on the Duke of Norfolk.
+<SPEECH 7><ACT 3><SCENE 2><48%>
+	My lord, good morrow; good morrow Catesby:
+	You may jest on, but by the holy rood,
+	I do not like these several councils, I.
+<SPEECH 8><ACT 3><SCENE 2><48%>
+	The lords at Pomfret, when they rode from London,
+	Were jocund and suppos'd their state was sure,
+	And they indeed had no cause to mistrust;
+	But yet you see how soon the day o'ercast.
+	This sudden stab of rancour I misdoubt;
+	Pray God, I say, I prove a needless coward!
+	What, shall we toward the Tower? the day is spent.
+<SPEECH 9><ACT 3><SCENE 2><48%>
+	They, for their truth, might better wear their heads,
+	Than some that have accus'd them wear their hats.
+	But come, my lord, let's away.
+<SPEECH 10><ACT 3><SCENE 4><50%>
+	It is; and wants but nomination.
+<SPEECH 11><ACT 3><SCENE 4><51%>
+	We have not yet set down this day of triumph.
+	To-morrow, in my judgment, is too sudden;
+	For I myself am not so well provided
+	As else I would be, were the day prolong'd.
+<SPEECH 12><ACT 3><SCENE 4><51%>
+	What of his heart perceiv'd you in his face
+	By any livelihood he show'd to-day?
+<SPEECH 13><ACT 4><SCENE 1><64%>
+	Let me but meet you, ladies, one hour hence,
+	And I'll salute your Grace of York as mother,
+	And reverend looker-on of two fair queens.
+	</STAGE DIR> Come, madam, you must straight to Westminster,
+	There to be crowned Richard's royal queen.
+<SPEECH 14><ACT 4><SCENE 1><64%>
+	Full of wise care is this your counsel, madam.
+	</STAGE DIR> Take all the swift advantage of the hours;
+	You shall have letters from me to my son
+	In your behalf, to meet you on the way:
+	Be not ta'en tardy by unwise delay.
+<SPEECH 15><ACT 4><SCENE 1><64%>
+	Come, madam, come; I in all haste was sent.
+<SPEECH 16><ACT 4><SCENE 2><67%>
+	Know, my loving lord,
+	The Marquess Dorset, as I hear, is fled
+	To Richmond, in the parts where he abides.
+<SPEECH 17><ACT 4><SCENE 4><83%>
+	None good, my liege, to please you with the hearing;
+	Nor none so bad but well may be reported.
+<SPEECH 18><ACT 4><SCENE 4><83%>
+	Richmond is on the seas.
+<SPEECH 19><ACT 4><SCENE 4><84%>
+	I know not, mighty sovereign, but by guess.
+<SPEECH 20><ACT 4><SCENE 4><84%>
+	Stirr'd up by Dorset, Buckingham, and Morton,
+	He makes for England, here to claim the crown.
+<SPEECH 21><ACT 4><SCENE 4><84%>
+	Unless for that, my liege, I cannot guess.
+<SPEECH 22><ACT 4><SCENE 4><84%>
+	No, my good lord; therefore mistrust me not.
+<SPEECH 23><ACT 4><SCENE 4><84%>
+	No, my good lord, my friends are in the north.
+<SPEECH 24><ACT 4><SCENE 4><84%>
+	They have not been commanded, mighty king:
+	Pleaseth your majesty to give me leave,
+	I'll muster up my friends, and meet your Grace,
+	Where and what time your majesty shall please.
+<SPEECH 25><ACT 4><SCENE 4><84%>
+	Most mighty sovereign,
+	You have no cause to hold my friendship doubtful.
+	I never was nor never will be false.
+<SPEECH 26><ACT 4><SCENE 4><84%>
+	So deal with him as I prove true to you.
+<SPEECH 27><ACT 4><SCENE 5><86%>
+	Sir Christopher, tell Richmond this from me:
+	That in the sty of this most bloody boar
+	My son George Stanley is frank'd up in hold:
+	If I revolt, off goes young George's head;
+	The fear of that holds off my present aid.
+	So, get thee gone: commend me to thy lord.
+	Withal, say that the queen hath heartily consented
+	He should espouse Elizabeth her daughter.
+	But, tell me, where is princely Richmond now?
+<SPEECH 28><ACT 4><SCENE 5><86%>
+	What men of name resort to him?
+<SPEECH 29><ACT 4><SCENE 5><86%>
+	Well, hie thee to thy lord; I kiss his hand:
+	My letter will resolve him of my mind.
+	Farewell.
+<SPEECH 30><ACT 5><SCENE 3><90%>
+	Fortune and victory sit on thy helm!
+<SPEECH 31><ACT 5><SCENE 3><90%>
+	I, by attorney, bless thee from thy mother,
+	Who prays continually for Richmond's good:
+	So much for that. The silent hours steal on,
+	And flaky darkness breaks within the east.
+	In brief, for so the season bids us be,
+	Prepare thy battle early in the morning,
+	And put thy fortune to the arbitrement
+	Of bloody strokes and mortal-staring war.
+	I, as I may,—that which I would I cannot,—
+	With best advantage will deceive the time,
+	And aid thee in this doubtful shock of arms:
+	But on thy side I may not be too forward,
+	Lest, being seen, thy brother, tender George,
+	Be executed in his father's sight.
+	Farewell: the leisure and the fearful time
+	Cuts off the ceremonious vows of love
+	And ample interchange of sweet discourse,
+	Which so long sunder'd friends should dwell upon:
+	God give us leisure for these rites of love!
+	Once more, adieu: be valiant, and speed well!
+<SPEECH 32><ACT 5><SCENE 4><99%>
+	Courageous Richmond, well hast thou acquit thee!
+	Lo! here, this long-usurped royalty
+	From the dead temples of this bloody wretch
+	Have I pluck'd off, to grace thy brows withal:
+	Wear it, enjoy it, and make much of it.
+<SPEECH 33><ACT 5><SCENE 4><99%>
+	He is, my lord, and safe in Leicester town;
+	Whither, if you please, we may withdraw us.
+<SPEECH 34><ACT 5><SCENE 4><99%>
+	John Duke of Norfolk, Walter Lord Ferrers,
+	Sir Robert Brakenbury, and Sir William Brandon.

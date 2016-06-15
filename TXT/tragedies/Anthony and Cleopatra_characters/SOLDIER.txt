@@ -1,0 +1,51 @@
+<SPEECH 1><ACT 3><SCENE 7><52%>
+	O noble emperor! do not fight by sea;
+	Trust not to rotten planks: do you misdoubt
+	This sword and these my wounds? Let the Egyptians
+	And the Phœnicians go a-ducking; we
+	Have used to conquer, standing on the earth,
+	And fighting foot to foot.
+<SPEECH 2><ACT 3><SCENE 7><53%>
+	By Hercules, I think I am i' the right.
+<SPEECH 3><ACT 3><SCENE 7><53%>
+	You keep by land
+	The legions and the horse whole, do you not?
+<SPEECH 4><ACT 3><SCENE 7><53%>
+	While he was yet in Rome
+	His power went out in such distractions as
+	Beguil'd all spies.
+<SPEECH 5><ACT 3><SCENE 7><53%>
+	They say, one Taurus.
+<SPEECH 6><ACT 4><SCENE 4><69%>
+	A thousand, sir,
+	Early though 't be, have on their riveted trim,
+	And at the port expect you.
+<SPEECH 7><ACT 4><SCENE 5><70%>
+	The gods make this a happy day to Antony!
+<SPEECH 8><ACT 4><SCENE 5><70%>
+	Hadst thou done so,
+	The kings that have revolted, and the soldier
+	That has this morning left thee, would have still
+	Follow'd thy heels.
+<SPEECH 9><ACT 4><SCENE 5><70%>
+	Who!
+	One ever near thee: call for Enobarbus,
+	He shall not hear thee; or from Cæsar's camp
+	Say, 'I am none of thine.'
+<SPEECH 10><ACT 4><SCENE 5><70%>
+	Sir,
+	He is with Cæsar.
+<SPEECH 11><ACT 4><SCENE 5><70%>
+	Most certain.
+<SPEECH 12><ACT 4><SCENE 6><71%>
+	Enobarbus, Antony
+	Hath after thee sent all thy treasure, with
+	His bounty overplus: the messenger
+	Came on my guard; and at thy tent is now
+	Unloading of his mules.
+<SPEECH 13><ACT 4><SCENE 6><71%>
+	Mock not, Enobarbus.
+	I tell you true: best you saf'd the bringer
+	Out of the host; I must attend mine office
+	Or would have done 't myself. Your emperor
+	Continues still a Jove.

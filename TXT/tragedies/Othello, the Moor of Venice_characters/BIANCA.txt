@@ -1,0 +1,41 @@
+<SPEECH 1><ACT 3><SCENE 4><64%>
+	Save you, friend Cassio!
+<SPEECH 2><ACT 3><SCENE 4><64%>
+	And I was going to your lodging, Cassio.
+	What! keep a week away? seven days and nights?
+	Eight score eight hours? and lovers' absent hours,
+	More tedious than the dial eight score times?
+	O weary reckoning!
+<SPEECH 3><ACT 3><SCENE 4><64%>
+	O Cassio! whence came this?
+	This is some token from a newer friend;
+	To the felt absence now I feel a cause;
+	Is 't come to this? Well, well.
+<SPEECH 4><ACT 3><SCENE 4><64%>
+	Why, whose is it?
+<SPEECH 5><ACT 3><SCENE 4><64%>
+	Leave you! wherefore?
+<SPEECH 6><ACT 3><SCENE 4><64%>
+	Why, I pray you?
+<SPEECH 7><ACT 3><SCENE 4><64%>
+	But that you do not love me.
+	I pray you, bring me on the way a little
+	And say if I shall see you soon at night.
+<SPEECH 8><ACT 3><SCENE 4><65%>
+	'Tis very good; I must be circumstanc'd.
+<SPEECH 9><ACT 4><SCENE 1><69%>
+	Let the devil and his dam haunt you! What did you mean by that same handkerchief you gave me even now? I was a fine fool to take it. I must take out the work! A likely piece of work, that you should find it in your chamber, and not know who left it there! This is some minx's token, and I must take out the work! There, give it your hobby-horse; wheresoever you had it I'll take out no work on 't.
+<SPEECH 10><ACT 4><SCENE 1><69%>
+	An you'll come to supper to-night, you may; an you will not, come when you are next prepared for.
+<SPEECH 11><ACT 5><SCENE 1><87%>
+	What is the matter, ho? who is 't that cried?
+<SPEECH 12><ACT 5><SCENE 1><87%>
+	O my dear Cassio! my sweet Cassio!
+	O Cassio, Cassio, Cassio!
+<SPEECH 13><ACT 5><SCENE 1><87%>
+	Alas! he faints! O Cassio, Cassio, Cassio!
+<SPEECH 14><ACT 5><SCENE 1><88%>
+	He supp'd at my house; but I therefore shake not.
+<SPEECH 15><ACT 5><SCENE 1><88%>
+	I am no strumpet, but of life as honest
+	As you that thus abuse me.

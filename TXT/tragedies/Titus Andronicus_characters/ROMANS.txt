@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 5><SCENE 3><97%>
+	Lucius, all hail! Rome's royal emperor!
+<SPEECH 2><ACT 5><SCENE 3><98%>
+	Lucius, all hail! Rome's gracious governor!

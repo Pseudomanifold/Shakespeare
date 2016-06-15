@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 5><SCENE 2><86%>
+	Yes, my lord;
+	But yet I cannot help you.
+<SPEECH 2><ACT 5><SCENE 2><86%>
+	Your Grace must wait till you be call'd for.
+<SPEECH 3><ACT 5><SCENE 3><88%>
+	Without, my noble lords?
+<SPEECH 4><ACT 5><SCENE 3><88%>
+	My lord archbishop:
+	And has done half-an-hour, to know your pleasures.
+<SPEECH 5><ACT 5><SCENE 3><88%>
+	Your Grace may enter now.

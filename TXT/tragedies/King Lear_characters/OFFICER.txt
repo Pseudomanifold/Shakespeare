@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 5><SCENE 3><90%>
+	I'll do't, my lord.
+<SPEECH 2><ACT 5><SCENE 3><91%>
+	I cannot draw a cart nor eat dried oats;
+	If it be man's work I will do it.
+<SPEECH 3><ACT 5><SCENE 3><93%>
+	Sound, trumpet!
+<SPEECH 4><ACT 5><SCENE 3><98%>
+	'Tis true, my lord, he did.
+<SPEECH 5><ACT 5><SCENE 3><99%>
+	Edmund is dead, my lord.

@@ -1,0 +1,14 @@
+<SPEECH 1><ACT 2><SCENE 1><19%>
+	It is entered.
+<SPEECH 2><ACT 2><SCENE 1><19%>
+	Sirrah, where's Snare?
+<SPEECH 3><ACT 2><SCENE 1><19%>
+	Snare, we must arrest Sir John Falstaff.
+<SPEECH 4><ACT 2><SCENE 1><19%>
+	If I can close with him I care not for his thrust.
+<SPEECH 5><ACT 2><SCENE 1><20%>
+	An I but fist him once; an a' come but within my vice,—
+<SPEECH 6><ACT 2><SCENE 1><20%>
+	Sir John, I arrest you at the suit of Mistress Quickly.
+<SPEECH 7><ACT 2><SCENE 1><21%>
+	A rescue! a rescue!

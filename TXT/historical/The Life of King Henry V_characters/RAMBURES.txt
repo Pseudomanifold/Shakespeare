@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 3><SCENE 7><50%>
+	My lord constable, the armour that I saw in your tent to-night, are those stars or suns upon it?
+<SPEECH 2><ACT 3><SCENE 7><51%>
+	Who will go to hazard with me for twenty prisoners?
+<SPEECH 3><ACT 3><SCENE 7><51%>
+	He longs to eat the English.
+<SPEECH 4><ACT 3><SCENE 7><52%>
+	That island of England breeds very valiant creatures: their mastiffs are of unmatchable courage.
+<SPEECH 5><ACT 4><SCENE 2><64%>
+	What! will you have them weep our horses' blood?
+	How shall we then behold their natural tears?

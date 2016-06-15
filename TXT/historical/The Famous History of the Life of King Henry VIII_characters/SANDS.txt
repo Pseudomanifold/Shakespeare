@@ -1,0 +1,65 @@
+<SPEECH 1><ACT 1><SCENE 3><16%>
+	New customs,
+	Though they be never so ridiculous,
+	Nay, let 'em be unmanly, yet are follow'd.
+<SPEECH 2><ACT 1><SCENE 3><16%>
+	They have all new legs, and lame ones: one would take it,
+	That never saw 'em pace before, the spavin
+	Or springhalt reign'd among 'em.
+<SPEECH 3><ACT 1><SCENE 3><17%>
+	'Tis time to give 'em physic, their diseases
+	Are grown so catching.
+<SPEECH 4><ACT 1><SCENE 3><18%>
+	The devil fiddle 'em! I am glad they're going:
+	For, sure, there's no converting of 'em: now
+	An honest country lord, as I am, beaten
+	A long time out of play, may bring his plainsong
+	And have an hour of hearing; and, by'r lady,
+	Held current music too.
+<SPEECH 5><ACT 1><SCENE 3><18%>
+	No, my lord;
+	Nor shall not, while I have a stump.
+<SPEECH 6><ACT 1><SCENE 3><18%>
+	He may, my lord; he has wherewithal: in him
+	Sparing would show a worse sin than ill doctrine:
+	Men of his way should be most liberal;
+	They are set here for examples.
+<SPEECH 7><ACT 1><SCENE 3><18%>
+	I am your lordship's.
+<SPEECH 8><ACT 1><SCENE 4><19%>
+	Sir Thomas Lovell, had the cardinal
+	But half my lay-thoughts in him, some of these
+	Should find a running banquet ere they rested,
+	I think would better please 'em: by my life,
+	They are a sweet society of fair ones.
+<SPEECH 9><ACT 1><SCENE 4><19%>
+	I would I were;
+	They should find easy penance.
+<SPEECH 10><ACT 1><SCENE 4><19%>
+	As easy as a down-bed would afford it.
+<SPEECH 11><ACT 1><SCENE 4><20%>
+	By my faith,
+	And thank your lordship. By your leave, sweet ladies:
+	If I chance to talk a little wild, forgive me;
+	I had it from my father.
+<SPEECH 12><ACT 1><SCENE 4><20%>
+	O! very mad, exceeding mad; in love too:
+	But he would bite none; just as I do now,
+	He would kiss you twenty with a breath.
+<SPEECH 13><ACT 1><SCENE 4><20%>
+	For my little cure,
+	Let me alone.
+<SPEECH 14><ACT 1><SCENE 4><20%>
+	Your Grace is noble:
+	Let me have such a bowl may hold my thanks,
+	And save me so much talking.
+<SPEECH 15><ACT 1><SCENE 4><20%>
+	The red wine first must rise
+	In their fair cheeks, my lord; then, we shall have 'em
+	Talk us to silence.
+<SPEECH 16><ACT 1><SCENE 4><20%>
+	Yes, if I make my play.
+	Here's to your ladyship; and pledge it, madam,
+	For 'tis to such a thing,—
+<SPEECH 17><ACT 1><SCENE 4><21%>
+	I told your Grace they would talk anon.

@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 2><SCENE 3><30%>
+	I have given over, I will speak no more:
+	Do what you will; your wisdom be your guide.
+<SPEECH 2><ACT 2><SCENE 3><31%>
+	O! fly to Scotland,
+	Till that the nobles and the armed commons
+	Have of their puissance made a little taste.

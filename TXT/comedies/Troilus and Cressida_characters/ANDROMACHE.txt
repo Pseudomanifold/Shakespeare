@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 5><SCENE 3><88%>
+	When was my lord so much ungently temper'd,
+	To stop his ears against admonishment?
+	Unarm, unarm, and do not fight to-day.
+<SPEECH 2><ACT 5><SCENE 3><89%>
+	My dreams will, sure, prove ominous to the day.
+<SPEECH 3><ACT 5><SCENE 3><89%>
+	Here, sister; arm'd, and bloody in intent.
+	Consort with me in loud and dear petition;
+	Pursue we him on knees; for I have dream'd
+	Of bloody turbulence, and this whole night
+	Hath nothing been but shapes and forms of slaughter.
+<SPEECH 4><ACT 5><SCENE 3><89%>
+	O! be persuaded: do not count it holy
+	To hurt by being just: it is as lawful,
+	For we would give much, to use violent thefts,
+	And rob in the behalf of charity.
+<SPEECH 5><ACT 5><SCENE 3><89%>
+	Cassandra, call my father to persuade.
+<SPEECH 6><ACT 5><SCENE 3><91%>
+	Do not, dear father.

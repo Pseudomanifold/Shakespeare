@@ -1,0 +1,246 @@
+<SPEECH 1><ACT 4><SCENE 1><60%>
+	No, I will rob Tellus of her weed,
+	To strew thy green with flowers; the yellows, blues,
+	The purple violets, and marigolds,
+	Shall as a carpet hang upon thy grave,
+	While summer days do last. Ay me! poor maid,
+	Born in a tempest, when my mother died,
+	This world to me is like a lasting storm,
+	Whirring me from my friends.
+<SPEECH 2><ACT 4><SCENE 1><60%>
+	No, I pray you;
+	I'll not bereave you of your servant.
+<SPEECH 3><ACT 4><SCENE 1><61%>
+	Well, I will go;
+	But yet I have no desire to it.
+<SPEECH 4><ACT 4><SCENE 1><61%>
+	My thanks, sweet madam.
+	Is this wind westerly that blows?
+<SPEECH 5><ACT 4><SCENE 1><61%>
+	When I was born, the wind was north.
+<SPEECH 6><ACT 4><SCENE 1><61%>
+	My father, as nurse said, did never fear,
+	But cried 'Good seamen!' to the sailors, galling
+	His kingly hands haling ropes;
+	And, clasping to the mast, endur'd a sea
+	That almost burst the deck.
+<SPEECH 7><ACT 4><SCENE 1><61%>
+	When I was born:
+	Never were waves nor wind more violent;
+	And from the ladder-tackle washes off
+	A canvas-climber. 'Ha!' says one, 'wilt out?'
+	And with a dropping industry they skip
+	From stem to stern; the boatswain whistles, and
+	The master calls, and trebles their confusion.
+<SPEECH 8><ACT 4><SCENE 1><62%>
+	What mean you?
+<SPEECH 9><ACT 4><SCENE 1><62%>
+	Why will you kill me?
+<SPEECH 10><ACT 4><SCENE 1><62%>
+	Why would she have me kill'd?
+	Now, as I can remember, by my troth,
+	I never did her hurt in all my life.
+	I never spake bad word, nor did ill turn
+	To any living creature; believe me, la,
+	I never kill'd a mouse, nor hurt a fly;
+	I trod upon a worm against my will,
+	But I wept for it. How have I offended,
+	Wherein my death might yield her any profit,
+	Or my life imply her any danger?
+<SPEECH 11><ACT 4><SCENE 1><62%>
+	You will not do 't for all the world, I hope.
+	You are well favour'd, and your looks foreshow
+	You have a gentle heart. I saw you lately,
+	When you caught hurt in parting two that fought;
+	Good sooth, it show'd well in you; do so now;
+	Your lady seeks my life; come you between,
+	And save poor me, the weaker.
+<SPEECH 12><ACT 4><SCENE 2><66%>
+	Alack! that Leonine was so slack, so slow.
+	He should have struck, not spoke; or that these pirates—
+	Not enough barbarous—had not o'erboard thrown me
+	For to seek my mother!
+<SPEECH 13><ACT 4><SCENE 2><66%>
+	That I am pretty.
+<SPEECH 14><ACT 4><SCENE 2><66%>
+	I accuse them not.
+<SPEECH 15><ACT 4><SCENE 2><66%>
+	The more my fault
+	To 'scape his hands where I was like to die.
+<SPEECH 16><ACT 4><SCENE 2><66%>
+	No.
+<SPEECH 17><ACT 4><SCENE 2><67%>
+	Are you a woman?
+<SPEECH 18><ACT 4><SCENE 2><67%>
+	An honest woman, or not a woman.
+<SPEECH 19><ACT 4><SCENE 2><67%>
+	The gods defend me!
+<SPEECH 20><ACT 4><SCENE 2><68%>
+	I understand you not.
+<SPEECH 21><ACT 4><SCENE 2><69%>
+	If fires be hot, knives sharp, or waters deep,
+	Untied I still my virgin knot will keep.
+	Diana, aid my purpose!
+<SPEECH 22><ACT 4><SCENE 6><77%>
+	I desire to find him so, that I may worthily note him.
+<SPEECH 23><ACT 4><SCENE 6><77%>
+	If he govern the country, you are bound to him indeed; but how honourable he is in that I know not.
+<SPEECH 24><ACT 4><SCENE 6><77%>
+	What he will do graciously, I will thankfully receive.
+<SPEECH 25><ACT 4><SCENE 6><77%>
+	What trade, sir?
+<SPEECH 26><ACT 4><SCENE 6><77%>
+	I cannot be offended with my trade. Please you to name it.
+<SPEECH 27><ACT 4><SCENE 6><77%>
+	E'er since I can remember.
+<SPEECH 28><ACT 4><SCENE 6><77%>
+	Earlier too, sir, if now I be one.
+<SPEECH 29><ACT 4><SCENE 6><78%>
+	Do you know this house to be a place of such resort, and will come into 't? I hear say you are of honourable parts, and are the governor of this place.
+<SPEECH 30><ACT 4><SCENE 6><78%>
+	Who is my principal?
+<SPEECH 31><ACT 4><SCENE 6><78%>
+	If you were born to honour, show it now;
+	If put upon you, make the judgment good
+	That thought you worthy of it.
+<SPEECH 32><ACT 4><SCENE 6><78%>
+	For me,
+	That am a maid, though most ungentle fortune
+	Hath plac'd me in this sty, where, since I came,
+	Diseases have been sold dearer than physic,
+	O! that the gods
+	Would set me free from this unhallow'd place,
+	Though they did change me to the meanest bird
+	That flies i' the purer air!
+<SPEECH 33><ACT 4><SCENE 6><79%>
+	The good gods preserve you!
+<SPEECH 34><ACT 4><SCENE 6><80%>
+	Whither would you have me?
+<SPEECH 35><ACT 4><SCENE 6><80%>
+	Hark, hark, you gods!
+<SPEECH 36><ACT 4><SCENE 6><81%>
+	Whither wilt thou have me?
+<SPEECH 37><ACT 4><SCENE 6><81%>
+	Prithee, tell me one thing first.
+<SPEECH 38><ACT 4><SCENE 6><81%>
+	What canst thou wish thine enemy to be?
+<SPEECH 39><ACT 4><SCENE 6><81%>
+	Neither of these are so bad as thou art,
+	Since they do better thee in their command.
+	Thou hold'st a place, for which the pained'st fiend
+	Of hell would not in reputation change;
+	Thou art the damned door-keeper to every
+	Coystril that comes inquiring for his Tib,
+	To the choleric fisting of every rogue
+	Thy ear is liable, thy food is such
+	As hath been belch'd on by infected lungs.
+<SPEECH 40><ACT 4><SCENE 6><81%>
+	Do any thing but this thou doest. Empty.
+	Old receptacles, or common sewers, of filth;
+	Serve by indenture to the common hangman:
+	Any of these ways are yet better than this;
+	For what thou professest, a baboon, could he speak,
+	Would own a name too dear. O! that the gods
+	Would safely deliver me from this place.
+	Here, here's gold for thee.
+	If that thy master would gain by me,
+	Proclaim that I can sing, weave, sew, and dance,
+	With other virtues, which I'll keep from boast;
+	And I will undertake all these to teach.
+	I doubt not but this populous city will
+	Yield many scholars.
+<SPEECH 41><ACT 4><SCENE 6><82%>
+	Prove that I cannot, take me home again,
+	And prostitute me to the basest groom
+	That doth frequent your house.
+<SPEECH 42><ACT 4><SCENE 6><82%>
+	But, amongst honest women.
+<SPEECH 43><ACT 5><SCENE 1><87%>
+	Sir, I will use
+	My utmost skill in his recovery,
+	Provided
+	That none but I and my companion maid
+	Be suffer'd to come near him.
+<SPEECH 44><ACT 5><SCENE 1><87%>
+	No, nor look'd on us.
+<SPEECH 45><ACT 5><SCENE 1><87%>
+	Hail, sir! my lord, lend ear.
+<SPEECH 46><ACT 5><SCENE 1><87%>
+	I am a maid,
+	My lord, that ne'er before invited eyes,
+	But have been gaz'd on like a comet; she speaks,
+	My lord, that, may be, hath endur'd a grief
+	Might equal yours, if both were justly weigh'd.
+	Though wayward Fortune did malign my state,
+	My derivation was from ancestors
+	Who stood equivalent with mighty kings;
+	But time hath rooted out my parentage,
+	And to the world and awkward casualties
+	Bound me in servitude.—<STAGE DIR>
+	</STAGE DIR> I will desist;
+	But there is something glows upon my cheek,
+	And whispers in mine ear, 'Go not till he speak.'
+<SPEECH 47><ACT 5><SCENE 1><88%>
+	I said, my lord, if you did know my parentage,
+	You would not do me violence.
+<SPEECH 48><ACT 5><SCENE 1><88%>
+	No, nor of any shores;
+	Yet I was mortally brought forth, and am
+	No other than I appear.
+<SPEECH 49><ACT 5><SCENE 1><89%>
+	Where I am but a stranger; from the deck
+	You may discern the place.
+<SPEECH 50><ACT 5><SCENE 1><89%>
+	Should I tell my history, it would seem
+	Like lies, disdain'd in the reporting.
+<SPEECH 51><ACT 5><SCENE 1><89%>
+	So indeed I did.
+<SPEECH 52><ACT 5><SCENE 1><89%>
+	Some such thing
+	I said, and said no more but what my thoughts
+	Did warrant me was likely.
+<SPEECH 53><ACT 5><SCENE 1><90%>
+	My name is Marina.
+<SPEECH 54><ACT 5><SCENE 1><90%>
+	Patience, good sir,
+	Or here I'll cease.
+<SPEECH 55><ACT 5><SCENE 1><90%>
+	The name
+	Was given me by one that had some power;
+	My father, and a king.
+<SPEECH 56><ACT 5><SCENE 1><90%>
+	You said you would believe me;
+	But, not to be a troubler of your peace,
+	I will end here.
+<SPEECH 57><ACT 5><SCENE 1><90%>
+	Call'd Marina
+	For I was born at sea.
+<SPEECH 58><ACT 5><SCENE 1><90%>
+	My mother was the daughter of a king;
+	Who died the minute I was born,
+	As my good nurse Lychorida hath oft
+	Deliver'd weeping.
+<SPEECH 59><ACT 5><SCENE 1><91%>
+	You'll scorn to believe me; 'twere best I did give o'er.
+<SPEECH 60><ACT 5><SCENE 1><91%>
+	The king my father did in Tarsus leave me,
+	Till cruel Cleon, with his wicked wife,
+	Did seek to murder me; and having woo'd
+	A villain to attempt it, who having drawn to do 't,
+	A crew of pirates came and rescu'd me;
+	Brought me to Mitylene. But, good sir,
+	Whither will you have me? Why do you weep? It may be
+	You think me an impostor; no, good faith;
+	I am the daughter to King Pericles,
+	If good King Pericles be.
+<SPEECH 61><ACT 5><SCENE 1><92%>
+	First, sir, I pray,
+	What is your title?
+<SPEECH 62><ACT 5><SCENE 1><92%>
+	Is it no more to be your daughter than
+	To say my mother's name was Thaisa?
+	Thaisa was my mother, who did end
+	The minute I began.
+<SPEECH 63><ACT 5><SCENE 3><98%>
+	My heart
+	Leaps to be gone into my mother's bosom.

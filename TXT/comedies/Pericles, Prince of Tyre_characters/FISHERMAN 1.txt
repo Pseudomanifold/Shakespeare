@@ -1,0 +1,32 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+	What, ho, Pilch!
+<SPEECH 2><ACT 2><SCENE 1><23%>
+	What, Patch-breech, I say!
+<SPEECH 3><ACT 2><SCENE 1><23%>
+	Look how thou stirrest now! come away, or I'll fetch thee with a wannion.
+<SPEECH 4><ACT 2><SCENE 1><23%>
+	Alas! poor souls; it grieved my heart to hear what pitiful cries they made to us to help them, when, well-a-day, we could scarce help ourselves.
+<SPEECH 5><ACT 2><SCENE 1><24%>
+	Why, as men do a-land; the great ones eat up the little ones; I can compare our rich misers to nothing so fitly as to a whale; a' plays and tumbles, driving the poor fry before him, and at last devours them all at a mouthful. Such whales have I heard on o' the land, who never leave gaping till they've swallowed the whole parish, church, steeple, bells, and all.
+<SPEECH 6><ACT 2><SCENE 1><25%>
+	No, friend, cannot you beg? here's them in our country of Greece gets more with begging than we can do with working.
+<SPEECH 7><ACT 2><SCENE 1><26%>
+	Die, quoth-a? Now, gods forbid! I have a gown here; come, put it on; keep thee warm. Now, afore me, a handsome fellow! Come, thou shalt go home, and we'll have flesh for holidays, fish for fasting-days, and moreo'er puddings and flap-jacks; and thou shalt be welcome.
+<SPEECH 8><ACT 2><SCENE 1><26%>
+	Hark you, my friend; you said you could not beg.
+<SPEECH 9><ACT 2><SCENE 1><26%>
+	Hark you, sir; do you know where ye are?
+<SPEECH 10><ACT 2><SCENE 1><26%>
+	Why, I'll tell you: this is called Pentapolis, and our king the good Simonides.
+<SPEECH 11><ACT 2><SCENE 1><27%>
+	Ay, sir; and he deserves to be so called for his peaceable reign and good government.
+<SPEECH 12><ACT 2><SCENE 1><27%>
+	Marry, sir, half a day's journey; and I'll tell you, he hath a fair daughter, and to-morrow is her birthday; and there are princes and knights come from all parts of the world to just and tourney for her love.
+<SPEECH 13><ACT 2><SCENE 1><27%>
+	O! sir, things must be as they may; and what a man cannot get, he may lawfully deal for his wife's soul,—
+<SPEECH 14><ACT 2><SCENE 1><28%>
+	What mean you, sir?
+<SPEECH 15><ACT 2><SCENE 1><28%>
+	Why, wilt thou tourney for the lady?
+<SPEECH 16><ACT 2><SCENE 1><29%>
+	Why, do'e take it; and the gods give thee good on 't!

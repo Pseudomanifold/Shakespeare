@@ -1,0 +1,21 @@
+<SPEECH 1><ACT 2><SCENE 2><27%>
+	After so many hours, lives, speeches spent,
+	Thus once again says Nestor from the Greeks:
+	'Deliver Helen, and all damage else,
+	As honour, loss of time, travail, expense,
+	Wounds, friends, and what else dear that is consum'd
+	In hot digestion of this cormorant war,
+	Shall be struck off.' Hector, what say you to't?
+<SPEECH 2><ACT 2><SCENE 2><30%>
+	What noise? what shriek?
+<SPEECH 3><ACT 5><SCENE 3><90%>
+	Come, Hector, come; go back:
+	Thy wife hath dream'd; thy mother hath had visions;
+	Cassandra doth foresee; and I myself
+	Am like a prophet suddenly enrapt,
+	To tell thee that this day is ominous:
+	Therefore, come back.
+<SPEECH 4><ACT 5><SCENE 3><91%>
+	Ay, but thou shalt not go.
+<SPEECH 5><ACT 5><SCENE 3><91%>
+	Farewell: the gods with safety stand about thee!

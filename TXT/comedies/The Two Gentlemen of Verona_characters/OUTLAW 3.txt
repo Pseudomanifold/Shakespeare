@@ -1,0 +1,33 @@
+<SPEECH 1><ACT 4><SCENE 1><67%>
+	Stand, sir, and throw us that you have about ye;
+	If not, we'll make you sit and rifle you.
+<SPEECH 2><ACT 4><SCENE 1><68%>
+	Ay, by my beard, will we, for he is a proper man.
+<SPEECH 3><ACT 4><SCENE 1><68%>
+	Have you long sojourn'd there?
+<SPEECH 4><ACT 4><SCENE 1><69%>
+	By the bare scalp of Robin Hood's fat friar,
+	This fellow were a king for our wild faction!
+<SPEECH 5><ACT 4><SCENE 1><69%>
+	Know then, that some of us are gentlemen,
+	Such as the fury of ungovern'd youth
+	Thrust from the company of awful men:
+	Myself was from Verona banished
+	For practising to steal away a lady,
+	An heir, and near allied unto the duke.
+<SPEECH 6><ACT 4><SCENE 1><70%>
+	What say'st thou? wilt thou be of our consort?
+	Say 'ay,' and be the captain of us all:
+	We'll do thee homage and be rul'd by thee,
+	Love thee as our commander and our king.
+<SPEECH 7><ACT 4><SCENE 1><70%>
+	No; we detest such vile, base practices.
+	Come, go with us; we'll bring thee to our crews,
+	And show thee all the treasure we have got,
+	Which, with ourselves, all rest at thy dispose.
+<SPEECH 8><ACT 5><SCENE 3><92%>
+	Being nimble-footed, he hath outrun us;
+	But Moyses and Valerius follow him.
+	Go thou with her to the west end of the wood;
+	There is our captain. We'll follow him that's fled:
+	The thicket is beset; he cannot 'scape.

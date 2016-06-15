@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 4><SCENE 3><80%>
+	Where?
+<SPEECH 2><ACT 4><SCENE 3><80%>
+	We are not thieves, but men that much do want.

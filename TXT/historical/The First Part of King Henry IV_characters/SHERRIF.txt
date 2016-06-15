@@ -1,0 +1,13 @@
+<SPEECH 1><ACT 2><SCENE 4><48%>
+	First, pardon me, my lord. A hue and cry
+	Hath follow'd certain men unto this house.
+<SPEECH 2><ACT 2><SCENE 4><48%>
+	One of them is well known, my gracious lord,
+	A gross fat man.
+<SPEECH 3><ACT 2><SCENE 4><48%>
+	I will, my lord. There are two gentlemen
+	Have in this robbery lost three hundred marks.
+<SPEECH 4><ACT 2><SCENE 4><48%>
+	Good night, my noble lord.
+<SPEECH 5><ACT 2><SCENE 4><48%>
+	Indeed, my lord, I think it be two o'clock.

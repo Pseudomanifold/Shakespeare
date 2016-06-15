@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 1><SCENE 5><14%>
+	What 's your highness' pleasure?
+<SPEECH 2><ACT 1><SCENE 5><15%>
+	Yes, gracious madam.
+<SPEECH 3><ACT 1><SCENE 5><15%>
+	Not in deed, madam; for I can do nothing
+	But what in deed is honest to be done;
+	Yet have I fierce affections, and think
+	What Venus did with Mars.
+<SPEECH 4><ACT 2><SCENE 5><28%>
+	As well as I can, madam.
+<SPEECH 5><ACT 4><SCENE XII.— ><78%>
+	No, Antony;
+	My mistress lov'd thee, and her fortunes mingled
+	With thine entirely.
+<SPEECH 6><ACT 4><SCENE XII.— ><78%>
+	Death of one person can be paid but once,
+	And that she has discharg'd. What thou wouldst do
+	Is done unto thy hand; the last she spake
+	Was, 'Antony! most noble Antony!'
+	Then in the midst a tearing groan did break
+	The name of Antony; it was divided
+	Between her heart and lips. She render'd life,
+	Thy name so buried in her.
+<SPEECH 7><ACT 4><SCENE XII.— ><79%>
+	Dead.

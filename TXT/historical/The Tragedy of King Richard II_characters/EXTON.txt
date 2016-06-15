@@ -1,0 +1,27 @@
+<SPEECH 1><ACT 5><SCENE 4><93%>
+	Didst thou not mark the king, what words he spake?
+	'Have I no friend will rid me of this living fear?'
+	Was it not so?
+<SPEECH 2><ACT 5><SCENE 4><93%>
+	'Have I no friend?' quoth he: he spake it twice,
+	And urg'd it twice together, did he not?
+<SPEECH 3><ACT 5><SCENE 4><93%>
+	And speaking it, he wistly looked on me,
+	As who should say, 'I would thou wert the man
+	That would divorce this terror from my heart;'
+	Meaning the king at Pomfret. Come, let's go:
+	I am the king's friend, and will rid his foe.
+<SPEECH 4><ACT 5><SCENE 5><98%>
+	As full of valour as of royal blood:
+	Both have I spilt; O! would the deed were good;
+	For now the devil, that told me I did well,
+	Says that this deed is chronicled in hell.
+	This dead king to the living king I'll bear.
+	Take hence the rest and give them burial here.
+<SPEECH 5><ACT 5><SCENE 6><99%>
+	Great king, within this coffin I present
+	Thy buried fear: herein all breathless lies
+	The mightiest of thy greatest enemies,
+	Richard of Bordeaux, by me hither brought.
+<SPEECH 6><ACT 5><SCENE 6><99%>
+	From your own mouth, my lord, did I this deed.

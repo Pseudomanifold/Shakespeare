@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 1><SCENE 1><9%>
+	Where is that slave, thy brother? where is he,
+	That holds in chase mine honour up and down?
+<SPEECH 2><ACT 1><SCENE 1><9%>
+	Sir Robert's son! Ay, thou unreverend boy,
+	Sir Robert's son: why scorn'st thou at Sir Robert?
+	He is Sir Robert's son, and so art thou.
+<SPEECH 3><ACT 1><SCENE 1><10%>
+	Hast thou conspired with thy brother too,
+	That for thine own gain shouldst defend mine honour?
+	What means this scorn, thou most untoward knave?
+<SPEECH 4><ACT 1><SCENE 1><10%>
+	Hast thou denied thyself a Faulconbridge?
+<SPEECH 5><ACT 1><SCENE 1><10%>
+	King Richard Cœur-de-Lion was thy father:
+	By long and vehement suit I was seduc'd
+	To make room for him in my husband's bed.
+	Heaven lay not my transgression to my charge!
+	Thou art the issue of my dear offence,
+	Which was so strongly urg'd past my defence.

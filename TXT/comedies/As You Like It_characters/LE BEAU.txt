@@ -1,0 +1,49 @@
+<SPEECH 1><ACT 1><SCENE 2><10%>
+	Fair princess, you have lost much good sport.
+<SPEECH 2><ACT 1><SCENE 2><10%>
+	What colour, madam! How shall
+	I answer you?
+<SPEECH 3><ACT 1><SCENE 2><10%>
+	You amaze me, ladies: I would have told you of good wrestling, which you have lost the sight of.
+<SPEECH 4><ACT 1><SCENE 2><11%>
+	I will tell you the beginning; and, if it please your ladyships, you may see the end, for the best is yet to do; and here, where you are, they are coming to perform it.
+<SPEECH 5><ACT 1><SCENE 2><11%>
+	There comes an old man and his three sons,—
+<SPEECH 6><ACT 1><SCENE 2><11%>
+	Three proper young men, of excellent growth and presence;—
+<SPEECH 7><ACT 1><SCENE 2><11%>
+	The eldest of the three wrestled with Charles, the duke's wrestler; which Charles in a moment threw him and broke three of his ribs, that there is little hope of life in him: so he served the second, and so the third. Yonder they lie; the poor old man, their father, making such pitiful dole over them that all the beholders take his part with weeping.
+<SPEECH 8><ACT 1><SCENE 2><11%>
+	Why, this that I speak of.
+<SPEECH 9><ACT 1><SCENE 2><12%>
+	You must, if you stay here; for here is the place appointed for the wrestling, and they are ready to perform it.
+<SPEECH 10><ACT 1><SCENE 2><12%>
+	Even he, madam.
+<SPEECH 11><ACT 1><SCENE 2><12%>
+	Monsieur the challenger, the princes call for you.
+<SPEECH 12><ACT 1><SCENE 2><14%>
+	He cannot speak, my lord.
+<SPEECH 13><ACT 1><SCENE 2><16%>
+	Good sir, I do in friendship counsel you
+	To leave this place. Albeit you have deserv'd
+	High commendation, true applause and love,
+	Yet such is now the duke's condition
+	That he misconstrues all that you have done.
+	The duke is humorous: what he is indeed,
+	More suits you to conceive than I to speak of.
+<SPEECH 14><ACT 1><SCENE 2><16%>
+	Neither his daughter, if we judge by manners:
+	But yet, indeed the smaller is his daughter:
+	The other is daughter to the banish'd duke,
+	And here detain'd by her usurping uncle,
+	To keep his daughter company; whose loves
+	Are dearer than the natural bond of sisters.
+	But I can tell you that of late this duke
+	Hath ta'en displeasure 'gainst his gentle niece,
+	Grounded upon no other argument
+	But that the people praise her for her virtues,
+	And pity her for her good father's sake;
+	And, on my life, his malice 'gainst the lady
+	Will suddenly break forth. Sir, fare you well:
+	Hereafter, in a better world than this,
+	I shall desire more love and knowledge of you.

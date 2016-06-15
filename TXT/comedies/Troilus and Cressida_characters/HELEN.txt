@@ -1,0 +1,42 @@
+<SPEECH 1><ACT 2><SCENE 2><28%>
+	No marvel, though you bite so sharp at reasons,
+	You are so empty of them. Should not our father
+	Bear the great sway of his affairs with reasons,
+	Because your speech hath none that tells him so?
+<SPEECH 2><ACT 3><SCENE 1><42%>
+	Dear lord, you are full of fair words.
+<SPEECH 3><ACT 3><SCENE 1><42%>
+	O, sir!
+<SPEECH 4><ACT 3><SCENE 1><42%>
+	Nay, this shall not hedge us out: we'll hear you sing, certainly.
+<SPEECH 5><ACT 3><SCENE 1><42%>
+	My Lord Pandarus; honey-sweet lord,—
+<SPEECH 6><ACT 3><SCENE 1><42%>
+	You shall not bob us out of our melody: if you do, our melancholy upon your head!
+<SPEECH 7><ACT 3><SCENE 1><43%>
+	And to make a sweet lady sad is a sour offence.
+<SPEECH 8><ACT 3><SCENE 1><43%>
+	My Lord Pandarus,—
+<SPEECH 9><ACT 3><SCENE 1><43%>
+	Nay, but my lord,—
+<SPEECH 10><ACT 3><SCENE 1><43%>
+	Why, this is kindly done.
+<SPEECH 11><ACT 3><SCENE 1><43%>
+	She shall have it, my lord, if it be not my Lord Paris.
+<SPEECH 12><ACT 3><SCENE 1><43%>
+	Falling in, after falling out, may make them three.
+<SPEECH 13><ACT 3><SCENE 1><43%>
+	Ay, ay, prithee now. By my troth, sweet lord, thou hast a fine forehead.
+<SPEECH 14><ACT 3><SCENE 1><43%>
+	Let thy song be love: this love will undo us all. O Cupid, Cupid, Cupid!
+<SPEECH 15><ACT 3><SCENE 1><44%>
+	In love, i' faith, to the very tip of the nose.
+<SPEECH 16><ACT 3><SCENE 1><44%>
+	He hangs the lip at something: you know all, Lord Pandarus.
+<SPEECH 17><ACT 3><SCENE 1><44%>
+	Commend me to your niece.
+<SPEECH 18><ACT 3><SCENE 1><45%>
+	'Twill make us proud to be his servant, Paris;
+	Yea, what he shall receive of us in duty
+	Gives us more palm in beauty than we have,
+	Yea, overshines ourself.

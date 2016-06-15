@@ -1,0 +1,5 @@
+<SPEECH 1><ACT 1><SCENE 1><4%>
+	Thou shalt not stir one foot to seek a foe.
+<SPEECH 2><ACT 1><SCENE 1><5%>
+	O! where is Romeo? saw you him to-day?
+	Right glad I am he was not at this fray.

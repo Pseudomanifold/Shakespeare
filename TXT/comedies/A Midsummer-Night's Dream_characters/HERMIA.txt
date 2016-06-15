@@ -1,0 +1,213 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	So is Lysander.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	I would my father look'd but with my eyes.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	I do entreat your Grace to pardon me.
+	I know not by what power I am made bold,
+	Nor how it may concern my modesty
+	In such a presence here to plead my thoughts;
+	But I beseech your Grace, that I may know
+	The worst that may befall me in this case,
+	If I refuse to wed Demetrius.
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	So will I grow, so live, so die, my lord,
+	Ere I will yield my virgin patent up
+	Unto his lordship, whose unwished yoke
+	My soul consents not to give sovereignty.
+<SPEECH 5><ACT 1><SCENE 1><6%>
+	Belike for want of rain, which I could well
+	Beteem them from the tempest of mine eyes.
+<SPEECH 6><ACT 1><SCENE 1><7%>
+	O cross! too high to be enthrall'd to low.
+<SPEECH 7><ACT 1><SCENE 1><7%>
+	O spite! too old to be engag'd to young.
+<SPEECH 8><ACT 1><SCENE 1><7%>
+	O hell! to choose love by another's eye.
+<SPEECH 9><ACT 1><SCENE 1><7%>
+	If then true lovers have been ever cross'd,
+	It stands as an edict in destiny:
+	Then let us teach our trial patience,
+	Because it is a customary cross,
+	As due to love as thoughts and dreams and sighs,
+	Wishes and tears, poor fancy's followers.
+<SPEECH 10><ACT 1><SCENE 1><8%>
+	My good Lysander!
+	I swear to thee by Cupid's strongest bow,
+	By his best arrow with the golden head,
+	By the simplicity of Venus' doves,
+	By that which knitteth souls and prospers loves,
+	And by that fire which burn'd the Carthage queen,
+	When the false Troyan under sail was seen,
+	By all the vows that ever men have broke,—
+	In number more than ever women spoke,—
+	In that same place thou hast appointed me,
+	To-morrow truly will I meet with thee.
+<SPEECH 11><ACT 1><SCENE 1><9%>
+	God speed fair Helena! Whither away?
+<SPEECH 12><ACT 1><SCENE 1><9%>
+	I frown upon him, yet he loves me still.
+<SPEECH 13><ACT 1><SCENE 1><9%>
+	I give him curses, yet he gives me love.
+<SPEECH 14><ACT 1><SCENE 1><9%>
+	The more I hate, the more he follows me.
+<SPEECH 15><ACT 1><SCENE 1><10%>
+	His folly, Helena, is no fault of mine.
+<SPEECH 16><ACT 1><SCENE 1><10%>
+	Take comfort: he no more shall see my face;
+	Lysander and myself will fly this place.
+	Before the time I did Lysander see,
+	Seem'd Athens as a paradise to me:
+	O! then, what graces in my love do dwell,
+	That he hath turn'd a heaven unto a hell.
+<SPEECH 17><ACT 1><SCENE 1><10%>
+	And in the wood, where often you and I
+	Upon faint primrose-beds were wont to lie,
+	Emptying our bosoms of their counsel sweet,
+	There my Lysander and myself shall meet;
+	And thence from Athens turn away our eyes,
+	To seek new friends and stranger companies.
+	Farewell, sweet playfellow: pray thou for us;
+	And good luck grant thee thy Demetrius!
+	Keep word, Lysander: we must starve our sight
+	From lovers' food till morrow deep midnight.
+<SPEECH 18><ACT 2><SCENE 2><31%>
+	Be it so, Lysander: find you out a bed,
+	For I upon this bank will rest my head.
+<SPEECH 19><ACT 2><SCENE 2><31%>
+	Nay, good Lysander; for my sake, my dear,
+	Lie further off yet, do not lie so near.
+<SPEECH 20><ACT 2><SCENE 2><31%>
+	Lysander riddles very prettily:
+	Now much beshrew my manners and my pride,
+	If Hermia meant to say Lysander lied.
+	But, gentle friend, for love and courtesy
+	Lie further off; in human modesty,
+	Such separation as may well be said
+	Becomes a virtuous bachelor and a maid,
+	So far be distant; and, good night, sweet friend.
+	Thy love ne'er alter till thy sweet life end!
+<SPEECH 21><ACT 2><SCENE 2><32%>
+	With half that wish the wisher's eyes be press'd!
+<SPEECH 22><ACT 2><SCENE 2><36%>
+	</STAGE DIR> Help me, Lysander, help me! do thy best
+	To pluck this crawling serpent from my breast.
+	Ay me, for pity! what a dream was here!
+	Lysander, look how I do quake with fear:
+	Methought a serpent eat my heart away,
+	And you sat smiling at his cruel prey.
+	Lysander! what! remov'd?—Lysander! lord!
+	What! out of hearing? gone? no sound, no word?
+	Alack! where are you? speak, an if you hear;
+	Speak, of all loves! I swound almost with fear.
+	No! then I well perceive you are not nigh:
+	Either death or you I'll find immediately.
+<SPEECH 23><ACT 3><SCENE 2><48%>
+	Now I but chide; but I should use thee worse,
+	For thou, I fear, hast given me cause to curse.
+	If thou hast slain Lysander in his sleep,
+	Being o'er shoes in blood, plunge in knee deep,
+	And kill me too.
+	The sun was not so true unto the day
+	As he to me. Would he have stol'n away
+	From sleeping Hermia? I'll believe as soon
+	This whole earth may be bor'd, and that the moon
+	May through the centre creep, and so displease
+	Her brother's noontide with the Antipodes.
+	It cannot be but thou hast murder'd him;
+	So should a murderer look, so dead, so grim.
+<SPEECH 24><ACT 3><SCENE 2><49%>
+	What's this to my Lysander? where is he?
+	Ah! good Demetrius, wilt thou give him me?
+<SPEECH 25><ACT 3><SCENE 2><49%>
+	Out, dog! out, cur! thou driv'st me past the bounds
+	Of maiden's patience. Hast thou slain him then?
+	Henceforth be never number'd among men!
+	O! once tell true, tell true, e'en for my sake;
+	Durst thou have look'd upon him being awake,
+	And hast thou kill'd him sleeping? O brave touch!
+	Could not a worm, an adder, do so much?
+	An adder did it; for with doubler tongue
+	Than thine, thou serpent, never adder stung.
+<SPEECH 26><ACT 3><SCENE 2><49%>
+	I pray thee, tell me then that he is well.
+<SPEECH 27><ACT 3><SCENE 2><50%>
+	A privilege never to see me more.
+	And from thy hated presence part I so;
+	See me no more, whe'r he be dead or no.
+<SPEECH 28><ACT 3><SCENE 2><54%>
+	Dark night, that from the eye his function takes,
+	The ear more quick of apprehension makes;
+	Wherein it doth impair the seeing sense,
+	It pays the hearing double recompense.
+	Thou art not by mine eye, Lysander, found;
+	Mine ear, I thank it, brought me to thy sound.
+	But why unkindly didst thou leave me so?
+<SPEECH 29><ACT 3><SCENE 2><54%>
+	What love could press Lysander from my side?
+<SPEECH 30><ACT 3><SCENE 2><55%>
+	You speak not as you think: it cannot be.
+<SPEECH 31><ACT 3><SCENE 2><56%>
+	I am amazed at your passionate words.
+	I scorn you not: it seems that you scorn me.
+<SPEECH 32><ACT 3><SCENE 2><57%>
+	I understand not what you mean by this.
+<SPEECH 33><ACT 3><SCENE 2><57%>
+	Sweet, do not scorn her so.
+<SPEECH 34><ACT 3><SCENE 2><58%>
+	Lysander, whereto tends all this?
+<SPEECH 35><ACT 3><SCENE 2><58%>
+	Why are you grown so rude? what change is this,
+	Sweet love,—
+<SPEECH 36><ACT 3><SCENE 2><58%>
+	Do you not jest?
+<SPEECH 37><ACT 3><SCENE 2><58%>
+	What! can you do me greater harm than hate?
+	Hate me! wherefore? O me! what news, my love?
+	Am not I Hermia? Are not you Lysander?
+	I am as fair now as I was erewhile.
+	Since night you lov'd me; yet, since night you left me:
+	Why, then you left me,—O, the gods forbid!—
+	In earnest, shall I say?
+<SPEECH 38><ACT 3><SCENE 2><59%>
+	O me! you juggler! you canker-blossom!
+	You thief of love! what! have you come by night
+	And stol'n my love's heart from him?
+<SPEECH 39><ACT 3><SCENE 2><59%>
+	Puppet! why, so: ay, that way goes the game.
+	Now I perceive that she hath made compare
+	Between our statures: she hath urg'd her height;
+	And with her personage, her tall personage,
+	Her height, forsooth, she hath prevail'd with him.
+	And are you grown so high in his esteem,
+	Because I am so dwarfish and so low?
+	How low am I, thou painted maypole? speak;
+	How low am I? I am not yet so low
+	But that my nails can reach unto thine eyes.
+<SPEECH 40><ACT 3><SCENE 2><60%>
+	Lower! hark, again.
+<SPEECH 41><ACT 3><SCENE 2><61%>
+	Why, get you gone. Who is't that hinders you?
+<SPEECH 42><ACT 3><SCENE 2><61%>
+	What! with Lysander?
+<SPEECH 43><ACT 3><SCENE 2><61%>
+	'Little' again! nothing but 'low' and 'little!'
+	Why will you suffer her to flout me thus?
+	Let me come to her.
+<SPEECH 44><ACT 3><SCENE 2><62%>
+	You, mistress, all this coil is 'long of you:
+	Nay, go not back.
+<SPEECH 45><ACT 3><SCENE 2><62%>
+	I am amaz'd, and know not what to say.
+<SPEECH 46><ACT 3><SCENE 2><67%>
+	Never so weary, never so in woe,
+	Bedabbled with the dew and torn with briers,
+	I can no further crawl, no further go;
+	My legs can keep no pace with my desires.
+	Here will I rest me till the break of day.
+	Heavens shield Lysander, if they mean a fray!
+<SPEECH 47><ACT 4><SCENE 1><77%>
+	Methinks I see these things with parted eye,
+	When everything seems double.
+<SPEECH 48><ACT 4><SCENE 1><77%>
+	Yea; and my father.

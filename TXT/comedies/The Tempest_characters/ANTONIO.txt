@@ -1,0 +1,199 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Where is the master, boson?
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	Hang, cur, hang! you whoreson, insolent noisemaker, we are less afraid to be drowned than thou art.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	We are merely cheated of our lives by drunkards.—
+	This wide-chapp'd rascal,—would thou might'st lie drowning,
+	The washing of ten tides!
+<SPEECH 4><ACT 1><SCENE 1><4%>
+	Let's all sink wi' the king.
+<SPEECH 5><ACT 2><SCENE 1><29%>
+	The visitor will not give him o'er so.
+<SPEECH 6><ACT 2><SCENE 1><30%>
+	Fie, what a spendthrift is he of his tongue!
+<SPEECH 7><ACT 2><SCENE 1><30%>
+	Which, of he or Adrian, for a good wager, first begins to crow?
+<SPEECH 8><ACT 2><SCENE 1><30%>
+	The cockerel.
+<SPEECH 9><ACT 2><SCENE 1><30%>
+	A laughter.
+<SPEECH 10><ACT 2><SCENE 1><30%>
+	He could not miss it.
+<SPEECH 11><ACT 2><SCENE 1><30%>
+	Temperance was a delicate wench.
+<SPEECH 12><ACT 2><SCENE 1><30%>
+	Or as 'twere perfumed by a fen.
+<SPEECH 13><ACT 2><SCENE 1><31%>
+	True; save means to live.
+<SPEECH 14><ACT 2><SCENE 1><31%>
+	The ground indeed is tawny.
+<SPEECH 15><ACT 2><SCENE 1><31%>
+	He misses not much.
+<SPEECH 16><ACT 2><SCENE 1><31%>
+	If but one of his pockets could speak, would it not say he lies?
+<SPEECH 17><ACT 2><SCENE 1><32%>
+	Widow! a pox o' that! How came that widow in? Widow Dido!
+<SPEECH 18><ACT 2><SCENE 1><32%>
+	His word is more than the miraculous harp.
+<SPEECH 19><ACT 2><SCENE 1><32%>
+	What impossible matter will he make easy next?
+<SPEECH 20><ACT 2><SCENE 1><32%>
+	And, sowing the kernels of it in the sea, bring forth more islands.
+<SPEECH 21><ACT 2><SCENE 1><32%>
+	Why, in good time.
+<SPEECH 22><ACT 2><SCENE 1><32%>
+	And the rarest that e'er came there.
+<SPEECH 23><ACT 2><SCENE 1><33%>
+	O! widow Dido; ay, widow Dido.
+<SPEECH 24><ACT 2><SCENE 1><33%>
+	That sort was well fish'd for.
+<SPEECH 25><ACT 2><SCENE 1><34%>
+	And most chirurgeonly.
+<SPEECH 26><ACT 2><SCENE 1><34%>
+	Very foul.
+<SPEECH 27><ACT 2><SCENE 1><35%>
+	He'd sow't with nettle-seed.
+<SPEECH 28><ACT 2><SCENE 1><35%>
+	The latter end of his commonwealth forgets the beginning.
+<SPEECH 29><ACT 2><SCENE 1><36%>
+	None, man; all idle; whores and knaves.
+<SPEECH 30><ACT 2><SCENE 1><36%>
+	Long live Gonzalo!
+<SPEECH 31><ACT 2><SCENE 1><36%>
+	'Twas you we laugh'd at.
+<SPEECH 32><ACT 2><SCENE 1><36%>
+	What a blow was there given!
+<SPEECH 33><ACT 2><SCENE 1><36%>
+	Nay, good my lord, be not angry.
+<SPEECH 34><ACT 2><SCENE 1><37%>
+	Go sleep, and hear us.
+<SPEECH 35><ACT 2><SCENE 1><37%>
+	We two, my lord,
+	Will guard your person while you take your rest,
+	And watch your safety.
+<SPEECH 36><ACT 2><SCENE 1><37%>
+	It is the quality o' the climate.
+<SPEECH 37><ACT 2><SCENE 1><37%>
+	Nor I: my spirits are nimble.
+	They fell together all, as by consent;
+	They dropp'd, as by a thunder-stroke. What might,
+	Worthy Sebastian? O! what might?—No more:—
+	And yet methinks I see it in thy face,
+	What thou should'st be. The occasion speaks thee; and
+	My strong imagination sees a crown
+	Dropping upon thy head.
+<SPEECH 38><ACT 2><SCENE 1><38%>
+	Do you not hear me speak?
+<SPEECH 39><ACT 2><SCENE 1><38%>
+	Noble Sebastian,
+	Thou let'st thy fortune sleep—die rather; wink'st
+	Whiles thou art waking.
+<SPEECH 40><ACT 2><SCENE 1><38%>
+	I am more serious than my custom: you
+	Must be so too, if heed me; which to do
+	Trebles thee o'er.
+<SPEECH 41><ACT 2><SCENE 1><38%>
+	I'll teach you how to flow.
+<SPEECH 42><ACT 2><SCENE 1><38%>
+	O!
+	If you but knew how you the purpose cherish
+	Whiles thus you mock it! how, in stripping it,
+	You more invest it! Ebbing men, indeed,
+	Most often do so near the bottom run
+	By their own fear or sloth.
+<SPEECH 43><ACT 2><SCENE 1><39%>
+	Thus, sir:
+	Although this lord of weak remembrance, this
+	Who shall be of as little memory
+	When he is earth'd, hath here almost persuaded,—
+	For he's a spirit of persuasion, only
+	Professes to persuade,—the king, his son's alive,
+	'Tis as impossible that he's undrown'd
+	As he that sleeps here swims.
+<SPEECH 44><ACT 2><SCENE 1><39%>
+	O! out of that 'no hope
+	What great hope have you! no hope that way is
+	Another way so high a hope that even
+	Ambition cannot pierce a wink beyond,
+	But doubts discovery there. Will you grant with me
+	That Ferdinand is drown'd?
+<SPEECH 45><ACT 2><SCENE 1><39%>
+	Then tell me
+	Who's the next heir of Naples?
+<SPEECH 46><ACT 2><SCENE 1><39%>
+	She that is Queen of Tums; she that dwells
+	Ten leagues beyond man's life; she that from Naples
+	Can have no note, unless the sun were post—
+	The man i' th' moon's too slow—till new-born chins
+	Be rough and razorable: she that, from whom?
+	We all were sea-swallow'd, though some cast again,
+	And by that destiny to perform an act
+	Whereof what's past is prologue, what to come
+	In yours and my discharge.
+<SPEECH 47><ACT 2><SCENE 1><40%>
+	A space whose every cubit
+	Seems to cry out, 'How shall that Claribel
+	Measure us back to Naples?—Keep in Tunis,
+	And let Sebastian wake!'—Say, this were death
+	That now hath seiz'd them; why, they were no worse
+	Than now they are. There be that can rule Naples
+	As well as he that sleeps; lords that can prate
+	As amply and unnecessarily
+	As this Gonzalo; I myself could make
+	A chough of as deep chat. O, that you bore
+	The mind that I do! what a sleep were this
+	For your advancement! Do you understand me?
+<SPEECH 48><ACT 2><SCENE 1><40%>
+	And how does your content
+	Tender your own good fortune?
+<SPEECH 49><ACT 2><SCENE 1><41%>
+	True:
+	And look how well my garments sit upon me;
+	Much feater than before; my brother's servants
+	Were then my fellows; now they are my men.
+<SPEECH 50><ACT 2><SCENE 1><41%>
+	Ay, sir; where lies that? if it were a kibe,
+	'Twould put me to my slipper; but I feel not
+	This deity in my bosom: twenty consciences,
+	That stand 'twixt me and Milan, candied be they,
+	And melt ere they molest! Here lies your brother,
+	No better than the earth he lies upon,
+	If he were that which now he's like, that's dead;
+	Whom I, with this obedient steel,—three inches of it,—
+	Can lay to bed for ever; whiles you, doing thus,
+	To the perpetual wink for aye might put
+	This ancient morsel, this Sir Prudence, who
+	Should not upbraid our course. For all the rest,
+	They'll take suggestion as a cat laps milk;
+	They'll tell the clock to any business that
+	We say befits the hour.
+<SPEECH 51><ACT 2><SCENE 1><42%>
+	Draw together;
+	And when I rear my hand, do you the like,
+	To fall it on Gonzalo.
+<SPEECH 52><ACT 2><SCENE 1><42%>
+	Then let us both be sudden.
+<SPEECH 53><ACT 2><SCENE 1><43%>
+	O! 'twas a din to fright a monster's ear,
+	To make an earthquake: sure it was the roar
+	Of a whole herd of lions.
+<SPEECH 54><ACT 3><SCENE 3><64%>
+	</STAGE DIR> I am right glad that he's so out of hope.
+	Do not, for one repulse, forego the purpose
+	That you resolv'd to effect.
+<SPEECH 55><ACT 3><SCENE 3><65%>
+	</STAGE DIR> Let it be to-night;
+	For, now they are oppress'd with travel, they
+	Will not, nor cannot, use such vigilance
+	As when they are fresh.
+<SPEECH 56><ACT 3><SCENE 3><66%>
+	I'll believe both;
+	And what does else want credit, come to me,
+	And I'll be sworn 'tis true: travellers ne'er did lie,
+	Though fools at home condemn them.
+<SPEECH 57><ACT 3><SCENE 3><70%>
+	I'll be thy second.
+<SPEECH 58><ACT 5><SCENE 1><97%>
+	Very like; one of them
+	Is a plain fish, and, no doubt, marketable.

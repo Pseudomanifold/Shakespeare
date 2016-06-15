@@ -1,0 +1,118 @@
+<SPEECH 1><ACT 2><SCENE 4><32%>
+	Great lords, and gentlemen, what means this silence?
+	Dare no man answer in a case of truth?
+<SPEECH 2><ACT 2><SCENE 4><32%>
+	Then say at once if I maintain'd the truth,
+	Or else was wrangling Somerset in the error?
+<SPEECH 3><ACT 2><SCENE 4><32%>
+	Tut, tut! here is a mannerly forbearance:
+	The truth appears so naked on my side,
+	That any purblind eye may find it out.
+<SPEECH 4><ACT 2><SCENE 4><33%>
+	Since you are tongue-tied, and so loath to speak,
+	In dumb significants proclaim your thoughts:
+	Let him that is a true-born gentleman,
+	And stands upon the honour of his birth,
+	If he suppose that I have pleaded truth,
+	From off this brier pluck a white rose with me.
+<SPEECH 5><ACT 2><SCENE 4><33%>
+	And I.
+<SPEECH 6><ACT 2><SCENE 4><34%>
+	Now, Somerset, where is your argument?
+<SPEECH 7><ACT 2><SCENE 4><34%>
+	Meantime, your cheeks do counterfeit our roses;
+	For pale they look with fear, as witnessing
+	The truth on our side.
+<SPEECH 8><ACT 2><SCENE 4><34%>
+	Hath not thy rose a canker, Somerset?
+<SPEECH 9><ACT 2><SCENE 4><34%>
+	Ay, sharp and piercing, to maintain his truth;
+	Whiles thy consuming canker eats his falsehood.
+<SPEECH 10><ACT 2><SCENE 4><34%>
+	Now, by this maiden blossom in my hand,
+	I scorn thee and thy faction, peevish boy.
+<SPEECH 11><ACT 2><SCENE 4><34%>
+	Proud Pole, I will, and scorn both him and thee.
+<SPEECH 12><ACT 2><SCENE 4><35%>
+	He bears him on the place's privilege,
+	Or durst not, for his craven heart, say thus.
+<SPEECH 13><ACT 2><SCENE 4><35%>
+	My father was attached, not attained;
+	Condemn'd to die for treason, but no traitor;
+	And that I'll prove on better men than Somerset,
+	Were growing time once ripen'd to my will.
+	For your partaker Pole and you yourself,
+	I'll note you in my book of memory,
+	To scourge you for this apprehension:
+	Look to it well and say you are well warn'd.
+<SPEECH 14><ACT 2><SCENE 4><35%>
+	And, by my soul, this pale and angry rose,
+	As cognizance of my blood-drinking hate,
+	Will I for ever and my faction wear,
+	Until it wither with me to my grave
+	Or flourish to the height of my degree.
+<SPEECH 15><ACT 2><SCENE 4><36%>
+	How I am brav'd and must perforce endure it!
+<SPEECH 16><ACT 2><SCENE 4><36%>
+	Good Master Vernon, I am bound to you,
+	That you on my behalf would pluck a flower.
+<SPEECH 17><ACT 2><SCENE 4><36%>
+	Thanks, gentle sir.
+	Come, let us four to dinner: I dare say
+	This quarrel will drink blood another day.
+<SPEECH 18><ACT 2><SCENE 5><38%>
+	Ay, noble uncle, thus ignobly us'd,
+	Your nephew, late despised Richard, comes.
+<SPEECH 19><ACT 2><SCENE 5><38%>
+	First, lean thine aged back against mine arm;
+	And in that ease, I'll tell thee my disease.
+	This day, in argument upon a case,
+	Some words there grew 'twixt Somerset and me;
+	Among which terms he us'd a lavish tongue
+	And did upbraid me with my father's death:
+	Which obloquy set bars before my tongue,
+	Else with the like I had requited him.
+	Therefore, good uncle, for my father's sake,
+	In honour of a true Plantagenet,
+	And for alliance sake, declare the cause
+	My father, Earl of Cambridge, lost his head.
+<SPEECH 20><ACT 2><SCENE 5><38%>
+	Discover more at large what cause that was,
+	For I am ignorant and cannot guess.
+<SPEECH 21><ACT 2><SCENE 5><39%>
+	Of which, my lord, your honour is the last.
+<SPEECH 22><ACT 2><SCENE 5><40%>
+	Thy grave admonishments prevail with me.
+	But yet methinks my father's execution
+	Was nothing less than bloody tyranny.
+<SPEECH 23><ACT 2><SCENE 5><40%>
+	O uncle! would some part of my young years
+	Might but redeem the passage of your age.
+<SPEECH 24><ACT 2><SCENE 5><40%>
+	And peace, no war, befall thy parting soul!
+	In prison hast thou spent a pilgrimage,
+	And like a hermit overpass'd thy days.
+	Well, I will lock his counsel in my breast;
+	And what I do imagine let that rest.
+	Keepers, convey him hence; and I myself
+	Will see his burial better than his life.
+	Here dies the dusky torch of Mortimer,
+	Chok'd with ambition of the meaner sort:
+	And, for those wrongs, those bitter injuries,
+	Which Somerset hath offer'd to my house,
+	I doubt not but with honour to redress;
+	And therefore haste I to the parliament,
+	Either to be restored to my blood,
+	Or make my ill the advantage of my good.
+<SPEECH 25><ACT 3><SCENE 1><43%>
+	</STAGE DIR> Plantagenet, I see, must hold his tongue,
+	Lest it be said, 'Speak, sirrah, when you should;
+	Must your bold verdict enter talk with lords?'
+	Else would I have a fling at Winchester.
+<SPEECH 26><ACT 3><SCENE 1><47%>
+	Thy humble servant vows obedience,
+	And humble service till the point of death.
+<SPEECH 27><ACT 3><SCENE 1><47%>
+	And so thrive Richard as thy foes may fall!
+	And as my duty springs, so perish they
+	That grudge one thought against your majesty!

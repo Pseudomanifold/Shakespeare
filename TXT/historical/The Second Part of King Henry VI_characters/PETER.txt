@@ -1,0 +1,16 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+	</STAGE DIR> Against my master, Thomas Horner, for saying that the Duke of York was rightful heir to the crown.
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	That my master was? No, forsooth: my master said that he was; and that the king was an usurper.
+<SPEECH 3><ACT 1><SCENE 3><17%>
+	By these ten bones, my lords, he did speak them to me in the garret one night, as we were scouring my Lord of York's armour.
+<SPEECH 4><ACT 1><SCENE 3><18%>
+	Alas! my lord, I cannot fight: for God's sake, pity my case! the spite of man prevaileth against me. O Lord, have mercy upon me! I shall never be able to fight a blow. O Lord, my heart!
+<SPEECH 5><ACT 2><SCENE 3><33%>
+	I thank you all: drink, and pray for me, I pray you; for, I think, I have taken my last draught in this world. Here, Robin, an if I die, I give thee my apron: and, Will, thou shalt have my hammer: and here, Tom, take all the money that I have. O Lord bless me! I pray God, for I am never able to deal with my master, he hath learnt so much fence already.
+<SPEECH 6><ACT 2><SCENE 3><34%>
+	Peter, forsooth.
+<SPEECH 7><ACT 2><SCENE 3><34%>
+	Thump.
+<SPEECH 8><ACT 2><SCENE 3><34%>
+	O God! have I overcome mine enemies in this presence? O Peter! thou hast prevailed in right!

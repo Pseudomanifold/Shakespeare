@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 2><SCENE 1><19%>
+	Well, I would you did like me.
+<SPEECH 2><ACT 2><SCENE 1><19%>
+	Which is one?
+<SPEECH 3><ACT 2><SCENE 1><19%>
+	I love you the better; the hearers may cry Amen.
+<SPEECH 4><ACT 2><SCENE 1><19%>
+	Amen.
+<SPEECH 5><ACT 2><SCENE 1><19%>
+	No more words: the clerk is answered.
+<SPEECH 6><ACT 2><SCENE 3><33%>
+	O! good my lord, tax not so bad a voice
+	To slander music any more than once.
+<SPEECH 7><ACT 2><SCENE 3><33%>
+	Because you talk of wooing, I will sing;
+	Since many a wooer doth commence his suit
+	To her he thinks not worthy; yet he woos;
+	Yet will he swear he loves.
+<SPEECH 8><ACT 2><SCENE 3><33%>
+	Note this before my notes;
+	There's not a note of mine that's worth the noting.
+<SPEECH 9><ACT 2><SCENE 3><34%>
+	And an ill singer, my lord.
+<SPEECH 10><ACT 2><SCENE 3><35%>
+	The best I can, my lord.

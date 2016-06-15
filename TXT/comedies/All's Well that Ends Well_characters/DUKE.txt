@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 3><SCENE 1><45%>
+	So that from point to point now have you heard
+	The fundamental reasons of this war,
+	Whose great decision hath much blood let forth,
+	And more thirsts after.
+<SPEECH 2><ACT 3><SCENE 1><45%>
+	Therefore we marvel much our cousin France
+	Would in so just a business shut his bosom
+	Against our borrowing prayers.
+<SPEECH 3><ACT 3><SCENE 1><45%>
+	Be it his pleasure.
+<SPEECH 4><ACT 3><SCENE 1><45%>
+	Welcome shall they be,
+	And all the honours that can fly from us
+	Shall on them settle. You know your places well;
+	When better fall, for your avails they fell.
+	To-morrow to the field.
+<SPEECH 5><ACT 3><SCENE 3><50%>
+	The general of our horse thou art; and we,
+	Great in our hope, lay our best love and credence
+	Upon thy promising fortune.
+<SPEECH 6><ACT 3><SCENE 3><50%>
+	Then go thou forth,
+	And fortune play upon thy prosp'rous helm
+	As thy auspicious mistress!

@@ -1,0 +1,20 @@
+<SPEECH 1><ACT 1><SCENE 3><12%>
+	In that you brook it ill, it makes him worse:
+	Therefore, for God's sake, entertain good comfort,
+	And cheer his Grace with quick and merry words.
+<SPEECH 2><ACT 1><SCENE 3><12%>
+	No other harm but loss of such a lord.
+<SPEECH 3><ACT 1><SCENE 3><12%>
+	The heavens have bless'd you with a goodly son,
+	To be your comforter when he is gone.
+<SPEECH 4><ACT 1><SCENE 3><12%>
+	Here come the Lords of Buckingham and Stanley.
+<SPEECH 5><ACT 1><SCENE 3><13%>
+	To whom in all this presence speaks your Grace?
+<SPEECH 6><ACT 3><SCENE 3><49%>
+	God bless the prince from all the pack of you!
+	A knot you are of damned blood suckers.
+<SPEECH 7><ACT 3><SCENE 3><50%>
+	Now Margaret's curse is fall'n upon our heads,
+	When she exclaim'd on Hastings, you, and I,
+	For standing by when Richard stabb'd her son.

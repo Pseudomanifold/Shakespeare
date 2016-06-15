@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 1><SCENE 4><19%>
+	Where's the lord governor?
+<SPEECH 2><ACT 1><SCENE 4><19%>
+	We have descried, upon our neighbouring shore,
+	A portly sail of ships make hitherward.
+<SPEECH 3><ACT 1><SCENE 4><19%>
+	That's the least fear; for by the semblance
+	Of their white flags display'd, they bring us peace,
+	And come to us as favourers, not as foes.
+<SPEECH 4><ACT 1><SCENE 4><20%>
+	I go, my lord.

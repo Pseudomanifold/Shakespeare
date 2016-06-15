@@ -1,0 +1,40 @@
+<SPEECH 1><ACT 4><SCENE 3><67%>
+	Brother, good night; to-morrow is the day.
+<SPEECH 2><ACT 4><SCENE 3><67%>
+	Nothing. What news?
+<SPEECH 3><ACT 4><SCENE 3><67%>
+	Well, sir, good night.
+<SPEECH 4><ACT 4><SCENE 3><68%>
+	List, list!
+<SPEECH 5><ACT 4><SCENE 3><68%>
+	Music i' the air.
+<SPEECH 6><ACT 4><SCENE 3><68%>
+	Peace, I say!
+	What should this mean?
+<SPEECH 7><ACT 4><SCENE 3><68%>
+	Walk; let's see if other watchmen
+	Do hear what we do.
+<SPEECH 8><ACT 4><SCENE 3><68%>
+	Ay; is 't not strange?
+<SPEECH 9><ACT 4><SCENE 3><68%>
+	Follow the noise so far as we have quarter;
+	Let's see how 't will give off.
+<SPEECH 10><ACT 4><SCENE 1><74%>
+	If we be not reliev'd within this hour,
+	We must return to the court of guard: the night
+	Is shiny, and they say we shall embattle
+	By the second hour i' the morn.
+<SPEECH 11><ACT 4><SCENE 1><74%>
+	Enobarbus!
+<SPEECH 12><ACT 4><SCENE 1><75%>
+	Let's hear him, for the things he speaks
+	May concern Cæsar.
+<SPEECH 13><ACT 4><SCENE 1><75%>
+	Swounds rather; for so bad a prayer as his
+	Was never yet for sleep.
+<SPEECH 14><ACT 4><SCENE 1><75%>
+	The Land of death hath raught him.
+	Hark! the drums
+	Demurely wake the sleepers. Let us bear him
+	To the court of guard; he is of note: our hour
+	Is fully out.

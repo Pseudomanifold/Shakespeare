@@ -1,0 +1,30 @@
+<SPEECH 1><ACT 4><SCENE 1><67%>
+	Fellows, stand fast; I see a passenger.
+<SPEECH 2><ACT 4><SCENE 1><68%>
+	That's not so, sir; we are your enemies.
+<SPEECH 3><ACT 4><SCENE 1><68%>
+	Whence came you?
+<SPEECH 4><ACT 4><SCENE 1><68%>
+	Why, ne'er repent it, if it were done so.
+	But were you banish'd for so small a fault?
+<SPEECH 5><ACT 4><SCENE 1><69%>
+	We'll have him: Sirs, a word.
+<SPEECH 6><ACT 4><SCENE 1><69%>
+	And I for such like petty crimes as these.
+	But to the purpose; for we cite our faults,
+	That they may hold excus'd our lawless lives;
+	And, partly, seeing you are beautified
+	With goodly shape, and by your own report
+	A linguist, and a man of such perfection
+	As we do in our quality much want—
+<SPEECH 7><ACT 4><SCENE 1><70%>
+	But if thou scorn our courtesy, thou diest.
+<SPEECH 8><ACT 5><SCENE 3><91%>
+	Come, come,
+	Be patient; we must bring you to our captain.
+<SPEECH 9><ACT 5><SCENE 3><92%>
+	Where is the gentleman that was with her?
+<SPEECH 10><ACT 5><SCENE 3><92%>
+	Come, I must bring you to our captain's cave.
+	Fear not; he bears an honourable mind,
+	And will not use a woman lawlessly.

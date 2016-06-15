@@ -1,0 +1,244 @@
+<SPEECH 1><ACT 1><SCENE 1><11%>
+	Tranio, since for the great desire I had
+	To see fair Padua, nursery of arts,
+	I am arriv'd for fruitful Lombardy,
+	The pleasant garden of great Italy;
+	And by my father's love and leave am arm'd
+	With his good will and thy good company,
+	My trusty servant well approv'd in all,
+	Here let us breathe, and haply institute
+	A course of learning and ingenious studies.
+	Pisa, renowned for grave citizens,
+	Gave me my being and my father first,
+	A merchant of great traffic through the world,
+	Vincentio, come of the Bentivolii.
+	Vincentio's son, brought up in Florence,
+	It shall become to serve all hopes conceiv'd,
+	To deck his fortune with his virtuous deeds:
+	And therefore, Tranio, for the time I study,
+	Virtue and that part of philosophy
+	Will I apply that treats of happiness
+	By virtue specially to be achiev'd.
+	Tell me thy mind; for I have Pisa left
+	And am to Padua come, as he that leaves
+	A shallow plash to plunge him in the deep,
+	And with satiety seeks to quench his thirst.
+<SPEECH 2><ACT 1><SCENE 1><13%>
+	Gramercies, Tranio, well dost thou advise.
+	If, Biondello, thou wert come ashore,
+	We could at once put us in readiness,
+	And take a lodging fit to entertain
+	Such friends as time in Padua shall beget.
+	But stay awhile: what company is this?
+<SPEECH 3><ACT 1><SCENE 1><14%>
+	But in the other's silence do I see
+	Maid's mild behaviour and sobriety.
+	Peace, Tranio!
+<SPEECH 4><ACT 1><SCENE 1><14%>
+	Hark, Tranio! thou mayst hear Minerva speak.
+<SPEECH 5><ACT 1><SCENE 1><17%>
+	O Tranio! till I found it to be true,
+	I never thought it possible or likely;
+	But see, while idly I stood looking on,
+	I found the effect of love in idleness;
+	And now in plainness do confess to thee,
+	That art to me as secret and as dear
+	As Anna to the Queen of Carthage was,
+	Tranio, I burn, I pine, I perish, Tranio,
+	If I achieve not this young modest girl.
+	Counsel me, Tranio, for I know thou canst:
+	Assist me, Tranio, for I know thou wilt.
+<SPEECH 6><ACT 1><SCENE 1><17%>
+	Gramercies, lad; go forward: this contents:
+	The rest will comfort, for thy counsel's sound.
+<SPEECH 7><ACT 1><SCENE 1><17%>
+	O yes, I saw sweet beauty in her face,
+	Such as the daughter of Agenor had,
+	That made great Jove to humble him to her hand,
+	When with his knees he kiss'd the Cretan strand.
+<SPEECH 8><ACT 1><SCENE 1><17%>
+	Tranio, I saw her coral lips to move,
+	And with her breath she did perfume the air;
+	Sacred and sweet was all I saw in her.
+<SPEECH 9><ACT 1><SCENE 1><18%>
+	Ah, Tranio, what a cruel father's he!
+	But art thou not advis'd he took some care
+	To get her cunning schoolmasters to instruct her?
+<SPEECH 10><ACT 1><SCENE 1><18%>
+	I have it, Tranio.
+<SPEECH 11><ACT 1><SCENE 1><18%>
+	Tell me thine first.
+<SPEECH 12><ACT 1><SCENE 1><18%>
+	It is: may it be done?
+<SPEECH 13><ACT 1><SCENE 1><18%>
+	Basta; content thee; for I have it full.
+	We have not yet been seen in any house,
+	Nor can we be distinguish'd by our faces
+	For man, or master: then, it follows thus:
+	Thou shalt be master, Tranio, in my stead,
+	Keep house, and port, and servants, as I should:
+	I will some other be; some Florentine,
+	Some Neapolitan, or meaner man of Pisa.
+	'Tis hatch'd and shall be so: Tranio, at once
+	Uncase thee, take my colour'd hat and cloak:
+	When Biondello comes, he waits on thee;
+	But I will charm him first to keep his tongue.
+<SPEECH 14><ACT 1><SCENE 1><19%>
+	Tranio, be so, because Lucentio loves;
+	And let me be a slave, to achieve that maid
+	Whose sudden sight hath thrall'd my wounded eye.
+	Here comes the rogue.
+	Sirrah, where have you been?
+<SPEECH 15><ACT 1><SCENE 1><19%>
+	Sirrah, come hither: 'tis no time to jest,
+	And therefore frame your manners to the time.
+	Your fellow Tranio, here, to save my life,
+	Puts my apparel and my countenance on,
+	And I for my escape have put on his;
+	For in a quarrel since I came ashore
+	I kill'd a man, and fear I was descried.
+	Wait you on him, I charge you, as becomes,
+	While I make way from hence to save my life:
+	You understand me?
+<SPEECH 16><ACT 1><SCENE 1><20%>
+	And not a jot of Tranio in your mouth:
+	Tranio is changed to Lucentio.
+<SPEECH 17><ACT 1><SCENE 1><20%>
+	Tranio, let's go. One thing more rests, that thyself execute, to make one among these wooers: if thou ask me why, sufficeth my reasons are both good and weighty.
+<SPEECH 18><ACT 1><SCENE 2><26%>
+	Whate'er I read to her, I'll plead for you,
+	As for my patron, stand you so assur'd,
+	As firmly as yourself were still in place;
+	Yea, and perhaps with more successful words
+	Than you, unless you were a scholar, sir.
+<SPEECH 19><ACT 1><SCENE 2><29%>
+	</STAGE DIR> Well begun, Tranio.
+<SPEECH 20><ACT 1><SCENE 2><30%>
+	Sir, give him head: I know he'll prove a jade.
+<SPEECH 21><ACT 3><SCENE 1><47%>
+	Fiddler, forbear; you grow too forward, sir:
+	Have you so soon forgot the entertainment
+	Her sister Katharine welcom'd you withal?
+<SPEECH 22><ACT 3><SCENE 1><47%>
+	Preposterous ass, that never read so far
+	To know the cause why music was ordain'd!
+	Was it not to refresh the mind of man
+	After his studies or his usual pain?
+	Then give me leave to read philosophy,
+	And while I pause, serve in your harmony.
+<SPEECH 23><ACT 3><SCENE 1><48%>
+	That will be never: tune vour instrument.
+<SPEECH 24><ACT 3><SCENE 1><48%>
+	Here, madam:—
+	Hac ibat Simois; hic est Sigeia tellus;
+	Hic steterat Priami regia celsa senis.
+<SPEECH 25><ACT 3><SCENE 1><48%>
+	Hac ibat, as I told you before, Simois, I am Lucentio, hic est, son unto Vincentio of Pisa, Sigeia tellus, disguised thus to get your love; Hic steterat, and that Lucentio that comes a wooing, Priami, is my man Tranio, regia, bearing my port, celsa senis, that we might beguile the old pantaloon.
+<SPEECH 26><ACT 3><SCENE 1><48%>
+	Spit in the hole, man, and tune again.
+<SPEECH 27><ACT 3><SCENE 1><48%>
+	All but the base.
+<SPEECH 28><ACT 3><SCENE 1><49%>
+	Mistrust it not; for, sure, Æacides
+	Was Ajax, call'd so from his grandfather.
+<SPEECH 29><ACT 3><SCENE 1><49%>
+	Are you so formal, sir? <STAGE DIR>
+	</STAGE DIR> Well, I must wait,
+	And watch withal; for, but I be deceiv'd,
+	Our fine musician groweth amorous.
+<SPEECH 30><ACT 3><SCENE 1><50%>
+	Faith, mistress, then I have no cause to stay.
+<SPEECH 31><ACT 3><SCENE 2><55%>
+	Were it not that my fellow schoolmaster
+	Doth watch Bianca's steps so narrowly,
+	'Twere good, methinks, to steal our marriage;
+	Which once perform'd, let all the world say no,
+	I'll keep mine own, despite of all the world.
+<SPEECH 32><ACT 3><SCENE 2><59%>
+	Mistress, what's your opinion of your sister?
+<SPEECH 33><ACT 4><SCENE 2><68%>
+	Now, mistress, profit you in what you read?
+<SPEECH 34><ACT 4><SCENE 2><68%>
+	I read that I profess, the Art to Love.
+<SPEECH 35><ACT 4><SCENE 2><68%>
+	While you, sweet dear, prove mistress of my heart.
+<SPEECH 36><ACT 4><SCENE 2><69%>
+	Then we are rid of Licio.
+<SPEECH 37><ACT 4><SCENE 2><70%>
+	And what of him, Tranio?
+<SPEECH 38><ACT 4><SCENE 4><82%>
+	I pray the gods she may with all my heart!
+<SPEECH 39><ACT 4><SCENE 4><82%>
+	What sayst thou, Biondello?
+<SPEECH 40><ACT 4><SCENE 4><82%>
+	Biondello, what of that?
+<SPEECH 41><ACT 4><SCENE 4><82%>
+	I pray thee, moralize them.
+<SPEECH 42><ACT 4><SCENE 4><82%>
+	And what of him?
+<SPEECH 43><ACT 4><SCENE 4><82%>
+	And then?
+<SPEECH 44><ACT 4><SCENE 4><83%>
+	And what of all this?
+<SPEECH 45><ACT 4><SCENE 4><83%>
+	Hearest thou, Biondello?
+<SPEECH 46><ACT 4><SCENE 4><83%>
+	I may, and will, if she be so contented:
+	She will be pleas'd; then wherefore should I doubt?
+	Hap what hap may, I'll roundly go about her:
+	It shall go hard if Cambio go without her.
+<SPEECH 47><ACT 5><SCENE 1><87%>
+	I fly, Biondello: but they may chance to need thee at home; therefore leave us.
+<SPEECH 48><ACT 5><SCENE 1><90%>
+	</STAGE DIR> Pardon, sweet father.
+<SPEECH 49><ACT 5><SCENE 1><91%>
+	Here's Lucentio,
+	Right son to the right Vincentio;
+	That have by marriage made thy daughter mine,
+	While counterfeit supposes blear'd thine eyne.
+<SPEECH 50><ACT 5><SCENE 1><91%>
+	Love wrought these miracles. Bianca's love
+	Made me exchange my state with Tranio,
+	While he did bear my countenance in the town;
+	And happily I have arriv'd at last
+	Unto the wished haven of my bliss.
+	What Tranio did, myself enforc'd him to;
+	Then pardon him, sweet father, for my sake.
+<SPEECH 51><ACT 5><SCENE 1><92%>
+	Look not pale, Bianca; thy father will not frown.
+<SPEECH 52><ACT 5><SCENE 2><92%>
+	At last, though long, our jarring notes agree:
+	And time it is, when raging war is done,
+	To smile at 'scapes and perils overblown.
+	My fair Bianca, bid my father welcome,
+	While I with self-same kindness welcome thine.
+	Brother Petruchio, sister Katharina,
+	And thou, Hortensio, with thy loving widow,
+	Feast with the best, and welcome to my house:
+	My banquet is to close our stomachs up,
+	After our great good cheer. Pray you, sit down;
+	For now we sit to chat as well as eat.
+<SPEECH 53><ACT 5><SCENE 2><95%>
+	I thank thee for that gird, good Tranio.
+<SPEECH 54><ACT 5><SCENE 2><95%>
+	Twenty crowns.
+<SPEECH 55><ACT 5><SCENE 2><95%>
+	A hundred then.
+<SPEECH 56><ACT 5><SCENE 2><95%>
+	That will I.
+	Go, Biondello, bid your mistress come to me.
+<SPEECH 57><ACT 5><SCENE 2><96%>
+	I'll have no halves; I'll bear it all myself.
+	How now! what news?
+<SPEECH 58><ACT 5><SCENE 2><97%>
+	Here is a wonder, if you talk of a wonder.
+<SPEECH 59><ACT 5><SCENE 2><98%>
+	I would your duty were as foolish too:
+	The wisdom of your duty, fair Bianca,
+	Hath cost me an hundred crowns since supper-time.
+<SPEECH 60><ACT 5><SCENE 2><100%>
+	Well, go thy ways, old lad, for thou shalt ha't.
+<SPEECH 61><ACT 5><SCENE 2><100%>
+	But a harsh hearing when women are froward.
+<SPEECH 62><ACT 5><SCENE 2><100%>
+	'Tis a wonder, by your leave, she will be tam'd so.

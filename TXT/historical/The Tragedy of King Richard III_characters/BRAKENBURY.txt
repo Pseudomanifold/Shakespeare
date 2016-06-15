@@ -1,0 +1,55 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	I beseech your Graces both to pardon me;
+	His majesty hath straitly given in charge
+	That no man shall have private conference,
+	Of what degree soever, with your brother.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	With this, my lord, myself have nought to do.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	What one, my lord?
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	I beseech your Grace to pardon me; and withal
+	Forbear your conference with the noble duke.
+<SPEECH 5><ACT 1><SCENE 4><21%>
+	Why looks your Grace so heavily to-day?
+<SPEECH 6><ACT 1><SCENE 4><21%>
+	What was your dream, my lord? I pray you, tell me.
+<SPEECH 7><ACT 1><SCENE 4><22%>
+	Had you such leisure in the time of death
+	To gaze upon those secrets of the deep?
+<SPEECH 8><ACT 1><SCENE 4><22%>
+	Awak'd you not with this sore agony?
+<SPEECH 9><ACT 1><SCENE 4><23%>
+	No marvel, lord, though it affrighted you;
+	I am afraid, methinks, to hear you tell it.
+<SPEECH 10><ACT 1><SCENE 4><23%>
+	I will, my lord. God give your Grace good rest!
+	Sorrow breaks seasons and reposing hours,
+	Makes the night morning, and the noon-tide night.
+	Princes have but their titles for their glories,
+	An outward honour for an inward toil;
+	And, for unfelt imaginations,
+	They often feel a world of restless cares:
+	So that, between their titles and low names,
+	There's nothing differs but the outward fame.
+<SPEECH 11><ACT 1><SCENE 4><23%>
+	What wouldst thou, fellow? and how cam'st thou hither?
+<SPEECH 12><ACT 1><SCENE 4><23%>
+	What! so brief?
+<SPEECH 13><ACT 1><SCENE 4><24%>
+	I am, in this, commanded to deliver
+	The noble Duke of Clarence to your hands:
+	I will not reason what is meant hereby,
+	Because I will be guiltless of the meaning.
+	There lies the duke asleep, and there the keys.
+	I'll to the king; and signify to him
+	That thus I have resign'd to you my charge.
+<SPEECH 14><ACT 4><SCENE 1><63%>
+	Right well, dear madam. By your patience,
+	I may not suffer you to visit them:
+	The king hath strictly charg'd the contrary.
+<SPEECH 15><ACT 4><SCENE 1><63%>
+	I mean the Lord Protector.
+<SPEECH 16><ACT 4><SCENE 1><64%>
+	No, madam, no, I may not leave it so:
+	I am bound by oath, and therefore pardon me.

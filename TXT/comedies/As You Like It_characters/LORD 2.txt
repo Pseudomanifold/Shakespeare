@@ -1,0 +1,17 @@
+<SPEECH 1><ACT 2><SCENE 1><25%>
+	We did, my lord, weeping and commenting
+	Upon the sobbing deer.
+<SPEECH 2><ACT 2><SCENE 1><25%>
+	I'll bring you to him straight.
+<SPEECH 3><ACT 2><SCENE 2><25%>
+	My lord, the roynish clown, at whom so oft
+	Your Grace was wont to laugh, is also missing.
+	Hisperia, the princess' gentlewoman,
+	Confesses that she secretly o'erheard
+	Your daughter and her cousin much commend
+	The parts and graces of the wrestler
+	That did but lately foil the sinewy Charles;
+	And she believes, wherever they are gone,
+	That youth is surely in their company.
+<SPEECH 4><ACT 4><SCENE 2><76%>
+	Yes, sir.

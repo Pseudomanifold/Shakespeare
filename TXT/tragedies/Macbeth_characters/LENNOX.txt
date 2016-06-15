@@ -1,0 +1,93 @@
+<SPEECH 1><ACT 1><SCENE 2><3%>
+	What a haste looks through his eyes! So should he look
+	That seems to speak things strange.
+<SPEECH 2><ACT 2><SCENE 3><32%>
+	Good morrow, noble sir.
+<SPEECH 3><ACT 2><SCENE 3><32%>
+	Goes the king hence to-day?
+<SPEECH 4><ACT 2><SCENE 3><32%>
+	The night has been unruly: where we lay,
+	Ourchimneys were blown down; and, as they say,
+	Lamentings heard i' the air; strange screams of death,
+	And prophesying with accents terrible
+	Of dire combustion and confus'd events
+	New hatch'd to the woeful time. The obscure bird
+	Clamour'd the livelong night: some say the earth
+	Was feverous and did shake.
+<SPEECH 5><ACT 2><SCENE 3><33%>
+	My young remembrance cannot parallel
+	A fellow to it.
+<SPEECH 6><ACT 2><SCENE 3><33%>
+	What's the matter?
+<SPEECH 7><ACT 2><SCENE 3><33%>
+	Mean you his majesty?
+<SPEECH 8><ACT 2><SCENE 3><35%>
+	Those of his chamber, as it seem'd, had done 't:
+	Their hands and faces were all badg'd with blood;
+	So were their daggers, which unwip'd we found
+	Upon their pillows: they star'd, and were distracted; no man's life
+	Was to be trusted with them.
+<SPEECH 9><ACT 3><SCENE 4><52%>
+	May it please your highness sit?
+<SPEECH 10><ACT 3><SCENE 4><52%>
+	Here is a place reserv'd, sir.
+<SPEECH 11><ACT 3><SCENE 4><52%>
+	Here, my good lord. What is 't that moves your highness?
+<SPEECH 12><ACT 3><SCENE 4><55%>
+	Good-night; and better health
+	Attend his majesty!
+<SPEECH 13><ACT 3><SCENE 6><58%>
+	My former speeches have but hit your thoughts,
+	Which can interpret further: only, I say,
+	Things have been strangely borne. The gracious Duncan
+	Was pitied of Macbeth: marry, he was dead:
+	And the right-valiant Banquo walk'd too late;
+	Whom, you may say, if 't please you, Fleance kill'd,
+	For Fleance fled: men must not walk too late.
+	Who cannot want the thought how monstrous
+	It was for Malcolm and for Donalbain
+	To kill their gracious father? damned fact!
+	How it did grieve Macbeth! did he not straight
+	In pious rage the two delinquents tear,
+	That were the slaves of drink and thralls of sleep?
+	Was not that nobly done? Ay, and wisely too;
+	For 'twould have anger'd any heart alive
+	To hear the men deny 't. So that, I say,
+	He has borne all things well; and I do think
+	That, had he Duncan's sons under his key,—
+	As, an 't please heaven, he shall not,—they should find
+	What 'twere to kill a father; so should Fleance.
+	But, peace! for from broad words, and 'cause he fail'd.
+	His presence at the tyrant's feast, I hear,
+	Macduff lives in disgrace. Sir, can you tell
+	Where he bestows himself?
+<SPEECH 14><ACT 3><SCENE 6><60%>
+	Sent he to Macduff?
+<SPEECH 15><ACT 3><SCENE 6><60%>
+	And that well might
+	Advise him to a caution to hold what distance
+	His wisdom can provide. Some holy angel
+	Fly to the court of England and unfold
+	His message ere he come, that a swift blessing
+	May soon return to this our suffering country
+	Under a hand accurs'd!
+<SPEECH 16><ACT 4><SCENE 1><67%>
+	What's your Grace's will?
+<SPEECH 17><ACT 4><SCENE 1><67%>
+	No, my lord.
+<SPEECH 18><ACT 4><SCENE 1><67%>
+	No indeed, my lord.
+<SPEECH 19><ACT 4><SCENE 1><67%>
+	'Tis two or three, my lord, that bring you word
+	Macduff is fled to England.
+<SPEECH 20><ACT 4><SCENE 1><67%>
+	Ay, my good lord.
+<SPEECH 21><ACT 5><SCENE 2><86%>
+	For certain, sir, he is not: I have a file
+	Of all the gentry: there is Siward's son,
+	And many unrough youths that even now
+	Protest their first of manhood.
+<SPEECH 22><ACT 5><SCENE 2><87%>
+	Or so much as it needs
+	To dew the sovereign flower and drown the weeds.
+	Make we our march towards Birnam.

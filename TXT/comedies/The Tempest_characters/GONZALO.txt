@@ -1,0 +1,184 @@
+<SPEECH 1><ACT 1><SCENE 1><1%>
+	Nay, good, be patient.
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Good, yet remember whom thou hast aboard.
+<SPEECH 3><ACT 1><SCENE 1><2%>
+	I have great comfort from this fellow: methinks he hath no drowning mark upon him; his complexion is perfect gallows. Stand fast, good Fate, to his hanging! make the rope of his destiny our cable, for our own doth little advantage! If he be not born to be hanged, our case is miserable.
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	I'll warrant him for drowning; though the ship were no stronger than a nutshell, and as leaky as an unstanched wench.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	The king and prince at prayers! let us assist them,
+	For our case is as theirs.
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	He'll be hang'd yet,
+	Though every drop of water swear against it,
+	And gape at wid'st to glut him.
+	'We split, we split!'—'Farewell, my wife and children!'—
+	'Farewell, brother!'—'We split, we split, we split!'—]
+<SPEECH 7><ACT 1><SCENE 1><4%>
+	Now would I give a thousand furlongs of sea for an acre of barren ground; long heath, brown furze, any thing. The wills above be done! but I would fain die a dry death.
+<SPEECH 8><ACT 2><SCENE 1><29%>
+	Beseech you, sir, be merry: you have cause,
+	So have we all, of joy; for our escape
+	Is much beyond our loss. Our hint of woe
+	Is common: every day some sailor's wife,
+	The masters of some merchant and the merchant,
+	Have just our theme of woe; but for the miracle,
+	I mean our preservation, few in millions
+	Can speak like us: then wisely, good sir, weigh
+	Our sorrow with our comfort.
+<SPEECH 9><ACT 2><SCENE 1><29%>
+	Sir,—
+<SPEECH 10><ACT 2><SCENE 1><29%>
+	When every grief is entertain'd that's offer'd,
+	Comes to the entertainer—
+<SPEECH 11><ACT 2><SCENE 1><29%>
+	Dolour comes to him, indeed: you have spoken truer than you purposed.
+<SPEECH 12><ACT 2><SCENE 1><30%>
+	Therefore, my lord,—
+<SPEECH 13><ACT 2><SCENE 1><30%>
+	Well, I have done: but yet—
+<SPEECH 14><ACT 2><SCENE 1><31%>
+	Here is everything advantageous to life.
+<SPEECH 15><ACT 2><SCENE 1><31%>
+	How lush and lusty the grass looks! how green!
+<SPEECH 16><ACT 2><SCENE 1><31%>
+	But the rarity of it is,—which is indeed almost beyond credit,—
+<SPEECH 17><ACT 2><SCENE 1><31%>
+	That our garments, being, as they were, drenched in the sea, hold notwithstanding their freshness and glosses; being rather new-dyed than stain'd with salt water.
+<SPEECH 18><ACT 2><SCENE 1><31%>
+	Methinks, our garments are now as fresh as when we put them on first in Afric, at the marriage of the king's fair daughter Claribel to the King of Tunis.
+<SPEECH 19><ACT 2><SCENE 1><32%>
+	Not since widow Dido's time.
+<SPEECH 20><ACT 2><SCENE 1><32%>
+	This Tunis, sir, was Carthage.
+<SPEECH 21><ACT 2><SCENE 1><32%>
+	I assure you, Carthage.
+<SPEECH 22><ACT 2><SCENE 1><32%>
+	</STAGE DIR> Sir, we were talking that our garments seem now as fresh as when we were at Tunis at the marriage of your daughter, who is now queen.
+<SPEECH 23><ACT 2><SCENE 1><33%>
+	Is not, sir, my doublet as fresh as the first day I wore it? I mean, in a sort.
+<SPEECH 24><ACT 2><SCENE 1><33%>
+	When I wore it at your daughter's marriage?
+<SPEECH 25><ACT 2><SCENE 1><34%>
+	My lord Sebastian,
+	The truth you speak doth lack some gentleness
+	And time to speak it in; you rub the sore,
+	When you should bring the plaster.
+<SPEECH 26><ACT 2><SCENE 1><34%>
+	It is foul weather in us all, good sir,
+	When you are cloudy.
+<SPEECH 27><ACT 2><SCENE 1><34%>
+	Had I plantation of this isle, my lord,—
+<SPEECH 28><ACT 2><SCENE 1><35%>
+	'And were the king on't, what would I do?
+<SPEECH 29><ACT 2><SCENE 1><35%>
+	I' the commonwealth I would by contraries
+	Execute all things; for no kind of traffic
+	Would I admit; no name of magistrate;
+	Letters should not be known; riches, poverty,
+	And use of service, none; contract, succession,
+	Bourn, bound of land, tilth, vineyard, none;
+	No use of metal, corn, or wine, or oil;
+	No occupation; all men idle, all;
+	And women too, but innocent and pure;
+	No sovereignty,—
+<SPEECH 30><ACT 2><SCENE 1><35%>
+	All things in common nature should produce
+	Without sweat or endeavour: treason, felony,
+	Sword, pike, knife, gun, or need of any engine,
+	Would I not have; but nature should bring forth,
+	Of its own kind, all foison, all abundance,
+	To feed my innocent people.
+<SPEECH 31><ACT 2><SCENE 1><36%>
+	I would with such perfection govern, sir,
+	To excel the golden age
+<SPEECH 32><ACT 2><SCENE 1><36%>
+	And,—do you mark me, sir?
+<SPEECH 33><ACT 2><SCENE 1><36%>
+	I do well believe your highness; and did it to minister occasion to these gentlemen, who are of such sensible and nimble lungs that they always use to laugh at nothing.
+<SPEECH 34><ACT 2><SCENE 1><36%>
+	Who in this kind of merry fooling am nothing to you; so you may continue and laugh at nothing still.
+<SPEECH 35><ACT 2><SCENE 1><36%>
+	You are gentlemen of brave mettle: you would lift the moon out of her sphere, if she would continue in it five weeks without changing.
+<SPEECH 36><ACT 2><SCENE 1><36%>
+	No, I warrant you; I will not adventure my discretion so weakly. Will you laugh me asleep, for I am very heavy?
+<SPEECH 37><ACT 2><SCENE 1><42%>
+	Now, good angels
+	Preserve the king!
+<SPEECH 38><ACT 2><SCENE 1><42%>
+	What's the matter?
+<SPEECH 39><ACT 2><SCENE 1><43%>
+	Upon mine honour, sir, I heard a humming,
+	And that a strange one too, which did awake me.
+	I shak'd you, sir, and cry'd; as mine eyes open'd,
+	I saw their weapons drawn:—there was a noise,
+	That's verily. 'Tis best we stand upon our guard,
+	Or that we quit this place: let's draw our weapons.
+<SPEECH 40><ACT 2><SCENE 1><43%>
+	Heavens keep him from these beasts!
+	For he is, sure, i' the island.
+<SPEECH 41><ACT 3><SCENE 3><64%>
+	By'r lakin, I can go no further, sir;
+	My old bones ache: here's a maze trod indeed,
+	Through forth-rights, and meanders! by your patience,
+	I needs must rest me.
+<SPEECH 42><ACT 3><SCENE 3><65%>
+	Marvellous sweet music!
+<SPEECH 43><ACT 3><SCENE 3><66%>
+	If in Naples
+	I should report this now, would they believe me?
+	If I should say I saw such islanders,—
+	For, certes, these are people of the island,—
+	Who, though they are of monstrous shape, yet, note,
+	Their manners are more gentle-kind than of
+	Our human generation you shall find
+	Many, nay, almost any.
+<SPEECH 44><ACT 3><SCENE 3><67%>
+	Faith, sir, you need not fear. When we were boys,
+	Who would believe that there were mountaineers
+	Dew-lapp'd like bulls, whose throats had hanging at them
+	Wallets of flesh? or that there were such men
+	Whose heads stood in their breasts? which now we find
+	Each putter-out of five for one will bring us
+	Good warrant of.
+<SPEECH 45><ACT 3><SCENE 3><69%>
+	I the name of something holy, sir, why stand you
+	In this strange stare?
+<SPEECH 46><ACT 3><SCENE 3><70%>
+	All three of them are desperate; their great guilt,
+	Like poison given to work a great time after,
+	Now 'gins to bite the spirits.—I do beseech you
+	That are of suppler joints, follow them swiftly
+	And hinder them from what this ecstasy
+	May now provoke them to.
+<SPEECH 47><ACT 5><SCENE 1><88%>
+	All torment, trouble, wonder, and amazement
+	Inhabits here: some heavenly power guide us
+	Out of this fearful country!
+<SPEECH 48><ACT 5><SCENE 1><89%>
+	Whether this be,
+	Or be not, I'll not swear.
+<SPEECH 49><ACT 5><SCENE 1><93%>
+	I have inly wept,
+	Or should have spoke ere this. Look down, you gods,
+	And on this couple drop a blessed crown;
+	For it is you that have chalk'd forth the way
+	Which brought us hither!
+<SPEECH 50><ACT 5><SCENE 1><93%>
+	Was Milan thrust from Milan, that his issue
+	Should become kings of Naples? O, rejoice
+	Beyond a common joy, and set it down
+	With gold on lasting pillars. In one voyage
+	Did Claribel her husband find at Tunis,
+	And Ferdinand, her brother, found a wife
+	Where he himself was lost; Prospero his dukedom
+	In a poor isle; and all of us ourselves,
+	When no man was his own.
+<SPEECH 51><ACT 5><SCENE 1><94%>
+	Be it so: Amen!
+	O look, sir! look, sir! here are more of us.
+	I prophesied, if a gallows were on land,
+	This fellow could not drown.—Now, blasphemy,
+	That swear'st grace o'erboard, not an oath on shore?
+	Hast thou no mouth by land? What is the news?

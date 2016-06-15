@@ -1,0 +1,148 @@
+<SPEECH 1><ACT 1><SCENE 1><2%>
+	</STAGE DIR> What shall Cordelia do? Love, and be silent.
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	</STAGE DIR> Then, poor Cordelia!
+	And yet not so; since, I am sure, my love's
+	More richer than my tongue.
+<SPEECH 3><ACT 1><SCENE 1><3%>
+	Nothing, my lord.
+<SPEECH 4><ACT 1><SCENE 1><3%>
+	Nothing.
+<SPEECH 5><ACT 1><SCENE 1><3%>
+	Unhappy that I am, I cannot heave
+	My heart into my mouth: I love your majesty
+	According to my bond; nor more nor less.
+<SPEECH 6><ACT 1><SCENE 1><3%>
+	Good my lord,
+	You have begot me, bred me, lov'd me: I
+	Return those duties back as are right fit,
+	Obey you, love you, and most honour you.
+	Why have my sisters husbands, if they say
+	They love you all? Haply, when I shall wed,
+	That lord whose hand must take my plight shall carry
+	Half my love with him, half my care and duty:
+	Sure I shall never marry like my sisters,
+	To love my father all.
+<SPEECH 7><ACT 1><SCENE 1><3%>
+	Ay, good my lord.
+<SPEECH 8><ACT 1><SCENE 1><3%>
+	So young, my lord, and true.
+<SPEECH 9><ACT 1><SCENE 1><7%>
+	I yet beseech your majesty—
+	If for I want that glib and oily art
+	To speak and purpose not; since what I well intend,
+	I'll do 't before I speak—that you make known
+	It is no vicious blot nor other foulness,
+	No unchaste action, or dishonour'd step,
+	That hath depriv'd me of your grace and favour,
+	But even for want of that for which I am richer,
+	A still-soliciting eye, and such a tongue
+	That I am glad I have not, though not to have it
+	Hath lost me in your liking.
+<SPEECH 10><ACT 1><SCENE 1><8%>
+	Peace be with Burgundy!
+	Since that respects of fortune are his love,
+	I shall not be his wife.
+<SPEECH 11><ACT 1><SCENE 1><8%>
+	The jewels of our father, with wash'd eyes
+	Cordelia leaves you: I know you what you are;
+	And like a sister am most loath to call
+	Your faults as they are nam'd. Use well our father:
+	To your professed bosoms I commit him:
+	But yet, alas! stood I within his grace,
+	I would prefer him to a better place.
+	So farewell to you both.
+<SPEECH 12><ACT 1><SCENE 1><9%>
+	Time shall unfold what plighted cunning hides;
+	Who covers faults, at last shame them derides.
+	Well may you prosper!
+<SPEECH 13><ACT 4><SCENE 4><73%>
+	Alack! 'tis he: why, he was met even now
+	As mad as the vex'd sea; singing aloud;
+	Crown'd with rank fumiter and furrow weeds,
+	With burdocks, hemlock, nettles, cuckoo-flowers,
+	Darnel, and all the idle weeds that grow
+	In our sustaining corn. A century send forth;
+	Search every acre in the high-grown field,
+	And bring him to our eye.
+	What can man's wisdom
+	In the restoring his bereaved sense?
+	He that helps him take all my outward worth.
+<SPEECH 14><ACT 4><SCENE 4><73%>
+	All bless'd secrets,
+	All you unpublish'd virtues of the earth,
+	Spring with my tears! be aidant and remediate
+	In the good man's distress! Seek, seek for him,
+	Lest his ungovern'd rage dissolve the life
+	That wants the means to lead it.
+<SPEECH 15><ACT 4><SCENE 4><73%>
+	'Tis known before; our preparation stands
+	In expectation of them. O dear father!
+	It is thy business that I go about;
+	Therefore great France
+	My mourning and important tears hath pitied,
+	No blown ambition doth our arms incite,
+	But love, dear love, and our ag'd father's right,
+	Soon may I hear and see him!
+<SPEECH 16><ACT 4><SCENE 7><83%>
+	O thou good Kent! how shall I live and work
+	To match thy goodness? My life will be too short,
+	And every measure fail me.
+<SPEECH 17><ACT 4><SCENE 7><84%>
+	Be better suited:
+	These weeds are memories of those worser hours:
+	I prithee, put them off.
+<SPEECH 18><ACT 4><SCENE 7><84%>
+	Then be 't so, my good lord.—<STAGE DIR>
+	</STAGE DIR> How does the king?
+<SPEECH 19><ACT 4><SCENE 7><84%>
+	O you kind gods,
+	Cure this great breach in his abused nature!
+	The untun'd and jarring senses, O! wind up
+	Of this child-changed father!
+<SPEECH 20><ACT 4><SCENE 7><84%>
+	Be govern'd by your knowledge, and proceed
+	I' the sway of your own will. Is he array'd?
+<SPEECH 21><ACT 4><SCENE 7><84%>
+	Very well.
+<SPEECH 22><ACT 4><SCENE 7><84%>
+	O my dear father! Restoration, hang
+	Thy medicine on my lips, and let this kiss
+	Repair those violent harms that my two sisters
+	Have in thy reverence made!
+<SPEECH 23><ACT 4><SCENE 7><84%>
+	Had you not been their father, these white flakes
+	Had challeng'd pity of them. Was this a face
+	To be expos'd against the warring winds?
+	To stand against the deep dread-bolted thunder?
+	In the most terrible and nimble stroke
+	Of quick cross lightning? to watch—poor perdu!—
+	With this thin helm? Mine enemy's dog,
+	Though he had bit me, should have stood that night
+	Against my fire. And wast thou fain, poor father,
+	To hovel thee with swine and rogues forlorn,
+	In short and musty straw? Alack, alack!
+	'Tis wonder that thy life and wits at once
+	Had not concluded all. He wakes; speak to him.
+<SPEECH 24><ACT 4><SCENE 7><85%>
+	How does my royal lord? How fares your majesty?
+<SPEECH 25><ACT 4><SCENE 7><85%>
+	Sir, do you know me?
+<SPEECH 26><ACT 4><SCENE 7><85%>
+	Still, still, far wide.
+<SPEECH 27><ACT 4><SCENE 7><85%>
+	O! look upon me, sir,
+	And hold your hands in benediction o'er me.
+	No, sir, you must not kneel.
+<SPEECH 28><ACT 4><SCENE 7><85%>
+	And so I am, I am.
+<SPEECH 29><ACT 4><SCENE 7><86%>
+	No cause, no cause.
+<SPEECH 30><ACT 4><SCENE 7><86%>
+	Will 't please your highness walk?
+<SPEECH 31><ACT 5><SCENE 3><89%>
+	We are not the first
+	Who, with best meaning, have incurr'd the worst.
+	For thee, oppressed king, am I cast down;
+	Myself could else out-frown false Fortune's frown.
+	Shall we not see these daughters and these sisters?

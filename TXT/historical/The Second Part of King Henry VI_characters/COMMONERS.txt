@@ -1,0 +1,4 @@
+<SPEECH 1><ACT 3><SCENE 2><58%>
+	</STAGE DIR> An answer from the king, my Lord of Salisbury!
+<SPEECH 2><ACT 3><SCENE 2><58%>
+	</STAGE DIR> An answer from the king, or we will all break in!

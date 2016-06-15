@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 2><SCENE 2><26%>
+	It is so.
+<SPEECH 2><ACT 2><SCENE 2><27%>
+	From Isidore;
+	He humbly prays your speedy payment.
+<SPEECH 3><ACT 2><SCENE 2><27%>
+	Your steward puts me off, my lord;
+	And I am sent expressly to your lordship.
+<SPEECH 4><ACT 2><SCENE 2><28%>
+	A plague upon him, dog!
+<SPEECH 5><ACT 2><SCENE 2><28%>
+	</STAGE DIR> There's the fool hangs on your back already.

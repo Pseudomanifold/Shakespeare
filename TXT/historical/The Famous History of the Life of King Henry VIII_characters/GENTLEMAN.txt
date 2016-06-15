@@ -1,0 +1,7 @@
+<SPEECH 1><ACT 3><SCENE 1><47%>
+	An't please your Grace, the two great cardinals
+	Wait in the presence.
+<SPEECH 2><ACT 3><SCENE 1><47%>
+	They will'd me say so, madam.
+<SPEECH 3><ACT 5><SCENE 1><85%>
+	</STAGE DIR> Come back: what mean you?

@@ -1,0 +1,183 @@
+<SPEECH 1><ACT 2><SCENE 1><20%>
+	What! jealous Oberon. Fairies, skip hence:
+	I have forsworn his bed and company.
+<SPEECH 2><ACT 2><SCENE 1><20%>
+	Then, I must be thy lady; but I know
+	When thou hast stol'n away from fairy land,
+	And in the shape of Corin sat all day,
+	Playing on pipes of corn, and versing love
+	To amorous Phillida. Why art thou here,
+	Come from the furthest steppe of India?
+	But that, forsooth, the bouncing Amazon,
+	Your buskin'd mistress and your warrior love,
+	To Theseus must be wedded, and you come
+	To give their bed joy and prosperity.
+<SPEECH 3><ACT 2><SCENE 1><20%>
+	These are the forgeries of jealousy:
+	And never, since the middle summer's spring,
+	Met we on hill, in dale, forest, or mead,
+	By paved fountain, or by rushy brook,
+	Or in the beached margent of the sea,
+	To dance our ringlets to the whistling wind,
+	But with thy brawls thou hast disturb'd our sport.
+	Therefore the winds, piping to us in vain,
+	As in revenge, have suck'd up from the sea
+	Contagious fogs; which, falling in the land,
+	Have every pelting river made so proud
+	That they have overborne their continents:
+	The ox hath therefore stretch'd his yoke in vain,
+	The ploughman lost his sweat, and the green corn
+	Hath rotted ere his youth attain'd a beard:
+	The fold stands empty in the drowned field,
+	And crows are fatted with the murrion flock;
+	The nine men's morris is fill'd up with mud,
+	And the quaint mazes in the wanton green
+	For lack of tread are undistinguishable:
+	The human mortals want their winter here:
+	No night is now with hymn or carol blest:
+	Therefore the moon, the governess of floods,
+	Pale in her anger, washes all the air,
+	That rheumatic diseases do abound:
+	And thorough this distemperature we see
+	The seasons alter: hoary-headed frosts
+	Fall in the fresh lap of the crimson rose,
+	And on old Hiems' thin and icy crown
+	An odorous chaplet of sweet summer buds
+	Is, as in mockery, set. The spring, the summer,
+	The childing autumn, angry winter, change
+	Their wonted liveries, and the mazed world,
+	By their increase, now knows not which is which.
+	And this same progeny of evil comes
+	From our debate, from our dissension:
+	We are their parents and original.
+<SPEECH 4><ACT 2><SCENE 1><22%>
+	Set your heart at rest;
+	The fairy land buys not the child of me.
+	His mother was a votaress of my order:
+	And, in the spiced Indian air, by night,
+	Full often hath she gossip'd by my side,
+	And sat with me on Neptune's yellow sands,
+	Marking the embarked traders on the flood;
+	When we have laugh'd to see the sails conceive
+	And grow big-bellied with the wanton wind;
+	Which she, with pretty and with swimming gait
+	Following,—her womb then rich with my young squire,—
+	Would imitate, and sail upon the land,
+	To fetch me trifles, and return again,
+	As from a voyage, rich with merchandise.
+	But she, being mortal, of that boy did die;
+	And for her sake I do rear up her boy,
+	And for her sake I will not part with him.
+<SPEECH 5><ACT 2><SCENE 1><23%>
+	Perchance, till after Theseus' weddingday.
+	If you will patiently dance in our round,
+	And see our moonlight revels, go with us;
+	If not, shun me, and I will spare your haunts.
+<SPEECH 6><ACT 2><SCENE 1><23%>
+	Not for thy fairy kingdom. Fairies, away!
+	We shall chide downright, if I longer stay.
+<SPEECH 7><ACT 2><SCENE 2><29%>
+	Come, now a roundel and a fairy song;
+	Then, for the third of a minute, hence;
+	Some to kill cankers in the musk-rose buds,
+	Some war with rere-mice for their leathern wings,
+	To make my small elves coats, and some keep back
+	The clamorous owl, that nightly hoots, and wonders
+	At our quaint spirits. Sing me now asleep;
+	Then to your offices, and let me rest.
+	The Fairies sing.
+	I.
+	You spotted snakes with double tongue,
+	Thorny hedge-hogs, be not seen;
+	Newts, and blind-worms, do no wrong;
+	Come not near our fairy queen.
+	Philomel, with melody,
+	Sing in our sweet lullaby:
+	Lulla, lulla, lullaby; lulla, lulla, lullaby:
+	Never harm,
+	Nor spell, nor charm,
+	Come our lovely lady nigh;
+	So, good night, with lullaby.
+	II.
+	Weaving spiders come not here;
+	Hence, you long-legg'd spinners, hence!
+	Beetles black, approach not near;
+	Worm nor snail, do no offence.
+	Philomel, with melody, &c.
+<SPEECH 8><ACT 3><SCENE 1><43%>
+	</STAGE DIR> What angel wakes me from my flowery bed?
+<SPEECH 9><ACT 3><SCENE 1><43%>
+	I pray thee, gentle mortal, sing again:
+	Mine ear is much enamour'd of thy note;
+	So is mine eye enthralled to thy shape;
+	And thy fair virtue's force, perforce, doth move me,
+	On the first view, to say, to swear, I love thee.
+<SPEECH 10><ACT 3><SCENE 1><43%>
+	Thou art as wise as thou art beautiful.
+<SPEECH 11><ACT 3><SCENE 1><44%>
+	Out of this wood do not desire to go:
+	Thou shalt remain here, whe'r thou wilt or no.
+	I am a spirit of no common rate;
+	The summer still doth tend upon my state;
+	And I do love thee: therefore, go with me;
+	I'll give thee fairies to attend on thee,
+	And they shall fetch thee jewels from the deep,
+	And sing, while thou on pressed flowers dost sleep:
+	And I will purge thy mortal grossness so
+	That thou shalt like an airy spirit go.
+	Pease-blossom! Cobweb! Moth! and Mustardseed!
+<SPEECH 12><ACT 3><SCENE 1><44%>
+	Be kind and courteous to this gentleman;
+	Hop in his walks, and gambol in his eyes;
+	Feed him with apricocks and dewberries,
+	With purple grapes, green figs, and mulberries.
+	The honey-bags steal from the humble-bees,
+	And for night-tapers crop their waxen thighs,
+	And light them at the fiery glow-worm's eyes,
+	To have my love to bed, and to arise;
+	And pluck the wings from painted butterflies
+	To fan the moonbeams from his sleeping eyes:
+	Nod to him, elves, and do him courtesies.
+<SPEECH 13><ACT 3><SCENE 1><46%>
+	Come, wait upon him; lead him to my bower.
+	The moon methinks, looks with a watery eye;
+	And when she weeps, weeps every little flower,
+	Lamenting some enforced chastity.
+	Tie up my love's tongue, bring him silently.
+<SPEECH 14><ACT 4><SCENE 1><68%>
+	Come, sit thee down upon this flowery bed,
+	While I thy amiable cheeks do coy,
+	And stick musk-roses in thy sleek smooth head,
+	And kiss thy fair large ears, my gentle joy.
+<SPEECH 15><ACT 4><SCENE 1><69%>
+	What, wilt thou hear some music, my sweet love?
+<SPEECH 16><ACT 4><SCENE 1><69%>
+	Or say, sweet love, what thou desir'st to eat.
+<SPEECH 17><ACT 4><SCENE 1><70%>
+	I have a venturous fairy that shall seek
+	The squirrel's hoard, and fetch thee thence new nuts.
+<SPEECH 18><ACT 4><SCENE 1><70%>
+	Sleep thou, and I will wind thee in my arms.
+	Fairies, be gone, and be all ways away.
+	So doth the woodbine the sweet honeysuckle
+	Gently entwist; the female ivy so
+	Enrings the barky fingers of the elm.
+	O! how I love thee; how I dote on thee!
+<SPEECH 19><ACT 4><SCENE 1><72%>
+	My Oberon! what visions have I seen!
+	Methought I was enamour'd of an ass.
+<SPEECH 20><ACT 4><SCENE 1><72%>
+	How came these things to pass?
+	O! how mine eyes do loathe his visage now.
+<SPEECH 21><ACT 4><SCENE 1><72%>
+	Music, ho! music! such as charmeth sleep.
+<SPEECH 22><ACT 4><SCENE 1><73%>
+	Come, my lord; and in our flight
+	Tell me how it came this night
+	That I sleeping here was found
+	With these mortals on the ground.
+<SPEECH 23><ACT 5><SCENE 2><98%>
+	First, rehearse your song by rote,
+	To each word a warbling note:
+	Hand in hand, with fairy grace,
+	Will we sing, and bless this place.

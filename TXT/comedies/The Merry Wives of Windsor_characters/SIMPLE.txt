@@ -1,0 +1,50 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+	Book of Riddles! why, did you not lend it to Alice Shortcake upon All-Hallowmas last, a fortnight afore Michaelmas?
+<SPEECH 2><ACT 1><SCENE 2><11%>
+	Well, sir.
+<SPEECH 3><ACT 1><SCENE 4><15%>
+	Ay, for fault of a better.
+<SPEECH 4><ACT 1><SCENE 4><15%>
+	Ay, forsooth.
+<SPEECH 5><ACT 1><SCENE 4><15%>
+	No, forsooth: he hath but a little wheyface, with a little yellow beard—a cane-coloured beard.
+<SPEECH 6><ACT 1><SCENE 4><15%>
+	Ay, forsooth; but he is as tall a man of his hands as any is between this and his head: he hath fought with a warrener.
+<SPEECH 7><ACT 1><SCENE 4><16%>
+	Yes, indeed, does he.
+<SPEECH 8><ACT 1><SCENE 4><17%>
+	Ay, forsooth, to desire her to—
+<SPEECH 9><ACT 1><SCENE 4><17%>
+	To desire this honest gentlewoman, your maid, to speak a good word to Mistress Anne Page for my master in the way of marriage.
+<SPEECH 10><ACT 1><SCENE 4><18%>
+	'Tis a great charge to come under one body's hand.
+<SPEECH 11><ACT 3><SCENE 1><42%>
+	Marry, sir, the pittie-ward, the parkward, every way; old Windsor way, and every way but the town way.
+<SPEECH 12><ACT 3><SCENE 1><42%>
+	I will, sir.
+<SPEECH 13><ACT 3><SCENE 1><43%>
+	Yonder he is coming, this way, Sir Hugh.
+<SPEECH 14><ACT 3><SCENE 1><43%>
+	No weapons, sir. There comes my master, Master Shallow, and another gentleman, from Frogmore, over the stile, this way.
+<SPEECH 15><ACT 4><SCENE 5><81%>
+	Marry, sir, I come to speak with Sir John Falstaff from Master Slender.
+<SPEECH 16><ACT 4><SCENE 5><82%>
+	There's an old woman, a fat woman, gone up into his chamber: I'll be so bold as stay, sir, till she come down; I come to speak with her, indeed.
+<SPEECH 17><ACT 4><SCENE 5><82%>
+	Pray you, sir, was't not the wise woman of Brainford?
+<SPEECH 18><ACT 4><SCENE 5><82%>
+	My Master, sir, Master Slender, sent to her, seeing her go thorough the streets, to know, sir, whether one Nym, sir, that beguiled him of a chain, had the chain or no.
+<SPEECH 19><ACT 4><SCENE 5><82%>
+	And what says she, I pray, sir?
+<SPEECH 20><ACT 4><SCENE 5><83%>
+	I would I could have spoken with the woman herself: I had other things to have spoken with her too, from him.
+<SPEECH 21><ACT 4><SCENE 5><83%>
+	I may not conceal them, sir.
+<SPEECH 22><ACT 4><SCENE 5><83%>
+	Why, sir, they were nothing but about Mistress Anne Page; to know if it were my master's fortune to have her or no.
+<SPEECH 23><ACT 4><SCENE 5><83%>
+	What, sir?
+<SPEECH 24><ACT 4><SCENE 5><83%>
+	May I be bold to say so, sir?
+<SPEECH 25><ACT 4><SCENE 5><83%>
+	I thank your worship: I shall make my master glad with these tidings.

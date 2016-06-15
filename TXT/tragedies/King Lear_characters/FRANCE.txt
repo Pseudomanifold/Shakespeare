@@ -1,0 +1,37 @@
+<SPEECH 1><ACT 1><SCENE 1><7%>
+	This is most strange,
+	That she, who even but now was your best object,
+	The argument of your praise, balm of your age,
+	The best, the dearest, should in this trice of time
+	Commit a thing so monstrous, to dismantle
+	So many folds of favour. Sure, her offence
+	Must be of such unnatural degree
+	That monsters it, or your fore-vouch'd affection
+	Fall into taint; which to believe of her,
+	Must be a faith that reason without miracle
+	Could never plant in me.
+<SPEECH 2><ACT 1><SCENE 1><7%>
+	Is it but this? a tardiness in nature
+	Which often leaves the history unspoke
+	That it intends to do? My Lord of Burgundy,
+	What say you to the lady? Love is not love
+	When it is mingled with regards that stand
+	Aloof from the entire point. Will you have her?
+	She is herself a dowry.
+<SPEECH 3><ACT 1><SCENE 1><8%>
+	Fairest Cordelia, that art most rich, being poor;
+	Most choice, forsaken; and most lov'd, despis'd!
+	Thee and thy virtues here I seize upon:
+	Be it lawful I take up what's cast away.
+	Gods, gods! 'tis strange that from their cold'st neglect
+	My love should kindle to inflam'd respect.
+	Thy dowerless daughter, king, thrown to my chance,
+	Is queen of us, of ours, and our fair France:
+	Not all the dukes of waterish Burgundy
+	Shall buy this unpriz'd precious maid of me.
+	Bid them farewell, Cordelia, though unkind:
+	Thou losest here, a better where to find.
+<SPEECH 4><ACT 1><SCENE 1><8%>
+	Bid farewell to your sisters.
+<SPEECH 5><ACT 1><SCENE 1><9%>
+	Come, my fair Cordelia.

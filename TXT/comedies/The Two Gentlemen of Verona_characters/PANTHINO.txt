@@ -1,0 +1,50 @@
+<SPEECH 1><ACT 1><SCENE 3><14%>
+	'Twas of his nephew Proteus, your son.
+<SPEECH 2><ACT 1><SCENE 3><14%>
+	He wonder'd that your lordship
+	Would suffer him to spend his youth at home,
+	While other men, of slender reputation,
+	Put forth their sons to seek preferment out:
+	Some to the wars, to try their fortune there;
+	Some to discover islands far away;
+	Some to the studious universities.
+	For any or for all these exercises
+	He said that Proteus your son was meet,
+	And did request me to importune you
+	To let him spend his time no more at home,
+	Which would be great impeachment to his age,
+	In having known to travel in his youth.
+<SPEECH 3><ACT 1><SCENE 3><15%>
+	I think your lordship is not ignorant
+	How his companion, youthful Valentine,
+	Attends the emperor in his royal court.
+<SPEECH 4><ACT 1><SCENE 3><15%>
+	'Twere good, I think, your lordship sent him thither:
+	There shall be practise tilts and tournaments,
+	Hear sweet discourse, converse with noblemen,
+	And be in eye of every exercise
+	Worthy his youth and nobleness of birth.
+<SPEECH 5><ACT 1><SCENE 3><15%>
+	To-morrow, may it please you, Don Alphonso
+	With other gentlemen of good esteem,
+	Are journeying to salute the emperor
+	And to commend their service to his will.
+<SPEECH 6><ACT 1><SCENE 3><17%>
+	Sir Proteus, your father calls for you:
+	He is in haste; therefore, I pray you, go.
+<SPEECH 7><ACT 2><SCENE 2><26%>
+	Sir Proteus, you are stay'd for.
+<SPEECH 8><ACT 2><SCENE 3><28%>
+	Launce, away, away, aboard! thy master is shipped, and thou art to post after with oars. What's the matter? why weepest thou, man? Away, ass! you'll lose the tide if you tarry any longer.
+<SPEECH 9><ACT 2><SCENE 3><28%>
+	What's the unkindest tide?
+<SPEECH 10><ACT 2><SCENE 3><28%>
+	Tut, man, I mean thou'lt lose the flood; and, in losing the flood, lose thy voyage, and, in losing thy voyage, lose thy master; and, in losing thy master, lose thy service; and, in losing thy service,—Why dost thou stop my mouth?
+<SPEECH 11><ACT 2><SCENE 3><29%>
+	Where should I lose my tongue?
+<SPEECH 12><ACT 2><SCENE 3><29%>
+	In thy tail!
+<SPEECH 13><ACT 2><SCENE 3><29%>
+	Come, come away, man; I was sent to call thee.
+<SPEECH 14><ACT 2><SCENE 3><29%>
+	Wilt thou go?

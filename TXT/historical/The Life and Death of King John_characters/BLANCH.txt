@@ -1,0 +1,51 @@
+<SPEECH 1><ACT 2><SCENE 1><16%>
+	O! well did he become that lion's robe,
+	That did disrobe the lion of that robe.
+<SPEECH 2><ACT 2><SCENE 1><30%>
+	My uncle's will in this respect is mine:
+	If he see aught in you that makes him like,
+	That anything he sees, which moves his liking,
+	I can with ease translate it to my will;
+	Or if you will, to speak more properly,
+	I will enforce it easily to my love.
+	Further I will not flatter you, my lord,
+	That all I see in you is worthy love,
+	Than this: that nothing do I see in you,
+	Though churlish thoughts themselves should be your judge,
+	That I can find should merit any hate.
+<SPEECH 3><ACT 2><SCENE 1><31%>
+	That she is bound in honour still to do
+	What you in wisdom still vouchsafe to say.
+<SPEECH 4><ACT 3><SCENE 1><42%>
+	That's the curse of Rome.
+<SPEECH 5><ACT 3><SCENE 1><42%>
+	The Lady Constance speaks not from her faith,
+	But from her need.
+<SPEECH 6><ACT 3><SCENE 1><45%>
+	Upon thy wedding-day?
+	Against the blood that thou hast married?
+	What! shall our feast be kept with slaughter'd men?
+	Shall braying trumpets and loud churlish drums,
+	Clamours of hell, be measures to our pomp?
+	O husband, hear me! ay, alack! how new
+	Is husband in my mouth; even for that name,
+	Which till this time my tongue did ne'er pronounce,
+	Upon my knee I beg, go not to arms
+	Against mine uncle.
+<SPEECH 7><ACT 3><SCENE 1><46%>
+	Now shall I see thy love: what motive may
+	Be stronger with thee than the name of wife?
+<SPEECH 8><ACT 3><SCENE 1><46%>
+	The sun's o'ercast with blood: fair day, adieu!
+	Which is the side that I must go withal?
+	I am with both: each army hath a hand;
+	And in their rage, I having hold of both,
+	They whirl asunder and dismember me.
+	Husband, I cannot pray that thou mayst win;
+	Uncle, I needs must pray that thou mayst lose;
+	Father, I may not wish the fortune thine;
+	Grandam, I will not wish thy wishes thrive:
+	Whoever wins, on that side shall I lose;
+	Assured loss before the match be play'd.
+<SPEECH 9><ACT 3><SCENE 1><47%>
+	There where my fortune lives, there my life dies.

@@ -1,0 +1,947 @@
+<SPEECH 1><ACT 1><SCENE 2><4%>
+	A soothsayer bids you beware the ides of March.
+<SPEECH 2><ACT 1><SCENE 2><5%>
+	Not I.
+<SPEECH 3><ACT 1><SCENE 2><5%>
+	I am not gamesome: I do lack some part
+	Of that quick spirit that is in Antony.
+	Let me not hinder, Cassius, your desires;
+	I'll leave you.
+<SPEECH 4><ACT 1><SCENE 2><5%>
+	Cassius,
+	Be not deceiv'd: if I have veil'd my look,
+	I turn the trouble of my countenance
+	Merely upon myself. Vexed I am
+	Of late with passions of some difference,
+	Conceptions only proper to myself,
+	Which give some soil perhaps to my behaviours;
+	But let not therefore my good friends be griev'd,—
+	Among which number, Cassius, be you one,—
+	Nor construe any further my neglect,
+	Than that poor Brutus, with himself at war,
+	Forgets the shows of love to other men.
+<SPEECH 5><ACT 1><SCENE 2><6%>
+	No, Cassius; for the eye sees not itself,
+	But by reflection, by some other things.
+<SPEECH 6><ACT 1><SCENE 2><6%>
+	Into what dangers would you lead me, Cassius,
+	That you would have me seek into myself
+	For that which is not in me?
+<SPEECH 7><ACT 1><SCENE 2><7%>
+	What means this shouting? I do fear the people
+	Choose Cæsar for their king.
+<SPEECH 8><ACT 1><SCENE 2><7%>
+	I would not, Cassius; yet I love him well.
+	But wherefore do you hold me here so long?
+	What is it that you would impart to me?
+	If it be aught toward the general good,
+	Set honour in one eye and death i' the other,
+	And I will look on both indifferently;
+	For let the gods so speed me as I love
+	The name of honour more than I fear death.
+<SPEECH 9><ACT 1><SCENE 2><8%>
+	Another general shout!
+	I do believe that these applauses are
+	For some new honours that are heaped on Cæsar.
+<SPEECH 10><ACT 1><SCENE 2><10%>
+	That you do love me, I am nothing jealous;
+	What you would work me to, I have some aim:
+	How I have thought of this and of these times,
+	I shall recount hereafter; for this present,
+	I would not, so with love I might entreat you,
+	Be any further mov'd. What you have said
+	I will consider; what you have to say
+	I will with patience hear, and find a time
+	Both meet to hear and answer such high things.
+	Till then, my noble friend, chew upon this:
+	Brutus had rather be a villager
+	Than to repute himself a son of Rome
+	Under these hard conditions as this time
+	Is like to lay upon us.
+<SPEECH 11><ACT 1><SCENE 2><10%>
+	The games are done and Cæsar is returning.
+<SPEECH 12><ACT 1><SCENE 2><10%>
+	I will do so. But, look you, Cassius,
+	The angry spot doth glow on Cæsar's brow,
+	And all the rest look like a chidden train:
+	Calphurnia's cheek is pale, and Cicero
+	Looks with such ferret and such fiery eyes
+	As we have seen him in the Capitol,
+	Being cross'd in conference by some senators.
+<SPEECH 13><ACT 1><SCENE 2><12%>
+	Ay, Casca; tell us what hath chanc'd to-day,
+	That Cæsar looks so sad.
+<SPEECH 14><ACT 1><SCENE 2><12%>
+	I should not then ask Casca what had chanc'd.
+<SPEECH 15><ACT 1><SCENE 2><12%>
+	What was the second noise for?
+<SPEECH 16><ACT 1><SCENE 2><12%>
+	Was the crown offered him thrice?
+<SPEECH 17><ACT 1><SCENE 2><12%>
+	Tell us the manner of it, gentle Casca.
+<SPEECH 18><ACT 1><SCENE 2><13%>
+	'Tis very like: he hath the falling-sickness.
+<SPEECH 19><ACT 1><SCENE 2><13%>
+	What said he, when he came unto himself?
+<SPEECH 20><ACT 1><SCENE 2><14%>
+	And after that he came, thus sad, away?
+<SPEECH 21><ACT 1><SCENE 2><15%>
+	What a blunt fellow is this grown to be!
+	He was quick mettle when he went to school.
+<SPEECH 22><ACT 1><SCENE 2><15%>
+	And so it is. For this time I will leave you:
+	To-morrow, if you please to speak with me,
+	I will come home to you; or, if you will,
+	Come home to me, and I will wait for you.
+<SPEECH 23><ACT 2><SCENE 1><22%>
+	What, Lucius! ho!
+	I cannot, by the progress of the stars,
+	Give guess how near to day. Lucius, I say!
+	I would it were my fault to sleep so soundly.
+	When, Lucius, when! Awake, I say! what, Lucius!
+<SPEECH 24><ACT 2><SCENE 1><22%>
+	Get me a taper in my study, Lucius:
+	When it is lighted, come and call me here.
+<SPEECH 25><ACT 2><SCENE 1><23%>
+	It must be by his death: and, for my part,
+	I know no personal cause to spurn at him,
+	But for the general. He would be crown'd:
+	How that might change his nature, there's the question:
+	It is the bright day that brings forth the adder;
+	And that craves wary walking. Crown him?—that!
+	And then, I grant, we put a sting in him,
+	That at his will he may do danger with.
+	The abuse of greatness is when it disjoins
+	Remorse from power; and, to speak truth of Cæsar,
+	I have not known when his affections sway'd
+	More than his reason. But 'tis a common proof,
+	That lowliness is young ambition's ladder,
+	Whereto the climber-upward turns his face;
+	But when he once attains the upmost round,
+	He then unto the ladder turns his back,
+	Looks in the clouds, scorning the base degrees
+	By which he did ascend. So Cæsar may:
+	Then, lest he may, prevent. And, since the quarrel
+	Will bear no colour for the thing he is,
+	Fashion it thus; that what he is, augmented,
+	Would run to these and these extremities;
+	And therefore think him as a serpent's egg
+	Which, hatch'd, would, as his kind, grow mischievous,
+	And kill him in the shell.
+<SPEECH 26><ACT 2><SCENE 1><24%>
+	Get you to bed again; it is not day.
+	Is not to-morrow, boy, the ides of March?
+<SPEECH 27><ACT 2><SCENE 1><24%>
+	Look in the calendar, and bring me word.
+<SPEECH 28><ACT 2><SCENE 1><24%>
+	The exhalations whizzing in the air
+	Give so much light that I may read by them.
+	Brutus, thou sleep'st: awake and see thyself.
+	Shall Rome, &c. Speak, strike, redress!
+	Brutus, thou sleep'st: awake!
+	Such instigations have been often dropp'd
+	Where I have took them up.
+	'Shall Rome, &c.' Thus must I piece it out:
+	Shall Rome stand under one man's awe? What, Rome?
+	My ancestors did from the streets of Rome
+	The Tarquin drive, when he was call'd a king.
+	'Speak, strike, redress!' Am I entreated
+	To speak, and strike? O Rome! I make thee promise;
+	If the redress will follow, thou receiv'st
+	Thy full petition at the hand of Brutus!
+<SPEECH 29><ACT 2><SCENE 1><25%>
+	'Tis good. Go to the gate: somebody knocks.
+	Since Cassius first did whet me against Cæsar,
+	I have not slept.
+	Between the acting of a dreadful thing
+	And the first motion, all the interim is
+	Like a phantasma, or a hideous dream:
+	The genius and the mortal instruments
+	Are then in council; and the state of man,
+	Like to a little kingdom, suffers then
+	The nature of an insurrection.
+<SPEECH 30><ACT 2><SCENE 1><25%>
+	Is he alone?
+<SPEECH 31><ACT 2><SCENE 1><25%>
+	Do you know them?
+<SPEECH 32><ACT 2><SCENE 1><25%>
+	Let 'em enter.
+	They are the faction. O conspiracy!
+	Sham'st thou to show thy dangerous brow by night,
+	When evils are most free? O! then by day
+	Where wilt thou find a cavern dark enough
+	To mask thy monstrous visage? Seek none, conspiracy;
+	Hide it in smiles and affability:
+	For if thou path, thy native semblance on,
+	Not Erebus itself were dim enough
+	To hide thee from prevention.
+<SPEECH 33><ACT 2><SCENE 1><26%>
+	I have been up this hour, awake all night.
+	Know I these men that come along with you?
+<SPEECH 34><ACT 2><SCENE 1><26%>
+	He is welcome hither.
+<SPEECH 35><ACT 2><SCENE 1><26%>
+	He is welcome too.
+<SPEECH 36><ACT 2><SCENE 1><26%>
+	They are all welcome.
+	What watchful cares do interpose themselves
+	Betwixt your eyes and night?
+<SPEECH 37><ACT 2><SCENE 1><26%>
+	Here lies the east: doth not the day break here?
+<SPEECH 38><ACT 2><SCENE 1><27%>
+	Give me your hands all over, one by one.
+<SPEECH 39><ACT 2><SCENE 1><27%>
+	No, not an oath: if not the face of men,
+	The sufferance of our souls, the time's abuse,
+	If these be motives weak, break off betimes,
+	And every man hence to his idle bed;
+	So let high-sighted tyranny range on,
+	Till each man-drop by lottery. But if these,
+	As I am sure they do, bear fire enough
+	To kindle cowards and to steel with valour
+	The melting spirits of women, then, countrymen,
+	What need we any spur but our own cause
+	To prick us to redress? what other bond
+	Than secret Romans, that have spoke the word
+	And will not palter? and what other oath
+	Than honesty to honesty engag'd,
+	That this shall be, or we will fall for it?
+	Swear priests and cowards and men cautelous,
+	Old feeble carrions and such suffering souls
+	That welcome wrongs; unto bad causes swear
+	Such creatures as men doubt; but do not stain
+	The even virtue of our enterprise,
+	Nor th' insuppressive mettle of our spirits,
+	To think that or our cause or our performance
+	Did need an oath; when every drop of blood
+	That every Roman bears, and nobly bears,
+	Is guilty of a several bastardy,
+	If he do break the smallest particle
+	Of any promise that hath pass'd from him.
+<SPEECH 40><ACT 2><SCENE 1><28%>
+	O! name him not: let us not break with him;
+	For he will never follow any thing
+	That other men begin.
+<SPEECH 41><ACT 2><SCENE 1><28%>
+	Shall no man else be touch'd but only Cæsar?
+<SPEECH 42><ACT 2><SCENE 1><29%>
+	Our course will seem too bloody, Caius Cassius,
+	To cut the head off and then hack the limbs,
+	Like wrath in death and envy afterwards;
+	For Antony is but a limb of Cæsar.
+	Let us be sacrificers, but not butchers, Caius.
+	We all stand up against the spirit of Cæsar;
+	And in the spirit of men there is no blood:
+	O! then that we could come by Cæsar's spirit,
+	And not dismember Cæsar. But, alas!
+	Cæsar must bleed for it. And, gentle friends,
+	Let's kill him boldly, but not wrathfully;
+	Let's carve him as a dish fit for the gods,
+	Not hew him as a carcass fit for hounds:
+	And let our hearts, as subtle masters do,
+	Stir up their servants to an act of rage,
+	And after seem to chide 'em. This shall make
+	Our purpose necessary and not envious;
+	Which so appearing to the common eyes,
+	We shall be call'd purgers, not murderers.
+	And, for Mark Antony, think not of him;
+	For he can do no more than Cæsar's arm
+	When Cæsar's head is off.
+<SPEECH 43><ACT 2><SCENE 1><29%>
+	Alas! good Cassius, do not think of him:
+	If he love Cæsar, all that he can do
+	Is to himself, take thought and die for Cæsar:
+	And that were much he should; for he is given
+	To sports, to wildness, and much company.
+<SPEECH 44><ACT 2><SCENE 1><30%>
+	Peace! count the clock.
+<SPEECH 45><ACT 2><SCENE 1><30%>
+	Never fear that: if he be so resolv'd,
+	I can o'ersway him; for he loves to hear
+	That unicorns may be betray'd with trees,
+	And bears with glasses, elephants with holes,
+	Lions with toils, and men with flatterers;
+	But when I tell him he hates flatterers,
+	He says he does, being then most flattered.
+	Let me work;
+	For I can give his humour the true bent,
+	And I will bring him to the Capitol.
+<SPEECH 46><ACT 2><SCENE 1><30%>
+	By the eighth hour: is that the uttermost?
+<SPEECH 47><ACT 2><SCENE 1><31%>
+	Now, good Metellus, go along by him:
+	He loves me well, and I have given him reasons;
+	Send him but hither, and I'll fashion him.
+<SPEECH 48><ACT 2><SCENE 1><31%>
+	Good gentlemen, look fresh and merrily;
+	Let not our looks put on our purposes,
+	But bear it as our Roman actors do,
+	With untir'd spirits and formal constancy:
+	And so good morrow to you every one.
+	Boy! Lucius! Fast asleep? It is no matter;
+	Enjoy the honey-heavy dew of slumber:
+	Thou hast no figures nor no fantasies
+	Which busy care draws in the brains of men;
+	Therefore thou sleep'st so sound.
+<SPEECH 49><ACT 2><SCENE 1><31%>
+	Portia, what mean you? Wherefore rise you now?
+	It is not for your health thus to commit
+	Your weak condition to the raw cold morning.
+<SPEECH 50><ACT 2><SCENE 1><32%>
+	I am not well in health, and that is all.
+<SPEECH 51><ACT 2><SCENE 1><32%>
+	Why, so I do. Good Portia, go to bed.
+<SPEECH 52><ACT 2><SCENE 1><33%>
+	Kneel not, gentle Portia.
+<SPEECH 53><ACT 2><SCENE 1><33%>
+	You are my true and honourable wife,
+	As dear to me as are the ruddy drops
+	That visit my sad heart.
+<SPEECH 54><ACT 2><SCENE 1><34%>
+	O ye gods!
+	Render me worthy of this noble wife.
+	Hark, hark! one knocks. Portia, go in awhile;
+	And by and by thy bosom shall partake
+	The secrets of my heart.
+	All my engagements I will construe to thee,
+	All the charactery of my sad brows.
+	Leave me with haste.
+	Lucius, who's that knocks?
+<SPEECH 55><ACT 2><SCENE 1><34%>
+	Caius Ligarius, that Metellus spoke of.
+	Boy, stand aside. Caius Ligarius! how?
+<SPEECH 56><ACT 2><SCENE 1><34%>
+	O! what a time have you chose out, brave Caius,
+	To wear a kerchief. Would you were not sick.
+<SPEECH 57><ACT 2><SCENE 1><35%>
+	Such an exploit have I in hand, Ligarius,
+	Had you a healthful ear to hear of it.
+<SPEECH 58><ACT 2><SCENE 1><35%>
+	A piece of work that will make sick men whole.
+<SPEECH 59><ACT 2><SCENE 1><35%>
+	That must we also. What it is, my Caius,
+	I shall unfold to thee as we are going
+	To whom it must be done.
+<SPEECH 60><ACT 2><SCENE 1><35%>
+	Follow me then.
+<SPEECH 61><ACT 2><SCENE 2><38%>
+	Cæsar, all hail! Good morrow, worthy Cæsar:
+	I come to fetch you to the senate-house.
+<SPEECH 62><ACT 2><SCENE 2><38%>
+	Most mighty Cæsar, let me know some cause,
+	Lest I be laugh'd at when I tell them so.
+<SPEECH 63><ACT 2><SCENE 2><39%>
+	This dream is all amiss interpreted;
+	It was a vision fair and fortunate:
+	Your statue spouting blood in many pipes,
+	In which so many smiling Romans bath'd,
+	Signifies that from you great Rome shall suck
+	Reviving blood, and that great men shall press
+	For tinctures, stains, relics, and cognizance.
+	This by Calphurnia's dream is signified.
+<SPEECH 64><ACT 2><SCENE 2><39%>
+	I have, when you have heard what I can say:
+	And know it now: the senate have concluded
+	To give this day a crown to mighty Cæsar.
+	If you shall send them word you will not come,
+	Their minds may change. Besides, it were a mock
+	Apt to be render'd, for some one to say
+	'Break up the senate till another time,
+	When Cæsar's wife shall meet with better dreams.'
+	If Cæsar hide himself, shall they not whisper
+	'Lo! Cæsar is afraid?'
+	Pardon me, Cæsar; for my dear dear love
+	To your proceeding bids me tell you this,
+	And reason to my love is liable.
+<SPEECH 65><ACT 2><SCENE 2><40%>
+	Cæsar, 'tis strucken eight.
+<SPEECH 66><ACT 2><SCENE 2><40%>
+	</STAGE DIR> That every like is not the same, O Cæsar!
+	The heart of Brutus yearns to think upon.
+<SPEECH 67><ACT 3><SCENE 1><44%>
+	Trebonius doth desire you to o'er-read,
+	At your best leisure, this his humble suit.
+<SPEECH 68><ACT 3><SCENE 1><44%>
+	What said Popilius Lena?
+<SPEECH 69><ACT 3><SCENE 1><44%>
+	Look, how he makes to Cæsar: mark him.
+<SPEECH 70><ACT 3><SCENE 1><45%>
+	Cassius, be constant:
+	Popilius Lena speaks not of our purposes;
+	For, look, he smiles, and Cæsar doth not change.
+<SPEECH 71><ACT 3><SCENE 1><45%>
+	Where is Metellus Cimber? Let him go,
+	And presently prefer his suit to Cæsar.
+<SPEECH 72><ACT 3><SCENE 1><45%>
+	He is address'd; press near and second him.
+<SPEECH 73><ACT 3><SCENE 1><46%>
+	I kiss thy hand, but not in flattery, Cæsar;
+	Desiring thee, that Publius Cimber may
+	Have an immediate freedom of repeal.
+<SPEECH 74><ACT 3><SCENE 1><47%>
+	Great Cæsar,—
+<SPEECH 75><ACT 3><SCENE 1><47%>
+	People and senators be not affrighted;
+	Fly not; stand still; ambition's debt is paid.
+<SPEECH 76><ACT 3><SCENE 1><47%>
+	And Cassius too.
+<SPEECH 77><ACT 3><SCENE 1><47%>
+	Where's Publius?
+<SPEECH 78><ACT 3><SCENE 1><47%>
+	Talk not of standing. Publius, good cheer;
+	There is no harm intended to your person,
+	Nor to no Roman else; so tell them, Publius.
+<SPEECH 79><ACT 3><SCENE 1><47%>
+	Do so; and let no man abide this deed
+	But we the doers.
+<SPEECH 80><ACT 3><SCENE 1><48%>
+	Fates, we will know your pleasures.
+	That we shall die, we know; 'tis but the time
+	And drawing days out, that men stand upon.
+<SPEECH 81><ACT 3><SCENE 1><48%>
+	Grant that, and then is death a benefit:
+	So are we Cæsar's friends, that have abridg'd
+	His time of fearing death. Stoop, Romans, stoop,
+	And let us bathe our hands in Cæsar's blood
+	Up to the elbows, and besmear our swords:
+	Then walk we forth, even to the market-place;
+	And waving our red weapons o'er our heads,
+	Let's all cry, 'Peace, freedom, and liberty!'
+<SPEECH 82><ACT 3><SCENE 1><48%>
+	How many times shall Cæsar bleed in sport,
+	That now on Pompey's basis lies along
+	No worthier than the dust!
+<SPEECH 83><ACT 3><SCENE 1><48%>
+	What! shall we forth?
+<SPEECH 84><ACT 3><SCENE 1><49%>
+	Soft! who comes here? A friend of Antony's.
+<SPEECH 85><ACT 3><SCENE 1><49%>
+	Thy master is a wise and valiant Roman;
+	I never thought him worse.
+	Tell him, so please him come unto this place,
+	He shall be satisfied; and, by my honour,
+	Depart untouch'd.
+<SPEECH 86><ACT 3><SCENE 1><49%>
+	I know that we shall have him well to friend.
+<SPEECH 87><ACT 3><SCENE 1><50%>
+	But here comes Antony. Welcome, Mark Antony.
+<SPEECH 88><ACT 3><SCENE 1><50%>
+	O Antony! beg not your death of us.
+	Though now we must appear bloody and cruel,
+	As, by our hands and this our present act,
+	You see we do, yet see you but our hands
+	And this the bleeding business they have done:
+	Our hearts you see not; they are pitiful;
+	And pity to the general wrong of Rome—
+	As fire drives out fire, so pity pity—
+	Hath done this deed on Cæsar. For your part,
+	To you our swords have leaden points, Mark Antony;
+	Our arms, in strength of malice, and our hearts
+	Of brothers' temper, do receive you in
+	With all kind love, good thoughts, and reverence.
+<SPEECH 89><ACT 3><SCENE 1><51%>
+	Only be patient till we have appeas'd
+	The multitude, beside themselves with fear,
+	And then we will deliver you the cause
+	Why I, that did love Cæsar when I struck him,
+	Have thus proceeded.
+<SPEECH 90><ACT 3><SCENE 1><52%>
+	Or else were this a savage spectacle.
+	Our reasons are so full of good regard
+	That were you, Antony, the son of Cæsar,
+	You should be satisfied.
+<SPEECH 91><ACT 3><SCENE 1><53%>
+	You shall, Mark Antony.
+<SPEECH 92><ACT 3><SCENE 1><53%>
+	By your pardon;
+	I will myself into the pulpit first,
+	And show the reason of our Cæsar's death:
+	What Antony shall speak, I will protest
+	He speaks by leave and by permission,
+	And that we are contented Cæsar shall
+	Have all true rites and lawful ceremonies.
+	It shall advantage more than do us wrong.
+<SPEECH 93><ACT 3><SCENE 1><53%>
+	Mark Antony, here, take you Cæsar's body.
+	You shall not in your funeral speech blame us,
+	But speak all good you can devise of Cæsar,
+	And say you do 't by our permission;
+	Else shall you not have any hand at all
+	About his funeral; and you shall speak
+	In the same pulpit whereto I am going,
+	After my speech is ended.
+<SPEECH 94><ACT 3><SCENE 1><53%>
+	Prepare the body then, and follow us.
+<SPEECH 95><ACT 3><SCENE 2><55%>
+	Then follow me, and give me audience, friends.
+	Cassius, go you into the other street,
+	And part the numbers.
+	Those that will hear me speak, let 'em stay here;
+	Those that will follow Cassius, go with him;
+	And public reasons shall be rendered
+	Of Cæsar's death.
+<SPEECH 96><ACT 3><SCENE 2><56%>
+	Be patient till the last.
+	Romans, countrymen, and lovers! hear me for my cause; and be silent, that you may hear: believe me for mine honour, and have respect to mine honour, that you may believe: censure me in your wisdom, and awake your senses, that you may the better judge. If there be any in this assembly, any dear friend of Cæsar's, to him I say, that Brutus' love to Cæsar was no less than his. If then that friend demand why Brutus rose against Cæsar, this is my answer: Not that I loved Cæsar less, but that I loved Rome more. Had you rather Cæsar were living, and die all slaves, than that Cæsar were dead, to live all free men? As Cæsar loved me, I weep for him; as he was fortunate, I rejoice at it; as he was valiant, I honour him; but, as he was ambitious, I slew him. There is tears for his love; joy for his fortune; honour for his valour; and death for his ambition. Who is here so base that would be a bondman? If any, speak; for him have I offended. Who is here so rude that would not be a Roman? If any, speak; for him have I offended. Who is here so vile that will not love his country? If any, speak; for him have I offended. I pause for a reply.
+<SPEECH 97><ACT 3><SCENE 2><57%>
+	Then none have I offended. I have done no more to Cæsar, than you shall do to Brutus. The question of his death is enrolled in the Capitol; his glory not extenuated, wherein he was worthy, nor his offences enforced, for which he suffered death.
+	Here comes his body, mourned by Mark Antony: who, though he had no hand in his death, shall receive the benefit of his dying, a place in the commonwealth; as which of you shall not? With this I depart: that, as I slew my best lover for the good of Rome, I have the same dagger for myself, when it shall please my country to need my death.
+<SPEECH 98><ACT 3><SCENE 2><58%>
+	My countrymen,—
+<SPEECH 99><ACT 3><SCENE 2><58%>
+	Good countrymen, let me depart alone,
+	And, for my sake, stay here with Antony.
+	Do grace to Cæsar's corpse, and grace his speech
+	Tending to Cæsar's glories, which Mark Antony,
+	By our permission, is allow'd to make.
+	I do entreat you, not a man depart,
+	Save I alone, till Antony have spoke.
+<SPEECH 100><ACT 4><SCENE 2><70%>
+	Stand, ho!
+<SPEECH 101><ACT 4><SCENE 2><70%>
+	What now, Lucilius! is Cassius near?
+<SPEECH 102><ACT 4><SCENE 2><70%>
+	He greets me well. Your master, Pindarus,
+	In his own change, or by ill officers,
+	Hath given me some worthy cause to wish
+	Things done, undone; but, if he be at hand,
+	I shall be satisfied.
+<SPEECH 103><ACT 4><SCENE 2><70%>
+	He is not doubted. A word, Lucilius;
+	How he receiv'd you, let me be resolv'd.
+<SPEECH 104><ACT 4><SCENE 2><70%>
+	Thou hast describ'd
+	A hot friend cooling. Ever note, Lucilius,
+	When love begins to sicken and decay,
+	It useth an enforced ceremony.
+	There are no tricks in plain and simple faith;
+	But hollow men, like horses hot at hand,
+	Make gallant show and promise of their mettle;
+	But when they should endure the bloody spur,
+	They fall their crests, and, like deceitful jades,
+	Sink in the trial. Comes his army on?
+<SPEECH 105><ACT 4><SCENE 2><71%>
+	Hark! he is arriv'd.
+	March gently on to meet him.
+<SPEECH 106><ACT 4><SCENE 2><71%>
+	Stand, ho! Speak the word along.
+<SPEECH 107><ACT 4><SCENE 2><71%>
+	Judge me, you gods! Wrong I mine enemies?
+	And, if not so, how should I wrong a brother?
+<SPEECH 108><ACT 4><SCENE 2><71%>
+	Cassius, be content;
+	Speak your griefs softly: I do know you well.
+	Before the eyes of both our armies here,
+	Which should perceive nothing but love from us,
+	Let us not wrangle: bid them move away;
+	Then in my tent, Cassius, enlarge your griefs,
+	And I will give you audience.
+<SPEECH 109><ACT 4><SCENE 2><72%>
+	Lucilius, do you the like; and let no man
+	Come to our tent till we have done our conference.
+	Let Lucius and Titinius guard our door.
+<SPEECH 110><ACT 4><SCENE 3><72%>
+	You wrong'd yourself to write in such a case.
+<SPEECH 111><ACT 4><SCENE 3><72%>
+	Let me tell you, Cassius, you yourself
+	Are much condemn'd to have an itching palm;
+	To sell and mart your offices for gold
+	To undeservera.
+<SPEECH 112><ACT 4><SCENE 3><72%>
+	The name of Cassius honours this corruption,
+	And chastisement doth therefore hide his head.
+<SPEECH 113><ACT 4><SCENE 3><73%>
+	Remember March, the ides of March remember:
+	Did not great Julius bleed for justice' sake?
+	What villain touch'd his body, that did stab,
+	And not for justice? What! shall one of us,
+	That struck the foremost man of all this world
+	But for supporting robbers, shall we now
+	Contaminate our fingers with base bribes,
+	And sell the mighty space of our large honours
+	For so much trash as may be grasped thus?
+	I had rather be a dog, and bay the moon,
+	Than such a Roman.
+<SPEECH 114><ACT 4><SCENE 3><73%>
+	Go to; you are not, Cassius.
+<SPEECH 115><ACT 4><SCENE 3><73%>
+	I say you are not.
+<SPEECH 116><ACT 4><SCENE 3><73%>
+	Away, slight man!
+<SPEECH 117><ACT 4><SCENE 3><73%>
+	Hear me, for I will speak.
+	Must I give way and room to your rash choler?
+	Shall I be frighted when a madman stares?
+<SPEECH 118><ACT 4><SCENE 3><73%>
+	All this! ay, more: fret till your proud heart break;
+	Go show your slaves how choleric you are,
+	And make your bondmen tremble. Must I budge?
+	Must I observe you? Must I stand and crouch
+	Under your testy humour? By the gods,
+	You shall digest the venom of your spleen,
+	Though it do split you; for, from this day forth,
+	I'll use you for my mirth, yea, for my laughter,
+	When you are waspish.
+<SPEECH 119><ACT 4><SCENE 3><74%>
+	You say you are a better soldier:
+	Let it appear so; make your vaunting true,
+	And it shall please me well. For mine own part,
+	I shall be glad to learn of noble men.
+<SPEECH 120><ACT 4><SCENE 3><74%>
+	If you did, I care not.
+<SPEECH 121><ACT 4><SCENE 3><74%>
+	Peace, peace! you durst not so have tempted him.
+<SPEECH 122><ACT 4><SCENE 3><74%>
+	No.
+<SPEECH 123><ACT 4><SCENE 3><74%>
+	For your life you durst not.
+<SPEECH 124><ACT 4><SCENE 3><74%>
+	You have done that you should be sorry for.
+	There is no terror, Cassius, in your threats;
+	For I am arm'd so strong in honesty
+	That they pass by me as the idle wind,
+	Which I respect not. I did send to you
+	For certain sums of gold, which you denied me;
+	For I can raise no money by vile means:
+	By heaven, I had rather coin my heart,
+	And drop my blood for drachmas, than to wring
+	From the hard hands of peasants their vile trash
+	By any indirection. I did send
+	To you for gold to pay my legions,
+	Which you denied me: was that done like Cassius?
+	Should I have answer'd Caius Cassius so?
+	When Marcus Brutus grows so covetous,
+	To lock such rascal counters from his friends,
+	Be ready, gods, with all your thunderbolts;
+	Dash him to pieces!
+<SPEECH 125><ACT 4><SCENE 3><75%>
+	You did.
+<SPEECH 126><ACT 4><SCENE 3><75%>
+	I do not, till you practise them on me.
+<SPEECH 127><ACT 4><SCENE 3><75%>
+	I do not like your faults.
+<SPEECH 128><ACT 4><SCENE 3><75%>
+	A flatterer's would not, though they do appear
+	As huge as high Olympus.
+<SPEECH 129><ACT 4><SCENE 3><76%>
+	Sheathe your dagger:
+	Be angry when you will, it shall have scope;
+	Do what you will, dishonour shall be humour.
+	O Cassius! you are yoked with a lamb
+	That carries anger as the flint bears fire,
+	Who, much enforced, shows a hasty spark,
+	And straight is cold again.
+<SPEECH 130><ACT 4><SCENE 3><76%>
+	When I spoke that I was ill-temper'd too.
+<SPEECH 131><ACT 4><SCENE 3><76%>
+	And my heart too.
+<SPEECH 132><ACT 4><SCENE 3><76%>
+	What's the matter?
+<SPEECH 133><ACT 4><SCENE 3><76%>
+	Yes, Cassius; and from henceforth
+	When you are over-earnest with your Brutus,
+	He'll think your mother chides, and leave you so.
+<SPEECH 134><ACT 4><SCENE 3><77%>
+	Get you hence, sirrah; saucy fellow, hence!
+<SPEECH 135><ACT 4><SCENE 3><77%>
+	I'll know his humour, when he knows his time:
+	What should the wars do with these jigging fools?
+	Companion, hence!
+<SPEECH 136><ACT 4><SCENE 3><77%>
+	Lucilius and Titinius, bid the commanders
+	Prepare to lodge their companies to-night.
+<SPEECH 137><ACT 4><SCENE 3><78%>
+	Lucius, a bowl of wine!
+<SPEECH 138><ACT 4><SCENE 3><78%>
+	O Cassius! I am sick of many griefs.
+<SPEECH 139><ACT 4><SCENE 3><78%>
+	No man bears sorrow better: Portia is dead.
+<SPEECH 140><ACT 4><SCENE 3><78%>
+	She is dead.
+<SPEECH 141><ACT 4><SCENE 3><78%>
+	Impatient of my absence,
+	And grief that young Octavius with Mark Antony
+	Have made themselves so strong;—for with her death
+	That tidings came:—with this she fell distract,
+	And, her attendants absent, swallow'd fire.
+<SPEECH 142><ACT 4><SCENE 3><78%>
+	Even so.
+<SPEECH 143><ACT 4><SCENE 3><78%>
+	Speak no more of her. Give me a bowl of wine.
+	In this I bury all unkindness, Cassius.
+<SPEECH 144><ACT 4><SCENE 3><79%>
+	Come in, Titinius.
+	Welcome, good Messala.
+	Now sit we close about this taper here,
+	And call in question our necessities.
+<SPEECH 145><ACT 4><SCENE 3><79%>
+	No more, I pray you.
+	Messala, I have here received letters,
+	That young Octavius and Mark Antony
+	Come down upon us with a mighty power,
+	Bending their expedition towards Philippi.
+<SPEECH 146><ACT 4><SCENE 3><79%>
+	With what addition?
+<SPEECH 147><ACT 4><SCENE 3><79%>
+	Therein our letters do not well agree;
+	Mine speak of seventy senators that died
+	By their proscriptions, Cicero being one.
+<SPEECH 148><ACT 4><SCENE 3><79%>
+	No, Messala.
+<SPEECH 149><ACT 4><SCENE 3><79%>
+	Nothing, Messala.
+<SPEECH 150><ACT 4><SCENE 3><79%>
+	Why ask you? Hear you aught of her in yours?
+<SPEECH 151><ACT 4><SCENE 3><79%>
+	Now, as you are a Roman, tell me true.
+<SPEECH 152><ACT 4><SCENE 3><80%>
+	Why, farewell, Portia. We must die, Messala:
+	With meditating that she must die once,
+	I have the patience to endure it now.
+<SPEECH 153><ACT 4><SCENE 3><80%>
+	Well, to our work alive. What do you think
+	Of marching to Philippi presently?
+<SPEECH 154><ACT 4><SCENE 3><80%>
+	Your reason?
+<SPEECH 155><ACT 4><SCENE 3><80%>
+	Good reasons must, of force, give place to better,
+	The people 'twixt Philippi and this ground
+	Do stand but in a forc'd affection;
+	For they have grudg'd us contribution:
+	The enemy, marching along by them,
+	By them shall make a fuller number up,
+	Come on refresh'd, new-added, and encourag'd;
+	From which advantage shall we cut him off,
+	If at Philippi we do face him there,
+	These people at our back.
+<SPEECH 156><ACT 4><SCENE 3><81%>
+	Under your pardon. You must note beside,
+	That we have tried the utmost of our friends,
+	Our legions are brim-full, our cause is ripe:
+	The enemy increaseth every day;
+	We, at the height, are ready to decline.
+	There is a tide in the affairs of men,
+	Which, taken at the flood, leads on to fortune;
+	Omitted, all the voyage of their life
+	Is bound in shallows and in miseries.
+	On such a full sea are we now afloat;
+	And we must take the current when it serves,
+	Or lose our ventures.
+<SPEECH 157><ACT 4><SCENE 3><81%>
+	The deep of night is crept upon our talk,
+	And nature must obey necessity,
+	Which we will niggard with a little rest.
+	There is no more to say?
+<SPEECH 158><ACT 4><SCENE 3><81%>
+	Lucius!
+	My gown.
+	Farewell, good Messala:
+	Good-night, Titinius. Noble, noble Cassius,
+	Good-night, and good repose.
+<SPEECH 159><ACT 4><SCENE 3><81%>
+	Every thing is well.
+<SPEECH 160><ACT 4><SCENE 3><82%>
+	Good-night, good brother.
+<SPEECH 161><ACT 4><SCENE 3><82%>
+	Farewell, every one.
+	Give me the gown. Where is thy instrument?
+<SPEECH 162><ACT 4><SCENE 3><82%>
+	What! thou speak'st drowsily?
+	Poor knave, I blame thee not; thou art o'erwatch'd.
+	Call Claudius and some other of my men;
+	I'll have them sleep on cushions in my tent.
+<SPEECH 163><ACT 4><SCENE 3><82%>
+	I pray you, sirs, lie in my tent and sleep:
+	It may be I shall raise you by and by
+	On business to my brother Cassius.
+<SPEECH 164><ACT 4><SCENE 3><82%>
+	I will not have it so; lie down, good sirs;
+	It may be I shall otherwise bethink me.
+	Look, Lucius, here's the book I sought for so;
+	I put it in the pocket of my gown.
+<SPEECH 165><ACT 4><SCENE 3><82%>
+	Bear with me, good boy, I am much forgetful.
+	Canst thou hold up thy heavy eyes awhile,
+	And touch thy instrument a strain or two?
+<SPEECH 166><ACT 4><SCENE 3><83%>
+	It does, my boy:
+	I trouble thee too much, but thou art willing.
+<SPEECH 167><ACT 4><SCENE 3><83%>
+	I should not urge thy duty past thy might;
+	I know young bloods look for a time of rest.
+<SPEECH 168><ACT 4><SCENE 3><83%>
+	It was well done, and thou shalt sleep again;
+	I will not hold thee long: if I do live,
+	I will be good to thee.
+	This is a sleepy tune: O murderous slumber!
+	Lay'st thou thy leaden mace upon my boy,
+	That plays thee music? Gentle knave, good-night;
+	I will not do thee so much wrong to wake thee.
+	If thou dost nod, thou break'st thy instrument;
+	I'll take it from thee; and, good boy, good-night.
+	Let me see, let me see; is not the leaf turn'd down
+	Where I left reading? Here it is, I think.
+	How ill this taper burns! Ha! who comes here?
+	I think it is the weakness of mine eyes
+	That shapes this monstrous apparition.
+	It comes upon me. Art thou any thing?
+	Art thou some god, some angel, or some devil,
+	That mak'st my blood cold and my hair to stare?
+	Speak to me what thou art.
+<SPEECH 169><ACT 4><SCENE 3><84%>
+	Why com'st thou?
+<SPEECH 170><ACT 4><SCENE 3><84%>
+	Well; then I shall see thee again?
+<SPEECH 171><ACT 4><SCENE 3><84%>
+	Why, I will see thee at Philippi then.
+	Now I have taken heart thou vanishest:
+	Ill spirit, I would hold more talk with thee.
+	Boy, Lucius! Varro! Claudius! Sirs, awake!
+	Claudius!
+<SPEECH 172><ACT 4><SCENE 3><84%>
+	He thinks he still is at his instrument.
+	Lucius, awake!
+<SPEECH 173><ACT 4><SCENE 3><84%>
+	Didst thou dream, Lucius, that thou so criedst out?
+<SPEECH 174><ACT 4><SCENE 3><84%>
+	Yes, that thou didst. Didst thou see any thing?
+<SPEECH 175><ACT 4><SCENE 3><84%>
+	Sleep again, Lucius. Sirrah, Claudius!
+	Fellow thou! awake!
+<SPEECH 176><ACT 4><SCENE 3><84%>
+	Why did you so cry out, sirs, in your sleep?
+<SPEECH 177><ACT 4><SCENE 3><84%>
+	Ay: saw you any thing?
+<SPEECH 178><ACT 4><SCENE 3><84%>
+	Go, and commend me to my brother Cassius.
+	Bid him set on his powers betimes before,
+	And we will follow.
+<SPEECH 179><ACT 5><SCENE 1><86%>
+	They stand, and would have parley.
+<SPEECH 180><ACT 5><SCENE 1><86%>
+	Words before blows: is it so, countrymen?
+<SPEECH 181><ACT 5><SCENE 1><86%>
+	Good words are better than bad strokes, Octavius.
+<SPEECH 182><ACT 5><SCENE 1><86%>
+	O! yes, and soundless too;
+	For you have stol'n their buzzing, Antony,
+	And very wisely threat before you sting.
+<SPEECH 183><ACT 5><SCENE 1><87%>
+	Cæsar, thou canst not die by traitors' hands,
+	Unless thou bring'st them with thee.
+<SPEECH 184><ACT 5><SCENE 1><87%>
+	O! if thou wert the noblest of thy strain,
+	Young man, thou couldst not die more honourable.
+<SPEECH 185><ACT 5><SCENE 1><88%>
+	Ho!
+	Lucilius! hark, a word with you.
+<SPEECH 186><ACT 5><SCENE 1><88%>
+	Even so, Lucilius.
+<SPEECH 187><ACT 5><SCENE 1><89%>
+	Even by the rule of that philosophy
+	By which I did blame Cato for the death
+	Which he did give himself; I know not how,
+	But I do find it cowardly and vile,
+	For fear of what might fall, so to prevent
+	The time of life: arming myself with patience,
+	To stay the providence of some high powers
+	That govern us below.
+<SPEECH 188><ACT 5><SCENE 1><89%>
+	No, Cassius, no: think not, thou noble Roman,
+	That ever Brutus will go bound to Rome;
+	He bears too great a mind: but this same day
+	Must end that work the ides of March begun;
+	And whether we shall meet again I know not.
+	Therefore our everlasting farewell take:
+	For ever, and for ever, farewell, Cassius!
+	If we do meet again, why, we shall smile;
+	If not, why then, this parting was well made.
+<SPEECH 189><ACT 5><SCENE 1><90%>
+	Why, then, lead on. O! that a man might know
+	The end of this day's business, ere it come;
+	But it sufficeth that the day will end,
+	And then the end is known. Come, ho! away!
+<SPEECH 190><ACT 5><SCENE 2><90%>
+	Ride, ride, Messala, ride, and give these bills
+	Unto the legions on the other side.
+	Let them set on at once, for I perceive
+	But cold demeanour in Octavius' wing,
+	And sudden push gives them the overthrow.
+	Ride, ride, Messala: let them all come down.
+<SPEECH 191><ACT 5><SCENE 3><94%>
+	Where, where, Messala, doth his body lie?
+<SPEECH 192><ACT 5><SCENE 3><94%>
+	Titinius' face is upward.
+<SPEECH 193><ACT 5><SCENE 3><94%>
+	O Julius Cæsar! thou art mighty yet!
+	Thy spirit walks abroad, and turns our swords
+	In our own proper entrails.
+<SPEECH 194><ACT 5><SCENE 3><94%>
+	Are yet two Romans living such as these?
+	The last of all the Romans, fare thee well!
+	It is impossible that ever Rome
+	Should breed thy fellow. Friends, I owe more tears
+	To this dead man than you shall see me pay.—
+	I shall find time, Cassius, I shall find time.—
+	Come therefore, and to Thassos send his body:
+	His funerals shall not be in our camp,
+	Lest it discomfort us. Lucilius, come;
+	And come, young Cato;—let us to the field.
+	Labeo and Flavius, set our battles on:—
+	'Tis three o'clock; and, Romans, yet ere night
+	We shall try fortune in a second fight.
+<SPEECH 195><ACT 5><SCENE 4><95%>
+	Yet, countrymen, O! yet hold up your heads!
+<SPEECH 196><ACT 5><SCENE 4><95%>
+	And I am Brutus, Marcus Brutus, I;
+	Brutus, my country's friend; know me for Brutus!
+<SPEECH 197><ACT 5><SCENE 5><97%>
+	Come, poor remains of friends, rest on this rock.
+<SPEECH 198><ACT 5><SCENE 5><97%>
+	Sit thee down, Clitus: slaying is the word;
+	It is a deed in fashion. Hark thee, Clitus.
+<SPEECH 199><ACT 5><SCENE 5><97%>
+	Peace, then! no words.
+<SPEECH 200><ACT 5><SCENE 5><97%>
+	Hark thee, Dardanius.
+<SPEECH 201><ACT 5><SCENE 5><97%>
+	Come hither, good Volumnius: list a word.
+<SPEECH 202><ACT 5><SCENE 5><97%>
+	Why this, Volumnius:
+	The ghost of Cæsar hath appear'd to me
+	Two several times by night; at Sardis once,
+	And this last night here in Philippi fields.
+	I know my hour is come.
+<SPEECH 203><ACT 5><SCENE 5><97%>
+	Nay, I am sure it is, Volumnius.
+	Thou seest the world, Volumnius, how it goes;
+	Our enemies have beat us to the pit:
+	It is more worthy to leap in ourselves,
+	Than tarry till they push us. Good Volumnius,
+	Thou know'st that we two went to school together:
+	Even for that our love of old, I prithee,
+	Hold thou my sword-hilts, whilst I run on it.
+<SPEECH 204><ACT 5><SCENE 5><98%>
+	Farewell to you; and you; and you, Volumnius.
+	Strato, thou hast been all this while asleep;
+	Farewell to thee too, Strato. Countrymen,
+	My heart doth joy that yet, in all my life,
+	I found no man but he was true to me.
+	I shall have glory by this losing day,
+	More than Octavius and Mark Antony
+	By this vile conquest shall attain unto.
+	So fare you well at once; for Brutus' tongue
+	Hath almost ended his life's history:
+	Night hangs upon mine eyes; my bones would rest,
+	That have but labour'd to attain this hour.
+<SPEECH 205><ACT 5><SCENE 5><98%>
+	Hence! I will follow.
+	I prithee, Strato, stay thou by thy lord:
+	Thou art a fellow of a good respect;
+	Thy life hath had some smatch of honour in it:
+	Hold then my sword, and turn away thy face,
+	While I do run upon it. Wilt thou, Strato?
+<SPEECH 206><ACT 5><SCENE 5><99%>
+	Farewell, good Strato.—<STAGE DIR>
+	</STAGE DIR> Cæsar, now be still;
+	I kill'd not thee with half so good a will.

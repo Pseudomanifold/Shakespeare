@@ -1,0 +1,53 @@
+<SPEECH 1><ACT 1><SCENE 1><10%>
+	'Tis Alcihiades, and some twenty horse,
+	All of companionship.
+<SPEECH 2><ACT 1><SCENE 2><17%>
+	Please you, my lord, there are certain ladies most desirous of admittance.
+<SPEECH 3><ACT 1><SCENE 2><17%>
+	There comes with them a forerunner, my lord, which bears that office, to signify their pleasures.
+<SPEECH 4><ACT 1><SCENE 2><20%>
+	Here, my lord, in readiness.
+<SPEECH 5><ACT 1><SCENE 2><20%>
+	My lord, there are certain nobles of the senate
+	Newly alighted, and come to visit you.
+<SPEECH 6><ACT 2><SCENE 2><33%>
+	My lord! my lord!
+<SPEECH 7><ACT 3><SCENE 1><35%>
+	I have told my lord of you; he is coming down to you.
+<SPEECH 8><ACT 3><SCENE 1><36%>
+	Here's my lord.
+<SPEECH 9><ACT 3><SCENE 1><37%>
+	Please your lordship, here is the wine.
+<SPEECH 10><ACT 3><SCENE 2><39%>
+	See, by good hap, yonder's my lord; I have sweat to see his honour. <STAGE DIR>
+	</STAGE DIR> My honoured lord!
+<SPEECH 11><ACT 3><SCENE 2><39%>
+	May it please your honour, my lord hath sent—
+<SPEECH 12><ACT 3><SCENE 2><40%>
+	He has only sent his present occasion now, my lord; requesting your lordship to supply his instant use with so many talents.
+<SPEECH 13><ACT 3><SCENE 2><40%>
+	But in the mean time he wants less, my lord.
+	If his occasion were not virtuous,
+	I should not urge it half so faithfully.
+<SPEECH 14><ACT 3><SCENE 2><40%>
+	Upon my soul, 'tis true, sir.
+<SPEECH 15><ACT 3><SCENE 2><41%>
+	Yes, sir, I shall.
+<SPEECH 16><ACT 3><SCENE 3><42%>
+	My lord,
+	They have all been touch'd and found base metal, for
+	They have all denied him.
+<SPEECH 17><ACT 3><SCENE 3><43%>
+	Excellent! Your lordship's a goodly villain. The devil knew not what he did when he made man politic; he crossed himself by 't: and I cannot think but in the end the villanies of man will set him clear. How fairly this lord strives to appear foul! takes virtuous copies to be wicked, like those that under hot ardent zeal would set whole realms on fire:
+	Of such a nature is his politic love.
+	This was my lord's best hope; now all are fled
+	Save only the gods. Now his friends are dead,
+	Doors, that were ne'er acquainted with their wards
+	Many a bounteous year, must be employ'd
+	Now to guard sure their master:
+	And this is all a liberal course allows;
+	Who cannot keep his wealth must keep his house.
+<SPEECH 18><ACT 3><SCENE 4><47%>
+	If I might beseech you, gentlemen, to repair some other hour, I should derive much from 't; for, take 't of my soul, my lord leans wondrously to discontent. His comfortable temper has forsook him; he's much out of health, and keeps his chamber.
+<SPEECH 19><ACT 3><SCENE 4><47%>
+	Good gods!

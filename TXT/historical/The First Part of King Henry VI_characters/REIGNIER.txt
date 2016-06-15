@@ -1,0 +1,75 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	Let's raise the siege: why live we idly here?
+	Talbot is taken, whom we wont to fear:
+	Remaineth none but mad-brain'd Salisbury,
+	And he may well in fretting spend his gall;
+	Nor men nor money hath he to make war.
+<SPEECH 2><ACT 1><SCENE 2><8%>
+	Salisbury is a desperate homicide;
+	He fighteth as one weary of his life:
+	The other lords, like lions wanting food,
+	Do rush upon us as their hungry prey.
+<SPEECH 3><ACT 1><SCENE 2><8%>
+	I think, by some odd gimmals or device,
+	Their arms are set like clocks, still to strike on;
+	Else ne'er could they hold out so as they do.
+	By my consent, we'll e'en let them alone.
+<SPEECH 4><ACT 1><SCENE 2><9%>
+	Fair maid, is't thou wilt do these wondrous feats?
+<SPEECH 5><ACT 1><SCENE 2><9%>
+	She takes upon her bravely at first dash.
+<SPEECH 6><ACT 1><SCENE 2><11%>
+	My lord, methinks, is very long in talk.
+<SPEECH 7><ACT 1><SCENE 2><11%>
+	Shall we disturb him, since he keeps no mean?
+<SPEECH 8><ACT 1><SCENE 2><11%>
+	My lord, where are you? what devise you on?
+	Shall we give over Orleans, or no?
+<SPEECH 9><ACT 1><SCENE 2><12%>
+	Woman, do what thou canst to save our honours;
+	Drive them from Orleans and be immortalis'd.
+<SPEECH 10><ACT 1><SCENE 6><22%>
+	Why ring not out the bells throughout the town?
+	Dauphin, command the citizens make bonfires
+	And feast and banquet in the open streets,
+	To celebrate the joy that God hath given us.
+<SPEECH 11><ACT 2><SCENE 1><25%>
+	'Twas time, I trow, to wake and leave our beds,
+	Hearing alarums at our chamber-doors.
+<SPEECH 12><ACT 2><SCENE 1><25%>
+	If not of hell, the heavens, sure, favour him.
+<SPEECH 13><ACT 2><SCENE 1><26%>
+	And so was mine, my lord.
+<SPEECH 14><ACT 5><SCENE 3><88%>
+	To whom?
+<SPEECH 15><ACT 5><SCENE 3><88%>
+	Suffolk, what remedy?
+	I am a soldier, and unapt to weep,
+	Or to exclaim on Fortune's fickleness.
+<SPEECH 16><ACT 5><SCENE 3><88%>
+	Speaks Suffolk as he thinks?
+<SPEECH 17><ACT 5><SCENE 3><88%>
+	Upon thy princely warrant, I descend
+	To give thee answer of thy just demand.
+<SPEECH 18><ACT 5><SCENE 3><89%>
+	Welcome, brave earl, into our territories:
+	Command in Anjou what your honour pleases.
+<SPEECH 19><ACT 5><SCENE 3><89%>
+	Since thou dost deign to woo her little worth
+	To be the princely bride of such a lord,
+	Upon condition I may quietly
+	Enjoy mine own, the county Maine and Anjou,
+	Free from oppression or the stroke of war,
+	My daughter shall be Henry's if he please.
+<SPEECH 20><ACT 5><SCENE 3><89%>
+	And I again, in Henry's royal name,
+	As deputy unto that gracious king,
+	Give thee her hand for sign of plighted faith.
+<SPEECH 21><ACT 5><SCENE 3><89%>
+	I do embrace thee, as I would embrace
+	The Christian prince, King Henry, were he here.
+<SPEECH 22><ACT 5><SCENE 4><96%>
+	My lord, you do not well in obstinacy
+	To cavil in the course of this contract:
+	If once it be neglected, ten to one,
+	We shall not find like opportunity.

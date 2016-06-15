@@ -1,0 +1,48 @@
+<SPEECH 1><ACT 3><SCENE 4><44%>
+	Ay, and I think
+	One business does command us all; for mine
+	Is money.
+<SPEECH 2><ACT 3><SCENE 4><44%>
+	And Sir Philotus too!
+<SPEECH 3><ACT 3><SCENE 4><44%>
+	Welcome, good brother.
+	What do you think the hour?
+<SPEECH 4><ACT 3><SCENE 4><44%>
+	So much?
+<SPEECH 5><ACT 3><SCENE 4><44%>
+	Not yet.
+<SPEECH 6><ACT 3><SCENE 4><44%>
+	Ay, but the days are waxed shorter with him:
+	You must consider that a prodigal course
+	Is like the sun's; but not, like his, recoverable.
+	I fear,
+	'Tis deepest winter in Lord Timon's purse;
+	That is, one may reach deep enough, and yet
+	Find little.
+<SPEECH 7><ACT 3><SCENE 4><45%>
+	Mark, how strange it shows,
+	Timon in this should pay more than he owes:
+	And e'en as if your lord should wear rich jewels,
+	And send for money for 'em.
+<SPEECH 8><ACT 3><SCENE 4><45%>
+	Five thousand mine.
+<SPEECH 9><ACT 3><SCENE 4><45%>
+	Flaminius! Sir, a word. Pray, is my lord ready to come forth?
+<SPEECH 10><ACT 3><SCENE 4><46%>
+	Ha! is not that his steward muffled so?
+	He goes away in a cloud: call him, call him.
+<SPEECH 11><ACT 3><SCENE 4><46%>
+	Ay, but this answer will not serve.
+<SPEECH 12><ACT 3><SCENE 4><47%>
+	Many do keep their chambers are not sick:
+	And, if it be so far beyond his health,
+	Methinks he should the sooner pay his debts,
+	And make a clear way to the gods.
+<SPEECH 13><ACT 3><SCENE 4><48%>
+	Put in now, Titus.
+<SPEECH 14><ACT 3><SCENE 4><48%>
+	Here's mine.
+<SPEECH 15><ACT 3><SCENE 4><48%>
+	Alas! my lord,—
+<SPEECH 16><ACT 3><SCENE 4><48%>
+	Five thousand crowns, my lord.

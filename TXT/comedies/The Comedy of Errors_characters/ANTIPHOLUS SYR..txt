@@ -1,0 +1,369 @@
+<SPEECH 1><ACT 1><SCENE 2><9%>
+	Go bear it to the Centaur, where we host,
+	And stay there, Dromio, till I come to thee.
+	Within this hour it will be dinner-time:
+	Till that, I'll view the manners of the town,
+	Peruse the traders, gaze upon the buildings,
+	And then return and sleep within mine inn,
+	For with long travel I am stiff and weary.
+	Get thee away.
+<SPEECH 2><ACT 1><SCENE 2><9%>
+	A trusty villain, sir, that very oft,
+	When I am dull with care and melancholy,
+	Lightens my humour with his merry jests.
+	What, will you walk with me about the town,
+	And then go to my inn and dine with me?
+<SPEECH 3><ACT 1><SCENE 2><10%>
+	Farewell till then: I will go lose myself,
+	And wander up and down to view the city.
+<SPEECH 4><ACT 1><SCENE 2><10%>
+	He that commends me to mine own content,
+	Commends me to the thing I cannot get.
+	I to the world am like a drop of water
+	That in the ocean seeks another drop;
+	Who, falling there to find his fellow forth,
+	Unseen, inquisitive, confounds himself:
+	So I, to find a mother and a brother,
+	In quest of them, unhappy, lose myself.
+	Here comes the almanack of my true date.
+	What now? How chance thou art return'd so soon?
+<SPEECH 5><ACT 1><SCENE 2><11%>
+	Stop in your wind, sir: tell me this, I pray:
+	Where have you left the money that I gave you?
+<SPEECH 6><ACT 1><SCENE 2><11%>
+	I am not in a sportive humour now.
+	Tell me, and dally not, where is the money?
+	We being strangers here, how dar'st thou trust
+	So great a charge from thine own custody?
+<SPEECH 7><ACT 1><SCENE 2><12%>
+	Come, Dromio, come; these jests are out of season;
+	Reserve them till a merrier hour than this.
+	Where is the gold I gave in charge to thee?
+<SPEECH 8><ACT 1><SCENE 2><12%>
+	Come on, sir knave, have done your foolishness,
+	And tell me how thou hast dispos'd thy charge.
+<SPEECH 9><ACT 1><SCENE 2><12%>
+	Now, as I am a Christian, answer me,
+	In what safe place you have bestow'd my money;
+	Or I shall break that merry sconce of yours
+	That stands on tricks when I am undispos'd.
+	Where is the thousand marks thou hadst of me?
+<SPEECH 10><ACT 1><SCENE 2><13%>
+	Thy mistress' marks! what mistress, slave, hast thou?
+<SPEECH 11><ACT 1><SCENE 2><13%>
+	What! wilt thou flout me thus unto my face,
+	Being forbid? There, take you that, sir knave.
+<SPEECH 12><ACT 1><SCENE 2><14%>
+	Upon my life, by some device or other
+	The villain is o'er-raught of all my money.
+	They say this town is full of cozenage;
+	As, nimble jugglers that deceive the eye,
+	Dark-working sorcerers that change the mind,
+	Soul-killing witches that deform the body,
+	Disguised cheaters, prating mountebanks,
+	And many such-like liberties of sin:
+	If it prove so, I will be gone the sooner.
+	I'll to the Centaur, to go seek this slave:
+	I greatly fear my money is not safe.
+<SPEECH 13><ACT 2><SCENE 2><21%>
+	The gold I gave to Dromio is laid up
+	Safe at the Centaur; and the heedful slave
+	Is wander'd forth, in care to seek me out.
+	By computation, and mine host's report,
+	I could not speak with Dromio since at first
+	I sent him from the mart. See, here he comes.
+	How now, sir! is your merry humour alter'd?
+	As you love strokes, so jest with me again.
+	You know no Centaur? You receiv'd no gold?
+	Your mistress sent to have me home to dinner?
+	My house was at the Phœnix? Wast thou mad,
+	That thus so madly thou didst answer me?
+<SPEECH 14><ACT 2><SCENE 2><21%>
+	Even now, even here, not half-an-hour since.
+<SPEECH 15><ACT 2><SCENE 2><22%>
+	Villain, thou didst deny the gold's receipt,
+	And told'st me of a mistress and a dinner;
+	For which, I hope, thou felt'st I was displeas'd.
+<SPEECH 16><ACT 2><SCENE 2><22%>
+	Yea, dost thou jeer, and flout me in the teeth?
+	Think'st thou I jest? Hold, take thou that, and that.
+<SPEECH 17><ACT 2><SCENE 2><22%>
+	Because that I familiarly sometimes
+	Do use you for my fool, and chat with you,
+	Your sauciness will jest upon my love,
+	And make a common of my serious hours.
+	When the sun shines let foolish gnats make sport,
+	But creep in crannies when he hides his beams.
+	If you will jest with me, know my aspect,
+	And fashion your demeanour to my looks,
+	Or I will beat this method in your sconce.
+<SPEECH 18><ACT 2><SCENE 2><23%>
+	Dost thou not know?
+<SPEECH 19><ACT 2><SCENE 2><23%>
+	Shall I tell you why?
+<SPEECH 20><ACT 2><SCENE 2><23%>
+	Why, first,—for flouting me; and then, wherefore,—
+	For urging it the second time to me.
+<SPEECH 21><ACT 2><SCENE 2><23%>
+	Thank me, sir! for what?
+<SPEECH 22><ACT 2><SCENE 2><24%>
+	I'll make you amends next, to give you nothing for something. But say, sir, is it dinner-time?
+<SPEECH 23><ACT 2><SCENE 2><24%>
+	In good time, sir; what's that?
+<SPEECH 24><ACT 2><SCENE 2><24%>
+	Well, sir, then 'twill be dry.
+<SPEECH 25><ACT 2><SCENE 2><24%>
+	Your reason?
+<SPEECH 26><ACT 2><SCENE 2><24%>
+	Well, sir, learn to jest in good time: there's a time for all things.
+<SPEECH 27><ACT 2><SCENE 2><24%>
+	By what rule, sir?
+<SPEECH 28><ACT 2><SCENE 2><24%>
+	Let's hear it.
+<SPEECH 29><ACT 2><SCENE 2><25%>
+	May he not do it by fine and recovery?
+<SPEECH 30><ACT 2><SCENE 2><25%>
+	Why is Time such a niggard of hair, being, as it is, so plentiful an excrement?
+<SPEECH 31><ACT 2><SCENE 2><25%>
+	Why, but there's many a man hath more hair than wit.
+<SPEECH 32><ACT 2><SCENE 2><25%>
+	Why, thou didst conclude hairy men plain dealers without wit.
+<SPEECH 33><ACT 2><SCENE 2><25%>
+	For what reason?
+<SPEECH 34><ACT 2><SCENE 2><25%>
+	Nay, not sound, I pray you.
+<SPEECH 35><ACT 2><SCENE 2><25%>
+	Nay, not sure, in a thing falsing.
+<SPEECH 36><ACT 2><SCENE 2><26%>
+	Name them.
+<SPEECH 37><ACT 2><SCENE 2><26%>
+	You would all this time have proved there is no time for all things.
+<SPEECH 38><ACT 2><SCENE 2><26%>
+	But your reason was not substantial, why there is not time to recover.
+<SPEECH 39><ACT 2><SCENE 2><26%>
+	I knew 'twould be a bald conclusion.
+	But soft! who wafts us yonder?
+<SPEECH 40><ACT 2><SCENE 2><28%>
+	Plead you to me, fair dame? I know you not:
+	In Ephesus I am but two hours old,
+	As strange unto your town as to your talk;
+	Who, every word by all my wit being scann'd,
+	Want wit in all one word to understand.
+<SPEECH 41><ACT 2><SCENE 2><28%>
+	By Dromio?
+<SPEECH 42><ACT 2><SCENE 2><29%>
+	Did you converse, sir, with this gentle-woman?
+	What is the course and drift of your compact?
+<SPEECH 43><ACT 2><SCENE 2><29%>
+	Villain, thou liest; for even her very words
+	Didst thou deliver to me on the mart.
+<SPEECH 44><ACT 2><SCENE 2><29%>
+	How can she thus then, call us by our names,
+	Unless it be by inspiration?
+<SPEECH 45><ACT 2><SCENE 2><30%>
+	To me she speaks; she moves me for her theme!
+	What! was I married to her in my dream?
+	Or sleep I now and think I hear all this?
+	What error drives our eyes and ears amiss?
+	Until I know this sure uncertainty,
+	I'll entertain the offer'd fallacy.
+<SPEECH 46><ACT 2><SCENE 2><31%>
+	I think thou art, in mind, and so am I.
+<SPEECH 47><ACT 2><SCENE 2><31%>
+	Thou hast thine own form.
+<SPEECH 48><ACT 2><SCENE 2><31%>
+	</STAGE DIR> Am I in earth, in heaven, or in hell?
+	Sleeping or waking? mad or well-advis'd?
+	Known unto these, and to myself disguis'd!
+	I'll say as they say, and persever so,
+	And in this mist at all adventures go.
+<SPEECH 49><ACT 3><SCENE 2><42%>
+	Sweet mistress,—what your name is else, I know not,
+	Nor by what wonder you do hit of mine,—
+	Less in your knowledge and your grace you show not
+	Than our earth's wonder; more than earth divine.
+	Teach me, dear creature, how to think and speak:
+	Lay open to my earthy-gross conceit,
+	Smother'd in errors, feeble, shallow, weak,
+	The folded meaning of your words' deceit.
+	Against my soul's pure truth why labour you
+	To make it wander in an unknown field?
+	Are you a god? would you create me new?
+	Transform me then, and to your power I'll yield.
+	But if that I am I, then well I know
+	Your weeping sister is no wife of mine,
+	Nor to her bed no homage do I owe:
+	Far more, far more, to you do I decline.
+	O! train me not, sweet mermaid, with thy note,
+	To drown me in thy sister flood of tears:
+	Sing, siren, for thyself, and I will dote:
+	Spread o'er the silver waves thy golden hairs,
+	And as a bed I'll take them and there lie;
+	And, in that glorious supposition think
+	He gains by death that hath such means to die:
+	Let Love, being light, be drowned if she sink!
+<SPEECH 50><ACT 3><SCENE 2><44%>
+	Not mad, but mated; how, I do not know.
+<SPEECH 51><ACT 3><SCENE 2><44%>
+	For gazing on your beams; fair sun, being by.
+<SPEECH 52><ACT 3><SCENE 2><44%>
+	As good to wink, sweet love, as look on night.
+<SPEECH 53><ACT 3><SCENE 2><44%>
+	Thy sister's sister.
+<SPEECH 54><ACT 3><SCENE 2><44%>
+	No;
+	It is thyself, mine own self's better part;
+	Mine eye's clear eye, my dear heart's dearer heart;
+	My food, my fortune, and my sweet hope's aim,
+	My sole earth's heaven, and my heaven's claim.
+<SPEECH 55><ACT 3><SCENE 2><44%>
+	Call thyself sister, sweet, for I aim thee.
+	Thee will I love and with thee lead my life:
+	Thou hast no husband yet nor I no wife.
+	Give me thy hand.
+<SPEECH 56><ACT 3><SCENE 2><45%>
+	Why, how now, Dromio! where run'st thou so fast?
+<SPEECH 57><ACT 3><SCENE 2><45%>
+	Thou art Dromio, thou art my man, thou art thyself.
+<SPEECH 58><ACT 3><SCENE 2><45%>
+	What woman's man? and how besides thyself?
+<SPEECH 59><ACT 3><SCENE 2><45%>
+	What claim lays she to thee?
+<SPEECH 60><ACT 3><SCENE 2><46%>
+	What is she?
+<SPEECH 61><ACT 3><SCENE 2><46%>
+	How dost thou mean a fat marriage?
+<SPEECH 62><ACT 3><SCENE 2><46%>
+	What complexion is she of?
+<SPEECH 63><ACT 3><SCENE 2><46%>
+	That's a fault that water will mend.
+<SPEECH 64><ACT 3><SCENE 2><47%>
+	What's her name?
+<SPEECH 65><ACT 3><SCENE 2><47%>
+	Then she bears some breadth?
+<SPEECH 66><ACT 3><SCENE 2><47%>
+	In what part of her body stands Ireland?
+<SPEECH 67><ACT 3><SCENE 2><47%>
+	Where Scotland?
+<SPEECH 68><ACT 3><SCENE 2><47%>
+	Where France?
+<SPEECH 69><ACT 3><SCENE 2><47%>
+	Where England?
+<SPEECH 70><ACT 3><SCENE 2><48%>
+	Where Spain?
+<SPEECH 71><ACT 3><SCENE 2><48%>
+	Where America, the Indies?
+<SPEECH 72><ACT 3><SCENE 2><48%>
+	Where stood Belgia, the Netherlands?
+<SPEECH 73><ACT 3><SCENE 2><49%>
+	Go hie thee presently post to the road:
+	An if the wind blow any way from shore,
+	I will not harbour in this town to-night:
+	If any bark put forth, come to the mart,
+	Where I will walk till thou return to me.
+	If every one knows us and we know none,
+	'Tis time, I think, to trudge, pack, and be gone.
+<SPEECH 74><ACT 3><SCENE 2><49%>
+	There's none but witches do inhabit here,
+	And therefore 'tis high time that I were hence.
+	She that doth call me husband, even my soul
+	Doth for a wife abhor; but her fair sister,
+	Possess'd with such a gentle sovereign grace,
+	Of such enchanting presence and discourse,
+	Hath almost made me traitor to myself:
+	But, lest myself be guilty to self-wrong,
+	I'll stop mine ears against the mermaid's song.
+<SPEECH 75><ACT 3><SCENE 2><50%>
+	Ay, that's my name.
+<SPEECH 76><ACT 3><SCENE 2><50%>
+	What is your will that I shall do with this?
+<SPEECH 77><ACT 3><SCENE 2><50%>
+	Made it for me, sir! I bespoke it not
+<SPEECH 78><ACT 3><SCENE 2><50%>
+	I pray you, sir, receive the money now,
+	For fear you ne'er see chain nor money more.
+<SPEECH 79><ACT 3><SCENE 2><50%>
+	What I should think of this, I cannot tell:
+	But this I think, there's no man is so vain
+	That would refuse so fair an offer'd chain.
+	I see, a man here needs not live by shifts,
+	When in the streets he meets such golden gifts.
+	I'll to the mart, and there for Dromio stay:
+	If any ship put out, then straight away.
+<SPEECH 80><ACT 4><SCENE 3><62%>
+	There's not a man I meet but doth salute me,
+	As if I were their well acquainted friend;
+	And every one doth call me by my name.
+	Some tender money to me; some invite me;
+	Some other give me thanks for kindnesses;
+	Some offer me commodities to buy:
+	Even now a tailor call'd me in his shop
+	And show'd me silks that he had bought for me,
+	And therewithal, took measure of my body.
+	Sure these are but imaginary wiles,
+	And Lapland sorcerers inhabit here.
+<SPEECH 81><ACT 4><SCENE 3><62%>
+	What gold is this? What Adam dost thou mean?
+<SPEECH 82><ACT 4><SCENE 3><63%>
+	I understand thee not.
+<SPEECH 83><ACT 4><SCENE 3><63%>
+	What, thou meanest an officer?
+<SPEECH 84><ACT 4><SCENE 3><63%>
+	Well, sir, there rest in your foolery. Is there any ship puts forth to-night? may we be gone?
+<SPEECH 85><ACT 4><SCENE 3><64%>
+	The fellow is distract, and so am I;
+	And here we wander in illusions:
+	Some blessed power deliver us from hence!
+<SPEECH 86><ACT 4><SCENE 3><64%>
+	Satan, avoid! I charge thee tempt me not!
+<SPEECH 87><ACT 4><SCENE 3><64%>
+	It is the devil.
+<SPEECH 88><ACT 4><SCENE 3><65%>
+	Why, Dromio?
+<SPEECH 89><ACT 4><SCENE 3><65%>
+	Avoid thee, fiend! what tell'st thou me of supping?
+	Thou art, as you are all, a sorceress:
+	I conjure thee to leave me and be gone.
+<SPEECH 90><ACT 4><SCENE 3><66%>
+	Avaunt, thou witch! Come, Dromio, let us go.
+<SPEECH 91><ACT 4><SCENE 4><76%>
+	I see, these witches are afraid of swords.
+<SPEECH 92><ACT 4><SCENE 4><76%>
+	Come to the Centaur; fetch our stuff from thence:
+	I long that we were safe and sound aboard.
+<SPEECH 93><ACT 4><SCENE 4><76%>
+	I will not stay to-night for all the town;
+	Therefore away, to get our stuff aboard.
+<SPEECH 94><ACT 5><SCENE 1><78%>
+	I think I had: I never did deny it.
+<SPEECH 95><ACT 5><SCENE 1><78%>
+	Who heard me to deny it or forswear it?
+<SPEECH 96><ACT 5><SCENE 1><78%>
+	Thou art a villain to impeach me thus:
+	I'll prove mine honour and mine honesty
+	Against thee presently, if thou dar'st stand.
+<SPEECH 97><ACT 5><SCENE 1><95%>
+	Ægeon art thou not? or else his ghost?
+<SPEECH 98><ACT 5><SCENE 1><96%>
+	No, sir, not I; I came from Syracuse.
+<SPEECH 99><ACT 5><SCENE 1><97%>
+	I, gentle mistress.
+<SPEECH 100><ACT 5><SCENE 1><97%>
+	And so do I; yet did she call me so;
+	And this fair gentlewoman, her sister here,
+	Did call me brother. <STAGE DIR>
+	</STAGE DIR> What I told you then,
+	I hope I shall have leisure to make good,
+	If this be not a dream I see and hear.
+<SPEECH 101><ACT 5><SCENE 1><97%>
+	I think it be, sir; I deny it not.
+<SPEECH 102><ACT 5><SCENE 1><97%>
+	This purse of ducats I receiv'd from you,
+	And Dromio, my man, did bring them me.
+	I see we still did meet each other's man,
+	And I was ta'en for him, and he for me,
+	And thereupon these errors are arose.
+<SPEECH 103><ACT 5><SCENE 1><99%>
+	He speaks to me. I am your master, Dromio:
+	Come, go with us; we'll look to that anon:
+	Embrace thy brother there; rejoice with him.

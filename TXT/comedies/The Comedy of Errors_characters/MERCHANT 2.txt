@@ -1,0 +1,18 @@
+<SPEECH 1><ACT 5><SCENE 1><83%>
+	By this, I think, the dial points at five:
+	Anon, I'm sure, the duke himself in person
+	Comes this way to the melancholy vale,
+	The place of death and sorry execution,
+	Behind the ditches of the abbey here.
+<SPEECH 2><ACT 5><SCENE 1><83%>
+	To see a reverend Syracusian merchant,
+	Who put unluckily into this bay
+	Against the laws and statutes of this town,
+	Beheaded publicly for his offence.
+<SPEECH 3><ACT 5><SCENE 1><91%>
+	Besides, I will be sworn these ears of mine
+	Heard you confess you had the chain of him
+	After you first forswore it on the mart;
+	And thereupon I drew my sword on you;
+	And then you fled into this abbey here,
+	From whence, I think, you are come by miracle.

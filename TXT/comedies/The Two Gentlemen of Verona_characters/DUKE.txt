@@ -1,0 +1,248 @@
+<SPEECH 1><ACT 2><SCENE 4><31%>
+	Now, daughter Silvia, you are hard beset.
+	Sir Valentine, your father's in good health:
+	What say you to a letter from your friends
+	Of much good news?
+<SPEECH 2><ACT 2><SCENE 4><31%>
+	Know ye Don Antonio, your countryman?
+<SPEECH 3><ACT 2><SCENE 4><31%>
+	Hath he not a son?
+<SPEECH 4><ACT 2><SCENE 4><31%>
+	You know him well?
+<SPEECH 5><ACT 2><SCENE 4><32%>
+	Beshrew me, sir, but if he make this good,
+	He is as worthy for an empress' love
+	As meet to be an emperor's counsellor.
+	Well, sir, this gentleman is come to me
+	With commendation from great potentates;
+	And here he means to spend his time awhile:
+	I think, 'tis no unwelcome news to you.
+<SPEECH 6><ACT 2><SCENE 4><32%>
+	Welcome him then according to his worth.
+	Silvia, I speak to you; and you, Sir Thurio:—
+	For Valentine, I need not cite him to it.
+	I'll send him hither to you presently.
+<SPEECH 7><ACT 3><SCENE 1><47%>
+	Sir Thurio, give us leave, I pray, awhile;
+	We have some secrets to confer about.
+	Now tell me, Proteus, what's your will with me?
+<SPEECH 8><ACT 3><SCENE 1><48%>
+	Proteus, I thank thee for thine honest care,
+	Which to requite, command me while I live.
+	This love of theirs myself have often seen,
+	Haply, when they have judg'd me fast asleep,
+	And oftentimes have purpos'd to forbid
+	Sir Valentine her company and my court;
+	But fearing lest my jealous aim might err
+	And so unworthily disgrace the man,—
+	A rashness that I ever yet have shunn'd,—
+	I gave him gentle looks, thereby to find
+	That which thyself hast now disclos'd to me.
+	And, that thou mayst perceive my fear of this,
+	Knowing that tender youth is soon suggested,
+	I nightly lodge her in an upper tower,
+	The key whereof myself have ever kept;
+	And thence she cannot be convey'd away.
+<SPEECH 9><ACT 3><SCENE 1><49%>
+	Upon mine honour, he shall never know
+	That I had any light from thee of this.
+<SPEECH 10><ACT 3><SCENE 1><49%>
+	Sir Valentine, whither away so fast?
+<SPEECH 11><ACT 3><SCENE 1><49%>
+	Be they of much import?
+<SPEECH 12><ACT 3><SCENE 1><49%>
+	Nay then, no matter: stay with me awhile;
+	I am to break with thee of some affairs
+	That touch me near, wherein thou must be secret.
+	'Tis not unknown to thee that I have sought
+	To match my friend Sir Thurio to my daughter.
+<SPEECH 13><ACT 3><SCENE 1><50%>
+	No, trust me: she is peevish, sullen, froward,
+	Proud, disobedient, stubborn, lacking duty;
+	Neither regarding that she is my child,
+	Nor fearing me as if I were her father:
+	And, may I say to thee this pride of hers,
+	Upon advice, hath drawn my love from her;
+	And, where I thought the remnant of mine age
+	Should have been cherish'd by her child-like duty,
+	I now am full resolv'd to take a wife
+	And turn her out to who will take her in:
+	Then let her beauty be her wedding-dower;
+	For me and my possessions she esteems not.
+<SPEECH 14><ACT 3><SCENE 1><50%>
+	There is a lady of Verona here,
+	Whom I affect; but she is nice and coy
+	And nought esteems my aged eloquence:
+	Now therefore, would I have thee to my tutor,
+	For long agone I have forgot to court;
+	Besides, the fashion of the time is chang'd,
+	How and which way I may bestow myself
+	To be regarded in her sun-bright eye.
+<SPEECH 15><ACT 3><SCENE 1><51%>
+	But she did scorn a present that I sent her.
+<SPEECH 16><ACT 3><SCENE 1><51%>
+	But she I mean is promis'd by her friends
+	Unto a youthful gentleman of worth,
+	And kept severely from resort of men,
+	That no man hath access by day to her.
+<SPEECH 17><ACT 3><SCENE 1><51%>
+	Ay, but the doors be lock'd and keys kept safe,
+	That no man hath recourse to her by night.
+<SPEECH 18><ACT 3><SCENE 1><52%>
+	Her chamber is aloft, far from the ground,
+	And built so shelving that one cannot climb it
+	Without apparent hazard of his life.
+<SPEECH 19><ACT 3><SCENE 1><52%>
+	Now, as thou art a gentleman of blood,
+	Advise me where I may have such a ladder.
+<SPEECH 20><ACT 3><SCENE 1><52%>
+	This very night; for Love is like a child,
+	That longs for every thing that he can come by.
+<SPEECH 21><ACT 3><SCENE 1><52%>
+	But hark thee; I will go to her alone:
+	How shall I best convey the ladder thither?
+<SPEECH 22><ACT 3><SCENE 1><52%>
+	A cloak as long as thine will serve the turn?
+<SPEECH 23><ACT 3><SCENE 1><52%>
+	Then let me see thy cloak:
+	I'll get me one of such another length.
+<SPEECH 24><ACT 3><SCENE 1><53%>
+	How shall I fashion me to wear a cloak?
+	I pray thee, let me feel thy cloak upon me.
+	What letter is this same? What's here?—To Silvia!
+	And here an engine fit for my proceeding!
+	I'll be so bold to break the seal for once.
+	My thoughts do harbour with my Silvia nightly;
+	And slaves they are to me that send them flying
+	O! could their master come and go as lightly,
+	Himself would lodge where senseless they are lying!
+	My herald thoughts in thy pure bosom rest them;
+	While I, their king, that thither them importune,
+	Do curse the grace that with such grace hath bless'd them,
+	Because myself do want my servants' fortune:
+	I curse myself, for they are sent by me,
+	That they should harbour where their lord would be.
+	What's here?
+	Silvia, this night I will enfranchise thee
+	'Tis so; and here's the ladder for the purpose.
+	Why, Phaethon,—for thou art Merops' son,—
+	Wilt thou aspire to guide the heavenly car
+	And with thy daring folly burn the world?
+	Wilt thou reach stars, because they shine on thee?
+	Go, basc intruder! overweening slave!
+	Bestow thy fawning smiles on equal mates,
+	And think my patience, more than thy desert,
+	Is privilege for thy departure hence.
+	Thank me for this more than for all the favours
+	Which all too much I have bestow'd on thee.
+	But if thou linger in my territories
+	Longer than swiftest expedition
+	Will give thee time to leave our royal court,
+	By heaven! my wrath shall far exceed the love
+	I ever borc my daughter or thyself.
+	Be gone! I will not hear thy vain excuse;
+	But, as thou lov'st thy life, make speed from hence.
+<SPEECH 25><ACT 3><SCENE 2><63%>
+	Sir Thurio, fear not but that she will love you,
+	Now Valentine is banish'd from her sight.
+<SPEECH 26><ACT 3><SCENE 2><63%>
+	This weak impress of love is as a figure
+	Trenched in ice, which with an hour's heat
+	Dissolves to water and doth lose his form.
+	A little time will melt her frozen thoughts,
+	And worthless Valentine shall be forgot.
+	How now, Sir Proteus! Is your countryman
+	According to our proclamation gone?
+<SPEECH 27><ACT 3><SCENE 2><63%>
+	My daughter takes his going grievously.
+<SPEECH 28><ACT 3><SCENE 2><64%>
+	So I believe; but Thurio thinks not so.
+	Proteus, the good conceit I hold of thee,—
+	For thou hast shown some sign of good desert,—
+	Makes me the better to confer with thee.
+<SPEECH 29><ACT 3><SCENE 2><64%>
+	Thou know'st how willingly I would effect
+	The match between Sir Thurio and my daughter.
+<SPEECH 30><ACT 3><SCENE 2><64%>
+	And also, I think, thou art not ignorant
+	How she opposes her against my will.
+<SPEECH 31><ACT 3><SCENE 2><64%>
+	Ay, and perversely she persevers so.
+	What might we do to make the girl forget
+	The love of Valentine, and love Sir Thurio?
+<SPEECH 32><ACT 3><SCENE 2><64%>
+	Ay, but she'll think that it is spoke in hate.
+<SPEECH 33><ACT 3><SCENE 2><64%>
+	Then you must undertake to slander him.
+<SPEECH 34><ACT 3><SCENE 2><65%>
+	Where your good word cannot advantage him,
+	Your slander never can endamage him:
+	Therefore the office is indifferent,
+	Being entreated to it by your friend.
+<SPEECH 35><ACT 3><SCENE 2><65%>
+	And, Proteus, we dare trust you in this kind,
+	Because we know, on Valentine's report,
+	You are already Love's firm votary
+	And cannot soon revolt and change your mind.
+	Upon this warrant shall you have access
+	Where you with Silvia may confer at large;
+	For she is lumpish, heavy, melancholy,
+	And, for your friend's sake, will be glad of you;
+	Where you may temper her, by your persuasion
+	To hate young Valentine and love my friend.
+<SPEECH 36><ACT 3><SCENE 2><66%>
+	Ay,
+	Much is the force of heaven-bred poesy.
+<SPEECH 37><ACT 3><SCENE 2><67%>
+	This discipline shows thou hast been in love.
+<SPEECH 38><ACT 3><SCENE 2><67%>
+	About it, gentlemen!
+<SPEECH 39><ACT 3><SCENE 2><67%>
+	Even now about it! I will pardon you.
+<SPEECH 40><ACT 5><SCENE 2><90%>
+	How now, Sir Proteus! how now, Thurio!
+	Which of you saw Sir Eglamour of late?
+<SPEECH 41><ACT 5><SCENE 2><90%>
+	Saw you my daughter?
+<SPEECH 42><ACT 5><SCENE 2><90%>
+	Why then,
+	She's fled unto that peasant Valentine,
+	And Eglamour is in her company.
+	'Tis true; for Friar Laurence met them both,
+	As he in penance wander'd through the forest;
+	Him he knew well, and guess'd that it was she,
+	But, being mask'd, he was not sure of it;
+	Besides, she did intend confession
+	At Patrick's cell this even, and there she was not.
+	These likelihoods confirm her flight from hence.
+	Therefore, I pray you, stand not to discourse,
+	But mount you presently and meet with me
+	Upon the rising of the mountain-foot,
+	That leads towards Mantua, whither they are fled.
+	Dispatch, sweet gentlemen, and follow me.
+<SPEECH 43><ACT 5><SCENE 4><98%>
+	Sir Valentine!
+<SPEECH 44><ACT 5><SCENE 4><98%>
+	The more degenerate and base art thou,
+	To make such means for her as thou hast done,
+	And leave her on such slight conditions.
+	Now, by the honour of my ancestry,
+	I do applaud thy spirit, Valentine,
+	And think thee worthy of an empress' love.
+	Know then, I here forget all former griefs,
+	Cancel all grudge, repeal thee home again,
+	Plead a new state in thy unrivall'd merit,
+	To which I thus subscribe: Sir Valentine,
+	Thou art a gentleman and well deriv'd;
+	Take thou thy Silvia, for thou hast deserv'd her.
+<SPEECH 45><ACT 5><SCENE 4><99%>
+	I grant it, for thine own, whate'er it be.
+<SPEECH 46><ACT 5><SCENE 4><99%>
+	Thou hast prevail'd; I pardon them, and thee:
+	Dispose of them as thou know'st their deserts.
+	Come, let us go: we will include all jars
+	With triumphs, mirth, and rare solemnity.
+<SPEECH 47><ACT 5><SCENE 4><100%>
+	I think the boy hath grace in him: he blushes.
+<SPEECH 48><ACT 5><SCENE 4><100%>
+	What mean you by that saying?

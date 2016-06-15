@@ -1,0 +1,84 @@
+<SPEECH 1><ACT 1><SCENE 1><0%>
+	When shall we three meet again
+	In thunder, lightning, or in rain?
+<SPEECH 2><ACT 1><SCENE 1><1%>
+	Where the place?
+<SPEECH 3><ACT 1><SCENE 1><1%>
+	I come, Graymalkin!
+<SPEECH 4><ACT 1><SCENE 3><4%>
+	Where hast thou been, sister?
+<SPEECH 5><ACT 1><SCENE 3><4%>
+	A sailor's wife had chestnuts in her lap,
+	And munch'd, and munch'd, and munch'd: 'Give me,' quoth I:
+	'Aroint thee, witch!' the rump-fed ronyon cries.
+	Her husband's to Aleppo gone, master o' the Tiger:
+	But in a sieve I'll thither sail,
+	And, like a rat without a tail,
+	I'll do, I'll do, and I'll do.
+<SPEECH 6><ACT 1><SCENE 3><5%>
+	Thou'rt kind.
+<SPEECH 7><ACT 1><SCENE 3><5%>
+	I myself have all the other;
+	And the very ports they blow,
+	All the quarters that they know
+	I' the shipman's card.
+	I'll drain him dry as hay:
+	Sleep shall neither night nor day
+	Hang upon his pent-house lid;
+	He shall live a man forbid.
+	Weary se'nnights nine times nine
+	Shall he dwindle, peak and pine:
+	Though his bark cannot be lost,
+	Yet it shall be tempest-tost.
+	Look what I have.
+<SPEECH 8><ACT 1><SCENE 3><5%>
+	Here I have a pilot's thumb,
+	Wrack'd as homeward he did come.
+<SPEECH 9><ACT 1><SCENE 3><6%>
+	All hail, Macbeth! hail to thee, Thane of Glamis!
+<SPEECH 10><ACT 1><SCENE 3><7%>
+	Hail!
+<SPEECH 11><ACT 1><SCENE 3><7%>
+	Lesser than Macbeth, and greater.
+<SPEECH 12><ACT 1><SCENE 3><7%>
+	Banquo and Macbeth, all hail!
+<SPEECH 13><ACT 3><SCENE 5><57%>
+	Why, how now, Hecate! you look angerly.
+<SPEECH 14><ACT 3><SCENE 5><58%>
+	Come, let's make haste; she'll soon be back again.
+<SPEECH 15><ACT 4><SCENE 1><61%>
+	Thrice the brinded cat hath mew'd.
+<SPEECH 16><ACT 4><SCENE 1><61%>
+	Round about the cauldron go,
+	In the poison'd entrails throw.
+	Toad, that under cold stone
+	Days and nights hast thirty-one
+	Swelter'd venom sleeping got,
+	Boil thou first i' the charmed pot.
+<SPEECH 17><ACT 4><SCENE 1><63%>
+	Speak.
+<SPEECH 18><ACT 4><SCENE 1><63%>
+	Say if thou'dst rather hear it from our mouths,
+	Or from our masters'?
+<SPEECH 19><ACT 4><SCENE 1><63%>
+	Pour in sow's blood, that hath eaten
+	Her nine farrow; grease, that's sweaten
+	From the murderer's gibbet throw
+	Into the flame.
+<SPEECH 20><ACT 4><SCENE 1><63%>
+	He knows thy thought:
+	Hear his speech, but say thou nought.
+<SPEECH 21><ACT 4><SCENE 1><64%>
+	He will not be commanded: here's another,
+	More potent than the first.
+<SPEECH 22><ACT 4><SCENE 1><65%>
+	Show!
+<SPEECH 23><ACT 4><SCENE 1><66%>
+	Ay, sir, all this is so: but why
+	Stands Macbeth thus amazedly?
+	Come, sisters, cheer we up his sprites,
+	And show the best of our delights.
+	I'll charm the air to give a sound,
+	While you perform your antick round,
+	That this great king may kindly say,
+	Our duties did his welcome pay.

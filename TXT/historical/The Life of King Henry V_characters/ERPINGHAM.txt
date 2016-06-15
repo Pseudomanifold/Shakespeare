@@ -1,0 +1,12 @@
+<SPEECH 1><ACT 4><SCENE 1><55%>
+	Not so, my liege: this lodging likes me better,
+	Since I may say, 'Now lie I like a king.'
+<SPEECH 2><ACT 4><SCENE 1><55%>
+	Shall I attend your Grace?
+<SPEECH 3><ACT 4><SCENE 1><55%>
+	The Lord in heaven bless thee, noble Harry!
+<SPEECH 4><ACT 4><SCENE 1><63%>
+	My lord, your nobles, jealous of your absence,
+	Seek through your camp to find you.
+<SPEECH 5><ACT 4><SCENE 1><63%>
+	I shall do't, my lord.

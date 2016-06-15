@@ -1,0 +1,9 @@
+<SPEECH 1><ACT 4><SCENE 2><71%>
+	Stand!
+<SPEECH 2><ACT 5><SCENE 4><96%>
+	Yield, or thou diest.
+<SPEECH 3><ACT 5><SCENE 4><96%>
+	We must not. A noble prisoner!
+<SPEECH 4><ACT 5><SCENE 4><96%>
+	I'll tell the news: here comes the general.
+	Brutus is ta'en, my lord.

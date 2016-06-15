@@ -1,0 +1,323 @@
+<SPEECH 1><ACT 1><SCENE 1><3%>
+	What noise is this? Give me my long sword, ho!
+<SPEECH 2><ACT 1><SCENE 1><3%>
+	My sword, I say! Old Montague is come,
+	And flourishes his blade in spite of me.
+<SPEECH 3><ACT 1><SCENE 2><9%>
+	But Montague is bound as well as I,
+	In penalty alike; and 'tis not hard, I think,
+	For men so old as we to keep the peace.
+<SPEECH 4><ACT 1><SCENE 2><9%>
+	But saying o'er what I have said before:
+	My child is yet a stranger in the world,
+	She hath not seen the change of fourteen years;
+	Let two more summers wither in their pride
+	Ere we may think her ripe to be a bride.
+<SPEECH 5><ACT 1><SCENE 2><9%>
+	And too soon marr'd are those so early made.
+	Earth hath swallow'd all my hopes but she,
+	She is the hopeful lady of my earth:
+	But woo her, gentle Paris, get her heart,
+	My will to her consent is but a part;
+	An she agree, within her scope of choice
+	Lies my consent and fair according voice.
+	This night I hold an old accustom'd feast,
+	Whereto I have invited many a guest
+	Such as I love; and you, among the store,
+	One more, most welcome, makes my number more.
+	At my poor house look to behold this night
+	Earth-treading stars that make dark heaven light:
+	Such comfort as do lusty young men feel
+	When well-apparel'd April on the heel
+	Of limping winter treads, even such delight
+	Among fresh female buds shall you this night
+	Inherit at my house; hear all, all see,
+	And like her most whose merit most shall be:
+	Which on more view, of many mine being one
+	May stand in number, though in reckoning none.
+	Come, go with me. <STAGE DIR>
+	</STAGE DIR> Go, sirrah, trudge about
+	Through fair Verona; find those persons out
+	Whose names are written there, and to them say,
+	My house and welcome on their pleasure stay.
+<SPEECH 6><ACT 1><SCENE 5><20%>
+	Welcome, gentlemen! ladies that have their toes
+	Unplagu'd with corns will walk a bout with you.
+	Ah ha! my mistresses, which of you all
+	Will now deny to dance? she that makes dainty, she,
+	I'll swear, hath corns; am I come near ye now?
+	Welcome, gentlemen! I have seen the day
+	That I have worn a visor, and could tell
+	A whispering tale in a fair lady's ear
+	Such as would please; 'tis gone, 'tis gone, 'tis gone.
+	You are welcome, gentlemen! Come, musicians, play.
+	A hall! a hall! give room, and foot it, girls.
+	More light, ye knaves! and turn the tables up,
+	And quench the fire, the room has grown too hot.
+	Ah! sirrah, this unlook'd-for sport comes well.
+	Nay, sit, nay, sit, good cousin Capulet,
+	For you and I are past our dancing days;
+	How long is 't now since last yourself and I
+	Were in a mask?
+<SPEECH 7><ACT 1><SCENE 5><20%>
+	What, man! 'tis not so much, 'tis not so much:
+	'Tis since the nuptial of Lucentio,
+	Come Pentecost as quickly as it will,
+	Some five and twenty years; and then we mask'd.
+<SPEECH 8><ACT 1><SCENE 5><21%>
+	Will you tell me that?
+	His son was but a ward two years ago.
+<SPEECH 9><ACT 1><SCENE 5><21%>
+	Why, how now, kinsman! wherefore storm you so?
+<SPEECH 10><ACT 1><SCENE 5><21%>
+	Young Romeo, is it?
+<SPEECH 11><ACT 1><SCENE 5><21%>
+	Content thee, gentle coz, let him alone:
+	He bears him like a portly gentleman;
+	And, to say truth, Verona brags of him
+	To be a virtuous and well-govern'd youth.
+	I would not for the wealth of all this town
+	Here in my house do him disparagement;
+	Therefore be patient, take no note of him:
+	It is my will; the which if thou respect,
+	Show a fair presence and put off these frowns,
+	An ill-beseeming semblance for a feast.
+<SPEECH 12><ACT 1><SCENE 5><22%>
+	He shall be endur'd:
+	What! goodman boy; I say, he shall, go to;
+	Am I the master here, or you? go to.
+	You'll not endure him! God shall mend my soul!
+	You'll make a mutiny among my guests!
+	You will set cock-a-hoop! you'll be the man!
+<SPEECH 13><ACT 1><SCENE 5><22%>
+	Go to, go to;
+	You are a saucy boy—is't so indeed?—
+	This trick may chance to scathe you.—I know what:
+	You must contrary me! marry, 'tis time.
+	Well said, my hearts! You are a princox; go:
+	Be quiet, or—More light, more light!—For shame!
+	I'll make you quiet. What! cheerly, my hearts!
+<SPEECH 14><ACT 1><SCENE 5><23%>
+	Nay, gentlemen, prepare not to be gone;
+	We have a trifling foolish banquet towards.
+	Is it e'en so? Why then, I thank you all;
+	I thank you, honest gentlemen; good-night.
+	More torches here! Come on then, let's to bed.
+	Ah! sirrah, by my fay, it waxes late;
+	I'll to my rest.
+<SPEECH 15><ACT 3><SCENE 4><63%>
+	Things have fall'n out, sir, so unluckily,
+	That we have had no time to move our daughter:
+	Look you, she lov'd her kinsman Tybalt dearly,
+	And so did I: well, we were born to die.
+	'Tis very late, she'll not come down to night:
+	I promise you, but for your company,
+	I would have been a-bed an hour ago.
+<SPEECH 16><ACT 3><SCENE 4><63%>
+	Sir Paris, I will make a desperate tender
+	Of my child's love: I think she will be rul'd
+	In all respects by me; nay, more, I doubt it not.
+	Wife go you to her ere you go to bed;
+	Acquaint her here of my son Paris' love;
+	And bid her, mark you me, on Wednesday next—
+	But, soft! what day is this?
+<SPEECH 17><ACT 3><SCENE 4><63%>
+	Monday! ha, ha! Well, Wednesday is too soon;
+	O' Thursday let it be: o' Thursday, tell her,
+	She shall be married to this noble earl.
+	Will you be ready? do you like this haste?
+	We'll keep no great ado; a friend or two;
+	For, hark you, Tybalt being slain so late,
+	It may be thought we held him carelessly,
+	Being our kinsman, if we revel much.
+	Therefore we'll have some half a dozen friends,
+	And there an end. But what say you to Thursday?
+<SPEECH 18><ACT 3><SCENE 4><64%>
+	Well, get you gone: o' Thursday be it then.
+	Go you to Juliet ere you go to bed,
+	Prepare her, wife, against this wedding-day.
+	Farewell, my lord. Light to my chamber, ho!
+	Afore me! it is so very very late,
+	That we may call it early by and by.
+	Good-night.
+<SPEECH 19><ACT 3><SCENE 5><68%>
+	When the sun sets, the air doth drizzle dew;
+	But for the sunset of my brother's son
+	It rains downright.
+	How now! a conduit, girl? what! still in tears?
+	Evermore showering? In one little body
+	Thou counterfeit'st a bark, a sea, a wind;
+	For still thy eyes, which I may call the sea,
+	Do ebb and flow with tears; the bark thy body is,
+	Sailing in this salt flood; the winds, thy sighs;
+	Who, raging with thy tears, and they with them,
+	Without a sudden calm, will overset
+	Thy tempest-tossed body. How now, wife!
+	Have you deliver'd to her our decree?
+<SPEECH 20><ACT 3><SCENE 5><69%>
+	Soft! take me with you, take me with you, wife.
+	How! will she none? doth she not give us thanks?
+	Is she not proud? doth she not count her bless'd,
+	Unworthy as she is, that we have wrought
+	So worthy a gentleman to be her bridegroom?
+<SPEECH 21><ACT 3><SCENE 5><69%>
+	How now! how now, chop-logic! What is this?
+	'Proud,' and 'I thank you,' and 'I thank you not;'
+	And yet 'not proud;' mistress minion, you,
+	Thank me no thankings, nor proud me no prouds,
+	But fettle your fine joints 'gainst Thursday next,
+	To go with Paris to Saint Peter's church,
+	Or I will drag thee on a hurdle thither.
+	Out, you green-sickness carrion! out, you baggage!
+	You tallow face!
+<SPEECH 22><ACT 3><SCENE 5><69%>
+	Hang thee, young baggage! disobedient wretch!
+	I tell thee what, get thee to church o' Thursday,
+	Or never after look me in the face.
+	Speak not, reply not, do not answer me;
+	My fingers itch.—Wife, we scarce thought us bless'd
+	That God had lent us but this only child;
+	But now I see this one is one too much,
+	And that we have a curse in having her.
+	Out on her, hilding!
+<SPEECH 23><ACT 3><SCENE 5><69%>
+	And why, my lady wisdom? hold your tongue,
+	Good prudence; smatter with your gossips, go.
+<SPEECH 24><ACT 3><SCENE 5><70%>
+	O! God ye good den.
+<SPEECH 25><ACT 3><SCENE 5><70%>
+	Peace, you mumbling fool;
+	Utter your gravity o'er a gossip's bowl;
+	For here we need it not.
+<SPEECH 26><ACT 3><SCENE 5><70%>
+	God's bread! it makes me mad.
+	Day, night, hour, tide, time, work, play,
+	Alone, in company, still my care hath been
+	To have her match'd; and having now provided
+	A gentleman of noble parentage,
+	Of fair demesnes, youthful, and nobly train'd,
+	Stuff'd, as they say, with honourable parts,
+	Proportion'd as one's thought would wish a man;
+	And then to have a wretched puling fool,
+	A whining mammet, in her fortune's tender,
+	To answer 'I'll not wed,' 'I cannot love,'
+	'I am too young,' 'I pray you, pardon me;'
+	But, an you will not wed, I'll pardon you:
+	Graze where you will, you shall not house with me:
+	Look to't, think on't, I do not use to jest.
+	Thursday is near; lay hand on heart, advise.
+	An you be mine, I'll give you to my friend;
+	An you be not, hang, beg, starve, die in the streets,
+	For, by my soul, I'll ne'er acknowledge thee,
+	Nor what is mine shall never do thee good.
+	Trust to't, bethink you; I'll not be forsworn.
+<SPEECH 27><ACT 4><SCENE 2><76%>
+	So many guests invite as here are writ.
+	Sirrah, go hire me twenty cunning cooks.
+<SPEECH 28><ACT 4><SCENE 2><76%>
+	How canst thou try them so?
+<SPEECH 29><ACT 4><SCENE 2><76%>
+	Go, be gone.
+	We shall be much unfurnish'd for this time.
+	What! is my daughter gone to Friar Laurence?
+<SPEECH 30><ACT 4><SCENE 2><76%>
+	Well, he may chance to do some good on her:
+	A peevish self-will'd harlotry it is.
+<SPEECH 31><ACT 4><SCENE 2><76%>
+	How now, my headstrong! where have you been gadding?
+<SPEECH 32><ACT 4><SCENE 2><77%>
+	Send for the county; go tell him of this:
+	I'll have this knot knit up to-morrow morning.
+<SPEECH 33><ACT 4><SCENE 2><77%>
+	Why, I'm glad on't; this is well: stand up:
+	This is as't should be. Let me see the county;
+	Ay, marry, go, I say, and fetch him hither.
+	Now, afore God! this reverend holy friar,
+	All our whole city is much bound to him.
+<SPEECH 34><ACT 4><SCENE 2><77%>
+	Go, nurse, go with her. We'll to church to-morrow.
+<SPEECH 35><ACT 4><SCENE 2><77%>
+	Tush! I will stir about,
+	And all things shall be well, I warrant thee, wife:
+	Go thou to Juliet, help to deck up her;
+	I'll not to bed to-night; let me alone;
+	I'll play the housewife for this once. What, ho!
+	They are all forth: well, I will walk myself
+	To County Paris; to prepare him up
+	Against to-morrow. My heart is wondrous light,
+	Since this same wayward girl is so reclaim'd.
+<SPEECH 36><ACT 4><SCENE 4><80%>
+	Come, stir, stir, stir! the second cock hath crow'd,
+	The curfew bell hath rung, 'tis three o'clock:
+	Look to the bak'd meats, good Angelica:
+	Spare not for cost.
+<SPEECH 37><ACT 4><SCENE 4><80%>
+	No, not a whit; what! I have watch'd ere now
+	All night for lesser cause, and ne'er been sick.
+<SPEECH 38><ACT 4><SCENE 4><80%>
+	A jealous-hood, a jealous-hood!
+	Now, fellow,
+	What's there?
+<SPEECH 39><ACT 4><SCENE 4><80%>
+	Make haste, make haste. <STAGE DIR>
+	</STAGE DIR> Sirrah, fetch drier logs:
+	Call Peter, he will show thee where they are.
+<SPEECH 40><ACT 4><SCENE 4><80%>
+	Mass, and well said; a merry whoreson, ha!
+	Thou shalt be logger-head. Good faith! 'tis day:
+	The county will be here with music straight,
+	For so he said he would. <STAGE DIR>
+	</STAGE DIR> I hear him near.
+	Nurse! Wife! what, ho! What, nurse, I say!
+	Go waken Juliet, go and trim her up;
+	I'll go and chat with Paris. Hie, make haste,
+	Make haste; the bridegroom he is come already:
+	Make haste, I say.
+<SPEECH 41><ACT 4><SCENE 5><82%>
+	For shame! bring Juliet forth; her lord is come.
+<SPEECH 42><ACT 4><SCENE 5><82%>
+	Ha! let me see her. Out, alas! she's cold;
+	Her blood is settled, and her joints are stiff;
+	Life and these lips have long been separated:
+	Death lies on her like an untimely frost
+	Upon the sweetest flower of all the field.
+<SPEECH 43><ACT 4><SCENE 5><82%>
+	Death, that hath ta'en her hence to make me wail,
+	Ties up my tongue, and will not let me speak.
+<SPEECH 44><ACT 4><SCENE 5><82%>
+	Ready to go, but never to return.
+	O son! the night before thy wedding-day
+	Hath Death lain with thy wife. There she lies,
+	Flower as she was, deflowered by him.
+	Death is my son-in-law, Death is my heir;
+	My daughter he hath wedded: I will die,
+	And leave him all; life, living, all is Death's!
+<SPEECH 45><ACT 4><SCENE 5><83%>
+	Despis'd, distressed, hated, martyr'd, kill'd!
+	Uncomfortable time, why cam'st thou now
+	To murder, murder our solemnity?
+	O child! O child! my soul, and not my child!
+	Dead art thou! dead! alack, my child is dead;
+	And with my child my joys are buried!
+<SPEECH 46><ACT 4><SCENE 5><84%>
+	All things that we ordained festival,
+	Turn from their office to black funeral;
+	Our instruments to melancholy bells,
+	Our wedding cheer to a sad burial feast,
+	Our solemn hymns to sullen dirges change,
+	Our bridal flowers serve for a buried corse,
+	And all things change them to the contrary.
+<SPEECH 47><ACT 5><SCENE 3><96%>
+	What should it be, that they so shriek abroad?
+<SPEECH 48><ACT 5><SCENE 3><97%>
+	O, heaven!—O wife! look how our daughter bleeds!
+	This dagger hath mista'en!—for, lo, his house
+	Is empty on the back of Montague—
+	And is mis-sheathed in my daughter's bosom.
+<SPEECH 49><ACT 5><SCENE 3><100%>
+	O brother Montague! give me thy hand:
+	This is my daughter's jointure, for no more
+	Can I demand.
+<SPEECH 50><ACT 5><SCENE 3><100%>
+	As rich shall Romeo by his lady lie;
+	Poor sacrifices of our enmity!

@@ -1,0 +1,98 @@
+<SPEECH 1><ACT 2><SCENE 1><19%>
+	Master Fang, have you entered the exion?
+<SPEECH 2><ACT 2><SCENE 1><19%>
+	Where's your yeoman? Is it a lusty yeoman? will a' stand to't?
+<SPEECH 3><ACT 2><SCENE 1><19%>
+	O Lord, ay! good Master Snare.
+<SPEECH 4><ACT 2><SCENE 1><19%>
+	Yea, good Master Snare; I have entered him and all.
+<SPEECH 5><ACT 2><SCENE 1><19%>
+	Alas the day! take heed of him: he stabbed me in mine own house, and that most beastly. In good faith, he cares not what mischief he doth if his weapon be out: he will foin like any devil, he will spare neither man, woman, nor child.
+<SPEECH 6><ACT 2><SCENE 1><19%>
+	No, nor I neither: I'll be at your elbow.
+<SPEECH 7><ACT 2><SCENE 1><20%>
+	I am undone by his going; I warrant you, he's an infinitive thing upon my score. Good Master Fang, hold him sure: good Master Snare, let him not 'scape. A' comes continuantly to Pie-corner—saving your manhoods—to buy a saddle, and he's indited to dinner to the Lubber's Head in Lumbert-Street, to Master Smooth's the silkman: I pray ye, since my exion is entered, and my case so openly known to the world, let him be brought in to his answer. A hundred mark is a long one for a poor lone woman to bear; and I have borne, and borne, and borne; and have been fubbed off, and fubbed off, and fubbed off, from this day to that day, that it is a shame to be thought on. There is no honesty in such dealing; unless a woman should be made an ass, and a beast, to bear every knave's wrong. Yonder he comes; and that arrant malmseynose knave, Bardolph, with him. Do your offices, do your offices, Master Fang and Master Snare; do me, do me, do me your offices.
+<SPEECH 8><ACT 2><SCENE 1><20%>
+	Throw me in the channel! I'll throw thee in the channel. Wilt thou? wilt thou? thou bastardly rogue! Murder, murder! Ah, thou honey-suckle villain! wilt thou kill God's officers and the king's? Ah, thou honey-seed rogue! thou art a honey-seed, a man-queller, and a woman-queller.
+<SPEECH 9><ACT 2><SCENE 1><21%>
+	Good people, bring a rescue or two! Thou wo't, wo't thou? thou wo't, wo't ta? do, do, thou rogue! do, thou hemp-seed!
+<SPEECH 10><ACT 2><SCENE 1><21%>
+	Good my lord, be good to me! I beseech you, stand to me!
+<SPEECH 11><ACT 2><SCENE 1><21%>
+	O, my most worshipful lord, an't please your grace, I am a poor widow of Eastcheap, and he is arrested at my suit.
+<SPEECH 12><ACT 2><SCENE 1><21%>
+	It is more than for some, my lord; it is for all, all I have. He hath eaten me out of house and home; he hath put all my substance into that fat belly of his: but I will have some of it out again, or I will ride thee o' nights like the mare.
+<SPEECH 13><ACT 2><SCENE 1><21%>
+	Marry, if thou wert an honest man, thyself and the money too. Thou didst swear to me upon a parcel-gilt goblet, sitting in my Dolphin-chamber, at the round table, by a seacoal fire, upon Wednesday in Wheeson week, when the prince broke thy head for liking his father to a singing-man of Windsor, thou didst swear to me then, as I was washing thy wound, to marry me and make me my lady thy wife. Canst thou deny it? Did not goodwife Keech, the butcher's wife, come in then and call me gossip Quickly? coming in to borrow a mess of vinegar; telling us she had a good dish of prawns; whereby thou didst desire to eat some, whereby I told thee they were ill for a green wound? And didst thou not, when she was gone down-stairs, desire me to be no more so familiarity with such poor people; saying that ere long they should call me madam? And didst thou not kiss me and bid me fetch thee thirty shillings? I put thee now to thy book-oath: deny it if thou canst.
+<SPEECH 14><ACT 2><SCENE 1><23%>
+	Yea, in troth, my lord.
+<SPEECH 15><ACT 2><SCENE 1><23%>
+	Nay, you said so before.
+<SPEECH 16><ACT 2><SCENE 1><23%>
+	By this heavenly ground I tread on, I must be fain to pawn both my plate and the tapestry of my dining-chambers.
+<SPEECH 17><ACT 2><SCENE 1><24%>
+	Prithee, Sir John, let it be but twenty nobles: i' faith, I am loath to pawn my plate, so God save me, la!
+<SPEECH 18><ACT 2><SCENE 1><24%>
+	Well, you shall have it, though I pawn my gown. I hope you'll come to supper. You'll pay me all together?
+<SPEECH 19><ACT 2><SCENE 1><24%>
+	Will you have Doll Tearsheet meet you at supper?
+<SPEECH 20><ACT 2><SCENE 4><33%>
+	I'faith, sweetheart, methinks now you are in an excellent good temperality: your pulsidge beats as extraordinarily as heart would desire; and your colour, I warrant you, is as red as any rose; in good truth, la! But, i' faith, you have drunk too much canaries, and that's a marvellous searching wine, and it perfumes the blood ere one can say, What's this? How do you now?
+<SPEECH 21><ACT 2><SCENE 4><33%>
+	Why, that's well said; a good heart's worth gold. Lo! here comes Sir John.
+<SPEECH 22><ACT 2><SCENE 4><33%>
+	Sick of a calm: yea, good sooth.
+<SPEECH 23><ACT 2><SCENE 4><34%>
+	By my troth, this is the old fashion; you two never meet but you fall to some discord: you are both, in good troth, as rheumatic as two dry toasts; you cannot one bear with another's confirmities. What the good-year! one must bear, and that must be you: you are the weaker vessel, as they say, the emptier vessel.
+<SPEECH 24><ACT 2><SCENE 4><34%>
+	If he swagger, let him not come here: no, by my faith; I must live amongst my neighbours; I'll no swaggerers: I am in good name and fame with the very best. Shut the door; there comes no swaggerers here: I have not lived all this while to have swaggering now: shut the door, I pray you.
+<SPEECH 25><ACT 2><SCENE 4><35%>
+	Pray you, pacify yourself, Sir John: there comes no swaggerers here.
+<SPEECH 26><ACT 2><SCENE 4><35%>
+	Tilly-fally, Sir John, never tell me: your ancient swaggerer comes not in my doors. I was before Master Tisick, the deputy, t'other day; and, as he said to me,—'twas no longer ago than Wednesday last,—'Neighbour Quickly,' says he;—Master Dumbe, our minister, was by then;—'Neighbour Quickly,' says he, 'receive those that are civil, for,' said he, 'you are in an ill name;' now, a' said so, I can tell whereupon; 'for,' says he, 'you are an honest woman, and well thought on; therefore take heed what guests you receive: receive,' says he, 'no swaggering companions.' There comes none here:—you would bless you to hear what he said. No, I'll no swaggerers.
+<SPEECH 27><ACT 2><SCENE 4><35%>
+	Cheater, call you him? I will bar no honest man my house, nor no cheater; but I do not love swaggering, by my troth; I am the worse, when one says swagger. Feel, masters, how I shake; look you, I warrant you.
+<SPEECH 28><ACT 2><SCENE 4><35%>
+	Do I? yea, in very truth, do I, an 'twere an aspen leaf: I cannot abide swaggerers.
+<SPEECH 29><ACT 2><SCENE 4><36%>
+	Come, I'll drink no proofs nor no bullets: I'll drink no more than will do me good, for no man's pleasure, I.
+<SPEECH 30><ACT 2><SCENE 4><36%>
+	No, good captain Pistol; not here, sweet captain.
+<SPEECH 31><ACT 2><SCENE 4><37%>
+	Good Captain Peesel, be quiet; it is very late, i' faith. I beseek you now, aggravate your choler.
+<SPEECH 32><ACT 2><SCENE 4><37%>
+	By my troth, captain, these are very bitter words.
+<SPEECH 33><ACT 2><SCENE 4><37%>
+	O' my word, captain, there's none such here. What the good-year! do you think I would deny her? for God's sake! be quiet.
+<SPEECH 34><ACT 2><SCENE 4><38%>
+	Here's goodly stuff toward!
+<SPEECH 35><ACT 2><SCENE 4><38%>
+	Here's a goodly tumult! I'll forswear keeping house, afore I'll be in these tirrits and frights. So; murder, I warrant now. Alas, alas! put up your naked weapons; put up your naked weapons.
+<SPEECH 36><ACT 2><SCENE 4><38%>
+	Are you not hurt i' the groin? methought a' made a shrewd thrust at your belly.
+<SPEECH 37><ACT 2><SCENE 4><41%>
+	O! the Lord preserve thy good Grace; by my troth, welcome to London. Now, the Lord bless that sweet face of thine! O Jesu! are you come from Wales?
+<SPEECH 38><ACT 2><SCENE 4><41%>
+	Blessing on your good heart! and so she is, by my troth.
+<SPEECH 39><ACT 2><SCENE 4><42%>
+	No, I warrant you.
+<SPEECH 40><ACT 2><SCENE 4><42%>
+	All victuallers do so: what's a joint of mutton or two in a whole Lent?
+<SPEECH 41><ACT 2><SCENE 4><43%>
+	Who knocks so loud at door? Look to the door there, Francis.
+<SPEECH 42><ACT 2><SCENE 4><44%>
+	Well, fare thee well: I have known thee these twenty-nine years, come peascod-time; but an honester, and truer-hearted man,—well, fare thee well.
+<SPEECH 43><ACT 2><SCENE 4><44%>
+	What's the matter?
+<SPEECH 44><ACT 2><SCENE 4><44%>
+	O! run, Doll, run; run, good Doll.
+<SPEECH 45><ACT 5><SCENE 4><94%>
+	No, thou arrant knave: I would to God I might die that I might have thee hanged; thou hast drawn my shoulder out of joint.
+<SPEECH 46><ACT 5><SCENE 4><95%>
+	O the Lord! that Sir John were come; he would make this a bloody day to somebody. But I pray God the fruit of her womb miscarry!
+<SPEECH 47><ACT 5><SCENE 4><95%>
+	O, that right should thus overcome might! Well, of sufferance comes ease.
+<SPEECH 48><ACT 5><SCENE 4><95%>
+	Ay; come, you starved blood-hound.
+<SPEECH 49><ACT 5><SCENE 4><95%>
+	Thou atomy, thou!

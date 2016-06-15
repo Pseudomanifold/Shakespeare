@@ -1,0 +1,292 @@
+<SPEECH 1><ACT 1><SCENE 2><7%>
+	I pray thee, Rosalind, sweet my coz, be merry.
+<SPEECH 2><ACT 1><SCENE 2><7%>
+	Herein I see thou lovest me not with the full weight that I love thee. If my uncle, thy banished father, had banished thy uncle, the duke my father, so thou hadst been still with me, I could have taught my love to take thy father for mine: so wouldst thou, if the truth of thy love to me were so righteously tempered as mine is to thee.
+<SPEECH 3><ACT 1><SCENE 2><7%>
+	You know my father hath no child but I, nor none is like to have; and, truly, when he dies, thou shalt be his heir: for what he hath taken away from thy father perforce, I will render thee again in affection; by mine honour, I will; and when I break that oath, let me turn monster. Therefore, my sweet Rose, my dear Rose, be merry.
+<SPEECH 4><ACT 1><SCENE 2><8%>
+	Marry, I prithee, do, to make sport withal: but love no man in good earnest; nor no further in sport neither, than with safety of a pure blush thou mayst in honour come off again.
+<SPEECH 5><ACT 1><SCENE 2><8%>
+	Let us sit and mock the good housewife Fortune from her wheel, that her gifts may henceforth be bestowed equally.
+<SPEECH 6><ACT 1><SCENE 2><8%>
+	'Tis true; for those that she makes fair she scarce makes honest, and those that she makes honest she makes very ill-favouredly.
+<SPEECH 7><ACT 1><SCENE 2><8%>
+	No? when Nature hath made a fair creature, may she not by Fortune fall into the fire? Though Nature hath given us wit to flout at Fortune, hath not Fortune sent in this fool to cut off the argument?
+<SPEECH 8><ACT 1><SCENE 2><9%>
+	Peradventure this is not Fortune's work neither, but Nature's; who, perceiving our natural wits too dull to reason of such goddesses, hath sent this natural for our whetstone: for always the dulness of the fool is the whetstone of the wits. How now, wit! whither wander you?
+<SPEECH 9><ACT 1><SCENE 2><9%>
+	Were you made the messenger?
+<SPEECH 10><ACT 1><SCENE 2><9%>
+	How prove you that, in the great heap of your knowledge?
+<SPEECH 11><ACT 1><SCENE 2><9%>
+	By our beards, if we had them, thou art.
+<SPEECH 12><ACT 1><SCENE 2><10%>
+	Prithee, who is't that thou meanest?
+<SPEECH 13><ACT 1><SCENE 2><10%>
+	My father's love is enough to honour him. Enough! speak no more of him; you'll be whipped for taxation one of these days.
+<SPEECH 14><ACT 1><SCENE 2><10%>
+	By my troth, thou sayest true; for since the little wit that fools have was silenced, the little foolery that wise men have makes a great show. Here comes Monsieur Le Beau.
+<SPEECH 15><ACT 1><SCENE 2><10%>
+	Which he will put on us, as pigeons feed their young.
+<SPEECH 16><ACT 1><SCENE 2><10%>
+	All the better; we shall be more marketable.
+	Bon jour, Monsieur Le Beau: what's the news?
+<SPEECH 17><ACT 1><SCENE 2><10%>
+	Sport! Of what colour?
+<SPEECH 18><ACT 1><SCENE 2><10%>
+	Well said: that was laid on with a trowel.
+<SPEECH 19><ACT 1><SCENE 2><11%>
+	Well, the beginning, that is dead and buried.
+<SPEECH 20><ACT 1><SCENE 2><11%>
+	I could match this beginning with an old tale.
+<SPEECH 21><ACT 1><SCENE 2><11%>
+	Or I, I promise thee.
+<SPEECH 22><ACT 1><SCENE 2><12%>
+	Yonder, sure, they are coming: let us now stay and see it.
+<SPEECH 23><ACT 1><SCENE 2><12%>
+	Alas! he is too young: yet he looks successfully.
+<SPEECH 24><ACT 1><SCENE 2><12%>
+	Call him hither, good Monsieur le Beau.
+<SPEECH 25><ACT 1><SCENE 2><13%>
+	Young gentleman, your spirits are too bold for your years. You have seen cruel proof of this man's strength: if you saw yourself with your eyes or knew yourself with your judgment, the fear of your adventure would counsel you to a more equal enterprise. We pray you, for your own sake, to embrace your own safety and give over this attempt.
+<SPEECH 26><ACT 1><SCENE 2><14%>
+	And mine, to eke out hers.
+<SPEECH 27><ACT 1><SCENE 2><14%>
+	Your heart's desires be with you!
+<SPEECH 28><ACT 1><SCENE 2><14%>
+	I would I were invisible, to catch the strong fellow by the leg.
+<SPEECH 29><ACT 1><SCENE 2><14%>
+	If I had a thunderbolt in mine eye, I can tell who should down.
+<SPEECH 30><ACT 1><SCENE 2><15%>
+	Were I my father, coz, would I do this?
+<SPEECH 31><ACT 1><SCENE 2><15%>
+	Gentle cousin,
+	Let us go thank him and encourage him:
+	My father's rough and envious disposition
+	Sticks me at heart. Sir, you have well deserv'd:
+	If you do keep your promises in love
+	But justly, as you have exceeded all promise,
+	Your mistress shall be happy.
+<SPEECH 32><ACT 1><SCENE 2><15%>
+	Ay. Fare you well, fair gentleman.
+<SPEECH 33><ACT 1><SCENE 2><16%>
+	Will you go, coz?
+<SPEECH 34><ACT 1><SCENE 3><17%>
+	Why, cousin! why, Rosalind! Cupid have mercy! Not a word?
+<SPEECH 35><ACT 1><SCENE 3><17%>
+	No, thy words are too precious to be cast away upon curs; throw some of them at me; come, lame me with reasons.
+<SPEECH 36><ACT 1><SCENE 3><17%>
+	But is all this for your father?
+<SPEECH 37><ACT 1><SCENE 3><18%>
+	They are but burrs, cousin, thrown upon thee in holiday foolery: if we walk not in the trodden paths, our very petticoats will catch them.
+<SPEECH 38><ACT 1><SCENE 3><18%>
+	Hem them away.
+<SPEECH 39><ACT 1><SCENE 3><18%>
+	Come, come; wrestle with thy affections.
+<SPEECH 40><ACT 1><SCENE 3><18%>
+	O, a good wish upon you! you will try in time, in despite of a fall. But, turning these jests out of service, let us talk in good earnest: is it possible, on such a sudden, you should fall into so strong a liking with old Sir Rowland's youngest son?
+<SPEECH 41><ACT 1><SCENE 3><18%>
+	Doth it therefore ensue that you should love his son dearly? By this kind of chase, I should hate him, for my father hated his father dearly; yet I hate not Orlando.
+<SPEECH 42><ACT 1><SCENE 3><18%>
+	Why should I not? doth he not deserve well?
+<SPEECH 43><ACT 1><SCENE 3><18%>
+	With his eyes full of anger.
+<SPEECH 44><ACT 1><SCENE 3><19%>
+	Dear sovereign, hear me speak.
+<SPEECH 45><ACT 1><SCENE 3><20%>
+	I did not then entreat to have her stay:
+	It was your pleasure and your own remorse.
+	I was too young that time to value her;
+	But now I know her: if she be a traitor,
+	Why so am I; we still have slept together,
+	Rose at an instant, learn'd, play'd, eat together;
+	And wheresoe'er we went, like Juno's swans,
+	Still we went coupled and inseparable.
+<SPEECH 46><ACT 1><SCENE 3><20%>
+	Pronounce that sentence then, on me, my liege:
+	I cannot live out of her company.
+<SPEECH 47><ACT 1><SCENE 3><20%>
+	O my poor Rosalind! whither wilt thou go?
+	Wilt thou change fathers? I will give thee mine.
+	I charge thee, be not thou more griev'd than I am.
+<SPEECH 48><ACT 1><SCENE 3><20%>
+	Thou hast not, cousin;
+	Prithee, be cheerful; know'st thou not, the duke
+	Hath banish'd me, his daughter?
+<SPEECH 49><ACT 1><SCENE 3><21%>
+	No, hath not? Rosalind lacks then the love
+	Which teacheth thee that thou and I am one:
+	Shall we be sunder'd? shall we part, sweet girl?
+	No: let my father seek another heir.
+	Therefore devise with me how we may fly,
+	Whither to go, and what to bear with us:
+	And do not seek to take your change upon you,
+	To bear your griefs yourself and leave me out;
+	For, by this heaven, now at our sorrows pale,
+	Say what thou canst, I'll go along with thee.
+<SPEECH 50><ACT 1><SCENE 3><21%>
+	To seek my uncle in the forest of Arden.
+<SPEECH 51><ACT 1><SCENE 3><21%>
+	I'll put myself in poor and mean attire,
+	And with a kind of umber smirch my face;
+	The like do you: so shall we pass along
+	And never stir assailants.
+<SPEECH 52><ACT 1><SCENE 3><22%>
+	What shall I call thee when thou art a man?
+<SPEECH 53><ACT 1><SCENE 3><22%>
+	Something that hath a reference to my state:
+	No longer Celia, but Aliena.
+<SPEECH 54><ACT 1><SCENE 3><22%>
+	He'll go along o'er the wide world with me;
+	Leave me alone to woo him. Let's away,
+	And get our jewels and our wealth together,
+	Devise the fittest time and safest way
+	To hide us from pursuit that will be made
+	After my flight. Now go we in content
+	To liberty and not to banishment.
+<SPEECH 55><ACT 2><SCENE 4><29%>
+	I pray you, bear with me: I cannot go no further.
+<SPEECH 56><ACT 2><SCENE 4><30%>
+	I pray you, one of you question yond man,
+	If he for gold will give us any food:
+	I faint almost to death.
+<SPEECH 57><ACT 2><SCENE 4><32%>
+	And we will mend thy wages. I like this place,
+	And willingly could waste my time in it.
+<SPEECH 58><ACT 3><SCENE 2><47%>
+	Why should this a desert be?
+	For it is unpeopled? No;
+	Tongues I'll hang on every tree,
+	That shall civil sayings show.
+	Some, how brief the life of man
+	Runs his erring pilgrimage,
+	That the stretching of a span
+	Buckles in his sum of age;
+	Some, of violated vows
+	'Twixt the souls of friend and friend:
+	But upon the fairest boughs,
+	Or at every sentence' end,
+	Will I Rosalinda write;
+	Teaching all that read to know
+	The quintessence of every sprite
+	Heaven would in little show.
+	Therefore Heaven Nature charg'd
+	That one body should be fill'd
+	With all graces wide enlarg'd:
+	Nature presently distill'd
+	Helen's cheek, but not her heart,
+	Cleopatra's majesty,
+	Atalanta's better part,
+	Sad Lucretia's modesty.
+	Thus Rosalind of many parts
+	By heavenly synod was devis'd
+	Of many faces, eyes, and hearts,
+	To have the touches dearest priz'd.
+	Heaven would that she these gifts should have,
+	And I to live and die her slave.
+<SPEECH 59><ACT 3><SCENE 2><48%>
+	How now! back, friends! Shepherd, go off a little: go with him, sirrah.
+<SPEECH 60><ACT 3><SCENE 2><48%>
+	Didst thou hear these verses?
+<SPEECH 61><ACT 3><SCENE 2><48%>
+	That's no matter: the feet might bear the verses.
+<SPEECH 62><ACT 3><SCENE 2><48%>
+	But didst thou hear without wondering, how thy name should be hanged and carved upon these trees?
+<SPEECH 63><ACT 3><SCENE 2><49%>
+	Trow you who hath done this?
+<SPEECH 64><ACT 3><SCENE 2><49%>
+	And a chain, that you once wore, about his neck. Change you colour?
+<SPEECH 65><ACT 3><SCENE 2><49%>
+	O Lord, Lord! it is a hard matter for friends to meet; but mountains may be removed with earthquakes, and so encounter.
+<SPEECH 66><ACT 3><SCENE 2><49%>
+	Is it possible?
+<SPEECH 67><ACT 3><SCENE 2><49%>
+	O wonderful, wonderful, and most wonderful wonderful! and yet again wonderful! and after that, out of all whooping!
+<SPEECH 68><ACT 3><SCENE 2><49%>
+	So you may put a man in your belly.
+<SPEECH 69><ACT 3><SCENE 2><49%>
+	Nay, he hath but a little beard.
+<SPEECH 70><ACT 3><SCENE 2><50%>
+	It is young Orlando, that tripped up the wrestler's heels and your heart both, in an instant.
+<SPEECH 71><ACT 3><SCENE 2><50%>
+	I' faith, coz, 'tis he.
+<SPEECH 72><ACT 3><SCENE 2><50%>
+	Orlando.
+<SPEECH 73><ACT 3><SCENE 2><50%>
+	You must borrow me Gargantua's mouth first: 'tis a word too great for any mouth of this age's size. To say ay and no to these particulars is more than to answer in a catechism.
+<SPEECH 74><ACT 3><SCENE 2><50%>
+	It is as easy to count atomies as to resolve the propositions of a lover; but take a taste of my finding him, and relish it with good observance. I found him under a tree, like a dropped acorn.
+<SPEECH 75><ACT 3><SCENE 2><50%>
+	Give me audience, good madam.
+<SPEECH 76><ACT 3><SCENE 2><51%>
+	There lay he, stretch'd along like a wounded knight.
+<SPEECH 77><ACT 3><SCENE 2><51%>
+	Cry 'holla!' to thy tongue, I prithee; it curvets unseasonably. He was furnish'd like a hunter.
+<SPEECH 78><ACT 3><SCENE 2><51%>
+	I would sing my song without a burthen: thou bringest me out of tune.
+<SPEECH 79><ACT 3><SCENE 2><51%>
+	You bring me out. Soft! comes he not here?
+<SPEECH 80><ACT 3><SCENE 4><61%>
+	Do, I prithee; but yet have the grace to consider that tears do not become a man.
+<SPEECH 81><ACT 3><SCENE 4><61%>
+	As good cause as one would desire; therefore weep.
+<SPEECH 82><ACT 3><SCENE 4><61%>
+	Something browner than Judas's; marry, his kisses are Judas's own children.
+<SPEECH 83><ACT 3><SCENE 4><61%>
+	An excellent colour: your chesnut was ever the only colour.
+<SPEECH 84><ACT 3><SCENE 4><61%>
+	He hath bought a pair of cast lips of Diana: a nun of winter's sisterhood kisses not more religiously; the very ice of chastity is in them.
+<SPEECH 85><ACT 3><SCENE 4><62%>
+	Nay, certainly, there is no truth in him.
+<SPEECH 86><ACT 3><SCENE 4><62%>
+	Yes: I think he is not a pick-purse nor a horse-stealer; but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut.
+<SPEECH 87><ACT 3><SCENE 4><62%>
+	Yes, when he is in; but I think he is not in.
+<SPEECH 88><ACT 3><SCENE 4><62%>
+	'Was' is not 'is:' besides, the oath of a lover is no stronger than the word of a tapster; they are both the confirmers of false reckonings. He attends here in the forest on the duke your father.
+<SPEECH 89><ACT 3><SCENE 4><62%>
+	O, that's a brave man! he writes brave verses, speaks brave words, swears brave oaths, and breaks them bravely, quite traverse, athwart the heart of his lover; as a puisny tilter, that spurs his horse but on one side, breaks his staff like a noble goose. But all's brave that youth mounts and folly guides. Who comes here?
+<SPEECH 90><ACT 3><SCENE 4><63%>
+	Well, and what of him?
+<SPEECH 91><ACT 4><SCENE 1><70%>
+	It pleases him to call you so; but he hath a Rosalind of a better leer than you.
+<SPEECH 92><ACT 4><SCENE 1><72%>
+	I cannot say the words.
+<SPEECH 93><ACT 4><SCENE 1><72%>
+	Go to.—Will you, Orlando, have to wife this Rosalind?
+<SPEECH 94><ACT 4><SCENE 1><75%>
+	You have simply misused our sex in your love-prate: we must have your doublot and hose plucked over your head, and show the world what the bird hath done to her own nest.
+<SPEECH 95><ACT 4><SCENE 1><75%>
+	Or rather, bottomless; that as fast as you pour affection in, it runs out.
+<SPEECH 96><ACT 4><SCENE 1><76%>
+	And I'll sleep.
+<SPEECH 97><ACT 4><SCENE 3><76%>
+	I warrant you, with pure love and a troubled brain, he hath ta'en his bow and arrows, and is gone forth to sleep. Look, who comes here.
+<SPEECH 98><ACT 4><SCENE 3><79%>
+	Alas, poor shepherd!
+<SPEECH 99><ACT 4><SCENE 3><79%>
+	West of this place, down in the neighbour bottom:
+	The rank of osiers by the murmuring stream
+	Left on your right hand brings you to the place.
+	But at this hour the house doth keep itself;
+	There's none within.
+<SPEECH 100><ACT 4><SCENE 3><79%>
+	It is no boast, being ask'd, to say, we are.
+<SPEECH 101><ACT 4><SCENE 3><80%>
+	I pray you, tell it.
+<SPEECH 102><ACT 4><SCENE 3><81%>
+	O! I have heard him speak of that same brother;
+	And he did render him the most unnatural
+	That liv'd 'mongst men.
+<SPEECH 103><ACT 4><SCENE 3><81%>
+	Are you his brother?
+<SPEECH 104><ACT 4><SCENE 3><81%>
+	Was't you that did so oft contrive to kill him?
+<SPEECH 105><ACT 4><SCENE 3><82%>
+	</STAGE DIR> Why, how now, Ganymede! sweet Ganymede!
+<SPEECH 106><ACT 4><SCENE 3><82%>
+	There is more in it. Cousin! Ganymede!
+<SPEECH 107><ACT 4><SCENE 3><82%>
+	We'll lead you thither. I pray you, will you take him by the arm?
+<SPEECH 108><ACT 4><SCENE 3><83%>
+	Come; you look paler and paler: pray you, draw homewards. Good sir, go with us.

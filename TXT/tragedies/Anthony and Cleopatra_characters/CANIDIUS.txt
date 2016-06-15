@@ -1,0 +1,35 @@
+<SPEECH 1><ACT 3><SCENE 7><51%>
+	Why will my lord do so?
+<SPEECH 2><ACT 3><SCENE 7><52%>
+	Ay, and to wage his battle at Pharsalia,
+	Where Cæsar fought with Pompey; but these offers,
+	Which serve not for his vantage, he shakes off;
+	And so should you.
+<SPEECH 3><ACT 3><SCENE 7><53%>
+	Soldier, thou art; but his whole action grows
+	Not in the power on 't: so our leader's led,
+	And we are women's men.
+<SPEECH 4><ACT 3><SCENE 7><53%>
+	Marcus Octavius, Marcus Justeius,
+	Publicola, and Cælius, are for sea;
+	But we keep whole by land. This speed of Cæsar's
+	Carries beyond belief.
+<SPEECH 5><ACT 3><SCENE 7><53%>
+	Who's his lieutenant, hear you?
+<SPEECH 6><ACT 3><SCENE 7><53%>
+	Well I know the man.
+<SPEECH 7><ACT 3><SCENE 7><53%>
+	With news the time's with labour, and throes forth
+	Each minute some.
+<SPEECH 8><ACT 3><SCENE 8><55%>
+	Our fortune on the sea is out of breath,
+	And sinks most lamentably. Had our general
+	Been what he knew himself, it had gone well:
+	O! he has given example for our flight
+	Most grossly by his own.
+<SPEECH 9><ACT 3><SCENE 8><55%>
+	Towards Peloponnesus are they fled.
+<SPEECH 10><ACT 3><SCENE 8><55%>
+	To Cæsar will I render
+	My legions and my horse; six kings already
+	Show me the way of yielding.

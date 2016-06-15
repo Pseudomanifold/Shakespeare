@@ -1,0 +1,269 @@
+<SPEECH 1><ACT 1><SCENE 2><6%>
+	Dread my lord,
+	Your leave and favour to return to France;
+	From whence though willingly I came to Denmark,
+	To show my duty in your coronation,
+	Yet now, I must confess, that duty done,
+	My thoughts and wishes bend again toward France
+	And bow them to your gracious leave and pardon.
+<SPEECH 2><ACT 1><SCENE 3><11%>
+	My necessaries are embark'd; farewell:
+	And, sister, as the winds give benefit
+	And convoy is assistant, do not sleep,
+	But let me hear from you.
+<SPEECH 3><ACT 1><SCENE 3><12%>
+	For Hamlet, and the trifling of his favour,
+	Hold it a fashion and a toy in blood,
+	A violet in the youth of primy nature,
+	Forward, not permanent, sweet, not lasting,
+	The perfume and suppliance of a minute;
+	No more.
+<SPEECH 4><ACT 1><SCENE 3><12%>
+	Think it no more:
+	For nature, crescent, does not grow alone
+	In thews and bulk; but, as this temple waxes,
+	The inward service of the mind and soul
+	Grows wide withal. Perhaps he loves you now,
+	And now no soil nor cautel doth besmirch
+	The virtue of his will; but you must fear,
+	His greatness weigh'd, his will is not his own,
+	For he himself is subject to his birth;
+	He may not, as unvalu'd persons do,
+	Carve for himself, for on his choice depends
+	The safety and the health of the whole state;
+	And therefore must his choice be circumscrib'd
+	Unto the voice and yielding of that body
+	Whereof he is the head. Then if he says he loves you,
+	It fits your wisdom so far to believe it
+	As he in his particular act and place
+	May give his saying deed; which is no further
+	Than the main voice of Denmark goes withal.
+	Then weigh what loss your honour may sustain,
+	If with too credent ear you list his songs,
+	Or lose your heart, or your chaste treasure open
+	To his unmaster'd importunity.
+	Fear it, Ophelia, fear it, my dear sister;
+	And keep you in the rear of your affection,
+	Out of the shot and danger of desire.
+	The chariest maid is prodigal enough
+	If she unmask her beauty to the moon;
+	Virtue herself 'scapes not calumnious strokes;
+	The canker galls the infants of the spring
+	Too oft before their buttons be disclos'd,
+	And in the morn and liquid dew of youth
+	Contagious blastments are most imminent.
+	Be wary then; best safety lies in fear:
+	Youth to itself rebels, though none else near.
+<SPEECH 5><ACT 1><SCENE 3><13%>
+	O! fear me not.
+	I stay too long; but here my father comes.
+	A double blessing is a double grace;
+	Occasion smiles upon a second leave.
+<SPEECH 6><ACT 1><SCENE 3><13%>
+	Most humbly do I take my leave, my lord.
+<SPEECH 7><ACT 1><SCENE 3><13%>
+	Farewell, Ophelia; and remember well
+	What I have said to you.
+<SPEECH 8><ACT 1><SCENE 3><14%>
+	Farewell.
+<SPEECH 9><ACT 4><SCENE 5><73%>
+	Where is the king? Sirs, stand you all without.
+<SPEECH 10><ACT 4><SCENE 5><73%>
+	I pray you, give me leave.
+<SPEECH 11><ACT 4><SCENE 5><73%>
+	I thank you: keep the door. O thou vile king!
+	Give me my father.
+<SPEECH 12><ACT 4><SCENE 5><73%>
+	That drop of blood that's calm proclaims me bastard,
+	Cries cuckold to my father, brands the harlot
+	Even here, between the chaste unsmirched brow
+	Of my true mother.
+<SPEECH 13><ACT 4><SCENE 5><73%>
+	Where is my father?
+<SPEECH 14><ACT 4><SCENE 5><73%>
+	How came he dead? I'll not be juggled with.
+	To hell, allegiance! vows, to the blackest devil!
+	Conscience and grace, to the profoundest pit!
+	I dare damnation. To this point I stand,
+	That both the worlds I give to negligence,
+	Let come what comes; only I'll be reveng'd
+	Most throughly for my father.
+<SPEECH 15><ACT 4><SCENE 5><74%>
+	My will, not all the world:
+	And, for my means, I'll husband them so well,
+	They shall go far with little.
+<SPEECH 16><ACT 4><SCENE 5><74%>
+	None but his enemies.
+<SPEECH 17><ACT 4><SCENE 5><74%>
+	To his good friends thus wide I'll ope my arms;
+	And like the kind life-rendering pelican,
+	Repast them with my blood.
+<SPEECH 18><ACT 4><SCENE 5><74%>
+	How now! what noise is that?
+	O heat, dry up my brains! tears seven times salt,
+	Burn out the sense and virtue of mine eye;
+	By heaven, thy madness shall be paid by weight,
+	Till our scale turn the beam. O rose of May!
+	Dear maid, kind sister, sweet Ophelia!
+	O heavens! is't possible a young maid's wits
+	Should be as mortal as an old man's life?
+	Nature is fine in love, and where 'tis fine
+	It sends some precious instance of itself
+	After the thing it loves.
+<SPEECH 19><ACT 4><SCENE 5><74%>
+	Hadst thou thy wits, and didst persuade revenge,
+	It could not move thus.
+<SPEECH 20><ACT 4><SCENE 5><74%>
+	This nothing's more than matter.
+<SPEECH 21><ACT 4><SCENE 5><75%>
+	A document in madness, thoughts and remembrance fitted.
+<SPEECH 22><ACT 4><SCENE 5><75%>
+	Thought and affliction, passion, hell itself,
+	She turns to favour and to prettiness.
+<SPEECH 23><ACT 4><SCENE 5><75%>
+	Do you see this, O God?
+<SPEECH 24><ACT 4><SCENE 5><75%>
+	Let this be so:
+	His means of death, his obscure burial,
+	No trophy, sword, nor hatchment o'er his bones,
+	No noble rite nor formal ostentation,
+	Cry to be heard, as 'twere from heaven to earth,
+	That I must call 't in question.
+<SPEECH 25><ACT 4><SCENE 7><77%>
+	It well appears: but tell me
+	Why you proceeded not against these feats,
+	So crimeful and so capital in nature,
+	As by your safety, wisdom, all things else,
+	You mainly were stirr'd up.
+<SPEECH 26><ACT 4><SCENE 7><77%>
+	And so have I a noble father lost;
+	A sister driven into desperate terms,
+	Whose worth, if praises may go back again,
+	Stood challenger on mount of all the age
+	For her perfections. But my revenge will come.
+<SPEECH 27><ACT 4><SCENE 7><78%>
+	Know you the hand?
+<SPEECH 28><ACT 4><SCENE 7><78%>
+	I'm lost in it, my lord. But let him come:
+	It warms the very sickness in my heart,
+	That I shall live and tell him to his teeth,
+	'Thus diddest thou.'
+<SPEECH 29><ACT 4><SCENE 7><78%>
+	Ay, my lord;
+	So you will not o'er-rule me to a peace.
+<SPEECH 30><ACT 4><SCENE 7><78%>
+	My lord, I will be rul'd;
+	The rather, if you could devise it so
+	That I might be the organ.
+<SPEECH 31><ACT 4><SCENE 7><78%>
+	What part is that, my lord?
+<SPEECH 32><ACT 4><SCENE 7><79%>
+	A Norman was 't?
+<SPEECH 33><ACT 4><SCENE 7><79%>
+	Upon my life, Lamord.
+<SPEECH 34><ACT 4><SCENE 7><79%>
+	I know him well; he is the brooch indeed
+	And gem of all the nation.
+<SPEECH 35><ACT 4><SCENE 7><79%>
+	What out of this, my lord?
+<SPEECH 36><ACT 4><SCENE 7><79%>
+	Why ask you this?
+<SPEECH 37><ACT 4><SCENE 7><80%>
+	To cut his throat i' the church.
+<SPEECH 38><ACT 4><SCENE 7><80%>
+	I will do 't;
+	And, for that purpose, I'll anoint my sword.
+	I bought an unction of a mountebank,
+	So mortal that, but dip a knife in it,
+	Where it draws blood no cataplasm so rare,
+	Collected from all simples that have virtue
+	Under the moon, can save the thing from death
+	That is but scratch'd withal; I'll touch my point
+	With this contagion, that, if I gall him slightly,
+	It may be death.
+<SPEECH 39><ACT 4><SCENE 7><81%>
+	Drown'd! O, where?
+<SPEECH 40><ACT 4><SCENE 7><81%>
+	Alas! then, she is drown'd?
+<SPEECH 41><ACT 4><SCENE 7><81%>
+	Too much of water hast thou, poor Ophelis,
+	And therefore I forbid my tears; but yet
+	It is our trick, nature her custom holds,
+	Let shame say what it will; when these are gone
+	The woman will be out. Adieu, my lord!
+	I have a speech of fire, that fain would blaze,
+	But that this folly douts it.
+<SPEECH 42><ACT 5><SCENE 1><87%>
+	What ceremony else?
+<SPEECH 43><ACT 5><SCENE 1><87%>
+	What ceremony else?
+<SPEECH 44><ACT 5><SCENE 1><87%>
+	Must there no more be done?
+<SPEECH 45><ACT 5><SCENE 1><87%>
+	Lay her i' the earth;
+	And from her fair and unpolluted flesh
+	May violets spring! I tell thee, churlish priest,
+	A ministering angel shall my sister be,
+	When thou liest howling.
+<SPEECH 46><ACT 5><SCENE 1><88%>
+	O! treble woe
+	Fall ten times treble on that cursed head
+	Whose wicked deed thy most ingenious sense
+	Depriv'd thee of. Hold off the earth awhile,
+	Till I have caught her once more in mine arms.
+	Now pile your dust upon the quick and dead,
+	Till of this flat a mountain you have made,
+	To o'er-top old Pelion or the skyish head
+	Of blue Olympus.
+<SPEECH 47><ACT 5><SCENE 1><88%>
+	The devil take thy soul!
+<SPEECH 48><ACT 5><SCENE 2><95%>
+	I am satisfied in nature,
+	Whose motive, in this case, should stir me most
+	To my revenge; but in my terms of honour
+	I stand aloof, and will no reconcilement,
+	Till by some elder masters, of known honour,
+	I have a voice and precedent of peace,
+	To keep my name ungor'd. But till that time,
+	I do receive your offer'd love like love,
+	And will not wrong it.
+<SPEECH 49><ACT 5><SCENE 2><96%>
+	Come, one for me.
+<SPEECH 50><ACT 5><SCENE 2><96%>
+	You mock me, sir.
+<SPEECH 51><ACT 5><SCENE 2><96%>
+	This is too heavy; let me see another.
+<SPEECH 52><ACT 5><SCENE 2><96%>
+	Come, my lord.
+<SPEECH 53><ACT 5><SCENE 2><96%>
+	No.
+<SPEECH 54><ACT 5><SCENE 2><96%>
+	Well; again.
+<SPEECH 55><ACT 5><SCENE 2><97%>
+	A touch, a touch, I do confess.
+<SPEECH 56><ACT 5><SCENE 2><97%>
+	My lord, I'll hit him now.
+<SPEECH 57><ACT 5><SCENE 2><97%>
+	</STAGE DIR> And yet 'tis almost 'gainst my conscience.
+<SPEECH 58><ACT 5><SCENE 2><97%>
+	Say you so? come on.
+<SPEECH 59><ACT 5><SCENE 2><97%>
+	Have at you now.
+<SPEECH 60><ACT 5><SCENE 2><97%>
+	Why, as a woodcock to mine own springe, Osric;
+	I am justly kill'd with mine own treachery.
+<SPEECH 61><ACT 5><SCENE 2><98%>
+	It is here, Hamlet. Hamlet, thou art slain;
+	No medicine in the world can do thee good;
+	In thee there is not half an hour of life;
+	The treacherous instrument is in thy hand,
+	Unbated and envenom'd. The foul practice
+	Hath turn'd itself on me; lo! here I lie,
+	Never to rise again. Thy mother's poison'd.
+	I can no more. The king, the king's to blame.
+<SPEECH 62><ACT 5><SCENE 2><98%>
+	He is justly serv'd;
+	It is a poison temper'd by himself.
+	Exchange forgiveness with me, noble Hamlet:
+	Mine and my father's death come not upon thee,
+	Nor thine on me!

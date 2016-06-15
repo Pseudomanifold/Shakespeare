@@ -1,0 +1,15 @@
+<SPEECH 1><ACT 3><SCENE 4><44%>
+	Lucius!
+	What! do we meet together!
+<SPEECH 2><ACT 3><SCENE 4><45%>
+	Most true, he does.
+<SPEECH 3><ACT 3><SCENE 4><45%>
+	It is against my heart.
+<SPEECH 4><ACT 3><SCENE 4><45%>
+	I'm weary of this charge, the gods can witness:
+	I know my lord hath spent of Timon's wealth,
+	And now ingratitude makes it worse than stealth.
+<SPEECH 5><ACT 3><SCENE 4><48%>
+	And mine, my lord.
+<SPEECH 6><ACT 3><SCENE 4><48%>
+	Faith, I perceive our masters may throw their caps at their money: these debts may well be called desperate ones, for a madman owes 'em.

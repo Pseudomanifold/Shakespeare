@@ -1,0 +1,25 @@
+<SPEECH 1><ACT 3><SCENE 1><43%>
+	Under this thick-grown hrake we'll shroud ourselves;
+	For through this laund anon the deer will come;
+	And in this covert will we make our stand,
+	Culling the principal of all the deer.
+<SPEECH 2><ACT 3><SCENE 1><44%>
+	That cannot be; the noise of thy cross-bow
+	Will scare the herd, and so my shoot is lost.
+	Here stand we both, and aim we at the best:
+	And, for the time shall not seem tedious,
+	I'll tell thee what befell me on a day
+	In this self place where now we mean to stand.
+<SPEECH 3><ACT 3><SCENE 1><44%>
+	Ay, here's a deer whose skin's a keeper's fee:
+	This is the quondam king; let's seize upon him.
+<SPEECH 4><ACT 3><SCENE 1><44%>
+	Forbear awhile; we'll hear a little more.
+<SPEECH 5><ACT 3><SCENE 1><46%>
+	No;
+	For we were subjects but while you were king.
+<SPEECH 6><ACT 3><SCENE 1><46%>
+	We are true subjects to the king, King Edward.
+<SPEECH 7><ACT 3><SCENE 1><46%>
+	We charge you, in God's name, and in the king's,
+	To go with us unto the officers.

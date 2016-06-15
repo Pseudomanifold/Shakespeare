@@ -1,0 +1,11 @@
+<SPEECH 1><ACT 4><SCENE 1><64%>
+	What is my ransom, master? let me know.
+<SPEECH 2><ACT 4><SCENE 1><64%>
+	I'll give it, sir; and therefore spare my life.
+<SPEECH 3><ACT 4><SCENE 1><67%>
+	My gracious lord, entreat him, speak him fair.
+<SPEECH 4><ACT 4><SCENE 1><68%>
+	O barbarous and bloody spectacle!
+	His body will I bear unto the king:
+	If he revenge it not, yet will his friends;
+	So will the queen, that living held him dear.

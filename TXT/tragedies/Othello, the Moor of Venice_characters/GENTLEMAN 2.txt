@@ -1,0 +1,19 @@
+<SPEECH 1><ACT 2><SCENE 1><21%>
+	A segregation of the Turkish fleet;
+	For do but stand upon the foaming shore,
+	The chidden billow seems to pelt the clouds;
+	The wind-shak'd surge, with high and monstrous mane,
+	Seems to cast water on the burning bear
+	And quench the guards of the ever-fixed pole:
+	I never did like molestation view
+	On the enchafed flood.
+<SPEECH 2><ACT 2><SCENE 1><23%>
+	They do discharge their shot of courtesy;
+	Our friends at least.
+<SPEECH 3><ACT 2><SCENE 1><23%>
+	I shall.
+<SPEECH 4><ACT 2><SCENE 1><23%>
+	'Tis one Iago, ancient to the general.
+<SPEECH 5><ACT 2><SCENE 1><24%>
+	They give their greeting to the citadel:
+	This likewise is a friend.

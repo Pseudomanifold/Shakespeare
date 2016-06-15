@@ -1,0 +1,14 @@
+<SPEECH 1><SCENE 2><6%>
+	What raiment will your honour wear to-day?
+<SPEECH 2><SCENE 2><8%>
+	Or Daphne roaming through a thorny wood,
+	Scratching her legs that one shall swear she bleeds;
+	And at that sight shall sad Apollo weep,
+	So workmanly the blood and tears are drawn.
+<SPEECH 3><SCENE 2><9%>
+	Why, sir, you know no house, nor no such maid,
+	Nor no such men as you have reckon'd up,
+	As Stephen Sly, and old John Naps of Greece,
+	And Peter Turf, and Henry Pimpernell,
+	And twenty more such names and men as these,
+	Which never were nor no man ever saw.

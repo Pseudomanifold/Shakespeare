@@ -1,0 +1,37 @@
+<SPEECH 1><ACT 4><SCENE 3><77%>
+	This is the hour that Madam Silvia
+	Entreated me to call, and know her mind:
+	There's some great matter she'd employ me in.
+	Madam, Madam!
+<SPEECH 2><ACT 4><SCENE 3><77%>
+	Your servant, and your friend;
+	One that attends your ladyship's command.
+<SPEECH 3><ACT 4><SCENE 3><77%>
+	As many, worthy lady, to yourself.
+	According to your ladyship's impose,
+	I am thus early come to know what service
+	It is your pleasure to command me in.
+<SPEECH 4><ACT 4><SCENE 3><78%>
+	Madam, I pity much your grievances;
+	Which since I know they virtuously are plac'd,
+	I give consent to go along with you,
+	Recking as little what betideth me
+	As much I wish all good befortune you.
+	When will you go?
+<SPEECH 5><ACT 4><SCENE 3><78%>
+	Where shall I meet you?
+<SPEECH 6><ACT 4><SCENE 3><78%>
+	I will not fail your ladyship.
+	Good morrow, gentle lady.
+<SPEECH 7><ACT 5><SCENE 1><88%>
+	The sun begins to gild the western sky,
+	And now it is about the very hour
+	That Silvia at Friar Patrick's cell should meet me.
+	She will not fail; for lovers break not hours,
+	Unless it be to come before their time,
+	So much they spur their expedition.
+	See, where she comes.
+	Lady, a happy evening!
+<SPEECH 8><ACT 5><SCENE 1><88%>
+	Fear not: the forest is not three leagues off;
+	If we recover that, we're sure enough.

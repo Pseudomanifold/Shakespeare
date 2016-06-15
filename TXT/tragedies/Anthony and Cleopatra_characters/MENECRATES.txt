@@ -1,0 +1,8 @@
+<SPEECH 1><ACT 2><SCENE 1><17%>
+	Know, worthy Pompey,
+	That what they do delay, they not deny.
+<SPEECH 2><ACT 2><SCENE 1><17%>
+	We, ignorant of ourselves,
+	Beg often our own harms, which the wise powers
+	Deny us for our good; so find we profit
+	By losing of our prayers.

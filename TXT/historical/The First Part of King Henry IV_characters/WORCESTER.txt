@@ -1,0 +1,225 @@
+<SPEECH 1><ACT 1><SCENE 3><11%>
+	Our house, my sovereign liege, little deserves
+	The scourge of greatness to be us'd on it;
+	And that same greatness too which our own hands
+	Have holp to make so portly.
+<SPEECH 2><ACT 1><SCENE 3><15%>
+	Who struck this heat up after I was gone?
+<SPEECH 3><ACT 1><SCENE 3><15%>
+	I cannot blame him: was he not proclaim'd
+	By Richard that dead is the next of blood?
+<SPEECH 4><ACT 1><SCENE 3><15%>
+	And for whose death we in the world's wide mouth
+	Live scandaliz'd and foully spoken of.
+<SPEECH 5><ACT 1><SCENE 3><16%>
+	Peace, cousin! say no more:
+	And now I will unclasp a secret book,
+	And to your quick-conceiving discontents
+	I'll read you matter deep and dangerous,
+	As full of peril and adventurous spirit
+	As to o'er-walk a current roaring loud,
+	On the unsteadfast footing of a spear.
+<SPEECH 6><ACT 1><SCENE 3><17%>
+	He apprehends a world of figures here,
+	But not the form of what he should attend.
+	Good cousin, give me audience for a while.
+<SPEECH 7><ACT 1><SCENE 3><17%>
+	Those same noble Scots
+	That are your prisoners,—
+<SPEECH 8><ACT 1><SCENE 3><17%>
+	You start away,
+	And lend no ear unto my purposes.
+	Those prisoners you shall keep.
+<SPEECH 9><ACT 1><SCENE 3><17%>
+	Hear you, cousin; a word.
+<SPEECH 10><ACT 1><SCENE 3><18%>
+	Farewell, kinsman: I will talk to you
+	When you are better temper'd to attend.
+<SPEECH 11><ACT 1><SCENE 3><18%>
+	Nay, if you have not, to't again;
+	We'll stay your leisure.
+<SPEECH 12><ACT 1><SCENE 3><18%>
+	Then once more to your Scottish prisoners.
+	Deliver them up without their ransom straight,
+	And make the Douglas' son your only mean
+	For powers in Scotland; which, for divers reasons
+	Which I shall send you written, be assur'd,
+	Will easily be granted. <STAGE DIR>
+	</STAGE DIR> You, my lord,
+	Your son in Scotland being thus employ'd,
+	Shall secretly into the bosom creep
+	Of that same noble prelate well belov'd,
+	The Archbishop.
+<SPEECH 13><ACT 1><SCENE 3><19%>
+	True; who bears hard
+	His brother's death at Bristol, the Lord Scroop.
+	I speak not this in estimation,
+	As what I think might be, but what I know
+	Is ruminated, plotted and set down;
+	And only stays but to behold the face
+	Of that occasion that shall bring it on.
+<SPEECH 14><ACT 1><SCENE 3><19%>
+	And so they shall.
+<SPEECH 15><ACT 1><SCENE 3><19%>
+	And 'tis no little reason bids us speed,
+	To save our heads by raising of a head;
+	For, bear ourselves as even as we can,
+	The king will always think him in our debt,
+	And think we think ourselves unsatisfied,
+	Till he hath found a time to pay us home.
+	And see already how he doth begin
+	To make us strangers to his looks of love.
+<SPEECH 16><ACT 1><SCENE 3><19%>
+	Cousin, farewell: no further go in this,
+	Than I by letters shall direct your course.
+	When time is ripe,—which will be suddenly,—
+	I'll steal to Glendower and Lord Mortimer;
+	Where you and Douglas and our powers at once,—
+	As I will fashion it,—shall happily meet,
+	To bear our fortunes in our own strong arms,
+	Which now we hold at much uncertainty.
+<SPEECH 17><ACT 3><SCENE 1><53%>
+	Yea, but a little charge will trench him here,
+	And on this north side win this cape of land;
+	And then he runs straight and even.
+<SPEECH 18><ACT 3><SCENE 1><55%>
+	In faith, my lord, you are too wilfulblame;
+	And since your coming hither have done enough
+	To put him quite beside his patience.
+	You must needs learn, lord, to amend this fault:
+	Though sometimes it show greatness, courage, blood,—
+	And that's the dearest grace it renders you,—
+	Yet oftentimes it doth present harsh rage,
+	Defect of manners, want of government,
+	Pride, haughtiness, opinion, and disdain:
+	The least of which haunting a nobleman
+	Loseth men's hearts and leaves behind a stain
+	Upon the beauty of all parts besides,
+	Beguiling them of commendation.
+<SPEECH 19><ACT 4><SCENE 1><71%>
+	I prithee, tell me, doth he keep his bed?
+<SPEECH 20><ACT 4><SCENE 1><71%>
+	I would the state of time had first been whole
+	Ere he by sickness had been visited:
+	His health was never better worth than now.
+<SPEECH 21><ACT 4><SCENE 1><71%>
+	Your father's sickness is a maim to us.
+<SPEECH 22><ACT 4><SCENE 1><72%>
+	But yet, I would your father had been here.
+	The quality and hair of our attempt
+	Brooks no division. It will be thought
+	By some, that know not why he is away,
+	That wisdom, loyalty, and mere dislike
+	Of our proceedings, kept the earl from hence.
+	And think how such an apprehension
+	May turn the tide of fearful faction
+	And breed a kind of question in our cause;
+	For well you know we of the offering side
+	Must keep aloof from strict arbitrement,
+	And stop all sight-holes, every loop from whence
+	The eye of reason may pry in upon us:
+	This absence of your father's draws a curtain,
+	That shows the ignorant a kind of fear
+	Before not dreamt of.
+<SPEECH 23><ACT 4><SCENE 1><74%>
+	Ay, by my faith, that bears a frosty sound.
+<SPEECH 24><ACT 4><SCENE 3><77%>
+	It may not be.
+<SPEECH 25><ACT 4><SCENE 3><77%>
+	Good cousin, be advis'd: stir not to-night.
+<SPEECH 26><ACT 4><SCENE 3><78%>
+	The number of the king exceedeth ours:
+	For God's sake, cousin, stay till all come in.
+<SPEECH 27><ACT 5><SCENE 1><83%>
+	Hear me, my liege.
+	For mine own part, I could be well content
+	To entertain the lag-end of my life
+	With quiet hours; for I do protest
+	I have not sought the day of this dislike.
+<SPEECH 28><ACT 5><SCENE 1><83%>
+	It pleas'd your majesty to turn your looks
+	Of favour from myself and all our house;
+	And yet I must remember you, my lord,
+	We were the first and dearest of your friends.
+	For you my staff of office did I break
+	In Richard's time; and posted day and night
+	To meet you on the way, and kiss your hand,
+	When yet you were in place and in account
+	Nothing so strong and fortunate as I.
+	It was myself, my brother, and his son,
+	That brought you home and boldly did outdare
+	The dangers of the time. You swore to us,
+	And you did swear that oath at Doncaster,
+	That you did nothing purpose 'gainst the state,
+	Nor claim no further than your new-fall'n right,
+	The seat of Gaunt, dukedom of Lancaster.
+	To this we swore our aid: but, in short space
+	It rain'd down fortune showering on your head,
+	And such a flood of greatness fell on you,
+	What with our help, what with the absent king,
+	What with the injuries of a wanton time,
+	The seeming sufferances that you had borne,
+	And the contrarious winds that held the king
+	So long in his unlucky Irish wars,
+	That all in England did repute him dead:
+	And from this swarm of fair advantages
+	You took occasion to be quickly woo'd
+	To gripe the general sway into your hand;
+	Forgot your oath to us at Doncaster;
+	And being fed by us you us'd us so
+	As that ungentle gull, the cuckoo's bird,
+	Useth the sparrow: did oppress our nest,
+	Grew by our feeding to so great a bulk
+	That even our love durst not come near your sight
+	For fear of swallowing; but with nimble wing
+	We were enforc'd, for safety's sake, to fly
+	Out of your sight and raise this present head;
+	Whereby we stand opposed by such means
+	As you yourself have forg'd against yourself
+	By unkind usage, dangerous countenance,
+	And violation of all faith and troth
+	Sworn to us in your younger enterprise.
+<SPEECH 29><ACT 5><SCENE 2><87%>
+	O, no! my nephew must not know, Sir Richard,
+	The liberal kind offer of the king.
+<SPEECH 30><ACT 5><SCENE 2><87%>
+	Then are we all undone.
+	It is not possible, it cannot be,
+	The king should keep his word in loving us;
+	He will suspect us still, and find a time
+	To punish this offence in other faults:
+	Suspicion all our lives shall be stuck full of eyes;
+	For treason is but trusted like the fox,
+	Who, ne'er so tame, so cherish'd, and lock'd up,
+	Will have a wild trick of his ancestors.
+	Look how we can, or sad or merrily,
+	Interpretation will misquote our looks,
+	And we shall feed like oxen at a stall,
+	The better cherish'd, still the nearer death.
+	My nephew's trespass may be well forgot,
+	It hath the excuse of youth and heat of blood;
+	And an adopted name of privilege,
+	A hare-brain'd Hotspur, govern'd by a spleen.
+	All his offences live upon my head
+	And on his father's: we did train him on;
+	And, his corruption being ta'en from us,
+	We, as the spring of all, shall pay for all.
+	Therefore, good cousin, let not Harry know
+	In any case the offer of the king.
+<SPEECH 31><ACT 5><SCENE 2><88%>
+	The king will bid you battle presently.
+<SPEECH 32><ACT 5><SCENE 2><88%>
+	There is no seeming mercy in the king.
+<SPEECH 33><ACT 5><SCENE 2><88%>
+	I told him gently of our grievances,
+	Of his oath-breaking; which he mended thus,
+	By now forswearing that he is forsworn:
+	He calls us rebels, traitors; and will scourge
+	With haughty arms this hateful name in us.
+<SPEECH 34><ACT 5><SCENE 2><88%>
+	The Prince of Wales stepp'd forth before the king,
+	And, nephew, challeng'd you to single fight.
+<SPEECH 35><ACT 5><SCENE 5><99%>
+	What I have done my safety urg'd me to;
+	And I embrace this fortune patiently,
+	Since not to be avoided it falls on me.

@@ -1,0 +1,26 @@
+<SPEECH 1><ACT 4><SCENE 1><64%>
+	I lost mine eye in laying the prize aboard,
+	</STAGE DIR> And therefore to revenge it shalt thou die;
+	And so should these if I might have my will.
+<SPEECH 2><ACT 4><SCENE 1><64%>
+	And so am I; my name is Walter Whitmore.
+	How now! why start'st thou? what! doth death affright?
+<SPEECH 3><ACT 4><SCENE 1><65%>
+	Gaultier, or Walter, which it is I care not;
+	Never yet did base dishonour blur our name
+	But with our sword we wip'd away the blot:
+	Therefore, when merchant-like I sell revenge,
+	Broke be my sword, my arms torn and defac'd,
+	And I proclaim'd a coward through the world!
+<SPEECH 4><ACT 4><SCENE 1><65%>
+	The Duke of Suffolk muffled up in rags!
+<SPEECH 5><ACT 4><SCENE 1><66%>
+	Speak, captain, shall I stab the forlorn swain?
+<SPEECH 6><ACT 4><SCENE 1><67%>
+	Come, Suffolk, I must waft thee to thy death.
+<SPEECH 7><ACT 4><SCENE 1><67%>
+	Thou shalt have cause to fear before I leave thee.
+	What! are ye daunted now? now will ye stoop?
+<SPEECH 8><ACT 4><SCENE 1><68%>
+	There let his head and lifeless body lie,
+	Until the queen his mistress bury it.

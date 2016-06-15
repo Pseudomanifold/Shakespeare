@@ -1,0 +1,59 @@
+<SPEECH 1><ACT 2><SCENE 1><23%>
+	Happy is your Grace,
+	That can translate the stubbornness of fortune
+	Into so quiet and so sweet a style.
+<SPEECH 2><ACT 2><SCENE 5><32%>
+	Under the greenwood tree
+	Who loves to lie with me,
+	And turn his merry note
+	Unto the sweet bird's throat,
+	Come hither, come hither, come hither:
+	Here shall he see
+	No enemy
+	But winter and rough weather.
+<SPEECH 3><ACT 2><SCENE 5><32%>
+	It will make you melancholy, Monsieur Jaques.
+<SPEECH 4><ACT 2><SCENE 5><32%>
+	My voice is ragged; I know I cannot please you.
+<SPEECH 5><ACT 2><SCENE 5><32%>
+	What you will, Monsieur Jaques.
+<SPEECH 6><ACT 2><SCENE 5><33%>
+	More at your request than to please myself.
+<SPEECH 7><ACT 2><SCENE 5><33%>
+	Well, I'll end the song. Sirs, cover the while; the duke will drink under this tree. He hath been all this day to look you.
+<SPEECH 8><ACT 2><SCENE 5><33%>
+	Who doth ambition shun,
+	And loves to live i' the sun,
+	Secking the food he eats,
+	And pleas'd with what he gets.
+	Come hither, come hither, come hither:
+	Here shall he see
+	No enemy
+	But winter and rough weather.
+<SPEECH 9><ACT 2><SCENE 5><33%>
+	And I'll sing it.
+<SPEECH 10><ACT 2><SCENE 5><34%>
+	What's that 'ducdame?'
+<SPEECH 11><ACT 2><SCENE 5><34%>
+	And I'll go seek the duke: his banquet is prepared.
+<SPEECH 12><ACT 2><SCENE 7><41%>
+	Blow, blow, thou winter wind,
+	Thou art not so unkind
+	    As man's ingratitude;
+	Thy tooth is not so keen,
+	Because thou art not seen,
+	    Although thy breath be rude.
+	Heigh-ho! sing, heigh-ho! unto the green holly:
+	Most friendship is feigning, most loving mere folly.
+	Then heigh-ho! the holly!
+	    This life is most jolly.
+	Freeze, freeze, thou bitter sky,
+	That dost not bite so nigh
+	    As benefits forgot:
+	Though thou the waters warp,
+	Thy sting is not so sharp
+	    As friend remember'd not.
+	Heigh-ho! sing, heigh-ho! unto the green holly:
+	Most friendship is feigning, most loving mere folly.
+	    Then heigh-ho! the holly!
+	      This life is most jolly.

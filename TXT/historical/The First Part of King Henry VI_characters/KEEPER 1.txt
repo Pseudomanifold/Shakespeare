@@ -1,0 +1,6 @@
+<SPEECH 1><ACT 2><SCENE 5><37%>
+	Richard Plantagenet, my lord, will come:
+	We sent unto the Temple, unto his chamber.
+	And answer was return'd that he will come.
+<SPEECH 2><ACT 2><SCENE 5><38%>
+	My lord, your loving nephew now is come.
