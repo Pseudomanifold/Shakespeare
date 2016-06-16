@@ -38,7 +38,7 @@ print("graph G\n"
       "{\n")
 
 for index,character in enumerate(sorted(characters)):
-    print("%d [label='%s'];" % (index, character))
+    print("%d [label=\"%s\"];" % (index, character))
 
 #
 # Extract co-occurences
