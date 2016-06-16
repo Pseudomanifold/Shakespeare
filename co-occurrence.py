@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import re
 import sys
@@ -7,9 +7,10 @@ inScene = False
 
 reEnteringScene = r'<SCENE (\d+)>'
 reLeavingScene  = r'</SCENE (\d+)>'
-reSpeakerStart  = r'<([A-Z]+)>' # FIXME: This does not account for all speakers
-                                #        because it does not take any other chars
-                                #        into account.
+reSpeakerStart  = r'<([A-Z\d\s]+)>'
+stageDirections = 'STAGE DIR'
+allCharacters   = 'ALL'
+
 
 characters = set()
 edges      = set()
@@ -63,7 +64,10 @@ with open(sys.argv[1]) as f:
 
         elif inScene and re.match(reSpeakerStart, line):
             character = re.match(reSpeakerStart, line).group(1)
-            charactersInScene.add( character )
+            # FIXME: Still require special handling for "all" characters within
+            # a scene.
+            if character != stageDirections and character != allCharacters:
+                charactersInScene.add( character )
 
 #
 # Close graph
