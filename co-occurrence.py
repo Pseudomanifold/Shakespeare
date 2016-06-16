@@ -27,7 +27,8 @@ with open(sys.argv[1]) as f:
             inScene = False
         elif inScene and re.match(reSpeakerStart, line):
             character = re.match(reSpeakerStart, line).group(1)
-            characters.add( character )
+            if character != stageDirections and character != allCharacters:
+                characters.add( character )
 
 #
 # Create basic graph output
