@@ -6,9 +6,11 @@ import sys
 
 inScene         = False
 
-reEnteringScene = r'<SCENE (\d+)>'
-reLeavingScene  = r'</SCENE (\d+)>'
-reSpeakerStart  = r'<([A-Z\d\s]+)>'
+reEnteringScene   = r'<SCENE (\d+)>'
+reLeavingScene    = r'</SCENE (\d+)>'
+reSpeakerStart    = r'<([A-Z\d\s]+)>'
+rePlayDescription = r'<\s+Shakespeare\s+--(.+)\s+>'
+
 stageDirections = 'STAGE DIR'
 allCharacters   = 'ALL'
 bothCharacters  = 'BOTH' # FIXME: This should become a regular expression
@@ -18,6 +20,7 @@ def isSpecialCharacter(name):
            or name == allCharacters\
            or name == bothCharacters
 
+title      = ""
 characters = set()
 edges      = set()
 
@@ -27,7 +30,9 @@ edges      = set()
 
 with open(sys.argv[1]) as f:
     for line in f:
-        if re.match(reEnteringScene, line):
+        if re.match(rePlayDescription, line):
+            title = re.match(rePlayDescription, line).group(1).title()
+        elif re.match(reEnteringScene, line):
             inScene           = True
         elif re.match(reLeavingScene, line):
             inScene = False
@@ -42,7 +47,7 @@ for index, character in enumerate(sorted(characters)):
     characterIndices[character] = index
 
 n      = len(characters)
-A      = numpy.zeros( (n,n) )
+A      = numpy.zeros( (n,n), dtype=numpy.int8 )
 
 #
 # Extract co-occurences
@@ -75,13 +80,22 @@ with open(sys.argv[1]) as f:
             if not isSpecialCharacter(character):
                 charactersInScene.add( character )
 
+#
+# Output
+#
+
+print("%%%s" % title)
+print("*Vertices %d" % len(characters) )
+for index, name in enumerate( sorted(characters) ):
+    print( "%d \"%s\"" % ( index+1,name.title() ) )
+
+# Make this an undirected graph
+print("*Edges")
+
 nRows, nColumns = A.shape
-header          = ";"+";".join( ["\""+character+"\"" for character in sorted(characters ) ] )
 characterNames  = sorted(list(characters))
 
-print(header)
 for row in range(nRows):
-    columnStr = "\""+characterNames[row]+"\""
-    for column in range(nColumns):
-        columnStr = columnStr + ";" + str(A[row,column])
-    print(columnStr)
+    for column in range(row+1,nColumns):
+        if A[row,column] > 0:
+            print( "%d %d %d" % (row+1, column+1, A[row,column]) )
