@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import numpy
+import os
 import re
 import sys
 
@@ -9,7 +10,7 @@ inScene         = False
 reEnteringScene   = r'<SCENE (\d+)>'
 reLeavingScene    = r'</SCENE (\d+)>'
 reSpeakerStart    = r'<([A-Z\d\s]+)>'
-rePlayDescription = r'<\s+Shakespeare\s+--(.+)\s+>'
+rePlayDescription = r'<\s+Shakespeare\s+--\s+(.+)\s+>'
 
 stageDirections = 'STAGE DIR'
 allCharacters   = 'ALL'
@@ -84,18 +85,21 @@ with open(sys.argv[1]) as f:
 # Output
 #
 
-print("%%%s" % title)
-print("*Vertices %d" % len(characters) )
-for index, name in enumerate( sorted(characters) ):
-    print( "%d \"%s\"" % ( index+1,name.title() ) )
+outputName = title.replace(" ", "_") + ".net"
+
+with open(outputName, "w") as f:
+    print("%%%s" % title, file=f)
+    print("*Vertices %d" % len(characters), file=f)
+    for index, name in enumerate( sorted(characters) ):
+        print( "%d \"%s\"" % ( index+1,name.title() ), file=f )
 
 # Make this an undirected graph
-print("*Edges")
+    print("*Edges", file=f)
 
-nRows, nColumns = A.shape
-characterNames  = sorted(list(characters))
+    nRows, nColumns = A.shape
+    characterNames  = sorted(list(characters))
 
-for row in range(nRows):
-    for column in range(row+1,nColumns):
-        if A[row,column] > 0:
-            print( "%d %d %d" % (row+1, column+1, A[row,column]) )
+    for row in range(nRows):
+        for column in range(row+1,nColumns):
+            if A[row,column] > 0:
+                print( "%d %d %d" % (row+1, column+1, A[row,column]), file=f )
