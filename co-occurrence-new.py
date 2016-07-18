@@ -13,6 +13,7 @@ reActStart        = r'<ACT (\d+)>'
 reActEnd          = r'</ACT (\d+)>'
 reSpeakerStart    = r'<([A-Z\d\s]+)>'
 rePlayDescription = r'<\s+Shakespeare\s+--\s+(.+)\s+>'
+reExitUnnamed     = r'<Exit\.?>'
 
 stageDirections = 'STAGE DIR'
 allCharacters   = 'ALL'
@@ -63,6 +64,7 @@ A      = numpy.zeros( (n,n), dtype=numpy.int8 )
 
 with open(sys.argv[1]) as f:
     charactersInScene = set()
+    currentCharacter  = None
     for line in f:
         if re.match(reEnteringScene, line):
             inScene           = True
@@ -86,7 +88,21 @@ with open(sys.argv[1]) as f:
             # FIXME: Still require special handling for "all" characters within
             # a scene.
             if not isSpecialCharacter(character):
+                currentCharacter = character
                 charactersInScene.add( character )
+
+        elif inScene and re.match(reExitUnnamed, line):
+            indices = sorted( [ characterIndices[c] for c in charactersInScene ] )
+            for i in range(len(indices)):
+                for j in range(i+1,len(indices)):
+                    u      = indices[i]
+                    v      = indices[j]
+                    A[u,v] = A[u,v] + 1 # Add a connection between the two vertices
+                    A[v,u] = A[u,v]
+
+            print(currentCharacter, "left the scene.")
+            charactersInScene.remove(currentCharacter)
+
 
 #
 # Output
