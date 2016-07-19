@@ -11,7 +11,7 @@ reEnteringScene   = r'<SCENE (\d+)>'
 reLeavingScene    = r'</SCENE (\d+)>'
 reActStart        = r'<ACT (\d+)>'
 reActEnd          = r'</ACT (\d+)>'
-reSpeakerStart    = r'<([A-Z\d\s]+)>'
+reSpeakerStart    = r'<([A-Z\.\d\s]+)>'
 rePlayDescription = r'<\s+Shakespeare\s+--\s+(.+)\s+>'
 reExitUnnamed     = r'<Exit\.?>'
 
