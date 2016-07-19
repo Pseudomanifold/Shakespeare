@@ -63,8 +63,10 @@ A      = numpy.zeros( (n,n), dtype=numpy.int8 )
 #
 
 with open(sys.argv[1]) as f:
-    charactersInScene = set()
-    currentCharacter  = None
+    charactersInScene    = set()
+    currentCharacter     = None
+    numberOfWordsInScene = 0
+
     for line in f:
         if re.match(reEnteringScene, line):
             inScene           = True
@@ -103,6 +105,9 @@ with open(sys.argv[1]) as f:
             print(currentCharacter, "left the scene.")
             charactersInScene.remove(currentCharacter)
 
+        elif '<' not in line and line.strip():
+            numberOfWords        = len( ''.join(c if c.isalnum() else ' ' for c in line).split() )
+            numberOfWordsInScene = numberOfWordsInScene + numberOfWords
 
 #
 # Output
