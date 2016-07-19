@@ -9,7 +9,7 @@ inScene         = False
 
 reEnteringScene   = r'<SCENE (\d+)>'
 reLeavingScene    = r'</SCENE (\d+)>'
-reSpeakerStart    = r'<([A-Z\d\s]+)>'
+reSpeakerStart    = r'<([A-Z\.\d\s]+)>'
 rePlayDescription = r'<\s+Shakespeare\s+--\s+(.+)\s+>'
 
 stageDirections = 'STAGE DIR'
