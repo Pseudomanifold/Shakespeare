@@ -4327,7 +4327,7 @@
 	And so, my good Lord Mayor, we bid farewell.
 </BUCKINGHAM>
 <STAGE DIR>
-<Exit Lord Mayor.>
+<Exit Mayor.>
 </STAGE DIR>
 
 <GLOUCESTER>	<55%>
@@ -4768,7 +4768,8 @@
 	Come, citizens, we will entreat no more.
 </BUCKINGHAM>
 <STAGE DIR>
-<Exit Buckingham and Citizens.>
+<Exit Buckingham>
+<Exit Citizens.>
 </STAGE DIR>
 
 <CATESBY>	<62%>

@@ -1355,6 +1355,7 @@
 <Enter Hotspur, reading a letter.>
 </STAGE DIR>
 
+<HOTSPUR> <28%>
 	But for mine own part, my lord, I could be well contented to be there, in respect of the love I bear your house.
 
 	He could be contented; why is he not then? In respect of the love he bears our house: he shows in this he loves his own barn better than he loves our house. Let me see some more.
@@ -1370,6 +1371,7 @@
 <Enter Lady Percy.>
 </STAGE DIR>
 	How now, Kate! I must leave you within these two hours.
+</HOTSPUR>
 <LADY PERCY>	<28%>
 	O, my good lord! why are you thus alone?
 	For what offence have I this fortnight been
@@ -3437,7 +3439,7 @@
 
 <FALSTAFF>	<69%>
 	Hostess, I forgive thee. Go make ready breakfast; love thy husband, look to thy servants, cherish thy guests: thou shalt find me tractable to any honest reason: thou seest I am pacified. Still! Nay prithee, be gone. <STAGE DIR>
-<Exit Mistress Quickly.>
+<Exit Quickly.>
 </STAGE DIR> Now, Hal, to the news at court: for the robbery, lad, how is that answered?
 </FALSTAFF>
 

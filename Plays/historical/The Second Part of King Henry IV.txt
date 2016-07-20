@@ -1682,7 +1682,7 @@
 </STAGE DIR>
 <FALSTAFF>	<33%>
 	When Arthur first in court—Empty the jordan.—<STAGE DIR>
-<Exit First Drawer.>
+<Exit Drawer 1>
 </STAGE DIR>—And was a worthy king. How now, Mistress Doll!
 </FALSTAFF>
 
@@ -1765,7 +1765,7 @@
 	He's no swaggerer, hostess; a tame cheater, i' faith; you may stroke him as gently as a puppy greyhound: he will not swagger with a Barbary hen if her feathers turn back in any show of resistance. Call him up, drawer.
 </FALSTAFF>
 <STAGE DIR>
-<Exit First Drawer.>
+<Exit Drawer 1>
 </STAGE DIR>
 
 <QUICKLY>	<35%>
@@ -4602,15 +4602,23 @@
 </SHALLOW>
 
 <FALSTAFF>	<85%>
-	I'll follow you, good Master Robert Shallow. <STAGE DIR>
-<Exit Shallow.] Bardolph, look to our horses. [Exeunt Bardolph and Page.>
-</STAGE DIR> If I were sawed into quantities, I should make four dozen of such bearded hermit's staves as Master Shallow. It is a wonderful thing to see the semblable coherence of his men's spirits and his: they, by observing him, do bear themselves like foolish justices; he, by conversing with them, is turned into a justice-like serving-man. Their spirits are so married in conjunction with the participation of society that they flock together in consent, like so many wild-geese. If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master: if to his men, I would curry with Master Shallow that no man could better command his servants. It is certain that either wise bearing or ignorant carriage is caught, as men take diseases, one of another: therefore let men take heed of their company. I will devise matter enough out of this Shallow to keep Prince Harry in continual laughter the wearing out of six fashions,—which is four terms, or two actions,—and a' shall laugh without intervallums. O! it is much that a lie with a slight oath and a jest with a sad brow will do with a fellow that never had the ache in his shoulders. O! you shall see him laugh till his face be like a wet cloak ill laid up!
+	I'll follow you, good Master Robert Shallow.
+<STAGE DIR>
+<Exit Shallow.>
+</STAGE DIR>
+Bardolph, look to our horses.
+<STAGE DIR>
+<Exit Bardolph>
+<Exit Page>
+</STAGE DIR>
+If I were sawed into quantities, I should make four dozen of such bearded hermit's staves as Master Shallow. It is a wonderful thing to see the semblable coherence of his men's spirits and his: they, by observing him, do bear themselves like foolish justices; he, by conversing with them, is turned into a justice-like serving-man. Their spirits are so married in conjunction with the participation of society that they flock together in consent, like so many wild-geese. If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master: if to his men, I would curry with Master Shallow that no man could better command his servants. It is certain that either wise bearing or ignorant carriage is caught, as men take diseases, one of another: therefore let men take heed of their company. I will devise matter enough out of this Shallow to keep Prince Harry in continual laughter the wearing out of six fashions,—which is four terms, or two actions,—and a' shall laugh without intervallums. O! it is much that a lie with a slight oath and a jest with a sad brow will do with a fellow that never had the ache in his shoulders. O! you shall see him laugh till his face be like a wet cloak ill laid up!
 </FALSTAFF>
 
 <SHALLOW>	<86%>
 <STAGE DIR>
 <Within.>
-</STAGE DIR> Sir John!
+</STAGE DIR>
+Sir John!
 </SHALLOW>
 
 <FALSTAFF>	<86%>

@@ -1201,7 +1201,7 @@
 <SENTINEL 1>	<23%>
 	Sergeant, you shall.
 <STAGE DIR>
-<Exit Sergeant.>
+<Exit Sargeant.>
 </STAGE DIR>
 	Thus are poor servitors—
 	When others sleep upon their quiet beds—

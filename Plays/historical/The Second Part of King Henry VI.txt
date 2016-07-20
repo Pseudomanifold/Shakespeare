@@ -842,7 +842,8 @@
 	If they were known, as the suspect is great,
 	Would make thee quickly hop without thy head.
 <STAGE DIR>
-<Exit Gloucester. The Queen drops her fan.>
+<Exit Gloucester.>
+<The Queen drops her fan.>
 </STAGE DIR>
 	Give me my fan: what, minion! can ye not?
 <STAGE DIR>

@@ -3193,7 +3193,8 @@
 	Deliver him to safety, and return,
 	For I must use thee.
 <STAGE DIR>
-<Exit Hubert, with Peter.>
+<Exit Hubert>
+<Exit Peter>
 </STAGE DIR>
 	O my gentle cousin,
 	Hear'st thou the news abroad, who are arriv'd?
