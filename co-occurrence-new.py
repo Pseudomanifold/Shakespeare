@@ -87,6 +87,13 @@ def classifyLine(line):
 
     elif re.match(reExit, line):
         exit = re.match(reExit, line).group(1)
+
+        # Remove a trailing dot if the exit direction refers to
+        # a named character
+        if exit is not "." and exit.endswith("."):
+            exit = exit[:-1]
+
+        exit = exit.strip()
         return LineType.Exit, exit
 
     elif '<' not in line and line.strip():
@@ -237,10 +244,17 @@ with open(sys.argv[1]) as f:
             if n == ".":
                 leavingCharacter = currentCharacter
             # A named character left the scene
-            elif n in activeCharacters:
-                leavingCharacter = n
+            elif n.upper() in activeCharacters:
+                leavingCharacter = n.upper()
             else:
-                leavingCharacter = None
+                # Check whether the leaving character is a prefix
+                # of any named character
+                candidates = [ c for c in activeCharacters if c.startswith( n.upper() ) ]
+                if len(candidates) == 1:
+                    leavingCharacter = candidates[0]
+                else:
+                    print("Warning: Unable to detect leaving character: '%s'" % n.upper())
+                    leavingCharacter = None
 
             if leavingCharacter:
                 for c in activeCharacters:
@@ -249,7 +263,9 @@ with open(sys.argv[1]) as f:
                         w2 = wordsPerCharacter[c]                / numWords
                         play.updateEdge( leavingCharacter, c, w1+w2 )
 
-                currentCharacter = None
+                if leavingCharacter == currentCharacter:
+                    currentCharacter = None
+
                 activeCharacters.remove( leavingCharacter )
 
         elif t == LineType.Text:
