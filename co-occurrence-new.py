@@ -46,7 +46,7 @@ def classifyLine(line):
     reSceneEnd     = r'</SCENE (\d+)>'
     reActBegin     = r'<ACT (\d+)>'
     reActEnd       = r'</ACT (\d+)>'
-    reSpeakerBegin = r'<([A-Z\.\d\s]+)>'
+    reSpeakerBegin = r'<([A-Z\.\d\s]+)>\s+<.*\%>'
     reSpeakerEnd   = r'</([A-Z\.\d\s]+)>'
     reExit         = r'<Exit(\.?|\s+.*)>'
 
