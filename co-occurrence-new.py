@@ -18,7 +18,8 @@ class LineType:
     ActEnd,      \
     SpeakerBegin,\
     SpeakerEnd,  \
-    Exit = range(8)
+    Exit,        \
+    Text = range(9)
 
 """
 Checks whether a speaker is a "special" speaker. Special speakers
@@ -51,23 +52,23 @@ def classifyLine(line):
 
     if re.match(reDescription, line):
         title = re.match(reDescription, line).group(1).title()
-        return (LineType.Description, title)
+        return LineType.Description, title
 
     elif re.match(reSceneBegin, line):
         scene = re.match(reSceneBegin, line).group(1)
-        return (LineType.SceneBegin, scene)
+        return LineType.SceneBegin, scene
 
     elif re.match(reSceneEnd, line):
         scene = re.match(reSceneEnd, line).group(1)
-        return (LineType.SceneEnd, scene)
+        return LineType.SceneEnd, scene
 
     elif re.match(reActBegin, line):
         act = re.match(reActBegin, line).group(1)
-        return (LineType.ActBegin, act)
+        return LineType.ActBegin, act
 
     elif re.match(reActEnd, line):
         act = re.match(reActEnd, line).group(1)
-        return (LineType.ActEnd, act)
+        return LineType.ActEnd, act
 
     elif re.match(reSpeakerBegin, line):
         name = re.match(reSpeakerBegin, line).group(1)
@@ -77,18 +78,21 @@ def classifyLine(line):
                 name = name[:-6]
 
             name = name.rstrip()
-            return (LineType.SpeakerBegin, name)
+            return LineType.SpeakerBegin, name
 
     elif re.match(reSpeakerEnd, line):
         name = re.match(reSpeakerEnd, line).group(1)
         if not isSpecialSpeaker(name):
-            return (LineType.SpeakerEnd, name)
+            return LineType.SpeakerEnd, name
 
     elif re.match(reExit, line):
         exit = re.match(reExit, line).group(1)
-        return (LineType.Exit, exit)
+        return LineType.Exit, exit
 
-    return (None,None)
+    elif '<' not in line and line.strip():
+        return LineType.Text, line.strip()
+
+    return None, None
 
 """"
 Class for describing a complete play with weighted co-occurence matrices.
@@ -108,16 +112,29 @@ class Play:
     def getCharacters(self):
         return list( self.characters )
 
-    """ Adds an edge to the adjacency matrix """
-    def addEdge(self, name1, name2, w = 1):
-        if not self.A:
+    """ Updates an edge in the adjacency matrix """
+    def updateEdge(self, name1, name2, w = 1):
+        if self.A is None:
+            n      = len(self.characters)
             self.A = numpy.zeros( (n,n), dtype=numpy.float_ )
 
-        u = list.index( self.characters )
-        v = list.index( self.characters )
+        u = self.characters.index( name1 )
+        v = self.characters.index( name2 )
 
-        A[u,v] = A[u,v] + w
-        A[v,u] = A[u,v]
+        self.A[u,v] = self.A[u,v] + w
+        self.A[v,u] = self.A[u,v]
+
+    """ Updates multiple edges in the adjacency matrix """
+    def updateEdges(self, names, weights):
+        for i,first in enumerate(names):
+            for j,second in enumerate(names[i+1:]):
+                w1 = weights[i]
+                w2 = weights[j+i+1]
+                self.updateEdge( first, second, w1+w2 )
+
+""" Extremely simple way of counting words in a string """
+def countWords(line):
+    return len( ''.join(c if c.isalnum() else ' ' for c in line).split() )
 
 #
 # HERE BE DRAGONS
@@ -173,6 +190,79 @@ for character in play.getCharacters():
 #
 # Create co-occurrences
 #
+
+with open(sys.argv[1]) as f:
+    currentCharacter  = None
+    inScene           = False
+    activeCharacters  = list()
+    wordsPerCharacter = dict()
+
+    for line in f:
+        t,n       = classifyLine(line)
+        needReset = False # Indicates whether current counter variables
+                          # need a reset because the scene changed, for
+                          # example.
+
+        if t == LineType.SceneBegin:
+            inScene = True
+        elif t == LineType.SceneEnd:
+            inScene   = False
+            needReset = True
+
+            #
+            # Create weights: Determine the fraction of words used by
+            # all active characters.
+            #
+
+            numWords = sum( wordsPerCharacter[c]         for c in activeCharacters )
+            weights  = [ wordsPerCharacter[c] / numWords for c in activeCharacters ]
+
+            # Create edges between all characters that are still active
+            play.updateEdges( activeCharacters, weights )
+
+        elif t == LineType.SpeakerBegin:
+            if n not in activeCharacters:
+                activeCharacters.append(n)
+                wordsPerCharacter[n] = 0
+
+            currentCharacter = n
+
+        elif t == LineType.Exit and currentCharacter:
+            # This is the amount of words in the scene that we have seen
+            # so far. We require this to assign a weight for the current
+            # character that exits the scene.
+            numWords = sum( wordsPerCharacter[c] for c in activeCharacters )
+
+            # The current character left the scene
+            if n == ".":
+                leavingCharacter = currentCharacter
+            # A named character left the scene
+            elif n in activeCharacters:
+                leavingCharacter = n
+            else:
+                leavingCharacter = None
+
+            if leavingCharacter:
+                for c in activeCharacters:
+                    if c is not leavingCharacter:
+                        w1 = wordsPerCharacter[leavingCharacter] / numWords
+                        w2 = wordsPerCharacter[c]                / numWords
+                        play.updateEdge( leavingCharacter, c, w1+w2 )
+
+                currentCharacter = None
+                activeCharacters.remove( leavingCharacter )
+
+        elif t == LineType.Text:
+            if not currentCharacter:
+                print("Warning: I cannot assign this text to someone...")
+            else:
+                wordsPerCharacter[currentCharacter] += countWords(n)
+
+        if needReset:
+            currentCharacter  = None
+            inScene           = False
+            activeCharacters  = list()
+            wordsPerCharacter = dict()
 
 #
 # HERE BE DRAGONS
