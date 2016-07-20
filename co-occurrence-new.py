@@ -130,6 +130,9 @@ class Play:
         u = self.characters.index( name1 )
         v = self.characters.index( name2 )
 
+        if u > v:
+            u,v = v,u
+
         self.A[u,v] = self.A[u,v] + w
         self.A[v,u] = self.A[u,v]
 
@@ -149,6 +152,9 @@ class Play:
         u = self.characters.index( name1 )
         v = self.characters.index( name2 )
 
+        if u > v:
+            u,v = v,u
+
         return self.A[u,v] > 0
 
 """ Extremely simple way of counting words in a string """
@@ -159,7 +165,12 @@ def countWords(line):
 # Extract metadata & all characters
 #
 
-play = Play()
+play              = Play()
+useTimeFiltration = False
+
+# Check whether a time-based filtration is desired
+if len(sys.argv) == 3 and sys.argv[2] == '-t':
+    useTimeFiltration = True
 
 with open(sys.argv[1]) as f:
     inScene = False
@@ -176,7 +187,6 @@ with open(sys.argv[1]) as f:
             play.addCharacter(n)
 
 print("Analysing '%s'" % play.title.title())
-
 print("Characters: ")
 
 for character in play.getCharacters():
@@ -191,6 +201,11 @@ with open(sys.argv[1]) as f:
     inScene           = False
     activeCharacters  = list()
     wordsPerCharacter = dict()
+    firstAppearance   = dict()
+
+    # Elapsed "time" in the play. This is only used for the time-based
+    # filtration.
+    T = 0
 
     for line in f:
         t,n       = classifyLine(line)
@@ -213,12 +228,27 @@ with open(sys.argv[1]) as f:
             weights  = [ wordsPerCharacter[c] / numWords for c in activeCharacters ]
 
             # Create edges between all characters that are still active
-            play.updateEdges( activeCharacters, weights )
+            if useTimeFiltration:
+                for index,name1 in enumerate(activeCharacters):
+                    for name2 in activeCharacters[index+1:]:
+                        if not play.hasEdge(name1, name2):
+                            t1 = firstAppearance[name1]
+                            t2 = firstAppearance[name2]
+                            w  = max(t1,t2)
+                            play.updateEdge( name1, name2, w )
+            else:
+                play.updateEdges( activeCharacters, weights )
 
         elif t == LineType.SpeakerBegin:
+            m = re.match( r'.*<(\d+)%>.*', line)
+            T = int( m.group(1) )
+
             if n not in activeCharacters:
                 activeCharacters.append(n)
                 wordsPerCharacter[n] = 0
+
+            if n not in firstAppearance:
+                firstAppearance[n] = T
 
             currentCharacter = n
 
@@ -247,9 +277,16 @@ with open(sys.argv[1]) as f:
             if leavingCharacter:
                 for c in activeCharacters:
                     if c is not leavingCharacter:
-                        w1 = wordsPerCharacter[leavingCharacter] / numWords
-                        w2 = wordsPerCharacter[c]                / numWords
-                        play.updateEdge( leavingCharacter, c, w1+w2 )
+                        if useTimeFiltration:
+                            if not play.hasEdge( leavingCharacter, c ):
+                                t1 = firstAppearance[leavingCharacter]
+                                t2 = firstAppearance[c]
+                                w  = max(t1, t2)
+                                play.updateEdge( leavingCharacter, c, w )
+                        else:
+                            w1 = wordsPerCharacter[leavingCharacter] / numWords
+                            w2 = wordsPerCharacter[c]                / numWords
+                            play.updateEdge( leavingCharacter, c, w1+w2 )
 
                 if leavingCharacter == currentCharacter:
                     currentCharacter = None
