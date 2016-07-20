@@ -42,7 +42,7 @@ def classifyLine(line):
     reDescription  = r'<\s+Shakespeare\s+--\s+(.+)\s+>'
     reSceneBegin   = r'<SCENE (\d+)>'
     reSceneEnd     = r'</SCENE (\d+)>'
-    reActStart     = r'<ACT (\d+)>'
+    reActBegin     = r'<ACT (\d+)>'
     reActEnd       = r'</ACT (\d+)>'
     reSpeakerBegin = r'<([A-Z\.\d\s]+)>'
     reSpeakerEnd   = r'</([A-Z\.\d\s]+)>'
@@ -56,6 +56,10 @@ def classifyLine(line):
         scene = re.match(reSceneBegin, line).group(1)
         return (LineType.SceneBegin, scene)
 
+    elif re.match(reSceneEnd, line):
+        scene = re.match(reSceneEnd, line).group(1)
+        return (LineType.SceneEnd, scene)
+
     elif re.match(reActBegin, line):
         act = re.match(reActBegin, line).group(1)
         return (LineType.ActBegin, act)
@@ -67,6 +71,11 @@ def classifyLine(line):
     elif re.match(reSpeakerBegin, line):
         name = re.match(reSpeakerBegin, line).group(1)
         if not isSpecialSpeaker(name):
+            # Special handling for singing characters
+            if name.endswith("SINGS."):
+                name = name[:-6]
+
+            name = name.rstrip()
             return (LineType.SpeakerBegin, name)
 
     elif re.match(reSpeakerEnd, line):
