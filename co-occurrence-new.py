@@ -29,7 +29,9 @@ speaking.
 def isSpecialSpeaker(name):
     return    name == 'STAGE DIR'\
            or name == 'ALL'\
+           or name == 'ALL FOUR'\
            or name == 'BOTH'\
+           or name == 'BOTH BROTHERS'\
            or name == 'SONG.'
 
 """
