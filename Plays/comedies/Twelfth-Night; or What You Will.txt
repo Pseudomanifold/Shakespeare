@@ -800,8 +800,10 @@
 
 <OLIVIA>	<15%>
 	Fetch him off, I pray you: he speaks nothing but madman. Fie on him! <STAGE DIR>
-<Exit Maria.] Go you, Malvolio: if it be a suit from...>
-<... the count, I am sick, or not at home; what you will, to dismiss it. [Exit Malvolio.>
+<Exit Maria.>
+Go you, Malvolio: if it be a suit from...
+... the count, I am sick, or not at home; what you will, to dismiss it.
+<Exit Malvolio.>
 </STAGE DIR> Now you see, sir, how your fooling grows old, and people dislike it.
 </OLIVIA>
 
@@ -1740,7 +1742,8 @@
 <DUKE>	<35%>
 	Seek him out, and play the tune the while.
 <STAGE DIR>
-<Exit Curio. Music.>
+<Exit Curio.>
+<Music>
 </STAGE DIR>
 	Come hither, boy: if ever thou shalt love,
 	In the sweet pangs of it remember me;

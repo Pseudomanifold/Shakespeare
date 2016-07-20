@@ -2764,7 +2764,7 @@
 <Enter Autolycus, singing.>
 </STAGE DIR>
 
-
+<AUTOLYCUS> <49%>
 	When daffodils begin to peer,
 	With heigh! the doxy, over the dale,
 	Why, then comes in the sweet o' the year;
@@ -2795,6 +2795,8 @@
 	And in the stocks avouch it
 
 	My traffic is sheets; when the kite builds, look to lesser linen. My father named me Autolycus; who being, as I am, littered under Mercury, was likewise a snapper-up of unconsidered trifles. With die and drab I purchased this caparison, and my revenue is the silly cheat. Gallows and knock are too powerful on the highway: beating and hanging are terrors to me: for the life to come, I sleep out the thought of it. A prize! a prize!
+</AUTOLYCUS>
+
 <STAGE DIR>
 <Enter Clown.>
 </STAGE DIR>

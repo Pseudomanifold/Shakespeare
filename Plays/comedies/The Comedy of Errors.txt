@@ -17,10 +17,11 @@
 <STAGE DIR>
 <Enter Duke, Ægeon, Gaoler, Officers, and other Attendants.>
 </STAGE DIR>
-<ÆGEON>	<1%>
+<AEGEON>	<1%>
 	Proceed, Solinus, to procure my fall,
 	And by the doom of death end woes and all.
-</ÆGEON>
+</AE
+>
 
 <DUKE>	<1%>
 	Merchant of Syracusa, plead no more.
@@ -48,10 +49,10 @@
 	Therefore, by law thou art condemn'd to die.
 </DUKE>
 
-<ÆGEON>	<2%>
+<AEGEON>	<2%>
 	Yet this my comfort: when your words are done,
 	My woes end likewise with the evening sun.
-</ÆGEON>
+</AEGEON>
 
 <DUKE>	<2%>
 	Well, Syracusian; say, in brief the cause
@@ -59,7 +60,7 @@
 	And for what cause thou cam'st to Ephesus.
 </DUKE>
 
-<ÆGEON>	<2%>
+<AEGEON>	<2%>
 	A heavier task could not have been impos'd
 	Than I to speak my griefs unspeakable;
 	Yet, that the world may witness that my end
@@ -125,14 +126,14 @@
 	Of Corinth that, of Epidaurus this:
 	But ere they came,—O! let me say no more;
 	Gather the sequel by that went before.
-</ÆGEON>
+</AEGEON>
 
 <DUKE>	<5%>
 	Nay, forward, old man; do not break off so;
 	For we may pity, though not pardon thee.
 </DUKE>
 
-<ÆGEON>	<5%>
+<AEGEON>	<5%>
 	O! had the gods done so, I had not now
 	Worthily term'd them merciless to us!
 	For, ere the ships could meet by twice five leagues,
@@ -156,7 +157,7 @@
 	Thus have you heard me sever'd from my bliss,
 	That by misfortune was my life prolong'd,
 	To tell sad stories of my own mishaps.
-</ÆGEON>
+</AEGEON>
 
 <DUKE>	<6%>
 	And, for the sake of them thou sorrowest for,
@@ -164,7 +165,7 @@
 	What hath befall'n of them and thee till now.
 </DUKE>
 
-<ÆGEON>	<7%>
+<AEGEON>	<7%>
 	My youngest boy, and yet my eldest care,
 	At eighteen years became inquisitive
 	After his brother; and importun'd me
@@ -181,7 +182,7 @@
 	But here must end the story of my life;
 	And happy were I in my timely death,
 	Could all my travels warrant me they live.
-</ÆGEON>
+</AEGEON>
 
 <DUKE>	<7%>
 	Hapless Ægeon, whom the fates have mark'd
@@ -206,10 +207,10 @@
 	I will, my lord.
 </GAOLER>
 
-<ÆGEON>	<8%>
+<AEGEON>	<8%>
 	Hopeless and helpless doth Ægeon wend,
 	But to procrastinate his lifeless end.
-</ÆGEON>
+</AEGEON>
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
@@ -3324,10 +3325,10 @@
 	That then I lost for thee, now grant me justice.
 </ANTIPHOLUS EPH.>
 
-<ÆGEON>	<87%>
+<AEGEON>	<87%>
 	Unless the fear of death doth make me dote,
 	I see my son Antipholus and Dromio!
-</ÆGEON>
+</AEGEON>
 
 <ANTIPHOLUS EPH.>	<88%>
 	Justice, sweet prince, against that woman there!
@@ -3478,20 +3479,20 @@
 	I think you are all mated or stark mad.
 </DUKE>
 
-<ÆGEON>	<92%>
+<AEGEON>	<92%>
 	Most mighty duke, vouchsafe me speak a word:
 	Haply I see a friend will save my life,
 	And pay the sum that may deliver me.
-</ÆGEON>
+</AEGEON>
 
 <DUKE>	<92%>
 	Speak freely, Syracusian, what thou wilt.
 </DUKE>
 
-<ÆGEON>	<92%>
+<AEGEON>	<92%>
 	Is not your name, sir, called Antipholus?
 	And is not that your bondman Dromio?
-</ÆGEON>
+</AEGEON>
 
 <DROMIO EPH.>	<92%>
 	Within this hour I was his bondman, sir;
@@ -3499,9 +3500,9 @@
 	Now am I Dromio and his man, unbound.
 </DROMIO EPH.>
 
-<ÆGEON>	<92%>
+<AEGEON>	<92%>
 	I am sure you both of you remember me.
-</ÆGEON>
+</AEGEON>
 
 <DROMIO EPH.>	<93%>
 	Ourselves we do remember, sir, by you;
@@ -3509,42 +3510,42 @@
 	You are not Pinch's patient, are you, sir?
 </DROMIO EPH.>
 
-<ÆGEON>	<93%>
+<AEGEON>	<93%>
 	Why look you strange on me? you know me well.
-</ÆGEON>
+</AEGEON>
 
 <ANTIPHOLUS EPH.>	<93%>
 	I never saw you in my life till now.
 </ANTIPHOLUS EPH.>
 
-<ÆGEON>	<93%>
+<AEGEON>	<93%>
 	O! grief hath chang'd me since you saw me last,
 	And careful hours, with Time's deformed hand,
 	Have written strange defeatures in my face:
 	But tell me yet, dost thou not know my voice?
-</ÆGEON>
+</AEGEON>
 
 <ANTIPHOLUS EPH.>	<93%>
 	Neither.
 </ANTIPHOLUS EPH.>
 
-<ÆGEON>	<93%>
+<AEGEON>	<93%>
 	Dromio, nor thou?
-</ÆGEON>
+</AEGEON>
 
 <DROMIO EPH.>	<93%>
 	No, trust me, sir, not I.
 </DROMIO EPH.>
 
-<ÆGEON>	<93%>
+<AEGEON>	<93%>
 	I am sure thou dost.
-</ÆGEON>
+</AEGEON>
 
 <DROMIO EPH.>	<93%>
 	Ay, sir; but I am sure I do not; and whatsoever a man denies, you are now bound to believe him.
 </DROMIO EPH.>
 
-<ÆGEON>	<93%>
+<AEGEON>	<93%>
 	Not know my voice! O, time's extremity,
 	Hast thou so crack'd and splitted my poor tongue
 	In seven short years, that here my only son
@@ -3557,17 +3558,17 @@
 	My dull deaf ears a little use to hear:
 	All these old witnesses, I cannot err,
 	Tell me thou art my son Antipholus.
-</ÆGEON>
+</AEGEON>
 
 <ANTIPHOLUS EPH.>	<94%>
 	I never saw my father in my life.
 </ANTIPHOLUS EPH.>
 
-<ÆGEON>	<94%>
+<AEGEON>	<94%>
 	But seven years since, in Syracusa, boy,
 	Thou know'st we parted: but perhaps, my son,
 	Thou sham'st to acknowledge me in misery.
-</ÆGEON>
+</AEGEON>
 
 <ANTIPHOLUS EPH.>	<94%>
 	The duke and all that know me in the city
@@ -3628,11 +3629,11 @@
 	And speak unto the same Æmilia!
 </ABBESS>
 
-<ÆGEON>	<95%>
+<AEGEON>	<95%>
 	If I dream not, thou art Æmilia:
 	If thou art she, tell me where is that son
 	That floated with thee on the fatal raft?
-</ÆGEON>
+</AEGEON>
 
 <ABBESS>	<96%>
 	By men of Epidamnum, he and I,

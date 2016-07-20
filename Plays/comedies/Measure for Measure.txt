@@ -3313,6 +3313,7 @@
 <Enter Mariana and a Boy: Boy sings.>
 </STAGE DIR>
 
+<BOY> <60%>
 	Take, O take those lips away,
 	That so sweetly were forsworn;
 	And those eyes, the break of day,
@@ -3321,6 +3322,7 @@
 	bring again,
 	Seals of love, but seal'd in vain,
 	seal'd in vain.
+</BOY>
 
 <MARIANA>	<60%>
 	Break off thy song, and haste thee quick away:
