@@ -2002,7 +2002,8 @@
 <NURSE>	<31%>
 <STAGE DIR>
 <Within.>
-</STAGE DIR> Madam!
+</STAGE DIR>
+Madam!
 </NURSE>
 
 <JULIET>	<31%>

@@ -3475,15 +3475,15 @@
 </SICINIUS>
 
 <BRUTUS>	<49%>
-	The ædiles, ho! Let him be apprehended.
+	The aediles, ho! Let him be apprehended.
 
 </BRUTUS>
 <STAGE DIR>
-<Enter an Ædile.>
+<Enter an Aedile.>
 </STAGE DIR>
 <SICINIUS>	<49%>
 	Go, call the people; <STAGE DIR>
-<Exit Ædile>
+<Exit Aedile>
 </STAGE DIR> in whose name, myself
 	Attach thee as a traitorous innovator,
 	A foe to the public weal: obey, I charge thee,
@@ -3512,7 +3512,7 @@
 
 </SICINIUS>
 <STAGE DIR>
-<Re-enter Ædiles, with Others, and a rabble of Citizens.>
+<Re-enter Aediles, with Others, and a rabble of Citizens.>
 </STAGE DIR>
 <MENENIUS>	<49%>
 	On both sides more respect.
@@ -3523,7 +3523,7 @@
 </SICINIUS>
 
 <BRUTUS>	<49%>
-	Seize him, ædiles!
+	Seize him, aediles!
 </BRUTUS>
 
 <CITIZENS>	<49%>
@@ -3616,7 +3616,7 @@
 </SICINIUS>
 
 <BRUTUS>	<50%>
-	Ædiles, seize him!
+	Aediles, seize him!
 </BRUTUS>
 
 <CITIZENS>	<50%>
@@ -3628,9 +3628,9 @@
 	Beseech you, tribunes, hear me but a word.
 </MENENIUS>
 
-<ÆDILES>	<50%>
+<AEDILES>	<50%>
 	Peace, peace!
-</ÆDILES>
+</AEDILES>
 
 <MENENIUS>	<50%>
 	Be that you seem, truly your country's friends,
@@ -3671,7 +3671,7 @@
 	Down with him!—down with him!
 </CITIZENS>
 <STAGE DIR>
-<In this mutiny the Tribunes, the Ædiles, and the People are beat in.>
+<In this mutiny the Tribunes, the Aediles, and the People are beat in.>
 </STAGE DIR>
 
 <MENENIUS>	<51%>
@@ -3927,7 +3927,7 @@
 <SICINIUS>	<53%>
 	What do ye talk?
 	Have we not had a taste of his obedience?
-	Our ædiles smote? ourselves resisted? Come!
+	Our aediles smote? ourselves resisted? Come!
 </SICINIUS>
 
 <MENENIUS>	<53%>
@@ -4319,21 +4319,21 @@
 
 </BRUTUS>
 <STAGE DIR>
-<Enter an Ædile.>
+<Enter an Aedile.>
 </STAGE DIR>
 	What, will he come?
-<ÆDILES>	<58%>
+<AEDILES>	<58%>
 	He's coming.
-</ÆDILES>
+</AEDILES>
 
 <BRUTUS>	<58%>
 	How accompanied?
 </BRUTUS>
 
-<ÆDILES>	<58%>
+<AEDILES>	<58%>
 	With old Menenius, and those senators
 	That always favour'd him.
-</ÆDILES>
+</AEDILES>
 
 <SICINIUS>	<59%>
 	Have you a catalogue
@@ -4341,17 +4341,17 @@
 	Set down by the poll?
 </SICINIUS>
 
-<ÆDILES>	<59%>
+<AEDILES>	<59%>
 	I have; 'tis ready.
-</ÆDILES>
+</AEDILES>
 
 <SICINIUS>	<59%>
 	Have you collected them by tribes?
 </SICINIUS>
 
-<ÆDILES>	<59%>
+<AEDILES>	<59%>
 	I have.
-</ÆDILES>
+</AEDILES>
 
 <SICINIUS>	<59%>
 	Assemble presently the people hither;
@@ -4363,9 +4363,9 @@
 	And power i' the truth o' the cause.
 </SICINIUS>
 
-<ÆDILES>	<59%>
+<AEDILES>	<59%>
 	I shall inform them.
-</ÆDILES>
+</AEDILES>
 
 <BRUTUS>	<59%>
 	And when such time they have begun to cry,
@@ -4374,9 +4374,9 @@
 	Of what we chance to sentence.
 </BRUTUS>
 
-<ÆDILES>	<59%>
+<AEDILES>	<59%>
 	Very well.
-</ÆDILES>
+</AEDILES>
 
 <SICINIUS>	<59%>
 	Make them be strong and ready for this hint,
@@ -4386,7 +4386,7 @@
 <BRUTUS>	<59%>
 	Go about it.
 <STAGE DIR>
-<Exit Ædile.>
+<Exit Aedile.>
 </STAGE DIR>
 	Put him to choler straight. He hath been us'd
 	Ever to conquer, and to have his worth
@@ -4425,15 +4425,15 @@
 
 </MENENIUS>
 <STAGE DIR>
-<Re-enter Ædile, with Citizens.>
+<Re-enter Aedile, with Citizens.>
 </STAGE DIR>
 <SICINIUS>	<59%>
 	Draw near, ye people.
 </SICINIUS>
 
-<ÆDILES>	<60%>
+<AEDILES>	<60%>
 	List to your tribunes; audience; peace! I say.
-</ÆDILES>
+</AEDILES>
 
 <CORIOLANUS>	<60%>
 	First, hear me speak.
@@ -4655,9 +4655,9 @@
 <Exeunt Coriolanus, Cominius, Menenius, Senators, and Patricians.>
 </STAGE DIR>
 
-<ÆDILES>	<62%>
+<AEDILES>	<62%>
 	The people's enemy is gone, is gone!
-</ÆDILES>
+</AEDILES>
 
 <CITIZENS>	<62%>
 	Our enemy is banish'd!—he is gone!—Hoo! hoo!
@@ -4801,7 +4801,7 @@
 <SCENE 2>
 <The Same. A Street near the Gate.>
 <STAGE DIR>
-<Enter Sicinius, Brutus, and an Ædile.>
+<Enter Sicinius, Brutus, and an Aedile.>
 </STAGE DIR>
 <SICINIUS>	<64%>
 	Bid them all home; he's gone, and we'll no further.
@@ -4824,7 +4824,7 @@
 <BRUTUS>	<64%>
 	Dismiss them home.
 <STAGE DIR>
-<Exit Ædile.>
+<Exit Aedile.>
 </STAGE DIR>
 
 </BRUTUS>
@@ -5758,16 +5758,16 @@
 
 </BRUTUS>
 <STAGE DIR>
-<Enter an Ædile.>
+<Enter an Aedile.>
 </STAGE DIR>
-<ÆDILES>	<76%>
+<AEDILES>	<76%>
 	Worthy tribunes,
 	There is a slave, whom we have put in prison,
 	Reports, the Volsces with two several powers
 	Are enter'd in the Roman territories,
 	And with the deepest malice of the war
 	Destroy what lies before them.
-</ÆDILES>
+</AEDILES>
 
 <MENENIUS>	<77%>
 	'Tis Aufidius,
