@@ -1,0 +1,53 @@
+<SCENE 1>
+<A desert Heath.>
+<STAGE DIR>
+<Thunder and lightning. Enter three Witches.>
+</STAGE DIR>
+<WITCH 1>	<0%>
+	When shall we three meet again
+	In thunder, lightning, or in rain?
+</WITCH 1>
+
+<WITCH 2>	<1%>
+	When the hurlyburly's done,
+	When the battle's lost and won.
+</WITCH 2>
+
+<WITCH 3>	<1%>
+	That will be ere the set of sun.
+</WITCH 3>
+
+<WITCH 1>	<1%>
+	Where the place?
+</WITCH 1>
+
+<WITCH 2>	<1%>
+	Upon the heath.
+</WITCH 2>
+
+<WITCH 3>	<1%>
+	There to meet with Macbeth.
+</WITCH 3>
+
+<WITCH 1>	<1%>
+	I come, Graymalkin!
+</WITCH 1>
+
+<WITCH 2>	<1%>
+	Paddock calls.
+</WITCH 2>
+
+<WITCH 3>	<1%>
+	Anon.
+</WITCH 3>
+
+<ALL>	<1%>
+	Fair is foul, and foul is fair:
+	Hover through the fog and filthy air.
+</ALL>
+<STAGE DIR>
+<Exeunt.>
+</STAGE DIR>
+
+</SCENE 1>
+
