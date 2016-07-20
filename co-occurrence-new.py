@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import bisect
 import numpy
 import os
 import re
@@ -94,15 +95,39 @@ Class for describing a complete play with weighted co-occurence matrices.
 """
 class Play:
     def __init__(self):
-        characters = dict()
+        self.characters = list()
+        self.title      = None
+        self.A          = None # Weighted adjacency matrix
+
+    """ Adds a new character to the play. """
+    def addCharacter(self, name):
+        if name not in self.characters:
+            bisect.insort( self.characters, name )
+
+    """ List characters in alphabetical order. """
+    def getCharacters(self):
+        return list( self.characters )
+
+    """ Adds an edge to the adjacency matrix """
+    def addEdge(self, name1, name2, w = 1):
+        if not self.A:
+            self.A = numpy.zeros( (n,n), dtype=numpy.float_ )
+
+        u = list.index( self.characters )
+        v = list.index( self.characters )
+
+        A[u,v] = A[u,v] + w
+        A[v,u] = A[u,v]
+
+#
+# HERE BE DRAGONS
+#
 
 def isSpecialCharacter(name):
     return    name == stageDirections\
            or name == allCharacters\
            or name == bothCharacters\
            or name == "SONG." # FIXME
-
-inScene         = False
 
 reEnteringScene   = r'<SCENE (\d+)>'
 reLeavingScene    = r'</SCENE (\d+)>'
@@ -120,12 +145,43 @@ title      = ""
 characters = set()
 edges      = set()
 
+play    = Play()
+
 #
-# Extract all characters
+# Extract metadata & all characters
 #
 
 with open(sys.argv[1]) as f:
+    inScene = False
     for line in f:
+        t,n = classifyLine(line)
+
+        if t == LineType.Description:
+            play.title = n
+        elif t == LineType.SceneBegin:
+            inScene = True
+        elif t == LineType.SceneEnd:
+            inScene = False
+        elif inScene and t == LineType.SpeakerBegin:
+            play.addCharacter(n)
+
+print("Characters: ")
+
+for character in play.getCharacters():
+    print("  -", character)
+
+#
+# Create co-occurrences
+#
+
+#
+# HERE BE DRAGONS
+#
+
+with open(sys.argv[1]) as f:
+    inScene = False
+    for line in f:
+
         if re.match(rePlayDescription, line):
             title = re.match(rePlayDescription, line).group(1).title()
         elif re.match(reEnteringScene, line):
