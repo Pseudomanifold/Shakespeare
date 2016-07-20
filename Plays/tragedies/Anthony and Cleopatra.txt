@@ -66,7 +66,7 @@
 <CLEOPATRA>	<1%>
 	Nay, hear them, Antony:
 	Fulvia, perchance, is angry; or, who knows
-	If the scarce-bearded Cæsar have not sent
+	If the scarce-bearded Caesar have not sent
 	His powerful mandate to you, 'Do this, or this;
 	Take in that kingdom, and enfranchise that;
 	Perform 't, or else we damn thee.'
@@ -79,11 +79,11 @@
 <CLEOPATRA>	<1%>
 	Perchance! nay, and most like;
 	You must not stay here longer; your dismission
-	Is come from Cæsar; therefore hear it, Antony.
-	Where's Fulvia's process? Cæsar's I would say? both?
+	Is come from Caesar; therefore hear it, Antony.
+	Where's Fulvia's process? Caesar's I would say? both?
 	Call in the messengers. As I am Egypt's queen,
 	Thou blushest, Antony, and that blood of thine
-	Is Cæsar's homager; else so thy cheek pays shame
+	Is Caesar's homager; else so thy cheek pays shame
 	When shrill-tongu'd Fulvia scolds. The messengers!
 </CLEOPATRA>
 
@@ -135,7 +135,7 @@
 </STAGE DIR>
 
 <DEMETRIUS>	<2%>
-	Is Cæsar with Antonius priz'd so slight?
+	Is Caesar with Antonius priz'd so slight?
 </DEMETRIUS>
 
 <PHILO>	<2%>
@@ -244,7 +244,7 @@
 </ALEXAS>
 
 <CHARMIAN>	<3%>
-	Good now, some excellent fortune! Let me be married to three kings in a forenoon, and widow them all; let me have a child at fifty, to whom Herod of Jewry may do homage; find me to marry me with Octavius Cæsar, and companion me with my mistress.
+	Good now, some excellent fortune! Let me be married to three kings in a forenoon, and widow them all; let me have a child at fifty, to whom Herod of Jewry may do homage; find me to marry me with Octavius Caesar, and companion me with my mistress.
 </CHARMIAN>
 
 <SOOTHSAYER>	<3%>
@@ -411,7 +411,7 @@
 <MESSENGER>	<5%>
 	Ay:
 	But soon that war had end, and the time's state
-	Made friends of them, jointing their force 'gainst Cæsar,
+	Made friends of them, jointing their force 'gainst Caesar,
 	Whose better issue in the war, from Italy
 	Upon the first encounter drave them.
 </MESSENGER>
@@ -599,7 +599,7 @@
 	Do strongly speak to us, but the letters too
 	Of many our contriving friends in Rome
 	Petition us at home. Sextus Pompeius
-	Hath given the dare to Cæsar, and commands
+	Hath given the dare to Caesar, and commands
 	The empire of the sea; our slippery people—
 	Whose love is never link'd to the deserver
 	Till his deserts are past—begin to throw
@@ -887,13 +887,13 @@
 
 
 <SCENE 4>
-<Rome. A Room in Cæsar's House.>
+<Rome. A Room in Caesar's House.>
 <STAGE DIR>
-<Enter Octavius Cæsar, Lepidus, and Attendants.>
+<Enter Octavius Caesar, Lepidus, and Attendants.>
 </STAGE DIR>
-<CÆSAR>	<12%>
+<CAESAR>	<12%>
 	You may see, Lepidus, and henceforth know,
-	It is not Cæsar's natural vice to hate
+	It is not Caesar's natural vice to hate
 	Our great competitor. From Alexandria
 	This is the news: he fishes, drinks, and wastes
 	The lamps of night in revel; is not more manlike
@@ -902,7 +902,7 @@
 	Vouchsaf'd to think he had partners: you shall find there
 	A man who is the abstract of all faults
 	That all men follow.
-</CÆSAR>
+</CAESAR>
 
 <LEPIDUS>	<12%>
 	I must not think there are
@@ -913,7 +913,7 @@
 	Than what he chooses.
 </LEPIDUS>
 
-<CÆSAR>	<12%>
+<CAESAR>	<12%>
 	You are too indulgent. Let us grant it is not
 	Amiss to tumble on the bed of Ptolemy,
 	To give a kingdom for a mirth, to sit
@@ -933,7 +933,7 @@
 	Pawn their experience to their present pleasure,
 	And so rebel to judgment.
 
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Enter a Messenger.>
 </STAGE DIR>
@@ -943,15 +943,15 @@
 
 <MESSENGER>	<13%>
 	Thy biddings have been done, and every hour,
-	Most noble Cæsar, shalt thou have report
+	Most noble Caesar, shalt thou have report
 	How 'tis abroad. Pompey is strong at sea,
 	And it appears he is belov'd of those
-	That only have fear'd Cæsar; to the ports
+	That only have fear'd Caesar; to the ports
 	The discontents repair, and men's reports
 	Give him much wrong'd.
 </MESSENGER>
 
-<CÆSAR>	<13%>
+<CAESAR>	<13%>
 	I should have known no less.
 	It hath been taught us from the primal state,
 	That he which is was wish'd until he were;
@@ -960,10 +960,10 @@
 	Like to a vagabond flag upon the stream,
 	Goes to and back, lackeying the varying tide,
 	To rot itself with motion.
-</CÆSAR>
+</CAESAR>
 
 <MESSENGER>	<13%>
-	Cæsar, I bring thee word,
+	Caesar, I bring thee word,
 	Menecrates and Menas, famous pirates,
 	Make the sea serve them, which they ear and wound
 	With keels of every kind: many hot inroads
@@ -974,7 +974,7 @@
 	Than could his war resisted.
 </MESSENGER>
 
-<CÆSAR>	<13%>
+<CAESAR>	<13%>
 	Antony,
 	Leave thy lascivious wassails. When thou once
 	Wast beaten from Modena, where thou slew'st
@@ -992,31 +992,31 @@
 	It wounds thy honour that I speak it now—
 	Was borne so like a soldier, that thy cheek
 	So much as lank'd not.
-</CÆSAR>
+</CAESAR>
 
 <LEPIDUS>	<14%>
 	'Tis pity of him.
 </LEPIDUS>
 
-<CÆSAR>	<14%>
+<CAESAR>	<14%>
 	Let his shames quickly
 	Drive him to Rome. 'Tis time we twain
 	Did show ourselves i' the field; and to that end
 	Assemble me immediate council; Pompey
 	Thrives in our idleness.
-</CÆSAR>
+</CAESAR>
 
 <LEPIDUS>	<14%>
-	To-morrow, Cæsar,
+	To-morrow, Caesar,
 	I shall be furnish'd to inform you rightly
 	Both what by sea and land I can be able
 	To front this present time.
 </LEPIDUS>
 
-<CÆSAR>	<14%>
+<CAESAR>	<14%>
 	Till which encounter,
 	It is my business too. Farewell.
-</CÆSAR>
+</CAESAR>
 
 <LEPIDUS>	<14%>
 	Farewell, my lord. What you shall know meantime
@@ -1024,10 +1024,10 @@
 	To let me be partaker.
 </LEPIDUS>
 
-<CÆSAR>	<14%>
+<CAESAR>	<14%>
 	Doubt not, sir;
 	I knew it for my bond.
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
@@ -1116,7 +1116,7 @@
 	For so he calls me. Now I feed myself
 	With most delicious poison. Think on me,
 	That am with Phœbus' amorous pinches black,
-	And wrinkled deep in time? Broad-fronted Cæsar,
+	And wrinkled deep in time? Broad-fronted Caesar,
 	When thou wast here above the ground I was
 	A morsel for a monarch, and great Pompey
 	Would stand and make his eyes grow in my brow;
@@ -1191,11 +1191,11 @@
 	When I forget to send to Antony,
 	Shall die a beggar. Ink and paper, Charmian.
 	Welcome, my good Alexas. Did I, Charmian,
-	Ever love Cæsar so?
+	Ever love Caesar so?
 </CLEOPATRA>
 
 <CHARMIAN>	<16%>
-	O! that brave Cæsar.
+	O! that brave Caesar.
 </CHARMIAN>
 
 <CLEOPATRA>	<16%>
@@ -1204,12 +1204,12 @@
 </CLEOPATRA>
 
 <CHARMIAN>	<16%>
-	The valiant Cæsar!
+	The valiant Caesar!
 </CHARMIAN>
 
 <CLEOPATRA>	<16%>
 	By Isis, I will give thee bloody teeth,
-	If thou with Cæsar paragon again
+	If thou with Caesar paragon again
 	My man of men.
 </CLEOPATRA>
 
@@ -1271,14 +1271,14 @@
 	My powers are crescent, and my auguring hope
 	Says it will come to the full. Mark Antony
 	In Egypt sits at dinner, and will make
-	No wars without doors; Cæsar gets money where
+	No wars without doors; Caesar gets money where
 	He loses hearts; Lepidus flatters both,
 	Of both is flatter'd; but he neither loves,
 	Nor either cares for him.
 </POMPEIUS>
 
 <MENAS>	<17%>
-	Cæsar and Lepidus
+	Caesar and Lepidus
 	Are in the field; a mighty strength they carry.
 </MENAS>
 
@@ -1326,8 +1326,8 @@
 
 <MENAS>	<18%>
 	I cannot hope
-	Cæsar and Antony shall well greet together;
-	His wife that's dead did trespasses to Cæsar,
+	Caesar and Antony shall well greet together;
+	His wife that's dead did trespasses to Caesar,
 	His brother warr'd upon him, although I think
 	Not mov'd by Antony.
 </MENAS>
@@ -1365,8 +1365,8 @@
 
 <ENOBARBUS>	<18%>
 	I shall entreat him
-	To answer like himself: if Cæsar move him,
-	Let Antony look over Cæsar's head,
+	To answer like himself: if Caesar move him,
+	Let Antony look over Caesar's head,
 	And speak as loud as Mars. By Jupiter,
 	Were I the wearer of Antonius' beard,
 	I would not shave 't to-day.
@@ -1400,21 +1400,21 @@
 <Enter Antony and Ventidius.>
 </STAGE DIR>
 <ENOBARBUS>	<19%>
-	And yonder, Cæsar.
+	And yonder, Caesar.
 
 </ENOBARBUS>
 <STAGE DIR>
-<Enter Cæsar, Mecænas, and Agrippa.>
+<Enter Caesar, Mecaenas, and Agrippa.>
 </STAGE DIR>
 <MARK ANTONY>	<19%>
 	If we compose well here, to Parthia:
 	Hark ye, Ventidius.
 </MARK ANTONY>
 
-<CÆSAR>	<19%>
+<CAESAR>	<19%>
 	I do not know,
-	Mecænas; ask Agrippa.
-</CÆSAR>
+	Mecaenas; ask Agrippa.
+</CAESAR>
 
 <LEPIDUS>	<19%>
 	Noble friends,
@@ -1434,62 +1434,62 @@
 	I should do thus.
 </MARK ANTONY>
 
-<CÆSAR>	<19%>
+<CAESAR>	<19%>
 	Welcome to Rome.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<19%>
 	Thank you.
 </MARK ANTONY>
 
-<CÆSAR>	<19%>
+<CAESAR>	<19%>
 	Sit.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<19%>
 	Sit, sir.
 </MARK ANTONY>
 
-<CÆSAR>	<19%>
+<CAESAR>	<19%>
 	Nay, then.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<19%>
 	I learn, you take things ill which are not so,
 	Or being, concern you not.
 </MARK ANTONY>
 
-<CÆSAR>	<19%>
+<CAESAR>	<19%>
 	I must be laugh'd at
 	If, or for nothing or a little, I
 	Should say myself offended, and with you
 	Chiefly i' the world; more laugh'd at that I should
 	Once name you derogately, when to sound your name
 	It not concern'd me.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<19%>
-	My being in Egypt, Cæsar,
+	My being in Egypt, Caesar,
 	What was 't to you?
 </MARK ANTONY>
 
-<CÆSAR>	<19%>
+<CAESAR>	<19%>
 	No more than my residing here at Rome
 	Might be to you in Egypt; yet, if you there
 	Did practise on my state, your being in Egypt
 	Might be my question.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<20%>
 	How intend you, practis'd?
 </MARK ANTONY>
 
-<CÆSAR>	<20%>
+<CAESAR>	<20%>
 	You may be pleas'd to catch at mine intent
 	By what did here befall me. Your wife and brother
 	Made wars upon me, and their contestation
 	Was theme for you, you were the word of war.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<20%>
 	You do mistake your business; my brother never
@@ -1504,11 +1504,11 @@
 	It must not be with this.
 </MARK ANTONY>
 
-<CÆSAR>	<20%>
+<CAESAR>	<20%>
 	You praise yourself
 	By laying defects of judgment to me, but
 	You patch'd up your excuses.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<20%>
 	Not so, not so;
@@ -1527,19 +1527,19 @@
 </ENOBARBUS>
 
 <MARK ANTONY>	<20%>
-	So much uncurbable, her garboils, Cæsar,
+	So much uncurbable, her garboils, Caesar,
 	Made out of her impatience,—which not wanted
 	Shrewdness of policy too,—I grieving grant
 	Did you too much disquiet; for that you must
 	But say I could not help it.
 </MARK ANTONY>
 
-<CÆSAR>	<21%>
+<CAESAR>	<21%>
 	I wrote to you
 	When rioting in Alexandria; you
 	Did pocket up my letters, and with taunts
 	Did gibe my missive out of audience.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<21%>
 	Sir,
@@ -1552,28 +1552,28 @@
 	Out of our question wipe him.
 </MARK ANTONY>
 
-<CÆSAR>	<21%>
+<CAESAR>	<21%>
 	You have broken
 	The article of your oath, which you shall never
 	Have tongue to charge me with.
-</CÆSAR>
+</CAESAR>
 
 <LEPIDUS>	<21%>
-	Soft, Cæsar!
+	Soft, Caesar!
 </LEPIDUS>
 
 <MARK ANTONY>	<21%>
 	No,
 	Lepidus, let him speak:
 	The honour's sacred which he talks on now,
-	Supposing that I lack'd it. But on, Cæsar;
+	Supposing that I lack'd it. But on, Caesar;
 	The article of my oath.
 </MARK ANTONY>
 
-<CÆSAR>	<21%>
+<CAESAR>	<21%>
 	To lend me arms and aid when I requir'd them,
 	The which you both denied.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<21%>
 	Neglected, rather;
@@ -1592,15 +1592,15 @@
 	'Tis noble spoken.
 </LEPIDUS>
 
-<MECÆNAS>	<21%>
+<MECAENAS>	<21%>
 	If it might please you, to enforce no further
 	The griefs between ye: to forget them quite
 	Were to remember that the present need
 	Speaks to atone you.
-</MECÆNAS>
+</MECAENAS>
 
 <LEPIDUS>	<21%>
-	Worthily spoken, Mecænas.
+	Worthily spoken, Mecaenas.
 </LEPIDUS>
 
 <ENOBARBUS>	<21%>
@@ -1623,22 +1623,22 @@
 	Go to, then; your considerate stone.
 </ENOBARBUS>
 
-<CÆSAR>	<22%>
+<CAESAR>	<22%>
 	I do not much dislike the matter, but
 	The manner of his speech; for it cannot be
 	We shall remain in friendship, our conditions
 	So differing in their acts. Yet, if I knew
 	What hoop should hold us stanch, from edge to edge
 	O' the world I would pursue it.
-</CÆSAR>
+</CAESAR>
 
 <AGRIPPA>	<22%>
-	Give me leave, Cæsar.
+	Give me leave, Caesar.
 </AGRIPPA>
 
-<CÆSAR>	<22%>
+<CAESAR>	<22%>
 	Speak, Agrippa.
-</CÆSAR>
+</CAESAR>
 
 <AGRIPPA>	<22%>
 	Thou hast a sister by the mother's side,
@@ -1646,14 +1646,14 @@
 	Is now a widower.
 </AGRIPPA>
 
-<CÆSAR>	<22%>
+<CAESAR>	<22%>
 	Say not so, Agrippa:
 	If Cleopatra heard you, your reproof
 	Were well deserv'd of rashness.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<22%>
-	I am not married, Cæsar; let me hear
+	I am not married, Caesar; let me hear
 	Agrippa further speak.
 </MARK ANTONY>
 
@@ -1676,13 +1676,13 @@
 </AGRIPPA>
 
 <MARK ANTONY>	<22%>
-	Will Cæsar speak?
+	Will Caesar speak?
 </MARK ANTONY>
 
-<CÆSAR>	<22%>
+<CAESAR>	<22%>
 	Not till he hears how Antony is touch'd
 	With what is spoke already.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<23%>
 	What power is in Agrippa,
@@ -1690,10 +1690,10 @@
 	To make this good?
 </MARK ANTONY>
 
-<CÆSAR>	<23%>
-	The power of Cæsar, and
+<CAESAR>	<23%>
+	The power of Caesar, and
 	His power unto Octavia.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<23%>
 	May I never
@@ -1704,13 +1704,13 @@
 	And sway our great designs!
 </MARK ANTONY>
 
-<CÆSAR>	<23%>
+<CAESAR>	<23%>
 	There is my hand.
 	A sister I bequeath you, whom no brother
 	Did ever love so dearly; let her live
 	To join our kingdoms and our hearts, and never
 	Fly off our loves again!
-</CÆSAR>
+</CAESAR>
 
 <LEPIDUS>	<23%>
 	Happily, amen!
@@ -1734,19 +1734,19 @@
 	Where lies he?
 </MARK ANTONY>
 
-<CÆSAR>	<23%>
+<CAESAR>	<23%>
 	About the Mount Misenum.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<23%>
 	What's his strength
 	By land?
 </MARK ANTONY>
 
-<CÆSAR>	<23%>
+<CAESAR>	<23%>
 	Great and increasing; but by sea
 	He is an absolute master.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<23%>
 	So is the fame.
@@ -1755,11 +1755,11 @@
 	The business we have talk'd of.
 </MARK ANTONY>
 
-<CÆSAR>	<23%>
+<CAESAR>	<23%>
 	With most gladness;
 	And do invite you to my sister's view,
 	Whither straight I'll lead you.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<23%>
 	Let us, Lepidus,
@@ -1771,41 +1771,41 @@
 	Not sickness should detain me.
 </LEPIDUS>
 <STAGE DIR>
-<Flourish. Exeunt Cæsar, Antony, and Lepidus.>
+<Flourish. Exeunt Caesar, Antony, and Lepidus.>
 </STAGE DIR>
 
-<MECÆNAS>	<23%>
+<MECAENAS>	<23%>
 	Welcome from Egypt, sir.
-</MECÆNAS>
+</MECAENAS>
 
 <ENOBARBUS>	<23%>
-	Half the heart of Cæsar, worthy Mecænas! My honourable friend, Agrippa!
+	Half the heart of Caesar, worthy Mecaenas! My honourable friend, Agrippa!
 </ENOBARBUS>
 
 <AGRIPPA>	<24%>
 	Good Enobarbus!
 </AGRIPPA>
 
-<MECÆNAS>	<24%>
+<MECAENAS>	<24%>
 	We have cause to be glad that matters are so well digested. You stayed well by 't in
 	Egypt.
-</MECÆNAS>
+</MECAENAS>
 
 <ENOBARBUS>	<24%>
 	Ay, sir; we did sleep day out of countenance, and made the night light with drinking.
 </ENOBARBUS>
 
-<MECÆNAS>	<24%>
+<MECAENAS>	<24%>
 	Eight wild boars roasted whole at a breakfast, and but twelve persons there; is this true?
-</MECÆNAS>
+</MECAENAS>
 
 <ENOBARBUS>	<24%>
 	This was but as a fly by an eagle; we had much more monstrous matter of feast, which worthily deserved noting.
 </ENOBARBUS>
 
-<MECÆNAS>	<24%>
+<MECAENAS>	<24%>
 	She's a most triumphant lady, if report be square to her.
-</MECÆNAS>
+</MECAENAS>
 
 <ENOBARBUS>	<24%>
 	When she first met Mark Antony she pursed up his heart, upon the river of Cydnus.
@@ -1871,7 +1871,7 @@
 
 <AGRIPPA>	<25%>
 	Royal wench!
-	She made great Cæsar lay his sword to bed;
+	She made great Caesar lay his sword to bed;
 	He plough'd her, and she cropp'd.
 </AGRIPPA>
 
@@ -1883,9 +1883,9 @@
 	And, breathless, power breathe forth.
 </ENOBARBUS>
 
-<MECÆNAS>	<25%>
+<MECAENAS>	<25%>
 	Now Antony must leave her utterly.
-</MECÆNAS>
+</MECAENAS>
 
 <ENOBARBUS>	<25%>
 	Never; he will not:
@@ -1897,11 +1897,11 @@
 	Bless her when she is riggish.
 </ENOBARBUS>
 
-<MECÆNAS>	<25%>
+<MECAENAS>	<25%>
 	If beauty, wisdom, modesty, can settle
 	The heart of Antony, Octavia is
 	A blessed lottery to him.
-</MECÆNAS>
+</MECAENAS>
 
 <AGRIPPA>	<25%>
 	Let us go.
@@ -1920,9 +1920,9 @@
 
 
 <SCENE 3>
-<The Same A Room in Cæsar's House.>
+<The Same A Room in Caesar's House.>
 <STAGE DIR>
-<Enter Cæsar, Antony, Octavia between them; Attendants.>
+<Enter Caesar, Antony, Octavia between them; Attendants.>
 </STAGE DIR>
 <MARK ANTONY>	<26%>
 	The world and my great office will sometimes
@@ -1946,13 +1946,13 @@
 	Good night, sir.
 </OCTAVIA>
 
-<CÆSAR>	<26%>
+<CAESAR>	<26%>
 	Good night.
 <STAGE DIR>
-<Exeunt Cæsar and Octavia.>
+<Exeunt Caesar and Octavia.>
 </STAGE DIR>
 
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Enter Soothsayer.>
 </STAGE DIR>
@@ -1977,15 +1977,15 @@
 
 <MARK ANTONY>	<26%>
 	Say to me,
-	Whose fortunes shall rise higher, Cæsar's or mine?
+	Whose fortunes shall rise higher, Caesar's or mine?
 </MARK ANTONY>
 
 <SOOTHSAYER>	<26%>
-	Cæsar's.
+	Caesar's.
 	Therefore, O Antony! stay not by his side;
 	Thy demon—that's thy spirit which keeps thee,—is
 	Noble, courageous, high, unmatchable,
-	Where Cæsar's is not; but near him thy angel
+	Where Caesar's is not; but near him thy angel
 	Becomes a fear, as being o'erpower'd; therefore
 	Make space enough between you.
 </SOOTHSAYER>
@@ -2038,7 +2038,7 @@
 <SCENE 4>
 <The Same. A Street.>
 <STAGE DIR>
-<Enter Lepidus, Mecænas, and Agrippa.>
+<Enter Lepidus, Mecaenas, and Agrippa.>
 </STAGE DIR>
 <LEPIDUS>	<27%>
 	Trouble yourselves no further; pray you hasten
@@ -2055,11 +2055,11 @@
 	Which will become you both, farewell.
 </LEPIDUS>
 
-<MECÆNAS>	<27%>
+<MECAENAS>	<27%>
 	We shall,
 	As I conceive the journey, be at the Mount
 	Before you, Lepidus.
-</MECÆNAS>
+</MECAENAS>
 
 <LEPIDUS>	<27%>
 	Your way is shorter;
@@ -2067,9 +2067,9 @@
 	You 'll win two days upon me.
 </LEPIDUS>
 
-<MECÆNAS>	<27%>
+<MECAENAS>	<27%>
 	Sir, good success!
-</MECÆNAS>
+</MECAENAS>
 
 <AGRIPPA>	<27%>
 	Sir, good success!
@@ -2196,7 +2196,7 @@
 <CLEOPATRA>	<29%>
 	I have a mind to strike thee ere thou speak'st:
 	Yet, if thou say Antony lives, is well,
-	Or friends with Cæsar, or not captive to him,
+	Or friends with Caesar, or not captive to him,
 	I'll set thee in a shower of gold, and hail
 	Rich pearls upon thee.
 </CLEOPATRA>
@@ -2210,7 +2210,7 @@
 </CLEOPATRA>
 
 <MESSENGER>	<29%>
-	And friends with Cæsar.
+	And friends with Caesar.
 </MESSENGER>
 
 <CLEOPATRA>	<29%>
@@ -2218,7 +2218,7 @@
 </CLEOPATRA>
 
 <MESSENGER>	<29%>
-	Cæsar and he are greater friends than ever.
+	Caesar and he are greater friends than ever.
 </MESSENGER>
 
 <CLEOPATRA>	<29%>
@@ -2235,7 +2235,7 @@
 	'But yet' is as a gaoler to bring forth
 	Some monstrous malefactor. Prithee, friend,
 	Pour out the pack of matter to mine ear,
-	The good and bad together. He's friends with Cæsar;
+	The good and bad together. He's friends with Caesar;
 	In state of health, thou sayst; and thou sayst, free.
 </CLEOPATRA>
 
@@ -2411,7 +2411,7 @@
 </CHARMIAN>
 
 <CLEOPATRA>	<31%>
-	In praising Antony I have disprais'd Cæsar.
+	In praising Antony I have disprais'd Caesar.
 </CLEOPATRA>
 
 <CHARMIAN>	<31%>
@@ -2448,15 +2448,15 @@
 <Near Misenum.>
 <STAGE DIR>
 <Flourish. Enter Pompey and Menas, at one side, with...>
-<... drum and trumpet; at the other, Cæsar, Antony,...>
-<... Lepidus, Enobarbus, Mecænas, with Soldiers marching.>
+<... drum and trumpet; at the other, Caesar, Antony,...>
+<... Lepidus, Enobarbus, Mecaenas, with Soldiers marching.>
 </STAGE DIR>
 <POMPEIUS>	<32%>
 	Your hostages I have, so have you mine;
 	And we shall talk before we fight.
 </POMPEIUS>
 
-<CÆSAR>	<32%>
+<CAESAR>	<32%>
 	Most meet
 	That first we come to words, and therefore have we
 	Our written purposes before us sent;
@@ -2464,14 +2464,14 @@
 	If 'twill tie up thy discontented sword,
 	And carry back to Sicily much tall youth
 	That else must perish here.
-</CÆSAR>
+</CAESAR>
 
 <POMPEIUS>	<32%>
 	To you all three,
 	The senators alone of this great world,
 	Chief factors for the gods, I do not know
 	Wherefore my father should revengers want,
-	Having a son and friends; since Julius Cæsar,
+	Having a son and friends; since Julius Caesar,
 	Who at Philippi the good Brutus ghosted,
 	There saw you labouring for him. What was 't
 	That mov'd pale Cassius to conspire? and what
@@ -2485,9 +2485,9 @@
 	Cast on my noble father.
 </POMPEIUS>
 
-<CÆSAR>	<32%>
+<CAESAR>	<32%>
 	Take your time.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<32%>
 	Thou canst not fear us, Pompey, with thy sails;
@@ -2508,19 +2508,19 @@
 	The offers we have sent you.
 </LEPIDUS>
 
-<CÆSAR>	<33%>
+<CAESAR>	<33%>
 	There's the point.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<33%>
 	Which do not be entreated to, but weigh
 	What it is worth embrac'd.
 </MARK ANTONY>
 
-<CÆSAR>	<33%>
+<CAESAR>	<33%>
 	And what may follow,
 	To try a larger fortune.
-</CÆSAR>
+</CAESAR>
 
 <POMPEIUS>	<33%>
 	You have made me offer
@@ -2531,9 +2531,9 @@
 	Our targets undinted.
 </POMPEIUS>
 
-<CÆSAR>	<33%>
+<CAESAR>	<33%>
 	That's our offer.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<33%>
 	That's our offer.
@@ -2549,7 +2549,7 @@
 	To take this offer; but Mark Antony
 	Put me to some impatience. Though I lose
 	The praise of it by telling, you must know,
-	When Cæsar and your brother were at blows,
+	When Caesar and your brother were at blows,
 	Your mother came to Sicily and did find
 	Her welcome friendly.
 </POMPEIUS>
@@ -2571,10 +2571,10 @@
 	For I have gain'd by 't.
 </MARK ANTONY>
 
-<CÆSAR>	<33%>
+<CAESAR>	<33%>
 	Since I saw you last,
 	There is a change upon you.
-</CÆSAR>
+</CAESAR>
 
 <POMPEIUS>	<33%>
 	Well, I know not
@@ -2593,9 +2593,9 @@
 	And seal'd between us.
 </POMPEIUS>
 
-<CÆSAR>	<34%>
+<CAESAR>	<34%>
 	That 's the next to do.
-</CÆSAR>
+</CAESAR>
 
 <POMPEIUS>	<34%>
 	We'll feast each other ere we part; and let's
@@ -2609,7 +2609,7 @@
 <POMPEIUS>	<34%>
 	No, Antony, take the lot:
 	But, first or last, your fine Egyptian cookery
-	Shall have the fame. I have heard that Julius Cæsar
+	Shall have the fame. I have heard that Julius Caesar
 	Grew fat with feasting there.
 </POMPEIUS>
 
@@ -2639,7 +2639,7 @@
 </POMPEIUS>
 
 <ENOBARBUS>	<34%>
-	A certain queen to Cæsar in a mattress.
+	A certain queen to Caesar in a mattress.
 </ENOBARBUS>
 
 <POMPEIUS>	<34%>
@@ -2672,9 +2672,9 @@
 	Will you lead, lords?
 </POMPEIUS>
 
-<CÆSAR>	<34%>
+<CAESAR>	<34%>
 	Show us the way, sir.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<34%>
 	Show us the way, sir.
@@ -2760,7 +2760,7 @@
 </MENAS>
 
 <ENOBARBUS>	<35%>
-	Cæsar's sister is called Octavia.
+	Caesar's sister is called Octavia.
 </ENOBARBUS>
 
 <MENAS>	<35%>
@@ -2780,7 +2780,7 @@
 </ENOBARBUS>
 
 <MENAS>	<35%>
-	Then is Cæsar and he for ever knit together.
+	Then is Caesar and he for ever knit together.
 </MENAS>
 
 <ENOBARBUS>	<35%>
@@ -2800,7 +2800,7 @@
 </MENAS>
 
 <ENOBARBUS>	<35%>
-	Not he that himself is not so; which is Mark Antony. He will to his Egyptian dish again; then, shall the sighs of Octavia blow the fire up in Cæsar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance. Antony will use his affection where it is; he married but his occasion here.
+	Not he that himself is not so; which is Mark Antony. He will to his Egyptian dish again; then, shall the sighs of Octavia blow the fire up in Caesar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance. Antony will use his affection where it is; he married but his occasion here.
 </ENOBARBUS>
 
 <MENAS>	<36%>
@@ -2855,8 +2855,8 @@
 
 </SERVANT 1>
 <STAGE DIR>
-<A sennet sounded. Enter Cæsar, Antony, Lepidus, Pompey,...>
-<... Agrippa, Mecænas, Enobarbus, Menas, with other Captains.>
+<A sennet sounded. Enter Caesar, Antony, Lepidus, Pompey,...>
+<... Agrippa, Mecaenas, Enobarbus, Menas, with other Captains.>
 </STAGE DIR>
 <MARK ANTONY>	<36%>
 	Thus do they, sir. They take the flow o' the Nile
@@ -2942,9 +2942,9 @@
 	'Tis so; and the tears of it are wet.
 </MARK ANTONY>
 
-<CÆSAR>	<37%>
+<CAESAR>	<37%>
 	Will this description satisfy him?
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<37%>
 	With the health that Pompey gives him, else he is a very epicure.
@@ -3099,24 +3099,24 @@
 
 <MARK ANTONY>	<39%>
 	It ripens towards it. Strike the vessels, ho!
-	Here is to Cæsar!
+	Here is to Caesar!
 </MARK ANTONY>
 
-<CÆSAR>	<39%>
+<CAESAR>	<39%>
 	I could well forbear't.
 	It's monstrous labour, when I wash my brain,
 	And it grows fouler.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<39%>
 	Be a child o' the time.
 </MARK ANTONY>
 
-<CÆSAR>	<39%>
+<CAESAR>	<39%>
 	Possess it, I'll make answer;
 	But I had rather fast from all four days
 	Than drink so much in one.
-</CÆSAR>
+</CAESAR>
 
 <ENOBARBUS>	<39%>
 <STAGE DIR>
@@ -3158,7 +3158,7 @@
 	Cup us, till the world go round!
 </ENOBARBUS>
 
-<CÆSAR>	<40%>
+<CAESAR>	<40%>
 	What would you more? Pompey, good night. Good brother,
 	Let me request you off; our graver business
 	Frowns at this levity. Gentle lords, let's part;
@@ -3167,7 +3167,7 @@
 	Splits what it speaks; the wild disguise hath almost
 	Antick'd us all. What needs more words? Good night.
 	Good Antony, your hand.
-</CÆSAR>
+</CAESAR>
 
 <POMPEIUS>	<40%>
 	I'll try you on the shore.
@@ -3186,7 +3186,7 @@
 <ENOBARBUS>	<40%>
 	Take heed you fall not.
 <STAGE DIR>
-<Exeunt Pompey, Cæsar, Antony, and Attendants.>
+<Exeunt Pompey, Caesar, Antony, and Attendants.>
 </STAGE DIR>
 	Menas, I'll not on shore.
 </ENOBARBUS>
@@ -3250,7 +3250,7 @@
 	May make too great an act; for learn this, Silius,
 	Better to leave undone than by our deed
 	Acquire too high a fame when him we serve's away.
-	Cæsar and Antony have ever won
+	Caesar and Antony have ever won
 	More in their officer than person; Sossius,
 	One of my place in Syria, his lieutenant,
 	For quick accumulation of renown,
@@ -3295,7 +3295,7 @@
 
 
 <SCENE 2>
-<Rome. A Room in Cæsar's House.>
+<Rome. A Room in Caesar's House.>
 <STAGE DIR>
 <Enter Agrippa and Enobarbus, meeting.>
 </STAGE DIR>
@@ -3306,7 +3306,7 @@
 <ENOBARBUS>	<42%>
 	They have dispatch'd with Pompey; he is gone;
 	The other three are sealing. Octavia weeps
-	To part from Rome; Cæsar is sad; and Lepidus,
+	To part from Rome; Caesar is sad; and Lepidus,
 	Since Pompey's feast, as Menas says, is troubled
 	With the green sickness.
 </ENOBARBUS>
@@ -3316,7 +3316,7 @@
 </AGRIPPA>
 
 <ENOBARBUS>	<42%>
-	A very fine one. O! how he loves Cæsar.
+	A very fine one. O! how he loves Caesar.
 </ENOBARBUS>
 
 <AGRIPPA>	<42%>
@@ -3324,7 +3324,7 @@
 </AGRIPPA>
 
 <ENOBARBUS>	<42%>
-	Cæsar? Why, he's the Jupiter of men.
+	Caesar? Why, he's the Jupiter of men.
 </ENOBARBUS>
 
 <AGRIPPA>	<42%>
@@ -3332,7 +3332,7 @@
 </AGRIPPA>
 
 <ENOBARBUS>	<42%>
-	Spake you of Cæsar? How! the non-pareil!
+	Spake you of Caesar? How! the non-pareil!
 </ENOBARBUS>
 
 <AGRIPPA>	<42%>
@@ -3340,7 +3340,7 @@
 </AGRIPPA>
 
 <ENOBARBUS>	<42%>
-	Would you praise Cæsar, say, 'Cæsar,' go no further.
+	Would you praise Caesar, say, 'Caesar,' go no further.
 </ENOBARBUS>
 
 <AGRIPPA>	<42%>
@@ -3348,10 +3348,10 @@
 </AGRIPPA>
 
 <ENOBARBUS>	<42%>
-	But he loves Cæsar best; yet he loves Antony.
+	But he loves Caesar best; yet he loves Antony.
 	Hoo! hearts, tongues, figures, scribes, bards, poets, cannot
 	Think, speak, cast, write, sing, number; hoo!
-	His love to Antony. But as for Cæsar,
+	His love to Antony. But as for Caesar,
 	Kneel down, kneel down, and wonder.
 </ENOBARBUS>
 
@@ -3372,13 +3372,13 @@
 
 </AGRIPPA>
 <STAGE DIR>
-<Enter Cæsar, Antony, Lepidus, and Octavia.>
+<Enter Caesar, Antony, Lepidus, and Octavia.>
 </STAGE DIR>
 <MARK ANTONY>	<42%>
 	No further, sir.
 </MARK ANTONY>
 
-<CÆSAR>	<42%>
+<CAESAR>	<42%>
 	You take from me a great part of myself;
 	Use me well in't. Sister, prove such a wife
 	As my thoughts make thee, and as my furthest band
@@ -3389,16 +3389,16 @@
 	The fortress of it; for better might we
 	Have lov'd without this mean, if on both parts
 	This be not cherish'd.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<43%>
 	Make me not offended
 	In your distrust.
 </MARK ANTONY>
 
-<CÆSAR>	<43%>
+<CAESAR>	<43%>
 	I have said.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<43%>
 	You shall not find,
@@ -3408,11 +3408,11 @@
 	We will here part.
 </MARK ANTONY>
 
-<CÆSAR>	<43%>
+<CAESAR>	<43%>
 	Farewell, my dearest sister, fare thee well:
 	The elements be kind to thee, and make
 	Thy spirits all of comfort! fare thee well.
-</CÆSAR>
+</CAESAR>
 
 <OCTAVIA>	<43%>
 	My noble brother!
@@ -3427,10 +3427,10 @@
 	Sir, look well to my husband's house; and—
 </OCTAVIA>
 
-<CÆSAR>	<43%>
+<CAESAR>	<43%>
 	What,
 	Octavia?
-</CÆSAR>
+</CAESAR>
 
 <OCTAVIA>	<43%>
 	I'll tell you in your ear.
@@ -3446,7 +3446,7 @@
 <ENOBARBUS>	<43%>
 <STAGE DIR>
 <Aside to Agrippa.>
-</STAGE DIR> Will Cæsar weep?
+</STAGE DIR> Will Caesar weep?
 </ENOBARBUS>
 
 <AGRIPPA>	<43%>
@@ -3460,7 +3460,7 @@
 
 <AGRIPPA>	<43%>
 	Why, Enobarbus,
-	When Antony found Julius Cæsar dead
+	When Antony found Julius Caesar dead
 	He cried almost to roaring; and he wept
 	When at Philippi he found Brutus slain.
 </AGRIPPA>
@@ -3471,11 +3471,11 @@
 	Believe 't, till I wept too.
 </ENOBARBUS>
 
-<CÆSAR>	<44%>
+<CAESAR>	<44%>
 	No, sweet Octavia,
 	You shall hear from me still; the time shall not
 	Out-go my thinking on you.
-</CÆSAR>
+</CAESAR>
 
 <MARK ANTONY>	<44%>
 	Come, sir, come;
@@ -3484,18 +3484,18 @@
 	And give you to the gods.
 </MARK ANTONY>
 
-<CÆSAR>	<44%>
+<CAESAR>	<44%>
 	Adieu; be happy!
-</CÆSAR>
+</CAESAR>
 
 <LEPIDUS>	<44%>
 	Let all the number of the stars give light
 	To thy fair way!
 </LEPIDUS>
 
-<CÆSAR>	<44%>
+<CAESAR>	<44%>
 	Farewell, farewell!
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Kisses Octavia.>
 </STAGE DIR>
@@ -3796,7 +3796,7 @@
 </ENOBARBUS>
 
 <EROS>	<47%>
-	Cæsar and Lepidus have made wars upon Pompey.
+	Caesar and Lepidus have made wars upon Pompey.
 </EROS>
 
 <ENOBARBUS>	<47%>
@@ -3804,7 +3804,7 @@
 </ENOBARBUS>
 
 <EROS>	<47%>
-	Cæsar, having made use of him in the wars 'gainst Pompey, presently denied him rivality, would not let him partake in the glory of the action; and not resting here, accuses him of letters he had formerly wrote to Pompey; upon his own appeal, seizes him: so the poor third is up, till death enlarge his confine.
+	Caesar, having made use of him in the wars 'gainst Pompey, presently denied him rivality, would not let him partake in the glory of the action; and not resting here, accuses him of letters he had formerly wrote to Pompey; upon his own appeal, seizes him: so the poor third is up, till death enlarge his confine.
 </EROS>
 
 <ENOBARBUS>	<47%>
@@ -3825,7 +3825,7 @@
 </ENOBARBUS>
 
 <EROS>	<47%>
-	For Italy and Cæsar. More, Domitius;
+	For Italy and Caesar. More, Domitius;
 	My lord desires you presently: my news
 	I might have told hereafter.
 </EROS>
@@ -3846,29 +3846,29 @@
 
 
 <SCENE 6>
-<Rome. A Room in Cæsar's House.>
+<Rome. A Room in Caesar's House.>
 <STAGE DIR>
-<Enter Cæsar, Agrippa, and Mecænas.>
+<Enter Caesar, Agrippa, and Mecaenas.>
 </STAGE DIR>
-<CÆSAR>	<48%>
+<CAESAR>	<48%>
 	Contemning Rome, he has done all this and more
 	In Alexandria; here's the manner of 't;
 	I' the market-place, on a tribunal silver'd,
 	Cleopatra and himself in chairs of gold
 	Were publicly enthron'd; at the feet sat
-	Cæsarion, whom they call my father's son,
+	Caesarion, whom they call my father's son,
 	And all the unlawful issue that their lust
 	Since then hath made between them. Unto her
 	He gave the 'stablishment of Egypt; made her
 	Of Lower Syria, Cyprus, Lydia,
 	Absolute queen.
-</CÆSAR>
+</CAESAR>
 
-<MECÆNAS>	<48%>
+<MECAENAS>	<48%>
 	This in the public eye?
-</MECÆNAS>
+</MECAENAS>
 
-<CÆSAR>	<48%>
+<CAESAR>	<48%>
 	I' the common show-place, where they exercise.
 	His sons he there proclaim'd the kings of kings;
 	Great Media, Parthia, and Armenia
@@ -3877,42 +3877,42 @@
 	In the habiliments of the goddess Isis
 	That day appear'd; and oft before gave audience,
 	As 'tis reported, so.
-</CÆSAR>
+</CAESAR>
 
-<MECÆNAS>	<48%>
+<MECAENAS>	<48%>
 	Let Rome be thus
 	Informed.
-</MECÆNAS>
+</MECAENAS>
 
 <AGRIPPA>	<48%>
 	Who, queasy with his insolence
 	Already, will their good thoughts call from him.
 </AGRIPPA>
 
-<CÆSAR>	<48%>
+<CAESAR>	<48%>
 	The people know it; and have now receiv'd
 	His accusations.
-</CÆSAR>
+</CAESAR>
 
 <AGRIPPA>	<48%>
 	Whom does he accuse?
 </AGRIPPA>
 
-<CÆSAR>	<48%>
-	Cæsar; and that, having in Sicily
+<CAESAR>	<48%>
+	Caesar; and that, having in Sicily
 	Sextus Pompeius spoil'd, we had not rated him
 	His part o' the isle; then does he say, he lent me
 	Some shipping unrestor'd; lastly, he frets
 	That Lepidus of the triumvirate
 	Should be depos'd; and, being, that we detain
 	All his revenue.
-</CÆSAR>
+</CAESAR>
 
 <AGRIPPA>	<48%>
 	Sir, this should be answer'd.
 </AGRIPPA>
 
-<CÆSAR>	<48%>
+<CAESAR>	<48%>
 	'Tis done already, and the messenger gone.
 	I have told him, Lepidus was grown too cruel;
 	That he his high authority abus'd,
@@ -3920,34 +3920,34 @@
 	I grant him part; but then, in his Armenia,
 	And other of his conquer'd kingdoms, I
 	Demand the like.
-</CÆSAR>
+</CAESAR>
 
-<MECÆNAS>	<49%>
+<MECAENAS>	<49%>
 	He'll never yield to that.
-</MECÆNAS>
+</MECAENAS>
 
-<CÆSAR>	<49%>
+<CAESAR>	<49%>
 	Nor must not then be yielded to in this.
 
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Enter Octavia, with her Train.>
 </STAGE DIR>
 <OCTAVIA>	<49%>
-	Hail, Cæsar, and my lord! hail, most dear Cæsar!
+	Hail, Caesar, and my lord! hail, most dear Caesar!
 </OCTAVIA>
 
-<CÆSAR>	<49%>
+<CAESAR>	<49%>
 	That ever I should call thee cast-away!
-</CÆSAR>
+</CAESAR>
 
 <OCTAVIA>	<49%>
 	You have not call'd me so, nor have you cause.
 </OCTAVIA>
 
-<CÆSAR>	<49%>
+<CAESAR>	<49%>
 	Why have you stol'n upon us thus? You come not
-	Like Cæsar's sister; the wife of Antony
+	Like Caesar's sister; the wife of Antony
 	Should have an army for an usher, and
 	The neighs of horse to tell of her approach
 	Long ere she did appear; the trees by the way
@@ -3960,7 +3960,7 @@
 	Is often left unlov'd: we should have met you
 	By sea and land, supplying every stage
 	With an augmented greeting.
-</CÆSAR>
+</CAESAR>
 
 <OCTAVIA>	<49%>
 	Good my lord,
@@ -3971,26 +3971,26 @@
 	His pardon for return.
 </OCTAVIA>
 
-<CÆSAR>	<49%>
+<CAESAR>	<49%>
 	Which soon he granted,
 	Being an obstruct 'tween his lust and him.
-</CÆSAR>
+</CAESAR>
 
 <OCTAVIA>	<49%>
 	Do not say so, my lord.
 </OCTAVIA>
 
-<CÆSAR>	<49%>
+<CAESAR>	<49%>
 	I have eyes upon him,
 	And his affairs come to me on the wind.
 	Where is he now?
-</CÆSAR>
+</CAESAR>
 
 <OCTAVIA>	<49%>
 	My lord, in Athens.
 </OCTAVIA>
 
-<CÆSAR>	<49%>
+<CAESAR>	<49%>
 	No, my most wrong'd sister; Cleopatra
 	Hath nodded him to her. He hath given his empire
 	Up to a whore; who now are levying
@@ -4003,7 +4003,7 @@
 	Of Comagene; Polemon and Amintas,
 	The Kings of Mede and Lycaonia,
 	With a more larger list of sceptres.
-</CÆSAR>
+</CAESAR>
 
 <OCTAVIA>	<50%>
 	Ay me, most wretched,
@@ -4011,7 +4011,7 @@
 	That do afflict each other!
 </OCTAVIA>
 
-<CÆSAR>	<50%>
+<CAESAR>	<50%>
 	Welcome hither:
 	Your letters did withhold our breaking forth,
 	Till we perceiv'd both how you were wrong led
@@ -4025,29 +4025,29 @@
 	To do you justice, make their ministers
 	Of us and those that love you. Best of comfort,
 	And ever welcome to us.
-</CÆSAR>
+</CAESAR>
 
 <AGRIPPA>	<50%>
 	Welcome, lady.
 </AGRIPPA>
 
-<MECÆNAS>	<50%>
+<MECAENAS>	<50%>
 	Welcome, dear madam.
 	Each heart in Rome does love and pity you;
 	Only the adulterous Antony, most large
 	In his abominations, turns you off,
 	And gives his potent regiment to a trull,
 	That noises it against us.
-</MECÆNAS>
+</MECAENAS>
 
 <OCTAVIA>	<50%>
 	Is it so, sir?
 </OCTAVIA>
 
-<CÆSAR>	<50%>
+<CAESAR>	<50%>
 	Most certain. Sister, welcome; pray you,
 	Be ever known to patience; my dearest sister!
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
@@ -4157,7 +4157,7 @@
 
 <CANIDIUS>	<52%>
 	Ay, and to wage his battle at Pharsalia,
-	Where Cæsar fought with Pompey; but these offers,
+	Where Caesar fought with Pompey; but these offers,
 	Which serve not for his vantage, he shakes off;
 	And so should you.
 </CANIDIUS>
@@ -4165,7 +4165,7 @@
 <ENOBARBUS>	<52%>
 	Your ships are not well mann'd;
 	Your mariners are muleters, reapers, people
-	Ingross'd by swift impress; in Cæsar's fleet
+	Ingross'd by swift impress; in Caesar's fleet
 	Are those that often have gainst Pompey fought:
 	Their ships are yare; yours, heavy. No disgrace
 	Shall fall you for refusing him at sea,
@@ -4192,13 +4192,13 @@
 </MARK ANTONY>
 
 <CLEOPATRA>	<52%>
-	I have sixty sails, Cæsar none better.
+	I have sixty sails, Caesar none better.
 </CLEOPATRA>
 
 <MARK ANTONY>	<52%>
 	Our overplus of shipping will we burn;
 	And with the rest, full-mann'd, from the head of Actium
-	Beat the approaching Cæsar. But if we fail,
+	Beat the approaching Caesar. But if we fail,
 	We then can do 't at land.
 
 </MARK ANTONY>
@@ -4208,7 +4208,7 @@
 	Thy business?
 <MESSENGER>	<52%>
 	The news is true, my lord; he is descried;
-	Cæsar has taken Toryne.
+	Caesar has taken Toryne.
 </MESSENGER>
 
 <MARK ANTONY>	<52%>
@@ -4256,8 +4256,8 @@
 
 <CANIDIUS>	<53%>
 	Marcus Octavius, Marcus Justeius,
-	Publicola, and Cælius, are for sea;
-	But we keep whole by land. This speed of Cæsar's
+	Publicola, and Caelius, are for sea;
+	But we keep whole by land. This speed of Caesar's
 	Carries beyond belief.
 </CANIDIUS>
 
@@ -4300,17 +4300,17 @@
 <SCENE 8>
 <A Plain near Actium.>
 <STAGE DIR>
-<Enter Cæsar, Taurus, Officers, and Others.>
+<Enter Caesar, Taurus, Officers, and Others.>
 </STAGE DIR>
-<CÆSAR>	<53%>
+<CAESAR>	<53%>
 	Taurus!
-</CÆSAR>
+</CAESAR>
 
 <TAURUS>	<53%>
 	My lord?
 </TAURUS>
 
-<CÆSAR>	<53%>
+<CAESAR>	<53%>
 	Strike not by land; keep whole: provoke not battle.
 	Till we have done at sea. Do not exceed
 	The prescript of this scroll: our fortune lies
@@ -4319,13 +4319,13 @@
 <Exeunt.>
 </STAGE DIR>
 
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Enter Antony and Enobarbus.>
 </STAGE DIR>
 <MARK ANTONY>	<53%>
 	Set we our squadrons on yond side o' the hill,
-	In eye of Cæsar's battle; from which place
+	In eye of Caesar's battle; from which place
 	We may the number of the ships behold,
 	And so proceed accordingly.
 <STAGE DIR>
@@ -4336,7 +4336,7 @@
 <STAGE DIR>
 <Enter Canidius, marching with his land army one way...>
 <... over the stage; and Taurus, the lieutenant of...>
-<... Cæsar, the other way. After their going in is heard the noise of a sea-fight.>
+<... Caesar, the other way. After their going in is heard the noise of a sea-fight.>
 </STAGE DIR>
 <STAGE DIR>
 <Alarum. Re-enter Enobarbus.>
@@ -4426,7 +4426,7 @@
 </SCARUS>
 
 <CANIDIUS>	<55%>
-	To Cæsar will I render
+	To Caesar will I render
 	My legions and my horse; six kings already
 	Show me the way of yielding.
 </CANIDIUS>
@@ -4452,7 +4452,7 @@
 	I am so lated in the world that I
 	Have lost my way for ever. I have a ship
 	Laden with gold; take that, divide it; fly,
-	And make your peace with Cæsar.
+	And make your peace with Caesar.
 </MARK ANTONY>
 
 <ATTENDANT>	<55%>
@@ -4621,17 +4621,17 @@
 
 </MARK ANTONY>
 <SCENE X.— >
-<Egypt. Cæsar's Camp.>
+<Egypt. Caesar's Camp.>
 <STAGE DIR>
-<Enter Cæsar, Dolabella, Thyreus, and Others.>
+<Enter Caesar, Dolabella, Thyreus, and Others.>
 </STAGE DIR>
-<CÆSAR>	<57%>
+<CAESAR>	<57%>
 	Let him appear that's come from Antony.
 	Know you him?
-</CÆSAR>
+</CAESAR>
 
 <DOLABELLA>	<57%>
-	Cæsar, 'tis his schoolmaster:
+	Caesar, 'tis his schoolmaster:
 	An argument that he is pluck'd, when hither
 	He sends so poor a pinion of his wing,
 	Which had superfluous kings for messengers
@@ -4641,9 +4641,9 @@
 <STAGE DIR>
 <Enter Euphronius.>
 </STAGE DIR>
-<CÆSAR>	<57%>
+<CAESAR>	<57%>
 	Approach, and speak.
-</CÆSAR>
+</CAESAR>
 
 <EUPHRONIUS>	<57%>
 	Such as I am, I come from Antony:
@@ -4652,9 +4652,9 @@
 	To his grand sea.
 </EUPHRONIUS>
 
-<CÆSAR>	<58%>
+<CAESAR>	<58%>
 	Be 't so. Declare thine office.
-</CÆSAR>
+</CAESAR>
 
 <EUPHRONIUS>	<58%>
 	Lord of his fortunes he salutes thee, and
@@ -4668,20 +4668,20 @@
 	Now hazarded to thy grace.
 </EUPHRONIUS>
 
-<CÆSAR>	<58%>
+<CAESAR>	<58%>
 	For Antony,
 	I have no ears to his request. The queen
 	Of audience nor desire shall fail, so she
 	From Egypt drive her all-disgraced friend,
 	Or take his life there; this if she perform,
 	She shall not sue unheard. So to them both.
-</CÆSAR>
+</CAESAR>
 
 <EUPHRONIUS>	<58%>
 	Fortune pursue thee!
 </EUPHRONIUS>
 
-<CÆSAR>	<58%>
+<CAESAR>	<58%>
 	Bring him through the bands.
 <STAGE DIR>
 <Exit Euphronius.>
@@ -4696,20 +4696,20 @@
 	In their best fortunes strong, but want will perjure
 	The ne'er-touch'd vestal. Try thy cunning, Thyreus;
 	Make thine own edict for thy pains, which we
-</CÆSAR>
+</CAESAR>
 	Will answer as a law.
 <THYREUS>	<58%>
-	Cæsar, I go.
+	Caesar, I go.
 </THYREUS>
 
-<CÆSAR>	<58%>
+<CAESAR>	<58%>
 	Observe how Antony becomes his flaw,
 	And what thou think'st his very action speaks
 	In every power that moves.
-</CÆSAR>
+</CAESAR>
 
 <THYREUS>	<58%>
-	Cæsar, I shall.
+	Caesar, I shall.
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
@@ -4771,7 +4771,7 @@
 
 <MARK ANTONY>	<59%>
 	Let her know't.
-	To the boy Cæsar send this grizzled head,
+	To the boy Caesar send this grizzled head,
 	And he will fill thy wishes to the brim
 	With principalities.
 </MARK ANTONY>
@@ -4786,7 +4786,7 @@
 	Something particular; his coin, ships, legions,
 	May be a coward's, whose ministers would prevail
 	Under the service of a child as soon
-	As i' the command of Cæsar: I dare him therefore
+	As i' the command of Caesar: I dare him therefore
 	To lay his gay comparisons apart,
 	And answer me declin'd, sword against sword,
 	Ourselves alone. I'll write it: follow me.
@@ -4798,14 +4798,14 @@
 <ENOBARBUS>	<59%>
 <STAGE DIR>
 <Aside.>
-</STAGE DIR> Yes, like enough, high-battled Cæsar will
+</STAGE DIR> Yes, like enough, high-battled Caesar will
 	Unstate his happiness, and be stag'd to the show
 	Against a sworder! I see men's judgments are
 	A parcel of their fortunes, and things outward
 	Do draw the inward quality after them,
 	To suffer all alike. That he should dream,
-	Knowing all measures, the full Cæsar will
-	Answer his emptiness! Cæsar, thou hast subdu'd
+	Knowing all measures, the full Caesar will
+	Answer his emptiness! Caesar, thou hast subdu'd
 	His judgment too.
 
 </ENOBARBUS>
@@ -4813,7 +4813,7 @@
 <Enter an Attendant.>
 </STAGE DIR>
 <ATTENDANT>	<60%>
-	A messenger from Cæsar.
+	A messenger from Caesar.
 </ATTENDANT>
 
 <CLEOPATRA>	<60%>
@@ -4840,7 +4840,7 @@
 <Enter Thyreus.>
 </STAGE DIR>
 <CLEOPATRA>	<60%>
-	Cæsar's will?
+	Caesar's will?
 </CLEOPATRA>
 
 <THYREUS>	<60%>
@@ -4856,17 +4856,17 @@
 </THYREUS>
 
 <ENOBARBUS>	<60%>
-	He needs as many, sir, as Cæsar has,
-	Or needs not us. If Cæsar please, our master
+	He needs as many, sir, as Caesar has,
+	Or needs not us. If Caesar please, our master
 	Will leap to be his friend; for us, you know
-	Whose he is we are, and that is Cæsar's.
+	Whose he is we are, and that is Caesar's.
 </ENOBARBUS>
 
 <THYREUS>	<60%>
 	So.
-	Thus then, thou most renown'd: Cæsar entreats,
+	Thus then, thou most renown'd: Caesar entreats,
 	Not to consider in what case thou stand'st,
-	Further than he is Cæsar.
+	Further than he is Caesar.
 </THYREUS>
 
 <CLEOPATRA>	<60%>
@@ -4907,7 +4907,7 @@
 </STAGE DIR>
 
 <THYREUS>	<61%>
-	Shall I say to Cæsar
+	Shall I say to Caesar
 	What you require of him? for he partly begs
 	To be desir'd to give. It much would please him,
 	That of his fortunes you should make a staff
@@ -4927,7 +4927,7 @@
 
 <CLEOPATRA>	<61%>
 	Most kind messenger,
-	Say to great Cæsar this: in deputation
+	Say to great Caesar this: in deputation
 	I kiss his conqu'ring hand; tell him, I am prompt
 	To lay my crown at 's feet, and there to kneel;
 	Tell him, from his all-obeying breath I hear
@@ -4943,7 +4943,7 @@
 </THYREUS>
 
 <CLEOPATRA>	<61%>
-	Your Cæsar's father oft,
+	Your Caesar's father oft,
 	When he hath mus'd of taking kingdoms in,
 	Bestow'd his lips on that unworthy place,
 	As it rain'd kisses.
@@ -4991,7 +4991,7 @@
 <MARK ANTONY>	<62%>
 	Moon and stars!
 	Whip him. Were't twenty of the greatest tributaries
-	That do acknowledge Cæsar, should I find them
+	That do acknowledge Caesar, should I find them
 	So saucy with the hand of—she here, what's her name,
 	Since she was Cleopatra? Whip him, fellows,
 	Till, like a boy, you see him cringe his face
@@ -5004,7 +5004,7 @@
 
 <MARK ANTONY>	<62%>
 	Tug him away; being whipp'd,
-	Bring him again; this Jack of Cæsar's shall
+	Bring him again; this Jack of Caesar's shall
 	Bear us an errand to him.
 <STAGE DIR>
 <Exeunt Attendants with Thyreus.>
@@ -5035,7 +5035,7 @@
 
 <MARK ANTONY>	<62%>
 	I found you as a morsel, cold upon
-	Dead Cæsar's trencher; nay, you were a fragment
+	Dead Caesar's trencher; nay, you were a fragment
 	Of Cneius Pompey's; besides what hotter hours,
 	Unregister'd in vulgar fame, you have
 	Luxuriously pick'd out; for, I am sure,
@@ -5078,10 +5078,10 @@
 <MARK ANTONY>	<63%>
 	If that thy father live, let him repent
 	Thou wast not made his daughter; and be thou sorry
-	To follow Cæsar in his triumph, since
+	To follow Caesar in his triumph, since
 	Thou hast been whipp'd for following him: henceforth,
 	The white hand of a lady fever thee,
-	Shake thou to look on 't. Get thee back to Cæsar,
+	Shake thou to look on 't. Get thee back to Caesar,
 	Tell him thy entertainment; look, thou say
 	He makes me angry with him; for he seems
 	Proud and disdainful, harping on what I am,
@@ -5115,7 +5115,7 @@
 </CLEOPATRA>
 
 <MARK ANTONY>	<64%>
-	To flatter Cæsar, would you mingle eyes
+	To flatter Caesar, would you mingle eyes
 	With one that ties his points?
 </MARK ANTONY>
 
@@ -5132,7 +5132,7 @@
 	From my cold heart let heaven engender hail,
 	And poison it in the source; and the first stone
 	Drop in my neck: as it determines, so
-	Dissolve my life. The next Cæsarion smite,
+	Dissolve my life. The next Caesarion smite,
 	Till by degrees the memory of my womb,
 	Together with my brave Egyptians all,
 	By the discandying of this pelleted storm,
@@ -5142,7 +5142,7 @@
 
 <MARK ANTONY>	<64%>
 	I am satisfied.
-	Cæsar sits down in Alexandria, where
+	Caesar sits down in Alexandria, where
 	I will oppose his fate. Our force by land
 	Hath nobly held; our sever'd navy too
 	Have knit again, and fleet, threat'ning most sea-like.
@@ -5215,28 +5215,28 @@
 
 
 <SCENE 1>
-<Before Alexandria. Cæsar's Camp.>
+<Before Alexandria. Caesar's Camp.>
 <STAGE DIR>
-<Enter Cæsar, reading a letter; Agrippa, Mecænas, and Others.>
+<Enter Caesar, reading a letter; Agrippa, Mecaenas, and Others.>
 </STAGE DIR>
-<CÆSAR>	<65%>
+<CAESAR>	<65%>
 	He calls me boy, and chides as he had power
 	To beat me out of Egypt; my messenger
 	He hath whipp'd with rods; dares me to personal combat,
-	Cæsar to Antony. Let the old ruffian know
+	Caesar to Antony. Let the old ruffian know
 	I have many other ways to die; meantime
 	Laugh at his challenge.
-</CÆSAR>
+</CAESAR>
 
-<MECÆNAS>	<65%>
-	Cæsar must think,
+<MECAENAS>	<65%>
+	Caesar must think,
 	When one so great begins to rage, he's hunted
 	Even to falling. Give him no breath, but now
 	Make boot of his distraction: never anger
 	Made good guard for itself.
-</MECÆNAS>
+</MECAENAS>
 
-<CÆSAR>	<65%>
+<CAESAR>	<65%>
 	Let our best heads
 	Know that to-morrow the last of many battles
 	We mean to fight. Within our files there are,
@@ -5244,7 +5244,7 @@
 	Enough to fetch him in. See it done;
 	And feast the army; we have store to do 't,
 	And they have earn'd the waste. Poor Antony!
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
@@ -5630,7 +5630,7 @@
 
 <CLEOPATRA>	<70%>
 	Lead me.
-	He goes forth gallantly. That he and Cæsar might
+	He goes forth gallantly. That he and Caesar might
 	Determine this great war in single fight!
 	Then, Antony,—but now.—Well, on.
 </CLEOPATRA>
@@ -5669,7 +5669,7 @@
 <SOLDIER>	<70%>
 	Who!
 	One ever near thee: call for Enobarbus,
-	He shall not hear thee; or from Cæsar's camp
+	He shall not hear thee; or from Caesar's camp
 	Say, 'I am none of thine.'
 </SOLDIER>
 
@@ -5679,7 +5679,7 @@
 
 <SOLDIER>	<70%>
 	Sir,
-	He is with Cæsar.
+	He is with Caesar.
 </SOLDIER>
 
 <EROS>	<70%>
@@ -5711,29 +5711,29 @@
 
 
 <SCENE 6>
-<Before Alexandria. Cæsar's Camp.>
+<Before Alexandria. Caesar's Camp.>
 <STAGE DIR>
-<Flourish. Enter Cæsar, with Agrippa, Enobarbus, and Others.>
+<Flourish. Enter Caesar, with Agrippa, Enobarbus, and Others.>
 </STAGE DIR>
-<CÆSAR>	<71%>
+<CAESAR>	<71%>
 	Go forth, Agrippa, and begin the fight:
 	Our will is Antony be took alive;
 	Make it so known.
-</CÆSAR>
+</CAESAR>
 
 <AGRIPPA>	<71%>
-	Cæsar, I shall.
+	Caesar, I shall.
 </AGRIPPA>
 <STAGE DIR>
 <Exit.>
 </STAGE DIR>
 
-<CÆSAR>	<71%>
+<CAESAR>	<71%>
 	The time of universal peace is near:
 	Prove this a prosperous day, the three-nook'd world
 	Shall bear the olive freely.
 
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Enter a Messenger.>
 </STAGE DIR>
@@ -5742,22 +5742,22 @@
 	Is come into the field.
 </MESSENGER>
 
-<CÆSAR>	<71%>
+<CAESAR>	<71%>
 	Go charge Agrippa
 	Plant those that have revolted in the van,
 	That Antony may seem to spend his fury
 	Upon himself.
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
-<Exeunt Cæsar and his Train.>
+<Exeunt Caesar and his Train.>
 </STAGE DIR>
 
 <ENOBARBUS>	<71%>
 	Alexas did revolt, and went to Jewry on
 	Affairs of Antony; there did persuade
-	Great Herod to incline himself to Cæsar,
+	Great Herod to incline himself to Caesar,
 	And leave his master Antony: for this pains
-	Cæsar hath hang'd him. Canidius and the rest
+	Caesar hath hang'd him. Canidius and the rest
 	That fell away have entertainment, but
 	No honourable trust. I have done ill,
 	Of which I do accuse myself so sorely
@@ -5765,7 +5765,7 @@
 
 </ENOBARBUS>
 <STAGE DIR>
-<Enter a Soldier of Cæsar's.>
+<Enter a Soldier of Caesar's.>
 </STAGE DIR>
 <SOLDIER>	<71%>
 	Enobarbus, Antony
@@ -5816,7 +5816,7 @@
 </STAGE DIR>
 <AGRIPPA>	<72%>
 	Retire, we have engag'd ourselves too far.
-	Cæsar himself has work, and our oppression
+	Caesar himself has work, and our oppression
 	Exceeds what we expected.
 <STAGE DIR>
 <Exeunt.>
@@ -5952,7 +5952,7 @@
 
 </MARK ANTONY>
 <SCENE 1>
-<Cæsar's Camp.>
+<Caesar's Camp.>
 <STAGE DIR>
 <Sentinels on their post.>
 </STAGE DIR>
@@ -6023,7 +6023,7 @@
 
 <SOLDIER 1>	<75%>
 	Let's hear him, for the things he speaks
-	May concern Cæsar.
+	May concern Caesar.
 </SOLDIER 1>
 
 <SOLDIER 3>	<75%>
@@ -6094,9 +6094,9 @@
 
 </MARK ANTONY>
 <STAGE DIR>
-<Enter Cæsar, and his Forces, marching.>
+<Enter Caesar, and his Forces, marching.>
 </STAGE DIR>
-<CÆSAR>	<75%>
+<CAESAR>	<75%>
 	But being charg'd, we will be still by land,
 	Which, as I take 't, we shall; for his best force
 	Is forth to man his galleys. To the vales,
@@ -6105,7 +6105,7 @@
 <Exeunt.>
 </STAGE DIR>
 
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Re-enter Antony and Scarus.>
 </STAGE DIR>
@@ -6152,7 +6152,7 @@
 	Do we shake hands. All come to this? The hearts
 	That spaniel'd me at heels, to whom I gave
 	Their wishes, do discandy, melt their sweets
-	On blossoming Cæsar; and this pine is bark'd,
+	On blossoming Caesar; and this pine is bark'd,
 	That overtopp'd them all. Betray'd I am.
 	O this false soul of Egypt! this grave charm,
 	Whose eyes beck'd forth my wars, and call'd them home,
@@ -6172,7 +6172,7 @@
 
 <MARK ANTONY>	<77%>
 	Vanish, or I shall give thee thy deserving,
-	And blemish Cæsar's triumph. Let him take thee,
+	And blemish Caesar's triumph. Let him take thee,
 	And hoist thee up to the shouting plebeians;
 	Follow his chariot, like the greatest spot
 	Of all thy sex; most monster-like, be shown
@@ -6273,7 +6273,7 @@
 	Whose heart I thought I had, for she had mine,
 	Which whilst it was mine had annex'd unto 't
 	A million more, now lost; she, Eros, has
-	Pack'd cards with Cæsar, and false-play'd my glory
+	Pack'd cards with Caesar, and false-play'd my glory
 	Unto an enemy's triumph.
 	Nay, weep not, gentle Eros; there is left us
 	Ourselves to end ourselves.
@@ -6342,7 +6342,7 @@
 	Eros!—I come, my queen.—Eros!—Stay for me:
 	Where souls do couch on flowers, we'll hand in hand,
 	And with our sprightly port make the ghosts gaze;
-	Dido and her Æneas shall want troops,
+	Dido and her AEneas shall want troops,
 	And all the haunt be ours. Come, Eros! Eros!
 
 </MARK ANTONY>
@@ -6360,14 +6360,14 @@
 	Quarter'd the world, and o'er green Neptune's back
 	With ships made cities, condemn myself to lack
 	The courage of a woman; less noble mind
-	Than she, which by her death our Cæsar tells
+	Than she, which by her death our Caesar tells
 	'I am conqueror of myself.' Thou art sworn, Eros,
 	That, when the exigent should come,—which now
 	Is come indeed,—when I should see behind me
 	The inevitable prosecution of
 	Disgrace and horror, that, on my command,
 	Thou then wouldst kill me: do 't; the time is come.
-	Thou strik'st not me, 'tis Cæsar thou defeat'st.
+	Thou strik'st not me, 'tis Caesar thou defeat'st.
 	Put colour in thy cheek.
 </MARK ANTONY>
 
@@ -6383,7 +6383,7 @@
 	Thy master thus with pleach'd arms, bending down
 	His corrigible neck, his face subdu'd
 	To penetrative shame, whilst the wheel'd seat
-	Of fortunate Cæsar, drawn before him, branded
+	Of fortunate Caesar, drawn before him, branded
 	His baseness that ensu'd?
 </MARK ANTONY>
 
@@ -6516,7 +6516,7 @@
 
 <DERCETAS>	<81%>
 	Thy death and fortunes bid thy followers fly.
-	This sword but shown to Cæsar, with this tidings,
+	This sword but shown to Caesar, with this tidings,
 	Shall enter me with him.
 
 </DERCETAS>
@@ -6565,7 +6565,7 @@
 	Lock'd in her monument. She had a prophesying fear
 	Of what hath come to pass; for when she saw—
 	Which never shall be found—you did suspect
-	She had dispos'd with Cæsar, and that your rage
+	She had dispos'd with Caesar, and that your rage
 	Would not be purg'd, she sent you word she was dead;
 	But, fearing since how it might work, hath sent
 	Me to proclaim the truth; and I am come,
@@ -6654,7 +6654,7 @@
 
 <MARK ANTONY>	<83%>
 	Peace!
-	Not Cæsar's valour hath o'erthrown Antony,
+	Not Caesar's valour hath o'erthrown Antony,
 	But Antony's hath triumph'd on itself.
 </MARK ANTONY>
 
@@ -6674,7 +6674,7 @@
 	I dare not, dear,—
 	Dear my lord, pardon,—I dare not,
 	Lest I be taken: not the imperious show
-	Of the full-fortun'd Cæsar ever shall
+	Of the full-fortun'd Caesar ever shall
 	Be brooch'd with me; if knife, drugs, serpents, have
 	Edge, sting, or operation, I am safe:
 	Your wife Octavia, with her modest eyes
@@ -6720,7 +6720,7 @@
 
 <MARK ANTONY>	<84%>
 	One word, sweet queen.
-	Of Cæsar seek your honour with your safety. O!
+	Of Caesar seek your honour with your safety. O!
 </MARK ANTONY>
 
 <CLEOPATRA>	<84%>
@@ -6729,12 +6729,12 @@
 
 <MARK ANTONY>	<84%>
 	Gentle, hear me:
-	None about Cæsar trust, but Proculeius.
+	None about Caesar trust, but Proculeius.
 </MARK ANTONY>
 
 <CLEOPATRA>	<84%>
 	My resolution and my hands I'll trust;
-	None about Cæsar.
+	None about Caesar.
 </CLEOPATRA>
 
 <MARK ANTONY>	<84%>
@@ -6831,18 +6831,18 @@
 
 
 <SCENE 1>
-<Alexandria. Cæsar's Camp.>
+<Alexandria. Caesar's Camp.>
 <STAGE DIR>
-<Enter Cæsar, Agrippa, Dolabella, Mecænas, Gallus, Proculeius, and Others.>
+<Enter Caesar, Agrippa, Dolabella, Mecaenas, Gallus, Proculeius, and Others.>
 </STAGE DIR>
-<CÆSAR>	<85%>
+<CAESAR>	<85%>
 	Go to him, Dolabella, bid him yield;
 	Being so frustrate, tell him he mocks
 	The pauses that he makes.
-</CÆSAR>
+</CAESAR>
 
 <DOLABELLA>	<85%>
-	Cæsar, I shall.
+	Caesar, I shall.
 <STAGE DIR>
 <Exit.>
 </STAGE DIR>
@@ -6851,10 +6851,10 @@
 <STAGE DIR>
 <Enter Dercetas, with the sword of Antony.>
 </STAGE DIR>
-<CÆSAR>	<86%>
+<CAESAR>	<86%>
 	Wherefore is that? and what art thou that dar'st
 	Appear thus to us?
-</CÆSAR>
+</CAESAR>
 
 <DERCETAS>	<86%>
 	I am call'd Dercetas;
@@ -6863,29 +6863,29 @@
 	He was my master, and I wore my life
 	To spend upon his haters. If thou please
 	To take me to thee, as I was to him
-	I'll be to Cæsar; if thou pleasest not,
+	I'll be to Caesar; if thou pleasest not,
 	I yield thee up my life.
 </DERCETAS>
 
-<CÆSAR>	<86%>
+<CAESAR>	<86%>
 	What is 't thou sayst?
-</CÆSAR>
+</CAESAR>
 
 <DERCETAS>	<86%>
-	I say, O Cæsar, Antony is dead.
+	I say, O Caesar, Antony is dead.
 </DERCETAS>
 
-<CÆSAR>	<86%>
+<CAESAR>	<86%>
 	The breaking of so great a thing should make
 	A greater crack; the round world
 	Should have shook lions into civil streets,
 	And citizens to their dens. The death of Antony
 	Is not a single doom; in the name lay
 	A moiety of the world.
-</CÆSAR>
+</CAESAR>
 
 <DERCETAS>	<86%>
-	He is dead, Cæsar;
+	He is dead, Caesar;
 	Not by a public minister of justice,
 	Nor by a hired knife; but that self hand,
 	Which writ his honour in the acts it did,
@@ -6895,11 +6895,11 @@
 	With his most noble blood.
 </DERCETAS>
 
-<CÆSAR>	<86%>
+<CAESAR>	<86%>
 	Look you sad, friends?
 	The gods rebuke me, but it is tidings
 	To wash the eyes of kings.
-</CÆSAR>
+</CAESAR>
 
 <AGRIPPA>	<86%>
 	And strange it is,
@@ -6907,23 +6907,23 @@
 	Our most persisted deeds.
 </AGRIPPA>
 
-<MECÆNAS>	<86%>
+<MECAENAS>	<86%>
 	His taints and honours
 	Wag'd equal with him.
-</MECÆNAS>
+</MECAENAS>
 
 <AGRIPPA>	<86%>
 	A rarer spirit never
 	Did steer humanity; but you, gods, will give us
-	Some faults to make us men. Cæsar is touch'd.
+	Some faults to make us men. Caesar is touch'd.
 </AGRIPPA>
 
-<MECÆNAS>	<86%>
+<MECAENAS>	<86%>
 	When such a spacious mirror's set before him,
 	He needs must see himself.
-</MECÆNAS>
+</MECAENAS>
 
-<CÆSAR>	<86%>
+<CAESAR>	<86%>
 	O Antony!
 	I have follow'd thee to this; but we do lance
 	Diseases in our bodies: I must perforce
@@ -6944,7 +6944,7 @@
 </STAGE DIR>
 	But I will tell you at some meeter season:
 	The business of this man looks out of him;
-</CÆSAR>
+</CAESAR>
 	We'll hear him what he says. Whence are you?
 <EGYPTIAN>	<87%>
 	A poor Egyptian yet. The queen my mistress,
@@ -6954,13 +6954,13 @@
 	To the way she's forc'd to.
 </EGYPTIAN>
 
-<CÆSAR>	<87%>
+<CAESAR>	<87%>
 	Bid her have good heart;
 	She soon shall know of us, by some of ours,
 	How honourable and how kindly we
-	Determine for her; for Cæsar cannot live
+	Determine for her; for Caesar cannot live
 	To be ungentle.
-</CÆSAR>
+</CAESAR>
 
 <EGYPTIAN>	<87%>
 	So the gods preserve thee!
@@ -6969,7 +6969,7 @@
 <Exit.>
 </STAGE DIR>
 
-<CÆSAR>	<87%>
+<CAESAR>	<87%>
 	Come hither, Proculeius. Go and say,
 	We purpose her no shame; give her what comforts
 	The quality of her passion shall require,
@@ -6978,32 +6978,32 @@
 	Would be eternal in our triumph. Go,
 	And with your speediest bring us what she says,
 	And how you find of her.
-</CÆSAR>
+</CAESAR>
 
 <PROCULAEIUS>	<87%>
-	Cæsar, I shall.
+	Caesar, I shall.
 </PROCULAEIUS>
 <STAGE DIR>
 <Exit.>
 </STAGE DIR>
 
-<CÆSAR>	<87%>
+<CAESAR>	<87%>
 	Gallus, go you along.
 <STAGE DIR>
 <Exit Gallus. Where's Dolabella,>
 </STAGE DIR>
 	To second Proculeius?
-</CÆSAR>
+</CAESAR>
 
 <AGRIPPA>	<88%>
 	Dolabella!
 </AGRIPPA>
 
-<MECÆNAS>	<88%>
+<MECAENAS>	<88%>
 	Dolabella!
-</MECÆNAS>
+</MECAENAS>
 
-<CÆSAR>	<88%>
+<CAESAR>	<88%>
 	Let him alone, for I remember now
 	How he's employ'd, he shall in time be ready.
 	Go with me to my tent; where you shall see
@@ -7011,7 +7011,7 @@
 	How calm and gentle I proceeded still
 	In all my writings. Go with me, and see
 	What I can show in this.
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
@@ -7026,20 +7026,20 @@
 </STAGE DIR>
 <CLEOPATRA>	<88%>
 	My desolation does begin to make
-	A better life. 'Tis paltry to be Cæsar;
+	A better life. 'Tis paltry to be Caesar;
 	Not being Fortune, he's but Fortune's knave,
 	A minister of her will; and it is great
 	To do that thing that ends all other deeds,
 	Which shackles accidents, and bolts up change,
 	Which sleeps, and never palates more the dug,
-	The beggar's nurse and Cæsar's.
+	The beggar's nurse and Caesar's.
 
 </CLEOPATRA>
 <STAGE DIR>
 <Enter, below, Proculeius, Gallus, and Soldiers.>
 </STAGE DIR>
 <PROCULAEIUS>	<88%>
-	Cæsar sends greeting to the Queen of Egypt;
+	Caesar sends greeting to the Queen of Egypt;
 	And bids thee study on what fair demands
 	Thou mean'st to have him grant thee.
 </PROCULAEIUS>
@@ -7100,7 +7100,7 @@
 
 <STAGE DIR>
 <To Proculeius and the Guard.>
-</STAGE DIR> Guard her till Cæsar come.
+</STAGE DIR> Guard her till Caesar come.
 </GALLUS>
 <STAGE DIR>
 <Exit.>
@@ -7156,7 +7156,7 @@
 	Sir, I will eat no meat, I'll not drink, sir;
 	If idle talk will once be necessary,
 	I'll not sleep neither. This mortal house I'll ruin,
-	Do Cæsar what he can. Know, sir, that I
+	Do Caesar what he can. Know, sir, that I
 	Will not wait pinion'd at your master's court,
 	Nor once be chastis'd with the sober eye
 	Of dull Octavia. Shall they hoist me up
@@ -7172,7 +7172,7 @@
 <PROCULAEIUS>	<90%>
 	You do extend
 	These thoughts of horror further than you shall
-	Find cause in Cæsar.
+	Find cause in Caesar.
 
 </PROCULAEIUS>
 <STAGE DIR>
@@ -7180,7 +7180,7 @@
 </STAGE DIR>
 <DOLABELLA>	<90%>
 	Proculeius,
-	What thou hast done thy master Cæsar knows,
+	What thou hast done thy master Caesar knows,
 	And he hath sent for thee; as for the queen,
 	I'll take her to my guard.
 </DOLABELLA>
@@ -7190,7 +7190,7 @@
 	It shall content me best; be gentle to her.
 <STAGE DIR>
 <To Cleopatra.>
-</STAGE DIR> To Cæsar I will speak what you shall please,
+</STAGE DIR> To Caesar I will speak what you shall please,
 	If you'll employ me to him.
 </PROCULAEIUS>
 
@@ -7290,7 +7290,7 @@
 
 <CLEOPATRA>	<91%>
 	I thank you, sir.
-	Know you what Cæsar means to do with me?
+	Know you what Caesar means to do with me?
 </CLEOPATRA>
 
 <DOLABELLA>	<91%>
@@ -7312,16 +7312,16 @@
 <DOLABELLA>	<92%>
 	Madam, he will; I know 't.
 <STAGE DIR>
-<Within, 'Make way there!—Cæsar!'>
+<Within, 'Make way there!—Caesar!'>
 </STAGE DIR>
 
 </DOLABELLA>
 <STAGE DIR>
-<Enter Cæsar, Gallus, Proculeius, Mecænas, Seleucus, and Attendants.>
+<Enter Caesar, Gallus, Proculeius, Mecaenas, Seleucus, and Attendants.>
 </STAGE DIR>
-<CÆSAR>	<92%>
+<CAESAR>	<92%>
 	Which is the Queen of Egypt?
-</CÆSAR>
+</CAESAR>
 
 <DOLABELLA>	<92%>
 	It is the emperor, madam.
@@ -7330,10 +7330,10 @@
 <Cleopatra kneels.>
 </STAGE DIR>
 
-<CÆSAR>	<92%>
+<CAESAR>	<92%>
 	Arise, you shall not kneel.
 	I pray you, rise; rise, Egypt.
-</CÆSAR>
+</CAESAR>
 
 <CLEOPATRA>	<92%>
 	Sir, the gods
@@ -7341,12 +7341,12 @@
 	I must obey.
 </CLEOPATRA>
 
-<CÆSAR>	<92%>
+<CAESAR>	<92%>
 	Take to you no hard thoughts;
 	The record of what injuries you did us,
 	Though written in our flesh, we shall remember
 	As things but done by chance.
-</CÆSAR>
+</CAESAR>
 
 <CLEOPATRA>	<92%>
 	Sole sir o' the world,
@@ -7356,7 +7356,7 @@
 	Have often sham'd our sex.
 </CLEOPATRA>
 
-<CÆSAR>	<92%>
+<CAESAR>	<92%>
 	Cleopatra, know,
 	We will extenuate rather than enforce:
 	If you apply yourself to our intents,—
@@ -7367,7 +7367,7 @@
 	Of my good purposes, and put your children
 	To that destruction which I'll guard them from,
 	If thereon you rely. I'll take my leave.
-</CÆSAR>
+</CAESAR>
 
 <CLEOPATRA>	<92%>
 	And may through all the world: 'tis yours; and we,
@@ -7375,9 +7375,9 @@
 	Hang in what place you please. Here, my good lord.
 </CLEOPATRA>
 
-<CÆSAR>	<92%>
+<CAESAR>	<92%>
 	You shall advise me in all for Cleopatra.
-</CÆSAR>
+</CAESAR>
 
 <CLEOPATRA>	<92%>
 <STAGE DIR>
@@ -7411,13 +7411,13 @@
 	Enough to purchase what you have made known.
 </SELEUCUS>
 
-<CÆSAR>	<93%>
+<CAESAR>	<93%>
 	Nay, blush not, Cleopatra; I approve
 	Your wisdom in the deed.
-</CÆSAR>
+</CAESAR>
 
 <CLEOPATRA>	<93%>
-	See! Cæsar! O, behold,
+	See! Caesar! O, behold,
 	How pomp is follow'd; mine will now be yours;
 	And, should we shift estates, yours would be mine.
 	The ingratitude of this Seleucus does
@@ -7428,17 +7428,17 @@
 	O rarely base!
 </CLEOPATRA>
 
-<CÆSAR>	<93%>
+<CAESAR>	<93%>
 	Good queen, let us entreat you.
-</CÆSAR>
+</CAESAR>
 
 <CLEOPATRA>	<93%>
-	O Cæsar! what a wounding shame is this,
+	O Caesar! what a wounding shame is this,
 	That thou, vouchsafing here to visit me,
 	Doing the honour of thy lordliness
 	To one so meek, that mine own servant should
 	Parcel the sum of my disgraces by
-	Addition of his envy. Say, good Cæsar,
+	Addition of his envy. Say, good Caesar,
 	That I some lady trifles have reserv'd,
 	Immoment toys, things of such dignity
 	As we greet modern friends withal; and say,
@@ -7454,9 +7454,9 @@
 	Thou wouldst have mercy on me.
 </CLEOPATRA>
 
-<CÆSAR>	<94%>
+<CAESAR>	<94%>
 	Forbear, Seleucus.
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Exit Seleucus.>
 </STAGE DIR>
@@ -7468,29 +7468,29 @@
 	Are therefore to be pitied.
 </CLEOPATRA>
 
-<CÆSAR>	<94%>
+<CAESAR>	<94%>
 	Cleopatra,
 	Not what you have reserv'd, nor what acknowledg'd,
 	Put we i' the roll of conquest: still be 't yours,
 	Bestow it at your pleasure; and believe,
-	Cæsar's no merchant, to make prize with you
+	Caesar's no merchant, to make prize with you
 	Of things that merchants sold. Therefore be cheer'd;
 	Make not your thoughts your prisons: no, dear queen;
 	For we intend so to dispose you as
 	Yourself shall give us counsel. Feed, and sleep:
 	Our care and pity is so much upon you,
 	That we remain your friend; and so, adieu.
-</CÆSAR>
+</CAESAR>
 
 <CLEOPATRA>	<94%>
 	My master, and my lord!
 </CLEOPATRA>
 
-<CÆSAR>	<94%>
+<CAESAR>	<94%>
 	Not so. Adieu.
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
-<Flourish. Exeunt Cæsar and his Train.>
+<Flourish. Exeunt Caesar and his Train.>
 </STAGE DIR>
 
 <CLEOPATRA>	<94%>
@@ -7537,7 +7537,7 @@
 <DOLABELLA>	<94%>
 	Madam, as thereto sworn by your command,
 	Which my love makes religion to obey,
-	I tell you this: Cæsar through Syria
+	I tell you this: Caesar through Syria
 	Intends his journey; and within three days
 	You with your children will be send before.
 	Make your best use of this; I have perform'd
@@ -7551,7 +7551,7 @@
 
 <DOLABELLA>	<95%>
 	I your servant.
-	Adieu, good queen; I must attend on Cæsar.
+	Adieu, good queen; I must attend on Caesar.
 </DOLABELLA>
 
 <CLEOPATRA>	<95%>
@@ -7728,7 +7728,7 @@
 	Yare, yare, good Iras; quick. Methinks I hear
 	Antony call; I see him rouse himself
 	To praise my noble act; I hear him mock
-	The luck of Cæsar, which the gods give men
+	The luck of Caesar, which the gods give men
 	To excuse their after wrath: husband, I come:
 	Now to that name my courage prove my title!
 	I am fire, and air; my other elements
@@ -7762,7 +7762,7 @@
 	With thy sharp teeth this knot intrinsicate
 	Of life at once untie; poor venomous fool,
 	Be angry, and dispatch. O! couldst thou speak,
-	That I might hear thee call great Cæsar ass
+	That I might hear thee call great Caesar ass
 	Unpolicied.
 </CLEOPATRA>
 
@@ -7813,7 +7813,7 @@
 </CHARMIAN>
 
 <GUARD 1>	<98%>
-	Cæsar hath sent—
+	Caesar hath sent—
 </GUARD 1>
 
 <CHARMIAN>	<98%>
@@ -7825,11 +7825,11 @@
 </CHARMIAN>
 
 <GUARD 1>	<99%>
-	Approach, ho! All's not well; Cæsar's beguil'd.
+	Approach, ho! All's not well; Caesar's beguil'd.
 </GUARD 1>
 
 <GUARD 2>	<99%>
-	There's Dolabella sent from Cæsar; call him.
+	There's Dolabella sent from Caesar; call him.
 </GUARD 2>
 
 <GUARD 1>	<99%>
@@ -7857,29 +7857,29 @@
 </GUARD 2>
 
 <DOLABELLA>	<99%>
-	Cæsar, thy thoughts
+	Caesar, thy thoughts
 	Touch their effects in this; thyself art coming
 	To see perform'd the dreaded act which thou
 	So sought'st to hinder.
 <STAGE DIR>
-<Within, 'A way there!—a way for Cæsar!'>
+<Within, 'A way there!—a way for Caesar!'>
 </STAGE DIR>
 
 </DOLABELLA>
 <STAGE DIR>
-<Re-enter Cæsar and all his Train.>
+<Re-enter Caesar and all his Train.>
 </STAGE DIR>
 <DOLABELLA>	<99%>
 	O! sir, you are too sure an augurer;
 	That you did fear is done.
 </DOLABELLA>
 
-<CÆSAR>	<99%>
+<CAESAR>	<99%>
 	Bravest at the last,
 	She levell'd at our purposes, and, being royal,
 	Took her own way. The manner of their deaths?
 	I do not see them bleed.
-</CÆSAR>
+</CAESAR>
 
 <DOLABELLA>	<99%>
 	Who was last with them?
@@ -7890,25 +7890,25 @@
 	This was his basket.
 </GUARD 1>
 
-<CÆSAR>	<99%>
+<CAESAR>	<99%>
 	Poison'd then.
-</CÆSAR>
+</CAESAR>
 
 <GUARD 1>	<99%>
-	O Cæsar!
+	O Caesar!
 	This Charmian liv'd but now; she stood, and spake:
 	I found her trimming up the diadem
 	On her dead mistress; tremblingly she stood,
 	And on the sudden dropp'd.
 </GUARD 1>
 
-<CÆSAR>	<99%>
+<CAESAR>	<99%>
 	O noble weakness!
 	If they had swallow'd poison 'twould appear
 	By external swelling; but she looks like sleep,
 	As she would catch another Antony
 	In her strong toil of grace.
-</CÆSAR>
+</CAESAR>
 
 <DOLABELLA>	<99%>
 	Here, on her breast,
@@ -7922,7 +7922,7 @@
 	Upon the caves of Nile.
 </GUARD 1>
 
-<CÆSAR>	<100%>
+<CAESAR>	<100%>
 	Most probable
 	That so she died; for her physician tells me
 	She hath pursu'd conclusions infinite
@@ -7937,7 +7937,7 @@
 	In solemn show, attend this funeral,
 	And then to Rome. Come, Dolabella, see
 	High order in this great solemnity.
-</CÆSAR>
+</CAESAR>
 <STAGE DIR>
 <Exeunt.>
 </STAGE DIR>
