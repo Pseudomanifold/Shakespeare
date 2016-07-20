@@ -46,8 +46,8 @@ def classifyLine(line):
     reSceneEnd     = r'</SCENE (\d+)>'
     reActBegin     = r'<ACT (\d+)>'
     reActEnd       = r'</ACT (\d+)>'
-    reSpeakerBegin = r'<([A-Z\.\d\s]+)>\s+<.*\%>'
-    reSpeakerEnd   = r'</([A-Z\.\d\s]+)>'
+    reSpeakerBegin = r'<([A-Z\'\.\d\s]+)>\s+<.*\%>'
+    reSpeakerEnd   = r'</([A-Z\'\.\d\s]+)>'
     reExit         = r'<Exit(\.?|\s+.*)>'
 
     if re.match(reDescription, line):
@@ -163,6 +163,8 @@ with open(sys.argv[1]) as f:
         elif inScene and t == LineType.SpeakerBegin:
             play.addCharacter(n)
 
+print("Analysing '%s'" % play.title.title())
+
 print("Characters: ")
 
 for character in play.getCharacters():
@@ -215,7 +217,7 @@ with open(sys.argv[1]) as f:
             numWords = sum( wordsPerCharacter[c] for c in activeCharacters )
 
             # The current character left the scene
-            if n == ".":
+            if n == "." or n == "":
                 leavingCharacter = currentCharacter
             # A named character left the scene
             elif n.upper() in activeCharacters:
@@ -244,7 +246,7 @@ with open(sys.argv[1]) as f:
 
         elif t == LineType.Text:
             if not currentCharacter:
-                print("Warning: I cannot assign this text to someone...")
+                print("Warning: I cannot assign this text to someone: '%s'" % line.strip())
             else:
                 wordsPerCharacter[currentCharacter] += countWords(n)
 
