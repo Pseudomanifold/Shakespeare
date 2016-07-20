@@ -859,7 +859,7 @@
 <STAGE DIR>
 <Enter Gower.>
 </STAGE DIR>
-
+<GOWER><22%>
 	Here have you seen a mighty king
 	His child, I wis, to incest bring;
 	A better prince and benign lord,
@@ -876,6 +876,7 @@
 	Build his statue to make him glorious:
 	But tidings to the contrary
 	Are brought your eyes; what need speak I?
+</GOWER>
 
 <Dumb Show.>
 <STAGE DIR>
@@ -886,6 +887,7 @@
 <... a reward, and knights him. Exeunt Pericles, Cleon, &c., severally.>
 </STAGE DIR>
 
+<GOWER> <22%>
 	Good Helicane hath stay'd at home,
 	Not to eat honey like a drone
 	From others' labours; for though he strive
@@ -910,6 +912,7 @@
 	Threw him ashore, to give him glad;
 	And here he comes. What shall be next,
 	Pardon old Gower, this longs the text.
+</GOWER>
 
 <STAGE DIR>
 <Exit.>
