@@ -141,6 +141,16 @@ class Play:
                 w2 = weights[j+i+1]
                 self.updateEdge( first, second, w1+w2 )
 
+    """ Checks whether a specified edge exists in the adjacency matrix """
+    def hasEdge(self, name1, name2):
+        if self.A is None:
+            return False
+
+        u = self.characters.index( name1 )
+        v = self.characters.index( name2 )
+
+        return self.A[u,v] > 0
+
 """ Extremely simple way of counting words in a string """
 def countWords(line):
     return len( ''.join(c if c.isalnum() else ' ' for c in line).split() )
