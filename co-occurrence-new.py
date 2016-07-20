@@ -144,36 +144,10 @@ def countWords(line):
     return len( ''.join(c if c.isalnum() else ' ' for c in line).split() )
 
 #
-# HERE BE DRAGONS
-#
-
-def isSpecialCharacter(name):
-    return    name == stageDirections\
-           or name == allCharacters\
-           or name == bothCharacters\
-           or name == "SONG." # FIXME
-
-reEnteringScene   = r'<SCENE (\d+)>'
-reLeavingScene    = r'</SCENE (\d+)>'
-reActStart        = r'<ACT (\d+)>'
-reActEnd          = r'</ACT (\d+)>'
-reSpeakerStart    = r'<([A-Z\.\d\s]+)>'
-rePlayDescription = r'<\s+Shakespeare\s+--\s+(.+)\s+>'
-reExitUnnamed     = r'<Exit\.?>'
-
-stageDirections = 'STAGE DIR'
-allCharacters   = 'ALL'
-bothCharacters  = 'BOTH' # FIXME: This should become a regular expression
-
-title      = ""
-characters = set()
-edges      = set()
-
-play    = Play()
-
-#
 # Extract metadata & all characters
 #
+
+play = Play()
 
 with open(sys.argv[1]) as f:
     inScene = False
