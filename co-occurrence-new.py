@@ -258,10 +258,10 @@ with open(sys.argv[1]) as f:
 # Output
 #
 
-outputName = title.replace(" ", "_") + ".net"
+outputName = play.title.replace(" ", "_") + ".net"
 
 with open(outputName, "w") as f:
-    print("%%%s" % title, file=f)
+    print("%%%s" % play.title, file=f)
     print("*Vertices %d" % len(play.characters), file=f)
     for index, name in enumerate( play.characters ):
         print( "%d \"%s\"" % ( index+1,name.title() ), file=f )
