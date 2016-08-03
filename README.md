@@ -11,7 +11,14 @@ for more details.
 # Data
 
 * The folder `Corpus` contains the original corpus that was used to
-  calculate co-occurrence networks.
+  calculate co-occurrence networks. Additional information about the
+  amount of speech between certain characters has been added. Please see
+  http://lexically.net/wordsmith/support/shakespeare.html for the
+  original data.
+* The folder `Networks` contains the co-occurrence networks for all the
+  plays that we used in the paper. Networks are categorized into
+  *speech-based* and *time-based* filtrations. Please refer to the paper
+  for more details.
 * The folder `Plays` contains the corrected variants of the plays,
   sorted into three broad categories.
 
@@ -33,3 +40,8 @@ parameter `-t`, i.e.:
 
 Again, this will result in a set of networks. Note that all existing
 networks will be overwritten in the current folder.
+
+# Licence
+
+The data and the code is are released under an MIT licence. Please refer
+to the file `LICENSE` for more information.
