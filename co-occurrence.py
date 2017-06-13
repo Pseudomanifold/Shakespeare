@@ -189,6 +189,12 @@ with open(sys.argv[1]) as f:
 print("Analysing '%s'" % play.title.title())
 print("Characters: ")
 
+# Reset the play's title to the filename becase they have a nicer format
+# than the actual titles.
+play.title = sys.argv[1]
+play.title = os.path.basename(play.title)
+play.title = os.path.splitext(play.title)[0]
+
 for character in play.getCharacters():
     print("  -", character)
 
@@ -315,7 +321,7 @@ with open(outputName, "w") as f:
     print("%%%s" % play.title, file=f)
     print("*Vertices %d" % len(play.characters), file=f)
     for index, name in enumerate( play.characters ):
-        print( "%d \"%s\"" % ( index+1,name.title() ), file=f )
+        print( "%03d \"%s\"" % ( index+1,name.title() ), file=f )
 
 # Make this an undirected graph
     print("*Edges", file=f)
