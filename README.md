@@ -4,7 +4,7 @@ from a tagged corpus of Shakespeare's plays.
 The networks have been analysed using *persistent homology*, a technique
 from computational topology. Please refer to our paper
 
-*Shall I compare thee to a network?* &ndash; Visualizing the Topological Structure of Shakespeare's Plays
+[*Shall I compare thee to a network?* &ndash; Visualizing the Topological Structure of Shakespeare's Plays](http://bastian.rieck.ru/research/Vis2016.pdf)
 
 for more details.
 
@@ -12,9 +12,8 @@ for more details.
 
 * The folder `Corpus` contains the original corpus that was used to
   calculate co-occurrence networks. Additional information about the
-  amount of speech between certain characters has been added. Please see
-  http://lexically.net/wordsmith/support/shakespeare.html for the
-  original data.
+  amount of speech between certain characters has been added. Please
+  refer to [lexically.net](http://lexically.net/wordsmith/support/shakespeare.html) for the original data.
 * The folder `Networks` contains the co-occurrence networks for all the
   plays that we used in the paper. Networks are categorized into
   *speech-based* and *time-based* filtrations. Please refer to the paper
