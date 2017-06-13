@@ -18,8 +18,9 @@ class LineType:
     ActEnd,      \
     SpeakerBegin,\
     SpeakerEnd,  \
+    Enter,       \
     Exit,        \
-    Text = range(9)
+    Text = range(10)
 
 """
 Checks whether a speaker is a "special" speaker. Special speakers
@@ -50,6 +51,7 @@ def classifyLine(line):
     reActEnd       = r'</ACT (\d+)>'
     reSpeakerBegin = r'<([A-Z\'\.\d\s]+)>\s+<.*\%>'
     reSpeakerEnd   = r'</([A-Z\'\.\d\s]+)>'
+    reEnter        = r'<Enter\s+(\S+)\.>'
     reExit         = r'<Exit(\.?|\s+.*)>'
 
     if re.match(reDescription, line):
@@ -86,6 +88,10 @@ def classifyLine(line):
         name = re.match(reSpeakerEnd, line).group(1)
         if not isSpecialSpeaker(name):
             return LineType.SpeakerEnd, name
+
+    elif re.match(reEnter, line):
+        name = re.match(reEnter, line).group(1)
+        return LineType.Enter, name.upper()
 
     elif re.match(reExit, line):
         exit = re.match(reExit, line).group(1)
@@ -185,6 +191,8 @@ with open(sys.argv[1]) as f:
             inScene = False
         elif inScene and t == LineType.SpeakerBegin:
             play.addCharacter(n)
+        elif inScene and t == LineType.Enter:
+            play.addCharacter(n)
 
 print("Analysing '%s'" % play.title.title())
 print("Characters: ")
@@ -257,6 +265,14 @@ with open(sys.argv[1]) as f:
                 firstAppearance[n] = T
 
             currentCharacter = n
+
+        elif t == LineType.Enter:
+            if n not in activeCharacters:
+                activeCharacters.append(n)
+                wordsPerCharacter[n] = 0
+
+            if n not in firstAppearance:
+                firstAppearance[n] = T
 
         elif t == LineType.Exit and currentCharacter:
             # This is the amount of words in the scene that we have seen
