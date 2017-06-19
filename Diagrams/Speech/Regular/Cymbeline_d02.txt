@@ -1,0 +1,5 @@
+# Original filename: ./Networks/Speech/Cymbeline.net
+# d                : 2
+0.0622133	0.0684089
+0.0650989	0.0651719
+

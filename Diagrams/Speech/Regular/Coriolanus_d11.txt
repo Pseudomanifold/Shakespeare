@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/Coriolanus.net
+# d                : 11
+

@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/Henry_V.net
+# d                : 2
+0.427659	0.60374
+

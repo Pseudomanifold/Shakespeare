@@ -1,0 +1,7 @@
+# Original filename: ./Networks/Speech/Titus_Andronicus.net
+# d                : 2
+0.118904	0.164361
+0.177177	0.214037
+0.294793	1
+0.301529	0.433005
+

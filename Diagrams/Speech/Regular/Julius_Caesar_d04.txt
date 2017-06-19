@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/Julius_Caesar.net
+# d                : 4
+

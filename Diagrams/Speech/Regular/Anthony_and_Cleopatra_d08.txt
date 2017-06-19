@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/Anthony_and_Cleopatra.net
+# d                : 8
+

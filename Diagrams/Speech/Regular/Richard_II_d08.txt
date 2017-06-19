@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/Richard_II.net
+# d                : 8
+

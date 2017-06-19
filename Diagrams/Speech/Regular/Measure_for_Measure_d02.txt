@@ -1,0 +1,6 @@
+# Original filename: ./Networks/Speech/Measure_for_Measure.net
+# d                : 2
+0.414567	0.49842
+0.467257	0.49842
+0.516287	0.517785
+

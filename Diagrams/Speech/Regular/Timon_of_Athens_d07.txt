@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/Timon_of_Athens.net
+# d                : 7
+

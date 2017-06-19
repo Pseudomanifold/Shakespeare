@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/The_Two_Gentlemen_of_Verona.net
+# d                : 4
+

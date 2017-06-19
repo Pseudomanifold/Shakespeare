@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/Richard_III.net
+# d                : 3
+0.145568	0.160297
+

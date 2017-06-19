@@ -1,0 +1,6 @@
+# Original filename: ./Networks/Speech/The_Taming_of_the_Shrew.net
+# d                : 2
+0.189332	0.258153
+0.209805	0.258153
+0.294556	0.312298
+

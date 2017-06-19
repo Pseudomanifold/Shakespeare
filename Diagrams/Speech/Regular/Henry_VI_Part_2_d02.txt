@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/Henry_VI_Part_2.net
+# d                : 2
+0.275169	0.275905
+

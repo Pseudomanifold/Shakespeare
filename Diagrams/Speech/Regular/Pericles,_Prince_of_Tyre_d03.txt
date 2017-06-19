@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/Pericles,_Prince_of_Tyre.net
+# d                : 3
+

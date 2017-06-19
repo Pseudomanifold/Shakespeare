@@ -1,0 +1,6 @@
+# Original filename: ./Networks/Speech/The_Merchant_of_Venice.net
+# d                : 2
+0.185616	0.247083
+0.246054	0.450259
+0.247083	0.273865
+
