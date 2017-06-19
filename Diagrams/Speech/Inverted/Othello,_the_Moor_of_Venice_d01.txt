@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/Othello,_the_Moor_of_Venice.net
+# d                : 1
+0.933292	0.934986
+

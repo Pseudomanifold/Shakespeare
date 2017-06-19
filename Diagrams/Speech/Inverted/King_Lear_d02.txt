@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/King_Lear.net
+# d                : 2
+0.81479	0.8557
+

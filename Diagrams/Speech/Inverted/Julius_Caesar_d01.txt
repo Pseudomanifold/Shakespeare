@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/Julius_Caesar.net
+# d                : 1
+0.844377	0.859941
+

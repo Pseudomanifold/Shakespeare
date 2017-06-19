@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/The_Merry_Wives_of_Windsor.net
+# d                : 2
+0.80978	0.814047
+

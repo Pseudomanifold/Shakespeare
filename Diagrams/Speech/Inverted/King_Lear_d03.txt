@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/King_Lear.net
+# d                : 3
+

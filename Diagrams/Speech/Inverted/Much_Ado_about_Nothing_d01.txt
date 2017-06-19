@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/Much_Ado_about_Nothing.net
+# d                : 1
+0.676282	0.834457
+

@@ -1,0 +1,6 @@
+# Original filename: ./Networks/Speech/Coriolanus.net
+# d                : 1
+0.704557	0.833334
+0.791976	0.940217
+0.806259	0.85961
+

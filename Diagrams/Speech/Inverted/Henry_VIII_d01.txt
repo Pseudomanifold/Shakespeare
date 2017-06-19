@@ -1,0 +1,5 @@
+# Original filename: ./Networks/Speech/Henry_VIII.net
+# d                : 1
+0.790836	0.840851
+0.80642	0.896265
+

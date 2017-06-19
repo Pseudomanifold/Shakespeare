@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/The_Tempest.net
+# d                : 1
+0.874663	0.880888
+

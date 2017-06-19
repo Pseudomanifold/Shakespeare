@@ -1,0 +1,5 @@
+# Original filename: ./Networks/Speech/Anthony_and_Cleopatra.net
+# d                : 1
+0.734775	0.794516
+0.780505	0.794516
+

@@ -1,0 +1,6 @@
+# Original filename: ./Networks/Speech/As_You_Like_It.net
+# d                : 1
+0.639107	0.668962
+0.797997	0.812843
+0.840656	0.945284
+

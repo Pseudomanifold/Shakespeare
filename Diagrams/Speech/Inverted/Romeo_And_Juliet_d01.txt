@@ -1,0 +1,7 @@
+# Original filename: ./Networks/Speech/Romeo_And_Juliet.net
+# d                : 1
+0.47728	0.595564
+0.710116	0.766645
+0.943508	0.945308
+0.948682	0.953007
+

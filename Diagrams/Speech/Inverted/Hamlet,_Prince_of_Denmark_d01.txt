@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/Hamlet,_Prince_of_Denmark.net
+# d                : 1
+0.893062	0.90856
+

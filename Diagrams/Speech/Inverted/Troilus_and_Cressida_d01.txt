@@ -1,0 +1,7 @@
+# Original filename: ./Networks/Speech/Troilus_and_Cressida.net
+# d                : 1
+0.725938	0.753723
+0.752423	0.832108
+0.792703	0.792987
+0.861675	0.888617
+

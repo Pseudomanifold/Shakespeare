@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/Hamlet,_Prince_of_Denmark.net
+# d                : 3
+

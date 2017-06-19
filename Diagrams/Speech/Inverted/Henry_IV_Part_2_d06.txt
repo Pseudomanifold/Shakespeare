@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/Henry_IV_Part_2.net
+# d                : 6
+

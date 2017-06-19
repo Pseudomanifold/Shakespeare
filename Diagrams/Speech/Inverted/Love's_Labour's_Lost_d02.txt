@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/Love's_Labour's_Lost.net
+# d                : 2
+

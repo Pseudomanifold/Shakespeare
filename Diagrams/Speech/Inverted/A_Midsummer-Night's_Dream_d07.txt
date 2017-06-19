@@ -1,0 +1,3 @@
+# Original filename: ./Networks/Speech/A_Midsummer-Night's_Dream.net
+# d                : 7
+

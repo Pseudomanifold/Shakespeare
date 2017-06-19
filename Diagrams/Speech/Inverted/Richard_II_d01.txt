@@ -1,0 +1,6 @@
+# Original filename: ./Networks/Speech/Richard_II.net
+# d                : 1
+0.511922	0.541089
+0.654995	0.712202
+0.859632	2
+

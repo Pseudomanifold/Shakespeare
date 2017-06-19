@@ -1,0 +1,6 @@
+# Original filename: ./Networks/Speech/A_Midsummer-Night's_Dream.net
+# d                : 1
+0.628655	0.62902
+0.666674	0.72773
+0.735027	0.881337
+

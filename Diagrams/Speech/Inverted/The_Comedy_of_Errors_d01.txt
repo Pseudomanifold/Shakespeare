@@ -1,0 +1,8 @@
+# Original filename: ./Networks/Speech/The_Comedy_of_Errors.net
+# d                : 1
+0.536834	0.627625
+0.546277	0.663438
+0.59008	0.602412
+0.665581	0.746676
+0.789546	0.837747
+

@@ -1,0 +1,4 @@
+# Original filename: ./Networks/Speech/Twelfth-Night;_or_What_You_Will.net
+# d                : 2
+0.915752	0.921634
+

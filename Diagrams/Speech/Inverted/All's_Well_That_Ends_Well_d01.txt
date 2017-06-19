@@ -1,0 +1,7 @@
+# Original filename: ./Networks/Speech/All's_Well_That_Ends_Well.net
+# d                : 1
+0.612858	0.652555
+0.617984	0.658044
+0.620512	0.635403
+0.65248	0.652555
+

@@ -1,0 +1,7 @@
+# Original filename: ./Networks/Speech/Love's_Labour's_Lost.net
+# d                : 1
+0.697448	0.752958
+0.724153	0.751484
+0.797307	0.826665
+0.813858	0.826665
+

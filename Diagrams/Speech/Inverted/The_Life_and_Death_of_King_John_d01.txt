@@ -1,0 +1,6 @@
+# Original filename: ./Networks/Speech/The_Life_and_Death_of_King_John.net
+# d                : 1
+0.731503	0.738207
+0.79935	0.855191
+0.80301	0.931745
+
