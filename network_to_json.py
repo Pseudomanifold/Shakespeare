@@ -31,4 +31,5 @@ for source,target,weight in G.edges(data='weight'):
     }
   )
 
-json.dump(nodes, sys.stdout)
+data = { 'nodes': nodes, 'links': links }
+json.dump(data, sys.stdout)
