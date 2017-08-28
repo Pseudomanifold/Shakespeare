@@ -40,6 +40,12 @@ parameter `-t`, i.e.:
 Again, this will result in a set of networks. Note that all existing
 networks will be overwritten in the current folder.
 
+# Demo
+
+A [demo](https://submanifold.github.io/Shakespeare) of all the extracted
+networks is available. The demo uses a simple force-directed graph
+layout to visualize the network.
+
 # Licence
 
 The data and the code is are released under an MIT licence. Please refer
