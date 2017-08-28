@@ -30,3 +30,5 @@ for source,target,weight in G.edges(data='weight'):
       'weight': weight
     }
   )
+
+json.dump(nodes, sys.stdout)

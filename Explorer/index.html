@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="d3.min.js"></script>
+  </head>
+  <style>
+    .links line {
+      stroke: #999;
+      stroke-opacity: 0.6;
+    }
+
+    .nodes circle {
+      stroke: #fff;
+      stroke-width: 1.5px;
+    }
+  </style>
+  <body>
+    <svg width="800" height="600"></svg>
+    <script>
+      var svg = d3.select("svg"), width = +svg.attr("width"), height = +svg.attr("height");
+
+      var simulation = d3.forceSimulation()
+        .force("link",    d3.forceLink().id( function(d) { return d.id; } ))
+        .force("charge",  d3.forceManyBody())
+        .force("center",  d3.forceCenter(0.5*width, 0.5*height))
+        .force("collide", d3.forceCollide());
+
+      d3.json("Macbeth.json",
+        function(error, graph)
+        {
+          if (error)
+            throw error;
+
+          var getWeight = function(d) { return +d.weight; };
+          var minWeight = d3.min(graph.links, getWeight);
+          var maxWeight = d3.max(graph.links, getWeight);
+
+          var getDegree = function(d) { return +d.degree; };
+          var minDegree = d3.min(graph.nodes, getDegree);
+          var maxDegree = d3.max(graph.nodes, getDegree);
+
+          var link = svg.append("g")
+            .attr("class", "links")
+            .selectAll("line")
+            .data(graph.links)
+            .enter().append("line")
+              .attr("stroke-width", function(d) { return 2 * ( d.weight - minWeight ) / (maxWeight - minWeight ); });
+
+          // Calculates the radius of a given node based on its degree
+          // and scales it accordingly.
+          var getRadius = function(d)
+          {
+            var scale = d3.scaleLinear()
+                          .domain([minDegree,maxDegree])
+                          .range( [5,20] );
+
+            return scale(d.degree);
+          };
+
+          var node = svg.append("g")
+            .attr("class", "nodes")
+            .selectAll("circle")
+            .data(graph.nodes)
+            .enter().append("circle")
+              .attr("r", getRadius)
+              .attr("fill", function(d) { return 'black'; })
+              .call(d3.drag()
+                  .on("start", dragstarted)
+                  .on("drag",  dragged)
+                  .on("end",   dragended)
+              );
+
+          node.append("title")
+            .text(function(d) { return d.id; });
+
+          simulation
+            .nodes(graph.nodes)
+            .on("tick", ticked);
+
+          // TODO: better forces?
+          simulation.force("link")
+            .links(graph.links)
+            .distance(0.25*height)
+            .strength(function(link)
+              {
+                return link.weight / maxWeight;
+              }
+            );
+
+          simulation.force("collide")
+            .radius(getRadius);
+
+          function ticked() {
+            link
+              .attr("x1", function(d) { return d.source.x; })
+              .attr("y1", function(d) { return d.source.y; })
+              .attr("x2", function(d) { return d.target.x; })
+              .attr("y2", function(d) { return d.target.y; });
+
+            node
+              .attr("cx", function(d) { return d.x; })
+              .attr("cy", function(d) { return d.y; });
+          }
+        }
+      );
+
+      function dragstarted(d)
+      {
+        if (!d3.event.active)
+          simulation.alphaTarget(0.3).restart();
+
+        d.fx = d.x;
+        d.fy = d.y;
+      }
+
+      function dragged(d)
+      {
+        d.fx = d3.event.x;
+        d.fy = d3.event.y;
+      }
+
+      function dragended(d)
+      {
+        if (!d3.event.active)
+          simulation.alphaTarget(0);
+
+        d.fx = null;
+        d.fy = null;
+      }
+
+    </script>
+  </body>
+</html>
