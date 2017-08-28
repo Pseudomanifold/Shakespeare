@@ -13,6 +13,10 @@
       stroke: #fff;
       stroke-width: 1.5px;
     }
+
+    .node text {
+      font 10px serif;
+    }
   </style>
   <body>
     <svg width="800" height="600"></svg>
@@ -61,17 +65,30 @@
             .attr("class", "nodes")
             .selectAll("circle")
             .data(graph.nodes)
-            .enter().append("circle")
-              .attr("r", getRadius)
-              .attr("fill", function(d) { return 'black'; })
-              .call(d3.drag()
-                  .on("start", dragstarted)
-                  .on("drag",  dragged)
-                  .on("end",   dragended)
-              );
+            .enter()
+              .append("circle")
+                .attr("r", getRadius)
+                .attr("fill", function(d) { return 'black'; })
+                .call(d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag",  dragged)
+                    .on("end",   dragended)
+                );
 
           node.append("title")
             .text(function(d) { return d.id; });
+
+          var label = svg.append("g")
+            .attr("class", "labels")
+            .selectAll("text")
+            .data(graph.nodes)
+            .enter()
+              .append("text")
+                .attr("dx", "1em")
+                .attr("dy", ".35em")
+                .attr("stroke", "white")
+                .attr("stroke-width", "0.1")
+                .text(function(d) { return d.id; });
 
           simulation
             .nodes(graph.nodes)
@@ -100,6 +117,8 @@
             node
               .attr("cx", function(d) { return d.x; })
               .attr("cy", function(d) { return d.y; });
+
+            label.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; } );
           }
         }
       );
