@@ -73,7 +73,7 @@
           .force("center",  d3.forceCenter(0.5*width, 0.5*height))
           .force("collide", d3.forceCollide());
 
-        d3.json(name,
+        d3.json("JSON/"+name,
           function(error, graph)
           {
             if (error)
