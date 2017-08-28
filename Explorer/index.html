@@ -19,134 +19,189 @@
     }
   </style>
   <body>
+    <aside>
+      <select id="play">
+        <option value="A_Midsummer-Night's_Dream.json"       >A Midsummer Night's Dream</option>
+        <option value="All's_Well_That_Ends_Well.json"       >All's Well that Ends Well</option>
+        <option value="Anthony_and_Cleopatra.json"           >Anthony and Cleopatra</option>
+        <option value="As_You_Like_It.json"                  >As You Like It</option>
+        <option value="Coriolanus.json"                      >Coriolanus</option>
+        <option value="Cymbeline.json"                       >Cymbeline</option>
+        <option value="Hamlet.json"                          >Hamlet, Prince of Denmark</option>
+        <option value="Henry_IV_Part_1.json"                 >Henry IV: Part I</option> 
+        <option value="Henry_IV_Part_2.json"                 >Henry IV: Part II</option>
+        <option value="Henry_V.json"                         >Henry V</option>
+        <option value="Henry_VI_Part_1.json"                 >Henry VI: Part I</option>
+        <option value="Henry_VI_Part_2.json"                 >Henry VI: Part II</option>
+        <option value="Henry_VI_Part_3.json"                 >Henry VI: Part III</option>
+        <option value="Henry_VIII.json"                      >Henry VIII</option>
+        <option value="Julius_Caesar.json"                   >Julius Caesar</option>
+        <option value="King_Lear.json"                       >King Lear</option>
+        <option value="Love's_Labour's_Lost.json"            >Love's Labour's Lost</option>
+        <option value="Macbeth.json" selected                >Macbeth</option>
+        <option value="Measure_for_Measure.json"             >Measure for Measure</option>
+        <option value="Much_Ado_about_Nothing.json"          >Much Ado About Nothing</option>
+        <option value="Othello,_the_Moor_of_Venice.json"     >Othello, the Moor of Venice</option>
+        <option value="Pericles,_Prince_of_Tyre.json"        >Pericles, Prince of Tyre</option>
+        <option value="Richard_II.json"                      >Richard II</option>
+        <option value="Richard_III.json"                     >Richard III</option>
+        <option value="Romeo_And_Juliet.json"                >Romeo and Juliet</option>
+        <option value="The_Comedy_of_Errors.json"            >The Comedy of Errors</option>
+        <option value="The_Life_and_Death_of_King_John.json" >The Life and Death of King John</option>
+        <option value="The_Merchant_of_Venice.json"          >The Merchant of Venice</option>
+        <option value="The_Merry_Wives_of_Windsor.json"      >The Merry Wives of Windsor</option>
+        <option value="The_Taming_of_the_Shrew.json"         >The Taming of the Shrew</option>
+        <option value="The_Tempest.json"                     >The Tempest</option>
+        <option value="The_Two_Gentlemen_of_Verona.json"     >The Two Gentlement of Verona</option>
+        <option value="The_Winter's_Tale.json"               >The Winter's Tale</option>
+        <option value="Timon_of_Athens.json"                 >Timon of Athens</option>
+        <option value="Titus_Andronicus.json"                >Titus Andronicus</option>
+        <option value="Troilus_and_Cressida.json"            >Troilus and Cressida</option>
+        <option value="Twelfth-Night;_or_What_You_Will.json" >Twelfth Night, or What You Will</option>
+      </select>
+    </aside>
+
     <svg width="800" height="600"></svg>
     <script>
-      var svg = d3.select("svg"), width = +svg.attr("width"), height = +svg.attr("height");
+      function initialize(name)
+      {
+        var svg = d3.select("svg"), width = +svg.attr("width"), height = +svg.attr("height");
 
-      var simulation = d3.forceSimulation()
-        .force("link",    d3.forceLink().id( function(d) { return d.id; } ))
-        .force("charge",  d3.forceManyBody())
-        .force("center",  d3.forceCenter(0.5*width, 0.5*height))
-        .force("collide", d3.forceCollide());
+        var simulation = d3.forceSimulation()
+          .force("link",    d3.forceLink().id( function(d) { return d.id; } ))
+          .force("charge",  d3.forceManyBody())
+          .force("center",  d3.forceCenter(0.5*width, 0.5*height))
+          .force("collide", d3.forceCollide());
 
-      d3.json("Macbeth.json",
-        function(error, graph)
-        {
-          if (error)
-            throw error;
-
-          var getWeight = function(d) { return +d.weight; };
-          var minWeight = d3.min(graph.links, getWeight);
-          var maxWeight = d3.max(graph.links, getWeight);
-
-          var getDegree = function(d) { return +d.degree; };
-          var minDegree = d3.min(graph.nodes, getDegree);
-          var maxDegree = d3.max(graph.nodes, getDegree);
-
-          var link = svg.append("g")
-            .attr("class", "links")
-            .selectAll("line")
-            .data(graph.links)
-            .enter().append("line")
-              .attr("stroke-width", function(d) { return 2 * ( d.weight - minWeight ) / (maxWeight - minWeight ); });
-
-          // Calculates the radius of a given node based on its degree
-          // and scales it accordingly.
-          var getRadius = function(d)
+        d3.json(name,
+          function(error, graph)
           {
-            var scale = d3.scaleLinear()
-                          .domain([minDegree,maxDegree])
-                          .range( [5,20] );
+            if (error)
+              throw error;
 
-            return scale(d.degree);
-          };
+            var getWeight = function(d) { return +d.weight; };
+            var minWeight = d3.min(graph.links, getWeight);
+            var maxWeight = d3.max(graph.links, getWeight);
 
-          var node = svg.append("g")
-            .attr("class", "nodes")
-            .selectAll("circle")
-            .data(graph.nodes)
-            .enter()
-              .append("circle")
-                .attr("r", getRadius)
-                .attr("fill", function(d) { return 'black'; })
-                .call(d3.drag()
-                    .on("start", dragstarted)
-                    .on("drag",  dragged)
-                    .on("end",   dragended)
-                );
+            var getDegree = function(d) { return +d.degree; };
+            var minDegree = d3.min(graph.nodes, getDegree);
+            var maxDegree = d3.max(graph.nodes, getDegree);
 
-          node.append("title")
-            .text(function(d) { return d.id; });
+            var link = svg.append("g")
+              .attr("class", "links")
+              .selectAll("line")
+              .data(graph.links)
+              .enter().append("line")
+                .attr("stroke-width", function(d) { return 2 * ( d.weight - minWeight ) / (maxWeight - minWeight ); });
 
-          var label = svg.append("g")
-            .attr("class", "labels")
-            .selectAll("text")
-            .data(graph.nodes)
-            .enter()
-              .append("text")
-                .attr("dx", "1em")
-                .attr("dy", ".35em")
-                .attr("stroke", "white")
-                .attr("stroke-width", "0.1")
-                .text(function(d) { return d.id; });
+            // Calculates the radius of a given node based on its degree
+            // and scales it accordingly.
+            var getRadius = function(d)
+            {
+              var scale = d3.scaleLinear()
+                            .domain([minDegree,maxDegree])
+                            .range( [5,20] );
 
-          simulation
-            .nodes(graph.nodes)
-            .on("tick", ticked);
+              return scale(d.degree);
+            };
 
-          // TODO: better forces?
-          simulation.force("link")
-            .links(graph.links)
-            .distance(0.25*height)
-            .strength(function(link)
-              {
-                return link.weight / maxWeight;
-              }
-            );
+            var node = svg.append("g")
+              .attr("class", "nodes")
+              .selectAll("circle")
+              .data(graph.nodes)
+              .enter()
+                .append("circle")
+                  .attr("r", getRadius)
+                  .attr("fill", function(d) { return 'black'; })
+                  .call(d3.drag()
+                      .on("start", dragstarted)
+                      .on("drag",  dragged)
+                      .on("end",   dragended)
+                  );
 
-          simulation.force("collide")
-            .radius(getRadius);
+            node.append("title")
+              .text(function(d) { return d.id; });
 
-          function ticked() {
-            link
-              .attr("x1", function(d) { return d.source.x; })
-              .attr("y1", function(d) { return d.source.y; })
-              .attr("x2", function(d) { return d.target.x; })
-              .attr("y2", function(d) { return d.target.y; });
+            var label = svg.append("g")
+              .attr("class", "labels")
+              .selectAll("text")
+              .data(graph.nodes)
+              .enter()
+                .append("text")
+                  .attr("dx", "1em")
+                  .attr("dy", ".35em")
+                  .attr("stroke", "white")
+                  .attr("stroke-width", "0.1")
+                  .text(function(d) { return d.id; });
 
-            node
-              .attr("cx", function(d) { return d.x; })
-              .attr("cy", function(d) { return d.y; });
+            simulation
+              .nodes(graph.nodes)
+              .on("tick", ticked);
 
-            label.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; } );
+            // TODO: better forces?
+            simulation.force("link")
+              .links(graph.links)
+              .distance(0.25*height)
+              .strength(function(link)
+                {
+                  return link.weight / maxWeight;
+                }
+              );
+
+            simulation.force("collide")
+              .radius(getRadius);
+
+            function ticked() {
+              link
+                .attr("x1", function(d) { return d.source.x; })
+                .attr("y1", function(d) { return d.source.y; })
+                .attr("x2", function(d) { return d.target.x; })
+                .attr("y2", function(d) { return d.target.y; });
+
+              node
+                .attr("cx", function(d) { return d.x; })
+                .attr("cy", function(d) { return d.y; });
+
+              label.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; } );
+            }
           }
+        );
+
+        function dragstarted(d)
+        {
+          if (!d3.event.active)
+            simulation.alphaTarget(0.3).restart();
+
+          d.fx = d.x;
+          d.fy = d.y;
+        }
+
+        function dragged(d)
+        {
+          d.fx = d3.event.x;
+          d.fy = d3.event.y;
+        }
+
+        function dragended(d)
+        {
+          if (!d3.event.active)
+            simulation.alphaTarget(0);
+
+          d.fx = null;
+          d.fy = null;
+        }
+      }
+
+      d3.select("#play").on("change",
+        function() {
+          // Remove old data completely and start with a fresh
+          // initialization of the page
+          d3.selectAll("svg > *").remove();
+          initialize(this.value);
         }
       );
 
-      function dragstarted(d)
-      {
-        if (!d3.event.active)
-          simulation.alphaTarget(0.3).restart();
-
-        d.fx = d.x;
-        d.fy = d.y;
-      }
-
-      function dragged(d)
-      {
-        d.fx = d3.event.x;
-        d.fy = d3.event.y;
-      }
-
-      function dragended(d)
-      {
-        if (!d3.event.active)
-          simulation.alphaTarget(0);
-
-        d.fx = null;
-        d.fy = null;
-      }
-
+      initialize(document.getElementById("play").value);
     </script>
   </body>
 </html>
