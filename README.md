@@ -42,7 +42,7 @@ networks will be overwritten in the current folder.
 
 # Demo
 
-A [demo](https://submanifold.github.io/Shakespeare) of all the extracted
+A [demo](https://pseudomanifold.github.io/Shakespeare) of all the extracted
 networks is available. The demo uses a simple force-directed graph
 layout to visualize the network.
 
