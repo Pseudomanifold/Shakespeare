@@ -4,7 +4,7 @@ from a tagged corpus of Shakespeare's plays.
 The networks have been analysed using *persistent homology*, a technique
 from computational topology. Please refer to our paper
 
-[*Shall I compare thee to a network?* &ndash; Visualizing the Topological Structure of Shakespeare's Plays](http://bastian.rieck.ru/research/Vis2016.pdf)
+[*Shall I compare thee to a network?* &ndash; Visualizing the Topological Structure of Shakespeare's Plays](http://bastian.rieck.me/research/Vis2016.pdf)
 
 for more details.
 
